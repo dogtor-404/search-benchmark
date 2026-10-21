@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>多语种搜索：次数、扣分与逐次返回</title>
+<style>
+:root{color-scheme:light dark;font-family:system-ui,sans-serif;color:CanvasText;background:Canvas}
+body{max-width:1200px;margin:0 auto;padding:24px}h1{font-size:1.6rem}h2{margin-top:2rem}p{line-height:1.6}
+.scroll{overflow:auto}table{border-collapse:collapse;width:100%;font-size:.92rem}th,td{text-align:right;padding:.55rem;border-bottom:1px solid color-mix(in srgb,CanvasText 18%,Canvas)}th:first-child,td:first-child{text-align:left}th{white-space:nowrap}
+.controls{display:flex;gap:1rem;flex-wrap:wrap;align-items:end;margin:1rem 0}.controls label{display:flex;flex-direction:column;gap:.35rem}input,select,button{font:inherit;padding:.5rem;max-width:100%;color:CanvasText;background:Canvas;border:1px solid color-mix(in srgb,CanvasText 35%,Canvas);border-radius:.3rem}input{min-width:12rem}button{cursor:pointer}button:disabled{opacity:.5;cursor:default}
+details.question{border-bottom:1px solid color-mix(in srgb,CanvasText 20%,Canvas);padding:1rem 0}summary{cursor:pointer;line-height:1.6;overflow-wrap:anywhere}summary strong{font-weight:650}details.search{margin:.8rem 0 .8rem 1rem}pre{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.5;font-family:inherit;font-size:.9rem}section.answer{padding:.5rem 0}section.answer h3{font-size:1rem;margin:.7rem 0 .3rem}.meta{font-variant-numeric:tabular-nums}.small{font-size:.9rem;opacity:.8}.pager{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:1rem 0}
+@media(max-width:600px){body{padding:14px}h1{font-size:1.3rem}.controls label,.controls input,.controls select{width:100%;box-sizing:border-box}details.search{margin-left:.4rem}}
+</style>
+</head>
+<body>
+<h1>搜索次数、扣分与逐次返回</h1>
+<p id="status" class="meta"></p>
+<p>答对基础 100 分，首次搜索不扣，第二次起每次扣 5 分；答错 0 分。待核给分数范围。正确率与扣分后得分同时保留。次数指模型可见的实际搜索调用，未执行的超限拒绝不计入次数。</p>
+<h2>各组总览</h2>
+<p class="small">阶段性数据按已评分样本算分，各组未齐时不能作最终排名。下方筛选只影响逐题明细。</p>
+<div class="scroll"><table><thead><tr><th scope="col">组别</th><th scope="col">作答/评分</th><th scope="col">正确率范围%</th><th scope="col">扣分后均分</th><th scope="col">平均搜索</th><th scope="col">0/1/2/3/4/5次题数</th><th scope="col">待评分/待核</th></tr></thead><tbody id="overview"></tbody></table></div>
+<h2>逐题展开查询与返回</h2>
+<div class="controls">
+<label for="group">组别<select id="group"><option value="">全部组别</option></select></label>
+<label for="language">题目语言<select id="language"><option value="">全部语言</option><option value="ja">日语</option><option value="ko">韩语</option><option value="th">泰语</option><option value="id">印尼语</option><option value="ru">俄语</option><option value="es">西班牙语</option></select></label>
+<label for="calls">搜索次数<select id="calls"><option value="0">全部次数</option><option value="1">至少1次</option><option value="2" selected>至少2次</option><option value="3">至少3次</option><option value="4">至少4次</option><option value="5">5次</option></select></label>
+<label for="verdict">判定<select id="verdict"><option value="">全部判定</option><option value="correct">正确</option><option value="incorrect">错误</option><option value="uncertain">待核</option><option value="ungraded">待评分</option></select></label>
+<label for="keyword">题号或题目<input id="keyword" type="search" placeholder="例如 msqa-JA-60"></label>
+</div>
+<div class="pager"><button id="previous" type="button">上一页</button><span id="page-info" aria-live="polite"></span><button id="next" type="button">下一页</button></div>
+<main id="records"></main>
+<p class="small">这里展示搜索实际返回的文本和摘要，未抓取原网页。文本块之间以换行展示，原始结构见每题的原始输出。搜索服务内部不可见的改写或请求次数未被推算成零。</p>
+<script id="dataset" type="application/json">/*__BENCHMARK_DATA__*/</script>
+<script>
+"use strict";
+const data=JSON.parse(document.getElementById("dataset").textContent);
+const byId=id=>document.getElementById(id);
+const number=x=>Number(x).toFixed(2);
+const range=x=>x===null?"—":x[0]===x[1]?number(x[0]):number(x[0])+"–"+number(x[1]);
+const label={correct:"正确",incorrect:"错误",uncertain:"待核",ungraded:"待评分"};
+byId("status").textContent=(data.summary.complete?"完整结果":"阶段性快照")+" · 作答 "+data.summary.answer_records+"/1200 · 评分 "+data.summary.grade_records+"/1200 · "+data.summary.generated_at;
+for(const [group,row] of Object.entries(data.summary.groups)){
+ const option=document.createElement("option");option.value=group;option.textContent=row.name;byId("group").append(option);
+ const tr=document.createElement("tr");
+ const cells=[row.name,row.answered+"/"+row.graded,range(row.accuracy_bounds_on_graded),range(row.adjusted_score_bounds_on_graded),row.mean_search_calls===null?"—":number(row.mean_search_calls),[0,1,2,3,4,5].map(n=>row.search_histogram[n]).join(" / "),row.ungraded+" / "+row.uncertain];
+ for(const value of cells){const cell=document.createElement("td");cell.textContent=value;tr.append(cell)}
+ byId("overview").append(tr);
+}
+let page=0;const pageSize=20;
+function addText(parent,tag,text,className){const node=document.createElement(tag);node.textContent=text;if(className)node.className=className;parent.append(node);return node}
+function render(){
+ const group=byId("group").value,language=byId("language").value,minCalls=Number(byId("calls").value),verdict=byId("verdict").value,keyword=byId("keyword").value.trim().toLocaleLowerCase();
+ const selected=data.records.filter(r=>(!group||r.group===group)&&(!language||r.lang===language)&&r.search_calls>=minCalls&&(!verdict||(r.verdict||"ungraded")===verdict)&&(!keyword||(r.question_id+" "+r.question).toLocaleLowerCase().includes(keyword)));
+ const pages=Math.max(1,Math.ceil(selected.length/pageSize));page=Math.max(0,Math.min(page,pages-1));byId("records").replaceChildren();byId("page-info").textContent="共 "+selected.length+" 份 · 第 "+(page+1)+" / "+pages+" 页";byId("previous").disabled=page===0;byId("next").disabled=page===pages-1;
+ for(const r of selected.slice(page*pageSize,(page+1)*pageSize)){
+  const outer=document.createElement("details");outer.className="question";
+  const score=r.adjusted_score===null?(r.verdict==="uncertain"?"0–"+r.possible_correct_score+"分":"待评分"):r.adjusted_score+"分";
+  addText(outer,"summary",r.group_name+" · "+r.question_id+" · 搜索 "+r.search_calls+" 次 · "+label[r.verdict||"ungraded"]+" · "+score);
+  addText(outer,"p",r.question);
+  const answer=document.createElement("section");answer.className="answer";addText(answer,"h3","标准答案");addText(answer,"pre",r.reference_answer);addText(answer,"h3","模型回答");addText(answer,"pre",r.candidate_answer);outer.append(answer);
+  addText(outer,"p","实际搜索 "+r.search_calls+" 次；模型尝试 "+r.search_attempts+" 次；超限拒绝 "+r.budget_denials+" 次；参数拒绝 "+r.argument_rejections+" 次。","small");
+  for(const call of r.searches){
+   const detail=document.createElement("details");detail.className="search";addText(detail,"summary","第 "+call.ordinal+" 次 · "+call.query+" · 返回 "+number(call.returned_utf8_bytes/1000)+" KB");addText(detail,"pre",call.returned_text);outer.append(detail);
+  }
+  if(!r.search_calls)addText(outer,"p","该题没有调用搜索。");
+  const link=document.createElement("a");link.textContent="查看本题原始输出";link.setAttribute("href","../"+r.raw);outer.append(link);byId("records").append(outer);
+ }
+ if(!selected.length)addText(byId("records"),"p","没有符合当前筛选条件的答案。");
+}
+for(const id of ["group","language","calls","verdict"])byId(id).addEventListener("change",()=>{page=0;render()});
+byId("keyword").addEventListener("input",()=>{page=0;render()});byId("previous").addEventListener("click",()=>{page--;render()});byId("next").addEventListener("click",()=>{page++;render()});render();
+</script>
+</body>
+</html>

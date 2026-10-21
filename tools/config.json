@@ -1,0 +1,89 @@
+{
+  "seed": 20261020,
+  "search_prompt": "用搜索回答下面的问题。给出简短的答案和你依据的网址。最多搜 5 次。",
+  "baseline_prompt": "不能上网，凭你知道的回答；不知道就说不知道。",
+  "search_price_usd": 0.00075,
+  "groups": {
+    "0": {
+      "model": "claude-sonnet-5-5",
+      "provider": "claude",
+      "search": "none"
+    },
+    "A": {
+      "model": "claude-sonnet-5-5",
+      "provider": "claude",
+      "search": "claude"
+    },
+    "B": {
+      "model": "claude-sonnet-5-5",
+      "provider": "claude",
+      "search": "deepseek"
+    },
+    "D0": {
+      "model": "deepseek-flash",
+      "provider": "deepseek",
+      "search": "none"
+    },
+    "D2": {
+      "model": "deepseek-flash",
+      "provider": "deepseek",
+      "search": "deepseek"
+    },
+    "0_prime": {
+      "model": "claude-opus-5-5",
+      "provider": "claude",
+      "search": "none"
+    },
+    "A_prime": {
+      "model": "claude-opus-5-5",
+      "provider": "claude",
+      "search": "claude"
+    },
+    "B_prime": {
+      "model": "claude-opus-5-5",
+      "provider": "claude",
+      "search": "deepseek"
+    },
+    "D0_prime": {
+      "model": "deepseek-v4-pro",
+      "provider": "deepseek",
+      "search": "none"
+    },
+    "D2_prime": {
+      "model": "deepseek-v4-pro",
+      "provider": "deepseek",
+      "search": "deepseek"
+    }
+  },
+  "judges": {
+    "claude": "claude-sonnet-5-5",
+    "deepseek": "deepseek-v4-pro"
+  },
+  "model_versions": {
+    "claude-sonnet-5-5": "claude-sonnet-5-5 (2026-09-28)",
+    "claude-opus-5-5": "claude-opus-5-5 (2026-09-22)",
+    "deepseek-flash": "DeepSeek-V4.1-Flash-1017",
+    "deepseek-v4-pro": "DeepSeek-V4-Pro-0813 (待运行前确认服务端路由)"
+  },
+  "knowledge_cutoffs": {
+    "claude-sonnet-5-5": "2026-06-30",
+    "claude-opus-5-5": "2026-06-30",
+    "deepseek-flash": null,
+    "deepseek-v4-pro": null
+  },
+  "version_sources": {
+    "claude-sonnet-5-5": [
+      "https://platform.claude.com/docs/en/models/sonnet-5-5/overview"
+    ],
+    "claude-opus-5-5": [
+      "https://platform.claude.com/docs/en/models/opus-5-5/overview"
+    ],
+    "deepseek-flash": [
+      "https://api-docs.deepseek.com/updates/"
+    ],
+    "deepseek-v4-pro": [
+      "https://api-docs.deepseek.com/news/news260813/",
+      "https://api-docs.deepseek.com/updates/"
+    ]
+  }
+}

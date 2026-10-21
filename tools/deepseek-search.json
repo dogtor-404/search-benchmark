@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "deepseek-search": {
+      "command": "python3",
+      "args": [
+        "tools/deepseek_search.py"
+      ]
+    }
+  }
+}

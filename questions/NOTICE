@@ -1,0 +1,39 @@
+数据出处与原许可（2026-10-20）
+
+代码见根目录 MIT LICENSE。题库组合依项目方案标注 CC BY-NC-SA 4.0，
+仅限贡献者可授权部分；网页摘录、商标及其他第三方材料不自动重新授权。
+
+1. SimpleQA Verified — Google DeepMind / google/simpleqa-verified
+https://huggingface.co/datasets/google/simpleqa-verified
+原许可 MIT；完整上游说明见 upstream/simpleqa-README.md。
+Revision: 0dc97e0d28d8233463e005cdc4475cc2a13ba2dc
+
+2. Chinese SimpleQA — OpenStellarTeam（淘天团队）
+https://huggingface.co/datasets/OpenStellarTeam/Chinese-SimpleQA
+原许可 CC BY-NC-SA 4.0；说明见 upstream/chinese-README.md。
+Revision: 336305fc5f1da8184e3f70aff4473408418383a0
+本项目公开策略为隐藏Chinese SimpleQA题干，保留答案、别名、作答与裁决；这不是对上游许可证新增限制。原作者署名及非商业、相同方式共享条件保留。
+
+3. FRAMES — Google
+https://huggingface.co/datasets/google/frames-benchmark
+原许可 Apache-2.0；上游说明见 upstream/frames-README.md。
+Revision: 58d9fb6330f3ab1316d1eca12e5e8ef23dcc22ef
+
+本机题库保留原题和答案；公开副本隐藏Chinese SimpleQA题干，并提供固定上游版本与SHA256校验的本地恢复脚本。其他改动包括固定抽样、排除/补抽、URL清洗、补充等价别名和来源。
+修改与核实记录见 review.jsonl；版本、哈希见 sources.json。
+
+4. 自有题 — 本项目依据已发布视频研究笔记另写。
+本机保留研究笔记位置、视频链接和发布证据；公开副本隐去这些来源字段，没有使用未发布选题。
+
+5. 新闻题 — 本项目依据 2026 年 10 月公开公告另写。
+每题保留事件日期与来源。新闻事实不是对其网页表达的独占权利声明。
+
+
+
+
+6. MSQA — M-A-P / ByteDance Seed 等（仅用于独立第二轮）
+https://huggingface.co/datasets/m-a-p/MSQA
+https://arxiv.org/html/2607.00724v3
+原许可 CC BY 4.0。Revision: 3e33ce30d17462fe4513d649eec714cce65053cf
+固定原始文件SHA256: 9b2240d76482fe63889510778f71dc90a65d54e20b1a0eadc04147fe0524347e
+上游README见upstream/msqa-README.md；第二轮题库multilingual.jsonl经来源与题意审核生成，保留原题原答案、按序筛选120题，逐题剔除与复核见multilingual-review.jsonl。

@@ -1,0 +1,32 @@
+{
+  "seed": 20261020,
+  "datasets": [
+    {
+      "set": "simpleqa_verified",
+      "repository": "google/simpleqa-verified",
+      "revision": "0dc97e0d28d8233463e005cdc4475cc2a13ba2dc",
+      "url": "https://huggingface.co/datasets/google/simpleqa-verified/resolve/0dc97e0d28d8233463e005cdc4475cc2a13ba2dc/simpleqa_verified.csv",
+      "sha256": "b5db21155444763543fe31b67e7cf28ce2bb225742a5b889421c5f182e2f92f5",
+      "total_rows": 1000,
+      "selected": 25
+    },
+    {
+      "set": "chinese_simpleqa",
+      "repository": "OpenStellarTeam/Chinese-SimpleQA",
+      "revision": "336305fc5f1da8184e3f70aff4473408418383a0",
+      "url": "https://huggingface.co/datasets/OpenStellarTeam/Chinese-SimpleQA/resolve/336305fc5f1da8184e3f70aff4473408418383a0/chinese_simpleqa.jsonl",
+      "sha256": "c626ca34be9bdd2203a45a70af9fed177d48d9f12ba10ebe9bf10f0c6b1eb484",
+      "total_rows": 3000,
+      "selected": 25
+    },
+    {
+      "set": "frames",
+      "repository": "google/frames-benchmark",
+      "revision": "58d9fb6330f3ab1316d1eca12e5e8ef23dcc22ef",
+      "url": "https://huggingface.co/datasets/google/frames-benchmark/resolve/58d9fb6330f3ab1316d1eca12e5e8ef23dcc22ef/test.tsv",
+      "sha256": "4255093c93b595b5b04c7c8dde290b48ec87d72ca0fb0b760d9dd02740d669ff",
+      "total_rows": 824,
+      "selected": 15
+    }
+  ]
+}

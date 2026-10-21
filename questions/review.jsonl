@@ -1,0 +1,75 @@
+{"id": "simpleqa_verified-2608", "status": "rejected", "note": "来源正文同时出现 more than 137 与 more than 157，原题要求唯一总数，存在冲突。", "checked_at": "2026-10-20"}
+{"id": "simpleqa_verified-1086", "status": "rejected", "note": "认证级别可能升级且题目没有时间锚点；原维基 URL 带不平衡括号已修复，但不保留时效不明的认证题。", "checked_at": "2026-10-20"}
+{"id": "chinese_simpleqa-2c34c29ebfed4a4c86de6b52ae812e4f", "status": "rejected", "note": "来源只能证明汉代设邸，不能无歧义证明邸报最早出现于汉代。", "checked_at": "2026-10-20"}
+{"id": "chinese_simpleqa-d89680b7ed2247a59b88be4a3606659e", "status": "rejected", "note": "题干将当事人自称的美国救援职务当事实，来源明确其加拿大身份且理论受质疑。", "checked_at": "2026-10-20"}
+{"id": "chinese_simpleqa-961faba07cd846e2b2ff00a5882aa1b2", "status": "rejected", "note": "相同引文同时授予 Hennessy 和 Patterson，单一人名标准答案不唯一。", "checked_at": "2026-10-20"}
+{"id": "chinese_simpleqa-df1b7a588c224457aaa3b4420b634a26", "status": "rejected", "note": "第一部汉译佛经是传统说法，成书和翻译史有争议。", "checked_at": "2026-10-20"}
+{"id": "chinese_simpleqa-19bc3685b09e47e9a1b29daea5c014b0", "status": "rejected", "note": "武术谱系夹有传说，现有页面无法按确定史实核实。", "checked_at": "2026-10-20"}
+{"id": "frames-422", "status": "rejected", "note": "1976 版预算现为 2300–2400 万美元区间；与 2.07 亿相减为 1.83–1.84 亿，不是唯一答案。", "checked_at": "2026-10-20"}
+{"id": "frames-176", "status": "rejected", "note": "来源已更新东帝汶 2020 年 TFR 为 3.01；与日本 1.34 的差为 1.67，不再支持原答案 1.92。", "checked_at": "2026-10-20"}
+{"id": "simpleqa_verified-2151", "status": "verified", "note": "维基正文明确 rally 中 crowd sang I Want to Hold Your Hand。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-3218", "status": "verified", "note": "Baseball Almanac 的 1903 初登场表：Ed Hug / Brooklyn Superbas / 07-06-1903。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1753", "status": "verified", "note": "IMU 历史任期表 2011–2014，副主席包含 Marcelo Viana。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1221", "status": "verified", "note": "世界锦标赛男子少年组排名表：Joeri Adams 41:18.0。", "checked_at": "2026-10-20", "aliases": ["41:18", "41m18s"], "extra_source_urls": []}
+{"id": "simpleqa_verified-2116", "status": "verified", "note": "AAG 讣告正文：1946 年在 University of Wisconsin 获硕士。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1419", "status": "verified", "note": "V. M. Goldschmidt Award 历年表 2015 Miriam Kastner。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1674", "status": "verified", "note": "Richard Serra 正文：1970 年两件最早户外雕塑装置在东京 Ueno Park。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-829", "status": "verified", "note": "Express Tribune amp 版本日期 2016-04-12，并与医院 2016-04-11 原始公告核对。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": ["https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope?amp=1", "https://hospitals.aku.edu/pakistan/AboutUs/News/Pages/advanced-options-in-brain-surgery.aspx"]}
+{"id": "simpleqa_verified-2668", "status": "verified", "note": "Norman Rockwell Museum 藏品及作品说明确认 Look 首项任务。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1353", "status": "verified", "note": "页面历史正文明确 first palazzo in Rome erected from ground up in new Renaissance style。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-3137", "status": "verified", "note": "ABC 活动手册演讲人简介：2016-09 获 Theology 博士。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-2209", "status": "verified", "note": "ASEM 原会议页日期 19 October - 20 October 2009；问开始日。", "checked_at": "2026-10-20", "aliases": ["19 October 2009", "2009-10-19"], "extra_source_urls": []}
+{"id": "simpleqa_verified-151", "status": "verified", "note": "Harees 条目 Zanzibari 节：called boko boko。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-3515", "status": "verified", "note": "Canadian Encyclopedia 正文：refused lieutenant governorship of Ontario (1875)。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-716", "status": "verified", "note": "Cambridge 词条：equilux 是日夜恰好等长的日期。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-185", "status": "verified", "note": "奖项表列 Padmabhushan for civil services - 2013。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-706", "status": "verified", "note": "芝大杂志人物简介：graduate of Duke University；MA、PhD 在 Stanford，题干问 BA。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-2095", "status": "verified", "note": "正文明确 four occasions：1990、1997、2002、2013；题目截止 2022。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-2180", "status": "verified", "note": "Gottschalk 正文记录 1869-11-24 在 Teatro Lyrico Fluminense 演出时倒下。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1212", "status": "verified", "note": "Manyazybash 正文 population was 30 as of 2010。", "checked_at": "2026-10-20", "aliases": ["30"], "extra_source_urls": []}
+{"id": "simpleqa_verified-3667", "status": "verified", "note": "Johnny Damon 早年经历：played in South Orange Little League as a child。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-813", "status": "verified", "note": "Phanas 条目明确 all three races: stadion, Diaulos, Hoplitodromos；题问另外两项。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-3011", "status": "verified", "note": "Reba 官方专辑页：currently certified platinum by the RIAA。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "simpleqa_verified-1129", "status": "verified", "note": "TCG Yavuz (F240) 规格表 Length 110.50 m，保留原容差。", "checked_at": "2026-10-20", "aliases": ["110.5 m"], "extra_source_urls": []}
+{"id": "simpleqa_verified-3173", "status": "verified", "note": "第一季第十集 Witchbomb 回顾结尾明确 Willa Collar 仍活着。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-80297db596eb4d8fb4b424e8e50b37a23", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": ["人类统计或人口学比较纲要", "Éléments de statistique humaine ou démographie comparée"], "extra_source_urls": ["https://bkso.baidu.com/item/%E4%BA%BA%E5%8F%A3%E5%AD%A6/3457007?fromModule=lemma_inlink"]}
+{"id": "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-64a8963506a241fcbe6eb050ed94698d", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-0263fcd74bad4fb6b9811c2540e50860", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-5444d485297d4543bf8d66410d93f548", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-a9a9238c15294bfba397016c122f7479", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": ["John DeLamater", "约翰·德拉马特", "約翰·D·德拉馬特"], "extra_source_urls": []}
+{"id": "chinese_simpleqa-1373e5c4d426417396e5276dec689475", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-509bdfb6311d4592922300868340a953", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": ["Albert Einstein", "爱因斯坦", "愛因斯坦"], "extra_source_urls": []}
+{"id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": ["https://www.tcmjc.com/doi/pdf/318369B7C149456BAADFE936B559F3CA"]}
+{"id": "chinese_simpleqa-895c7ef8d236430a99844acfee258323", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-419bdcaba9f54bacb8e1323cbfc665d9", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-889bed80a63e481d915d9bd3851a518e", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-2268a30af11c4effa809af8938ffe230", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": ["C₇H₁₄N₄O₃", "C 7 H 14 N 4 O 3"], "extra_source_urls": []}
+{"id": "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": ["A/m", "安培每米", "安培/米"], "extra_source_urls": ["https://clxysyjxzx.xsyu.edu.cn/info/1101/1278.htm"]}
+{"id": "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935", "status": "verified", "note": "已读原来源正文，核对题干条件和标准答案；包含中英译名、繁简写法和年份/单位等价表达。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-291", "status": "verified", "note": "Marilyn Diptych 来源于 Niagara 宣传照；Niagara 演员/情节明确 Monroe 饰 Rose Loomis。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-564", "status": "verified", "note": "Squeeze 歌曲发行 1980；E.T. 院线发行 1982；差 2 年。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-513", "status": "verified", "note": "Elizabeth II 在位 1952–2022，约 70 年；Caesar 生卒公元前 100–44 年，55 岁；前者较长。", "checked_at": "2026-10-20", "aliases": ["Elizabeth II", "Queen Elizabeth II"], "extra_source_urls": []}
+{"id": "frames-732", "status": "verified", "note": "Illinois 消防船沉没/打捞事件在 1908 年；州的入联年 1818。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-39", "status": "verified", "note": "Simone Arianne Biles Owens 和 Kathleen Genevieve Ledecky 的全名核对，时间锚点 2024-07-01 保留。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-295", "status": "rejected", "note": "题干把渐进的匈人入侵压成精确公元 500 年；当前史料只支持约 460–500 年的战争范围，按题干日期无法唯一核实。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-808", "status": "verified", "note": "Woolf 1882-01-25 至 1941-03-28；Joyce 1882-02-02 至 1941-01-13；寿命差 82 天。", "checked_at": "2026-10-20", "aliases": ["Virginia Woolf, 82 days longer than James Joyce"], "extra_source_urls": []}
+{"id": "frames-598", "status": "verified", "note": "Amy Winehouse 2008 年获 Song of the Year 并出席 Mandela 90 岁音乐会；Nelson 本名 Rolihlahla 含 o,i,a,a 四个元音。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-520", "status": "verified", "note": "McConaughey 2014 最佳男主角；2009 冠军 Steelers；Pittsburgh 2020 人口 302971。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-394", "status": "verified", "note": "三篇页面 launch mass 分别 49735、49915、44069 kg；均值 47906.333，四舍五入 47906。", "checked_at": "2026-10-20", "aliases": ["47906 kg", "47,906 kilograms"], "extra_source_urls": []}
+{"id": "frames-475", "status": "verified", "note": "Hannah Arendt 安葬 Bard College；学院校史 Botstein 1975 起任职且为最长任期；保留 as of 2020。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-396", "status": "verified", "note": "物种名 Ambystoma texanum；Small-mouth salamander 条目指加拿大唯一种群 Pelee Island，2024 濒危条件保留。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-656", "status": "verified", "note": "von Tell 页面 2000 年 Toyota 第六；Rwanda 赛事历年冠军 2000 Charles Muhanji / Subaru Impreza WRX。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-137", "status": "verified", "note": "Mexico 的 declared 1821；美国 Declaration 1776；年份差 45。", "checked_at": "2026-10-20", "aliases": ["45", "45 years"], "extra_source_urls": []}
+{"id": "frames-366", "status": "verified", "note": "Power 采样 King Crimson 的 21st Century Schizoid Man；乐队领袖 Robert Fripp 生于 1946。", "checked_at": "2026-10-20", "aliases": [], "extra_source_urls": []}
+{"id": "frames-548", "status": "verified", "checked_at": "2026-10-20", "aliases": ["130 years"], "note": "Anton Grylewicz 生于 1885-01-08；第二部 SpongeBob 电影 2015-02-06 院线上映，整年差 130。"}

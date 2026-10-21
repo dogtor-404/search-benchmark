@@ -1,0 +1,100 @@
+{
+  "answer": "COBE 于 **1989 年 11 月 18 日**发射(UTC 14:34),发射地是加利福尼亚州范登堡空军基地,运载火箭为 Delta 5920-8。\n\nSources:\n- [Cosmic Background Explorer – Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer)\n- [NASA Science: COBE](https://science.nasa.gov/mission/cobe...)\n- [NASA GSFC Mather FAQ](https://asd.gsfc.nasa.gov/archive/mather/faq)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.005,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0114716,
+      "inputTokens": 12691,
+      "maxOutputTokens": 128000,
+      "outputTokens": 405,
+      "provider": "firstParty",
+      "thinkingTokens": 51,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2691,
+      "cacheReadInputTokens": 6745,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0143865,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 294,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-024",
+  "raw": "jsonl/A/custom-024.jsonl",
+  "reported_cost_usd": 0.0258581,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "COBE Cosmic Background Explorer launch date NASA",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PYBFLVerL2mvbYrEVB9Hfh"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2691,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2691,
+    "cache_read_input_tokens": 6745,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 848,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 848,
+        "cache_read_input_tokens": 4294,
+        "input_tokens": 2,
+        "output_tokens": 203,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 294,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

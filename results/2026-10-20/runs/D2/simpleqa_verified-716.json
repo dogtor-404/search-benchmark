@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：equilux（等昼日 / “等光日”）**\n\n这个词由拉丁语 *equi-*（相等）和 *lux*（光）构成，指某个地点白昼与黑夜恰好各为 12 小时的那一天。它之所以需要单独造词，是因为春分或秋分当天，由于太阳有视直径、大气折射等原因，白昼实际比黑夜多出几分钟；equilux 通常出现在春分前几天、秋分后几天，具体日期随纬度变化。该词最早可追溯到 1986 年的一则 Usenet 帖子，21 世纪后才在媒体和天文普及中广泛使用。\n\n依据：\n- https://www.timeanddate.com/astronomy/equilux.html\n- https://www.wordorigins.org/big-list-entries/equinox-equilux\n- https://www.bbc.com/weather/weather-watcher/37434406",
+  "budget_denials": [],
+  "elapsed_seconds": 6.429,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.069256,
+      "inputTokens": 14146,
+      "maxOutputTokens": 32000,
+      "outputTokens": 608,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-716",
+  "raw": "jsonl/D2/simpleqa_verified-716.jsonl",
+  "reported_cost_usd": 0.069256,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.773,
+      "query": "neologism date day and night exactly the same equilux",
+      "results": [
+        {
+          "date": "2024-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "equinox / equilux",
+          "url": "https://wordorigins-org.ghost.io/equinox-equilux/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Intelligent-Internet/II-Search-Benchmark-Details · Datasets at Hugging Face - 9 April 2018",
+          "url": "https://huggingface.co/datasets/Intelligent-Internet/II-Search-Benchmark-Details/viewer/default/train?p=7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "équiluxe",
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26584145/equiluxe"
+        },
+        {
+          "date": "2017-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "And I do, hey, hey, hey, and I do",
+          "url": "https://www.stage.bbc.co.uk/blogs/simonmayo/entries/1e2e4f63-14cd-425a-a1e7-929302ebc477#comments"
+        },
+        {
+          "date": "2016-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or equilux? - Equinox or equilux?",
+          "url": "https://www.bbc.com/weather/weather-watcher/37434406#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Equilux - What Is the Equilux?",
+          "url": "https://www.timeanddate.com/astronomy/equilux.html?__cf_chl_f_tk=mEYsPJrDWpYhG_PBjdTsHjhovjpQ2MxJYGqMt2hZQvs-1783393329-1.0.1.1-_HB1Q.Ygs5vrkwYP5zLAMG9jUy775wgLrQXDeA8BzMc#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equilux — definition and meaning | FreeDict",
+          "url": "https://freedict.com/word/equilux"
+        },
+        {
+          "date": "2025-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equilux?",
+          "url": "https://schoepffer.substack.com/p/equilux"
+        },
+        {
+          "date": "2023-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox vs equilux: When you’ll see equal day and night",
+          "url": "https://www.wkrn.com/news/tennessee-news/equinox-vs-equilux-what-you-need-to-know/"
+        },
+        {
+          "date": "2024-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "equinox / equilux — Wordorigins.org",
+          "url": "https://www.wordorigins.org/big-list-entries/equinox-equilux"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6878,
+      "query": "equilux word 21st century day night equal length",
+      "results": [
+        {
+          "date": "2017-03-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or Equilux? - ByElizabeth Rizzini",
+          "url": "https://www.bbc.co.uk/weather/weather-watcher/39319777#1"
+        },
+        {
+          "date": "2019-03-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox v equilux - what's the difference?",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-47660337"
+        },
+        {
+          "date": "2016-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or equilux? - Equinox or equilux?",
+          "url": "https://www.bbc.com/weather/weather-watcher/37434406#1"
+        },
+        {
+          "date": "2017-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox, solstice and equilux: Why are nights and days shorter over the year? - Equinox, solstice and equilux: Why are nights and days shorter over the year?",
+          "url": "https://www.bbc.co.uk/newsround/39305266#1"
+        },
+        {
+          "date": "2026-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Equilux: When Day and Night Are Finally Equal | Information Radio - MB | On Demand | CBC Listen",
+          "url": "https://www.cbc.ca/listen/live-radio/1-29-information-radio-mb/clip/16239528-the-equilux-when-day-night-are-finally-equal"
+        },
+        {
+          "date": "2018-03-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spring Equinox 2018: when is the first day of UK Spring?",
+          "url": "https://article-swipe.standard.co.uk/news/uk/spring-equinox-2018-when-is-the-first-day-of-uk-spring-a3794101.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10 Facts about the September Equinox - 10 Facts About the September Equinox",
+          "url": "https://www.timeanddate.com/calendar/facts-about-september-equinox.html?ct=t(Marilyn_s_POTD_August_31_This_Old_House8_31_2016)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Equilux - What Is the Equilux?",
+          "url": "https://www.timeanddate.com/astronomy/equilux.html?__cf_chl_f_tk=mEYsPJrDWpYhG_PBjdTsHjhovjpQ2MxJYGqMt2hZQvs-1783393329-1.0.1.1-_HB1Q.Ygs5vrkwYP5zLAMG9jUy775wgLrQXDeA8BzMc#1"
+        },
+        {
+          "date": "2025-03-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Met Eireann forecast ‘equilux’ as ‘rare weather event sight’ hits Ireland",
+          "url": "https://www.galwaybeo.ie/news/galway-news/met-eireann-forecast-equilux-rare-10035442?int_source=mantis_rec&int_medium=web&int_campaign=more_like_this_comments#comments-wrapper"
+        },
+        {
+          "date": "2016-09-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Let's talk about science: Equinox vs. equilux - Let's talk about science: Equinox vs. equilux",
+          "url": "https://www.post-gazette.com/life/my-generation/2016/09/15/Let-s-talk-about-science-Equinox-vs-equilux/stories/201609150030?pgpageversion=pgevoke#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14146,
+    "iterations": [],
+    "output_tokens": 608,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

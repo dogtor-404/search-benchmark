@@ -1,0 +1,223 @@
+{
+  "answer": "**Phil Belanger（菲尔·贝朗热）**\n\n依据：Boing Boing 2005 年 11 月 8 日的文章《WiFi isn't short for \"Wireless Fidelity\"》收录了他的来信，其中自述是 Wireless Ethernet Compatibility Alliance（WECA，即后来的 Wi-Fi Alliance）创始成员，主持了 \"Wi-Fi\" 这一名称的选定；Wi-Fi Alliance 官网也确认他是 \"WECA's first chairman\"。\n\n- https://web.archive.org/web/20161212211011/http://boingboing.net/2005/11/08/wifi-isnt-short-for.html\n- https://www.wi-fi.org/zh-hant/beacon/jeff-abramowitz/wi-fi-alliance-then-and-now",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.222,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.076348,
+      "inputTokens": 16159,
+      "maxOutputTokens": 32000,
+      "outputTokens": 560,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-005",
+  "raw": "jsonl/D2_prime/custom-005.jsonl",
+  "reported_cost_usd": 0.076348,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7171,
+      "query": "2005 Boing Boing letter WECA first chairman Wi-Fi not abbreviation",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Origins of \"Wi-Fi\" - Origins of \"Wi-Fi\"",
+          "url": "https://listserv.linguistlist.org/pipermail/ads-l/2005-November/055113.html#1"
+        },
+        {
+          "date": "2005-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WiFi isn't short for \"Wireless Fidelity\" - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20161212211011/http://boingboing.net/2005/11/08/wifi-isnt-short-for.html#1"
+        },
+        {
+          "date": "2005-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WiFi isn't short for \"Wireless Fidelity\" - COLLECTED BY",
+          "url": "https://web.archive.org/web/20150703191240/http://boingboing.net/2005/11/08/wifi-isnt-short-for.html#1"
+        },
+        {
+          "date": "2005-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Boing Boing: WiFi isn't short for \"Wireless Fidelity\" - Tuesday, November 8, 2005",
+          "url": "https://web.archive.org/web/20061005120845/http://www.boingboing.net/2005/11/08/wifi_isnt_short_for_.html#1"
+        },
+        {
+          "date": "2020-05-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Au fait, pourquoi le Wi-Fi s'appelle Wi-Fi ? - Vous employez certainement le terme « Wi-Fi » tous les jours",
+          "url": "https://www.numerama.com/pop-culture/622371-au-fait-pourquoi-le-wi-fi-sappelle-wi-fi.html#1"
+        },
+        {
+          "date": "2026-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What does 'Wi-Fi' really mean?",
+          "url": "https://www.merriam-webster.com/wordplay/what-does-wi-fi-really-mean?pronunciation&lang=en_us&dir=b&file=bellwe01"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wireless Ethernet Compatibility Alliance (WECA)",
+          "url": "https://www.docketalarm.com/cases/PTAB/IPR2022-00141/Juniper_Networks_Inc/docs/11-04-2021-Petitioner/Exhibit-1020-20-Wireless_Ethernet_Compatibility_Alliance_Press_Release.pdf?download=true#1#1"
+        },
+        {
+          "date": "2019-04-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘와이파이’라는 이름의 유래는 대체 뭘까",
+          "url": "https://www.huffingtonpost.kr/article/82432"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi did not originate as an abbreviation - No, Wi-Fi does not stand for anything",
+          "url": "https://search.brave.com/search?q=does+wifi+stand+for+anything&source=relatedQueries&conversation=09a4ded03d1954cb7a65f7f5dced46a421bd#1"
+        },
+        {
+          "date": "2018-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Why is 'Wi-Fi' called 'Wi-Fi'? — Steemit",
+          "url": "https://steemit.com/technology/@lastkidoph/why-is-wi-fi-called-wi-fi?sort=votes#comments"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6827,
+      "query": "WECA 首任主席 写信 Boing Boing Wi-Fi 不是缩写",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Origins of \"Wi-Fi\" - Origins of \"Wi-Fi\"",
+          "url": "https://listserv.linguistlist.org/pipermail/ads-l/2005-November/055113.html#1"
+        },
+        {
+          "date": "2025-04-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What does \"Wi-Fi\" really mean? | Doug Kite - 跳到主要内容",
+          "url": "https://www.linkedin.com/posts/doug-kite-8747922_what-does-wi-fi-really-mean-when-you-activity-7320762560775864320-pTKZ#1"
+        },
+        {
+          "date": "2025-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¿Qué significa wifi? No es lo que crees: este es el origen de la palabra - Iba también con un eslogan",
+          "url": "https://www.elmundo.es/como/2025/07/09/686e2a83e85ece8c498b45a9.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wireless Ethernet Compatibility Alliance (WECA)",
+          "url": "https://www.docketalarm.com/cases/PTAB/IPR2022-00141/Juniper_Networks_Inc/docs/11-04-2021-Petitioner/Exhibit-1020-20-Wireless_Ethernet_Compatibility_Alliance_Press_Release.pdf?download=true#1#1"
+        },
+        {
+          "date": "2018-06-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Belum Banyak yang Tahu, WiFi Ternyata Bukan Singkatan dan Tidak Memiliki Arti Apapun - Tribun-bali.com",
+          "url": "https://bali.tribunnews.com/2018/06/24/belum-banyak-yang-tahu-wifi-ternyata-bukan-singkatan-dan-tidak-memiliki-arti-apapun?page=all"
+        },
+        {
+          "date": "2022-10-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa Kepanjangan Wi-Fi? - Salin Artikel",
+          "url": "https://www.kompas.com/tren/copy/2022/10/25/123000365/apa-kepanjangan-wi-fi-#1"
+        },
+        {
+          "date": "2025-04-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What Does ‘Wi-Fi’ Really Mean?",
+          "url": "https://wordsmarts.com/wi-fi-meaning/?lctg=698f977f-cfcf-4760-b881-92d4fd925288"
+        },
+        {
+          "date": "2018-06-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WiFi Ternyata Bukan Singkatan \"Wireless Fidelity\" - WiFi Ternyata Bukan Singkatan \"Wireless Fidelity\"",
+          "url": "https://tekno.kompas.com/read/2018/06/24/11020087/wifi-ternyata-bukan-singkatan-wireless-fidelity-#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi Alliance®, then and now",
+          "url": "https://www.wi-fi.org/zh-hant/beacon/jeff-abramowitz/wi-fi-alliance-then-and-now"
+        },
+        {
+          "date": "2019-04-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘와이파이’라는 이름의 유래는 대체 뭘까",
+          "url": "https://www.huffingtonpost.kr/article/82432"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 16159,
+    "iterations": [],
+    "output_tokens": 560,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

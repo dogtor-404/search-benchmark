@@ -1,0 +1,221 @@
+{
+  "answer": "**Arianne Katie**\n\n- **首位名字（first name）= Arianne**：截至 2024 年 7 月 1 日，美国历史上获奖最多的女子体操运动员是 **Simone Biles**，她的中间名是 **Arianne**（Simone Arianne Biles）。来源：https://www.olympics.com/en/news/simone-biles-timeline-key-moments-gymnastics-great ；https://www.olympedia.org/athletes/132107\n- **中间名字（middle name）= Katie**：截至 2024 年 7 月 1 日，女子 800 米自由泳世界纪录保持者是美国人 **Katie Ledecky**；当时的世界纪录是她在 2016 年里约奥运会上创造的 8:04.79。来源：https://www.olympics.com/en/athletes/katie-ledecky\n\n所以，给女儿起的名字是 **Arianne Katie**。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.809,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07037199999999999,
+      "inputTokens": 12400,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1013,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-39",
+  "raw": "jsonl/D2/frames-39.jsonl",
+  "reported_cost_usd": 0.07037199999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.716,
+      "query": "Simone Biles middle name Arianne",
+      "results": [
+        {
+          "date": "2023-04-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simone Biles: A timeline of key moments in the life of the gymnastics great, from the medals to the marriage and more - Simone Biles: A timeline of key moments in the life of the gymnastics great, from the medals to the marriage and more",
+          "url": "https://www.olympics.com/en/news/simone-biles-timeline-key-moments-gymnastics-great#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://lccn.loc.gov/n2016046681/marcxml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://id.loc.gov/authorities/names/n2016046681.marcxml.xml"
+        },
+        {
+          "date": "1997-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Biles, Simone, 1997-",
+          "url": "https://id.loc.gov/authorities/names/n2016046681.html"
+        },
+        {
+          "date": "2013-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simone Biles - Wikipedia - Simone Arianne Biles Owens[4] (née Biles; born March 14, 1997) is an American artistic gymnast",
+          "url": "https://en.m.wikipedia.org/wiki/Simon_Biles#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia",
+          "url": "http://www.olympedia.org/athletes/132107"
+        },
+        {
+          "date": "1997-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simone Biles",
+          "url": "https://catalog.ryelibrary.org/Author/Home?author=%22Biles%2C%20Simone%22"
+        },
+        {
+          "date": "2024-01-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Everything To Know about Olympic Champion Gymnast Simone Biles ahead of the 2024 Summer Games",
+          "url": "https://amp.nbc.com/nbc-insider/olympic-gymnast-simone-biles-husband-medals-achievements"
+        },
+        {
+          "date": "2013-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simone Biles - Wikipedia - Simone Biles",
+          "url": "https://en.wikipedia.org/?curid=38659992#1"
+        },
+        {
+          "date": "1997-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simone Biles",
+          "url": "https://catalog.library.nashville.gov/Author/Home?author=%22Biles%2C%20Simone%22"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6931,
+      "query": "Katie Ledecky world record 800 meter freestyle",
+      "results": [
+        {
+          "date": "2025-10-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lani Pallister erases Katie Ledecky’s 800m freestyle World Record as Douglass and Kos celebrate overall World Cup titles",
+          "url": "https://www.worldaquatics.com:443/news/4390117/lani-pallister-erases-katie-ledeckys-800m-freestyle-world-record-as-douglass-and-kos-celebrate-overall-world-cup-titles"
+        },
+        {
+          "date": "2025-05-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TYR Pro Series Fort Lauderdale: Katie Ledecky sets world record in 800m freestyle, besting time from Rio 2016 - TYR Pro Series Fort Lauderdale: Katie Ledecky sets world record in 800m freestyle, besting time from Rio 2016",
+          "url": "https://www.olympics.com/en/news/tyr-pro-series-fort-lauderdale-katie-ledecky-sets-new-world-record-800m-freestyle-nine-years-rio-2016#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fastest swim long course 800 metres freestyle (female)",
+          "url": "https://www.guinnessworldrecords.com/world-records/fastest-swim-long-course-800-metres-freestyle-female"
+        },
+        {
+          "date": "2025-05-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Katie Ledecky fires warning shot to swimming rivals with stunning 800m freestyle world record - ABC News - Katie Ledecky fires warning shot to swimming rivals with stunning 800m freestyle world record",
+          "url": "https://newsapp.abc.net.au/news/2025-05-04/katie-ledecky-fires-warning-shot-with-stunning-800m-freest/105250606#1"
+        },
+        {
+          "date": "2025-05-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ledecky, Walsh cap Pro Swim meet with world records | Sports - Monday",
+          "url": "https://www.bssnews.net/sports/269473#1"
+        },
+        {
+          "date": "2025-08-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ledecky wins 7th 800m freestyle world title, extends reign in Singapore - Ledecky wins 7th 800m freestyle world title, extends reign in Singapore",
+          "url": "http://english.news.cn/20250802/6471090ec4114ca2b8f8cde70fd0654b/c.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Katie Ledecky | Biography, top competition results, trophy wins, and medals - Katie LEDECKY",
+          "url": "https://www.olympics.com/en/athletes/katie-ledecky?ueid=1f9e9a95ac6dc999550d79180561332f&utm_source=Sailthru&utm_medium=email&utm_campaign=Future%20Perfect%201/1/25&utm_term=Future%20Perfect#1"
+        },
+        {
+          "date": "2025-12-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fueled by Katie Ledecky, the 800 Freestyle Has Risen to Special Heights",
+          "url": "https://www.swimmingworldmagazine.com/news/fueled-by-katie-ledecky-the-800-freestyle-has-risen-to-special-heights/"
+        },
+        {
+          "date": "2025-05-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Amerikansk svømmestjerne med ny verdensrekord",
+          "url": "https://www.nrk.no/nyheter/amerikansk-svommestjerne-med-ny-verdensrekord-1.17403684"
+        },
+        {
+          "date": "2025-05-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Katie Ledecky: American swimmer breaks first world record in seven years in 800m freestyle",
+          "url": "https://www.bbc.com/sport/swimming/articles/cwy794rn995o"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12400,
+    "iterations": [],
+    "output_tokens": 1013,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

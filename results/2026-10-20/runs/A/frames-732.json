@@ -1,0 +1,107 @@
+{
+  "answer": "**答案:** 这艘消防船是\"Illinois\"号,同名的伊利诺伊州于 1818 年 12 月 3 日加入联邦,成为第 21 个州。\n\n- **消防船:** 1908 年,芝加哥消防局的 Illinois 号在芝加哥河上被倒塌的碎片砸中,沉没在约 20 英尺深的水里,随后很快被打捞浮起,重新服役。1908 年 8 月的报纸报道也说,Burlington 铁路码头大火中粮仓墙体倒塌,压沉了这艘船。\n- **建成年份:** 各来源不一致。Wikipedia 的 Illinois 词条写 1888 年,\"Fireboats of Chicago\" 的船队表写 1899 年。这不影响答案。\n- **未核实的部分:** 1818 年 12 月 3 日这个建州日期,我两次搜索都没查到来源,是凭已有知识给出的,没有网址可引。\n\nSources:\n- [Illinois (fireboat) – Wikipedia](https://en.wikipedia.org/wiki/Illinois_(fireboat))\n- [Fireboats of Chicago – Wikipedia](https://en.wikipedia.org/wiki/Fireboats_of_Chicago)\n- [Valentine Democrat, Aug. 13, 1908](https://nebnewspapers.unl.edu/lccn/sn95069780/1908-08-13/ed-1/seq-7/ocr)",
+  "budget_denials": [],
+  "elapsed_seconds": 24.231,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0236745,
+      "inputTokens": 29195,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1510,
+      "provider": "firstParty",
+      "thinkingTokens": 678,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4173,
+      "cacheReadInputTokens": 12222,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0267962,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 887,
+      "provider": "firstParty",
+      "thinkingTokens": 187,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-732",
+  "raw": "jsonl/A/frames-732.jsonl",
+  "reported_cost_usd": 0.05047069999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Chicago fireboat sank 1908 refloated",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SmnHrHNJkGt3RhYpQNoo6b"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Illinois fireboat Chicago 1908 sank refloated; Illinois statehood December 3, 1818",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01E1onQS91MmUXaNRJSFcVYE"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4173,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4173,
+    "cache_read_input_tokens": 12222,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1169,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1169,
+        "cache_read_input_tokens": 5455,
+        "input_tokens": 2,
+        "output_tokens": 504,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 887,
+    "output_tokens_details": {
+      "thinking_tokens": 187
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

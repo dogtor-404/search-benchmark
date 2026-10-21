@@ -1,0 +1,116 @@
+{
+  "answer": "**答案：约 47,906 kg**\n\n我用的是英文维基百科信息框里每次任务飞船的\"launch mass\"（发射质量）。这个数字是飞船本身（指令服务舱加登月舱）的质量，不含土星五号火箭：\n\n- Apollo 11：49,735 kg\n- Apollo 12：49,915 kg\n- Apollo 13：44,069 kg（指令服务舱 28,881 kg + 登月舱 15,188 kg）\n\n(49,735 + 49,915 + 44,069) / 3 = 143,719 / 3 ≈ 47,906.33，四舍五入是 **47,906 kg**。\n\n各来源的数字对不上，所以这个答案不太确定：\n- Apollo 13 的数字比另外两次低了约 5,700 kg，统计口径可能不一样，但维基百科没说是不是。\n- 简明英文维基和一些旧镜像给的是另一组数：45,702 / 45,870 / 45,931 kg。用这组算，平均是 **45,834 kg**。\n- 如果题目问的是整枚土星五号火箭加满燃料的质量，那是另一个量，大约 290 万 kg。\n\n我搜了 3 次。\n\nSources:\n- [Apollo 11 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_11)\n- [Apollo 12 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_12)\n- [Apollo 13 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_13)\n- [Apollo 11 – Simple Wikipedia](https://simple.wikipedia.com/wiki/Apollo_11)\n- [Apollo 13 – Simple Wikipedia](https://simple.wikipedia.com/wiki/Apollo_13)\n- [Next Spaceflight – Apollo 12](https://api.nextspaceflight.com/launches/details/194)\n- [NASA Apollo 13 Flight Journal](https://www.nasa.gov/history/afj/ap13fj/01launch_ascent.html)",
+  "budget_denials": [],
+  "elapsed_seconds": 22.474,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0359633,
+      "inputTokens": 48028,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2321,
+      "provider": "firstParty",
+      "thinkingTokens": 670,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5196,
+      "cacheReadInputTokens": 6760,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.066276,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1167,
+      "provider": "firstParty",
+      "thinkingTokens": 183,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-394",
+  "raw": "jsonl/A_prime/frames-394.jsonl",
+  "reported_cost_usd": 0.10223929999999999,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Apollo 11 launch mass kg Wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013me9feodTgkgkrTd9qo6i4"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Apollo 12 launch mass kg Wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LnXeJj1mw88hE7AH17vkNa"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Apollo 13 launch mass kg Wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017VFUhtavTptF9RHBZN6Uya"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5196,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5196,
+    "cache_read_input_tokens": 6760,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3338,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3338,
+        "cache_read_input_tokens": 4309,
+        "input_tokens": 2,
+        "output_tokens": 806,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1167,
+    "output_tokens_details": {
+      "thinking_tokens": 183
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "**1946 年。**\n\nKanye West 的《Power》主要采样了 King Crimson 的《21st Century Schizoid Man》。King Crimson 的创建者和主脑是吉他手 **Robert Fripp**，他出生于 **1946 年 5 月 16 日**（英国 Wimborne Minster）。\n\n（这是凭记忆回答，未联网核实；若需要绝对确认，建议查一下唱片内页的采样署名。）",
+  "budget_denials": [],
+  "elapsed_seconds": 4.229,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018004,
+      "inputTokens": 1981,
+      "maxOutputTokens": 32000,
+      "outputTokens": 504,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-366",
+  "raw": "jsonl/D0/frames-366.jsonl",
+  "reported_cost_usd": 0.018004,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1981,
+    "iterations": [],
+    "output_tokens": 504,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

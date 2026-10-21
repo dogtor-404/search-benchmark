@@ -1,0 +1,60 @@
+{
+  "answer": "据我所知，1875 年乔治·布朗（George Brown，1818–1880，加拿大《环球报》创办人、联邦之父之一）拒绝的是**出任安大略省副总督（Lieutenant-Governor of Ontario）**的邀请。\n\n不过这是凭记忆回答，不能上网核实，所以我不敢说百分之百确定；如果要确切答案，建议查他的传记或加拿大传记词典（DCB）的条目。",
+  "budget_denials": [],
+  "elapsed_seconds": 43.501,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.182396,
+      "inputTokens": 1974,
+      "maxOutputTokens": 32000,
+      "outputTokens": 8725,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/D0/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.182396,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1974,
+    "iterations": [],
+    "output_tokens": 8725,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "据我所知，**4 次**：1990、1997、2002、2013 年大选后，人民党（PPP）都是国民议会中最大的反对党。\n\n- 1990：以 PPP 为首的民主联盟（PDA）获约 44 席，居 IJI（106 席）之后。\n- 1997：PPP 仅 18 席，PML-N 以 137 席执政，PPP 仍是最大反对党。\n- 2002：PPP Parliamentarians 63 席，PML-Q 105 席执政，PPP 为最大反对党。\n- 2013：PPP 32 席，PML-N 126 席执政，PPP 超过 PTI（27 席）成为最大反对党。\n\n不确定的地方：1970 年大选 PPP 在全国层面是第二大党（81 席，次于人民联盟 160 席），但国民议会从未召开，通常不计为一次反对党任期；若把它算进去则是 5 次。另外 1990 年 PPP 是以 PDA 联盟名义参选，若严格只算 PPP 党名，可能被算作 3 次。\n\n所以，取决于计数口径，答案通常是 **4 次**；我无法离线核实具体来源的统计口径。",
+  "budget_denials": [],
+  "elapsed_seconds": 17.552,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.066552,
+      "inputTokens": 1983,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2931,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/D0/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.066552,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1983,
+    "iterations": [],
+    "output_tokens": 2931,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "finished_at": "2026-10-20T13:07:05.406010+00:00",
+  "group": "B_prime",
+  "original_dispatch_sha256": "ac78fc65abf78289b74f38923642e62261ecceede8da876400983977ea5553ac",
+  "question_id": "custom-015",
+  "reprocessed_at": "2026-10-20T13:13:53.896770+00:00",
+  "run_sha256": "17154922a0d69f08f40c816512ccb9bce22231c70157b52c2d0b1a142ab313df",
+  "started_at": "2026-10-20T13:06:53.923653+00:00",
+  "status": "ok",
+  "workers": 4
+}

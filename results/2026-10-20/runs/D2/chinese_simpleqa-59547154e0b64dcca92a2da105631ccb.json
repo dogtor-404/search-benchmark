@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：北宋大观元年，即 1107 年。**\n\n《类证活人书》原称《南阳活人书》，由宋·朱肱（字翼中，号无求子）精研《伤寒论》数十年后撰成；全书二十二卷，为伤寒类专著。书中朱肱自序署“大观元年正月日，前进士朱肱序”，即作于大观元年（1107）。另有部分资料著录为“大观二年（1108）”，相差一年，但通行说法，以及国家中医药管理局名词术语规范推广项目审核的条目，均作 1107 年。\n\n依据网址：\n- https://m.dayi.org.cn/classics/100351 （国家中医药管理局项目审核认证的《南阳活人书》条目，明确“成书于北宋大观元年（1107年）”）\n- https://www.shidianguji.com/zh/mid-page/7459880249774604314 （《增注类证活人书》原书序文：“大观元年正月日，前进士朱肱序”）\n- https://www.bzwy.org/content-25694.html （“于大观元年(1107)撰成此书”）",
+  "budget_denials": [],
+  "elapsed_seconds": 7.619,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 6528,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0629496,
+      "inputTokens": 12761,
+      "maxOutputTokens": 32000,
+      "outputTokens": 530,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+  "raw": "jsonl/D2/chinese_simpleqa-59547154e0b64dcca92a2da105631ccb.jsonl",
+  "reported_cost_usd": 0.0629496,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6547,
+      "query": "《类证活人书》宋 朱肱 撰于 哪一年",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "增注類證活人書",
+          "url": "https://catalog.digitalarchives.tw/item/00/08/67/91.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书",
+          "url": "http://read.nlc.cn/allSearch/searchDetail?searchType=24&showType=1&indexName=data_416&fid=06jh009197"
+        },
+        {
+          "date": "2018-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "图文详情——科普中国资源服务 - [科普中国]-南阳活人书",
+          "url": "https://cloud.kepuchina.cn/h5/detail?id=6969168678209466368#1"
+        },
+        {
+          "date": "2018-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-南阳活人书 - 图文",
+          "url": "https://cloud.kepuchina.cn/newSearch/imgText?from=1&id=6969168678209466368&is_self=2#1"
+        },
+        {
+          "date": "2021-12-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-南阳活人书 - 版权归原作者所有，如有侵权，请联系我们",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=257274#1"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书-朱肱-巴中文学网",
+          "url": "https://www.bzwy.org/content-25694.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "分類中符合的項目 - 搜尋：x",
+          "url": "https://catalog.digitalarchives.tw/Search/Search.jsp?QS=x&ShowPage=421#1"
+        },
+        {
+          "date": "2023-02-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "傷寒類證活人書（簡體書） - 三民網路書店",
+          "url": "https://www.sanmin.com.tw/product/index/001064213"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书-知网星空·心可书馆",
+          "url": "https://thinker.cnki.net/bookStore/Book/bookdetail?bookcode=9787899023396001&type=book"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "類證活人書 | 朱肱 著 | 中版集團 | HyRead ebook 好來學堂-類證活人書",
+          "url": "https://hh.ebook.hyread.com.tw/bookDetail.jsp?id=476430"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6984,
+      "query": "朱肱 类证活人书 成书 大观元年 1107 考证",
+      "results": [
+        {
+          "date": "2018-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-南阳活人书 - 图文",
+          "url": "https://cloud.kepuchina.cn/newSearch/imgText?from=1&id=6969168678209466368&is_self=2#1"
+        },
+        {
+          "date": "2021-12-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-南阳活人书 - 版权归原作者所有，如有侵权，请联系我们",
+          "url": "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=257274#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "南阳活人书",
+          "url": "https://m.dayi.org.cn/classics/100351#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "南阳活人书 - 中国医药信息查询平台",
+          "url": "https://m.dayi.org.cn/classics/100351.html#1"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书-朱肱-巴中文学网",
+          "url": "https://www.bzwy.org/content-25694.html"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书全文免费阅读-类证活人书章节列表-巴中文学网",
+          "url": "https://www.bzwy.org/content-25694/1/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": ":::::규장각한국학연구원:::::",
+          "url": "http://kyujanggak.snu.ac.kr/home/MOK/CONVIEW.jsp?type=MOK&ptype=list&subtype=cg&lclass=02&mclass=&sclass=&ntype=hj&cn=GC03474_00"
+        },
+        {
+          "date": "2025-11-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "南阳活人书 - 南阳活人书",
+          "url": "https://baike.baidu.com/item/%E5%8D%97%E9%98%B3%E6%B4%BB%E4%BA%BA%E4%B9%A6#1"
+        },
+        {
+          "date": "2025-01-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "增注類證活人書",
+          "url": "https://www.shidianguji.com/zh/mid-page/7459880249774604314"
+        },
+        {
+          "date": "2025-01-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "增注类证活人书",
+          "url": "https://www.shidianguji.com/mid-page/7459880249774604314"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 6528,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12761,
+    "iterations": [],
+    "output_tokens": 530,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

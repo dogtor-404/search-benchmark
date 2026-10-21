@@ -1,0 +1,100 @@
+{
+  "answer": "答案：**OSS Scanner**。Anthropic 在 2026 年 10 月 8 日的 Cyber Mission 公告中推出了它。它会用 Anthropic 最强的模型定期扫描开源项目的安全问题，对项目免费。\n\n我只搜了一次，找到的都是媒体转述，没找到 Anthropic 的原始公告。各家报道对准入条件的说法也不一致：有的说只面向关键开源项目的核心维护者，有的说得更宽泛。\n\nSources:\n- [Anthropic Gives Open-Source Projects Free AI Security Scans](https://fourweekmba.com/ai-anthropic-gives-open-source-projects-free-ai-security-scans/)\n- [Anthropic Launches Cyber Mission With 11 Founding Partners](https://aiweekly.co/alerts/anthropic-launches-cyber-mission-with-11-founding-partners)\n- [Anthropic launches Cyber Mission for power grids and free OSS Scanner](https://pasqualepillitteri.it/en/news/22685/anthropic-cyber-mission-power-grids-oss-scanner)\n- [Anthropic Launches Cyber Mission for Infrastructure Defense](https://letsdatascience.com/news/anthropic-launches-cyber-mission-for-infrastructure-defense-05308f60)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.293,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118809,
+      "inputTokens": 13874,
+      "maxOutputTokens": 128000,
+      "outputTokens": 987,
+      "provider": "firstParty",
+      "thinkingTokens": 199,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3313,
+      "cacheReadInputTokens": 6771,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0195971,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 566,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-005",
+  "raw": "jsonl/A/news-005.jsonl",
+  "reported_cost_usd": 0.031478,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Anthropic Cyber Mission announcement October 8 2026 free open source projects regular security scanning",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015bETeK1vQUhpAZCbyvF6Xr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3313,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3313,
+    "cache_read_input_tokens": 6771,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1444,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1444,
+        "cache_read_input_tokens": 4320,
+        "input_tokens": 2,
+        "output_tokens": 462,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 566,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

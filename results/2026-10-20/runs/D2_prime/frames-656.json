@@ -1,0 +1,288 @@
+{
+  "answer": "**答案：** Charles Muhangi（查尔斯·穆汉吉），驾驶 **Subaru Impreza WRX（斯巴鲁翼豹 WRX）**。\n\nMichel von Tell 参加的是 2000 年的 Rwanda Mountain Gorilla Rally（卢旺达山地大猩猩拉力赛，原名 Fraternity Rally），他驾驶丰田获得第六名；同年该赛事的冠军是乌干达车手 Charles Muhangi，座驾为 Subaru Impreza WRX。\n\n依据的网址：\n- https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally （获奖名单：2000 年 Charles Muhangi / Subaru Impreza WRX）\n- https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title （Past winners: 2000 Charles Muhangi / Subaru Impreza）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.009,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 10368,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07922560000000001,
+      "inputTokens": 15988,
+      "maxOutputTokens": 32000,
+      "outputTokens": 660,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/D2_prime/frames-656.jsonl",
+  "reported_cost_usd": 0.07922560000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7149,
+      "query": "Michel von Tell 2000 Toyota sixth place rally event",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Michel von Tell (8 October 1980) is a Swiss journalist, consultant and racing driver",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Michel_von_Tell#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rally de España: Preview Toyota Yaris WRC set for crucial mixed-surface spectacular",
+          "url": "https://cdn.assets.prezly.com/45e56017-6611-44a3-b19d-369f25c1fd4a/-/inline/no/WRC%20Rally%20d'espana%20preview.pdf?__cf_chl_tk=JZ9LoC2MSHoiIZhkjgqeiF7sy2J9lnW1hJbqZbnBpCA-1780556555-1.0.1.1-HUI61TPKfXcwJXb7R7NYv1c5geR8u4.jXzXxdZPI3dY#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rally Mexico: Preview  TOYOTA GAZOO Racing hopes to reach new heights in Mexico",
+          "url": "https://newsroom.toyota.eu/download/519927/rallymexicopreview2018-en.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toyota Celebrates Race and Rally Wins Around the World",
+          "url": "https://media.toyota.co.uk/show-pdf/?src=63023#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2017 Dakar / SS10: Orlando Terranova now sixth in the overall standings",
+          "url": "http://x-raid.de/_files/cms/files/Stage10_GB_temp.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MAPEI STILL TOP SPONSOR OF TOYOTA GAZOO RACING ITALY IN THE 2026 ITALIAN RALLY CHAMPIONSHIP",
+          "url": "https://cdnmedia.mapei.com/docs/librariesprovider2/2026/pr-mapei-toyota-2026.pdf?sfvrsn=4520ff85_2&__cf_chl_tk=wxGzd_sZyU1RrGTtJf98bHxq6PAJ61su4I72.0b4u8M-1778498945-1.0.1.1-Q9meGOq6YpNVlJ.96jQUVh_YN39opOjbjCbA6TVvddc&_x_output_type_b6db407c4_=embedded_pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PRESS RELEASE no. 46  Nail-biting rally continues, Kopecký with 5.9 seconds lead",
+          "url": "https://www.czechrally.com/wcd/press/2016/bcrz_2016_press_46_gb.pdf#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Stage results Rallye Automobile Monte-Carlo 2000",
+          "url": "https://www.ewrc-results.com/results/108-rallye-automobile-monte-carlo-2000/?s=1981"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7813,
+      "query": "2000 Rwanda Mountain Gorilla Rally results winner first place car",
+      "results": [
+        {
+          "date": "2024-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally – Wikipedia - Rwanda Mountain Gorilla Rally",
+          "url": "https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2023-04-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ралли горных горилл в Руанде - Ралли горных горилл в Руанде",
+          "url": "https://alphapedia.ru/w/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2008-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rudy eyes Rwanda Gorilla Rally title - Rudy eyes Rwanda Gorilla Rally title",
+          "url": "https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title#1"
+        },
+        {
+          "date": "2026-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally — Grokipedia - Fact-checked by Grok 8 months ago",
+          "url": "https://grokipedia.com/page/rwanda_mountain_gorilla_rally#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally - The Rwanda Mountain Gorilla Rally, known originally as the Fraternity Rally, is an international rally racing event organised by...",
+          "url": "https://dbpedia.org/page/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2017-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda’s Mountain Gorilla Rally to Improve Tourism",
+          "url": "https://www.rwandaonline.rw/news/rwandas-mountain-gorilla-rally-to-improve-tourism/"
+        },
+        {
+          "date": "2026-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview",
+          "url": "https://api.fia.com/news/rwanda-mountain-gorilla-rally-2025-preview-0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia",
+          "url": "https://fragments.dbpedia.org/2014/en?object=%22The%20Rwanda%20Mountain%20Gorilla%20Rally%2C%20known%20originally%20as%20the%20Fraternity%20Rally%20is%20an%20international%20rally%20racing%20event%20organised%20by%20the%20Rwanda%20Automobile%20Club.%20The%20rally%20is%20based%20in%20the%20Rwandan%20capital%20of%20Kigali.%20The%20event%20is%20presently%20a%20round%20of%20the%20African%20Rally%20Championship%20and%20the%20Rwandan%20National%20Rally%20Championship.The%20Fraternity%20Rally%20was%20first%20run%20in%201999%20as%20motorsport%20re-established%20itself%20after%20the%20Rwandan%20Civil%20War.%20It%20began%20as%20a%20cross-border%20rally%20that%20began%20in%20Kampala%2C%20Uganda%20before%20finishing%20in%20Kigali.%20The%20rally%20became%20part%20of%20the%20African%20championship%20the%20following%20year%2C%20restoring%20a%20Rwandan%20presence%20to%20the%20African%20championship%20absent%20since%201988.%20Over%20time%20the%20Ugandan%20portion%20of%20the%20event%20faded%20and%20the%20rally%20was%20renamed%20the%20Rwanda%20Mountain%20Gorilla%20Rally%202002.Burundi%20driver%20Rudy%20Cantanhede%20is%20the%20most%20successful%20driver%20in%20the%20rallies%20history%20with%20three%20wins%20to%20his%20credit.%20Italian%20born%20local%20driver%20Giancarlo%20Davite%20has%20two%20wins%20to%20his%20credit.%20All%20bar%20two%20events%20have%20been%20won%20by%20drivers%20of%20Subaru%20Imprezas.%22%40en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KCB Rwanda Mountain Gorilla Rally 2011    Rally Guide",
+          "url": "http://www.africanrallychampionship.com/2011/rwanda-FINAL_RMGR-2011-RALLY-GUIDE.pdf#3#1"
+        },
+        {
+          "date": "2026-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview - RNW | RacingNewsWorldwide.com | Your latest racing news",
+          "url": "https://racingnewsworldwide.com/news/rwanda-mountain-gorilla-rally-2025-preview/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6207,
+      "query": "Rwanda Mountain Rally 2000 winner Subaru Mitsubishi results",
+      "results": [
+        {
+          "date": "2024-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally – Wikipedia - Rwanda Mountain Gorilla Rally",
+          "url": "https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2008-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rudy eyes Rwanda Gorilla Rally title - Rudy eyes Rwanda Gorilla Rally title",
+          "url": "https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title#1"
+        },
+        {
+          "date": "2026-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview - RNW | RacingNewsWorldwide.com | Your latest racing news",
+          "url": "https://racingnewsworldwide.com/news/rwanda-mountain-gorilla-rally-2025-preview/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KCB Rwanda Mountain Gorilla Rally 2011    Rally Guide",
+          "url": "http://www.africanrallychampionship.com/2011/rwanda-FINAL_RMGR-2011-RALLY-GUIDE.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally - The Rwanda Mountain Gorilla Rally, known originally as the Fraternity Rally, is an international rally racing event organised by...",
+          "url": "https://dbpedia.org/page/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2026-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview",
+          "url": "https://api.fia.com/news/rwanda-mountain-gorilla-rally-2025-preview-0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "African Rally Championship - Category | Group N",
+          "url": "https://kiwix.haohe.fun/content/wikipedia_en_all_maxi_2024-01/A/African_Rally_Championship#1"
+        },
+        {
+          "date": "2026-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally — Grokipedia - Fact-checked by Grok 8 months ago",
+          "url": "https://grokipedia.com/page/rwanda_mountain_gorilla_rally#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "African Rally Championship - African Rally Championship",
+          "url": "https://kampuspedia.com/en/African_Rally_Championship#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kurji wins to close ARC gap",
+          "url": "https://www.newvision.co.ug/news/1119183/kurji-wins-close-arc-gap"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 10368,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 15988,
+    "iterations": [],
+    "output_tokens": 660,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

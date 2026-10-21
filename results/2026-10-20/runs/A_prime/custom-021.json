@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：福岛邦彦（Kunihiko Fukushima）**。他当时在 NHK 做研究，1980 年在《Biological Cybernetics》第 36 卷第 193–202 页发表了论文 \"Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position\"，提出了新认知机。\n\n需要注意：Wikipedia 写的是 1979 年提出，指的应该是他 1979 年 10 月用日文发表的论文；1980 年是英文论文发表的年份。\n\n本次只搜了 1 次。\n\nSources:\n- [Kunihiko Fukushima - Wikipedia](https://en.wikipedia.org/wiki/Kunihiko_Fukushima)\n- [Neocognitron - Wikipedia](https://en.wikipedia.org/wiki/Neocognitron)\n- [Fukushima 1980 原文 PDF（Berkeley Redwood）](https://redwood.berkeley.edu/wp-content/uploads/2020/08/Fukushima1980.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.181,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117322,
+      "inputTokens": 13122,
+      "maxOutputTokens": 128000,
+      "outputTokens": 840,
+      "provider": "firstParty",
+      "thinkingTokens": 140,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2998,
+      "cacheReadInputTokens": 6740,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.034728,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 469,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-021",
+  "raw": "jsonl/A_prime/custom-021.jsonl",
+  "reported_cost_usd": 0.0464602,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Neocognitron 1980 Kunihiko Fukushima",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BKLzv97A4fCEXq6u1Zwuq2"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2998,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2998,
+    "cache_read_input_tokens": 6740,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1160,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1160,
+        "cache_read_input_tokens": 4289,
+        "input_tokens": 2,
+        "output_tokens": 377,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 469,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

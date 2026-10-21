@@ -1,0 +1,60 @@
+{
+  "answer": "**詹姆斯·乔伊斯（James Joyce）和弗吉尼亚·伍尔夫（Virginia Woolf）**：两人都生于 1882 年，也都卒于 1941 年。\n\n- 乔伊斯：1882 年 2 月 2 日出生，1941 年 1 月 13 日去世\n- 伍尔夫：1882 年 1 月 25 日出生，1941 年 3 月 28 日去世\n\n**伍尔夫活得更久，比乔伊斯多活 82 天。**\n\n算法：伍尔夫比乔伊斯早出生 8 天（1 月 25 日到 2 月 2 日），又比乔伊斯晚去世 74 天（1941 年 1 月 13 日到 3 月 28 日），合计相差 8 + 74 = 82 天。\n\n（按整日计：乔伊斯约 21,529 天，伍尔夫约 21,611 天。）\n\n注：这是凭记忆的回答，没有联网核对；生卒日期采用通行的标准说法。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.074,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.038135999999999996,
+      "inputTokens": 1989,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1509,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-808",
+  "raw": "jsonl/D0/frames-808.jsonl",
+  "reported_cost_usd": 0.038135999999999996,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1989,
+    "iterations": [],
+    "output_tokens": 1509,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

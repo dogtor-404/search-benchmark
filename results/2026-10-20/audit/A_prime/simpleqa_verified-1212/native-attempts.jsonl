@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Manyazybash village population 2010", "results": [], "status": "allowed", "tool_use_id": "toolu_01HHj7CeNNSQzhYKpMtZcBF7"}
+{"billable": false, "call": 2, "query": "Маньязыбаш деревня население 2010", "results": [], "status": "allowed", "tool_use_id": "toolu_01UVvaS2nyV7yKS7G7m8N5RX"}
+{"billable": false, "call": 3, "query": "Маньязыбаш Башкортостан", "results": [], "status": "allowed", "tool_use_id": "toolu_012C86PqAQjQs6Uzk3S1rJFU"}

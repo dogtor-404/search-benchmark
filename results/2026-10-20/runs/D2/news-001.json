@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：DeepSeek-V4.1-Flash-1017**。2026 年 10 月 17 日，DeepSeek 把 V4.1 Flash 升级到了这个版本，网页端、App 和 API 都已同步切换，其中的 API 模型名仍然是 `deepseek-flash`，调用方式和价格都没有变。\n\n依据：\n- IT之家报道：https://www.ithome.com/0/101/4328.htm\n- DeepSeek 官方更新日志：https://api-docs.deepseek.com/updates\n- 澎湃新闻转载报道：https://www.thepaper.cn/newsdetail_forward_34277543",
+  "budget_denials": [],
+  "elapsed_seconds": 5.032,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.050136799999999995,
+      "inputTokens": 10799,
+      "maxOutputTokens": 32000,
+      "outputTokens": 324,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "news-001",
+  "raw": "jsonl/D2/news-001.jsonl",
+  "reported_cost_usd": 0.050136799999999995,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7863,
+      "query": "DeepSeek 2026年10月17日 公告 deepseek-flash 升级 模型版本",
+      "results": [
+        {
+          "date": "2026-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Change Log | DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/updates"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek连发两项更新：V4.1-Flash-1017上线，Harness升级接入Search/Fetch",
+          "url": "https://news.qiniu.com/archives/1792284446303"
+        },
+        {
+          "date": "2026-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
+          "url": "https://www.ithome.com/0/101/4328.htm"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek崩溃后更新版本，可“许愿式编程”，自研搜索API千次调用收费5元",
+          "url": "https://www.thepaper.cn/newsdetail_forward_34277543"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek-V4.1-Flash-1017 更新：代码一行没改，AI Agent 为什么还要回归测试？",
+          "url": "https://cloud.tencent.com.cn/developer/article/2763714"
+        },
+        {
+          "date": "2026-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek V4.1 Flash-1017新版本发布",
+          "url": "https://www.bianews.com/news/details?id=247367"
+        },
+        {
+          "date": "2026-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek V4.1 Flash-1017新版本发布：许愿式编程一键成真",
+          "url": "https://tech.ifeng.com/c/8xIZufSArx4"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek、ゲームや3Dモデルの開発能力を強化した「V4.1-Flash-1017」公開",
+          "url": "https://news.mynavi.jp/article/20261019-5155062/"
+        },
+        {
+          "date": "2026-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek发布新版本",
+          "url": "https://www.sctv.com/news/2111438547040923649"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DeepSeek V4.1 Flash 1017 更新了什么？性能变化、API 模型名与升级检查",
+          "url": "https://ofox.ai/zh/blog/deepseek-v4-1-flash-1017-update/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10799,
+    "iterations": [],
+    "output_tokens": 324,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

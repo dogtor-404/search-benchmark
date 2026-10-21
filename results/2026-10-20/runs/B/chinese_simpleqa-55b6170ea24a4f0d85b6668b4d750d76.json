@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1933 年。**\n\n多个来源都说，中国最后一家点翠工场在 1933 年关闭，原因是翠羽（翠鸟羽毛）绝市。\n\n依据的网址：\n- 维基百科“点翠”：https://zh.m.wikipedia.org/wiki/%E7%82%B9%E7%BF%A0\n- 南海博物馆：http://www.nanhaimuseum.org/n1/2022/0304/c419341-32366356-4.html\n- 海外网评论（吴钩）：http://opinion.haiwainet.cn/n/2015/0430/c345439-28689807.html\n- 万方论文《艺术美学视域下的点翠工艺》：https://d.wanfangdata.com.cn/periodical/mysd-s202012002\n\n这些来源互相引用的可能性不小，我没有查到更早的原始出处。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.443,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4711,
+      "cacheReadInputTokens": 5843,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0231163,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 368,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+  "raw": "jsonl/B/chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76.jsonl",
+  "reported_cost_usd": 0.0231163,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6069,
+      "query": "中国最后一家点翠工场 关闭 哪一年",
+      "results": [
+        {
+          "date": "2015-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吴钩：在宋朝，点翠不是时尚是犯禁 - 评论 > 国内 > 正文",
+          "url": "http://opinion.haiwainet.cn/n/2015/0430/c345439-28689807.html#1"
+        },
+        {
+          "date": "2015-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吴钩：在宋朝，点翠不是时尚是犯禁 - 28689807,",
+          "url": "https://m.haiwainet.cn/middle/345439/2015/0430/content_28689807_2.html#1"
+        },
+        {
+          "date": "2022-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "活动预告｜佳人匠心，装“点”春日——妇女节系列社教活动",
+          "url": "http://www.nanhaimuseum.org/n1/2022/0304/c419341-32366356-4.html"
+        },
+        {
+          "date": "2020-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://baike.baidu.com/tashuo/browse/content?id=98b0818ab5c790e2d4d5e201&fromModule=tashuo-article_tashuo-tab-item"
+        },
+        {
+          "date": "2016-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠 - 维基百科，自由的百科全书",
+          "url": "https://zh.m.wikipedia.org/wiki/%E7%82%B9%E7%BF%A0"
+        },
+        {
+          "date": "2016-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "點翠 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-mo/%E7%82%B9%E7%BF%A0"
+        },
+        {
+          "date": "2015-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠首饰最早出现在什么时候？宋元时期有吗？ - 点翠首饰最早出现在什么时候？宋元时期有吗？",
+          "url": "https://www.zhihu.com/question/29434697#0#1"
+        },
+        {
+          "date": "2020-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠技艺登上热搜，美丽的背后是残忍！_百科TA说",
+          "url": "https://wapbaike.baidu.com/tashuo/browse/content?id=98b0818ab5c790e2d4d5e201&fromModule=tashuo-article_bottom-tashuo-feed"
+        },
+        {
+          "date": "2017-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠，这位公子哥用创意让这门非遗技艺再次惊艳人间",
+          "url": "https://m.voc.com.cn/xhn/news/201709/14555417.html"
+        },
+        {
+          "date": "2020-12-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "艺术美学视域下的点翠工艺",
+          "url": "https://d.wanfangdata.com.cn/periodical/mysd-s202012002"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4711,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4711,
+    "cache_read_input_tokens": 5843,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2876,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2876,
+        "cache_read_input_tokens": 3839,
+        "input_tokens": 2,
+        "output_tokens": 293,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 368,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

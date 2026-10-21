@@ -1,0 +1,221 @@
+{
+  "answer": "**1946 年。**\n\nKanye West 的《Power》采样了 King Crimson 的《21st Century Schizoid Man》，而 King Crimson 的乐队领袖是 Robert Fripp；他出生于 **1946 年 5 月 16 日**。\n\n依据：\n- 《Power》的采样来源：https://www.whosampled.com/sample/37814/Kanye-West-Dwele-Power-King-Crimson-21st-Century-Schizoid-Man/\n- Robert Fripp 的出生年份：https://id.loc.gov/authorities/names/n85044005.html 、https://music.apple.com/ie/artist/robert-fripp/613849",
+  "budget_denials": [],
+  "elapsed_seconds": 5.725,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0414944,
+      "inputTokens": 8232,
+      "maxOutputTokens": 32000,
+      "outputTokens": 404,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-366",
+  "raw": "jsonl/D2/frames-366.jsonl",
+  "reported_cost_usd": 0.0414944,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7159,
+      "query": "Kanye West Power sample King Crimson 21st Century Schizoid Man",
+      "results": [
+        {
+          "date": "2010-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West featuring Dwele, “Power”",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-featuring-dwele-power-1069168/"
+        },
+        {
+          "date": "2022-04-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "West's record label sued over King Crimson sample",
+          "url": "https://www.rte.ie/entertainment/2022/0427/1294618-wests-record-label-sued-over-king-crimson-sample/?app=true"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power by Kanye West feat. Dwele on WhoSampled",
+          "url": "https://www.whosampled.com/Kanye-West/Power/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West feat. Dwele's 'Power' - Discover the Sample Source",
+          "url": "https://www.whosampled.com/sample/37814/Kanye-West-Dwele-Power-King-Crimson-21st-Century-Schizoid-Man/"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Check Out: New Kanye West - \"Power\"",
+          "url": "https://consequence.net/2010/05/check-out-new-kanye-west-power/?app=true"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West's 'Power' Producer Explains How Song Happened",
+          "url": "https://www.mtv.com/news/kwvruh/kanye-wests-power-producer-explains-how-song-happened"
+        },
+        {
+          "date": "2023-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West song features in royalties dispute case",
+          "url": "https://www.rte.ie/entertainment/2023/0105/1345087-kanye-west-song-features-in-royalties-dispute-case/?app=true"
+        },
+        {
+          "date": "2010-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Watch: Kanye West Performs The Symbolyc One-Produced Power To Open Last Night's 2010 BET Awards",
+          "url": "https://www.dallasobserver.com/music/watch-kanye-west-performs-the-symbolyc-one-produced-power-to-open-last-nights-2010-bet-awards-7079512/"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West Sampled King Crimson On His New Dwele-Featuring Song, \"Power\" - The Village Voice",
+          "url": "https://www.villagevoice.com/kanye-west-sampled-king-crimson-on-his-new-dwele-featuring-song-power/"
+        },
+        {
+          "date": "2016-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (Kanye West song) - Simple English Wikipedia, the free encyclopedia",
+          "url": "https://simple.wikipedia.org/wiki/?title=Power_(Kanye_West_song)&oldid=5461147"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7642,
+      "query": "Robert Fripp King Crimson band leader born year",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fripp, Robert, 1946-",
+          "url": "https://id.loc.gov/authorities/names/n85044005.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Robert Fripp",
+          "url": "https://www.discogs.com/es/artist/10355-Robert-Fripp/image/SW1hZ2U6ODM3MzU2NDU=#1"
+        },
+        {
+          "date": "2023-03-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp on Apple Music",
+          "url": "https://music.apple.com/ie/artist/robert-fripp/613849"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Bob",
+          "url": "https://www.discogs.com/it/artist/10355-Robert-Fripp?filter_anv=1&anv=Bob#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "King Crimson at All About Jazz",
+          "url": "https://www.allaboutjazz.com/tag-king-crimson__24369"
+        },
+        {
+          "date": "2016-05-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert FRIPP - Человек Возрождения: 70 лет Роберту Фриппу - Звуки.Ру - Robert FRIPP Человек Возрождения: 70 лет Роберту Фриппу",
+          "url": "https://www.zvuki.ru/R/P/75249/#1"
+        },
+        {
+          "date": "2026-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "King Crimson | Jazz Band / ensemble / orchestra – Biography, Albums & More | All About Jazz",
+          "url": "https://www.allaboutjazz.com/musicians/king-crimson"
+        },
+        {
+          "date": "2005-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Wikipedia - Robert Fripp",
+          "url": "https://it.wikipedia.org/wiki/index.html?curid=111036#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Anónimo",
+          "url": "https://www.ecured.cu/index.php?title=Robert_Fripp&direction=prev&oldid=3384291#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - あなたの街にやってくる大好きなバンドやアーティストのイベント日程を調べましょう。Bandsintownを使って、コンサートチケットや最新ニュースを入手してください。",
+          "url": "https://www.bandsintown.com/ja/a/70419-robert-fripp?came_from=274&utm_medium=web&utm_source=artist_page&utm_campaign=similar_artists_on_tour#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8232,
+    "iterations": [],
+    "output_tokens": 404,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

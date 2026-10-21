@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：Apache License 2.0（Apache-2.0）。**\n\n这次只搜了 1 次。搜索结果里没有 GitHub 仓库 leanprover/lean4 根目录的 LICENSE 文件原文，下面的依据都是第三方来源，但它们说法一致。\n\n依据：\n- OSS Insight 的仓库分析页把许可证列为 apache-2.0：https://ossinsight.io/analyze/leanprover/lean4\n- FreeBSD 的 FreshPorts（math/lean4）把许可证记为 APACHE20：https://www.freshports.org/math/lean4/\n- Gentoo 的 ebuild 写的是 `LICENSE=\"Apache-2.0\"`：https://mirrors.kernel.org/gentoo-portage/sci-mathematics/lean/lean-4.24.0.ebuild\n- openSUSE 的 spec 文件也写 Apache-2.0：https://src.opensuse.org/science/lean4/src/branch/main/lean4.spec\n\nSources:\n- [OSS Insight – leanprover/lean4](https://ossinsight.io/analyze/leanprover/lean4)\n- [FreshPorts – math/lean4](https://www.freshports.org/math/lean4/)\n- [Gentoo lean-4.24.0.ebuild](https://mirrors.kernel.org/gentoo-portage/sci-mathematics/lean/lean-4.24.0.ebuild)\n- [openSUSE lean4.spec](https://src.opensuse.org/science/lean4/src/branch/main/lean4.spec)",
+  "budget_denials": [],
+  "elapsed_seconds": 14.67,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120464,
+      "inputTokens": 16739,
+      "maxOutputTokens": 128000,
+      "outputTokens": 745,
+      "provider": "firstParty",
+      "thinkingTokens": 265,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3062,
+      "cacheReadInputTokens": 6731,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.039078199999999993,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 661,
+      "provider": "firstParty",
+      "thinkingTokens": 22,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-007",
+  "raw": "jsonl/A_prime/custom-007.jsonl",
+  "reported_cost_usd": 0.0511246,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Lean 4 source code license Apache 2.0 github leanprover/lean4",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Nm48zGkx6FsCKhDqD4tZdP"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3062,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3062,
+    "cache_read_input_tokens": 6731,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1233,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1233,
+        "cache_read_input_tokens": 4280,
+        "input_tokens": 2,
+        "output_tokens": 541,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 661,
+    "output_tokens_details": {
+      "thinking_tokens": 22
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

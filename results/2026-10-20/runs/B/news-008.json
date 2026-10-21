@@ -1,0 +1,233 @@
+{
+  "answer": "**答案:存放在 Google 的服务器上,不在用户设备上。**\n\n我没找到 Google 自己在 10 月 15 日发布的技术说明原文,只找到了引用它的报道,所以这个结论来自第二手来源:\n\n- Proton 于 2026-10-15 发表的文章写道,注册时录下的视频\"存储在 Google 的服务器上,作为你的参考视频\"。文章还说,Google 没有提供把它留在手机上的选项。登录时新录的自拍在比对后会被删除,参考视频则一直保留到用户自己删除。https://proton.me/blog/google-selfie-video\n- WebProNews 的报道提到 Google 2026 年 10 月的博文,说 Google 确认会把用户注册的参考视频加密后存在其服务器上。https://www.webpronews.com/samsung-google-and-apple-store-face-biometric-data-only-on-device/\n- 7 月的早期报道(The Verge 等)引用 Google 的话,说参考视频\"被安全存储\"在云端并经过加密,因此不只能在录制它的那台设备上使用。https://tech.yahoo.com/ai/gemini/articles/locked-google-selfie-could-back-191000028.html",
+  "budget_denials": [],
+  "elapsed_seconds": 19.915,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 27636,
+      "cacheReadInputTokens": 5877,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.11682970000000001,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 569,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-008",
+  "raw": "jsonl/B/news-008.jsonl",
+  "reported_cost_usd": 0.11682970000000001,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7813,
+      "query": "Google selfie video sign-in technical explanation reference video stored on device or servers",
+      "results": [
+        {
+          "date": "2026-10-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google wants your selfie video. Who else gets to see it? | Proton",
+          "url": "https://proton.me/blog/google-selfie-video"
+        },
+        {
+          "date": "2026-07-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Introduces New Sign in Feature",
+          "url": "https://qna.org.qa/en/news/news-details?id=google-introduces-new-sign-in-feature&date=24/07/2026"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google now lets you sign in to your account using a selfie video - Skip to main content",
+          "url": "https://on.theverge.com/tech/969361/google-account-sign-in-selfie-video-security#comments#1"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Locked Out of Google? A Selfie Could Get You Back In",
+          "url": "https://tech.yahoo.com/ai/gemini/articles/locked-google-selfie-could-back-191000028.html#1"
+        },
+        {
+          "date": "2026-07-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google推出全新安全验证方式 允许用户通过自拍视频登录账号",
+          "url": "https://m.163.com/dy/article/L2HT2DDF0511BLFD.html?spss=adap_pc"
+        },
+        {
+          "date": "2026-07-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「自拍影片」登入 Google 帳號，安全防護再升級",
+          "url": "https://blog.google/intl/zh-tw/products/devices-services/selfie-for-signin/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google 想要你的自拍视频。还有谁能看到它？ | Proton",
+          "url": "https://proton.me/zh/blog/google-selfie-video"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google adds a selfie video option to sign back into your account - We may earn commissions when you buy from links on our site",
+          "url": "https://www.techlicious.com/blog/google-adds-a-selfie-video-option-to-sign-back-into-your-account/#1"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google lader dig logge ind med en selfievideo af dit ansigt - recordere.dk",
+          "url": "https://www.recordere.dk/2026/07/google-lader-dig-logge-ind-med-en-selfievideo-af-dit-ansigt/"
+        },
+        {
+          "date": "2026-07-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mot de passe oublié ? Google mise désormais sur votre visage pour vous identifier",
+          "url": "https://siecledigital.fr/2026/07/24/mot-de-passe-oublie-google-mise-desormais-sur-votre-visage-pour-vous-identifier/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7632,
+      "query": "Google selfie video sign in October 15 2026 enrolled video",
+      "results": [
+        {
+          "date": "2026-10-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google wants your selfie video. Who else gets to see it? | Proton",
+          "url": "https://proton.me/blog/google-selfie-video"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google 想要你的自拍视频。还有谁能看到它？ | Proton",
+          "url": "https://proton.me/zh/blog/google-selfie-video"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google vil ha selfievideoen din. Hvem ellers får se den? | Proton",
+          "url": "https://proton.me/nb/blog/google-selfie-video"
+        },
+        {
+          "date": "2026-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google’s Selfie Sign-In Is a Signal: Authentication Is Becoming Human Again | 1Kosmos",
+          "url": "https://www.1kosmos.com/resources/blog/google-selfie-sign-in-identity-backed-authentication?hsa_acc=1755668909&hsa_cam=20445560393&hsa_grp=1236951582483307&hsa_kw=identification+verified&hsa_mt=e&hsa_net=adwords&hsa_src=o&hsa_tgt=kwd-77309733646100%3Aloc-190&hsa_ver=3"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Presentamos la selfie para iniciar sesión: una nueva forma sencilla de acceder a tu Cuenta de Google - Presentamos la selfie para iniciar sesión: una nueva forma sencilla de acceder a tu Cuenta de Google",
+          "url": "https://blog.google/intl/es-419/actualizaciones-de-producto/presentamos-la-selfie-para-iniciar-sesion-una-nueva-forma-sencilla-de-acceder-a-tu-cuenta-de-google/?linkId=62907952#1"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Samsung, Google and Apple Store Face Biometric Data Only on Device",
+          "url": "https://www.webpronews.com/samsung-google-and-apple-store-face-biometric-data-only-on-device/"
+        },
+        {
+          "date": "2026-09-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Is Prompting Users to Record a Face Video for Account Recovery - Advertisement",
+          "url": "https://tech.yahoo.com/cybersecurity/articles/google-prompting-users-record-face-143903912.html#1"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google will now let you sign in with a selfie video - Google will now let you sign in with a selfie video",
+          "url": "https://www.digitaltrends.com/phones/google-will-now-let-you-sign-in-with-a-selfie-video/#h-maincontent#1"
+        },
+        {
+          "date": "2026-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"Prenez un selfie pour accéder à votre compte\" : c'est la nouvelle mesure testée par Google - \"Prenez un selfie pour accéder à votre compte\" : c'est la nouvelle mesure testée par Google",
+          "url": "https://www.science-et-vie.com/technos-et-futur/prenez-un-selfie-pour-acceder-a-votre-compte-cest-la-nouvelle-mesure-testee-par-google-259945.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown#1"
+        },
+        {
+          "date": "2026-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "If you get knocked on the head and get all your devices stolen and have amnesia, Google will let you back in with a selfie - REG AD",
+          "url": "https://www.theregister.com/security/2026/07/23/if-you-get-knocked-on-the-head-and-get-all-your-devices-stolen-and-have-amnesia-google-will-let-you-back-in-with-a-selfie/5276669#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 27636,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27636,
+    "cache_read_input_tokens": 5877,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 25767,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 25767,
+        "cache_read_input_tokens": 3873,
+        "input_tokens": 2,
+        "output_tokens": 416,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 569,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

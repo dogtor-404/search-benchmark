@@ -1,0 +1,16 @@
+{
+  "diagnostic": "diagnostics/search-failure-recheck-001.json",
+  "group": "D2",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "original_file_sha256": {
+    "audit/D2/simpleqa_verified-3011/dispatch.json": "52cef3084b60c69c8c52552e45a2fe4c9657b4ea1e8596384bb5e1b018fce40e",
+    "audit/D2/simpleqa_verified-3011/mcp-count.txt": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+    "audit/D2/simpleqa_verified-3011/search.jsonl": "b1a371479614656a67491ca66c02f682f9b02af20de9cdb7804081377911891c",
+    "audit/D2/simpleqa_verified-3011/stderr.txt": "d0f2303a114d64fd95769a7a6996dc727d00c3a348106440d9ef2b81313f7b2f",
+    "jsonl/D2/simpleqa_verified-3011.jsonl": "424274882cb5fd323eb2daac26134ccecbe06c9c2ed900b1efbd8fce27561c75",
+    "runs/D2/simpleqa_verified-3011.json": "347fba433f058589ddca24ea40a9856ea00ea536cd6c7735454451e00d2d45fb"
+  },
+  "question_id": "simpleqa_verified-3011",
+  "retry_number": 1,
+  "review": "第一搜索记录为通用失败，无HTTP状态；第二搜索成功。独立复查相同查询HTTP200且字段完整。仅因工具执行故障重跑，不据作答结果择优。原始输出全部保留，成功题不重复。"
+}

@@ -1,0 +1,221 @@
+{
+  "answer": "**Bill Berger（William Berger）**：他是 WFMU 的 DJ，在 1986 年末开设了名为 **“Lo-Fi”** 的节目：每周在自己的节目中划出半小时，专门播放听众寄来的家庭录音磁带，并且被认为推广甚至提出了 “lo-fi” 这一说法。\n\n依据：\n- https://en.wikipedia.org/wiki/Lo-fi_music\n- http://elenarazlogova.org/wp-content/uploads/Razlogova_Freeform-Radio-and-the-History-of-Music-Streaming_2022.pdf\n- http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html",
+  "budget_denials": [],
+  "elapsed_seconds": 7.072,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 11520,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.065384,
+      "inputTokens": 13855,
+      "maxOutputTokens": 32000,
+      "outputTokens": 383,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-002",
+  "raw": "jsonl/D2/custom-002.jsonl",
+  "reported_cost_usd": 0.065384,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6964,
+      "query": "WFMU 1986 \"Low-Fi\" segment DJ home tape recordings listeners",
+      "results": [
+        {
+          "date": "2017-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LO-FI ON THE LOWER EAST SIDE 1986-1990",
+          "url": "http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chasing Ghosts: WFMU Airchecks",
+          "url": "https://www.worldradiohistory.com/hd2/IDX-Site-Technical/Engineering-Broadcast/Radio-World-IDX/IDX/2006/Radio-World-2006-03-15-IDX-12.pdf#1#1"
+        },
+        {
+          "date": "2026-01-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WFMU — Grokipedia - WFMU",
+          "url": "https://grokipedia.com/page/WFMU#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No Hits, All the Time - No Hits, All the Time",
+          "url": "https://www.dejavu.org/cgi-bin/get.cgi?ver=93&url=http%3A%2F%2Fwfmu.org%2Fnytimes.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WFMU - Wikiwand articles - WFMU",
+          "url": "https://www.wikiwand.com/en/articles/Sex_and_Broadcasting_(2014_documentary)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WFMU Station | Listen Live on World Radio Central",
+          "url": "https://worldradiocentral.com/station/wfmu"
+        },
+        {
+          "date": "2009-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hound WFMU - Hound WFMU",
+          "url": "https://www.tdpri.com/threads/hound-wfmu.149493/#post-1688903#1"
+        },
+        {
+          "date": "2018-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "This is an archived page. - This is an archived page.",
+          "url": "https://archive.nytimes.com/www.nytimes.com/library/magazine/home/041199wolf.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5, 1980, the day after Ronald Reagan was elected, WCBN at University of Michigan, Ann Arbor,",
+          "url": "http://elenarazlogova.org/wp-content/uploads/Razlogova_Freeform-Radio-and-the-History-of-Music-Streaming_2022.pdf#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WFMU - WFMU",
+          "url": "https://iiab.live/kiwix/content/wikipedia_en_top1m_maxi_2024-05/A/WFMU#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7094,
+      "query": "\"Bill Berger\" WFMU \"Lo-Fi\" 1986 cassette show",
+      "results": [
+        {
+          "date": "2017-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LO-FI ON THE LOWER EAST SIDE 1986-1990",
+          "url": "http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html"
+        },
+        {
+          "date": "2017-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WILLIAM M. BERGER, 1964-2017",
+          "url": "http://raybrazen.blogspot.com/2017/09/william-m-berger-1964-2017.html?showComment=1510062850759#c3096761326176810728"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ray Zinnbrann : 音乐唱片 [专辑类型: 汇编 | File Type: 空值 | Style: Lo-Fi]",
+          "url": "https://colnect.cn/zh/music_records/list/album_type/4-%E6%B1%87%E7%BC%96/artist/918454-Ray_Zinnbrann/file_type/0-%E7%A9%BA%E5%80%BC/style/161-Lo-Fi"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Freeform Radio and the History of Music Streaming - Freeform Radio and the History of Music Streaming",
+          "url": "https://ouci.dntb.gov.ua/en/works/4arv0o6l/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5, 1980, the day after Ronald Reagan was elected, WCBN at University of Michigan, Ann Arbor,",
+          "url": "http://elenarazlogova.org/wp-content/uploads/Razlogova_Freeform-Radio-and-the-History-of-Music-Streaming_2022.pdf#4#2"
+        },
+        {
+          "date": "2015-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "这次不说Hi-Fi 我们来谈一谈Lo-Fi吧（全文）_音频HiFi-中关村在线 - 编辑",
+          "url": "https://sound.zol.com.cn/549/5495470_all.html#p5495470#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matches in DBpedia 2016-04 for { <http://dbpedia.org/resource/Lo-fi_music> ?p ?o } - DBpedia – Linked Data Fragments",
+          "url": "http://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FLo-fi_music#1"
+        },
+        {
+          "date": "2015-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "谈一谈Lo-Fi音乐",
+          "url": "https://www.luyin123.com/index/news/id/2504.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Lo-fi | encyclopedia article by TheFreeDictionary",
+          "url": "https://wwwencyclopedia.thefreedictionary.com/lo-fi#cite_note-17#1"
+        },
+        {
+          "date": "2005-12-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Wikipedia - Lo-fi music",
+          "url": "https://en.wikipedia.org/wiki/Lo-fi_music?oldid=1123807742&ns=0#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 11520,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13855,
+    "iterations": [],
+    "output_tokens": 383,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

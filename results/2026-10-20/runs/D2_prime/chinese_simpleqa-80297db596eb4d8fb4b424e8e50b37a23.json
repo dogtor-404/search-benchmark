@@ -1,0 +1,221 @@
+{
+  "answer": "**答案**：1855 年基亚尔（Achille Guillard）所著的《人类统计或比较人口学大纲》——法文原名 *Éléments de statistique humaine ou démographie comparée*（即《人类统计要素，或比较人口学》）。\n\n**依据网址**：\n- 百度百科「人口学」：https://baike.baidu.com/item/%E4%BA%BA%E5%8F%A3%E5%AD%B8/3457007\n- BnF 目录（法国国家图书馆著录，1855 年 Guillaumin 出版）：https://catalogue.bnf.fr/ark:/12148/cb305566607.public",
+  "budget_denials": [],
+  "elapsed_seconds": 8.521,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.046472,
+      "inputTokens": 9115,
+      "maxOutputTokens": 32000,
+      "outputTokens": 475,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-80297db596eb4d8fb4b424e8e50b37a23",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-80297db596eb4d8fb4b424e8e50b37a23.jsonl",
+  "reported_cost_usd": 0.046472,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6482,
+      "query": "人口学 一词 最早 1855 基亚尔 著作",
+      "results": [
+        {
+          "date": "2018-11-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-人口学 - 图文",
+          "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=6969033103858999296#1"
+        },
+        {
+          "date": "2021-12-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-人口学 - 版权归原作者所有，如有侵权，请联系我们",
+          "url": "https://www.kepuchina.cn/article/articleinfo?ar_id=187577&business_type=100&classify=0#1"
+        },
+        {
+          "date": "2020-11-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人口学 - 人口学",
+          "url": "http://h5.scimall.org.cn/news/detail?id=4795503#1"
+        },
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“We Are All Population Actors”: An Introduction to Demography (Chapter 1) - Population and Society - Hostname: page-component-8678677fb7-6m49c Total loading time: 0 Render date: 2026-09-29T06:08:00.509Z Has data issue: false hasC...",
+          "url": "https://www.cambridge.org/core/books/abs/population-society/we-are-all-population-actors-an-introduction-to-demography/8DC8A09487751A066B56F0CCAE63B2DB#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人口学的研究领域",
+          "url": "http://dianda.cqvip.com/Qikan/Article/Detail?id=1002763787"
+        },
+        {
+          "date": "2026-04-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人口学 - 社会科学学科",
+          "url": "https://baike.baidu.com/item/%E4%BA%BA%E5%8F%A3%E5%AD%B8/3457007#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Achille Guillard et la science démographique",
+          "url": "https://archined.ined.fr/view/AWRH8dbsgpz89Adag5HO"
+        },
+        {
+          "date": "2026-04-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人口学",
+          "url": "https://baike.baidu.com/item/%E4%BA%BA%E5%8F%A3%E5%AD%A6/3457007?anchor=3#3"
+        },
+        {
+          "date": "2023-01-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Éléments de statistique humaine ou démographie comparée (1855)",
+          "url": "https://books.google.com.sg/books?id=6SGpEAAAQBAJ&newbks=1&newbks_redir=0&hl=zh-CN&redir_esc=y"
+        },
+        {
+          "date": "2026-04-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人口学（社会科学学科）_百度百科 - 搜词条",
+          "url": "https://wapbaike.baidu.com/item/%E4%BA%BA%E5%8F%A3%E5%AD%A6/3457007?fromModule=tashuo-article_bottom-lemma#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7785,
+      "query": "Achille Guillard 1855 démographie book Elements de statistique humaine",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BnF Catalogue général",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb305566607.public"
+        },
+        {
+          "date": "2023-01-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Éléments de statistique humaine ou démographie comparée (1855)",
+          "url": "https://books.google.com.sg/books?id=6SGpEAAAQBAJ&newbks=1&newbks_redir=0&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Catalog Record: Éléments de statistique humaine; ou, Démographie comparée, où sont exposés les principes de la science nouvelle, et controntés, d'après les documents les plus authentiques, l'état, les mouvements généraux et les progrès de la population dans les pays civilisés",
+          "url": "https://catalog.hathitrust.org/Record/008633007/Home"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Achille Guillard et la science démographique",
+          "url": "https://archined.ined.fr/view/AWRH8dbsgpz89Adag5HO"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Catalogue Bpi - Documento Éléments de statistique humaine ou Démographie comparée : 1855 - Utiliser les flèches haut et bas du clavier pour vous déplacer dans la liste de suggestions",
+          "url": "https://catalogue.bpi.fr/es/document/ark:/34201/nptfl0001151385#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Record Citations",
+          "url": "https://catalog.hathitrust.org/Record/008633007/Cite"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books Author",
+          "url": "https://ci.nii.ac.jp/author/DA09479121?l=en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books 著者",
+          "url": "https://ci.nii.ac.jp/author/DA09479121?l=ja"
+        },
+        {
+          "date": "2024-12-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Introduction - Demography and the Making of the Modern World - Hostname: page-component-5d84bcc8dc-4z867 Total loading time: 0 Render date: 2026-08-28T17:29:50.506Z Has data issue: false hasC...",
+          "url": "https://www.cambridge.org/core/books/abs/demography-and-the-making-of-the-modern-world/introduction/8807FD3AEA676F9EF2A002810373A460#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Syracuse",
+          "url": "https://bibliotheque.insee.net/INSEE/doc/SYRACUSE/495406/elements-de-statistique-humaine-ou-demographie-comparee"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9115,
+    "iterations": [],
+    "output_tokens": 475,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "**1996 年**（1 月）。FDA 当时批准 olestra（商品名 Olean）用作薯片、饼干等咸味零食的油脂替代品，并要求包装上加注可能引起肠胃不适的警示语；这条警示要求后来在 2003 年取消。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.52,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1759,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0168536,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 123,
+      "provider": "firstParty",
+      "thinkingTokens": 25,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-012",
+  "raw": "jsonl/0_prime/custom-012.jsonl",
+  "reported_cost_usd": 0.0168536,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1759,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1759,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1759,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1759,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 123,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 123,
+    "output_tokens_details": {
+      "thinking_tokens": 25
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

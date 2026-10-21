@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：Willa Collar（Raelle 的母亲）**——在《Motherland: Fort Salem》第一季结局中，人们发现她其实还活着，而且正是给 Scylla 下达指令的 Spree 成员。\n\n依据的网址：\n- https://ew.com/events/comic-con/motherland-fort-salem-season-2-twists/\n- https://www.tvinsider.com/935196/motherland-fort-salem-season-1-finale-raelle-mother-alive-abigail-scylla/",
+  "budget_denials": [],
+  "elapsed_seconds": 6.805,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.029826400000000003,
+      "inputTokens": 5945,
+      "maxOutputTokens": 32000,
+      "outputTokens": 278,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-3173",
+  "raw": "jsonl/D2_prime/simpleqa_verified-3173.jsonl",
+  "reported_cost_usd": 0.029826400000000003,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.743,
+      "query": "Motherland Fort Salem Season 1 finale who is discovered alive",
+      "results": [
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘Motherland: Fort Salem’ Creator On The Finale Bombshell, Raelle & Scylla’s Future & More Season 2 Scoop",
+          "url": "https://hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview/amp/"
+        },
+        {
+          "date": "2020-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' cast and creator tease 'dramatic' season 2 twists - Motherland: Fort Salem cast and creator tease 'dramatic' season 2 twists",
+          "url": "https://ew.com/events/comic-con/motherland-fort-salem-season-2-twists/#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' Season 2 Spoilers On Raelle, Abigail, Scylla",
+          "url": "https://develop.hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview/#main"
+        },
+        {
+          "date": "2020-05-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' Boss Breaks Down Those Major Finale Surprises & Teases Season 2 - ‘Motherland: Fort Salem’ Boss Breaks Down Those Major Finale Surprises & Teases Season 2",
+          "url": "https://www.tvinsider.com/935196/motherland-fort-salem-season-1-finale-raelle-mother-alive-abigail-scylla/#spotim#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Episode 10 Review - Witchbomb | Den of Geek - Motherland: Fort Salem Episode 10 Review – Witchbomb",
+          "url": "https://www.denofgeek.com/tv/motherland-fort-salem-episode-10-review/#1"
+        },
+        {
+          "date": "2020-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Creator on What’s Brewing for Season 2 | Den of Geek - Motherland: Fort Salem Creator on What’s Brewing for Season 2",
+          "url": "https://www.denofgeek.com/tv/motherland-fort-salem-eliot-laurence-season-2/#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8 Burning Questions for 'Motherland: Fort Salem' Season 2",
+          "url": "https://www.tvinsider.com/gallery/motherland-fort-salem-season-2-burning-questions-freeform/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fort Salem cast teases season 2 during Comic-Con 2020",
+          "url": "https://spite.s3.uk.io.cloud.ovh.net/fort-salem-cast-teases-season-2-during-comic-con-2020.html"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem: Season 1 Episode 10 “Witchbomb” [Season Finale] – Recap/ Review with Spoilers",
+          "url": "https://wherever-i-look.com/tv-shows/motherland-fort-salem-season-1-episode-10-witchbomb-season-finale-recap-review-with-spoilers#respond"
+        },
+        {
+          "date": "2022-08-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem delivers a calm before the storm",
+          "url": "https://culturess.com/2022/08/19/motherland-fort-salem-s3-episode-9/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5945,
+    "iterations": [],
+    "output_tokens": 278,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

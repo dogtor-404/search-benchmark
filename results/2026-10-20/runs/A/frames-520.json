@@ -1,0 +1,98 @@
+{
+  "answer": "**答案:约 302,971 人。**\n\n推理过程:\n- 马修·麦康纳凭《达拉斯买家俱乐部》获得第 86 届奥斯卡(2014 年 3 月)最佳男主角。\n- 五年前是 2009 年 2 月的第 43 届超级碗,夺冠的是匹兹堡钢人队(Pittsburgh Steelers)。这两点来自我的已有知识,没有另外搜索核实。\n- 匹兹堡市 2020 年人口普查人口为 302,971,比 2010 年的 305,704 下降约 0.89%。\n\nSources:\n- [Preliminary Survey Ahead Of 2020 Census Suggests Pittsburgh... / CBS News Pittsburgh](https://www.cbsnews.com/pittsburgh/news/2020-census-data-allegheny-and-westmoreland)\n- [U.S. Census Bureau QuickFacts: Pittsburgh city, Pennsylvania](https://census.gov/quickfacts/fact/table/pittsburghcitypennsylvania/POP815223)",
+  "budget_denials": [],
+  "elapsed_seconds": 13.817,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117129,
+      "inputTokens": 13759,
+      "maxOutputTokens": 128000,
+      "outputTokens": 674,
+      "provider": "firstParty",
+      "thinkingTokens": 174,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3026,
+      "cacheReadInputTokens": 6771,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.018899100000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 611,
+      "provider": "firstParty",
+      "thinkingTokens": 153,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-520",
+  "raw": "jsonl/A/frames-520.jsonl",
+  "reported_cost_usd": 0.030612,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Pittsburgh population 2020 census",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XbUpKb57cGsFxY87hXxa6x"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3026,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3026,
+    "cache_read_input_tokens": 6771,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1157,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1157,
+        "cache_read_input_tokens": 4320,
+        "input_tokens": 2,
+        "output_tokens": 373,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 611,
+    "output_tokens_details": {
+      "thinking_tokens": 153
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

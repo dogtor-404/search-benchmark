@@ -1,0 +1,107 @@
+{
+  "answer": "**答案:1933 年。** 这个说法只有一个来源,可信度偏低。\n\n网易号的一篇文章说,1933 年国内最后一家点翠工场因为翠羽断绝而倒闭。这是自媒体文章,没有注明史料出处。我没有找到故宫、非遗或学术资料来印证。\n\n另外,北京的肖氏点翠传承人至今仍在做这门手艺,所以 1933 年之说只能理解为传统真翠工场的衰落,不能当作技艺彻底断绝。\n\n我一共搜了 2 次。\n\nSources:\n- [网易号:点翠相关文章](https://www.163.com/dy/article/DIVE918F0518JH1H.html)",
+  "budget_denials": [],
+  "elapsed_seconds": 26.803,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0235299,
+      "inputTokens": 27034,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1653,
+      "provider": "firstParty",
+      "thinkingTokens": 442,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4550,
+      "cacheReadInputTokens": 12163,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0264083,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 698,
+      "provider": "firstParty",
+      "thinkingTokens": 246,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+  "raw": "jsonl/A/chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76.jsonl",
+  "reported_cost_usd": 0.0499382,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "中国最后一家点翠工场 关闭 哪一年",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SqFiiHewkYovssuUyAZA7j"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "点翠 最后一家工场 关闭 点翠技艺失传",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BwDsE4asJLnjJ6EWgHN9qc"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4550,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4550,
+    "cache_read_input_tokens": 12163,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1575,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1575,
+        "cache_read_input_tokens": 5426,
+        "input_tokens": 2,
+        "output_tokens": 241,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 698,
+    "output_tokens_details": {
+      "thinking_tokens": 246
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

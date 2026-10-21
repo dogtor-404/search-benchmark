@@ -1,0 +1,107 @@
+{
+  "answer": "**Short answer: 3 times, in 1990, 1997 and 2013.** This is my reading of the sources. None of them states the count directly.\n\n- **1990:** The IJI won and Nawaz Sharif became prime minister. Benazir Bhutto then led the opposition.\n- **1997:** The PML-N won 137 seats and the PPP came second with 18.\n- **2013:** The PPP became the largest opposition party in the National Assembly, and Khurshid Shah was opposition leader from 2013 to 2018.\n\nI left out two cases:\n- **2002:** The PPP came second, but the sources don't show it held the main opposition role. From memory, the MMA's Maulana Fazlur Rehman became opposition leader, though that part is not from the sources.\n- **2018:** The PPP opposed the PTI government but was not the lead opposition party. From memory, the PML-N's Shehbaz Sharif was opposition leader, though that part is not from the sources.\n\nSources:\n- [Dawn – Pakistan Peoples Party](https://www.dawn.com/news/1404648)\n- [Carnegie – The peculiar case of the PPP as an opposition party](https://carnegieendowment.org/research/2022/03/the-peculiar-case-of-the-pakistan-peoples-party-as-an-opposition-party)\n- [ARY News – Syed Khurshid Shah](https://arynews.tv/syed-khurshid-shah)\n- [The News – PPP returns to the Centre stage](https://www.thenews.pk/tns/detail/963114-ppp-returns-to-the-centre-stage)",
+  "budget_denials": [],
+  "elapsed_seconds": 33.658,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023698999999999998,
+      "inputTokens": 26265,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2145,
+      "provider": "firstParty",
+      "thinkingTokens": 679,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4358,
+      "cacheReadInputTokens": 12164,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0299904,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1133,
+      "provider": "firstParty",
+      "thinkingTokens": 383,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/A/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.0536894,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Pakistan People's Party emerged as the leading opposition party times national level",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016hSiQ21zJkUGKmKQgresNA"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Pakistan Peoples Party Wikipedia \"opposition\" 1990 1997 2013 2018 leader of the opposition National Assembly PPP times",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Bkvex5kw2HHe8berSUsE7H"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4358,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4358,
+    "cache_read_input_tokens": 12164,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1401,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1401,
+        "cache_read_input_tokens": 5408,
+        "input_tokens": 2,
+        "output_tokens": 871,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1133,
+    "output_tokens_details": {
+      "thinking_tokens": 383
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

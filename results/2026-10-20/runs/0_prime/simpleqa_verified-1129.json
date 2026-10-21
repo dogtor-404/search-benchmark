@@ -1,0 +1,72 @@
+{
+  "answer": "TCG Yavuz（F240）是土耳其海军亚武兹级（MEKO 200TN）护卫舰的首舰，**全长约 115.5 米**。\n\n这是凭记忆回答，没有联网核实。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.119,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1760,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0177816,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 169,
+      "provider": "firstParty",
+      "thinkingTokens": 92,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-1129",
+  "raw": "jsonl/0_prime/simpleqa_verified-1129.jsonl",
+  "reported_cost_usd": 0.0177816,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1760,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1760,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1760,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 169,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 169,
+    "output_tokens_details": {
+      "thinking_tokens": 92
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

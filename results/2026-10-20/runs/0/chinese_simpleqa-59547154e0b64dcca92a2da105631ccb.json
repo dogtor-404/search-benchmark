@@ -1,0 +1,72 @@
+{
+  "answer": "我记得是 **1108 年**（北宋大观二年），但不太确定。\n\n不同资料对成书和刊行时间的说法不一，有的写大观元年（1107），有的写政和年间（1111 前后）。我没法联网核实，所以只能给出这个有出入的答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.746,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0140968,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 692,
+      "provider": "firstParty",
+      "thinkingTokens": 595,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+  "raw": "jsonl/0/chinese_simpleqa-59547154e0b64dcca92a2da105631ccb.jsonl",
+  "reported_cost_usd": 0.0140968,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 692,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 692,
+    "output_tokens_details": {
+      "thinking_tokens": 595
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

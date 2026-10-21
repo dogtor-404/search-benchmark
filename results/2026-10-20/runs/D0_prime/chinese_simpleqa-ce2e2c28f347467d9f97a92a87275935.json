@@ -1,0 +1,60 @@
+{
+  "answer": "据我所知，答案是**日本经济新闻社**（《日本经济新闻》/ Nikkei）。\n\n“环境荷尔蒙”（環境ホルモン）这个说法，是井口泰泉教授与日本经济新闻社在 1990 年代共同创造出并推广开来的。我无法联网核实，但这是我记忆中较确定的答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 26.24,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.04796,
+      "inputTokens": 2040,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1990,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935.jsonl",
+  "reported_cost_usd": 0.04796,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2040,
+    "iterations": [],
+    "output_tokens": 1990,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

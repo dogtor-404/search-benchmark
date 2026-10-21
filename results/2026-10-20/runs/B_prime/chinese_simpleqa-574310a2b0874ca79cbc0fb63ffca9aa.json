@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：明朝**（晚明，大约万历年间）。\n\n邢慈静是山东临邑人，书法家邢侗的妹妹。她用头发绣成《发绣大士像》，看到的人都惊叹为“针神”。\n\n依据的网址：\n- 维基百科：https://zh.wikipedia.org/zh-hant/%E9%82%A2%E6%85%88%E9%9D%9C ，写着“时代：明”，还写了她“精于刺绣，被人称为‘针神’”。\n- 百度百科：https://baike.baidu.com/item/%e9%82%a2%e6%85%88%e9%9d%99/0 ，写她是“明代才女、书画家”，“见者诧为针神”。\n- 汉典书法：https://sf.zdic.net/shufamingjia/mingdai/1224/e05dad31ae2ae782a7bff7343528fe28.html ，把她列在明代书法家里。\n\n只搜了 1 次。\n\n哈佛的中国历代人物传记资料库（CBDB）那条结果写着“生年：明万历元年（1573）”，“朝代”一栏却是“清”。这可能是因为她活到了明末，有作品署崇祯十三年（1640）。不过上面几个来源都写明代，所以答案取明朝。",
+  "budget_denials": [],
+  "elapsed_seconds": 10.087,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5594,
+      "cacheReadInputTokens": 5850,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.056678,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 537,
+      "provider": "firstParty",
+      "thinkingTokens": 33,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa",
+  "raw": "jsonl/B_prime/chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa.jsonl",
+  "reported_cost_usd": 0.056678,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6671,
+      "query": "邢慈静 针神 朝代",
+      "results": [
+        {
+          "date": "2019-09-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈靜 - 維基百科，自由的百科全書",
+          "url": "https://zh.wikipedia.org/zh-hant/%E9%82%A2%E6%85%88%E9%9D%9C"
+        },
+        {
+          "date": "2025-10-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈静_百度百科 - 邢慈静",
+          "url": "https://baike.baidu.com/item/%e9%82%a2%e6%85%88%e9%9d%99/0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈靜 xing ci jing",
+          "url": "http://arts.fgs.org.tw/tw/keyword_search_detail.php?arg=RkNCXL1YwwJsKb1rN1nS9UpZrB%2F8bxQc3iGehhUo5h%2F3WXeLVF%2B%2FLkaeDwo"
+        },
+        {
+          "date": "2013-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈静在临邑 联合网",
+          "url": "http://read.lhwww.cn/Readingzone/PaperInfo/10B6AFE1-C18D-4FEE-A265-9A553F76D4FF?aid=DB7AF0F8-0149-4A14-8AC2-6D2A652B6D0D"
+        },
+        {
+          "date": "2021-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "晚明才女畫觀音 故宮南院展出 | 覺世．宗教 | 人間福報",
+          "url": "https://211-72-96-25.hinet-ip.hinet.net/NewsPage.aspx?unid=633061"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈静_明代_汉典书法",
+          "url": "https://sf.zdic.net/shufamingjia/mingdai/1224/e05dad31ae2ae782a7bff7343528fe28.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈靜",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_zh_all_maxi/%E9%82%A2%E6%85%88%E9%9D%9C"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈静的主页-artron",
+          "url": "https://artist.artron.net/61054/profile"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中國歷代人物傳記資料庫",
+          "url": "https://cbdb.fas.harvard.edu/cbdbapi/person.php?name=Xing%20Cijing"
+        },
+        {
+          "date": "2023-11-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "邢慈静-快懂百科",
+          "url": "https://www.baike.com/wikiid/7570891118810826697?enter_type=blue_link&source=collection&from_doc_title=%E6%98%8E%E6%9C%9D%E4%B9%A6%E7%94%BB%E5%AE%B6&from_doc_id=7383235881534111782&from_version_id=7383235881534128166"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5594,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5594,
+    "cache_read_input_tokens": 5850,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3752,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3752,
+        "cache_read_input_tokens": 3846,
+        "input_tokens": 2,
+        "output_tokens": 436,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 537,
+    "output_tokens_details": {
+      "thinking_tokens": 33
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

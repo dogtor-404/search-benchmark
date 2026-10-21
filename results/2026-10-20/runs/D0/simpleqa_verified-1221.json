@@ -1,0 +1,60 @@
+{
+  "answer": "我不知道。\n\n我只能确认 2007 年 UCI 公路越野世锦赛（Hooglede-Gits）男子青年组冠军是比利时的 Joeri Adams，但冠军完赛时间精确到秒这个数据我没有可靠记忆，无法给出。凭印象编一个数字没有意义，所以直接说不知道。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.652,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0138,
+      "inputTokens": 1995,
+      "maxOutputTokens": 32000,
+      "outputTokens": 291,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-1221",
+  "raw": "jsonl/D0/simpleqa_verified-1221.jsonl",
+  "reported_cost_usd": 0.0138,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1995,
+    "iterations": [],
+    "output_tokens": 291,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

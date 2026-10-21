@@ -1,0 +1,60 @@
+{
+  "answer": "磁化强度在国际单位制中的单位是**安培每米（A/m）**。\n\n磁化强度定义为磁矩除以体积，即\n\n$$M = \\frac{m}{V}$$\n\n磁矩的单位是 A·m²，体积的单位是 m³，两者相除得到 A/m。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.642,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.010828,
+      "inputTokens": 2032,
+      "maxOutputTokens": 32000,
+      "outputTokens": 135,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0.jsonl",
+  "reported_cost_usd": 0.010828,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2032,
+    "iterations": [],
+    "output_tokens": 135,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

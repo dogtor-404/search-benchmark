@@ -1,0 +1,60 @@
+{
+  "answer": "凭记忆回答，未能上网核实，建议使用时再核对官方专利数据库。\n\n马特森（Fred H. Mattson）与沃尔彭海因（Robert A. Volpenhein）1968 年申请、关于低热量脂肪（蔗糖聚酯 / 后来的 Olestra 基础）的美国专利编号是：\n\n**US 3,600,186**，标题 *\"Low calorie fat-containing food compositions\"*（低热量含脂肪食品组合物），1968 年 5 月申请，1971 年 8 月 17 日授权。\n\n如果是问同一对发明人后续更聚焦于脂肪替代品本身的另一件专利，常见的还有 **US 4,005,195**（\"Low calorie substitute for fat\"，约 1974 年申请、1977 年授权），但按“1968 年申请”这个时间点，对应的应是 **US 3,600,186**。",
+  "budget_denials": [],
+  "elapsed_seconds": 14.423,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.029484,
+      "inputTokens": 2046,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1065,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-011",
+  "raw": "jsonl/D0_prime/custom-011.jsonl",
+  "reported_cost_usd": 0.029484,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2046,
+    "iterations": [],
+    "output_tokens": 1065,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

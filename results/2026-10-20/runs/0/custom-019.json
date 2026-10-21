@@ -1,0 +1,72 @@
+{
+  "answer": "约 **632 英里/小时**（约 1017 公里/小时）。\n\n1954 年 12 月 10 日，Stapp 在新墨西哥州 Holloman 空军基地的 “Sonic Wind No. 1” 火箭滑车上，几秒内加速到约 632 mph（约合 0.9 马赫），随后在约 1.4 秒内急停，承受了约 46.2 g 的减速度。这是当时的陆地速度纪录。\n\n这是凭记忆回答的，没有联网核对。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.625,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1782,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0090488,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 176,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-019",
+  "raw": "jsonl/0/custom-019.jsonl",
+  "reported_cost_usd": 0.0090488,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1782,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1782,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1782,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1782,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 176,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 176,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

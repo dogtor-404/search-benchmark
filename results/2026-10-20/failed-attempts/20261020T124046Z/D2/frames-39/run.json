@@ -1,0 +1,9 @@
+{
+  "elapsed_seconds": 12.565,
+  "error": "存在真实搜索失败或审计错误。",
+  "exit_code": 0,
+  "group": "D2",
+  "question_id": "frames-39",
+  "raw": "jsonl/D2/frames-39.jsonl",
+  "status": "failed"
+}

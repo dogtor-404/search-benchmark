@@ -1,0 +1,221 @@
+{
+  "answer": "**Leon Botstein**（莱昂·博特斯坦）。Hannah Arendt（汉娜·阿伦特）葬于巴德学院（Bard College）的墓地；而博特斯坦自 1975 年起就担任巴德学院校长，到 2020 年时已是该校任期最长的校长，也是全美任职时间最长的高校校长之一。\n\n依据网址：\n- https://www.bard.edu/news/releases/pr/fstory.php?id=1100\n- https://www.pbs.org/wnet/americanmasters/leon-botstein-hannah-arendt/36293/",
+  "budget_denials": [],
+  "elapsed_seconds": 7.223,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0540504,
+      "inputTokens": 10531,
+      "maxOutputTokens": 32000,
+      "outputTokens": 572,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-475",
+  "raw": "jsonl/D2/frames-475.jsonl",
+  "reported_cost_usd": 0.0540504,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6631,
+      "query": "Hannah Arendt buried Bard College cemetery",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in Dark Times : Hannah Arendt on Ethics and Politics | WorldCat.org - 资料",
+          "url": "https://search.worldcat.org/zh-cn/title/1306539732#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in dark times : Hannah Arendt on ethics and politics - Thinking in dark times : Hannah Arendt on ethics and politics",
+          "url": "https://find.library.duke.edu/catalog/DUKE004275072#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Odd Fellows: Hannah Arendt and Philip Roth",
+          "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002367103#listCita"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in Dark Times - Thinking in Dark Times: Hannah Arendt on Ethics and Politics",
+          "url": "https://books.google.com/books?id=7DS_PIux3HkC&newbks=0&hl=zh-CN#1"
+        },
+        {
+          "date": "2006-10-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard Press Releases - BARD COLLEGE TO GATHER LEADING PHILOSOPHERS, POLITICAL THEORISTS, INTELLECTUALS, AND JOURNALISTS TO HONOR THE 100TH ANNIVERSARY ...",
+          "url": "https://www.bard.edu/news/releases/pr/fstory.php?id=1100#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in Dark Times Hannah Arendt on Ethics and Politics",
+          "url": "https://katalog.ulb.hhu.de/Record/99371276429706441"
+        },
+        {
+          "date": "2025-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What Hannah Arendt taught the president of Bard College | American Masters | PBS - What Hannah Arendt taught the president of Bard College",
+          "url": "https://www.pbs.org/wnet/americanmasters/leon-botstein-hannah-arendt/36293/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in Dark Times :Hannah Arendt on Ethics and Politics - Thinking in Dark Times :Hannah Arendt on Ethics and Politics",
+          "url": "https://webpac2-lib.stust.edu.tw/webpac/detail/28738354/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Thinking in dark times : Hannah Arendt on ethics and politics / - Thinking in dark times : Hannah Arendt on ethics and politics /",
+          "url": "https://libcat.wellesley.edu/Record/in00000600225/Description?print=1&lng=de#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Diğer Bilgiler: Thinking in dark times - Thinking in dark times : Hannah Arendt on ethics and politics /",
+          "url": "https://libcat.wellesley.edu/Record/in00000600225/Description?lng=tr&print=1#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7185,
+      "query": "Bard College longest-serving president as of 2020 Leon Botstein",
+      "results": [
+        {
+          "date": "2026-05-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard College president of over 50 years to retire over Epstein ties - Leon Botstein leading the American Symphony Orchestra in Johann Christian Bach's \"Symphony in G minor\" in the program \"Sons of B...",
+          "url": "https://www.timesofisrael.com/bard-college-president-of-over-50-years-to-retire-over-epstein-ties/?utm_campaign=liveblog-november-12-2025#1"
+        },
+        {
+          "date": "2026-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Simon’s Rock community calls for resignation of Bard President Leon Botstein over ties to Jeffrey Epstein - Top Story",
+          "url": "https://www.berkshireeagle.com/news/local/botstein-epstein-open-letter-resignation/article_55fa5344-f576-4ade-9c6e-b56cf4bf65d8.html?utm_campaign=wu-weighs-in-on-battle-between-foxborough-and-kraft-group&utm_medium=referral&utm_source=massterlist.com#1"
+        },
+        {
+          "date": "2026-05-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard College set to embark on search for new president - Bard College set to embark on search for new president",
+          "url": "https://www.dailyfreeman.com/2026/05/13/bard-college-set-to-embark-on-search-for-new-president/#1"
+        },
+        {
+          "date": "2026-05-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard College president to retire following probe into his ties to Epstein",
+          "url": "https://www.highereddive.com/news/bard-college-president-retire-probe-ties-epstein/819259/?utm_source=Sailthru&utm_medium=email&utm_campaign=Issue:%202026-05-05%20Higher%20Ed%20Dive%20%5Bissue:84523%5D&utm_term=Higher%20Ed%20Dive"
+        },
+        {
+          "date": "2026-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Forced to Retire Over Epstein, Ex-College Leader Keeps Campus Ties - (After this article was published on Wednesday, Leon Botstein resigned from all his positions affiliated with Bard College",
+          "url": "https://www.nytimes.com/2026/10/07/arts/music/leon-botstein-bard-college-epstein.html?rref=education#1"
+        },
+        {
+          "date": "2004-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Leon Botstein - Wikipedia - Leon Botstein",
+          "url": "https://en.wikipedia.org/wiki/Leon_Botstein?ref=ruralintelligence.com#1"
+        },
+        {
+          "date": "2026-03-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard College Is More Than Leon Botstein",
+          "url": "https://www.insidehighered.com/opinion/columns/public-scholar/2026/03/09/bard-college-more-leon-botstein?rand=276"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Entity Page",
+          "url": "https://primo.hope.edu/nde/entity/person?entityId=n87903357&lang=en&vid=01COL_HOPE:NDE"
+        },
+        {
+          "date": "2026-04-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bard College president to retire after furor over Epstein ties",
+          "url": "https://www.bradenton.com/news/nation-world/national/article315607947.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "University Libraries",
+          "url": "https://onesearch.uark.edu/nde/entity/person?entityId=n87903357&lang=en&vid=01UARK_INST:01UARK_NDE"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10531,
+    "iterations": [],
+    "output_tokens": 572,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

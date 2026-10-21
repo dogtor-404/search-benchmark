@@ -1,0 +1,142 @@
+{
+  "answer": "Joeri Adams 以 **41 分 18 秒**（41:18）赢得 2007 年 UCI 公路越野世界锦标赛男子青年组冠军。\n\n依据：\n- https://en.m.wikipedia.org/wiki/2007_UCI_Cyclo-cross_World_Championships_%E2%80%93_Men%27s_junior_race\n- https://autobus.cyclingnews.com/cross/2007/jan07/CXworlds07（成绩表 “1 Joeri Adams (Belgium) 41.18”）",
+  "budget_denials": [],
+  "elapsed_seconds": 4.611,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0283848,
+      "inputTokens": 5631,
+      "maxOutputTokens": 32000,
+      "outputTokens": 270,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-1221",
+  "raw": "jsonl/D2/simpleqa_verified-1221.jsonl",
+  "reported_cost_usd": 0.0283848,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6269,
+      "query": "2007 UCI Cyclo-cross World Championships Men's junior race Joeri Adams time",
+      "results": [
+        {
+          "date": "2012-02-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 UCI Cyclo-cross World Championships – Men's junior race - Wikipedia - 2007 UCI Cyclo-cross World Championships – Men's junior race",
+          "url": "https://en.m.wikipedia.org/wiki/2007_UCI_Cyclo-cross_World_Championships_%E2%80%93_Men%27s_junior_race#1"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 UCI Cyclo-cross World Championships - 2007 UCI Cyclo-cross World Championships",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/2007_UCI_Cyclo-cross_World_Championships_%E2%80%93_Men's_junior_race#1"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ciclismo.- Lars Boom se proclama vencedor de la carrera sub-23 de los Campeonatos del Mundo de ciclocross",
+          "url": "https://www.europapress.es/deportes/ciclismo-00396/noticia-ciclismo-lars-boom-proclama-vencedor-carrera-sub-23-campeonatos-mundo-ciclocross-20070127184627.html"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 UCI Cyclo-cross World Championships – Men's junior race - Wikiwand - Remove ads",
+          "url": "https://www.wikiwand.com/en/articles/2007_UCI_Cyclo-cross_World_Championships_%E2%80%93_Men's_junior_race#1"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ciclocross: parla belga il mondiale junior. Settimo Calderan",
+          "url": "https://www.tuttobiciweb.it/article/9487"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 UCI Cyclo cross World Championships – Men's junior race - Alchetron, the free social encyclopedia",
+          "url": "https://alchetron.com/2007-UCI-Cyclo-cross-World-Championships-%E2%80%93-Men's-junior-race"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 UCI Cyclo-cross World Championships - 2007 UCI Cyclo-cross World Championships",
+          "url": "https://wiki-gateway.eudic.net/wikipedia_en/2007_UCI_Cyclo-cross_World_Championships.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "www.cyclingnews.com presents the 2007 Cyclo-cross World Championships",
+          "url": "https://autobus.cyclingnews.com/cross/2007/jan07/CXworlds07?_x_tr_sch=http&id=results/CXworlds071"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cyclo-Cross - Championnats du Monde - 2006/2007",
+          "url": "https://www.les-sports.info/cyclo-cross-championnats-du-monde--resultats-2006-2007-hommes-epm14503.html#86745"
+        },
+        {
+          "date": "2007-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Close one! Summerhill takes second at world's as Belgium's Adams wins juniors title",
+          "url": "https://velo.outsideonline.com/road/road-racing/close-one-summerhill-takes-second-at-worlds-as-belgiums-adams-wins-juniors-title/?scope=anon"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5631,
+    "iterations": [],
+    "output_tokens": 270,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

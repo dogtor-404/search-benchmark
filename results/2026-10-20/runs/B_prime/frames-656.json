@@ -1,0 +1,270 @@
+{
+  "answer": "Charles Muhangi (乌干达车手，有的资料拼作 Muhanji）拿了冠军，开的是 Subaru Impreza WRX。\n\n这场比赛是 2000 年的卢旺达拉力赛，当年叫 Fraternity Rally，2002 年起改名 Rwanda Mountain Gorilla Rally。Michel von Tell 开 Toyota 在这场比赛里得了第六。\n\n依据：\n- Michel von Tell 在 2000 年卢旺达拉力赛得第六、车队是 Toyota：https://it.wikipedia.org/wiki/Michel_von_Tell 、https://es.wikipedia.org/wiki/Michel_von_Tell\n- 2000 年冠军是 Charles Muhangi，车是 Subaru Impreza WRX：https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally 、https://www.theeastafrican.co.ke/tea/rwanda-today/lifestyle/mountain-gorilla-rally-a-time-to-show-off--1354800 、https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title\n\n搜了 3 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 19.87,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 24091,
+      "cacheReadInputTokens": 38418,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.2157436,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 765,
+      "provider": "firstParty",
+      "thinkingTokens": 84,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/B_prime/frames-656.jsonl",
+  "reported_cost_usd": 0.2157436,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7474,
+      "query": "Michel von Tell Toyota 2000 sixth",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Im Rückspiegel: Japans Straßen waren dem Toyota 2000 GT nicht gewachsen",
+          "url": "https://www.auto-medienportal.net/artikel/load/pdf/53427#1#1"
+        },
+        {
+          "date": "2021-11-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "百花繚乱!! 直列6気筒王国トヨタを彩った在りし日の名機列伝 - 自動車情報誌「ベストカー」",
+          "url": "https://bestcarweb.jp/feature/344409?prd=3"
+        },
+        {
+          "date": "2024-12-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "19歳の頃に乗っていたトヨタ6代目「クラウン」に返り咲き！「鬼クラ」に懐かしのクレーガーのホイールを合わせてよりアメ車テイストに！（Auto Messe Web） | 自動車情報・ニュース - carview! - ※新車カタログのある自動車総合情報サイト5社との比較（2026年2月株式会社プラグ調べ）",
+          "url": "https://carview.yahoo.co.jp/news/detail/dd91e7eecc9d194dab2dfd45565be5803ca99ffc/#anchor-subcolumn_article_rank#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(1288881) シルバーメタリック ＷｉＬＬ Ｖｉ（トヨタ）ベースグレード{平成12年8月〜平成13年1月}(1008016)の画像・新車・中古車カタログ装備スペック情報 | 中古車のガリバー",
+          "url": "https://221616.com/catalog/toyota/willvi/200001_200112/1008016/photo/1288881/?color=02"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7707,
+      "query": "\"Michel von Tell\" rally",
+      "results": [
+        {
+          "date": "2020-10-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Wikipedia - Michel von Tell",
+          "url": "https://it.wikipedia.org/wiki/Michel_von_Tell#1"
+        },
+        {
+          "date": "2020-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Wikipedia, la enciclopedia libre - Michel von Tell",
+          "url": "https://es.wikipedia.org/wiki/Michel_von_Tell#1"
+        },
+        {
+          "date": "2024-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell – Vikipeedia",
+          "url": "https://et.m.wikipedia.org/wiki/Michel_v._Tell"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Michel von Tell",
+          "url": "https://da.wikiital.com/wiki/Michel_von_Tell#1"
+        },
+        {
+          "date": "2026-01-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Auto-Medienportal",
+          "url": "https://www.auto-medienportal.net/artikel/tags/Michel%20von%20Tell"
+        },
+        {
+          "date": "2021-05-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Muck Rack | For journalists and public relations - Michel von Tell’s Journalist Portfolio",
+          "url": "https://muckrack.com/michel-von-tell/portfolio/list#1"
+        },
+        {
+          "date": "2020-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1723 km en 24 heures sur une Harley Davidson Livewire électrique",
+          "url": "https://www.moteurnature.com/30304-1723-km-24-heures-harley-davidson-livewire-electrique"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Aktuelle Meldungen",
+          "url": "https://www.carzoom.de/tag/Michel+von+Tell/tag/Michel+von+Tell/business/marken-modelle/marken-modelle/elektromobilitaet/"
+        },
+        {
+          "date": "2021-03-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Carrera Eco Grand Prix de 24 horas en Nürburgring | GreenCars",
+          "url": "https://www.greencars.com/es-us/noticias/carrera-eco-grand-prix-de-24-horas-en-nurburgring"
+        },
+        {
+          "date": "2020-12-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Reichweitenrekord mit der Elektro-Harley | auto-illustrierte - Das Schweizer Automagazin",
+          "url": "https://auto-illustre.ch/de/reichweitenrekord-mit-der-elektroharley--146"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6151,
+      "query": "2000 Rwanda Mountain Gorilla Rally winner results",
+      "results": [
+        {
+          "date": "2024-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally – Wikipedia - Rwanda Mountain Gorilla Rally",
+          "url": "https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lumala Narrowly Loses Race",
+          "url": "https://www.newvision.co.ug/news/1263091/lumala-narrowly-loses-race"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kurji wins to close ARC gap",
+          "url": "https://www.newvision.co.ug/news/1119183/kurji-wins-close-arc-gap"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rautenbach triumphs in Gorilla rally",
+          "url": "https://www.newvision.co.ug/news/1165655/rautenbach-triumphs-gorilla-rally"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{{Short description|International rallying event}}",
+          "url": "https://en.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally?action=raw#1"
+        },
+        {
+          "date": "2008-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rudy eyes Rwanda Gorilla Rally title - Rudy eyes Rwanda Gorilla Rally title",
+          "url": "https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title#1"
+        },
+        {
+          "date": "2023-04-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ралли горных горилл в Руанде - Ралли горных горилл в Руанде",
+          "url": "https://alphapedia.ru/w/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2020-08-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mountain Gorilla Rally, a time to show off",
+          "url": "https://www.theeastafrican.co.ke/tea/rwanda-today/lifestyle/mountain-gorilla-rally-a-time-to-show-off--1354800"
+        },
+        {
+          "date": "2026-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview",
+          "url": "https://api.fia.com/news/rwanda-mountain-gorilla-rally-2025-preview-0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A mid year date for the Rwanda Mountain Gorilla Rally and exclusion of Rallye Bandama in Cote D'Ivoire on the African series are...",
+          "url": "https://rwandadispatch.com/mountain-gorilla-rally-set-for-june-rallye-bandama-excluded/?pdf=12257#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 24091,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24091,
+    "cache_read_input_tokens": 38418,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4417,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4417,
+        "cache_read_input_tokens": 21678,
+        "input_tokens": 2,
+        "output_tokens": 455,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 765,
+    "output_tokens_details": {
+      "thinking_tokens": 84
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

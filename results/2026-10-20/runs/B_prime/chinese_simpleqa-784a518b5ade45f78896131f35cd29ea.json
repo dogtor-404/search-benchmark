@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1977 年（昭和 52 年）**，指定日期是 1977 年 4 月 25 日。保持团体是輪島塗技術保存会。\n\n我搜了 1 次，几个来源说法一致：\n\n- 日本文化厅“文化遗产数据库”，写的是“指定年月日:19770425，重要無形文化財”：https://online.bunka.go.jp/db/heritages/detail/160148\n- 石川县教育委员会文化财页面，写的是“昭和52年4月25日認定”：https://www-pref-ishikawa-lg-jp.cache.yimg.jp/kyoiku/bunkazai/mukei/1.html （这是县政府页面的雅虎缓存版）\n- 石川县传统工艺页面，写的是“昭和52年4月25日国の重要無形文化財に指定”：https://www.icnet.or.jp/dentou/national/03.html\n- 产经新闻（2024 年 1 月），写的是“昭和５２年に国の重要無形文化財に指定”：https://www.sankei.com/article/20240127-KFKN32LEEZOJZHTL5OQJYROJOI/",
+  "budget_denials": [],
+  "elapsed_seconds": 10.794,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7264,
+      "cacheReadInputTokens": 5849,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0695178,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 511,
+      "provider": "firstParty",
+      "thinkingTokens": 44,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+  "raw": "jsonl/B_prime/chinese_simpleqa-784a518b5ade45f78896131f35cd29ea.jsonl",
+  "reported_cost_usd": 0.0695178,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7256,
+      "query": "輪島塗 重要無形文化財 指定 昭和52年",
+      "results": [
+        {
+          "date": "2025-11-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗（輪島塗技術保存会）",
+          "url": "https://www-pref-ishikawa-lg-jp.cache.yimg.jp/kyoiku/bunkazai/mukei/1.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗に生きる 重要無形文化財 | 伝統文化記録映画データベース",
+          "url": "https://db.kirokueiga-hozon.jp/traditional-culture/db-00087"
+        },
+        {
+          "date": "2024-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗、再開２年以上か 工房や店の大半被害",
+          "url": "https://www.sankei.com/article/20240127-KFKN32LEEZOJZHTL5OQJYROJOI/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "文化遺産データベース",
+          "url": "https://online.bunka.go.jp/db/heritages/detail/160148"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "また、同市の輪島塗技術保存会を保持団体として、 輪島塗は昭和五二年（1977 年）文化財保護法に基づい て国の重要無形文化財に指定されている",
+          "url": "https://www.kanazawa-gu.ac.jp/wp-content/uploads/2025/02/kgu_kiyou202503.pdf#100#79"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "歷史",
+          "url": "http://www.icnet.or.jp/dentou/img/tw/03.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Translation of \"無形文化財に指定さ\" in English",
+          "url": "https://context.reverso.net/translation/japanese-english/%E7%84%A1%E5%BD%A2%E6%96%87%E5%8C%96%E8%B2%A1%E3%81%AB%E6%8C%87%E5%AE%9A%E3%81%95"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗｜石川の伝統工芸",
+          "url": "https://www.icnet.or.jp/dentou/national/03.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "各エリアの風土・歴史に基づいた深いストーリーを理解していただくために、本 モニターツアーを実施前に「ストーリーブック」を召喚者に配布した",
+          "url": "https://www.chubu.meti.go.jp/c52kanko/info_2025/20260313/report_202602.pdf#7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗の歴史と文化",
+          "url": "http://www.city.wajima.ishikawa.jp/art/exhibition_now/20170909_list.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7264,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7264,
+    "cache_read_input_tokens": 5849,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5423,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5423,
+        "cache_read_input_tokens": 3845,
+        "input_tokens": 2,
+        "output_tokens": 389,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 511,
+    "output_tokens_details": {
+      "thinking_tokens": 44
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

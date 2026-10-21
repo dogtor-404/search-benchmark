@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：4 次。**\n\n英文维基百科的“Pakistan People's Party”条目说，人民党在全国层面四次成为最大反对党，分别是 **1990、1997、2002 和 2013 年**。EPFL Graph Search 的概念页内容取自维基百科，给出的也是这四个年份。\n\n需要注意，2018–2022 年人民党也在反对党阵营，但当时最大的反对党是穆斯林联盟（谢里夫派），人民党排第二，所以这次不算在内。我没有直接查证这一点，它来自我自己的了解。我共搜索了 2 次。\n\n依据网址：\n- [Pakistan People's Party – Wikipedia](https://en.wikipedia.org/wiki/Pakistan_People%27s_Party)\n- [EPFL Graph Search – Pakistan People's Party](https://graphsearch.epfl.ch/concept/408998)\n- [Dawn – Pakistan Peoples Party](https://www.dawn.com/news/1404648)（印证 2013 年人民党是国民议会最大反对党）",
+  "budget_denials": [],
+  "elapsed_seconds": 26.366,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0236333,
+      "inputTokens": 28203,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1626,
+      "provider": "firstParty",
+      "thinkingTokens": 616,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4095,
+      "cacheReadInputTokens": 12247,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0487934,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 678,
+      "provider": "firstParty",
+      "thinkingTokens": 112,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/A_prime/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.0724267,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Pakistan People's Party emerged as leading opposition party times national level",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WB7JQ4Sb71BneYdFRjxSSb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"Pakistan Peoples Party\" \"largest opposition party\" \"four times\" OR \"three times\" wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EpaH6rTw7fYeH1mtadpcAe"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4095,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4095,
+    "cache_read_input_tokens": 12247,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1051,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1051,
+        "cache_read_input_tokens": 5495,
+        "input_tokens": 2,
+        "output_tokens": 408,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 678,
+    "output_tokens_details": {
+      "thinking_tokens": 112
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

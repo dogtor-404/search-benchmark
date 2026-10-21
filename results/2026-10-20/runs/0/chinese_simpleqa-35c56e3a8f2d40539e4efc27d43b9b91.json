@@ -1,0 +1,72 @@
+{
+  "answer": "呋虫胺(Dinotefuran)的化学式是 **C₇H₁₄N₄O₃**,分子量约 202.21。\n\n结构上它是第三代新烟碱类杀虫剂,含四氢呋喃基,与其他新烟碱类不同,分子里没有氯原子和芳香环。化学名为 1-甲基-2-硝基-3-(四氢-3-呋喃甲基)胍。\n\n这是凭记忆回答的,没有联网核对。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.53,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1745,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0087808,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 164,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+  "raw": "jsonl/0/chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91.jsonl",
+  "reported_cost_usd": 0.0087808,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1745,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1745,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1745,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1745,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 164,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 164,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

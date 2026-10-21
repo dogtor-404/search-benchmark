@@ -1,0 +1,60 @@
+{
+  "answer": "马塞洛·维亚纳（Marcelo Viana），巴西数学家，2011–2014 年间担任国际数学联盟（IMU）副主席，所以 2012 年时的巴西籍副主席是他。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.065,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.021692,
+      "inputTokens": 2038,
+      "maxOutputTokens": 32000,
+      "outputTokens": 677,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-1753",
+  "raw": "jsonl/D0_prime/simpleqa_verified-1753.jsonl",
+  "reported_cost_usd": 0.021692,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2038,
+    "iterations": [],
+    "output_tokens": 677,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

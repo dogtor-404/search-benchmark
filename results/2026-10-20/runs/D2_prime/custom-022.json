@@ -1,0 +1,144 @@
+{
+  "answer": "**1981 年**，David Hubel 与 Torsten Wiesel 因视觉系统信息处理研究分享了诺贝尔生理学或医学奖（另一半颁给了 Roger Sperry）。\n\n依据：\n- https://www.nobelprize.org/press-release/torsten-wiesel-donates-instrument-to-nobel-prize-museum/\n- https://pubmed.ncbi.nlm.nih.gov/22841302/\n- https://www.nei.nih.gov/research-and-training/research-news/remembering-visionary-neuroscientist-david-hubel",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.691,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.030198400000000004,
+      "inputTokens": 5948,
+      "maxOutputTokens": 32000,
+      "outputTokens": 296,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-022",
+  "raw": "jsonl/D2_prime/custom-022.jsonl",
+  "reported_cost_usd": 0.030198400000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.732,
+      "query": "David Hubel Torsten Wiesel Nobel Prize Physiology or Medicine year",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "walter reed army: Topics by Science.gov - Hubel, David; Wiesel, Torsten",
+          "url": "https://www.science.gov/topicpages/w/walter%2breed%2barmy#12"
+        },
+        {
+          "date": "2012-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Hubel and Torsten Wiesel - PubMed - . 2012 Jul 26;75(2):182-4.\ndoi: 10.1016/j.neuron.2012.07.002. \n\n# David Hubel and Torsten Wiesel\n\n- PMID: 22841302\n- DOI: 10.101",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22841302/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "karolinska institute stockholm: Topics by Science.gov - While attending medical school at McGill, David Hubel developed an interest in the nervous system during the summers he spent at...",
+          "url": "https://www.science.gov/topicpages/k/karolinska+institute+stockholm#17"
+        },
+        {
+          "date": "2025-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Torsten Wiesel donates instrument to Nobel Prize Museum",
+          "url": "https://www.nobelprize.org/press-release/torsten-wiesel-donates-instrument-to-nobel-prize-museum/"
+        },
+        {
+          "date": "2009-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "An introduction to the work of David Hubel and Torsten Wiesel - Volume 587, Issue 12 pp",
+          "url": "https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2009.170688#1"
+        },
+        {
+          "date": "2013-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Republication of The Journal of Physiology (2009) 587, 2733–2741: An introduction to the work of David Hubel and Torsten Wiesel - EDITORIAL",
+          "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.2013.268060_2#1"
+        },
+        {
+          "date": "2013-09-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Remembering visionary neuroscientist David Hubel",
+          "url": "https://www.nei.nih.gov/research-and-training/research-news/remembering-visionary-neuroscientist-david-hubel"
+        },
+        {
+          "date": "2014-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Q&A: Torsten Wiesel - Nature",
+          "url": "https://preview-www.nature.com/articles/514S11a"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NSTL回溯数据服务平台",
+          "url": "http://168.160.2.5/Archives/browse.do?action=viewDetail&articleID=38c6d8ffd943acd46e8662b6d7f37c27&navig=9565bcbb40dbfbe9&navigator=category&flag=byWord&subjectCode=null&searchfrom=null"
+        },
+        {
+          "date": "2007-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Rockefeller University » Torsten Wiesel receives National Medal of Science - Torsten Wiesel receives National Medal of Science",
+          "url": "https://www.rockefeller.edu/news/2675-torsten-wiesel-receives-national-medal-of-science/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5948,
+    "iterations": [],
+    "output_tokens": 296,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

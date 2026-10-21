@@ -1,0 +1,142 @@
+{
+  "answer": "George Brown (1818–1880) 在 1875 年拒绝的是**安大略省省督（lieutenant-governor of Ontario）一职**。\n\n依据：加拿大百科全书（The Canadian Encyclopedia）等来源记载：“Brown refused the position of lieutenant-governor of Ontario in 1875”。\n\n- https://thecanadianencyclopedia.ca/en/article/george-brown\n- https://parks.canada.ca/culture/designation/personnage-person/... （George Brown House National Historic Site）\n\n（注：他在 1879 年还拒绝了爵士头衔，但那不是 1875 年。）",
+  "budget_denials": [],
+  "elapsed_seconds": 14.327,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.02912,
+      "inputTokens": 5092,
+      "maxOutputTokens": 32000,
+      "outputTokens": 412,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/D2_prime/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.02912,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6418,
+      "query": "George Brown 1818-1880 refused in 1875 knighthood",
+      "results": [
+        {
+          "date": "2022-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown House National Historic Site",
+          "url": "https://parks.canada.ca/culture/designation/personnage-person/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/link.aspx?_id=827CE349BDEB42BE861DB38CEB2925A2&_z=z"
+        },
+        {
+          "date": "2024-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - George Brown",
+          "url": "https://www.britannica.com/print/article/81515#1"
+        },
+        {
+          "date": "2015-05-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Conferation - 文字记录",
+          "url": "https://prezi.com/glecm87i3ckh/conferation/#1"
+        },
+        {
+          "date": "2016-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fathers of Confederation | Prezi - Fathers of Confederation",
+          "url": "https://prezi.com/hwjx_n1e8ym1/fathers-of-confederation/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BROWN, GEORGE - BROWN, GEORGE",
+          "url": "https://slovar-vocab.com/english/britannica-vocab/brown-george-7089191.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - Search The Canadian Encyclopedia",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20200416043706/https://thecanadianencyclopedia.ca/en/article/george-brown#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - Recherche dans l'Encyclopédie canadienne",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20200411160506/https://thecanadianencyclopedia.ca/fr/article/george-brown#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GEORGE BROWN was born in Edinburgh on November 29, 1818, and was educated in his native city",
+          "url": "https://www.archive.org/download/municipalityofto02midd/municipalityofto02midd.pdf#107#107#107"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Biographie – BROWN, GEORGE – Volume X (1871-1880) – Dictionnaire biographique du Canada",
+          "url": "http://biographi.ca/fr/bio/brown_george_10E.html"
+        },
+        {
+          "date": "2015-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown | Prezi",
+          "url": "https://prezi.com/vppzeo6wocql/george-brown/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5092,
+    "iterations": [],
+    "output_tokens": 412,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

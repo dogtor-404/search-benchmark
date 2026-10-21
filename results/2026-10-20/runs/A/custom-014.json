@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：David（David Protein）**。它在 2025 年 5 月随 7500 万美元 A 轮融资一起收购了 EPG 的唯一生产商 Epogee。\n\n- 融资和收购的新闻稿日期是 2025 年 5 月 29 日。融资由 Greenoaks 领投。创始人是 Peter Rahal，也是 RXBAR 的联合创始人。\n- David 据称占 Epogee 约 90% 的收入，所以买下它是为了保证 EPG 的供应。\n- 有一个来源（Parsers.vc）把收购方写成 Medici Brands。该文把 David 描述为 Medici 旗下产品，所以 Medici 可能是母公司。我没能从这次的搜索结果里确认两者的关系。其余来源都写 David 是收购方。\n\nSources:\n- [Protein bar maker David acquires novel fat maker Epogee, raises $75m Series A (AgFunderNews)](https://agfundernews.com/protein-bar-maker-david-acquires-novel-fat-maker-epogee-raises-75m-series-a-on-back-of-explosive-growth)\n- [Business Wire 新闻稿（2025-05-29）](https://www.businesswire.com/news/home/20250529749264/en/)\n- [David Acquires EPG Supplier Epogee (Sacra)](https://sacra.com/chat/h/da6f9b5d-8dad-451d-8e45-6a6d5b113090/)\n- [Medici Brands Secures $250M Series B (Parsers.vc)](https://parsers.vc/news/260910-medici-brands-secures-250m-series-b--valued/)",
+  "budget_denials": [],
+  "elapsed_seconds": 16.343,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119095,
+      "inputTokens": 14365,
+      "maxOutputTokens": 128000,
+      "outputTokens": 946,
+      "provider": "firstParty",
+      "thinkingTokens": 203,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3211,
+      "cacheReadInputTokens": 6754,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0212074,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 768,
+      "provider": "firstParty",
+      "thinkingTokens": 112,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-014",
+  "raw": "jsonl/A/custom-014.jsonl",
+  "reported_cost_usd": 0.0331169,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Epogee acquired 2025 protein bar brand EPG",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HYitNzrhdzq7tZsi7hQTnx"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3211,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3211,
+    "cache_read_input_tokens": 6754,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1359,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1359,
+        "cache_read_input_tokens": 4303,
+        "input_tokens": 2,
+        "output_tokens": 677,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 768,
+    "output_tokens_details": {
+      "thinking_tokens": 112
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

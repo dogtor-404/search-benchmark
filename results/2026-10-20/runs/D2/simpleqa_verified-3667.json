@@ -1,0 +1,142 @@
+{
+  "answer": "Johnny Damon 小时候打的是 **South Orange Little League**（佛罗里达州奥兰多西南部）。他最初加入的球队是 T-ball 的“Green Machine”。\n\n依据：\n- https://www.mlive.com/tigers/2010/04/now_with_tigers_veteran_big_le.html\n- https://ocps.ss15.sharpschool.com/cms/One.aspx?portalId=54703&pageId=89584",
+  "budget_denials": [],
+  "elapsed_seconds": 4.245,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.041896800000000005,
+      "inputTokens": 9389,
+      "maxOutputTokens": 32000,
+      "outputTokens": 194,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-3667",
+  "raw": "jsonl/D2/simpleqa_verified-3667.jsonl",
+  "reported_cost_usd": 0.041896800000000005,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7802,
+      "query": "Johnny Damon Little League baseball childhood before junior high",
+      "results": [
+        {
+          "date": "2010-04-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Now with Tigers, veteran major leaguer Johnny Damon hasn't lost his love for game",
+          "url": "https://www.mlive.com/tigers/2010/04/now_with_tigers_veteran_big_le.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Johnny Damon",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Johnny_Damon#1"
+        },
+        {
+          "date": "2004-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20210515150905/https://en.wikipedia.org/wiki/Johnny_Damon#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon",
+          "url": "https://ocps.ss15.sharpschool.com/cms/One.aspx?portalId=54703&pageId=89584"
+        },
+        {
+          "date": "2004-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20191205135916/https://en.wikipedia.org/wiki/Johnny_Damon#1"
+        },
+        {
+          "date": "2017-11-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Happy Birthday To Cresskill's Johnny Damon - Happy Birthday To Cresskill's Johnny Damon",
+          "url": "https://dailyvoice.com/new-jersey/northernvalley/neighbors/happy-birthday-to-cresskills-johnny-damon/599175/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon: American professional baseball outfielder (born: 1973) | Biography, Facts, Information, Career, Wiki, Life - peoplepill id: johnny-damon",
+          "url": "https://peoplepill.com/i/johnny-damon/tc/business/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Wikiwand - Johnny Damon",
+          "url": "https://www.wikiwand.com/es/Johnny_Damon#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon 2025 - Dosen.Profillengkap.Com - Johnny Damon",
+          "url": "https://dosen.profillengkap.com/en/Johnny_Damon#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Autographs of Johnny Damon",
+          "url": "https://www.memorabilix.co.uk/baseball-11/johnny-damon-13964/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9389,
+    "iterations": [],
+    "output_tokens": 194,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

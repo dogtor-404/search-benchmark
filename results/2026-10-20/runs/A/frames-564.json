@@ -1,0 +1,116 @@
+{
+  "answer": "**答案:约 2 年。**\n\n- 《I Think I'm Go Go》是 Squeeze 的歌,收录在 1980 年的专辑 *Argybargy*。搜索结果称它在 1980 年 2 月作为单曲发行。有一个来源(New Vinyl Villain)把专辑年份写成 1981,但其他来源都指向 1980。\n- 《E.T.》在美国院线上映的日期是 1982 年 6 月 11 日。更早在 1982 年 5 月 26 日,它作为闭幕片在戛纳电影节首映。\n\n1982 − 1980 = **2 年**。按具体日期算,1980 年 2 月到 1982 年 6 月约 2 年 4 个月。如果按戛纳首映算,是约 2 年 3 个月。\n\n我没有核对 Wikipedia 页面原文,上面的日期来自搜索摘要。\n\nSources:\n- [I Think I'm Go Go – Wikipedia](https://en.wikipedia.org/wiki/I_Think_I%27m_Go_Go)\n- [Today in film history: June 11th, 1982 – E.T. is released in theaters](https://www.westporttechmuseum.com/blogs/techtastic/today-in-film-history-june-11th-1982-e-t-the-extra-terrestrial-is-released-in-theaters)\n- [E.T. the Extra-Terrestrial – Wikipedia 镜像](https://solarspell-dls.sfis.asu.edu/mea/wikipedia/wp/e/E.T._the_Extra-Terrestrial.htm)",
+  "budget_denials": [],
+  "elapsed_seconds": 33.278,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0352607,
+      "inputTokens": 42222,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2077,
+      "provider": "firstParty",
+      "thinkingTokens": 922,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5164,
+      "cacheReadInputTokens": 13129,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0365709,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1459,
+      "provider": "firstParty",
+      "thinkingTokens": 625,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-564",
+  "raw": "jsonl/A/frames-564.jsonl",
+  "reported_cost_usd": 0.0718316,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Squeeze \"Is That Love\" \"Black Coffee in Bed\" \"I Think I'm Go Go\" song release year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TxAEsKxe8es2qTNaCka6c3"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "E.T. the Extra-Terrestrial theatrical premiere date",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Xoa8KVDy5vSLinmdiZgyUY"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Squeeze \"I Think I'm Go Go\" song album release",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017cWqbhWdhgLmh889BcKY8x"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5164,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5164,
+    "cache_read_input_tokens": 13129,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1252,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1252,
+        "cache_read_input_tokens": 6363,
+        "input_tokens": 2,
+        "output_tokens": 926,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1459,
+    "output_tokens_details": {
+      "thinking_tokens": 625
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

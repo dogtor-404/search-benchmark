@@ -1,0 +1,72 @@
+{
+  "answer": "我记得的答案是 4 次，但不太确定，也无法上网核实。\n\n我印象中，截至 2022 年，PPP 在国民议会担任主要反对党的时期大致是：\n\n1. 1990–1993 年，贝娜齐尔·布托任反对党领袖。\n2. 1997–1999 年，PPP 席位很少，但仍是最大的反对党。\n3. 2002–2007 年，PPP 是议会中最大的反对党之一。不过 2004 年起，反对党领袖由 MMA 的毛拉纳·法兹勒·拉赫曼担任。\n4. 2013–2018 年，库尔希德·沙阿任反对党领袖。\n\n2018–2022 年的主要反对党是 PML-N，不是 PPP。\n\n第 2 项和第 3 项的归属最容易有争议，所以实际数字可能因统计口径不同而有出入。",
+  "budget_denials": [],
+  "elapsed_seconds": 10.679,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1771,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0160048,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 876,
+      "provider": "firstParty",
+      "thinkingTokens": 575,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/0/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.0160048,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1771,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1771,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1771,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1771,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 876,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 876,
+    "output_tokens_details": {
+      "thinking_tokens": 575
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

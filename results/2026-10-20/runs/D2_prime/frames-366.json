@@ -1,0 +1,223 @@
+{
+  "answer": "**1946 年。**\n\nKanye West 的《Power》最主要的采样是 King Crimson 的《21st Century Schizoid Man》（用于副歌）。King Crimson 的创建者和领队是 Robert Fripp，他出生于 1946 年 5 月 16 日。\n\n依据：\n- https://en.wikipedia.org/wiki/Power_(Kanye_West_song) （采样《21st Century Schizoid Man》）\n- https://www.discogs.com/artist/10355-Robert-Fripp （Robert Fripp，生于 1946 年 5 月 16 日，King Crimson 创始人）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.516,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 9216,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0565672,
+      "inputTokens": 7531,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1230,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-366",
+  "raw": "jsonl/D2_prime/frames-366.jsonl",
+  "reported_cost_usd": 0.0565672,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6952,
+      "query": "Kanye West Power sample song originally performed group band leader born",
+      "results": [
+        {
+          "date": "2010-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (песня Канье Уэста) — Википедия - Power (песня Канье Уэста)",
+          "url": "https://ru.m.wikipedia.org/wiki/Power_%28%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%9A%D0%B0%D0%BD%D1%8C%D0%B5_%D0%A3%D1%8D%D1%81%D1%82%D0%B0%29#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (песня Канье Уэста) - Power (песня Канье Уэста)",
+          "url": "https://fccland.ru/stati/16530-power-pesnya-kane-uesta.html#1"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West – POWER",
+          "url": "https://genius.com/Kanye-west-power-lyrics"
+        },
+        {
+          "date": "2010-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[新歌]kanyewest唱嘻哈风《力量》从文化开始_文化动态_中国广播网",
+          "url": "http://wyzs.cnr.cn/whdt/20100716/t20100716_506741929.shtml"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "POWER",
+          "url": "https://kanyewest.fandom.com/wiki/POWER?sh=null__9846&m=3&utm_source=reddit&utm_campaign=h2s"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (Kanye West song) - Wikipedia - Power (Kanye West song)",
+          "url": "https://en.wikipedia.org/wiki/Power_(Kanye_West_song)#1"
+        },
+        {
+          "date": "2023-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (песня Канье Уэста) - Power (песня Канье Уэста)",
+          "url": "https://xn--h1ajim.xn--p1ai/Power_(%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%9A%D0%B0%D0%BD%D1%8C%D0%B5_%D0%A3%D1%8D%D1%81%D1%82%D0%B0)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (Kanye West song) - Power (Kanye West song)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Power_(Kanye_West_song)#Remix#1"
+        },
+        {
+          "date": "2010-06-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power (Kanye West song) - Wikiwand - Power (Kanye West song)",
+          "url": "https://www.wikiwand.com/en/Power_(Kanye_West_song)#1"
+        },
+        {
+          "date": "2011-05-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "POWER - Kanye West",
+          "url": "http://score4score.blogspot.com/2011/05/power-kanye-west.html?showComment=1305182747564&m=1#c1700681137229819850"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7112,
+      "query": "Robert Fripp King Crimson band leader born year",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fripp, Robert, 1946-",
+          "url": "https://id.loc.gov/authorities/names/n85044005.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Robert Fripp",
+          "url": "https://www.discogs.com/es/artist/10355-Robert-Fripp/image/SW1hZ2U6ODM3MzU2NDU=#1"
+        },
+        {
+          "date": "2023-03-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp on Apple Music",
+          "url": "https://music.apple.com/ie/artist/robert-fripp/613849"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Bob",
+          "url": "https://www.discogs.com/it/artist/10355-Robert-Fripp?filter_anv=1&anv=Bob#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "King Crimson at All About Jazz",
+          "url": "https://www.allaboutjazz.com/tag-king-crimson__24369"
+        },
+        {
+          "date": "2016-05-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert FRIPP - Человек Возрождения: 70 лет Роберту Фриппу - Звуки.Ру - Robert FRIPP Человек Возрождения: 70 лет Роберту Фриппу",
+          "url": "https://www.zvuki.ru/R/P/75249/#1"
+        },
+        {
+          "date": "2026-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "King Crimson | Jazz Band / ensemble / orchestra – Biography, Albums & More | All About Jazz",
+          "url": "https://www.allaboutjazz.com/musicians/king-crimson"
+        },
+        {
+          "date": "2005-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Wikipedia - Robert Fripp",
+          "url": "https://it.wikipedia.org/wiki/index.html?curid=111036#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Anónimo",
+          "url": "https://www.ecured.cu/index.php?title=Robert_Fripp&direction=prev&oldid=3384291#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - あなたの街にやってくる大好きなバンドやアーティストのイベント日程を調べましょう。Bandsintownを使って、コンサートチケットや最新ニュースを入手してください。",
+          "url": "https://www.bandsintown.com/ja/a/70419-robert-fripp?came_from=274&utm_medium=web&utm_source=artist_page&utm_campaign=similar_artists_on_tour#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 9216,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7531,
+    "iterations": [],
+    "output_tokens": 1230,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

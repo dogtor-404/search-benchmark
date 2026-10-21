@@ -1,0 +1,72 @@
+{
+  "answer": "Wi-Fi 这个名称是由品牌咨询公司 **Interbrand** 起的。1999 年，Wi-Fi Alliance（当时叫 WECA）请 Interbrand 为 IEEE 802.11 标准起一个更好记的品牌名，Interbrand 提出了 \"Wi-Fi\"。\n\n补充一点：Wi-Fi 并不是 \"Wireless Fidelity\" 的缩写，这个说法是后来联盟为了配合宣传语 \"The Standard for Wireless Fidelity\" 才出现的，名字本身并没有实际含义，只是仿照 \"Hi-Fi\" 的读音感觉。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.277,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1762,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0094688,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 226,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-001",
+  "raw": "jsonl/0/custom-001.jsonl",
+  "reported_cost_usd": 0.0094688,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1762,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1762,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1762,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1762,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 226,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 226,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

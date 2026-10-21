@@ -1,0 +1,154 @@
+{
+  "answer": "答案是 **Harald Haas(哈拉尔德·哈斯)**。他是爱丁堡大学移动通信讲席教授,也是 pureLiFi 的联合创始人。\n\n2011 年 7 月在爱丁堡举行的 TEDGlobal 上,他做了题为《Wireless Data from Every Light Bulb》的演讲。他用一盏装有 LED 灯泡的台灯传输视频,并把这套原型称为 Li-Fi。\n\n依据的网址:\n- https://archive.nytimes.com/bits.blogs.nytimes.com/2011/07/18/using-light-to-send-data-across-the-room/index.html(《纽约时报》2011 年报道,记录了他在 TEDGlobal 首次演示 Li-Fi 原型)\n- https://www.lifi.eng.ed.ac.uk/about(爱丁堡大学 LiFi 研发中心页面)\n- https://cordis.europa.eu/article/id/123060-life-is-lifi-in-smart-buildings(CORDIS 文章,说明 Li-Fi 一词由他提出)\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.892,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8765,
+      "cacheReadInputTokens": 5872,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0404252,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 477,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-004",
+  "raw": "jsonl/B/custom-004.jsonl",
+  "reported_cost_usd": 0.0404252,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7134,
+      "query": "2011 TEDGlobal Li-Fi 爱丁堡大学 教授 可见光通信",
+      "results": [
+        {
+          "date": "2018-03-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Life is LiFi in smart buildings - (opens in new window)",
+          "url": "https://cordis.europa.eu/article/id/123060-life-is-lifi-in-smart-buildings#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "IEEE Signature Event | Birmingham, England, UK | Speaker Bios",
+          "url": "https://www.ieee.org/birmingham_bios.pdf#1#1"
+        },
+        {
+          "date": "2011-07-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Using Light to Send Data Across the Room - Using Light to Send Data Across the Room",
+          "url": "https://archive.nytimes.com/bits.blogs.nytimes.com/2011/07/18/using-light-to-send-data-across-the-room/index.html#1"
+        },
+        {
+          "date": "2025-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Next-Gen Underwater Communication: Enhancing Data Transfer With Li-Fi Technology - Next-Gen Underwater Communication: Enhancing Data Transfer With Li-Fi Technology",
+          "url": "https://ieeexplore.ieee.org/document/11074014/references#references#1"
+        },
+        {
+          "date": "2014-01-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Harald Haas: Wireless Data From Every Light Bulb - Harald Haas: Wireless Data From Every Light Bulb",
+          "url": "https://ischoolonline.berkeley.edu/blog/harald-haas-wireless-data-every-light-bulb/?ef_id=datasciencegraduateprogramscom45975FSB_3f5d29b96f844a429a2d852469138165&email_id=null&l=datasciencegraduateprogramscom&lsrc=xyzucbdata&s2sId=3f5d29b96f844a429a2d852469138165&utm_campaign=insertplacementhere#1"
+        },
+        {
+          "date": "2014-08-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi“累壞了”，Li-Fi要登場（附照片）_財經_中國網 - Wi-Fi“累壞了”，Li-Fi要登場（附照片）",
+          "url": "http://big5.china.com.cn/gate/big5/finance.china.com.cn/roll/20140803/2584110.shtml#1"
+        },
+        {
+          "date": "2020-02-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Effective LiFi communication for IoT applications",
+          "url": "https://ieeexplore.ieee.org/document/8986698/authors#authors"
+        },
+        {
+          "date": "2020-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "基於光保真度Li-Fi之XR應用發展",
+          "url": "https://www.moea.gov.tw/MNS/doit/industrytech/IndustryTech.aspx?menu_id=13545&it_id=530"
+        },
+        {
+          "date": "2018-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Performance Analysis of “Light Fidelity” and “Internet of Things” & It's Application - A Performance Analysis of “Light Fidelity” and “Internet of Things” & It's Application",
+          "url": "https://ieeexplore.ieee.org/document/8585696/references#references#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Read about Professor Harald Haas and Li-Fi",
+          "url": "https://www.lifi.eng.ed.ac.uk/about"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8765,
+    "cache_read_input_tokens": 5872,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6901,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6901,
+        "cache_read_input_tokens": 3868,
+        "input_tokens": 2,
+        "output_tokens": 388,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 477,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

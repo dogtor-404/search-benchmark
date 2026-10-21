@@ -1,0 +1,60 @@
+{
+  "answer": "喀尔巴阡山脉的最高峰是**格尔拉赫峰**（Gerlachovský štít），位于斯洛伐克的高塔特拉山（High Tatras），海拔约 **2655 米**（8711 英尺）。它同时也是斯洛伐克和整个喀尔巴阡山脉的最高点。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.618,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.013948,
+      "inputTokens": 2032,
+      "maxOutputTokens": 32000,
+      "outputTokens": 291,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818.jsonl",
+  "reported_cost_usd": 0.013948,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2032,
+    "iterations": [],
+    "output_tokens": 291,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

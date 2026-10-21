@@ -1,0 +1,60 @@
+{
+  "answer": "据保萨尼阿斯（Pausanias）的记载，Phanas of Pellene 除重装赛跑（hoplitodromos）外，在第 67 届奥林匹亚（公元前 512 年）赢得的另外两项是：\n\n- **diaulos**：双程赛跑，也就是往返两个 stadion 的短跑；\n- **dolichos**：长距离赛跑。\n\n也就是说，他在同一届奥运会上一举拿下这三项赛跑，这在古代被视为很罕见的成就。\n\n另外说明一点：我无法联网核对原文，以上内容是我的记忆；具体出处，我记作保萨尼阿斯《希腊志》中关于奥林匹亚优胜者雕像的记载，但我对卷章细节没有把握。",
+  "budget_denials": [],
+  "elapsed_seconds": 13.603,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.055015999999999995,
+      "inputTokens": 1994,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2352,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-813",
+  "raw": "jsonl/D0/simpleqa_verified-813.jsonl",
+  "reported_cost_usd": 0.055015999999999995,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1994,
+    "iterations": [],
+    "output_tokens": 2352,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

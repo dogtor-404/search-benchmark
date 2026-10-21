@@ -1,0 +1,154 @@
+{
+  "answer": "在桑给巴尔,Harees 叫 **Boko Boko**(也拼作 Bokoboko 或 \"boko\")。\n\n依据:\n- Bokoboko 食谱页面说这道阿拉伯式的肉和小麦粥(Harees/Hareesa)在桑给巴尔和蒙巴萨很有名:https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/\n- 斋月食谱博客写道 \"The Zanzibari version is called 'boko'\":http://suroorasia.blogspot.com/2016/06/recipes-for-ramadhan-harees.html\n\n搜索结果里还有两个 Hugging Face 上的评测数据集页面,内容是这道题本身和各模型的作答。我没有把它们当作依据,上面只用了两个烹饪类网页。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.415,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9105,
+      "cacheReadInputTokens": 5859,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.041773899999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 476,
+      "provider": "firstParty",
+      "thinkingTokens": 78,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-151",
+  "raw": "jsonl/B/simpleqa_verified-151.jsonl",
+  "reported_cost_usd": 0.041773899999999996,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7187,
+      "query": "Harees dish Zanzibar called",
+      "results": [
+        {
+          "date": "2020-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bokoboko Recipe || Arabic Style Haleem (known as Harees or Hareesa) Famous in Zanzibar and Mombasa",
+          "url": "https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/"
+        },
+        {
+          "date": "2021-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries That Touch the Indian Ocean - Our book review",
+          "url": "https://www.aramcoworld.com/resources/reviews/2021/in-bibis-kitchen-the-recipes-and-stories-of-grandmothers-from-the-eight-african-countries-that-tou"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Central Library Catalog - Central Library Catalog",
+          "url": "https://catalog.ohiolink.edu/iii/encore/record/C__Rb42440962__SAfrica%20%20%20%20Description%20and%20travel.__P0%2C34__Orightresult__X1;jsessionid=9CF89EEFABBEA07BBBA5239DB9712645?lang=eng&suite=def#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In Bibi's kitchen : the recipes & stories of grandmothers from the eight African countries that touch the Indian Ocean",
+          "url": "https://saugus.noblenet.org/eg/opac/record/4668710?locg=68;ac=anotes;available=true;query=Cookbooks.;qtype=identifier%7Cgenre;facet=author%7Call_authors%5BFarah%2C%20Khadija%20M.%5D"
+        },
+        {
+          "date": "2023-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "مقال : نزار الحافرة - عادات وتقاليد العيد بزنجبار",
+          "url": "https://www.adngad.net/articles/569211"
+        },
+        {
+          "date": "2024-12-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Zanzibar Street Food: Must-Try Urojo Soup & Local Delights - 0 saved",
+          "url": "https://www.lemon8-app.com/@whoisherby/7446923443435520554?region=us#1"
+        },
+        {
+          "date": "2016-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recipes for Ramadhan: Harees",
+          "url": "http://suroorasia.blogspot.com/2016/06/recipes-for-ramadhan-harees.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Coffee Shop & Zanzibar Foods menu for delivery in Maabela | Talabat - Picks for you 🔥",
+          "url": "https://www.talabat.com/oman/restaurant/703325/coffee-shop-zanzibar-foods-maabela?aid=1421#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-gptos · Datasets at Hugging Face - Need answer: In Zanzibar it's called \"haleva\"",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-gptos/viewer/default/train?p=14#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-deep · Datasets at Hugging Face - context",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-deep/viewer/default/train?p=14#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9105,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9105,
+    "cache_read_input_tokens": 5859,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7254,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7254,
+        "cache_read_input_tokens": 3855,
+        "input_tokens": 2,
+        "output_tokens": 409,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 476,
+    "output_tokens_details": {
+      "thinking_tokens": 78
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

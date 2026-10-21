@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "Queen Elizabeth II reign length 1952 2022 years", "results": [], "status": "allowed", "tool_use_id": "toolu_01WeQUHniSapu1N1nWNypSyB"}
+{"billable": false, "call": 2, "query": "Julius Caesar born 100 BC died 44 BC age at death", "results": [], "status": "allowed", "tool_use_id": "toolu_01KhbHzeSWTV55VhjNfiGZxW"}

@@ -1,0 +1,72 @@
+{
+  "answer": "我不知道。\n\n我不记得有个叫 Michel von Tell 的车手，也就无法确定这是哪项赛事（拉力赛、越野赛还是别的比赛），所以说不出 2000 年谁拿了第一、开的什么车。\n\n如果能告诉我赛事名称，我可以再试着回忆。否则需要查资料才能确认。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.659,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1773,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.024285599999999997,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 489,
+      "provider": "firstParty",
+      "thinkingTokens": 367,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/0_prime/frames-656.jsonl",
+  "reported_cost_usd": 0.024285599999999997,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1773,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1773,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1773,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1773,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 489,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 489,
+    "output_tokens_details": {
+      "thinking_tokens": 367
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

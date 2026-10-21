@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：NHK（日本放送协会）。**\n\n据搜索结果，1997年5月17日NHK教育台的《サイエンスアイ》节目首次介绍了这一问题。井口泰泉教授在节目中把这类物质命名为「環境ホルモン」。\n\n这个结论只有环境省的一份资料明确支持，我没有找到独立的第二来源来交叉验证。搜索结果的摘要也没有直接写明\"NHK与井口共同命名\"这句话，这一点是我根据节目内容推断的。\n\nSources:\n- [env.go.jp 井口先生资料（2018公开セミナー）](https://www.env.go.jp/chemi/end/extend2016/seminar2018/%E5%85%AC%E9%96%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2018%EF%BC%88%E4%BA%95%E5%8F%A3%E5%85%88%E7%94%9F%E8%B3%87%E6%96%99%EF%BC%89.pdf)\n- [env.go.jp SPEED'98](https://www.env.go.jp/chemi/kurohon/http1998/html/speed.html)\n- [env.go.jp 资料 PDF](https://www.env.go.jp/content/900407303.pdf)",
+  "budget_denials": [],
+  "elapsed_seconds": 17.111,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117316,
+      "inputTokens": 12031,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1057,
+      "provider": "firstParty",
+      "thinkingTokens": 395,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3168,
+      "cacheReadInputTokens": 6750,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.021695,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 834,
+      "provider": "firstParty",
+      "thinkingTokens": 295,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+  "raw": "jsonl/A/chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935.jsonl",
+  "reported_cost_usd": 0.0334266,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "环境荷尔蒙 井口泰泉 日本 命名 最初",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01K6NX6piGCpi6tqJeFnb6xw"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3168,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3168,
+    "cache_read_input_tokens": 6750,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1320,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1320,
+        "cache_read_input_tokens": 4299,
+        "input_tokens": 2,
+        "output_tokens": 738,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 834,
+    "output_tokens_details": {
+      "thinking_tokens": 295
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

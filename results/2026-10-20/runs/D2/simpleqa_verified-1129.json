@@ -1,0 +1,221 @@
+{
+  "answer": "**110.5 米**（全长，约 362.5 英尺）。\n\n依据：\n- 英文维基百科 TCG Yavuz (F 240)：Length 110.50 m — https://en.wikipedia.org/wiki/TCG_Yavuz_(F_240)\n- Yavuz 级护卫舰（MEKO 200 TN）同型舰数据：110.50 m — https://en.wikipedia.org/wiki/Yavuz-class_frigate\n\n注：部分资料（如 GlobalSecurity 早期页面）标注为 111 m，属四舍五入或不同测量基准；维基及多数海军资料采用 **110.5 m**。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.219,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 8832,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0728904,
+      "inputTokens": 14171,
+      "maxOutputTokens": 32000,
+      "outputTokens": 722,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-1129",
+  "raw": "jsonl/D2/simpleqa_verified-1129.jsonl",
+  "reported_cost_usd": 0.0728904,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6067,
+      "query": "TCG Yavuz F240 frigate length meters",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Turgutreis (F-241) NATO WARSHIP current location right now",
+          "url": "https://www.marinetraffic.org/vessels/TCG-Turgutreis-(F-241)/1/271035003/current-position"
+        },
+        {
+          "date": "2008-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz sınıfı fırkateyn - Vikipedi",
+          "url": "https://tr.wikipedia.org/wiki/Yavuz_s%C4%B1n%C4%B1f%C4%B1_f%C4%B1rkateyn?oldid=17907140"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Media in category \"TCG Yavuz (F-240)\"",
+          "url": "https://commons.wikimedia.org/wiki/Category:TCG_Yavuz_(F-240)?action=render"
+        },
+        {
+          "date": "1995-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE MEKO 200 T FRIGATE TCG YAVUZ",
+          "url": "https://trid.trb.org/view/431765"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz-class Frigates",
+          "url": "https://www.globalsecurity.org.globalsecurity.org/military/world/europe/tcg-yavuz-specs.htm"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Military",
+          "url": "https://premium.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": "2013-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "YAVUZ CLASS (MEKO 200 Track I)",
+          "url": "https://devrimyaylali.com/yavuz-class-meko-200-track-i/"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Join the GlobalSecurity",
+          "url": "https://www.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Frigate TCG Yavuz (F240)",
+          "url": "https://shipshub.com/ships/113-1.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Yavuz F240 - IMO 4658051 - ShipSpotting.com",
+          "url": "https://www.shipspotting.com/photos/1354303"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6955,
+      "query": "Yavuz-class frigate Wikipedia length 110.5 m displacement 3,030",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz-class Frigates (1987)",
+          "url": "https://www.globalsecurity.org.globalsecurity.org/military/world/europe/tcg-yavuz.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz-class Frigates",
+          "url": "https://www.globalsecurity.org.globalsecurity.org/military/world/europe/tcg-yavuz-specs.htm"
+        },
+        {
+          "date": "2021-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Yavuz (F 240) - Wikipedia - TCG Yavuz (F 240)",
+          "url": "https://en.wikipedia.org/wiki/TCG_Yavuz_(F_240)#1"
+        },
+        {
+          "date": "2011-09-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Třída Yavuz – Wikipedie - Třída Yavuz",
+          "url": "https://cs.wikipedia.org/wiki/T%C5%99%C3%ADda_Yavuz#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{{Short description|Class of Turkish warships}}",
+          "url": "https://en.wikipedia.org/wiki/Yavuz-class_frigate?action=raw#1"
+        },
+        {
+          "date": "2011-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El estado actual y las perspectivas de desarrollo de las fuerzas navales de superficie turcas modernas. - El estado actual y las perspectivas de desarrollo de las fuerzas navales de superficie turcas modernas.",
+          "url": "https://es.topwar.ru/3396-sovremennoe-sostoyanie-i-perspektivy-razvitiya-sovremennyx-tureckix-nadvodnyx-vms.html#1"
+        },
+        {
+          "date": "2020-08-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz-class frigate - Yavuz-class frigate",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Yavuz-class_frigate#1"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Military",
+          "url": "https://premium.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": "2014-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Fatih (F 242) - TCG Fatih (F 242)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/TCG_Fatih_(F_242)#1"
+        },
+        {
+          "date": "2014-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Yıldırım (F 243) - TCG Yıldırım (F 243)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/TCG_Y%C4%B1ld%C4%B1r%C4%B1m_(F_243)#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 8832,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14171,
+    "iterations": [],
+    "output_tokens": 722,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

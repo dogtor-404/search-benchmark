@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：1983 年 1 月 1 日**（即所谓的“flag day”，切换日）。\n\n那天 ARPANET 正式把传输协议从 NCP 全面切换为 TCP/IP。这个日期早在 1981 年 11 月的 RFC 801 中就已确定。\n\n依据网址：\n- https://learn.microsoft.com/ja-jp/archive/blogs/drnick/25-years-of-tcpip-on-the-internet\n- https://www.nic.ad.jp/ja/newsletter/No67/0320.html\n- https://ieeexplore.ieee.org/document/6509372/citations",
+  "budget_denials": [],
+  "elapsed_seconds": 4.251,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0263648,
+      "inputTokens": 5416,
+      "maxOutputTokens": 32000,
+      "outputTokens": 212,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-023",
+  "raw": "jsonl/D2/custom-023.jsonl",
+  "reported_cost_usd": 0.0263648,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.672,
+      "query": "ARPANET NCP TCP/IP 切换 标志性日期",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "インターネットを支えるTCP/IPの誕生から普及まで",
+          "url": "https://www.nic.ad.jp/ja/newsletter/No67/0320.html#:~:text=1973%E5%B9%B4%E3%81%AE%E9%96%8B%E7%99%BA%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E3%80%812000%E5%B9%B4%E4%BB%A3%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7&text=ARPANET%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84,%E3%81%AB%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82"
+        },
+        {
+          "date": "2017-12-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "图文详情——科普中国资源服务",
+          "url": "https://cloud.kepuchina.cn/h5/detail?id=6974142724437454848#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] NCP to TCP/IP Transition",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2009-April/000793.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] The 20th anniversary of the Internet",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2002-December/000151.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] internet-history Digest, Vol 37, Issue 1",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2009-November/000955.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rapport sur XML",
+          "url": "https://www.cs.cmu.edu/~fgandon/lecture/licence_travaux_etude2002/report/ARPANET.html"
+        },
+        {
+          "date": "2013-04-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Enhanced IP: IPv4 with 64-Bit Addresses - Enhanced IP: IPv4 with 64-Bit Addresses",
+          "url": "https://ieeexplore.ieee.org/document/6509372/citations#citations#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Maj",
+          "url": "https://ftp.nic.ad.jp/internet/ftp.rfc-editor.org/in-notes/museum/ARPANET_News.mail#8"
+        },
+        {
+          "date": "2008-01-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "25 Years of TCP/IP on the Internet",
+          "url": "https://learn.microsoft.com/ja-jp/archive/blogs/drnick/25-years-of-tcpip-on-the-internet"
+        },
+        {
+          "date": "2002-12-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Internet faz 20 anos e o Brasil inova",
+          "url": "https://memoria.rnp.br/noticias/imprensa/2002/not-imp-021216.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5416,
+    "iterations": [],
+    "output_tokens": 212,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

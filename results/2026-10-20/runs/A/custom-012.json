@@ -1,0 +1,98 @@
+{
+  "answer": "**答案:1996 年。**\n\nFDA 于 1996 年 1 月 25 日裁定 olestra 可用于咸味零食,比如薯片和玉米片。宝洁(Procter & Gamble)1987 年提出申请,后来把申请范围缩小到咸味零食。批准有附带条件:要补充脂溶性维生素,并且要加肠胃不适的警告标签。2003 年 FDA 取消了警告标签的要求。\n\n我只搜了 1 次。上面的内容来自搜索结果的摘要,我没有打开这些页面逐一核对。\n\nSources:\n- [Olestra – Wikipedia](https://en.wikipedia.org/wiki/Olestra)\n- [Mental Floss:olestra 与 90 年代的无脂零食争议](https://www.mentalfloss.com/food/olestra-fat-free-snack-controversy-1990s)\n- [Federal Register, 2003-08-05(取消警告标签)](https://www.govinfo.gov/content/pkg/FR-2003-08-05/pdf/03-19508.pdf)",
+  "budget_denials": [],
+  "elapsed_seconds": 16.232,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117267,
+      "inputTokens": 13522,
+      "maxOutputTokens": 128000,
+      "outputTokens": 749,
+      "provider": "firstParty",
+      "thinkingTokens": 238,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2903,
+      "cacheReadInputTokens": 6748,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0168348,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 454,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-012",
+  "raw": "jsonl/A/custom-012.jsonl",
+  "reported_cost_usd": 0.0285615,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "FDA approval olestra savory snacks year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SLABz5zrkg4aW3AQCPYZWZ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2903,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2903,
+    "cache_read_input_tokens": 6748,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1057,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1057,
+        "cache_read_input_tokens": 4297,
+        "input_tokens": 2,
+        "output_tokens": 369,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 454,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

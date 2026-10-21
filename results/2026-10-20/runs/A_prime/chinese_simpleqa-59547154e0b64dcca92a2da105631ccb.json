@@ -1,0 +1,116 @@
+{
+  "answer": "**答案：1108年（北宋大观二年）。**\n\n最常见的说法是1108年。百度百科的《伤寒类证活人书》条目说它“成书于大观二年（1108年）”，豆瓣的图书条目也写成书于大观二年戊子（1108）。\n\n不过说法并不统一。百度百科《南阳活人书》条目写的是大观元年（1107年）撰成，原书序言据称也署“大观元年正月”。两种说法通常这样对上：1107年写成序言，1108年全书成书。这本书初名《无求子伤寒百问》，政和年间重校以后改成现在的书名。\n\n一共搜了3次。\n\nSources:\n- [伤寒类证活人书_百度百科](https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E7%B1%BB%E8%AF%81%E6%B4%BB%E4%BA%BA%E4%B9%A6/12275985)\n- [类证活人书_百度百科](https://baike.baidu.com/item/%E7%B1%BB%E8%AF%81%E6%B4%BB%E4%BA%BA%E4%B9%A6/418361)\n- [南阳活人书_百度百科](https://baike.baidu.com/item/%E5%8D%97%E9%98%B3%E6%B4%BB%E4%BA%BA%E4%B9%A6/20439028)\n- [类证活人书 (豆瓣)](https://m.douban.com/book/subject/1109787/)\n- [傷寒類證活人書 - 维基文库](https://zh.wikisource.org/wiki/%E5%82%B7%E5%AF%92%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8)\n- [Chinese Text Project Data wiki](https://data.ctext.org/entity/227208)",
+  "budget_denials": [],
+  "elapsed_seconds": 41.368,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0350709,
+      "inputTokens": 38449,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2452,
+      "provider": "firstParty",
+      "thinkingTokens": 727,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 6502,
+      "cacheReadInputTokens": 20217,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0793914,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1165,
+      "provider": "firstParty",
+      "thinkingTokens": 253,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+  "raw": "jsonl/A_prime/chinese_simpleqa-59547154e0b64dcca92a2da105631ccb.jsonl",
+  "reported_cost_usd": 0.11446230000000002,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "类证活人书 朱肱 成书 年",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01C31C4xyPhJThkkQzr4mZW1"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "朱肱 活人书 大观 1108 撰",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VuQsmNwhQkTrSRxeeJii4c"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "伤寒类证活人书 大观元年 OR 大观二年 朱肱",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NtQ5CsQhY6L43pJnkRcdAQ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6502,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6502,
+    "cache_read_input_tokens": 20217,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1356,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1356,
+        "cache_read_input_tokens": 7597,
+        "input_tokens": 2,
+        "output_tokens": 682,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1165,
+    "output_tokens_details": {
+      "thinking_tokens": 253
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "answer": "答案是**联合国世界粮食计划署(UN World Food Programme,WFP)**。诺贝尔委员会表彰它在对抗饥饿方面的工作。\n\nSources:\n- [Nobel Peace Prize won by UN World Food Programme (ITV)](https://www.itv.com/news/2020-10-09/nobel-peace-prize-won-by-un-world-food-programme)\n- [Nobel Peace Prize 2020: UN World Food Programme, winner of the award (AFSC)](https://afsc.org/newsroom/nobel-peace-prize-2020-un-world-food-programme-winner-award)\n- [Nobel Peace Prize awarded to World Food Programme (WGCU)](https://www.wgcu.org/2020-10-09/nobel-peace-prize-awarded-to-world-food-programme)",
+  "budget_denials": [],
+  "elapsed_seconds": 12.7,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116759,
+      "inputTokens": 13914,
+      "maxOutputTokens": 128000,
+      "outputTokens": 569,
+      "provider": "firstParty",
+      "thinkingTokens": 158,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2985,
+      "cacheReadInputTokens": 6741,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0163221,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 370,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-1373e5c4d426417396e5276dec689475",
+  "raw": "jsonl/A/chinese_simpleqa-1373e5c4d426417396e5276dec689475.jsonl",
+  "reported_cost_usd": 0.027998000000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "2020 Nobel Peace Prize winner",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015rhnYNArGagspRK78eg3MF"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2985,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2985,
+    "cache_read_input_tokens": 6741,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1146,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1146,
+        "cache_read_input_tokens": 4290,
+        "input_tokens": 2,
+        "output_tokens": 284,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 370,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

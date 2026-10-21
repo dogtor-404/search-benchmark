@@ -1,0 +1,223 @@
+{
+  "answer": "**130 年**\n\n- Anton Grylewicz 出生于 1885 年 1 月 8 日（Wikipedia）。\n- 第二部《海绵宝宝》电影《The SpongeBob Movie: Sponge Out of Water》于 2015 年 2 月 6 日在美国上映。\n\n2015 − 1885 = 130 年（2 月 6 日在 1 月 8 日之后，已满 130 年）。\n\n依据：\n- https://en.wikipedia.org/wiki/Anton_Grylewicz\n- https://www.the-numbers.com/movies/franchise/SpongeBob-SquarePants",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.148,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.039666400000000004,
+      "inputTokens": 7505,
+      "maxOutputTokens": 32000,
+      "outputTokens": 458,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-548",
+  "raw": "jsonl/D2_prime/frames-548.jsonl",
+  "reported_cost_usd": 0.039666400000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7771,
+      "query": "Anton Grylewicz date of birth",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{{Short description|German politician (1885–1971)}}",
+          "url": "https://en.wikipedia.org/wiki/Anton_Grylewicz?oldformat=true&action=raw#1"
+        },
+        {
+          "date": "2020-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Katalog der Deutschen Nationalbibliothek",
+          "url": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=idn%3D130003093"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GRYLEWICZ, Anton",
+          "url": "https://francearchives.gouv.fr/facomponent/7c7a4c4bc42d096c606c8eeb609865af0f0b3565"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anton Grylewicz - Anton Grylewicz (8 January 1885 – 2 August 1971) was a German communist politician",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Anton_Grylewicz#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grylewicz, Anton - Hilfe zur Suche Nutzen Sie Boolsche Operatoren für Ihre Suche (UND / +, ODER, NICHT / - , - / +, > / <)",
+          "url": "https://www.kommunismusgeschichte.de/biolex/article/detail/grylewicz-anton?type=%22%3E%3Cscript%20%3Ealert%28String.fromCharCode%2888%2C83%2C83%29%29%3C%2Fscript%3E%27%2C1709159768#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BioLex - kommunismusgeschichte.de - Hilfe zur Suche Nutzen Sie Boolsche Operatoren für Ihre Suche (UND / +, ODER, NICHT / - , - / +, > / <)",
+          "url": "https://www.kommunismusgeschichte.de/biolex?tx_sedaktuelles_pi1%5Baction%5D=&tx_sedaktuelles_pi1%5Bcontroller%5D=Aktuelles&tx_sedaktuelles_pi1%5Bpageid%5D=34&type=0%27%22%27%27A%3D0fileadmin%2Fuser_upload%2FJHK%2F2012%2F08_JHK_2012_Pavlenko_S._063_082.pdf&cHash=10fa26a19286d588d8ddcc3774776e5b#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anton Grylewicz",
+          "url": "https://www.stolpersteine-berlin.de/de/brusendorfer-strasse/23/anton-grylewicz"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grylewicz, Anton",
+          "url": "https://www.bundesstiftung-aufarbeitung.de/de/recherche/kataloge-datenbanken/biographische-datenbanken/anton-grylewicz"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GRYLEWICZ Anton",
+          "url": "https://maitron.fr/grylewicz-anton/"
+        },
+        {
+          "date": "2021-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anna-Maria Grylewicz née Bräuer",
+          "url": "https://www.stolpersteine-berlin.de/en/brusendorfer-strasse/23/anna-maria-grylewicz"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6279,
+      "query": "second SpongeBob SquarePants movie release date",
+      "results": [
+        {
+          "date": "2023-05-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "スポンジ・ボブ (映画シリーズ) - Wikipedia",
+          "url": "https://ja.m.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%9C%E3%83%96_(%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)"
+        },
+        {
+          "date": "2025-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Numbers - Where Data and the Movie Business Meet",
+          "url": "https://www.the-numbers.com/movies/franchise/SpongeBob-SquarePants"
+        },
+        {
+          "date": "2026-07-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SpongeBob SquarePants (film series)",
+          "url": "https://fanickelodeon.fandom.com/wiki/SpongeBob_SquarePants_(film_series)"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "スポンジ・ボブ (映画シリーズ)とは？ わかりやすく解説 - スポンジ・ボブ (映画シリーズ)とは？ わかりやすく解説",
+          "url": "https://www.weblio.jp/content/%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b8%e3%83%bb%e3%83%9c%e3%83%96+%28%e6%98%a0%e7%94%bb%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%29#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The SpongeBob movie search for SquarePants",
+          "url": "https://catalog.atlanticlibrary.org/Record/301167?searchId=5474770&recordIndex=10&page=1&referred=resultIndex"
+        },
+        {
+          "date": "2018-10-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SpongeBob SquarePants (film series) - SpongeBob SquarePants (film series)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/SpongeBob_SquarePants_(film_series)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Franchise: SpongeBob",
+          "url": "https://www.boxofficemojo.com/franchise/fr1799851781/?sort=grossToDate&sortDir=asc&ref_=bo_fr__resort#table"
+        },
+        {
+          "date": "2026-07-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "List of movies",
+          "url": "https://spongebob.fandom.com/wiki/List_of_movies"
+        },
+        {
+          "date": "2026-07-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "List of SpongeBob SquarePants films - Skip to content",
+          "url": "https://the-jh-movie-collection-official.fandom.com/wiki/List_of_SpongeBob_SquarePants_films#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2014/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FSpongeBob_SquarePants_2#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7505,
+    "iterations": [],
+    "output_tokens": 458,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

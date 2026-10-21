@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1977 年**(昭和 52 年 4 月 25 日)。\n\n依据:\n- 日本文化厅「国指定文化财等数据库」:指定年月日为 1977.04.25,类别为重要无形文化财。https://kunishitei.bunka.go.jp/bsys/maindetails/303/120\n- 文化遗产在线(文化厅):指定年月日 19770425。https://online.bunka.go.jp/db/heritages/detail/160148\n- 中国网转引共同社的报道,也说轮岛涂于 1977 年被指定为国家重要无形文化财产。http://www.china.com.cn/news/2024-01/30/content_116973504.htm\n\n这次只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.269,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5357,
+      "cacheReadInputTokens": 5853,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.025221300000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 320,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+  "raw": "jsonl/B/chinese_simpleqa-784a518b5ade45f78896131f35cd29ea.jsonl",
+  "reported_cost_usd": 0.025221300000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7585,
+      "query": "轮岛涂 国家重要无形文化财产 指定 年",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国指定文化財等データベース",
+          "url": "https://kunishitei.bunka.go.jp/bsys/maindetails/303/120"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗 文化遺産オンライン",
+          "url": "https://api.online.bunka.go.jp/heritages/detail/160148"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "文化遺産データベース",
+          "url": "https://online.bunka.go.jp/db/heritages/detail/160148"
+        },
+        {
+          "date": "2024-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登強震重創日漆器工藝 台灣善款助職人復興輪島塗 | 國際 | 中央社 CNA",
+          "url": "https://www.cna.com.tw/news/aopl/202403170074.aspx?utm_source=Telegram&amp;utm_medium=cnanewstw&amp;utm_campaign=link"
+        },
+        {
+          "date": "2024-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "日本文化遗产工厂在地震中损毁严重 恢复需2年以上时间",
+          "url": "http://www.china.com.cn/news/2024-01/30/content_116973504.htm"
+        },
+        {
+          "date": "2024-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登強震重創日漆器工藝 台灣善款助職人復興輪島塗 - Rti央廣",
+          "url": "https://www.rti.org.tw/news/view/id/2199243"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（106）《日本轮岛塗漆器》原盒花器一套三件全 样式精美 树脂漆器 花瓶金属芯 设计精美 瓶口直径：5.5cm 高：25.5cm 托板尺寸：24*5.8*0.9（cm）轮岛涂起源于江户时代宽文年间，是位于能登半岛的石川县轮岛市起源生产的漆器名称，于1977年被日本政府指定为国家重要无形文化财。“第442届沫沫小姐的书店0元无托拍卖会”",
+          "url": "http://www.kongfz.cn/69348650/pic/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（戊6772）《日本轮岛塗结界》原盒一件泉 木胎漆器 日本传统工艺漆器 制作精美 做工精良 两侧印有五三桐纹 长：65cm 高：13cm 宽：5.8cm 轮岛涂起源于江户时代宽文年间，是位于能登半岛的石川县轮岛市起源生产的漆器名称，于1977年被日本政府指定为国家重要无形文化财产。",
+          "url": "http://www.kongfz.cn/73904146/bid/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "報道関係各位",
+          "url": "https://www.art.city.wajima.ishikawa.jp/wp-content/uploads/2025/07/0a01183a7692ecdfd8aa0cc5a3be5f74-2.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「ハンズ・オン",
+          "url": "http://www.city.wajima.ishikawa.jp/art/home/handson_press.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5357,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5357,
+    "cache_read_input_tokens": 5853,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3512,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3512,
+        "cache_read_input_tokens": 3849,
+        "input_tokens": 2,
+        "output_tokens": 243,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 320,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "**Palazzo della Cancelleria**（教宗宫/宗座办公厅宫，也称 Apostolic Chancery Palace）是罗马第一座从地基开始按文艺复兴新风格建造的宫殿，约 1489 年至 1513 年为红衣主教拉法埃莱·里亚里奥建造，位于 Campo de' Fiori 附近。\n\n来源：https://en.wikipedia.org/wiki/Palazzo_della_Cancelleria",
+  "budget_denials": [],
+  "elapsed_seconds": 4.648,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0345968,
+      "inputTokens": 7324,
+      "maxOutputTokens": 32000,
+      "outputTokens": 242,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-1353",
+  "raw": "jsonl/D2/simpleqa_verified-1353.jsonl",
+  "reported_cost_usd": 0.0345968,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7248,
+      "query": "first palace in Rome erected from the ground up in the new Renaissance style",
+      "results": [
+        {
+          "date": "2023-09-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Formal award ceremony 12 of October - WCS",
+          "url": "https://wcsiasc.org/formal-award-ceremony-12-of-october/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Palazzo della Cancelleria - Palazzo della Cancelleria - Wikipedia",
+          "url": "https://search.lycos.co.uk/web/?keyvol=00a45126d6798f32fe9b&q=%22Palazzo%20della%20Cancelleria%22#1"
+        },
+        {
+          "date": "2008-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Text-Book of the History of Architecture Seventh Edition, revised - PALACES",
+          "url": "https://www.gutenberg.org/cache/epub/26319/arch2.html#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Architektur in Renaissance und Barock",
+          "url": "https://www.projekte.kunstgeschichte.uni-muenchen.de/arch_complete_vers/40-ren-barock-architektur/studieneinheiten/lektion_5/V_2_6.htm"
+        },
+        {
+          "date": "2012-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Historisch wertvoll: Römische Nächte – ein Bett im Museum - WELT - Historisch wertvoll",
+          "url": "https://www.welt.de/reise/nah/article109085825/Historisch-wertvoll-Roemische-Naechte-ein-Bett-im-Museum.html#1"
+        },
+        {
+          "date": "2019-12-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Paleis van de Kanselarij - Wikipedia - Paleis van de Kanselarij",
+          "url": "https://nl.wikipedia.org/wiki/Paleis_van_de_Kanselarij#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Renaissance Architecture in Rome - Concept Version 10",
+          "url": "http://www.library.snls.org.sz/boundless/boundless/art-history/textbooks/boundless-art-history-textbook/the-italian-renaissance-23/renaissance-architecture-152/renaissance-architecture-in-rome-615-8041/index.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Palazzo della Cancelleria - Built ca",
+          "url": "https://cudl.colorado.edu/luna/servlet/detail/ARCHIVISIONBASETO9~1~1~10291~108998:Palazzo-della-Cancelleria#1"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cancelleria | palace, Rome, Italy | Britannica",
+          "url": "https://www.britannica.com/place/Cancelleria"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Detail View: Archivision Base to Module 9: Palazzo della Cancelleria",
+          "url": "https://cudl.colorado.edu/luna/servlet/detail/ARCHIVISIONBASETO9~1~1~10307~109021:Palazzo-della-Cancelleria?printerFriendly=1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7324,
+    "iterations": [],
+    "output_tokens": 242,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

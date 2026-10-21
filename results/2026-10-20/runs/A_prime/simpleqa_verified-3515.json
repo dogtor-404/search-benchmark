@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：** 1875 年，George Brown 拒绝出任安大略省副总督（Lieutenant Governor of Ontario）。\n\n只搜了 1 次。搜索结果把这件事放在 1875 年。他拒绝爵位是另一回事，资料记在 1879 年，不是 1875 年。我没有直接打开网页核对原文。\n\n依据：\n- [The Canadian Encyclopedia – George Brown](https://thecanadianencyclopedia.ca/en/article/george-brown)\n- [Parks Canada – George Brown House National Historic Site](https://parks.canada.ca/culture/designation/lieu-site/maison-george-brown-house)\n- [1911 Encyclopædia Britannica – Brown, George](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brown,_George)",
+  "budget_denials": [],
+  "elapsed_seconds": 16.725,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011788700000000001,
+      "inputTokens": 14282,
+      "maxOutputTokens": 128000,
+      "outputTokens": 721,
+      "provider": "firstParty",
+      "thinkingTokens": 257,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3127,
+      "cacheReadInputTokens": 6733,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.040138599999999997,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 688,
+      "provider": "firstParty",
+      "thinkingTokens": 301,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/A_prime/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.0519273,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "George Brown 1818-1880 1875 refused knighthood",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Jh64Sdj8dMeCJmQr6biX5C"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3127,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3127,
+    "cache_read_input_tokens": 6733,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1296,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1296,
+        "cache_read_input_tokens": 4282,
+        "input_tokens": 2,
+        "output_tokens": 448,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 688,
+    "output_tokens_details": {
+      "thinking_tokens": 301
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

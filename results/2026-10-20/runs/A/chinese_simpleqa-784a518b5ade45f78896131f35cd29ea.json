@@ -1,0 +1,107 @@
+{
+  "answer": "**答案:1977 年。**\n\n轮岛涂在 1977 年被日本政府指定为国家重要无形文化财产。我搜了两次,凤凰网、台湾中央社(CNA)的报道和一篇企业介绍都是这个年份。\n\n这些都是二手来源,我没有找到日本文化厅的官方页面。如果要做严格核对,可以去文化厅的「文化遗产在线」(文化遺産オンライン)查指定记录。\n\nSources:\n- [凤凰网](https://news.ifeng.com/c/7fjiJxsn2E8)\n- [中央社 CNA:能登强震重创日漆器工艺](https://www.cna.com.tw/news/aopl/202403170074.aspx)\n- [discoverjapan-web.com](https://discoverjapan-web.com/article/124906)",
+  "budget_denials": [],
+  "elapsed_seconds": 25.243,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0231467,
+      "inputTokens": 24342,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1425,
+      "provider": "firstParty",
+      "thinkingTokens": 433,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4313,
+      "cacheReadInputTokens": 11938,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0262678,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 781,
+      "provider": "firstParty",
+      "thinkingTokens": 311,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+  "raw": "jsonl/A/chinese_simpleqa-784a518b5ade45f78896131f35cd29ea.jsonl",
+  "reported_cost_usd": 0.0494145,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "轮岛涂 国家重要无形文化财产 指定 年",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FhgFqTQcHZdGDNn3Wf5z4Y"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "輪島塗 重要無形文化財 指定 1977年 文化庁",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019EqCFYJRCXx8ALdrWYXudr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4313,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4313,
+    "cache_read_input_tokens": 11938,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1573,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1573,
+        "cache_read_input_tokens": 5191,
+        "input_tokens": 2,
+        "output_tokens": 280,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 781,
+    "output_tokens_details": {
+      "thinking_tokens": 311
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：2016 年**\n\n《The Express Tribune》2016 年 4 月 12 日在网上发了这篇报道，标题是《AKU becomes country's first hospital to introduce 'Neuro-Robotic Exoscope'》，第二天（4 月 13 日）登上纸质版。原文是：\"The Aga Khan University hospital (AKUH) has become the first medical centre to introduce the new advanced brain surgery technology, Neuro-Robotic Exoscope, in Pakistan…\"。这套设备是 2016 年 4 月 11 日启用的。\n\n依据：\n- https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope\n- 存档版：https://web.archive.org/web/20211130010011/https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope\n\n同一家报纸 2016 年 9 月 23 日的另一篇报道又提到了这件事，用的是过去时（\"In April, … became the first…\"）：https://tribune.com.pk/story/1186712/successful-feat-rare-heart-procedure-performed\n\n（共搜了 1 次。）",
+  "budget_denials": [],
+  "elapsed_seconds": 11.583,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 10664,
+      "cacheReadInputTokens": 5899,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09822779999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 586,
+      "provider": "firstParty",
+      "thinkingTokens": 55,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-829",
+  "raw": "jsonl/B_prime/simpleqa_verified-829.jsonl",
+  "reported_cost_usd": 0.09822779999999999,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6867,
+      "query": "Express Tribune Aga Khan University Hospital first Neuro-Robotic Exoscope Pakistan",
+      "results": [
+        {
+          "date": "2026-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKUH,P - Home",
+          "url": "https://hospitals.aku.edu/pakistan/others/departments/department-of-surgery/section-of-neurosurgery"
+        },
+        {
+          "date": "2016-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’ | The Express Tribune - AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’",
+          "url": "https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Section of Neurosurgery",
+          "url": "https://hospitals.aku.edu/pakistan/Health-Services/department-of-surgery/section-of-neurosurgery/Pages/default.aspx"
+        },
+        {
+          "date": "2016-09-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rare heart procedure performed in Pakistan | The Express Tribune - Rare heart procedure performed in Pakistan",
+          "url": "https://tribune.com.pk/story/1186712/successful-feat-rare-heart-procedure-performed#1"
+        },
+        {
+          "date": "2017-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "State-of-the-art brain surgery technology comes to AKUH | The Express Tribune - State-of-the-art brain surgery technology comes to AKUH",
+          "url": "https://tribune.com.pk/story/1501304/state-art-brain-surgery-technology-comes-akuh#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Use of Neuro-Robotic Exoscope for Neurosurgery in Pakistan: A Case Series",
+          "url": "https://scholar.archive.org/work/zvbru5dkyfh4jpxfiqpo5ktgde"
+        },
+        {
+          "date": "2016-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’ | The Express Tribune - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20211130010011/https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE ACA KHAN UNIVERSITY",
+          "url": "https://ecommons.aku.edu/cgi/viewcontent.cgi?article=1243&context=pakistan_fhs_mc_surg_neurosurg#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://www.oalib.com/downloadEndnote/5468478"
+        },
+        {
+          "date": "2017-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "State-of-the-art brain surgery technology comes to AKUH",
+          "url": "https://the.akdn/en/resources-media/whats-new/in-the-media/state-art-brain-surgery-technology-comes-akuh"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10664,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10664,
+    "cache_read_input_tokens": 5899,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8773,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8773,
+        "cache_read_input_tokens": 3895,
+        "input_tokens": 2,
+        "output_tokens": 494,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 586,
+    "output_tokens_details": {
+      "thinking_tokens": 55
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

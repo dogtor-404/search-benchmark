@@ -1,0 +1,60 @@
+{
+  "answer": "我不知道。凭记忆我无法确认 Michel von Tell 在 2000 年开丰田、拿第六名的是哪项赛事，所以也无法可靠地说出第一名是谁、开什么车。\n\n如果你指的是 **2000 年达喀尔拉力赛**，我记得冠军是 **Jean-Louis Schlesser**，驾驶 **Schlesser-Renault** 赛车；但我不能确认这与 von Tell 的第六名是同一场比赛。",
+  "budget_denials": [],
+  "elapsed_seconds": 34.029,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.133216,
+      "inputTokens": 1989,
+      "maxOutputTokens": 32000,
+      "outputTokens": 6263,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/D0/frames-656.jsonl",
+  "reported_cost_usd": 0.133216,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1989,
+    "iterations": [],
+    "output_tokens": 6263,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

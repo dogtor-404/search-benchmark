@@ -1,0 +1,233 @@
+{
+  "answer": "**答案:约翰·D·德拉马特(John D. DeLamater)。** 他是威斯康星大学麦迪逊分校的社会学教授。\n\n《人类的性存在》是 *Understanding Human Sexuality* 的中译本,由海德和德拉马特合著,贺岭峰等人翻译,上海社会科学院出版社 2005 年出版。\n\n依据的网址:\n- https://opac.cdclib.cn/opac/book/1054247?view=simple&flag=printer(书目信息:海德、德拉马特著,贺岭峰译)\n- https://search.worldcat.org/zh-cn/title/1273942116(WorldCat 记录)\n- https://catalog.hathitrust.org/Record/009148492(英文原版:Janet Shibley Hyde, John D. DeLamater)\n\n英文原版的后续版本里,加拿大版还加了 Sandra Byers 和 Lucia O'Sullivan 两位作者。这不影响上面的答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.556,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 12534,
+      "cacheReadInputTokens": 5880,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.055632,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 490,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705",
+  "raw": "jsonl/B/chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705.jsonl",
+  "reported_cost_usd": 0.055632,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.612,
+      "query": "《人类的性存在》 Janet Shibley Hyde 合著者",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人類的性存在 | WorldCat.org",
+          "url": "https://search.worldcat.org/zh-cn/title/1273942116"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://opac.cdclib.cn/opac/book/1054247?view=simple&flag=printer"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类的性存在: 第8版 :(美)珍妮特·S·海德(Janet Shibley Hyde)，(美)约翰·D·德拉马特(John D. Delamater), 贺岭峰, 李强, 高旭辰",
+          "url": "http://ilasweb.kmlib.yn.cn/NTRdrBookRetr.aspx?strKeyValue2=2&strKeyValueAuthor=(%e7%be%8e)%e7%8f%8d%e5%a6%ae%e7%89%b9%c2%b7S%c2%b7%e6%b5%b7%e5%be%b7(Janet+Shibley+Hyde)%ef%bc%8c(%e7%be%8e)%e7%ba%a6%e7%bf%b0%c2%b7D%c2%b7%e5%be%b7%e6%8b%89%e9%a9%ac%e7%89%b9(John+D.+Delamater)%2c+%e8%b4%ba%e5%b2%ad%e5%b3%b0%2c+%e6%9d%8e%e5%bc%ba%2c+%e9%ab%98%e6%97%ad%e8%be%b0&strTypeAuthor=author&tabletype=*&strAllPublish=&strAllPubyear=fq%3dpubyear%3a%222005%22&strAllLanguage=&strKeyValue=%e9%a9%ac%e7%89%b9&strType=author&strVip2=&strStartYear=&strEndYear=&strPublisher=&strAuthorer="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "扬州市图书馆书目检索系统 Online Public Access Catalogue",
+          "url": "http://opac.yzlib.cn:8080/opac/item.php?marc_no=0000146099&list=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "上海社会科学院图书馆书目检索系统 Online Public Access Catalogue",
+          "url": "http://opac-lib.sass.org.cn/opac/openlink.php?location=ALL&coden=R16&callno=R&doctype=01&lang_code=ALL&match_flag=forward&displaypg=20&showmode=list&orderby=DESC&sort=CATA_DATE&onlylendable=no&with_ebook=off&hist_cont=hist&subject=%E6%80%A7%E7%9F%A5%E8%AF%86"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "江苏海洋大学图书馆书目检索系统 Online Public Access Catalogue",
+          "url": "http://opac.jou.edu.cn:8080/opac/item.php?marc_no=0000266896"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "简单检索 多字段检索 组合检索 书目详细信息",
+          "url": "http://libwx.cumtb.edu.cn/mobile/opac/book/630854"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "馆藏书目查询系统",
+          "url": "https://vufind.library.sh.cn/Record/973c3206-5de5-4b42-9949-f35c36bd36b4?lng=en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "缩小检索范围",
+          "url": "http://220.163.115.90:8099/ILASOPAC/NTRdrBookRetr.do?SearchType=subject&SearchKey=&PageNum=10&searchWay=searchWayPrv&ResearchSearchType=null&researchSearchKey=null&LeftPubyearType=pubyear&LeftPubyearKey=2005&leftPublishType=publish&leftPublishKey=%E4%B8%8A%E6%B5%B7%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2%E5%87%BA%E7%89%88%E7%A4%BE&LeftLanguageType=language&LeftLanguageKey=CNMARC"
+        },
+        {
+          "date": "2025-08-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类的性存在",
+          "url": "https://www.wikidata.org/wiki/Q124166007?uselang=zh-hans#P921"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6579,
+      "query": "Human Sexuality Janet Shibley Hyde John D. DeLamater",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Catalog Record: Understanding human sexuality",
+          "url": "https://catalog.hathitrust.org/Record/009148492"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books 著者",
+          "url": "https://ci.nii.ac.jp/author/DA00561700?l=ja"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books Author",
+          "url": "https://ci.nii.ac.jp/author/DA00561700?l=en"
+        },
+        {
+          "date": "2026-01-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Loose Leaf for Understanding Human Sexuality: 2026 Release",
+          "url": "https://books.google.com.sg/books?id=1Pn00QEACAAJ&newbks=0&hl=sl&redir_esc=y"
+        },
+        {
+          "date": "2023-10-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Understanding human sexuality : loose-leaf ed 14th ed | NDL Search | National Diet Library",
+          "url": "https://ndlsearch.ndl.go.jp/en/books/R100000136-I1971149384751311040"
+        },
+        {
+          "date": "2018-01-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Understanding Human Sexuality - Understanding Human Sexuality",
+          "url": "https://books.google.com.sg/books/about/Understanding_Human_Sexuality.html?hl=zh-TW&id=RA7_twEACAAJ&redir_esc=y#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii 図書 - Understanding human sexuality",
+          "url": "https://ci.nii.ac.jp/ncid/BC05741082?l=ja"
+        },
+        {
+          "date": "2023-01-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Human Sexuality - Psychology - Humanities and Social Sciences",
+          "url": "https://www.mheducation.com.sg/humanities-and-social-sciences/psychology/human-sexuality"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Publisher description for Understanding human sexuality / Janet Shibley Hyde, John D. DeLamater.",
+          "url": "https://catdir.loc.gov/catdir/enhancements/fy0602/99022743-d.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Understanding Human Sexuality - 2026 Release",
+          "url": "https://www.mheducation.ca/product/understanding-human-sexuality-2026-release-9781266153686-can-group"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12534,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12534,
+    "cache_read_input_tokens": 5880,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10662,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10662,
+        "cache_read_input_tokens": 3876,
+        "input_tokens": 2,
+        "output_tokens": 333,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 490,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

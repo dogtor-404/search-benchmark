@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：** 维生素 A、D、E、K。\n\n这是美国联邦法规 21 CFR §172.867(d) 的规定。为补偿 olestra 对脂溶性维生素吸收的干扰，每克 olestra 要添加：\n- 维生素 E：1.9 mg α-生育酚当量\n- 维生素 A：51 视黄醇当量（用视黄醇乙酸酯或棕榈酸酯）\n- 维生素 D：12 IU\n- 维生素 K₁：8 μg\n\n依据网址：\n- https://www.law.cornell.edu/cfr/text/21/172.867\n- https://www.govinfo.gov/content/pkg/CFR-2013-title21-vol3/xml/CFR-2013-title21-vol3-sec172-867.xml\n\n搜索次数：1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.418,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 10368,
+      "cacheReadInputTokens": 5858,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09197159999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 392,
+      "provider": "firstParty",
+      "thinkingTokens": 35,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-013",
+  "raw": "jsonl/B_prime/custom-013.jsonl",
+  "reported_cost_usd": 0.09197159999999999,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6854,
+      "query": "21 CFR 172.867 olestra vitamin A D E K added",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "§ 172.867",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2016-title21-vol3/pdf/CFR-2016-title21-vol3-sec172-869.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Food and Drug Administration, HHS",
+          "url": "https://www.govinfo.gov/link/cfr/21/172?link-type=pdf&sectionnum=867&year=mostrecent#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "II. Background",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2004-05-24/pdf/FR-2004-05-24.pdf#page=8#40#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "FOOD ADDITIVES PERMITTED FOR DIRECT ADDITION TO FOOD FOR HUMAN CONSUMPTION - (1) As substitutes for the corresponding naturally derived fatty alcohols permitted in food by existing regulations in this part...",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2009-title21-vol3/xml/CFR-2009-title21-vol3-part172.xml#12"
+        },
+        {
+          "date": "2004-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Food Additives Permitted for Direct Addition to Food for Human Consumption; Olestra - In establishing food additive approval regulations, FDA generally incorporates by reference FCC specifications where such specif...",
+          "url": "https://www.federalregister.gov/documents/2004/05/24/04-11502/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-olestra#2"
+        },
+        {
+          "date": "2004-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Federal Register, Volume 69 Issue 100 (Monday, May 24, 2004) - would not be affected by the small amounts degraded (Ref",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2004-05-24/html/04-11502.htm#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra.",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2013-title21-vol3/xml/CFR-2013-title21-vol3-sec172-867.xml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "21 CFR § 172.867 - Olestra.",
+          "url": "https://correo.liicornell.org/cfr/text/21/172.867"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "21 CFR § 172.867 - Olestra. - 21 CFR § 172.867 - Olestra.",
+          "url": "https://www.law.cornell.edu/cfr/text/21/172.867#1"
+        },
+        {
+          "date": "2003-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Correction",
+          "url": "https://www.federalregister.gov/documents/full_text/xml/2003/10/07/C3-19509.xml#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10368,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10368,
+    "cache_read_input_tokens": 5858,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8518,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8518,
+        "cache_read_input_tokens": 3854,
+        "input_tokens": 2,
+        "output_tokens": 279,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 392,
+    "output_tokens_details": {
+      "thinking_tokens": 35
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

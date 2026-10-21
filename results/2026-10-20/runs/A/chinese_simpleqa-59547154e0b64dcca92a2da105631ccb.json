@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：大观二年(1108年)前后。这个年份没有被搜索证实。**\n\n两次搜索都没有找到明确写着成书年份的网页。\n- 哈佛 CBDB 的条目把《类证活人书》的著作年代标为\"未详\"。它只给出了《北山酒经》的年代,是 1117 年。\n- ctext 的条目只确认朱肱(1068–1165)是作者,没有给成书年份。\n\n1108年这个说法来自我已有的知识,不是来自这些网页。《活人书》最初写成的时间,传统上认为是大观二年(1108年)前后。如果你需要有出处的答案,建议再查《四库全书总目》提要或医史文献。\n\nSources:\n- [Chinese Text Project Data wiki](https://data.ctext.org/entity/227208)\n- [CBDB ID: 16701](https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0016701)\n- [CBDB 朱肱著作列表](https://input.cbdb.fas.harvard.edu/basicinformation/16701/texts)",
+  "budget_denials": [],
+  "elapsed_seconds": 25.263,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0234999,
+      "inputTokens": 26919,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1616,
+      "provider": "firstParty",
+      "thinkingTokens": 465,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5107,
+      "cacheReadInputTokens": 12475,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.027637500000000002,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 595,
+      "provider": "firstParty",
+      "thinkingTokens": 24,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+  "raw": "jsonl/A/chinese_simpleqa-59547154e0b64dcca92a2da105631ccb.jsonl",
+  "reported_cost_usd": 0.0511374,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "《类证活人书》 朱肱 撰于 哪一年",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01X2PLiA5yoYtyGkLs7SEU9x"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "朱肱 《类证活人书》 成书 1108年 大观二年 初名《南阳活人书》",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TcaooXjYbX5W1rxpeGicrF"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5107,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5107,
+    "cache_read_input_tokens": 12475,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1822,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1822,
+        "cache_read_input_tokens": 5736,
+        "input_tokens": 2,
+        "output_tokens": 372,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 595,
+    "output_tokens_details": {
+      "thinking_tokens": 24
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

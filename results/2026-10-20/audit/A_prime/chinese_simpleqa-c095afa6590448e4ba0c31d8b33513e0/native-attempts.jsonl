@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "El Tomatal 2010 census population", "results": [], "status": "allowed", "tool_use_id": "toolu_01AkHwZUE61K83rpamqYzbrs"}
+{"billable": false, "call": 2, "query": "\"El Tomatal\" Baja California population 2010", "results": [], "status": "allowed", "tool_use_id": "toolu_01L28iFRLkiS9bMKBxJpnwzj"}
+{"billable": false, "call": 3, "query": "\"El Tomatal\" localidad habitantes censo 2010", "results": [], "status": "allowed", "tool_use_id": "toolu_01Rf988NFgcHRG3XgiXZxT8V"}
+{"billable": false, "call": 4, "query": "El Tomatal wikipedia localidad población 2010", "results": [], "status": "allowed", "tool_use_id": "toolu_01E2SrnqPTPJ7pKjrJK7276D"}

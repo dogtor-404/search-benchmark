@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：34 岁**（美国比墨西哥早 34 年宣布独立）\n\n- 美国宣布独立：1776 年 7 月 4 日（《独立宣言》）\n- 墨西哥宣布独立：1810 年 9 月 16 日（伊达尔戈神父发出「多洛雷斯呼声」）\n\n1810 − 1776 = 34 年。\n\n依据网址：\n- https://bensguide.gpo.gov/m-writing-the-declaration （美国：1776 年 7 月 4 日通过《独立宣言》）\n- https://www.gob.mx/defensa/documentos/15-de-septiembre-de-1810-grito-de-independencia （墨西哥：1810 年 9 月 16 日「独立呼声」）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.277,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.048684000000000005,
+      "inputTokens": 9883,
+      "maxOutputTokens": 32000,
+      "outputTokens": 432,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-137",
+  "raw": "jsonl/D2_prime/frames-137.jsonl",
+  "reported_cost_usd": 0.048684000000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7656,
+      "query": "United States declared independence date July 4 1776",
+      "results": [
+        {
+          "date": "1999-06-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://www.congress.gov/106/crec/1999/07/01/145/96/modified/CREC-1999-07-01-pt2-PgS8201-3.htm#1"
+        },
+        {
+          "date": "2023-05-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Declaration of Independence (Annotated)",
+          "url": "https://books.google.com.sg/books?id=yXAC0AEACAAJ&newbks=1&newbks_redir=0&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Proceedings and collections of the Wyoming Historical and Geological Society\" - day's  transaction,  even  though  we  should  rue  it,  which  I",
+          "url": "https://archive.org/stream/proceedingscolle56wyom/proceedingscolle56wyom_djvu.txt#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Writing the Declaration of Independence",
+          "url": "https://bensguide.gpo.gov/m-writing-the-declaration?highlight=WyJ0aGVpciJd"
+        },
+        {
+          "date": "2007-07-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "July 4th",
+          "url": "https://americanarchive.org/catalog/cpb-aacip-211-70zpcwsh"
+        },
+        {
+          "date": "2014-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "John Adams’s vision of July 4 was July 2",
+          "url": "https://prologue.blogs.archives.gov/2014/07/02/john-adams-vision-of-july-4-was-july-2/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "When did the American colonies declare independence? | Britannica",
+          "url": "https://mendel-11302.dev-ext.britannica.com/question/When-did-the-American-colonies-declare-independence"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The story of the constitution of the United States / by Rossiter Johnson, . - Text-only - Full View",
+          "url": "https://babel.hathitrust.org/cgi/ssd?id=mdp.39015030801438;seq=263;num=233"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "chronology of the Declaration of Independence",
+          "url": "https://www.dhm.de/archiv/magazine/unabhaengig/chron_e.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "President Falcam sends congratulations to US on 224th independence anniversary",
+          "url": "https://www.fsmgov.org/press/pr071300.htm"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7136,
+      "query": "Mexico declared independence date September 16 1810 Grito de Dolores",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Independencia",
+          "url": "https://memoricamexico.gob.mx/es/memorica/Temas?ctId=3&cId=OGYyZWQ0NzdhZmNkNDU5MDg5MWFkNzdkMmQxOWViYzY=&cd=true"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Congressional Bills 111th Congress]",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-111hres1604ih/html/BILLS-111hres1604ih.htm#1"
+        },
+        {
+          "date": "2024-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "209 Aniversario del inicio de la Independencia de México.",
+          "url": "https://www.gob.mx/agroasemex/es/articulos/209-aniversario-del-inicio-de-la-independencia-de-mexico?idiom=es"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Legislation Details",
+          "url": "https://phila.legistar.com/LegislationDetail.aspx?ID=2838469&GUID=A7671503-0058-4DA0-81F7-817F2F6ACC37"
+        },
+        {
+          "date": "2018-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The history of Mexico's Independence Day - 1 of 9",
+          "url": "https://www.nationalgeographic.com/culture/article/mexico-independence-day-confusion-cinco-de-mayo?cmpid=org=ngp::mc=crm-email::src=ngp::cmp=editorial::add=Daily_NL_Friday_History_20220916#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "16 de septiembre de 1810, grito de Independencia de México.",
+          "url": "https://www.gob.mx/defensa/documentos/15-de-septiembre-de-1810-grito-de-independencia"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Panorama del periodo I",
+          "url": "https://prueba-nem.aprende.gob.mx/contenido/coleccion/18856/"
+        },
+        {
+          "date": "2024-09-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cuba marks 214th anniversary of Mexico's Grito de Independencia",
+          "url": "http://www.cubanews.acn.cu/world/25193-cuba-marks-214th-anniversary-of-mexico-s-grito-de-independencia"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "City of Santa Clara",
+          "url": "https://santaclara.legistar.com/LegislationDetail.aspx?ID=7660178&GUID=0D261D3F-C030-4F10-8055-B63B2D7E9F2A&Options=&Search="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EFEMÉRIDE DEL SENADOR ROBERTO ALBORES GLEASON, DEL GRUPO PARLAMENTARIO DEL PARTIDO REVOLUCIONARIO INSTITUCIONAL, EN CONMEMORACIÓ...",
+          "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2017/09/asun_3572865_20170914_1505401988.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9883,
+    "iterations": [],
+    "output_tokens": 432,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "1981 年。David Hubel 与 Torsten Wiesel 因对视觉系统信息处理的研究，在这一年分享了诺贝尔生理学或医学奖，另一位共同获奖者是 Roger Sperry，他因大脑半球功能分工的研究获奖。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.212,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1781,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0082748,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 99,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-022",
+  "raw": "jsonl/0/custom-022.jsonl",
+  "reported_cost_usd": 0.0082748,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1781,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1781,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1781,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1781,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 99,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 99,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

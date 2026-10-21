@@ -1,0 +1,136 @@
+{
+  "billable_search_estimate": true,
+  "content_type": "application/json",
+  "count": 10,
+  "elapsed_seconds": 0.7558,
+  "http_status": 200,
+  "invalid_fields": [],
+  "need_content": false,
+  "purpose": "诊断失败请求，非被测作答，不进入准确率统计",
+  "query": "Reba McEntire \"So Good Together\" RIAA certification",
+  "response": {
+    "results": [
+      {
+        "authority": 3,
+        "content": "",
+        "date": "2015-08-25T16:00:00+00:00",
+        "rerank_score": 1.9109567403793335,
+        "site_icon": "https://cdn.deepseek.com/site-icons/riaa.com",
+        "site_name": "RIAA",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "Gold & Platinum - RIAA",
+        "url": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Reba+Mc+Entire&col=title&ord=desc#search_section"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": "1999-11-22T16:00:00+00:00",
+        "rerank_score": 1.842631220817566,
+        "site_icon": "https://cdn.deepseek.com/site-icons/reba.com",
+        "site_name": "Reba McEntire",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "So Good Together — Reba McEntire",
+        "url": "https://www.reba.com/so-good-together"
+      },
+      {
+        "authority": 4,
+        "content": "",
+        "date": "2013-01-01T16:00:00+00:00",
+        "rerank_score": 1.50467848777771,
+        "site_icon": "https://cdn.deepseek.com/site-icons/billboard.com",
+        "site_name": "Billboard",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "Billboard 200™ - - 36",
+        "url": "https://www.billboard.com/charts/billboard-200/2000-03-03/#6"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": "1999-11-22T16:00:00+00:00",
+        "rerank_score": 1.4064805507659912,
+        "site_icon": "https://cdn.deepseek.com/site-icons/linkeddatafragments.org",
+        "site_name": "Linked Data Fragments",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "Data Portal @ linkeddatafragments.org",
+        "url": "http://data.linkeddatafragments.org/dbpedia2014?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FSo_Good_Together"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": "1999-11-22T16:00:00+00:00",
+        "rerank_score": 1.3823730945587158,
+        "site_icon": "https://cdn.deepseek.com/site-icons/dbpedia.org",
+        "site_name": "dbpedia.org",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "DBpedia 2015-04 | DBpedia - DBpedia – Linked Data Fragments",
+        "url": "https://fragments.dbpedia.org/2015/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FSo_Good_Together#1"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": "1999-11-22T16:00:00+00:00",
+        "rerank_score": 1.274011731147766,
+        "site_icon": "https://cdn.deepseek.com/site-icons/kiwix.org",
+        "site_name": "Kiwix",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "So Good Together - So Good Together",
+        "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/So_Good_Together#1"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": "1999-11-22T16:00:00+00:00",
+        "rerank_score": 1.2506648302078247,
+        "site_icon": "https://cdn.deepseek.com/site-icons/ipfs.io",
+        "site_name": "IPFS",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "So Good Together - So Good Together",
+        "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/So_Good_Together.html#1"
+      },
+      {
+        "authority": 3,
+        "content": "",
+        "date": null,
+        "rerank_score": 1.242882490158081,
+        "site_icon": "https://cdn.deepseek.com/site-icons/dbpedia.org",
+        "site_name": "dbpedia.org",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "DBpedia 2015-04 | DBpedia",
+        "url": "https://fragments.dbpedia.org/2015/en?object=%22So%20Good%20Together%20is%20the%20twenty-sixth%20album%20from%20Reba%20McEntire.%20%20It%20was%20released%20in%201999%20and%20was%20preceded%20by%20the%20single%20What%20Do%20You%20Say.%20%20What%20Do%20You%20Say%20peaked%20at%20number%203%20on%20the%20country%20chart%20and%20was%20nominated%20for%20a%20Grammy%20for%20Best%20Short%20Form%20Video.%20It%20also%20became%20her%20highest%20charting%20single%20on%20the%20Billboard%20Hot%20100%2C%20peaking%20at%20number%2031%20and%20that%20was%20her%20first%20big%20crossover%20hit.%20The%20album%20is%20certified%20platinum%20by%20the%20RIAA.The%20album%20peaked%20at%20number%205%20on%20the%20Billboard%20Top%20Country%20Albums.%20It%20peaked%20at%20number%2028%20on%20the%20Billboard%20Top%20200%20Albums%20waith%20sales%20of%2049%2C000.%22%40en"
+      },
+      {
+        "authority": 2,
+        "content": "",
+        "date": "2026-01-16T16:00:00+00:00",
+        "rerank_score": 1.227292776107788,
+        "site_icon": "https://cdn.deepseek.com/site-icons/grokipedia.com",
+        "site_name": "Grokipedia",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "So Good Together — Grokipedia",
+        "url": "https://grokipedia.com/page/so_good_together"
+      },
+      {
+        "authority": 2,
+        "content": "",
+        "date": "2021-10-15T16:00:00+00:00",
+        "rerank_score": 1.1804428100585938,
+        "site_icon": "https://cdn.deepseek.com/site-icons/bestsellingalbums.org",
+        "site_name": "BestSellingAlbums.org",
+        "snippet": "[WEB_EXCERPT_REMOVED]",
+        "summary": "[WEB_EXCERPT_REMOVED]",
+        "title": "SO GOOD TOGETHER by REBA MCENTIRE - Sales & Charts - BestSellingAlbums.org",
+        "url": "https://bestsellingalbums.org/album/37893"
+      }
+    ]
+  },
+  "result_type": "list"
+}

@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1996 年**，具体是 1996 年 1 月 24 日。有的资料写的是 1 月 25 日，可能是按最终规则的日期算的。\n\n依据：\n- NEJM《Olestra and the FDA》（1996）：FDA 于 1 月 24 日批准 olestra 用作零食中的脂肪替代品。https://www.nejm.org/doi/pdf/10.1056/NEJM199604113341511\n- 《Olestra: A New Food Additive》：FDA 于 1996 年 1 月 25 日认定 olestra 可安全用于咸味零食。https://www.sciencedirect.com/science/article/abs/pii/S0002822398001266\n- 2003 年 8 月 5 日的美国联邦公报（Federal Register）提到了“1996 final rule”。https://www.govinfo.gov/content/pkg/FR-2003-08-05/pdf/FR-2003-08-05.pdf\n\n（共搜索 1 次）",
+  "budget_denials": [],
+  "elapsed_seconds": 9.901,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9465,
+      "cacheReadInputTokens": 5850,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.08498599999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 404,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-012",
+  "raw": "jsonl/B_prime/custom-012.jsonl",
+  "reported_cost_usd": 0.08498599999999999,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7377,
+      "query": "FDA approved olestra savory snacks year 1996",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sucrose Polyester - Chapters and Articles",
+          "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/sucrose-polyester#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra is associated with slight reductions in serum carotenoids but does not markedly influence serum fat-soluble vitamin conc...",
+          "url": "https://ajcn.nutrition.org/action/showPdf?pii=S0002-9165%2823%2929339-9#4#1"
+        },
+        {
+          "date": "2018-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Glow-in-the-Dark Eggs or Olestra: Pick Your Poison | 6 | The Food and",
+          "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781351290166-6/glow-dark-eggs-olestra-pick-poison-james-bennett-thomas-dilorenzo"
+        },
+        {
+          "date": "2003-04-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra: A New Food Additive",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002822398001266#section-cited-by#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Catalogo Articoli (Spogli Riviste) - Catalogo Articoli (Spogli Riviste)",
+          "url": "https://serials.cib.unibo.it/cgi-ser/start/it/spogli/df-s.tcl?prog_art=436140&language=ITALIANO&view=articoli#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "FDA convened a meeting of its FAG within 30 months of the approval of the use of oestra in savory snacks",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2003-08-05/pdf/FR-2003-08-05.pdf#140#117"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra Consumption Does Not Predict Serum Concentrations of Carotenoids and Fat-Soluble Vitamins in Free-Living Humans: Early R...",
+          "url": "https://jn.nutrition.org/article/S0022-3166(22)14127-1/pdf#5#1"
+        },
+        {
+          "date": "2000-06-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra Consumption Does Not Predict Serum Concentrations of Carotenoids and Fat-Soluble Vitamins in Free-Living Humans: Early Results from the Sentinel Site of the Olestra Post-Marketing Surveillance Study - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0022316622141271?fr=pjs&ref=cra_js_challenge#1"
+        },
+        {
+          "date": "1996-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra and the FDA | NEJM",
+          "url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199604113341511"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra: una nueva grasa comestible. Antecedentes, propiedades y aplicaciones.",
+          "url": "https://agris.fao.org/search/zh/records/64735bc12c1d629bc97c1859"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9465,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9465,
+    "cache_read_input_tokens": 5850,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7623,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7623,
+        "cache_read_input_tokens": 3846,
+        "input_tokens": 2,
+        "output_tokens": 332,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 404,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

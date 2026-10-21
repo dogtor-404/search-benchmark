@@ -1,0 +1,60 @@
+{
+  "answer": "据我所知，Wilbur Zelinsky 的硕士和博士都出自 **加州大学伯克利分校**（University of California, Berkeley）——他 1942 年在伯克利取得学士学位，1953 年在该校取得博士学位。不过我没有联网核实，硕士学位的具体年份和授予院校记忆不够确定，建议以伯克利档案或讣告/传记资料为准。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.899,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.020032,
+      "inputTokens": 1973,
+      "maxOutputTokens": 32000,
+      "outputTokens": 607,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-2116",
+  "raw": "jsonl/D0/simpleqa_verified-2116.jsonl",
+  "reported_cost_usd": 0.020032,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1973,
+    "iterations": [],
+    "output_tokens": 607,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "我不知道这个具体年份。小冷水堆填区（屯门稔湾／龙鼓滩一带）确实被渔农自然护理署列为「具特殊科学价值地点」，但我记不清确切的鉴定年份，不能凭猜测回答。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.328,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.01668,
+      "inputTokens": 2045,
+      "maxOutputTokens": 32000,
+      "outputTokens": 425,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0.jsonl",
+  "reported_cost_usd": 0.01668,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2045,
+    "iterations": [],
+    "output_tokens": 425,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

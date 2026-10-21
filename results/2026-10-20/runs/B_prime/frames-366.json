@@ -1,0 +1,233 @@
+{
+  "answer": "**答案：1946 年。**\n\n推理过程：\n- Kanye West 的《Power》（2010）采样了 King Crimson 1969 年的《21st Century Schizoid Man》。\n  - https://www.whosampled.com/Kanye-West/Power/\n  - https://www.billboard.com/music/music-news/kanye-west-featuring-dwele-power-1069168/\n- King Crimson 的领队是吉他手 Robert Fripp，生于 1946 年 5 月 16 日。\n  - https://music.apple.com/ie/artist/robert-fripp/613849\n  - https://id.loc.gov/authorities/names/n85044005.html\n\n《Power》还采样了另外三首歌：Continent Number 6 的《Afromerica》、Cold Grits 的《It's Your Thing》和 Jac Holzman 的《Air Raid-Alert》。各篇报道都把 King Crimson 这段当作主采样，所以按这首来答。\n\n搜了 2 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 10.549,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 20237,
+      "cacheReadInputTokens": 5850,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.17386200000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 539,
+      "provider": "firstParty",
+      "thinkingTokens": 54,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-366",
+  "raw": "jsonl/B_prime/frames-366.jsonl",
+  "reported_cost_usd": 0.17386200000000002,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7731,
+      "query": "Kanye West Power sample 21st Century Schizoid Man King Crimson",
+      "results": [
+        {
+          "date": "2010-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West featuring Dwele, “Power”",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-featuring-dwele-power-1069168/"
+        },
+        {
+          "date": "2022-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "UMG Calls Lawsuit Over Kanye’s King Crimson Sample ‘Nonsensical’ - Skip to main content",
+          "url": "https://www.billboard.com/pro/kanye-west-king-crimson-lawsuit-power-universal-music/#1"
+        },
+        {
+          "date": "2022-04-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "West's record label sued over King Crimson sample",
+          "url": "https://www.rte.ie/entertainment/2022/0427/1294618-wests-record-label-sued-over-king-crimson-sample/?app=true"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West feat. Dwele's 'Power' - Discover the Sample Source",
+          "url": "https://www.whosampled.com/sample/37814/Kanye-West-Dwele-Power-King-Crimson-21st-Century-Schizoid-Man/"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Check Out: New Kanye West - \"Power\"",
+          "url": "https://consequence.net/2010/05/check-out-new-kanye-west-power/?app=true"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Power by Kanye West feat. Dwele on WhoSampled",
+          "url": "https://www.whosampled.com/Kanye-West/Power/"
+        },
+        {
+          "date": "2010-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Watch: Kanye West Performs The Symbolyc One-Produced Power To Open Last Night's 2010 BET Awards",
+          "url": "https://www.dallasobserver.com/music/watch-kanye-west-performs-the-symbolyc-one-produced-power-to-open-last-nights-2010-bet-awards-7079512/"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West - \"Power\"",
+          "url": "https://stereogum.com/389971/kanye-west-power/music"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Snap Judgment: Kanye West samples King Crimson's \"21st Century Schizoid Man\" for \"Power\" - Snap Judgment: Kanye West samples King Crimson’s “21st Century Schizoid Man” for “Power”",
+          "url": "https://www.latimes.com/archives/blogs/pop-hiss/story/2010-05-28/snap-judgment-kanye-west-samples-king-crimsons-21st-century-schizoid-man-for-power#more#1"
+        },
+        {
+          "date": "2010-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kanye West Sampled King Crimson On His New Dwele-Featuring Song, \"Power\" - The Village Voice",
+          "url": "https://www.villagevoice.com/kanye-west-sampled-king-crimson-on-his-new-dwele-featuring-song-power/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.718,
+      "query": "Robert Fripp born 1946 King Crimson leader",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fripp, Robert, 1946-",
+          "url": "https://id.loc.gov/authorities/names/n85044005.html"
+        },
+        {
+          "date": "2023-03-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp on Apple Music",
+          "url": "https://music.apple.com/ie/artist/robert-fripp/613849"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - Fripp",
+          "url": "https://www.discogs.com/artist/10355-Robert-Fripp?anv=Fripp#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp — Biography, Discography, Albums & Expert Reviews | AllMusic - Credit: Jeff Bender",
+          "url": "https://www.allmusic.com/artist/fripps-mn0000238440#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search results for \"Robert Fripp\" - Search results for \"Robert Fripp\"",
+          "url": "https://www.discogs.com/search?type=all&q=%22Robert+Fripp%22&layout=med#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp Discography - Download Albums in Hi-Res - Qobuz - Categories:",
+          "url": "https://www.qobuz.com/fi-en/composer/robert-fripp/211898#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp Discografia - Scarica gli album in Hi-Res - Qobuz - Categorie:",
+          "url": "https://www.qobuz.com/it-it/composer/robert-fripp/211898#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp-Diskographie - Alben in Hi-Res herunterladen - Qobuz - Kategorie:",
+          "url": "https://www.qobuz.com/ch-de/interpreter/robert-fripp/211898#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "キング・クリムゾン(きんぐくりむぞん)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E3%81%8D%E3%82%93%E3%81%90%E3%81%8F%E3%82%8A%E3%82%80%E3%81%9E%E3%82%93-3149309"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Robert Fripp - A truly singular figure in rock music, Robert Fripp is a guitarist, composer, and bandleader who has brought a unique, strikingl...",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl?go=1&sp_cid=642273b69bf5c6bb70a098cec3a9823b&nd=1&dlsi=2d9bd4262f774119#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 20237,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 20237,
+    "cache_read_input_tokens": 5850,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18395,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18395,
+        "cache_read_input_tokens": 3846,
+        "input_tokens": 2,
+        "output_tokens": 332,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 539,
+    "output_tokens_details": {
+      "thinking_tokens": 54
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

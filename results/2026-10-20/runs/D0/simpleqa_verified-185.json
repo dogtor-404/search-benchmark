@@ -1,0 +1,60 @@
+{
+  "answer": "2013 年。马哈拉杰·基尚·班（M.K. Bhan）在 2013 年获颁莲花装勋章（Padma Bhushan），表彰其在医学/科学领域的贡献。\n\n（凭记忆作答，未能联网核实；若需精确核实建议查阅 Padma Awards 2013 官方名单。）",
+  "budget_denials": [],
+  "elapsed_seconds": 4.849,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018408,
+      "inputTokens": 1987,
+      "maxOutputTokens": 32000,
+      "outputTokens": 523,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-185",
+  "raw": "jsonl/D0/simpleqa_verified-185.jsonl",
+  "reported_cost_usd": 0.018408,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1987,
+    "iterations": [],
+    "output_tokens": 523,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

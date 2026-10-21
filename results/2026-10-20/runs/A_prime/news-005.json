@@ -1,0 +1,109 @@
+{
+  "answer": "**答案：OSS Scanner**\n\n这是 Anthropic 在 2026 年 10 月 8 日的 Cyber Mission 公告里推出的服务，开源项目自愿报名，免费使用。报名经人工审核通过后，Anthropic 会定期用它最强的模型（包括 Claude Mythos）扫描项目，找安全漏洞。扫描报告由模型生成，不经人工审核就直接发给维护者。Anthropic 预计其中真漏洞的比例在 90% 以上，但不作保证。\n\n共搜索 2 次。\n\n依据：\n- [Introducing the Anthropic Cyber Mission（Anthropic 官方）](https://www.anthropic.com/news/anthropic-cyber-mission)\n- [OSS Scanner - Frontier Red Team（Anthropic）](https://red.anthropic.com/oss-scanner/)\n- [An opt-in vulnerability-finding service for open-source software（Anthropic）](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source)\n- [vpsranking.com 报道](https://vpsranking.com/news/ai/ai-2026-10-08-anthropic-cyber-mission-oss-scanner/)\n- [BetaNews 报道](https://betanews.com/article/anthropic-oss-scanner-free-mythos-bug-scans/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.049,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0246073,
+      "inputTokens": 36828,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1849,
+      "provider": "firstParty",
+      "thinkingTokens": 565,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4564,
+      "cacheReadInputTokens": 12453,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.055346599999999996,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 816,
+      "provider": "firstParty",
+      "thinkingTokens": 122,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "news-005",
+  "raw": "jsonl/A_prime/news-005.jsonl",
+  "reported_cost_usd": 0.0799539,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Anthropic Cyber Mission October 8 2026 free open source scanning",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014JVBg2VeHZeE4byaTf6EvQ"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Anthropic \"OSS Scanner\" Cyber Mission",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FLyGSvEAmnxm3ennFC66Fh"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4564,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4564,
+    "cache_read_input_tokens": 12453,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1329,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1329,
+        "cache_read_input_tokens": 5686,
+        "input_tokens": 2,
+        "output_tokens": 542,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 816,
+    "output_tokens_details": {
+      "thinking_tokens": 122
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

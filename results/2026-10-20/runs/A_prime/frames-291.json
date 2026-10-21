@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：Rose Loomis。**\n\n《Marilyn Diptych》（1962）用的是 Gene Kornman 为 1953 年电影《Niagara》（中文译名《飞瀑怒潮》）拍的宣传照。玛丽莲·梦露在这部片子里演一个心狠的妻子，角色名叫 Rose Loomis。\n\n只搜了 1 次。\n\n依据的网址：\n- [Marilyn Diptych – Wikipedia](https://en.wikipedia.org/wiki/Marilyn_Diptych)（说明这幅画用的是《Niagara》的宣传照，照片由 Gene Kornman 拍摄）\n- [hessen.museum-digital.de（德国博物馆的藏品说明）](https://hessen.museum-digital.de/pdf/object/128330.pdf?lang=de)（说明角色名是 Rose Loomis）\n- [Smarthistory](https://smarthistory.org/?p=1926)",
+  "budget_denials": [],
+  "elapsed_seconds": 15.09,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118805,
+      "inputTokens": 14245,
+      "maxOutputTokens": 128000,
+      "outputTokens": 912,
+      "provider": "firstParty",
+      "thinkingTokens": 356,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3067,
+      "cacheReadInputTokens": 6768,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0353256,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 471,
+      "provider": "firstParty",
+      "thinkingTokens": 37,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-291",
+  "raw": "jsonl/A_prime/frames-291.jsonl",
+  "reported_cost_usd": 0.0472061,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Marilyn Diptych Warhol publicity photo Niagara 1953 Rose Loomis",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Vor37Zu8jB51CfnizHgMin"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3067,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3067,
+    "cache_read_input_tokens": 6768,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1201,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1201,
+        "cache_read_input_tokens": 4317,
+        "input_tokens": 2,
+        "output_tokens": 329,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 471,
+    "output_tokens_details": {
+      "thinking_tokens": 37
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

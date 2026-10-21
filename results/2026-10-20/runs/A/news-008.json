@@ -1,0 +1,109 @@
+{
+  "answer": "**答案：存在 Google 的服务器上（也就是你的 Google 账号里），不在设备本地。** 不过我没找到你说的那篇 2026 年 10 月 15 日的 Google 技术说明，这个结论来自其他来源。\n\n- Google 官方公告发布于 2026 年 7 月下旬，不是 10 月 15 日。公告说视频经过加密，由用户掌控，可以随时在 Google 账号中删除。\n- Proton 的文章说，注册时录的视频会作为参考保存在 Google 服务器上，不是保存在设备上。文章还说比对在服务器端进行，也没有\"只保存在手机上\"的选项。这是第三方的说法，不是 Google 的原话。\n- 另一家媒体也说，视频会加密并保存到你的 Google 账号。\n\n如果 10 月 15 日那篇文章确实存在，它的措辞可能和上面不同。你要是有链接，我可以直接核对。\n\nSources:\n- [Introducing selfie for sign-in (Google 官方博客)](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)\n- [Proton: google selfie video](https://proton.me/it/blog/google-selfie-video)\n- [Google Selfie Video Sign-in: How It Works and Who Can Use It](https://nerdschalk.com/google-selfie-video-sign-in-setup)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.065,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.024377700000000002,
+      "inputTokens": 35362,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1683,
+      "provider": "firstParty",
+      "thinkingTokens": 593,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4164,
+      "cacheReadInputTokens": 12044,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0255424,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 767,
+      "provider": "firstParty",
+      "thinkingTokens": 56,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-008",
+  "raw": "jsonl/A/news-008.jsonl",
+  "reported_cost_usd": 0.0499201,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Google selfie video sign-in technical explanation reference video stored on device or servers",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TRwe2eVuSuJh4V7N2qJj2d"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Google blog October 15 2026 selfie video sign-in how it works enrolled video stored",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_018J3HfuLKN1i9qsL979ksdS"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4164,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4164,
+    "cache_read_input_tokens": 12044,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1342,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1342,
+        "cache_read_input_tokens": 5273,
+        "input_tokens": 2,
+        "output_tokens": 482,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 767,
+    "output_tokens_details": {
+      "thinking_tokens": 56
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

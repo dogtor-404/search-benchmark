@@ -1,0 +1,60 @@
+{
+  "answer": "威廉·伯格（William Berger）。他是 WFMU 的 DJ，1986 年在自己的节目中开设“Low-Fi”环节，专门播放听众寄来的家庭自制磁带录音，也因此常被认为是最早把“lo-fi”概念用于这类自制/低技术含量录音的人之一。\n\n这是我的记忆，没有联网核实；如果你需要精确出处（比如具体节目名、时段），建议再查证一下。",
+  "budget_denials": [],
+  "elapsed_seconds": 13.706,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.024828,
+      "inputTokens": 2047,
+      "maxOutputTokens": 32000,
+      "outputTokens": 832,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-002",
+  "raw": "jsonl/D0_prime/custom-002.jsonl",
+  "reported_cost_usd": 0.024828,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2047,
+    "iterations": [],
+    "output_tokens": 832,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

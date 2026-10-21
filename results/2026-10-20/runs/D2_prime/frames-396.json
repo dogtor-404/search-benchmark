@@ -1,0 +1,144 @@
+{
+  "answer": "**答案：Ambystoma texanum（小口蝾螈 / Small-mouthed Salamander）**\n\n它是被加拿大政府（COSEWIC/SARA）列为濒危（Endangered）的两栖动物，在加拿大唯一的种群只分布在皮利岛（Pelee Island）——这是加拿大最南端有人居住的地方。\n\n依据网址：\n- https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/small-mouthed-salamander/chapter-1.html（COSEWIC 评估：科学名 Ambystoma texanum，状态 Endangered，\"restricted solely to Pelee Island in Canada\"）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.707,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0519176,
+      "inputTokens": 9495,
+      "maxOutputTokens": 32000,
+      "outputTokens": 670,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-396",
+  "raw": "jsonl/D2_prime/frames-396.jsonl",
+  "reported_cost_usd": 0.0519176,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7227,
+      "query": "amphibian endangered Canada only population Pelee Island scientific name",
+      "results": [
+        {
+          "date": "2016-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Terrestrial species at risk: COSEWIC summaries for eligible species, January 2017, part 2 - Loss of sexual sperm donors is a limiting factor unique to unisexual Ambystoma because they require the presence of diploid male...",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/terrestrial-summaries-eligible-species-january-2017/part-2.html#4"
+        },
+        {
+          "date": "2023-07-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Small-mouthed Salamander (Ambystoma texanum) and the Unisexual Ambystoma, Small-mouthed Salamander dependent population: amended recovery strategy [proposed] 2023 - Reason for designation: The Canadian distribution of this salamander is restricted solely to Pelee Island",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/small-mouthed-salamander-unisexual-abystoma.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "All Unisexual Ambystoma (Small- mouthed Salamander dependent population) salamanders are females and have a unique reproductive ...",
+          "url": "https://wildlife-species.canada.ca/species-risk-registry/virtual_sara/files/plans/mp_lake_erie_watersnake_e_proposed.pdf#6#6#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Acris crepitans exhibits a heritable stripe colour polymorphism in which green is dominant to non-green and red is dominant to g...",
+          "url": "https://publications.gc.ca/collections/collection_2022/eccc/cw66/CW66-887-1990-eng.pdf#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|Justification de la désignation : Cette salamandre se trouve uniquement sur l’île Pelée au Canada",
+          "url": "https://publications.gc.ca/Collection/CW69-14-378-2004F.pdf#5#5"
+        },
+        {
+          "date": "2002-06-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COSEWIC assessment and status report on the on the unisexual Ambystoma, Ambystoma laterale (small-mouthed salamander−dependent population (Ambystoma laterale - texanum), Jefferson salamander−dependent population (Ambystoma laterale - (2) jeffersonianum), blue-spotted salamander–dependent population (Ambystoma (2) laterale - jeffersonianum)), in Canada . : CW69-14/730-2016E-PDF - Publications du gouvernement du Canada - Canada.ca",
+          "url": "https://publications.gc.ca/site/fra/9.818548/publication.html"
+        },
+        {
+          "date": "2009-11-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Small-mouthed salamander (Ambystoma texanum) COSEWIC assessment and status report: chapter 1",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/small-mouthed-salamander/chapter-1.html"
+        },
+        {
+          "date": "2021-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La Gazette du Canada, Partie 1, volume 155, numéro 8 : Décret modifiant l’annexe 1 de la Loi sur les espèces en péril - L'Ambystoma unisexué (population dépendante de la salamandre à petite bouche) est une salamandre grise au corps mince et au muse...",
+          "url": "https://gazette.gc.ca/rp-pr/p1/2021/2021-02-20/html/reg1-fra.html#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Acris crepitans is designated as Endangered by the Ontario Ministry of Natural Resources, and is protected in Ontario by regulat...",
+          "url": "https://wildlife-species.canada.ca/species-risk-registry/virtual_sara/files/cosewic/Northern%20Cricket%20Frog_2001_e.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Smallmouth Salamander",
+          "url": "https://api.eol.org/pages/1018152/articles?locale_code=en&resource_id=617"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9495,
+    "iterations": [],
+    "output_tokens": 670,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

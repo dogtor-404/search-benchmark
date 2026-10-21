@@ -1,0 +1,142 @@
+{
+  "answer": "是**福岛邦彦（Kunihiko Fukushima）**。他在 1980 年发表在 *Biological Cybernetics* 第 36 卷第 4 期（193–202 页）上的论文中提出了 Neocognitron（新认知机），这是一项用于视觉模式识别的层级神经网络模型。\n\n依据：\n- https://pubmed.ncbi.nlm.nih.gov/7326278/ （PubMed 记录，含作者与 1980 年 *Biol Cybern* 出处）\n- https://pubmed.ncbi.nlm.nih.gov/23098752/ （明确写 \"The neocognitron is a neural network model proposed by Fukushima (1980)\"）",
+  "budget_denials": [],
+  "elapsed_seconds": 3.874,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0265928,
+      "inputTokens": 5413,
+      "maxOutputTokens": 32000,
+      "outputTokens": 224,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-021",
+  "raw": "jsonl/D2/custom-021.jsonl",
+  "reported_cost_usd": 0.0265928,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.696,
+      "query": "1980 Neocognitron 新认知机 日本研究者",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8件中 1-8 を表示",
+          "url": "https://reo.nii.ac.jp/oja/vol_issues?vol_id=ISS0010052401&lang=ja"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A simplified version of Kunihiko Fukushima's Neocognitron - PubMed - doi: 10.1007/BF00335154.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7326278/#1"
+        },
+        {
+          "date": "2010-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Neocognitron trained with winner-kill-loser rule - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608010000912?via%3Dihub#1"
+        },
+        {
+          "date": "2007-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recent Studies Around the Neocognitron | Neural Information Processing - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/10.1007/978-3-540-69158-7_109#1"
+        },
+        {
+          "date": "2012-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Artificial vision by multi-layered neural networks: neocognitron and its advances - PubMed - doi: 10.1016/j",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23098752/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "neocognitron - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=neocognitron#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NSTL国家科技图书文献中心 - 【期刊论文】Artificial vision by multi-layered neural networks: Neocognitron and its advances SCOPUS Scopus数据库 SCIE Web of Science核心 N...",
+          "url": "https://hz.nstl.gov.cn/paper_detail.html?doi=10.1016/j.neunet.2012.09.016#1"
+        },
+        {
+          "date": "1990-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Handwritten alphanumeric character recognition by the neocognitron.",
+          "url": "https://europepmc.org/article/MED/18282857"
+        },
+        {
+          "date": "2026-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A simplified version of Kunihiko Fukushima's neocognitron | Biological Cybernetics - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/10.1007/BF00335154#1"
+        },
+        {
+          "date": "1991-04-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Handwritten alphanumeric character recognition by the neocognitron | IEEE Transactions on Neural Networks - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/abs/10.1109/72.97912?mi=voux6x&af=R&ConceptID=578&SeriesKey=tnn&content=standard&expand=all&target=topic&sortBy=recency#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5413,
+    "iterations": [],
+    "output_tokens": 224,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

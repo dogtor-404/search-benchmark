@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:Leonardo de Moura(莱昂纳多·德·莫拉)。** 他 2013 年在微软研究院发起了 Lean 定理证明器项目。\n\n依据的网址:\n- https://graphsearch.epfl.ch/en/concept/62889984#1(维基百科摘录:\"launched by Leonardo de Moura at Microsoft Research in 2013\")\n- https://sloan.org/grant-detail/g-2023-19661(斯隆基金会:2013 年他在微软研究院时发起)\n- https://lean-lang.org/fro/about/(Lean FRO 官网:\"De Moura created Lean in 2013\")\n\n有一处细节不一致:Dagstuhl 的演讲摘要(https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.3)说 Lean 0.1 首次发布是在 2014 年。这不影响答案。2013 年是项目启动的时间,2014 年是首次发布。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.823,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7703,
+      "cacheReadInputTokens": 5852,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0356552,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 425,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-006",
+  "raw": "jsonl/B/custom-006.jsonl",
+  "reported_cost_usd": 0.0356552,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7402,
+      "query": "Lean theorem prover 2013 Microsoft Research launched by Leonardo de Moura",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean (proof assistant)",
+          "url": "https://graphsearch.epfl.ch/en/concept/62889984#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grants | Alfred P. Sloan Foundation",
+          "url": "https://sloan.org/grant-detail/g-2023-19661"
+        },
+        {
+          "date": "2024-07-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean: Past, Present, and Future (Invited Talk)",
+          "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Language Reference",
+          "url": "https://lean-lang.org/doc/reference/4.22.0-rc4/Introduction/#introduction"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results",
+          "url": "https://drops.dagstuhl.de/search/documents?author=Ullrich,%20Sebastian"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean (proof assistant) - Are you an EPFL student looking for a semester project",
+          "url": "https://test-graphsearch.epfl.ch/en/concept/62889984#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean Programming Language",
+          "url": "https://lean-lang.org/fro/about/"
+        },
+        {
+          "date": "2018-06-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Theorem Prover (system description)",
+          "url": "https://kilthub.cmu.edu/articles/journal_contribution/The_Lean_Theorem_Prover_system_description_/6492815"
+        },
+        {
+          "date": "2026-04-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Folha: 'Lean, a new math showdown' - IMPA - Institute for Pure and Applied Mathematics",
+          "url": "https://impa.br/notices/folha-lean-a-new-math-showdown/?lang=en"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7703,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7703,
+    "cache_read_input_tokens": 5852,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5859,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5859,
+        "cache_read_input_tokens": 3848,
+        "input_tokens": 2,
+        "output_tokens": 339,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 425,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：卡尔·海森（Carl Hiaasen）。**\n\n他是佛罗里达的犯罪小说家。小说《Striptease》1993 年出版。1996 年的电影《脱衣舞娘》由安德鲁·伯格曼执导、黛米·摩尔主演,根据这部小说改编。\n\n依据网址:\n- https://zh.wikipedia.org/wiki/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)\n- https://baike.sogou.com/v4647099.htm?fromTitle=%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98\n\n(只搜了 1 次。不同来源对他的中文译名写法不一,有\"卡尔·海森\"和\"卡尔·希尔森\"。)",
+  "budget_denials": [],
+  "elapsed_seconds": 9.408,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8093,
+      "cacheReadInputTokens": 5854,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0367454,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 378,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8",
+  "raw": "jsonl/B/chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8.jsonl",
+  "reported_cost_usd": 0.0367454,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7538,
+      "query": "电影《脱衣舞娘》 改编自同名小说 作者",
+      "results": [
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - 维基百科，自由的百科全书 - 脱衣舞娘 (电影)",
+          "url": "https://zh.wikipedia.org/wiki?oldid=61052010&title=%e8%84%b1%e8%a1%a3%e8%88%9e%e5%a8%98_(%e7%94%b5%e5%bd%b1)#1"
+        },
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脫衣舞娘 (電影) - 維基百科，自由的百科全書 - 脫衣舞娘 (電影)",
+          "url": "https://zh.m.wikipedia.org/zh-mo/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "1996-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘(1996年安德鲁·伯格曼执导的电影)_搜狗百科",
+          "url": "https://baike.sogou.com/m/v4647099.htm?g_ut=3"
+        },
+        {
+          "date": "2024-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘",
+          "url": "https://baike.sogou.com/v4647099.htm?fromTitle=%E8%84%B1%E8%A1%A3%E5%A8%98"
+        },
+        {
+          "date": "2020-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脫衣舞娘 (電影)查看源代码讨论查看历史",
+          "url": "https://factpedia.org/wiki/%e8%84%ab%e8%a1%a3%e8%88%9e%e5%a8%98_(%e9%9b%bb%e5%bd%b1)"
+        },
+        {
+          "date": "2020-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影)",
+          "url": "https://factpedia.org/index.php?title=%e8%84%ab%e8%a1%a3%e8%88%9e%e5%a8%98_(%e9%9b%bb%e5%bd%b1)&variant=zh-hans"
+        },
+        {
+          "date": "2024-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 - 脱衣舞娘是一个多义词，您可以选择查看以下义项（共2个义项）：",
+          "url": "https://baike.sogou.com/v4647099.htm?fromTitle=%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98#1"
+        },
+        {
+          "date": "2025-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - Wikiwand - Wikiwand AI",
+          "url": "https://www.wikiwand.com/zh-sg/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "2020-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脫衣舞娘 (電影)",
+          "url": "https://factpedia.org/index.php?title=%e8%84%ab%e8%a1%a3%e8%88%9e%e5%a8%98_(%e9%9b%bb%e5%bd%b1)&variant=zh-hant"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8093,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8093,
+    "cache_read_input_tokens": 5854,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6247,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6247,
+        "cache_read_input_tokens": 3850,
+        "input_tokens": 2,
+        "output_tokens": 300,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 378,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "**约 45,834 kg**（这里按航天器本身的发射质量算，即指令/服务舱 + 登月舱，不含 Saturn V 火箭）\n\n| 任务 | 发射质量（凭记忆） |\n|---|---|\n| Apollo 11 | 约 45,702 kg（100,756 lb） |\n| Apollo 12 | 约 45,870 kg（101,127 lb） |\n| Apollo 13 | 约 45,931 kg（101,261 lb） |\n\n平均：(45,702 + 45,870 + 45,931) ÷ 3 = 137,503 ÷ 3 ≈ 45,834.3，四舍五入为 **45,834 kg**。\n\n需要说明两点：\n\n- **把握程度**：Apollo 11 的数字我比较有把握。Apollo 12 和 13 的具体数值记得不太牢，可能有几十到上百公斤的偏差，所以平均值的个位数不一定准。\n- **口径不同，答案差很多**：如果题目指的是整枚 Saturn V 运载火箭的起飞质量，每次大约在 2,900,000 kg 左右，量级完全不同。三次的具体数值我记不准，按这个口径给不出可靠的整数答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.637,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1775,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0320816,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 878,
+      "provider": "firstParty",
+      "thinkingTokens": 458,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-394",
+  "raw": "jsonl/0_prime/frames-394.jsonl",
+  "reported_cost_usd": 0.0320816,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1775,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1775,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1775,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1775,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 878,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 878,
+    "output_tokens_details": {
+      "thinking_tokens": 458
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

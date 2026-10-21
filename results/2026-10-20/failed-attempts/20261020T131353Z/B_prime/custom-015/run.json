@@ -1,0 +1,9 @@
+{
+  "elapsed_seconds": 11.45,
+  "error": "搜索尝试与审计记录不一致。",
+  "exit_code": 0,
+  "group": "B_prime",
+  "question_id": "custom-015",
+  "raw": "jsonl/B_prime/custom-015.jsonl",
+  "status": "failed"
+}

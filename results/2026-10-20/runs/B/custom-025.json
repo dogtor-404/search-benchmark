@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：2019 年。** 事件视界望远镜（EHT）在 2019 年 4 月 10 日（北京时间 21 时）公布了人类首张黑洞照片。照片拍的是室女座星系团中 M87 星系核心的超大质量黑洞。图像所用的数据来自 2017 年 4 月的观测。\n\n依据的网址：\n- 新华网：http://www.news.cn/politics/2019-04/10/c_1210104369.htm\n- 人民日报客户端转载（中国网）：http://www.china.com.cn/news/2019-04/10/content_74667058.htm\n- 中国新闻网：https://www.chinanews.com.cn/gn/2019/04-10/8805627.shtml\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 13.862,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6608,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.030375100000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 335,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-025",
+  "raw": "jsonl/B/custom-025.jsonl",
+  "reported_cost_usd": 0.030375100000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7573,
+      "query": "事件视界望远镜 首张黑洞照片 公布 年份",
+      "results": [
+        {
+          "date": "2019-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "全程深度解读人类首次拍摄黑洞图像 - 全程深度解读人类首次拍摄黑洞图像",
+          "url": "https://www.kepuchina.cn/public/right_list/201904/t20190411_1040134.shtml#1"
+        },
+        {
+          "date": "2019-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-黑洞首张照片公布：漫画解读“黑洞之影” - 图文",
+          "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=6969216040395264000#1"
+        },
+        {
+          "date": "2019-04-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "首张黑洞照片公布！你看你看，黑洞的脸！",
+          "url": "https://www.peopleapp.com/column/30036625101-500001664973"
+        },
+        {
+          "date": "2019-04-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类史上首张黑洞照片公布 你看你看，黑洞的脸！",
+          "url": "http://www.china.com.cn/news/2019-04/10/content_74667058.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "跨越5500万光年的曝光：原来你是这样的黑洞！",
+          "url": "http://fms.news.cn/swf/2019_qmtt/4_10_2019_qm_z_2/index.html#1"
+        },
+        {
+          "date": "2019-04-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类史上首张黑洞照片今将问世 全球多城同步发布 - 人类史上首张黑洞照片今将问世 全球多城同步发布",
+          "url": "https://world.gmw.cn/2019-04/10/content_32729205.htm#1"
+        },
+        {
+          "date": "2019-04-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类首张黑洞照片今日公布 新华网将进行全程网络直播-新华网",
+          "url": "http://www.news.cn/politics/2019-04/10/c_1210104369.htm"
+        },
+        {
+          "date": "2019-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类史上首张黑洞照片问世",
+          "url": "https://www.kepuchina.cn/zt/2019/2019jz/sj/201912/t20191202_1168940.shtml"
+        },
+        {
+          "date": "2019-04-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天文学家揭秘首张黑洞照片“诞生始末”",
+          "url": "https://www.chinanews.com.cn/gn/2019/04-10/8805627.shtml"
+        },
+        {
+          "date": "2019-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类史上首张黑洞照片10日面世-新华网",
+          "url": "https://www.xinhuanet.com/world/2019-04/09/c_1124343707.htm"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6608,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6608,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4765,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4765,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 257,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 335,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "信号-量化杂讯比（SQNR）通常用**分贝（decibel, dB）**表示。\n\n它定义为信号功率与量化噪声功率之比，取以 10 为底的对数再乘以 10：\n\n\\[\n\\text{SQNR} = 10 \\log_{10}\\left(\\frac{P_{\\text{signal}}}{P_{\\text{noise}}}\\right) \\ \\text{dB}\n\\]\n\n对于满幅正弦波输入、均匀量化的 N 位 ADC，常用近似公式：\n\n\\[\n\\text{SQNR} \\approx 6.02N + 1.76 \\ \\text{dB}\n\\]\n\n所以答案就是 **dB（分贝）**。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.348,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.012608000000000001,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 222,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.012608000000000001,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 222,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

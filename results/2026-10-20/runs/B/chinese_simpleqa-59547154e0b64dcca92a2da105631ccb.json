@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1108年**(北宋大观二年)。\n\n不过各来源说法不完全一致。有的写大观元年(1107)撰成,多数写成书于1108年。\n\n依据的网址:\n- https://thinker.cnki.net/bookStore/Book/bookdetail?bookcode=9787899023396001&type=book(成书于1108年)\n- https://www.sanmin.com.tw/product/index/001064213(1108年,北宋大观二年)\n- https://weread.qq.com/web/search/books?author=%E6%9C%B1%E8%82%B1&ii=5e732af05df5195e7dddf84#1(宋·朱肱撰于1108年)\n- 持1107年说法的:https://www.bzwy.org/content-25694.html 和 https://cloud.kepuchina.cn/h5/detail?id=6969168678209466368#1",
+  "budget_denials": [],
+  "elapsed_seconds": 11.72,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4675,
+      "cacheReadInputTokens": 5845,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023572500000000003,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 428,
+      "provider": "firstParty",
+      "thinkingTokens": 66,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+  "raw": "jsonl/B/chinese_simpleqa-59547154e0b64dcca92a2da105631ccb.jsonl",
+  "reported_cost_usd": 0.023572500000000003,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6457,
+      "query": "《类证活人书》 朱肱 撰于 年",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "增注類證活人書",
+          "url": "https://catalog.digitalarchives.tw/item/00/08/67/91.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书",
+          "url": "http://mylib.nlc.cn/allSearch/searchDetail?searchType=&showType=1&indexName=data_416&fid=06jh009197"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书-知网星空·心可书馆",
+          "url": "https://thinker.cnki.net/bookStore/Book/bookdetail?bookcode=9787899023396001&type=book"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "类证活人书-朱肱-巴中文学网",
+          "url": "https://www.bzwy.org/content-25694.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "類證活人書 | 朱肱 著 | 中版集團 | HyRead ebook 好來學堂-類證活人書",
+          "url": "https://hh.ebook.hyread.com.tw/bookDetail.jsp?id=476430"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Books",
+          "url": "https://www.google.com.tw/books/edition/_/1davoQEACAAJ?hl=zh-TW&sa=X&ved=2ahUKEwjCtPv8uJqKAxUKSWwGHVOeDRwQre8FegQIExAC"
+        },
+        {
+          "date": "2023-02-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "傷寒類證活人書（簡體書） - 三民網路書店",
+          "url": "https://www.sanmin.com.tw/product/index/001064213"
+        },
+        {
+          "date": "2018-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "图文详情——科普中国资源服务 - [科普中国]-南阳活人书",
+          "url": "https://cloud.kepuchina.cn/h5/detail?id=6969168678209466368#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NATIONAL BIBLIOGRAPHIC INFORMATION NETWORK /All Locations",
+          "url": "https://nbinet3.ncl.edu.tw/search~S10*eng?/t{u5B8B}{u5FBD}{u5B97}{u8349}{u66F8}{u5343}{u5B57}{u6587}/t07{213a6a}17{213d77}08{213a6c}10{215478}10{214355}03{213458}06{213a52}04{214258}/-3%2C1%2C1%2CE/frameset&FF=t07{213a6a}17{213d77}08{213a6c}13{21526f}17{214926}13{21513c}&13%2C13%2C"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "朱肱-全部作品在线阅读-微信读书 - 朱肱",
+          "url": "https://weread.qq.com/web/search/books?author=%E6%9C%B1%E8%82%B1&ii=5e732af05df5195e7dddf84#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4675,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4675,
+    "cache_read_input_tokens": 5845,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2838,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2838,
+        "cache_read_input_tokens": 3841,
+        "input_tokens": 2,
+        "output_tokens": 288,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 428,
+    "output_tokens_details": {
+      "thinking_tokens": 66
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

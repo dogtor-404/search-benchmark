@@ -1,0 +1,72 @@
+{
+  "answer": "我不知道。我的知识截止到 2026 年 6 月，Google 在 2026 年 10 月 15 日发布的这篇关于自拍视频登录（selfie video sign-in）的技术说明晚于这个时间，我没有看过，所以没法告诉你注册时录的参考视频是存在用户设备上，还是存在 Google 的服务器上。\n\n现在又不能上网查，我也不想凭猜测给答案。要确认的话，需要直接看那篇原文。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.603,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1782,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0189176,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 217,
+      "provider": "firstParty",
+      "thinkingTokens": 52,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "news-008",
+  "raw": "jsonl/0_prime/news-008.jsonl",
+  "reported_cost_usd": 0.0189176,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1782,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1782,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1782,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1782,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 217,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 217,
+    "output_tokens_details": {
+      "thinking_tokens": 52
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

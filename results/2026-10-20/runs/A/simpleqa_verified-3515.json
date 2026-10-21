@@ -1,0 +1,98 @@
+{
+  "answer": "**答案:** 1875 年,乔治·布朗(George Brown,1818–1880,多伦多《环球报》出版人、加拿大联邦之父之一)拒绝了安大略省副总督一职。\n\n- 加拿大百科全书说,他在 1875 年拒绝了安大略省副总督的职位,1879 年又拒绝了爵士头衔。\n- 加拿大公园管理局(Parks Canada)关于他故居的介绍也列出了这两次拒绝。\n- 公园管理局称,他想以报纸编辑的身份保持独立的公共发言权,所以没有接受官职。\n\n**网址:**\n- 加拿大百科全书:https://thecanadianencyclopedia.ca/en/article/george-brown\n- Parks Canada 乔治·布朗故居国家历史遗址:https://parks.canada.ca/culture/designation/lieu-site/maison-george-brown-house\n\nSources:\n- [The Canadian Encyclopedia: George Brown](https://thecanadianencyclopedia.ca/en/article/george-brown)\n- [Parks Canada: George Brown House National Historic Site](https://parks.canada.ca/culture/designation/lieu-site/maison-george-brown-house)",
+  "budget_denials": [],
+  "elapsed_seconds": 15.109,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118925,
+      "inputTokens": 14890,
+      "maxOutputTokens": 128000,
+      "outputTokens": 807,
+      "provider": "firstParty",
+      "thinkingTokens": 210,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2923,
+      "cacheReadInputTokens": 6737,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.019763700000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 739,
+      "provider": "firstParty",
+      "thinkingTokens": 236,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/A/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.0316562,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "George Brown 1818-1880 refused 1875",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Fq9M19xVQk1A7jcekuYCPt"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2923,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2923,
+    "cache_read_input_tokens": 6737,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1088,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1088,
+        "cache_read_input_tokens": 4286,
+        "input_tokens": 2,
+        "output_tokens": 652,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 739,
+    "output_tokens_details": {
+      "thinking_tokens": 236
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

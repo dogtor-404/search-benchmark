@@ -1,0 +1,107 @@
+{
+  "answer": "**1946。**\n\n《Power》采样了 King Crimson 的《21st Century Schizoid Man》。King Crimson 的创始人和唯一一直在队的成员是 Robert Fripp，他于 1946 年 5 月 16 日出生在英格兰多塞特郡的 Wimborne Minster。\n\n《Power》里还有别的采样，这里只按 King Crimson 这条回答，因为它是最主要的一条，也是引起版权诉讼的那条。\n\nSources:\n- [Variety：Kanye West 在《Power》中采样 King Crimson 引发诉讼](https://au.variety.com/2022/music/news/universal-music-kanye-west-king-crimson-lawsuit-2159)\n- [Wikipedia：Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp)",
+  "budget_denials": [],
+  "elapsed_seconds": 13.738,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0235064,
+      "inputTokens": 28064,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1400,
+      "provider": "firstParty",
+      "thinkingTokens": 171,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4420,
+      "cacheReadInputTokens": 6748,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0239928,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 563,
+      "provider": "firstParty",
+      "thinkingTokens": 96,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-366",
+  "raw": "jsonl/A/frames-366.jsonl",
+  "reported_cost_usd": 0.04749919999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Kanye West Power sample 21st Century Schizoid Man King Crimson",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012hrdtzDYsKWD5PBtnRHQ3F"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Robert Fripp born King Crimson leader",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KsHqj6AKHQe4AZ4jgH2rCV"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4420,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4420,
+    "cache_read_input_tokens": 6748,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2574,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2574,
+        "cache_read_input_tokens": 4297,
+        "input_tokens": 2,
+        "output_tokens": 286,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 563,
+    "output_tokens_details": {
+      "thinking_tokens": 96
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

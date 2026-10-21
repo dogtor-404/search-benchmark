@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** COBE 于 **1989 年 11 月 18 日**发射，时间是 14:34 UTC。火箭是 Delta 5920-8，从加州范登堡空军基地发射。\n\n只搜了 1 次。几个来源给的日期都一样，NASA 的存档 FAQ 也写的是这一天。\n\n来源：\n- [Cosmic Background Explorer – Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer)\n- [NASA GSFC COBE FAQ](https://asd.gsfc.nasa.gov/archive/mather/faq/cobe.html)\n- [Astronomy.com: Nov. 18, 1989: The Cosmic Background Explorer launches](https://www.astronomy.com/?p=167374)\n- [NextSpaceflight 发射记录](https://www.nextspaceflight.com/launches/details/6573)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.348,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011512600000000001,
+      "inputTokens": 13176,
+      "maxOutputTokens": 128000,
+      "outputTokens": 390,
+      "provider": "firstParty",
+      "thinkingTokens": 98,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2673,
+      "cacheReadInputTokens": 6741,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0311482,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 420,
+      "provider": "firstParty",
+      "thinkingTokens": 19,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-024",
+  "raw": "jsonl/A_prime/custom-024.jsonl",
+  "reported_cost_usd": 0.0426608,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "COBE Cosmic Background Explorer launch date",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LbbYQWWRuZQL1Cb4KGX9XL"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2673,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2673,
+    "cache_read_input_tokens": 6741,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 834,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 834,
+        "cache_read_input_tokens": 4290,
+        "input_tokens": 2,
+        "output_tokens": 312,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 420,
+    "output_tokens_details": {
+      "thinking_tokens": 19
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

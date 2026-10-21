@@ -1,0 +1,142 @@
+{
+  "answer": "**Juan Pablo Machado**（胡安·帕布罗·马查多）是哥伦比亚裔法国插画师、2D 动画师，出生于哥伦比亚卡利，曾在里昂的 Émile-Cohl 设计学院就读。2018 年，他在校期间参加 Lofi Girl 频道（当时名为 ChilledCow）更换新形象的征稿比赛并胜出，由此创作出现在这个标志性的“学习女孩”形象：她戴着耳机、围着红围巾、穿着绿色卫衣、抱着橘猫，在窗边学习。\n\n依据：\n- 维基百科 Juan Pablo Machado 条目：https://en.wikipedia.org/wiki/Juan_Pablo_Machado\n- 法语维基百科 Lofi Girl 条目：https://fr.wikipedia.org/wiki/Lofi_Girl\n- 对他的西班牙语采访（Pousta）：https://pousta.com/la-chica-lo-fi-hip-hop-entrevista/",
+  "budget_denials": [],
+  "elapsed_seconds": 4.338,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0414568,
+      "inputTokens": 8919,
+      "maxOutputTokens": 32000,
+      "outputTokens": 266,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-003",
+  "raw": "jsonl/D2/custom-003.jsonl",
+  "reported_cost_usd": 0.0414568,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7004,
+      "query": "Lofi Girl 学习女孩 插画师 哥伦比亚",
+      "results": [
+        {
+          "date": "2025-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "音樂直播頻道Lofi Girl宣布畢業！陪伴8年的耳機少女終於寫完作業了",
+          "url": "https://www.4gamers.com.tw/news/detail/73309/youtubes-lofi-girl-finally-graduates-after-8-years"
+        },
+        {
+          "date": "2025-02-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Juan Pablo Machado - Wikipedia - Juan Pablo Machado",
+          "url": "https://en.wikipedia.org/?curid=79307995#1"
+        },
+        {
+          "date": "2025-08-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suivie par des millions de fans, qui est la Lofi Girl ?",
+          "url": "https://actus.sfr.fr/divertissement/musique/suivie-par-des-millions-de-fans-qui-est-la-lofi-girl_AN-202508030005.html"
+        },
+        {
+          "date": "2026-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El secreto detrás de Lofi Girl: del World of Warcraft al imperio de la música de concentración",
+          "url": "https://3eravoz.com/2026/09/21/el-secreto-detras-de-lofi-girl-del-world-of-warcraft-al-imperio-de-la-musica-de-concentracion/#respond"
+        },
+        {
+          "date": "2020-04-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Creador de Jade, la chica que escucha lo-fi hip hop en su pieza, nos contó qué está escribiendo",
+          "url": "https://pousta.com/la-chica-lo-fi-hip-hop-entrevista/"
+        },
+        {
+          "date": "2022-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Friday Props - Machado",
+          "url": "https://edgeworkscreative.com/blog/friday-props-machado"
+        },
+        {
+          "date": "2021-03-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La nueva fiebre de YouTube ya tiene su merchandising oficial: la Lo-Fi Girl",
+          "url": "https://www.mercadonegro.pe/marketing/la-nueva-fiebre-de-youtube-ya-tiene-su-merchandising-oficial-la-lo-fi-girl/"
+        },
+        {
+          "date": "2020-09-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lofi Girl — Wikipédia - Lofi Girl",
+          "url": "https://fr.wikipedia.org/wiki/?title=Lofi_Girl&oldid=184227224#1"
+        },
+        {
+          "date": "2020-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-Fi Kızı - Vikipedi - Lo-Fi Kızı",
+          "url": "https://tr.wikipedia.org/wiki/Lo-Fi_K%C4%B1z%C4%B1#1"
+        },
+        {
+          "date": "2026-09-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lofi Girl: el canal de música relajante que conquistó YouTube con 16 millones de seguidores #DigitalCreadoresYoutube 🎤 - Lofi Girl: el canal de música relajante que conquistó YouTube con 16 millones de seguidores #DigitalCreadoresYoutube 🎤",
+          "url": "https://amaneciendo.com.mx/lofi-girl-el-canal-de-musica-relajante-que-conquisto-youtube-con-16-millones-de-seguidor-hirc0km/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8919,
+    "iterations": [],
+    "output_tokens": 266,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

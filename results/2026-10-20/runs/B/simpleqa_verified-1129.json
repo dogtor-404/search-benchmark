@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:约 111 米。** TCG Yavuz (F240) 是 MEKO 200TN 型护卫舰,全长(Length O.A.)为 111 米。\n\n来源之间有出入:\n- GlobalSecurity 的 Yavuz 级规格表和 TRID 的 MEKO 200T 条目都写全长 111 米,水线长约 102 米。\n- MarineTraffic 对 TCG Yavuz (F-240) 的记录也是 111 米。\n- 另一份资料(devrimyaylali.com)写 110.5 米。\n- Wikimedia Commons 的分类页写 115.5 米,但那是整个 Barbaros 级的数据,不是 Yavuz 级的。\n\n依据的网址:\n- https://www.globalsecurity.org/military/world/europe/yavuz-specs.htm\n- https://trid.trb.org/view/431765\n- https://www.marinetraffic.org/vessels/TCG-Turgutreis-(F-241)/1/271035003/current-position\n- https://devrimyaylali.com/yavuz-class-meko-200-track-i/",
+  "budget_denials": [],
+  "elapsed_seconds": 11.85,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7202,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0339115,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 451,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-1129",
+  "raw": "jsonl/B/simpleqa_verified-1129.jsonl",
+  "reported_cost_usd": 0.0339115,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6253,
+      "query": "TCG Yavuz (F240) length meters Turkish Navy",
+      "results": [
+        {
+          "date": "1995-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE MEKO 200 T FRIGATE TCG YAVUZ",
+          "url": "https://trid.trb.org/view/431765"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Media in category \"TCG Yavuz (F-240)\"",
+          "url": "https://commons.wikimedia.org/wiki/Category:TCG_Yavuz_(F-240)?action=render"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Turgutreis (F-241) NATO WARSHIP current location right now",
+          "url": "https://www.marinetraffic.org/vessels/TCG-Turgutreis-(F-241)/1/271035003/current-position"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Join the GlobalSecurity",
+          "url": "https://www.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Military",
+          "url": "https://premium.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": "2019-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz, Çanakkale Boğazı'ndan geçti",
+          "url": "https://www.hurriyet.com.tr/ekonomi/yavuz-canakkale-bogazindan-gecti-41251589"
+        },
+        {
+          "date": "2019-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz, Çanakkale Boğazından geçti",
+          "url": "https://www.gunes.com/ekonomi/yavuz-canakkale-bogazindan-gecti-994755"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military",
+          "url": "https://www.globalsecurity.org--www.globalsecurity.org/military/world/europe/yavuz-specs.htm"
+        },
+        {
+          "date": "2019-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Yavuz' sondaj gemisi, Çanakkale Boğazı'ndan geçti",
+          "url": "https://www.sozcu.com.tr/yavuz-sondaj-gemisi-canakkale-bogazindan-gecti-wp5191213"
+        },
+        {
+          "date": "2013-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "YAVUZ CLASS (MEKO 200 Track I)",
+          "url": "https://devrimyaylali.com/yavuz-class-meko-200-track-i/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7202,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7202,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5355,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5355,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 374,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 451,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

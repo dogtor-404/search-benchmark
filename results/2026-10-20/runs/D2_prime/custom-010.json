@@ -1,0 +1,144 @@
+{
+  "answer": "**2017 年**（具体是 2017 年 7 月，在“Big Proof”项目期间、基于 Lean 3 创建）。\n\n依据：Leonardo de Moura 的演讲材料写明 “Mathlib: The Lean Mathematical Library — Created in July 2017, in Lean 3 during Big Proof.”（https://leodemoura.github.io/static/floc26/ ）；维基百科亦记载“2017年，Lean社群创立 mathlib 函数库”（https://zh.wikipedia.org/wiki/User:Yinweichen/Testpage1 ）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.15,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0318944,
+      "inputTokens": 6407,
+      "maxOutputTokens": 32000,
+      "outputTokens": 289,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-010",
+  "raw": "jsonl/D2_prime/custom-010.jsonl",
+  "reported_cost_usd": 0.0318944,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7313,
+      "query": "Lean Mathlib 最初创建 哪一年 成立",
+      "results": [
+        {
+          "date": "2024-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "用户:Yinweichen/Testpage1 - 维基百科，自由的百科全书 - 用户:Yinweichen/Testpage1[编辑]",
+          "url": "https://zh.wikipedia.org/wiki/User:Yinweichen/Testpage1#1"
+        },
+        {
+          "date": "2026-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Theorem Prover: Design, Evolution, and Impact",
+          "url": "https://leodemoura.github.io/static/floc26/"
+        },
+        {
+          "date": "2024-07-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean: Past, Present, and Future (Invited Talk)",
+          "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.3"
+        },
+        {
+          "date": "2023-12-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "数学的形式化——定理证明语言Lean入门",
+          "url": "https://its.westlake.edu.cn/info/1017/1942.htm"
+        },
+        {
+          "date": "2019-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean mathematical library - License: arXiv",
+          "url": "https://arxiv.org/html/1910.09336v1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results",
+          "url": "https://drops.dagstuhl.de/search/documents?author=Ullrich,%20Sebastian"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Optimizing the Lean and Mathlib toolchain",
+          "url": "https://danromik.com/resources/papers/leanopt.pdf#9#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Language Reference",
+          "url": "https://lean-lang.org/doc/reference/latest/Introduction/"
+        },
+        {
+          "date": "2023-12-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The formalization of mathematics——Introduction to the theorem proving language Lean",
+          "url": "https://its.westlake.edu.cn/info/1040/2008.htm#1"
+        },
+        {
+          "date": "2019-12-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean mathematical library - In just 3 minutes help us improve arXiv:",
+          "url": "http://arxiv.org/abs/1910.09336?context=cs.LO#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6407,
+    "iterations": [],
+    "output_tokens": 289,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "answer": "**130 年。**\n\n- Anton Grylewicz 生于 **1885 年 1 月 8 日**：[Wikipedia](https://en.wikipedia.org/wiki/Anton_Grylewicz) / [德国联邦基金会传记](https://www.bundesstiftung-aufarbeitung.de/de/recherche/kataloge-datenbanken/biographische-datenbanken/anton-grylewicz)\n- 第二部海绵宝宝电影 *The SpongeBob Movie: Sponge Out of Water* 于 **2015 年 2 月 6 日**在美国上映：[IMDb 上映信息](https://www.imdb.com/title/tt2279373/releaseinfo/)\n\n从 1885-01-08 到 2015-02-06 是 130 年零 29 天，向下取整为 **130 年**。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.193,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0465744,
+      "inputTokens": 7122,
+      "maxOutputTokens": 32000,
+      "outputTokens": 880,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-548",
+  "raw": "jsonl/D2/frames-548.jsonl",
+  "reported_cost_usd": 0.0465744,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6165,
+      "query": "Anton Grylewicz date of birth",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{{Short description|German politician (1885–1971)}}",
+          "url": "https://en.wikipedia.org/wiki/Anton_Grylewicz?oldformat=true&action=raw#1"
+        },
+        {
+          "date": "2020-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Katalog der Deutschen Nationalbibliothek",
+          "url": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=idn%3D130003093"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anton Grylewicz - Anton Grylewicz (8 January 1885 – 2 August 1971) was a German communist politician",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Anton_Grylewicz#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GRYLEWICZ, Anton",
+          "url": "https://francearchives.gouv.fr/facomponent/7c7a4c4bc42d096c606c8eeb609865af0f0b3565"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grylewicz, Anton - Hilfe zur Suche Nutzen Sie Boolsche Operatoren für Ihre Suche (UND / +, ODER, NICHT / - , - / +, > / <)",
+          "url": "https://www.kommunismusgeschichte.de/biolex/article/detail/grylewicz-anton?type=%22%3E%3Cscript%20%3Ealert%28String.fromCharCode%2888%2C83%2C83%29%29%3C%2Fscript%3E%27%2C1709159768#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anton Grylewicz",
+          "url": "https://www.stolpersteine-berlin.de/de/brusendorfer-strasse/23/anton-grylewicz"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grylewicz, Anton",
+          "url": "https://www.bundesstiftung-aufarbeitung.de/de/recherche/kataloge-datenbanken/biographische-datenbanken/anton-grylewicz"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GRYLEWICZ Anton",
+          "url": "https://maitron.fr/grylewicz-anton/"
+        },
+        {
+          "date": "2021-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anna-Maria Grylewicz née Bräuer",
+          "url": "https://www.stolpersteine-berlin.de/en/brusendorfer-strasse/23/anna-maria-grylewicz"
+        },
+        {
+          "date": "2025-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Personalakte Anton Grylewicz (geb. 08.01.1885) Angestellter/Straßenpolizei Bauverwaltung Neukölln - Wohlfahrts-Angestellter - Deutsche Digitale Bibliothek",
+          "url": "https://www.deutsche-digitale-bibliothek.de/item/YRN225DCLSJM3SCHI6EU5OJ2532YBT2A"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.5819,
+      "query": "second SpongeBob SquarePants movie release date 2015",
+      "results": [
+        {
+          "date": "2013-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Paramount Dates ‘Spongebob Squarepants 2,’ ‘Monster Trucks’ for 2015 - Skip to main content",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/paramount-dates-spongebob-squarepants-2-598033/?utm_campaign=Feed%3A%20thr%2Fnews%20%28The%20Hollywood%20Reporter%20-%20Top%20Stories%29#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Paul Tibbitt - News - IMDb - Starting to build the pre-release buzz, Paramount Pictures has just released a new teaser trailer for “The SpongeBob Movie: Spon...",
+          "url": "https://www.imdb.com/name/nm1196684/news/?ref_=nm_nwr_3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The SpongeBob Movie: Sponge Out of Water (2015) - Release info - IMDb",
+          "url": "https://www.imdb.com/title/tt2279373/releaseinfo/?ref_=ttfc_ql_2"
+        },
+        {
+          "date": "2023-05-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "スポンジ・ボブ (映画シリーズ) - Wikipedia",
+          "url": "https://ja.m.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%9C%E3%83%96_(%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)"
+        },
+        {
+          "date": "2015-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The SpongeBob Movie: Sponge Out Of Water",
+          "url": "https://ui.eidr.org/content/10.5240/DC05-C8B6-54E9-56A2-5F96-R"
+        },
+        {
+          "date": "2015-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Губка Боб в 3D (2015) — Фильм.ру - Трейлер",
+          "url": "https://www.film.ru/movies/gubka-bob-v-3d#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2014/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FSpongeBob_SquarePants_2#1"
+        },
+        {
+          "date": "2014-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spongebob Squarepants Sequel Coming in 2015 – Will It Be Any Good?",
+          "url": "https://www.contactmusic.com/tom-kenny/news/spongebob-squarepants-sponge-out-of-water-sequel-tom-kenny_4255202"
+        },
+        {
+          "date": "2014-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Antonio Banderas joins voicecast for â€˜SpongeBobâ€™ sequel",
+          "url": "https://www.malaymail.com/news/showbiz/2014/06/12/antonio-banderas-joins-voicecast-for-spongebob-sequel/685845"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "هوامش: فيلم - The SpongeBob Movie: Sponge Out of Water - 2015",
+          "url": "https://elcinema.com/work/2028141/marginal"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7122,
+    "iterations": [],
+    "output_tokens": 880,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

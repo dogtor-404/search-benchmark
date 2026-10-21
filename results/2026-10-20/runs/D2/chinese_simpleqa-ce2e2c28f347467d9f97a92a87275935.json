@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：NHK（日本广播协会）。** 在日本，“環境ホルモン”（环境荷尔蒙）是横滨市立大学的井口泰泉教授与 NHK 共同创造的叫法；1997 年 5 月，井口泰泉在 NHK 科学节目《サイエンスアイ》中首次公开使用了这个词，此后它便在日本广为流传。\n\n依据：\n- 中文维基百科“环境荷尔蒙”：“在日本，最初横滨市立大学的井口泰泉教授和NHK所创的「環境ホルモン」” — https://zh.wikipedia.org/zh-cn/環環境荷爾蒙\n- 山形大学环境保全中心：“『環境ホルモン』という言葉は、1997年5月に放送されたNHKの科学番組「サイエンスアイ」で横浜市立大学の井口泰泉教授が始めて用いた言葉” — https://www.id.yamagata-u.ac.jp/EPC/13monndai/18hormon/hormon/2002.html",
+  "budget_denials": [],
+  "elapsed_seconds": 7.103,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0718984,
+      "inputTokens": 14958,
+      "maxOutputTokens": 32000,
+      "outputTokens": 579,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+  "raw": "jsonl/D2/chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935.jsonl",
+  "reported_cost_usd": 0.0718984,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6743,
+      "query": "井口泰泉 環境ホルモン 命名 組織",
+      "results": [
+        {
+          "date": "2002-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "未来を創る科学者達 （27）体内で作用する化学物質の謎 〜井口泰泉〜 | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」",
+          "url": "https://scienceportal.jst.go.jp/sciencechannel/i026904027/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「環境ホルモン学会第19 回研究発表会」",
+          "url": "https://jsedr.org/jsedr19th/pdf/prospectus.pdf#1#1"
+        },
+        {
+          "date": "2016-03-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "基礎生物学研究所 セミナー・行事 / 行事詳細",
+          "url": "https://www.nibb.ac.jp/event/event/16/03/post_888.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中村中, 田村生弥, 高信ひとみ, 山室真澄, 井口泰泉, 鎌倉典久：ニホンメダカ(Oryzias latipes)に対するエストロンの多世代影響",
+          "url": "https://mhlw-grants.niph.go.jp/system/files/2013/134051/201329002B/201329002B0006.pdf#7#7"
+        },
+        {
+          "date": "2024-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "井口 泰泉 | 研究者情報 | J-GLOBAL 科学技術総合リンクセンター",
+          "url": "https://jglobal.jst.go.jp/detail/?JGLOBAL_ID=200901080913352787&t=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "目的",
+          "url": "https://core.ac.uk/download/483796833.pdf#22#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "231. 守田文代、中本貴士、古賀由香里、木村宏和、浦和寛、冨永伸明、甲斐利典、佐々木一志、井口泰泉、有蘭幸司：センチュウC",
+          "url": "https://www.jst.go.jp/kisoken/crest/report/sh_heisei11/naibunpitsu/iguchi.pdf#26#26"
+        },
+        {
+          "date": "2006-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "環境荷爾蒙 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-tw/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The influence Prof",
+          "url": "https://www.nibb.ac.jp/pressroom/pdf/NIBBgaibu_11.pdf#63#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Guillette, L",
+          "url": "https://mhlw-grants.niph.go.jp/system/files/2013/134051/201329002B/201329002B0006.pdf#7#6"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7028,
+      "query": "環境ホルモン 井口泰泉 横浜市立大学 最初に命名",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "3月11日, 2025 環境省 公開セミナー",
+          "url": "https://www.env.go.jp/content/000346241.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "山形大学環境保全センターへようこそ",
+          "url": "https://www.id.yamagata-u.ac.jp/EPC/13monndai/18hormon/hormon/2002.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. 環境ホルモン(内分泌攪乱物質)の野生動物への影響*1",
+          "url": "https://www.jstage.jst.go.jp/article/suisan1932/64/5/64_5_899/_pdf#1#1"
+        },
+        {
+          "date": "2006-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "环境荷尔蒙 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/zh-cn/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99"
+        },
+        {
+          "date": "2006-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "環境荷爾蒙 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-tw/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "11月12日：市民のための化学の基礎講座 第5回 環境ホルモンの化学",
+          "url": "http://toxwatch.net/seminar/11%e6%9c%8814%e6%97%a5%ef%bc%9at%e3%82%a6%e3%82%aa%e3%83%83%e3%83%81%e9%80%a3%e7%b6%9a%e8%ac%9b%e5%ba%a7%e3%80%80%e7%ac%ac5%e5%9b%9e%e3%80%80%e7%92%b0%e5%a2%83%e3%83%9b%e3%83%ab%e3%83%a2%e3%83%b3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "内分泌覚乱化学物質",
+          "url": "https://www.jstage.jst.go.jp/article/faruawpsj/35/3/35_KJ00002925135/_pdf/-char/ja#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "生殖異変 環境ホルモンの反逆 / 井口泰泉／著 - オンライン書店 e-hon",
+          "url": "https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000030408570&Action_id=121&Sza_id=F3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|演題|内分泌かく乱物質研究から27 年：今までの経験から今後の展開へ|",
+          "url": "https://www.env.go.jp/kanbo/chotatsu/N0111ho-H30.pdf#111#154#111"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "開かれた学問",
+          "url": "https://forum.hiroshima-u.ac.jp/34-2/hirakareta.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14958,
+    "iterations": [],
+    "output_tokens": 579,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

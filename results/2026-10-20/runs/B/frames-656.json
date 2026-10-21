@@ -1,0 +1,212 @@
+{
+  "answer": "2000 年第一名是乌干达车手 Charles Muhangi(有的来源拼作 Muhanji),开的是斯巴鲁翼豹 WRX(Subaru Impreza WRX)。\n\nMichel von Tell 那年跑的是 2000 年卢旺达山地大猩猩拉力赛(Rwanda Mountain Gorilla Rally,当时叫 Fraternity Rally),开丰田,排第六。\n\n依据的网址:\n- https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Michel_von_Tell(von Tell 2000 年在该赛事开丰田排第六)\n- https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally(历届冠军表:2000 年 Charles Muhangi,Subaru Impreza WRX)\n- https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title(往届冠军:2000 年 Charles Muhangi,Subaru Impreza)\n- https://www.theeastafrican.co.ke/tea/rwanda-today/lifestyle/mountain-gorilla-rally-a-time-to-show-off--1354800(Ugandan Charles Muhanji 以 Subaru Impreza WRX 赢得 2000 年赛事)\n\n我搜了 2 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 16.045,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13042,
+      "cacheReadInputTokens": 16813,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.06058129999999999,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 672,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/B/frames-656.jsonl",
+  "reported_cost_usd": 0.06058129999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6563,
+      "query": "Michel von Tell 2000 Toyota sixth place rally",
+      "results": [
+        {
+          "date": "2020-10-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Wikipedia - Michel von Tell",
+          "url": "https://it.wikipedia.org/wiki/Michel_von_Tell#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Michel von Tell - Michel von Tell (8 October 1980) is a Swiss journalist, consultant and racing driver",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Michel_von_Tell#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rally de España: Preview Toyota Yaris WRC set for crucial mixed-surface spectacular",
+          "url": "https://cdn.assets.prezly.com/45e56017-6611-44a3-b19d-369f25c1fd4a/-/inline/no/WRC%20Rally%20d'espana%20preview.pdf?__cf_chl_tk=JZ9LoC2MSHoiIZhkjgqeiF7sy2J9lnW1hJbqZbnBpCA-1780556555-1.0.1.1-HUI61TPKfXcwJXb7R7NYv1c5geR8u4.jXzXxdZPI3dY#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toyota Celebrates Race and Rally Wins Around the World",
+          "url": "https://media.toyota.co.uk/show-pdf/?src=63023#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2017 Dakar / SS10: Orlando Terranova now sixth in the overall standings",
+          "url": "http://x-raid.de/_files/cms/files/Stage10_GB_temp.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MAPEI STILL TOP SPONSOR OF TOYOTA GAZOO RACING ITALY IN THE 2026 ITALIAN RALLY CHAMPIONSHIP",
+          "url": "https://cdnmedia.mapei.com/docs/librariesprovider2/2026/pr-mapei-toyota-2026.pdf?sfvrsn=4520ff85_2&__cf_chl_tk=wxGzd_sZyU1RrGTtJf98bHxq6PAJ61su4I72.0b4u8M-1778498945-1.0.1.1-Q9meGOq6YpNVlJ.96jQUVh_YN39opOjbjCbA6TVvddc&_x_output_type_b6db407c4_=embedded_pdf#1#1"
+        },
+        {
+          "date": "2014-06-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2000 Monte Carlo Rally - The Wayback Machine - http://web",
+          "url": "http://web.archive.org/all/20150704073631/https://en.wikipedia.org/wiki/2000_Monte_Carlo_Rally#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6657,
+      "query": "2000 Rwanda Mountain Gorilla Rally winner results",
+      "results": [
+        {
+          "date": "2024-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally – Wikipedia - Rwanda Mountain Gorilla Rally",
+          "url": "https://de.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lumala Narrowly Loses Race",
+          "url": "https://www.newvision.co.ug/news/1263091/lumala-narrowly-loses-race"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kurji wins to close ARC gap",
+          "url": "https://www.newvision.co.ug/news/1119183/kurji-wins-close-arc-gap"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rautenbach triumphs in Gorilla rally",
+          "url": "https://www.newvision.co.ug/news/1165655/rautenbach-triumphs-gorilla-rally"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{{Short description|International rallying event}}",
+          "url": "https://en.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally?action=raw#1"
+        },
+        {
+          "date": "2008-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rudy eyes Rwanda Gorilla Rally title - Rudy eyes Rwanda Gorilla Rally title",
+          "url": "https://www.newtimes.co.rw/article/8160/Lifestyle/rudy-eyes-rwanda-gorilla-rally-title#1"
+        },
+        {
+          "date": "2023-04-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ралли горных горилл в Руанде - Ралли горных горилл в Руанде",
+          "url": "https://alphapedia.ru/w/Rwanda_Mountain_Gorilla_Rally#1"
+        },
+        {
+          "date": "2020-08-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mountain Gorilla Rally, a time to show off",
+          "url": "https://www.theeastafrican.co.ke/tea/rwanda-today/lifestyle/mountain-gorilla-rally-a-time-to-show-off--1354800"
+        },
+        {
+          "date": "2026-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally 2025 Preview",
+          "url": "https://api.fia.com/news/rwanda-mountain-gorilla-rally-2025-preview-0"
+        },
+        {
+          "date": "2026-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rwanda Mountain Gorilla Rally — Grokipedia - Fact-checked by Grok 8 months ago",
+          "url": "https://grokipedia.com/page/rwanda_mountain_gorilla_rally#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13042,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13042,
+    "cache_read_input_tokens": 16813,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4101,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4101,
+        "cache_read_input_tokens": 10945,
+        "input_tokens": 2,
+        "output_tokens": 486,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 672,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

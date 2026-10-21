@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：2014 年。** Thomas Hales 团队在 2014 年 8 月 10 日宣布 Flyspeck 项目完成。这个形式化证明用 HOL Light 和 Isabelle 两个证明助手完成。说明项目的正式论文 2015 年 1 月发在 arXiv 上（1501.02155）。\n\n只搜了 1 次。\n\n依据：\n- [Formal proof completed for Kepler's conjecture on sphere packing（experimentalmath.info，2014 年 8 月）](https://experimentalmath.info/blog/2014/08/formal-proof-completed-for-keplers-conjecture-on-sphere-packing/)\n- [flyspeck/flyspeck（GitHub）](https://github.com/flyspeck/flyspeck)\n- [A formal proof of the Kepler conjecture（arXiv:1501.02155）](https://arxiv.org/pdf/1501.02155)",
+  "budget_denials": [],
+  "elapsed_seconds": 13.479,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116716,
+      "inputTokens": 13696,
+      "maxOutputTokens": 128000,
+      "outputTokens": 604,
+      "provider": "firstParty",
+      "thinkingTokens": 60,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2933,
+      "cacheReadInputTokens": 6751,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.035070199999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 512,
+      "provider": "firstParty",
+      "thinkingTokens": 102,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-008",
+  "raw": "jsonl/A_prime/custom-008.jsonl",
+  "reported_cost_usd": 0.0467418,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Flyspeck project completed formal proof Kepler conjecture year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JqqAzy5HRvJyA4DZ9GnjCm"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2933,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2933,
+    "cache_read_input_tokens": 6751,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1084,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1084,
+        "cache_read_input_tokens": 4300,
+        "input_tokens": 2,
+        "output_tokens": 419,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 512,
+    "output_tokens_details": {
+      "thinking_tokens": 102
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

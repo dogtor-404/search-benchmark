@@ -1,0 +1,72 @@
+{
+  "answer": "可以取名 **Arianne Kathleen**(阿里安娜·凯瑟琳)。\n\n- 美国体操史上获奖最多的女运动员是 Simone Biles,全名 Simone Arianne Biles,中间名是 **Arianne**。\n- 800 米自由泳世界纪录保持者是美国的 Katie Ledecky。她常用的名字 Katie 是昵称,全名 Kathleen Genevieve Ledecky,所以完整的名是 **Kathleen**。\n\n这是凭我已有的知识回答的,没有联网核实。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.341,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1825,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0107408,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 328,
+      "provider": "firstParty",
+      "thinkingTokens": 134,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-39",
+  "raw": "jsonl/0/frames-39.jsonl",
+  "reported_cost_usd": 0.0107408,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1825,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1825,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1825,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1825,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 328,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 328,
+    "output_tokens_details": {
+      "thinking_tokens": 134
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

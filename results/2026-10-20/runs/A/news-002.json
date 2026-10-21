@@ -1,0 +1,109 @@
+{
+  "answer": "**答案:5%。** 在股东批准的前提下,Anthropic 在 2026 年 10 月 18 日的公告中说,最初会把 5% 的股份投入 Anthropic Public Benefit Fund。公告还说,公司价值每比某个基准线高出 50%,董事会可酌情再追加 2%。\n\n我只看了搜索结果里的摘要,没有打开原文。\"5%\"和\"需股东批准\"这两点,在 Anthropic 官方公告页和多家媒体的标题或摘要里一致。\n\n依据网址:\n- [Anthropic 官方公告:Investing in the public benefit](https://www.anthropic.com/news/public-benefit-fund)\n- [Forbes:Anthropic Public Benefit Fund Explained](https://www.forbes.com/sites/siladityaray/2026/10/19/anthropic-pledges-5-of-its-shares-to-public-benefit-fund-heres-how-it-works/)\n- [Al Jazeera:Anthropic commits 5% of shares to 'public benefit' fund](https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund)\n- [AI Magazine:Anthropic To Invest 5% of Shares to Its Public Benefit Fund](https://aimagazine.com/news/anthropic-to-invest-5-of-shares-to-its-public-benefit-fund)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.91,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023628299999999998,
+      "inputTokens": 27718,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1713,
+      "provider": "firstParty",
+      "thinkingTokens": 367,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4819,
+      "cacheReadInputTokens": 12344,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0274024,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 688,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-002",
+  "raw": "jsonl/A/news-002.jsonl",
+  "reported_cost_usd": 0.0510307,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Anthropic Public Benefit Fund announcement percentage of shares committed subject to stockholder approval",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CnvBodVzdtvkNo9HLnf8dU"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"Anthropic Public Benefit Fund\" shares",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CKfJEYCU5KefR96o66Umag"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4819,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4819,
+    "cache_read_input_tokens": 12344,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1702,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1702,
+        "cache_read_input_tokens": 5568,
+        "input_tokens": 2,
+        "output_tokens": 494,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 688,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

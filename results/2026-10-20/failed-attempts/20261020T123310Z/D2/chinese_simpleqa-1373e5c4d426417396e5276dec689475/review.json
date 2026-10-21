@@ -1,0 +1,24 @@
+{
+  "billable_searches_in_invalid_attempt": 1,
+  "failed_request_types": [
+    {
+      "error_type": null,
+      "http_status": null,
+      "reason_type": null
+    }
+  ],
+  "group": "D2",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "original_file_sha256": {
+    "audit/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475/dispatch.json": "70c1ba7980ef6df675a816af3b6efba2c03ab73a4cf76685ba49f45cb128dc29",
+    "audit/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475/mcp-count.txt": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+    "audit/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475/search.jsonl": "81665b23f6f8be0996e078e490de52fb7c58087924c8bc46f08381e695857ea7",
+    "audit/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475/stderr.txt": "d0f2303a114d64fd95769a7a6996dc727d00c3a348106440d9ef2b81313f7b2f",
+    "jsonl/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475.jsonl": "8d64201c5cb7be359d0d4aa3280881d8141e40ad551a580b69ff74d8525fea6b",
+    "runs/D2/chinese_simpleqa-1373e5c4d426417396e5276dec689475.json": "a541f2e7861613b66097536b627cb5385d83f60cd6650659c1a760b3ff520972"
+  },
+  "question_id": "chinese_simpleqa-1373e5c4d426417396e5276dec689475",
+  "reason": "已检查真实搜索失败及后续工具记录；保留无效次，仅对此题重跑一次，不据答案择优，成功题不重复。",
+  "retry_number": 1,
+  "reviewed_by": "Codex operational audit review"
+}

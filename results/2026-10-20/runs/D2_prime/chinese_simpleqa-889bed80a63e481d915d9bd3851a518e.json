@@ -1,0 +1,142 @@
+{
+  "answer": "1994年的国际数学家大会（第22届，1994年8月3–11日）在**瑞士**（苏黎世）举办。\n\n依据网址：https://www.mathunion.org/fileadmin/IMU/Publications/Bulletins/1994_1999/37/icm94.report.html",
+  "budget_denials": [],
+  "elapsed_seconds": 6.649,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0228144,
+      "inputTokens": 4517,
+      "maxOutputTokens": 32000,
+      "outputTokens": 213,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-889bed80a63e481d915d9bd3851a518e",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-889bed80a63e481d915d9bd3851a518e.jsonl",
+  "reported_cost_usd": 0.0228144,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6729,
+      "query": "1994 国际数学家大会 举办地 国家",
+      "results": [
+        {
+          "date": "2001-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chinese icmhistory",
+          "url": "https://www.mathunion.org/fileadmin/IMU/ICM2002/offline/Beijing/Chinese/B/chistory.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Report of the International Congress of Mathematicians 1994",
+          "url": "https://www.mathunion.org/fileadmin/IMU/Publications/Bulletins/1994_1999/37/icm94.report.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "平成６年３月",
+          "url": "https://www.jstage.jst.go.jp/article/jjsme/76/3/76_41/_pdf/-char/en#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Editor:",
+          "url": "https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1994.1/ICM1994.1.ocr.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "本世界会議の第4回は4年後にアルゼンチンで開催されることが、バンケットの折りにIACMから発表された",
+          "url": "https://www.jstage.jst.go.jp/article/bjsiam/5/1/5_KJ00005768001/_pdf/-char/ja#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians August 3–11, 1994 Zürich, Switzerland - Proceedings of the International Congress of Mathematicians August 3–11, 1994 Zürich, Switzerland",
+          "url": "https://ebooks.mpdl.mpg.de/ebooks/Record/EB000637236#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians - Skip to main content",
+          "url": "https://rd.springer.com/book/10.1007/978-3-0348-9078-6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1994年度的菲尔兹奖-百科知识1994年11期-手机知网",
+          "url": "https://wap.cnki.net/touch/web/Journal/Article/BKZS199411028.html"
+        },
+        {
+          "date": "2022-07-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2022国际数学家大会今天开幕",
+          "url": "https://cmsmes.ecnu.edu.cn/79/9f/c33685a424351/page.htm"
+        },
+        {
+          "date": "1994-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians: August 3–11, 1994 Zürich, Switzerland - Proceedings of the International Congress of Mathematicians: August 3–11, 1994 Zürich, Switzerland",
+          "url": "https://searchworks.stanford.edu/articles/edshlc__edshlc.013841856.X#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4517,
+    "iterations": [],
+    "output_tokens": 213,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：安培每米（A/m，即 A·m⁻¹）。**\n\n磁化强度是单位体积里的磁矩。磁矩的单位是 A·m²，除以体积 m³，就得到 A/m。QUDT 的单位词表把“安培每米”列为国际单位制单位，并列为磁化强度的适用单位。\n\n共搜索 1 次。\n\nSources:\n- [QUDT：A PER M（安培每米）](https://qudt.org/vocab/unit/A-PER-M.html)\n- [QUDT：Magnetization 量纲页](https://qudt.org/vocab/quantitykind/Magnetization)\n- [Vedantu：Magnetization and Magnetic Intensity](https://www.vedantu.com/physics/magnetization-magnetic-intensity)",
+  "budget_denials": [],
+  "elapsed_seconds": 14.614,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011628300000000001,
+      "inputTokens": 12503,
+      "maxOutputTokens": 128000,
+      "outputTokens": 756,
+      "provider": "firstParty",
+      "thinkingTokens": 245,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2871,
+      "cacheReadInputTokens": 6731,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0315502,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 361,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0",
+  "raw": "jsonl/A_prime/chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0.jsonl",
+  "reported_cost_usd": 0.0431785,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "磁化强度 国际单位制 单位 安培每米",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CbejUBB1PqCMokqsSWkZGS"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2871,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2871,
+    "cache_read_input_tokens": 6731,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1042,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1042,
+        "cache_read_input_tokens": 4280,
+        "input_tokens": 2,
+        "output_tokens": 271,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 361,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

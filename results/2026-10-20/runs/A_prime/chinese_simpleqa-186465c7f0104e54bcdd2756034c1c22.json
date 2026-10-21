@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：分贝（dB）。**\n\n信号-量化杂讯比（SQNR）是信号功率和量化噪声功率之比，本身没有量纲，通常用分贝表示。算法是 SQNR = 10·log₁₀(信号功率/噪声功率) dB。理想的 N 位均匀量化器在正弦输入下，SQNR 约为 6.02N + 1.76 dB，所以每多一位大约提高 6 dB。\n\n（只搜了 1 次。）\n\nSources:\n- [Signal-to-quantization-noise ratio – Wikipedia](https://en.wikipedia.org/wiki/Signal-to-quantization-noise_ratio)\n- [Signal-to-Quantization Noise Ratio (SQNR) – Vibration Research](https://vru.vibrationresearch.com/lesson/signal-to-quantization-noise-ratio-sqnr/)\n- [signal to quantization noise ratio (SQNR) – ITWissen](https://itwissen.info/en/signal-to-quantization-noise-ratio-SQNR.html)",
+  "budget_denials": [],
+  "elapsed_seconds": 13.917,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011695500000000001,
+      "inputTokens": 13505,
+      "maxOutputTokens": 128000,
+      "outputTokens": 690,
+      "provider": "firstParty",
+      "thinkingTokens": 207,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2984,
+      "cacheReadInputTokens": 6749,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0347378,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 475,
+      "provider": "firstParty",
+      "thinkingTokens": 18,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/A_prime/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.0464333,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "信号-量化杂讯比 SQNR 单位",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SAU7t4t35Tg6nyr5o2gDaF"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2984,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2984,
+    "cache_read_input_tokens": 6749,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1137,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1137,
+        "cache_read_input_tokens": 4298,
+        "input_tokens": 2,
+        "output_tokens": 367,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 475,
+    "output_tokens_details": {
+      "thinking_tokens": 18
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

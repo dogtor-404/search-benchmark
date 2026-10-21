@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：Boko Boko**（也叫 Bokoboko，即 \"boko boko\"）。\n\n在桑给巴尔，这道小麦和肉熬成的粥状菜（阿拉伯半岛和亚美尼亚称 Harees/Hareesa）被称为 **Boko Boko**。\n\n依据网址：\n- https://www.standardmedia.co.ke/evewoman/amp/food/article/2001500896/easy-recipe-swahili-boko-boko-delight\n- https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/\n- https://recipes.fandom.com/wiki/Boko_Boko_Harees",
+  "budget_denials": [],
+  "elapsed_seconds": 14.616,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.046484,
+      "inputTokens": 9488,
+      "maxOutputTokens": 32000,
+      "outputTokens": 401,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-151",
+  "raw": "jsonl/D2_prime/simpleqa_verified-151.jsonl",
+  "reported_cost_usd": 0.046484,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.721,
+      "query": "Harees dish Zanzibar called boko boko",
+      "results": [
+        {
+          "date": "2020-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bokoboko Recipe || Arabic Style Haleem (known as Harees or Hareesa) Famous in Zanzibar and Mombasa",
+          "url": "https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/"
+        },
+        {
+          "date": "2015-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Boko boko / Harees = Wheat paste food - Pure Country Meats",
+          "url": "http://www.purecountrymeats.com/boko-boko-harees-wheat-paste-food/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-gptos · Datasets at Hugging Face - Need answer: In Zanzibar it's called \"haleva\"",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-gptos/viewer/default/train?p=14#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-deep · Datasets at Hugging Face - context",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-deep/viewer/default/train?p=14#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Boko Boko Harees",
+          "url": "https://recipes.fandom.com/wiki/Boko_Boko_Harees?commentId=4400000000000008014"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Intelligent-Internet/II-Search-Benchmark-Details · Datasets at Hugging Face - Question: How many losses did Adolf Anderssen have in his 1864 chess match against Berthold Suhle",
+          "url": "https://huggingface.co/datasets/Intelligent-Internet/II-Search-Benchmark-Details/viewer/default/train?p=1#5"
+        },
+        {
+          "date": "2024-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Easy recipe: Swahili Boko Boko delight",
+          "url": "https://www.standardmedia.co.ke/evewoman/amp/food/article/2001500896/easy-recipe-swahili-boko-boko-delight"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Harees Dish Called In Zanzibar - Instagram",
+          "url": "https://www.trunkstable.instagram.com/popular/harees-dish-called-in-zanzibar/?utm_source=topic_pill#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dine with Dina",
+          "url": "https://www.facebook.com/dinewithdina/posts/legend-has-it-that-when-the-omanis-came-to-zanzibar-they-came-cross-locals-with-/539297266756834/"
+        },
+        {
+          "date": "2008-04-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Boko Boko Harees (Wheat Paste Food)",
+          "url": "http://world-culinaire.blogspot.com/2008/04/boko-boko-harees-wheat-paste-food.html?m=1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9488,
+    "iterations": [],
+    "output_tokens": 401,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

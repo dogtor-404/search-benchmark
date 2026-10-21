@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：1983 年 1 月 1 日。** 这一天是 ARPANET 的 “Flag Day”，网络的核心协议从 NCP 全部换成了 TCP/IP。1982 年底，骨干路由器曾在几天里对大多数主机关掉 NCP，测试网络是否准备好了。切换日之后，还有一些站点把 NCP 用到了 1983 年年中。\n\n我只搜了 1 次。\n\n来源：\n- [Network Control Protocol (ARPANET) – Wikipedia](https://en.wikipedia.org/wiki/Network_Control_Protocol_(ARPANET))\n- [Flag day (computing) – Wikipedia](https://en.wikipedia.org/wiki/Flag_day_(computing))\n- [30 Years of TCP/IP Dominance Began with a Deadline – InternetNews](https://internetnews.com/news/30-years-of-tcp-ip-dominance-began-with-a-deadline)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.047,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119497,
+      "inputTokens": 15562,
+      "maxOutputTokens": 128000,
+      "outputTokens": 787,
+      "provider": "firstParty",
+      "thinkingTokens": 123,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3239,
+      "cacheReadInputTokens": 6749,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0364178,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 457,
+      "provider": "firstParty",
+      "thinkingTokens": 29,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-023",
+  "raw": "jsonl/A_prime/custom-023.jsonl",
+  "reported_cost_usd": 0.0483675,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ARPANET flag day January 1 1983 NCP to TCP/IP",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015vPYnejjJgsDdwZKyW78Tv"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3239,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3239,
+    "cache_read_input_tokens": 6749,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1392,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1392,
+        "cache_read_input_tokens": 4298,
+        "input_tokens": 2,
+        "output_tokens": 331,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 457,
+    "output_tokens_details": {
+      "thinking_tokens": 29
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

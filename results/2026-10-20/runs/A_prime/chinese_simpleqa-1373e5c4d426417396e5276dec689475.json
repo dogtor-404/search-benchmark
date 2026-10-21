@@ -1,0 +1,98 @@
+{
+  "answer": "2020年诺贝尔和平奖的获奖者是**联合国世界粮食计划署（WFP）**。挪威诺贝尔委员会于2020年10月9日在奥斯陆宣布，理由是它与饥饿作斗争，并且在冲突地区为改善和平条件出了力。\n\n共搜索1次。\n\n依据的网址：\n- [ITV News：Nobel Peace Prize won by UN World Food Programme](https://www.itv.com/news/2020-10-09/nobel-peace-prize-won-by-un-world-food-programme)\n- [WGCU News：Nobel Peace Prize awarded to World Food Programme](https://www.wgcu.org/2020-10-09/nobel-peace-prize-awarded-to-world-food-programme)\n- [AFSC：Nobel Peace Prize 2020: UN World Food Programme](https://afsc.org/newsroom/nobel-peace-prize-2020-un-world-food-programme-winner-award)\n- [1News：world food programme named winner of 2020 nobel peace prize](https://www.1news.co.nz/2020/10/09/jacinda-ardern-loses-out-as-world-food-programme-named-winner-of-2020-nobel-peace-prize)",
+  "budget_denials": [],
+  "elapsed_seconds": 14.461,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115957,
+      "inputTokens": 13817,
+      "maxOutputTokens": 128000,
+      "outputTokens": 428,
+      "provider": "firstParty",
+      "thinkingTokens": 80,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2994,
+      "cacheReadInputTokens": 6737,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0354154,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 505,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-1373e5c4d426417396e5276dec689475",
+  "raw": "jsonl/A_prime/chinese_simpleqa-1373e5c4d426417396e5276dec689475.jsonl",
+  "reported_cost_usd": 0.0470111,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "2020 Nobel Peace Prize winner",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01H4FKSQ2FB1Vh2b8tKhjnjR"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2994,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2994,
+    "cache_read_input_tokens": 6737,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1159,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1159,
+        "cache_read_input_tokens": 4286,
+        "input_tokens": 2,
+        "output_tokens": 419,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 505,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

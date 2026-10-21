@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：Phil Belanger（菲尔·贝朗格）**\n\n他 1999 年 WECA（后来的 Wi-Fi Alliance）成立时出任首任主席，任期 1999–2001 年，当时在 Aironet 工作。2005 年 11 月他写信给 Boing Boing，说 Wi-Fi 什么都不代表，不是缩写，也没有含义。这个名字是品牌公司 Interbrand 起的。\"Wireless Fidelity\" 只是联盟早期用过一阵的宣传语，他后来说用这句是个错误。\n\n搜了 2 次。早年的 EE Times 和 EDN 报道把他的姓拼成 \"Bellanger\"。\n\n依据：\n- [Boing Boing 2005-11-08 原帖：\"wifi isnt short for\"](https://boingboing.net/2005/11/08/wifi-isnt-short-for.html)\n- [Mental Floss: What Does 'Wi-Fi' Stand For?](https://www.mentalfloss.com/technology/what-does-wi-fi-stand-for)\n- [Wi-Fi Alliance Beacon：创始人讲述早期历史](https://wi-fi.org/beacon/the-beacon/from-niche-to-mainstream-wi-fi-alliance-founders-share-the-story-behind-the-early)\n- [EE Times 1999 年报道](https://www.eetimes.com/?p=1139992)",
+  "budget_denials": [],
+  "elapsed_seconds": 28.949,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023727400000000003,
+      "inputTokens": 28009,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1853,
+      "provider": "firstParty",
+      "thinkingTokens": 812,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4217,
+      "cacheReadInputTokens": 12307,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0545814,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 918,
+      "provider": "firstParty",
+      "thinkingTokens": 219,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-005",
+  "raw": "jsonl/A_prime/custom-005.jsonl",
+  "reported_cost_usd": 0.0783088,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Phil Belanger Boing Boing 2005 Wi-Fi doesn't stand for anything WECA",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MMVD8KtA8dUh3vwbE5u93N"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Phil Belanger first chairman WECA Wireless Ethernet Compatibility Alliance",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MPjVfZ79cVVQAWQnnxVvjX"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4217,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4217,
+    "cache_read_input_tokens": 12307,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1122,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1122,
+        "cache_read_input_tokens": 5546,
+        "input_tokens": 2,
+        "output_tokens": 487,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 918,
+    "output_tokens_details": {
+      "thinking_tokens": 219
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

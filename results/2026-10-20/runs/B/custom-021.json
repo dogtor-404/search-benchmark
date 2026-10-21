@@ -1,0 +1,154 @@
+{
+  "answer": "答案:**福島邦彦(Kunihiko Fukushima)**。\n\n他在 1980 年发表了 \"Neocognitron: a self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position\",刊于 *Biological Cybernetics* 36(4):193-202。\n\n依据的网址(共搜了 1 次):\n- https://pubmed.ncbi.nlm.nih.gov/7326278/(引用了该 1980 年论文及其作者)\n- https://pubmed.ncbi.nlm.nih.gov/23098752/(福島邦彦 2013 年的论文,写明 \"neocognitron is a neural network model proposed by Fukushima (1980)\")\n\n搜索结果只给出姓和名的拉丁字母拼写 \"Kunihiko Fukushima\"。\"福島邦彦\"这个汉字写法是我按已有知识补的,搜索结果没有直接证实。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.209,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9662,
+      "cacheReadInputTokens": 5850,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.043131,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 389,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-021",
+  "raw": "jsonl/B/custom-021.jsonl",
+  "reported_cost_usd": 0.043131,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6951,
+      "query": "Neocognitron 1980 Kunihiko Fukushima",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "On the surface, XOR appears to be a very simple problem, however, Minksy and Papert (1969) showed that this was a big problem fo...",
+          "url": "https://indico.ijclab.in2p3.fr/event/11551/contributions/38027/attachments/25802/38033/02_Marc_DURANTON_Histoire_IA_250604.pdf#8#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A simplified version of Kunihiko Fukushima's Neocognitron - PubMed - doi: 10.1007/BF00335154.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7326278/#1"
+        },
+        {
+          "date": "2026-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A simplified version of Kunihiko Fukushima's neocognitron | Biological Cybernetics - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/10.1007/BF00335154#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NSTL国家科技图书文献中心 - 【期刊论文】Artificial vision by multi-layered neural networks: Neocognitron and its advances SCOPUS Scopus数据库 SCIE Web of Science核心 N...",
+          "url": "https://hz.nstl.gov.cn/paper_detail.html?doi=10.1016/j.neunet.2012.09.016#1"
+        },
+        {
+          "date": "2012-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Artificial vision by multi-layered neural networks: neocognitron and its advances - PubMed - doi: 10.1016/j",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23098752/#1"
+        },
+        {
+          "date": "2001-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pattern recognition with hierarchical networks - Fukushima, K",
+          "url": "https://patents.google.com:443/patent/DE60130742T2/en#2"
+        },
+        {
+          "date": "2003-03-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Classification of patterns using a self-organizing neural network - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/0893608088900263#1"
+        },
+        {
+          "date": "2003-05-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/0031320382900243?via%3Dihub"
+        },
+        {
+          "date": "2022-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "深層畳み込み神経回路ネオコグニトロン - 特集 認知科学から見た深層学習の地平線",
+          "url": "https://www.jstage.jst.go.jp/article/jcss/29/1/29_2021.061/_article/-char/ja/#1"
+        },
+        {
+          "date": "2007-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recent Studies Around the Neocognitron | Neural Information Processing - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/10.1007/978-3-540-69158-7_109#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9662,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9662,
+    "cache_read_input_tokens": 5850,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7820,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7820,
+        "cache_read_input_tokens": 3846,
+        "input_tokens": 2,
+        "output_tokens": 313,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 389,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

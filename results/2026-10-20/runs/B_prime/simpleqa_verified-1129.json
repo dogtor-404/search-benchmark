@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：115.5 米**，这是维基百科和 Wikidata 给出的数字。\n\n不同来源说法不一：\n\n- **115.5 m**：土耳其语维基百科（Yavuz 级护卫舰）、维基共享资源 TCG Yavuz (F-240) 分类页（数据来自 Wikidata）、shipshub.com。shipshub 还写了水线长 110.5 m。\n- **111 m（全长）**：TRB 收录的 1995 年设计论文《THE MEKO 200 T FRIGATE TCG YAVUZ》和 GlobalSecurity 的规格表。这两处的水线长分别是 102.2 m 和 102 m。\n- **110.5 m**：devrimyaylali.com 和 shipspotting.com。\n\n这道题很可能以维基百科为准，所以答 115.5 m。如果按造船方的设计资料算全长，是 111 m。\n\n依据网址：\n- https://tr.wikipedia.org/wiki/Yavuz_s%C4%B1n%C4%B1f%C4%B1_f%C4%B1rkateyn?oldid=17907140\n- https://commons.wikimedia.org/wiki/Category:TCG_Yavuz_(F-240)\n- https://shipshub.com/ships/113-1.html\n- https://trid.trb.org/view/431765 （111 m 的出处）\n\n只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 15.478,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7078,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0715302,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 686,
+      "provider": "firstParty",
+      "thinkingTokens": 140,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-1129",
+  "raw": "jsonl/B_prime/simpleqa_verified-1129.jsonl",
+  "reported_cost_usd": 0.0715302,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6061,
+      "query": "TCG Yavuz F240 frigate length meters",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Turgutreis (F-241) NATO WARSHIP current location right now",
+          "url": "https://www.marinetraffic.org/vessels/TCG-Turgutreis-(F-241)/1/271035003/current-position"
+        },
+        {
+          "date": "2008-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz sınıfı fırkateyn - Vikipedi",
+          "url": "https://tr.wikipedia.org/wiki/Yavuz_s%C4%B1n%C4%B1f%C4%B1_f%C4%B1rkateyn?oldid=17907140"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Media in category \"TCG Yavuz (F-240)\"",
+          "url": "https://commons.wikimedia.org/wiki/Category:TCG_Yavuz_(F-240)?action=render"
+        },
+        {
+          "date": "1995-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE MEKO 200 T FRIGATE TCG YAVUZ",
+          "url": "https://trid.trb.org/view/431765"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz-class Frigates",
+          "url": "https://www.globalsecurity.org.globalsecurity.org/military/world/europe/tcg-yavuz-specs.htm"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Military",
+          "url": "https://premium.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": "2013-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "YAVUZ CLASS (MEKO 200 Track I)",
+          "url": "https://devrimyaylali.com/yavuz-class-meko-200-track-i/"
+        },
+        {
+          "date": "2011-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Military - Join the GlobalSecurity",
+          "url": "https://www.globalsecurity.org/military/world/europe/yavuz-specs.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Frigate TCG Yavuz (F240)",
+          "url": "https://shipshub.com/ships/113-1.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Yavuz F240 - IMO 4658051 - ShipSpotting.com",
+          "url": "https://www.shipspotting.com/photos/1354303"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7078,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7078,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5235,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5235,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 614,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 686,
+    "output_tokens_details": {
+      "thinking_tokens": 140
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

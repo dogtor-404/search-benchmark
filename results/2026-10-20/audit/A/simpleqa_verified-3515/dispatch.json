@@ -1,0 +1,9 @@
+{
+  "finished_at": "2026-10-20T12:34:21.200683+00:00",
+  "group": "A",
+  "question_id": "simpleqa_verified-3515",
+  "run_sha256": "dcbcbf83b048454c3ba403b1ce536d8656c1a87853c914964495cd6496e36297",
+  "started_at": "2026-10-20T12:34:06.089698+00:00",
+  "status": "ok",
+  "workers": 4
+}

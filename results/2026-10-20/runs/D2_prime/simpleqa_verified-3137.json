@@ -1,0 +1,142 @@
+{
+  "answer": "**Theology**（神学）。\n\n依据网址：https://www.baptistholocauststudies.org/about （\"In September 2016, he was awarded a PhD degree in Theology ... from Vrije University (Free University) Amsterdam, in association with the International Baptist Study Centre.\"）\n\n补充佐证：其博士论文发表于 Vrije Universiteit Amsterdam 的 Faculty of Theology（神学院）：http://archive.org/details/phd-spitzer-lee-2016/",
+  "budget_denials": [],
+  "elapsed_seconds": 13.971,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.030262400000000002,
+      "inputTokens": 6094,
+      "maxOutputTokens": 32000,
+      "outputTokens": 270,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-3137",
+  "raw": "jsonl/D2_prime/simpleqa_verified-3137.jsonl",
+  "reported_cost_usd": 0.030262400000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7728,
+      "query": "Rev. Dr. Lee B. Spitzer PhD Vrije Universiteit Amsterdam International Baptist Theological Study Centre field",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dr Lee Spitzer",
+          "url": "https://www.ibts.eu/about/our-people/dr-lee-spitzer"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sympathy, Solidarity, and Silence",
+          "url": "https://books.google.com.sg/books/about/Sympathy_Solidarity_and_Silence.html?id=R6I6zwEACAAJ&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Author: LEE B SPITZER",
+          "url": "https://www.judsonpress.com/Author/Default.aspx?AuthorId=151822"
+        },
+        {
+          "date": "2020-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lee Spitzer - \"The Hand of Sincere Friendship\" : Lee Spitzer : Free Download, Borrow, and Streaming : Internet Archive",
+          "url": "http://archive.org/details/phd-spitzer-lee-2016/PhD-Spitzer-Lee-2016?q=%22nathaniel+boswell%22"
+        },
+        {
+          "date": "2022-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sympathy, Solidarity, and Silence: Three European Baptist Responses to the Holocause - Sympathy, Solidarity, and Silence: Three European Baptist Responses to the Holocause",
+          "url": "https://www.books.com.tw/products/F019117800?loc=P_0003_067#1"
+        },
+        {
+          "date": "2022-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sympathy, Solidarity, and Silence: Three European Baptist Responses to the Holocause a book by Lee Spitzer",
+          "url": "https://bookshop.org/p/books/sympathy-solidarity-and-silence-three-european-baptist-responses-to-the-holocause-lee-spitzer/18605403?ean=9780817018351"
+        },
+        {
+          "date": "2021-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Journal of European Baptist Studies 21:1 (2021) : International Baptist Theological Study Centre Amsterdam : Free Download, Borrow, and Streaming : Internet Archive",
+          "url": "https://archive.org/details/jebs-21-1-2021/JEBS%2021-1%20FINAL%20VERSION?q=%22ryan+andrew%22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "由 SPITZER, LEE B. 所著的作品",
+          "url": "https://openurl.ebsco.com/results?sid=ebsco:ocu:record&bquery=AU+SPITZER,+LEE+B.&link_origin=none&searchDescription=SPITZER,+LEE+B."
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "由 Spitzer, Lee B. 所著的作品",
+          "url": "https://openurl.ebsco.com/results?sid=ebsco:ocu:record&bquery=AU+Spitzer,+Lee+B.&link_origin=none&searchDescription=Spitzer,+Lee+B."
+        },
+        {
+          "date": "2015-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dr. Spitzer — Baptist Holocaust Studies",
+          "url": "https://www.baptistholocauststudies.org/about"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6094,
+    "iterations": [],
+    "output_tokens": 270,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

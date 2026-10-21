@@ -1,0 +1,300 @@
+{
+  "answer": "**302,971 人**（匹兹堡市，2020 年美国人口普查）。\n\n推理过程如下：\n- 马修·麦康纳（Matthew McConaughey）因《达拉斯买家俱乐部》获得 **2014 年奥斯卡最佳男主角**。\n- 五年前的超级碗是 **2009 年的第 43 届超级碗（Super Bowl XLIII）**，获胜球队是**匹兹堡钢人队（Pittsburgh Steelers）**。\n- 队名中的城市是**匹兹堡**，它的 2020 年人口为 **302,971**。\n\n依据：\n- 奥斯卡获奖年份：https://apnews.com/movies-general-news-6d545635ab014926a25c9605bfef8879\n- 2009 年超级碗冠军是匹兹堡钢人队：https://www.nfl.com/photos/super-bowl-xliii-09000d5d80e81fc6\n- 2020 年匹兹堡人口：https://www.census.gov/quickfacts/fact/map/alleghenycountypennsylvania,pittsburghcitypennsylvania,PA,US/",
+  "budget_denials": [],
+  "elapsed_seconds": 8.77,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0605296,
+      "inputTokens": 10488,
+      "maxOutputTokens": 32000,
+      "outputTokens": 902,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-520",
+  "raw": "jsonl/D2/frames-520.jsonl",
+  "reported_cost_usd": 0.0605296,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.752,
+      "query": "Matthew McConaughey won Best Actor Academy Awards year Dallas Buyers Club",
+      "results": [
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McConaughey wins Oscar for best actor",
+          "url": "https://apnews.com/movies-general-news-6d545635ab014926a25c9605bfef8879"
+        },
+        {
+          "date": "2025-11-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey Knows ‘True Detective’ Helped Him Win the Oscar for ‘Dallas Buyers Club’ - IMDb - Matthew McConaughey Knows ‘True Detective’ Helped Him Win the Oscar for ‘Dallas Buyers Club’",
+          "url": "https://s.media-imdb.com/news/ni63067640/#1"
+        },
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey: From rom-com star to Oscar winner - ByEmma Saunders",
+          "url": "https://www.bbc.com/news/entertainment-arts-26415889#1"
+        },
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey aktor terbaik Oscar 2014",
+          "url": "https://www.antaranews.com/berita/421919/matthew-mcconaughey-aktor-terbaik-oscar-2014"
+        },
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey Wins Best Actor Oscar for 'Dallas Buyers Club'",
+          "url": "https://www.hollywood.com/movies/matthew-mcconaughey-wins-academy-award-for-best-actor-56806287-60226912"
+        },
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey WINS Best Actor at Oscars 2014!",
+          "url": "https://www.justjared.com/2014/03/02/matthew-mcconaughey-wins-best-actor-at-oscars-2014/comment-page-2/"
+        },
+        {
+          "date": "2026-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Oscars 2014: Matthew McConaughey wins Best Actor for Dallas Buyers Club - IMDb - Oscars 2014: Matthew McConaughey wins Best Actor for Dallas Buyers Club",
+          "url": "https://www.imdb.com/news/ni56877604/#1"
+        },
+        {
+          "date": "2014-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matthew McConaughey wins best actor Oscar for Dallas Buyers Club",
+          "url": "https://www.theguardian.com/film/2014/mar/03/matthew-mcconaughey-oscars-best-actor-dallas-buyers-club"
+        },
+        {
+          "date": "2014-01-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Oscars: Best actor winner and nominees - Oscars: Best actor winner and nominees",
+          "url": "https://www.bbc.co.uk/news/entertainment-arts-25672492#1"
+        },
+        {
+          "date": "2023-06-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Did The McConaissance Ruin The 2014 Best Actor Oscar Race? An Investigation - SlashFilm - Did The McConaissance Ruin The 2014 Best Actor Oscar Race? An Investigation",
+          "url": "https://www.slashfilm.com/1299092/did-mcconaissance-ruin-2014-best-actor-oscar-race-investigation/?utm_source=zergnet.com&utm_medium=referral&utm_campaign=zergnet_7839921#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6707,
+      "query": "Super Bowl 2009 winner Pittsburgh Steelers XLIII",
+      "results": [
+        {
+          "date": "2009-02-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Pages H1263-H1267]",
+          "url": "https://www.congress.gov/111/crec/2009/02/12/modified/CREC-2009-02-12-pt1-PgH1263-3.htm#1"
+        },
+        {
+          "date": "2009-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Steelers rally to beat Cardinals 27-23 - SPORTS> North America",
+          "url": "http://www.chinadaily.com.cn/sports/2009-02/02/content_7439583.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Congressional Bills 111th Congress]",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-111hres110ih/html/BILLS-111hres110ih.htm#1"
+        },
+        {
+          "date": "2009-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Graham's Cardinals defeated in Super Bowl thriller - Graham's Cardinals defeated in Super Bowl thriller",
+          "url": "https://www.abc.net.au/news/2009-02-02/grahams-cardinals-defeated-in-super-bowl-thriller/280682#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Legislation Details",
+          "url": "https://alleghenycounty.legistar.com/LegislationDetail.aspx?ID=1701359&GUID=856FFFF2-AFE4-4E5F-AD43-171AE1CE056B&Options=&Search="
+        },
+        {
+          "date": "2009-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Steelers edge Cardinals for sixth Super Bowl win - SPORTS> World Events",
+          "url": "https://www.chinadaily.com.cn/sports/2009-02/02/content_7438731.htm#1"
+        },
+        {
+          "date": "2009-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Super Bowl XLIII",
+          "url": "https://www.nfl.com/photos/super-bowl-xliii-09000d5d80e81fc6#1213b440-9858-4f20-a5f7-b28ee8e60a4c"
+        },
+        {
+          "date": "2009-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Super Bowl XLIII as it happened - Super Bowl XLIII as it happened",
+          "url": "http://news.bbc.co.uk/sol/ukfs_sport/mobile/newsid_7860000/newsid_7861200/7861265.stm#1"
+        },
+        {
+          "date": "2009-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pittsburgh Steelers win Superbowl XLIII - Pittsburgh Steelers win Superbowl XLIII",
+          "url": "https://www.rte.ie/sport/2009/0202/244447-superbowl/#1"
+        },
+        {
+          "date": "2009-02-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Together again, Cardinals and Steelers fight to finish in Super Bowl XLIII",
+          "url": "https://amp.nfl.com/news/together-again-cardinals-and-steelers-fight-to-finish-in-super--09000d5d80e93be7"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.621,
+      "query": "Pittsburgh Pennsylvania 2020 census population",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "U.S. Census Bureau QuickFacts: Allegheny County, Pennsylvania; Pittsburgh city, Pennsylvania; Pennsylvania; United States - QuickFacts",
+          "url": "https://www.census.gov/quickfacts/fact/map/alleghenycountypennsylvania,pittsburghcitypennsylvania,PA,US/#qf-headnote-b#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "U.S. Census Bureau QuickFacts: Pennsylvania; Harrisburg city, Pennsylvania; Pittsburgh city, Pennsylvania - QuickFacts",
+          "url": "https://www.census.gov/quickfacts/fact/table/PA,harrisburgcitypennsylvania,pittsburghcitypennsylvania/PST045223#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "U.S. Census Bureau QuickFacts: United States; Pittsburgh city, Pennsylvania - QuickFacts",
+          "url": "https://www.census.gov/quickfacts/fact/table/US,pittsburghcitypennsylvania/PST045223#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pittsburgh, Pennsylvania",
+          "url": "https://fortlewisarchive2.marmot.org/Archive/place:671/Place"
+        },
+        {
+          "date": "2021-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2020 Census: Pittsburgh’s Black population dropped 13%",
+          "url": "https://newpittsburghcourier.com/2021/08/14/2020-census-pittsburgh-stays-above-300000-people-and-allegheny-county-grows/"
+        },
+        {
+          "date": "2021-08-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Allegheny, Butler, Washington counties show population growth in 2020 Census",
+          "url": "https://naviga.triblive.com/news/pennsylvania/allegheny-butler-washington-counties-show-population-growth-in-2020-census/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pittsburgh, Pennsylvania",
+          "url": "https://ballotpedia.org/Pittsburgh%2C_Pennsylvania"
+        },
+        {
+          "date": "2002-12-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pittsburgh – Wikipedia - Pittsburgh",
+          "url": "https://de.wikipedia.org/wiki/Pittsburgh#1"
+        },
+        {
+          "date": "2025-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Aprender datos sobre Pittsburgh para niños - Pittsburgh para niños",
+          "url": "https://ninos.kiddle.co/Pittsburgh#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Table 1. 2020 Population spanning error, 50 largest US metros. - Table 1. 2020 Population spanning error, 50 largest US metros.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11957320/table/pone.0316750.t001/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10488,
+    "iterations": [],
+    "output_tokens": 902,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**1983 年 1 月 1 日**。这一天 ARPANET 从 NCP 整体切换到 TCP/IP,通常称为\"flag day\"。\n\n- 切换计划由 Jon Postel 在 1981 年的 RFC 801 中提出。\n- 1982 年底,骨干网已有几天对大部分主机关闭了 NCP,作为切换前的演练。\n- 少数站点经骨干网运营方特批,到 1983 年年中仍在用 NCP。\n- 当时约有 400 台主机需要切换。\n- 1983 年 10 月,ARPANET 又拆分出 MILNET。\n\n这些来源多是二手资料(维基百科、新闻报道、邮件列表)。如果需要严谨引用,可以去查 RFC 801 原文。\n\nSources:\n- [Network Control Protocol (ARPANET) – Wikipedia](https://en.wikipedia.org/wiki/Network_Control_Protocol_(ARPANET))\n- [Flag day (computing) – Wikipedia](https://en.wikipedia.org/wiki/Flag_day_(computing))\n- [30 Years of TCP/IP Dominance Began with a Deadline – InternetNews](https://internetnews.com/news/30-years-of-tcp-ip-dominance-began-with-a-deadline)\n- [Memories of Flag Day? – ISOC Internet-history 邮件列表](https://elists.isoc.org/pipermail/internet-history/2023-August/008772.html)\n- [Celebrating the Birthday of the Internet – Telepolis](https://telepolis.de/-3428133)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.855,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120056,
+      "inputTokens": 15861,
+      "maxOutputTokens": 128000,
+      "outputTokens": 839,
+      "provider": "firstParty",
+      "thinkingTokens": 67,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3401,
+      "cacheReadInputTokens": 6753,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0232973,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 901,
+      "provider": "firstParty",
+      "thinkingTokens": 253,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-023",
+  "raw": "jsonl/A/custom-023.jsonl",
+  "reported_cost_usd": 0.0353029,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ARPANET switch from NCP to TCP/IP January 1, 1983 flag day",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013TzHm1onkQgNDWUjuV3ZKj"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3401,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3401,
+    "cache_read_input_tokens": 6753,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1550,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1550,
+        "cache_read_input_tokens": 4302,
+        "input_tokens": 2,
+        "output_tokens": 801,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 901,
+    "output_tokens_details": {
+      "thinking_tokens": 253
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

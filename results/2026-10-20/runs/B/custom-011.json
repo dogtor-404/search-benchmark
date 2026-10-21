@@ -1,0 +1,154 @@
+{
+  "answer": "**美国专利号 US 3,600,186**,标题 “Low calorie fat-containing food compositions”(低热量含脂肪食品组合物)。发明人是 Fred H. Mattson 和 Robert A. Volpenhein,专利权人是宝洁公司(Procter & Gamble)。优先权日(申请日)为 1968 年 4 月 23 日,授权日为 1971 年 8 月 17 日。\n\n依据的网址:\n- https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A\n- https://trade.patenthub.cn/zhuanlifenlei/list-1857-41.html(同样列出申请日 1968-04-23 和公告号 US3600186A)\n- https://patentimages.storage.googleapis.com/e0/ee/de/94c32d8d83aae3/US5093142.pdf(后来的专利引用了 “U.S. Pat. No. 3,600,186 to Mattson and Volpenhein”)\n\n只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.01,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13890,
+      "cacheReadInputTokens": 5861,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.060414100000000005,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 426,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-011",
+  "raw": "jsonl/B/custom-011.jsonl",
+  "reported_cost_usd": 0.060414100000000005,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6472,
+      "query": "Mattson Volpenhein 1968 patent low calorie fat US patent number",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat-containing food compositions",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "专利检索_··其他脂肪酸酯例如磷脂专利检索_··其他脂肪酸酯例如磷脂专利检索查询_··其他脂肪酸酯例如磷脂专利检索查询分析平台 - 序号 | 专利名 | 申请号 | 申请日 | 公开（公告）号 | 公开（公告）日 | 发明人",
+          "url": "https://trade.patenthub.cn/zhuanlifenlei/list-1857-41.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The polyol fatty acid polyesters suitable for use as the low- calorie fatty materials in the simulated cheese analogs described ...",
+          "url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/19901227/patents/EP0404216NWA1/document.pdf#6#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent [19] [11] Patent Number: 5,043,179",
+          "url": "https://patentimages.storage.googleapis.com/6f/d2/69/7d95e80448cf4b/US5043179.pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Many classes of low-calorie fatty materials are suitable for use in the present invention",
+          "url": "https://patentimages.storage.googleapis.com/57/41/d6/f83318382e63a2/US5061504.pdf#6#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat mimetics comprising carboxy/carboxylate esters - Nabisco Brands, Inc. - Several other patents disclose edible compounds which are not digested or absorbed to the same extent as natural triglycerides",
+          "url": "https://FreePatentsOnline.com/4830787.html#2"
+        },
+        {
+          "date": "2015-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra | Baking Ingredients | BAKERpedia - Olestra",
+          "url": "http://bakerpedia.com/ingredients/olestra/#1"
+        },
+        {
+          "date": "1992-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Compositions for treating hypercholesterolemia - U",
+          "url": "https://patents.google.com/patent/USRE33996#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra",
+          "url": "https://dev.bakerpedia.com/ingredients/olestra/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent [19] Klemann et al",
+          "url": "https://patentimages.storage.googleapis.com/e0/ee/de/94c32d8d83aae3/US5093142.pdf#5#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13890,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13890,
+    "cache_read_input_tokens": 5861,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12037,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12037,
+        "cache_read_input_tokens": 3857,
+        "input_tokens": 2,
+        "output_tokens": 345,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 426,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

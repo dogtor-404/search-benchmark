@@ -1,0 +1,9 @@
+{
+  "finished_at": "2026-10-20T12:58:49.406052+00:00",
+  "group": "A_prime",
+  "question_id": "frames-564",
+  "run_sha256": "14d4dcf3c9d0bb527994029a0cb485f79478429c93b1efb4ec5dafaf3b3d4b29",
+  "started_at": "2026-10-20T12:58:32.248718+00:00",
+  "status": "ok",
+  "workers": 4
+}

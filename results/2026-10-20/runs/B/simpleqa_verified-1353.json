@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:** 罗马的坎切莱里亚宫(Palazzo della Cancelleria,也叫教廷事务宫)。它是罗马第一座从地基起按文艺复兴新风格建造的宫殿。\n\n据搜索结果,它建于 1489–1513 年,是为拉斐尔·里亚里奥(Raffaele Riario)枢机建造的。设计者有争议:有说是巴乔·蓬泰利(Baccio Pontelli)和老安东尼奥·达·桑加洛(Antonio da Sangallo the Elder),也有说布拉曼特(Bramante)等人参与。\n\n依据的网址:\n- https://encylclopedia.thefreedictionary.com/Palazzo+della+Cancelleria(原文是 \"the first palazzo in Rome to be erected from the ground up in the new Renaissance style\")\n- https://www.britannica.com/place/Cancelleria(称它是罗马第一座文艺复兴盛期建筑)\n- https://www.wga.hu/html_m/zzzarchi/16c/3/2rome05.html(称它是罗马最早的文艺复兴宫殿)",
+  "budget_denials": [],
+  "elapsed_seconds": 15.709,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10326,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0465371,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 464,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-1353",
+  "raw": "jsonl/B/simpleqa_verified-1353.jsonl",
+  "reported_cost_usd": 0.0465371,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7315,
+      "query": "first palace in Rome built from the ground up in Renaissance style",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Palazzo della Cancelleria",
+          "url": "https://encylclopedia.thefreedictionary.com/Palazzo+della+Cancelleria"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Architektur in Renaissance und Barock",
+          "url": "https://www.projekte.kunstgeschichte.uni-muenchen.de/arch_complete_vers/40-ren-barock-architektur/studieneinheiten/lektion_5/V_2_6.htm"
+        },
+        {
+          "date": "2023-07-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Paleis van de Kanselarij - Wikipedia - Paleis van de Kanselarij",
+          "url": "https://nl.wikipedia.org/wiki/Palazzo_della_Cancellaria#1"
+        },
+        {
+          "date": "2008-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Text-Book of the History of Architecture Seventh Edition, revised - PALACES",
+          "url": "https://www.gutenberg.org/cache/epub/26319/arch2.html#3"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cancelleria | palace, Rome, Italy | Britannica",
+          "url": "https://www.britannica.com/place/Cancelleria"
+        },
+        {
+          "date": "2012-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Historisch wertvoll: Römische Nächte – ein Bett im Museum - WELT - Historisch wertvoll",
+          "url": "https://www.welt.de/reise/nah/article109085825/Historisch-wertvoll-Roemische-Naechte-ein-Bett-im-Museum.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Interior view",
+          "url": "https://www.wga.hu/html_m/zzzarchi/16c/3/2rome05.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search results for: Palazzo della Cancelleria - Wikiwand / articles",
+          "url": "https://www.wikiwand.com/en/articles?q=Palazzo+della+Cancelleria"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Renaissance Architecture in Rome - Concept Version 10",
+          "url": "http://www.library.snls.org.sz/boundless/boundless/art-history/textbooks/boundless-art-history-textbook/the-italian-renaissance-23/renaissance-architecture-152/renaissance-architecture-in-rome-615-8041/index.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Der Palazzo Farnese in Rom - Der Palazzo Farnese in Rom: Antonio da Sangallo d.J. / Michelangelo",
+          "url": "https://books.google.com.sg/books/about/Der_Palazzo_Farnese_in_Rom.html?id=2DvlUDO9d-cC&redir_esc=y#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10326,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10326,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8483,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8483,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 389,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 464,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

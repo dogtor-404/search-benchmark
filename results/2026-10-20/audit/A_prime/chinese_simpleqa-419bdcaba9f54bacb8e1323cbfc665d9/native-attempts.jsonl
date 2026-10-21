@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "给小桃的信 电影 导演", "results": [], "status": "allowed", "tool_use_id": "toolu_01QUyrRG5BxbJakK6pGzHYqJ"}
+{"billable": false, "call": 2, "query": "A Letter to Momo ももへの手紙 director Okiura", "results": [], "status": "allowed", "tool_use_id": "toolu_01V7abKG4jdq3YxuyABd6fgJ"}

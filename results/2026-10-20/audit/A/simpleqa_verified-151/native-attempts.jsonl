@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Harees dish Zanzibar called", "results": [], "status": "allowed", "tool_use_id": "toolu_016AWWrxB3UB53N4nnQvXcFq"}
+{"billable": false, "call": 2, "query": "Harees Zanzibar name Wikipedia \"Zanzibar\" harees known as", "results": [], "status": "allowed", "tool_use_id": "toolu_012oPzWMnzu3DhkAGbmYLyBs"}
+{"billable": false, "call": 3, "query": "Zanzibar \"Boko Boko\" harees", "results": [], "status": "allowed", "tool_use_id": "toolu_01NMFPTdHyW3szhFbTZQa1a3"}

@@ -1,0 +1,72 @@
+{
+  "answer": "1968 年 5 月 6 日。阿姆斯特朗在美国得克萨斯州休斯敦附近的艾灵顿空军基地(Ellington)驾驶登月研究飞行器 LLRV(实际是后继的 LLTV,即登月训练飞行器)训练时失控,他在飞行器坠毁前几秒弹射逃生,只受了轻微伤(咬到舌头)。\n\n注:严格说,出事的那架是 LLTV(Lunar Landing Training Vehicle),不是最早的 LLRV。我对日期 1968 年 5 月 6 日比较有把握。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.932,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1780,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0093808,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 210,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-020",
+  "raw": "jsonl/0/custom-020.jsonl",
+  "reported_cost_usd": 0.0093808,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1780,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1780,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1780,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1780,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 210,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 210,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

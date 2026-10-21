@@ -1,0 +1,72 @@
+{
+  "answer": "通常用**分贝（dB）**表示。\n\n例如均匀量化的正弦信号，每增加 1 位量化位数，SQNR 约提高 6.02 dB（SQNR ≈ 6.02N + 1.76 dB）。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.216,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1764,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0163536,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 96,
+      "provider": "firstParty",
+      "thinkingTokens": 13,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/0_prime/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.0163536,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1764,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1764,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1764,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1764,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 96,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 96,
+    "output_tokens_details": {
+      "thinking_tokens": 13
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

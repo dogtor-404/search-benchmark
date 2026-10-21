@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：美国专利 US 3,600,186（US3600186A）。** 专利名是“Low calorie fat-containing food compositions”，发明人是 Fred H. Mattson 和 Robert A. Volpenhein，专利权人是宝洁（Procter & Gamble）。1968 年 4 月 23 日申请，1971 年 8 月 17 日授权。只搜了 1 次。\n\n依据：\n- PubChem 的专利页列出了发明人、申请日和授权日：https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A\n- Google Patents 上有后来的专利引用它，写的是“US3600186A | 1968-04-23 | 1971-08-17 | Procter & Gamble | Low calorie fat-containing food compositions”：https://patents.google.com/patent/US6544578\n- Justia 上的引用记录写的是“3600186 | August 1971 | Mattson”：https://patents.justia.com/patent/5395640",
+  "budget_denials": [],
+  "elapsed_seconds": 11.036,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 11299,
+      "cacheReadInputTokens": 5857,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.10127939999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 485,
+      "provider": "firstParty",
+      "thinkingTokens": 66,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-011",
+  "raw": "jsonl/B_prime/custom-011.jsonl",
+  "reported_cost_usd": 0.10127939999999999,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6901,
+      "query": "Mattson Volpenhein 1968 patent low calorie fat US 3600186",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat-containing food compositions",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A"
+        },
+        {
+          "date": "1990-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie food - US3600186A (en) *  | 1968-04-23 | 1971-08-17 | Procter & Gamble | Low calorie fat-containing food compositions",
+          "url": "https://patents.google.com/patent/DK0465689T3/en#2"
+        },
+        {
+          "date": "1997-11-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Texturizing composition, its use, fat blend and food product - US3600186A (en)  | 1968-04-23 | 1971-08-17 | Procter & Gamble | Low calorie fat-containing food compositions",
+          "url": "https://patents.google.com/patent/SK286008B6/en#13"
+        },
+        {
+          "date": "2001-06-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Freezable low-calorie spoonable dressings and method for their production - US3600186A (en)  | 1968-04-23 | 1971-08-17 | Procter & Gamble  | Low calorie fat-containing food compositions",
+          "url": "https://patents.google.com/patent/US6544578#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "专利检索_··其他脂肪酸酯例如磷脂专利检索_··其他脂肪酸酯例如磷脂专利检索查询_··其他脂肪酸酯例如磷脂专利检索查询分析平台 - 序号 | 专利名 | 申请号 | 申请日 | 公开（公告）号 | 公开（公告）日 | 发明人",
+          "url": "https://trade.patenthub.cn/zhuanlifenlei/list-1857-41.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat mimetics comprising carboxy/carboxylate esters - Nabisco Brands, Inc. - Several other patents disclose edible compounds which are not digested or absorbed to the same extent as natural triglycerides",
+          "url": "https://FreePatentsOnline.com/4830787.html#2"
+        },
+        {
+          "date": "1992-07-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "US Patent for Method of preparing reduced fat foods Patent (Patent # 5,395,640 issued March 7, 1995) - 3582359  | June 1971  | Horn",
+          "url": "https://patents.justia.com/patent/5395640#6"
+        },
+        {
+          "date": "2007-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Scientific Considerations of Olestra as a Fat Substitute",
+          "url": "https://digital.library.unt.edu/ark:/67531/metadc2240/m1/14/"
+        },
+        {
+          "date": "1996-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat substitute - Low calorie fat substitute",
+          "url": "https://patents.justia.com/patent/5683738#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent [19] [11] Patent Number: 5,043,179",
+          "url": "https://patentimages.storage.googleapis.com/6f/d2/69/7d95e80448cf4b/US5043179.pdf#5#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11299,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11299,
+    "cache_read_input_tokens": 5857,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9450,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9450,
+        "cache_read_input_tokens": 3853,
+        "input_tokens": 2,
+        "output_tokens": 336,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 485,
+    "output_tokens_details": {
+      "thinking_tokens": 66
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

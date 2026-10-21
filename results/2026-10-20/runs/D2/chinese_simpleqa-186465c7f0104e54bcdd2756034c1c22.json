@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：分贝（dB）。**\n\n信号-量化噪声比（SQNR）是信号功率与量化噪声功率之比。因为它是一个功率比，所以通常用对数单位**分贝（dB）**表示：\n\n$$\\mathrm{SQNR_{dB}} = 10\\log_{10}\\left(\\frac{P_{\\text{signal}}}{P_{\\text{quantization noise}}}\\right)$$\n\n对于满幅正弦波输入，它约等于 **6.02B + 1.76 dB**，其中 B 为量化位数。量化位数每增加 1 位，SQNR 约提高 6 dB。有时也会用 dBFS（相对满量程）来表示。\n\n**依据：**\n- ScienceDirect 主题页《Signal-to-Quantization Noise Ratio》：给出 SQNRdB = 10log10(Px/Pe)，https://www.sciencedirect.com/topics/engineering/signal-to-quantization-noise-ratio\n- Analog Devices《Quantization Noise: An Expanded Derivation of SNR = 6.02N + 1.76 dB》，其中以 dB 为单位：https://www.analog.com/media/en/training-seminars/tutorials/MT-229.pdf\n- 中文教材《数字信号处理实践方法》相关章节（archive.org 扫描件），写成 SQNR = 6.02B + 1.76 dB，并注明“用分贝表示”：https://archive.org/download/ittushu-7109/数字信号处理实践方法%20第二版_text.pdf",
+  "budget_denials": [],
+  "elapsed_seconds": 9.461,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 9472,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0693744,
+      "inputTokens": 12620,
+      "maxOutputTokens": 32000,
+      "outputTokens": 850,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/D2/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.0693744,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8087,
+      "query": "信号量化噪声比 SQNR 单位 分贝 dB",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td colspan=\"2\">ADCs Resolution</td><td colspan=\"2\">The value of one LSB</td></tr><tr><td>Number of Bits (N)</td><td>...",
+          "url": "https://www.etsi.org/deliver/etsi_gr/THz/001_099/004/01.01.01_60/gr_THz004v010101p.pdf#11#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "［0082］ \\(\\mathrm {SQNR}\\left[\\mathrm {dB}\\right]=4.76+6*\\mathrm {Enob-BackOff}+10\\log _{10}\\left(\\text {过采样}\\right)\\)  (1)",
+          "url": "https://patentimages.storage.googleapis.com/40/ca/07/e23763302363b5/CN119213698A.pdf#9#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Signal Coding - The signal-to-noise ratio, which is SNR = Ps/Pquant",
+          "url": "https://www.sciencedirect.com/topics/engineering/signal-coding#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "对于正弦波输入,平均信号功率是 \\(A^{2} / 2\\)",
+          "url": "https://archive.org/download/ittushu-7109/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%B3%95%20%E7%AC%AC%E4%BA%8C%E7%89%88_text.pdf#135#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "其中 \\(q\\) 是量化步长",
+          "url": "https://archive.org/download/ittushu-7109/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%B3%95%20%E7%AC%AC%E4%BA%8C%E7%89%88_text.pdf#135#11"
+        },
+        {
+          "date": "2001-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full-scale calibration for analog-to-digital conversion - に対して有効であることが分かっている",
+          "url": "https://patents.google.com/patent/JP2003536342A/en#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Signal-to-Quantization Noise Ratio - Chapters and Articles",
+          "url": "https://www.sciencedirect.com/topics/engineering/signal-to-quantization-noise-ratio#1"
+        },
+        {
+          "date": "1999-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Calibration method and system for analog / digital conversion - 【数４】 ここで、Ｑｂ［・］は、ｂビット量子化装置で、ｅ（ｋ）は平均値がゼロのホワ",
+          "url": "https://patents.google.com/patent/JP2002530988A/en#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "where \\(q_{s}\\) is the quantization step as given in (2.3)",
+          "url": "http://www.diva-portal.org/smash/get/diva2:768594/FULLTEXT01.pdf#14#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[\\begin{array}{cc}",
+          "url": "https://upcommons.upc.edu/bitstream/handle/2117/428932/final_memorial.pdf?isAllowed=y&sequence=4#10#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7045,
+      "query": "Wikipedia signal-to-quantization-noise ratio decibels SQNR formula 6.02N",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[b_1 2^{-1} + b_2 2^{-2} + \\ldots \\quad (i",
+          "url": "https://theses.hal.science/tel-01497771/file/BOUASSIDA_NASSIM_2016.pdf#11#7"
+        },
+        {
+          "date": "2005-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ruido de cuantificación - Wikipedia, la enciclopedia libre - g=10logk{\\displaystyle g=10\\log k\\,\\",
+          "url": "https://es.wikipedia.org/wiki/?title=Ruido_de_cuantificaci%C3%B3n&oldid=146816889#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "where \\(q_{s}\\) is the quantization step as given in (2.3)",
+          "url": "http://www.diva-portal.org/smash/get/diva2:768594/FULLTEXT01.pdf#14#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2.1.1 Uniform quantization: bits vs. SNR",
+          "url": "https://ftp.esat.kuleuven.be/pub/SISTA/karsmakers/bestanden/DSP2b_2p.pdf#24#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2/15/15",
+          "url": "https://www.cs.cmu.edu/~music/cmp/archives/icm-online/slides/03c-imperfect-sampling.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[\\begin{array}{cc}",
+          "url": "https://upcommons.upc.edu/bitstream/handle/2117/428932/final_memorial.pdf?isAllowed=y&sequence=4#10#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ANALOG DEVICES",
+          "url": "https://www.analog.com/media/en/training-seminars/tutorials/MT-229.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "quantization error resulting from the finite precision representation is bounded in magnitude to be less than 1/2 of the quantiz...",
+          "url": "https://www.collectionscanada.gc.ca/obj/s4/f2/dsk1/tape4/PQDD_0016/MQ57742.pdf#16#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Figure 2.3 Signal representation, quantized signal and quantization error [10] </center>",
+          "url": "https://e-archivo.uc3m.es/bitstreams/88373cc4-9c16-4b9f-94d9-1921d1a32b4c/download#10#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[SQNR_{dB}\\approx 6.02N+9.03r-7.78+10log_{10}(1-\\frac{1}{2^{N-1}}+\\frac{1}{2^{2N}})\\] (6)",
+          "url": "https://core.ac.uk/download/46808077.pdf#14#5"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 9472,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12620,
+    "iterations": [],
+    "output_tokens": 850,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

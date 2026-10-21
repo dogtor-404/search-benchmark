@@ -1,0 +1,142 @@
+{
+  "answer": "除**武装赛跑**（hoplitodromos）以外，Phanas of Pellene 还赢得：\n\n- **Stadion**（单程竞速跑，约 192 米）\n- **Diaulos**（双程竞速跑，约 384 米）\n\n他因此成为古代奥运会首位在同一届奥运会上赢得三项赛跑冠军的运动员。\n\n来源：\n- [Olympedia – Phanas](https://www.olympedia.org/athletes/2800664)\n- [Wikipedia – Phanas of Pellene](https://en.wikipedia.org/wiki/Phanas_of_Pellene)",
+  "budget_denials": [],
+  "elapsed_seconds": 5.152,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0305984,
+      "inputTokens": 5563,
+      "maxOutputTokens": 32000,
+      "outputTokens": 393,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-813",
+  "raw": "jsonl/D2/simpleqa_verified-813.jsonl",
+  "reported_cost_usd": 0.0305984,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6142,
+      "query": "Phanas of Pellene 512 BCE Olympics won three events",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia",
+          "url": "https://www.olympedia.org/athletes/2800664"
+        },
+        {
+          "date": "2013-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "An Athletic ἅπαξ λεγόμενον | The Journal of Hellenic Studies | Cambridge Core - Hostname: page-component-8678677fb7-fhr2g Total loading time: 0 Render date: 2026-09-30T07:12:52.443Z Has data issue: false hasC...",
+          "url": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/an-athletic/163FB0D76691C5DB304A7C482DE8E8C8#1"
+        },
+        {
+          "date": "2013-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "An Athletic ἅπαξ λεγόμενον | The Journal of Hellenic Studies | Cambridge Core - Our systems are now restored following recent technical disruption, and we’re working hard to catch up on publishing",
+          "url": "http://core-prod.cambridgecore.org/core/journals/journal-of-hellenic-studies/article/abs/an-athletic/163FB0D76691C5DB304A7C482DE8E8C8#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympic stadion victor 512 BCE",
+          "url": "https://topostext.org/people/17905"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia – Pellene in Ancient Athletics",
+          "url": "https://www.olympedia.org/countries/PEL/sports/AAT.5"
+        },
+        {
+          "date": "2015-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Phanas of Pellene - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phanas_of_Pellene"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia – 512 BCE Ancient Olympics Overview",
+          "url": "https://www.olympedia.org:443/editions/144"
+        },
+        {
+          "date": "2017-08-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Phanas de Pellène — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Phanas_de_Pell%C3%A8ne"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "45 Xenophon / with an Engl",
+          "url": "http://phedss.fsfv-pr.rs/issue/Vol-8-No-1-2021/v8n1sw32021.pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "欢迎使用 GRID2008 数据库平台",
+          "url": "https://elib.cnki.net/grid2008/detailchkd/XSearch.aspx?KeyWord=%e7%9f%ad%e8%b7%91"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5563,
+    "iterations": [],
+    "output_tokens": 393,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

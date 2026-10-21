@@ -1,0 +1,221 @@
+{
+  "answer": "答案是 **Phil Belanger**。\n\n2005 年 11 月，Boing Boing 上有人讨论「Wi‑Fi 是不是 Wireless Fidelity 的缩写」；Phil Belanger 随后作出回应，明确表示「Wi‑Fi 不代表任何东西，不是缩写，也没有含义」，Wi‑Fi 只是 Interbrand 起的品牌名。他是 WECA（Wireless Ethernet Compatibility Alliance，即 Wi‑Fi Alliance 的前身）的创始成员，并在 1999 年至 2001 年担任其首任主席。\n\n依据：\n- Wi‑Fi Alliance 官方回顾（称 Phil Belanger 为 \"WECA's first chairman\"）：https://www.wi-fi.org/beacon/jeff-abramowitz/wi-fi-alliance-then-and-now\n- 2005 年 11 月转载 Belanger 回应的文章（提到他是 WECA 早期主席）：https://wifinetnews.com/archives/2005/11/wi-fi_stands_fornothing_and_everything.html\n- Wi‑Fi Alliance 创始成员访谈（1999–2001 年任主席）：https://www.wi-fi.org/beacon/the-beacon/niche-mainstream-wi-fi-alliance-founders-share-the-story-behind-the-early-days-wi-fi",
+  "budget_denials": [],
+  "elapsed_seconds": 7.109,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.057570399999999994,
+      "inputTokens": 10931,
+      "maxOutputTokens": 32000,
+      "outputTokens": 668,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-005",
+  "raw": "jsonl/D2/custom-005.jsonl",
+  "reported_cost_usd": 0.057570399999999994,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6908,
+      "query": "2005 Boing Boing Wi-Fi not an acronym WECA chairman Phil Belanger",
+      "results": [
+        {
+          "date": "2026-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What does 'Wi-Fi' really mean?",
+          "url": "https://www.merriam-webster.com/wordplay/what-does-wi-fi-really-mean?pronunciation&lang=en_us&dir=b&file=bellwe01"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wireless Ethernet Compatibility Alliance (WECA)",
+          "url": "https://www.docketalarm.com/cases/PTAB/IPR2022-00141/Juniper_Networks_Inc/docs/11-04-2021-Petitioner/Exhibit-1020-20-Wireless_Ethernet_Compatibility_Alliance_Press_Release.pdf?download=true#1#1"
+        },
+        {
+          "date": "2005-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi Stands for...Nothing (and Everything)",
+          "url": "https://wifinetnews.com/archives/2005/11/wi-fi_stands_fornothing_and_everything.html"
+        },
+        {
+          "date": "2024-03-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Myth of \"Wireless Fidelity\": Why Wi-Fi Isn't What You Think",
+          "url": "https://www.fscables.com/other/blog/the-myth-of-wireless-fidelity--why-wi-fi-isn-t-what-you-think.html"
+        },
+        {
+          "date": "2023-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Orígenes de la jerga informática: Wi-Fi | Blog SEAS",
+          "url": "https://www.seas.es/blog/informatica/origenes-de-la-jerga-informatica-wi-fi/"
+        },
+        {
+          "date": "2025-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¿Qué significa wifi? No es lo que crees: este es el origen de la palabra - Iba también con un eslogan",
+          "url": "https://www.elmundo.es/como/2025/07/09/686e2a83e85ece8c498b45a9.html#1"
+        },
+        {
+          "date": "2018-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Why is 'Wi-Fi' called 'Wi-Fi'? — Steemit",
+          "url": "https://steemit.com/technology/@lastkidoph/why-is-wi-fi-called-wi-fi?sort=votes#comments"
+        },
+        {
+          "date": "2021-06-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bukan Wireless Fidelity, Ini Arti WiFi yang Sebenarnya - Bukan Wireless Fidelity, Ini Arti WiFi yang Sebenarnya",
+          "url": "https://lipsus.kompas.com/pameranotomotifnasional2024/read/2021/06/29/10313517/bukan-wireless-fidelity-ini-arti-wifi-yang-sebenarnya#1"
+        },
+        {
+          "date": "1997-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi - Wi-Fi",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_zh_all_maxi/Wi-Fi#1"
+        },
+        {
+          "date": "2025-04-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What does \"Wi-Fi\" really mean? | Doug Kite - 跳到主要内容",
+          "url": "https://www.linkedin.com/posts/doug-kite-8747922_what-does-wi-fi-really-mean-when-you-activity-7320762560775864320-pTKZ#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.662,
+      "query": "WECA first chairman Wi-Fi Alliance Phil Belanger",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi Alliance®, then and now",
+          "url": "https://www.wi-fi.org/zh-hant/beacon/jeff-abramowitz/wi-fi-alliance-then-and-now"
+        },
+        {
+          "date": "2024-09-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "From niche to mainstream: Wi-Fi Alliance® founders share the story behind the early days of Wi-Fi®",
+          "url": "https://www.wi-fi.org/zh-hant/beacon/the-beacon/niche-mainstream-wi-fi-alliance-founders-share-the-story-behind-the-early-days-wi"
+        },
+        {
+          "date": "2000-04-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WECA certifies wireless Lan cards",
+          "url": "https://www.computing.co.uk/news/1838550/weca-certifies-wireless-lan-cards"
+        },
+        {
+          "date": "1999-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Consortium to push compatible wireless Ethernet - EE Times",
+          "url": "https://www.eetimes.com/consortium-to-push-compatible-wireless-ethernet/?_ga"
+        },
+        {
+          "date": "2026-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What does 'Wi-Fi' really mean?",
+          "url": "https://www.merriam-webster.com/wordplay/what-does-wi-fi-really-mean?pronunciation&lang=en_us&dir=b&file=bellwe01"
+        },
+        {
+          "date": "2024-05-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "领英上的Wi-Fi Alliance: #iot - 跳到主要内容",
+          "url": "https://www.linkedin.com/posts/wi-fi-alliance_iot-activity-7196955086172942340-s0y7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wireless Ethernet Compatibility Alliance (WECA)",
+          "url": "https://www.docketalarm.com/cases/PTAB/IPR2022-00141/Juniper_Networks_Inc/docs/11-04-2021-Petitioner/Exhibit-1020-20-Wireless_Ethernet_Compatibility_Alliance_Press_Release.pdf?download=true#1#1"
+        },
+        {
+          "date": "1999-08-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "New group plans testing for wireless LANs - New group plans testing for wireless LANs",
+          "url": "https://us.cnn.com/TECH/computing/9908/23/langroup.idg/#top#1"
+        },
+        {
+          "date": "1999-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Computer Makers Join Wireless Consortium",
+          "url": "https://www.latimes.com:443/archives/la-xpm-1999-sep-16-fi-10637-story.html"
+        },
+        {
+          "date": "2013-10-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bob Dyer: Failure of Connect Akron was predictable, expert says",
+          "url": "https://www.beaconjournal.com/story/news/columns/2013/10/26/bob-dyer-failure-connect-akron/10703975007/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10931,
+    "iterations": [],
+    "output_tokens": 668,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

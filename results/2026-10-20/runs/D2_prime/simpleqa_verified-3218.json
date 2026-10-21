@@ -1,0 +1,142 @@
+{
+  "answer": "Ed Hug（Edward Ambrose Hug）在 1903 年 7 月 6 日为 **Brooklyn Superbas（布鲁克林超级巴斯队）** 完成 MLB 首秀。\n\n依据：Wikipedia（https://en.m.wikipedia.org/wiki/Ed_Hug ）和 Baseball-Reference（https://www.baseball-reference.com/players/h/huged01.shtml ）均记载其首秀球队为 Brooklyn Superbas。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.259,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.026998400000000002,
+      "inputTokens": 5528,
+      "maxOutputTokens": 32000,
+      "outputTokens": 220,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-3218",
+  "raw": "jsonl/D2_prime/simpleqa_verified-3218.jsonl",
+  "reported_cost_usd": 0.026998400000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6502,
+      "query": "Edward Ambrose Hug American Major League Baseball catcher MLB debut team",
+      "results": [
+        {
+          "date": "2008-02-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug - Wikipedia",
+          "url": "https://en.m.wikipedia.org/wiki/Ed_Hug"
+        },
+        {
+          "date": "2026-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug Stats, Height, Weight, Position, Rookie Status & More | Baseball-Reference.com - We're hiring a Senior Software Engineer and Software Engineer to join our team",
+          "url": "https://www.baseball-reference.com/players/h/huged01.shtml?utm_source=direct&utm_medium=linker&utm_campaign=Linker&__cf_chl_rt_tk=dZ1W.nQDoGeVlO.eDPuj.9FNWrRMDGBP4em.WgjoKl0-1781630817-1.0.1.1-1k82oveZCDKYOxLOsCFbETXdaokfO75.ZRTApKrZ0s4#1"
+        },
+        {
+          "date": "2026-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug Batting Stats | Baseball-Reference.com - Ed Hug",
+          "url": "https://www.baseball-reference.com/players/h/huged01-bat.shtml#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2014/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FEd_Hug#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug",
+          "url": "https://ipfs.io/ipfs/bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq/wiki/Ed_Hug.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug Stats, Height, Weight, Research & History | Baseball Almanac",
+          "url": "https://www.baseball-almanac.com/players/player.php?p=huged01"
+        },
+        {
+          "date": "2026-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug — Grokipedia",
+          "url": "https://grokipedia.com/page/ed_hug"
+        },
+        {
+          "date": "2026-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ed Hug Career Batting Splits | Baseball-Reference.com - - Players",
+          "url": "https://www.baseball-reference.com/players/split.fcgi?t=b&id=huged01&year=Career&team=&per162=0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Editor Hug",
+          "url": "https://prabook.com/web/editor.hug/2404620"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikiwand - Ed Hug",
+          "url": "https://www.wikiwand.com/en/Ed_Hug"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5528,
+    "iterations": [],
+    "output_tokens": 220,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

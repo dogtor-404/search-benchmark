@@ -1,0 +1,60 @@
+{
+  "answer": "我记得的三个“launch mass”数值（来自 Wikipedia 信息框，离线无法核实）：\n\n- Apollo 11：48,607 kg\n- Apollo 12：49,915 kg\n- Apollo 13：49,937 kg\n\n平均值为：\n\n\\[\n\\frac{48{,}607+49{,}915+49{,}937}{3}=\\frac{148{,}459}{3}=49{,}486.33\\ldots\n\\]\n\n四舍五入到整数是 **49,486 kg**。\n\n说明：这是凭记忆中的信息框数值算的；如果其中某个数值记错了，结果会相应变化。",
+  "budget_denials": [],
+  "elapsed_seconds": 67.116,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.29286,
+      "inputTokens": 1985,
+      "maxOutputTokens": 32000,
+      "outputTokens": 14246,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-394",
+  "raw": "jsonl/D0/frames-394.jsonl",
+  "reported_cost_usd": 0.29286,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1985,
+    "iterations": [],
+    "output_tokens": 14246,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

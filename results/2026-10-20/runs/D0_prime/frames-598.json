@@ -1,0 +1,60 @@
+{
+  "answer": "2008 年格莱美年度歌曲得主是 **Amy Winehouse**（《Rehab》）。她在同一年伦敦的 **Nelson Mandela 90 岁生日音乐会**上演出。\n\n生日会的主角是 **Nelson Mandela**，given first name 是 **Nelson**，其中元音字母是 **e、o**，共 **2** 个。\n\n**答案：2**",
+  "budget_denials": [],
+  "elapsed_seconds": 16.005,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.029072,
+      "inputTokens": 2078,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1038,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-598",
+  "raw": "jsonl/D0_prime/frames-598.jsonl",
+  "reported_cost_usd": 0.029072,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2078,
+    "iterations": [],
+    "output_tokens": 1038,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

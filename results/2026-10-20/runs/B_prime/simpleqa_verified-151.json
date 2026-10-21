@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：Boko boko（也写作 Bokoboko）**\n\n依据的网址：\n- https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/ ：说 Bokoboko 就是 Harees，在桑给巴尔和蒙巴萨很有名。\n- https://alphapedia.ru/w/Harissa_(dish) ：这是维基百科 Harees 词条的俄文镜像，原文说在桑给巴尔这道菜叫 bokoboko，可以用羊肉、牛肉或鸡肉做。\n\n只搜了 1 次。\n\n有一点要注意：这次搜索结果里出现了 Hugging Face 上的 SimpleQA Verified 数据集页面，里面直接写着这道题的标准答案（\"boko boko\"）。我的答案依据的是上面两个网址，没有用那个页面。不过这道题的答案能在网上直接搜到，题目泄露了，做基准测试时可能要考虑这一点。",
+  "budget_denials": [],
+  "elapsed_seconds": 16.374,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9483,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.087191,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 507,
+      "provider": "firstParty",
+      "thinkingTokens": 56,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-151",
+  "raw": "jsonl/B_prime/simpleqa_verified-151.jsonl",
+  "reported_cost_usd": 0.087191,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6746,
+      "query": "Harees Zanzibar called",
+      "results": [
+        {
+          "date": "2020-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bokoboko Recipe || Arabic Style Haleem (known as Harees or Hareesa) Famous in Zanzibar and Mombasa",
+          "url": "https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/"
+        },
+        {
+          "date": "2016-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recipes for Ramadhan: Harees",
+          "url": "http://suroorasia.blogspot.com/2016/06/recipes-for-ramadhan-harees.html"
+        },
+        {
+          "date": "2024-12-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Zanzibar Street Food: Must-Try Urojo Soup & Local Delights - 0 saved",
+          "url": "https://www.lemon8-app.com/@whoisherby/7446923443435520554?region=us#1"
+        },
+        {
+          "date": "2023-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "مقال : نزار الحافرة - عادات وتقاليد العيد بزنجبار",
+          "url": "https://www.adngad.net/articles/569211"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-gptos · Datasets at Hugging Face - Need answer: In Zanzibar it's called \"haleva\"",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-gptos/viewer/default/train?p=14#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Harees Dish Called In Zanzibar - Instagram",
+          "url": "https://www.trunkstable.instagram.com/popular/harees-dish-called-in-zanzibar/?utm_source=topic_pill#1"
+        },
+        {
+          "date": "2021-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries That Touch the Indian Ocean - Our book review",
+          "url": "https://www.aramcoworld.com/resources/reviews/2021/in-bibis-kitchen-the-recipes-and-stories-of-grandmothers-from-the-eight-african-countries-that-tou"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dine with Dina",
+          "url": "https://www.facebook.com/dinewithdina/posts/legend-has-it-that-when-the-omanis-came-to-zanzibar-they-came-cross-locals-with-/539297266756834/"
+        },
+        {
+          "date": "2023-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Зайцы - Зайцы",
+          "url": "https://alphapedia.ru/w/Harissa_(dish)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "+151,\"What is Harees, a famous dish of Armenia and the Arabian Peninsula, called in Zanzibar",
+          "url": "https://huggingface.co/datasets/xinlei55555/simpleqa_verified/commit/3370a4e4a9e686e1b20c27290f053b0b77683493.diff?file=simpleqa_verified.csv#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9483,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9483,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7636,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7636,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 385,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 507,
+    "output_tokens_details": {
+      "thinking_tokens": 56
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

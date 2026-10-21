@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：David（又称 David Protein，公司注册名 Linus Technology, Inc.）。** 2025 年 5 月 29 日，David 在完成 7500 万美元 A 轮融资的同时宣布收购了 Epogee。Epogee 是 EPG 的唯一生产商，收购后成为 David 的子公司。\n\n依据（共搜 1 次）：\n- https://www.businesswire.com/news/home/20250529749264/en/David-Closes-$75-Million-Series-A-Funding-Round ：David 的官方新闻稿，说明收购了 Epogee\n- https://hgventures.com/epogee-acquired-by-david/ ：Epogee 的投资方 HG Ventures 发布的《Epogee Acquired by David》\n- https://time.com/collection/time100-most-influential-companies/2026/david-protein/ ：写明“David 于 2025 年 5 月收购了 EPG 的唯一生产商 Epogee”",
+  "budget_denials": [],
+  "elapsed_seconds": 9.631,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 12026,
+      "cacheReadInputTokens": 5856,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1054352,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 402,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-014",
+  "raw": "jsonl/B_prime/custom-014.jsonl",
+  "reported_cost_usd": 0.1054352,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7157,
+      "query": "Epogee EPG acquired 2025 protein bar brand",
+      "results": [
+        {
+          "date": "2026-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein Bars, Market Definition And Injunctions",
+          "url": "https://webiis08.mondaq.com/unitedstates/antitrust-eu-competition/1737410/#authors#1"
+        },
+        {
+          "date": "2025-05-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David raises $75 million in Series A round",
+          "url": "https://www.foodbusinessnews.net/articles/28379-david-raises-75-million-in-series-a-round?utm_source=www.thetech.buzz&utm_medium=referral&utm_campaign=beyond-tech"
+        },
+        {
+          "date": "2026-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Protein",
+          "url": "https://time.com/collection/time100-most-influential-companies/2026/david-protein/?filters=Disrupters"
+        },
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Epogee Acquired by David - HG Ventures",
+          "url": "https://hgventures.com/epogee-acquired-by-david/"
+        },
+        {
+          "date": "2026-09-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EPG: How a Decades-Old Fat Substitute Became a Modern Patent and Supply-Chain Battleground - Register now for your free, tailored, daily legal newsfeed service.",
+          "url": "https://www.lexology.com/library/detail.aspx?g=741040e3-4f74-4bb1-9907-50acfcf6f95b#1"
+        },
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein Brand David Closes $75 Million Series A Funding Round - Market Updates, Products & Ingredients",
+          "url": "https://www.nutraceuticalsworld.com/breaking-news/protein-brand-david-closes-75-million-series-a-funding-round/#1"
+        },
+        {
+          "date": "2025-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein-bar brand David raises $75m to “scale” manufacturing - Skip to navigation Skip to main content Skip to right column",
+          "url": "https://finance.yahoo.com/news/protein-bar-brand-david-raises-123155763.html#1"
+        },
+        {
+          "date": "2025-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David secures additional funding - Home » Bars » David secures additional funding",
+          "url": "https://www.bakingbusiness.com/articles/64010-david-secures-additional-funding#1"
+        },
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Closes $75 Million Series A Funding Round - May 29, 2025 9:00 AM Eastern Daylight Time",
+          "url": "https://www.businesswire.com/news/home/20250529749264/en/David-Closes-$75-Million-Series-A-Funding-Round#1"
+        },
+        {
+          "date": "2025-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Raises $75 Million to Expand Fast",
+          "url": "https://www.careersinfood.com/career-planning/exploring-food-beverage/industry-news/united-states/david-raises-75-million-to-expand-fast"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12026,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12026,
+    "cache_read_input_tokens": 5856,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10178,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10178,
+        "cache_read_input_tokens": 3852,
+        "input_tokens": 2,
+        "output_tokens": 327,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 402,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "answer": "**答案:James Joyce 和 Virginia Woolf。两人都生于 1882 年,卒于 1941 年。活得更久的是 Woolf,比 Joyce 多活 82 天。**\n\n- **James Joyce**:1882 年 2 月 2 日生,1941 年 1 月 13 日卒,享年 58 岁。\n- **Virginia Woolf**:1882 年 1 月 25 日生,1941 年 3 月 28 日卒,享年 59 岁。\n\n**天数的算法**:Woolf 比 Joyce 早生 8 天(1 月 25 日对 2 月 2 日),又晚死 74 天(1941 年 1 月 13 日到 3 月 28 日,即 18+28+28 天)。8+74=82,所以 Woolf 多活 82 天。这个数是我按上面的日期手算的,没有用工具核对。\n\n**依据的网址**:\n- Joyce:https://www.nli.org.il/en/authorities/987007263495505171(以色列国家图书馆);https://catalogue.bnf.fr/ark:/12148/cb11909158m(法国国家图书馆)\n- Woolf:https://id.loc.gov/authorities/names/n79041870.html(美国国会图书馆);https://catalogue.bnf.fr/ark:/12148/cb11929398t.public(法国国家图书馆)\n\n我搜了 2 次,上面这些页面里的日期都互相一致。",
+  "budget_denials": [],
+  "elapsed_seconds": 13.231,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10080,
+      "cacheReadInputTokens": 5862,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0520742,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1116,
+      "provider": "firstParty",
+      "thinkingTokens": 472,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-808",
+  "raw": "jsonl/B/frames-808.jsonl",
+  "reported_cost_usd": 0.0520742,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6571,
+      "query": "James Joyce born 2 February 1882 died 13 January 1941",
+      "results": [
+        {
+          "date": "2000-03-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ulysses",
+          "url": "https://books.google.com.sg/books?id=HD3cW0XWvz0C&newbks=0&hl=is&gl=IS&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Restored Finnegans Wake",
+          "url": "https://books.google.com.sg/books?id=YbACvudBHVMC&newbks=0&hl=is&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Portrait of the Artist as a Young Man",
+          "url": "https://books.google.com.sg/books?id=ZX8gXDPHRtQC&newbks=0&hl=en&redir_esc=y"
+        },
+        {
+          "date": "2022-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "James Joyce | The British Library",
+          "url": "https://www.britishlibrary.cn/en/authors/james-joyce/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Joyce, James, 1882-1941 | The National Library of Israel",
+          "url": "https://www.nli.org.il/en/authorities/987007263495505171"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "James Joyce - Biography - IMDb",
+          "url": "https://s.media-imdb.com/name/nm0004656/bio/?ref_=nm_ov_ql_1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indice per tipi di letture, generi, materiali",
+          "url": "https://www.movio.beniculturali.it/uniroma1/livesandlibraries/it/163/indice-per-tipi-di-letture-generi-materiali/show/3/1223"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BnF Catalogue général",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb11909158m"
+        },
+        {
+          "date": "2010-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Encyclopedia of Twentieth-Century Fiction - Joyce, James",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444337822.wbetcfv1j006#1"
+        },
+        {
+          "date": "2022-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "詹姆斯·喬伊斯 | 大英圖書館",
+          "url": "https://www.britishlibrary.cn/zh-hk/authors/james-joyce/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6458,
+      "query": "Virginia Woolf born 25 January 1882 died 28 March 1941",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Moment's Liberty",
+          "url": "https://books.google.com.sg/books?id=H_tBPgAACAAJ&newbks=0&hl=zh-CN&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Years",
+          "url": "https://books.google.com.sg/books?id=y0BGPgAACAAJ&newbks=0&hl=en-CZ&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Common Reader",
+          "url": "https://books.google.com.sg/books?id=FoHFSAAACAAJ&newbks=1&newbks_redir=0&hl=fi&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Virginia Woolf | Artist | Royal Academy of Arts",
+          "url": "https://www.royalacademy.org.uk/art-artists/name/virginia-woolf?birth_date=&form=names&gender=&index=25542&member_type=&name=&preferred_media=&total_entries=25858&utf8=%E2%9C%93"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Woolf, Adeline Virginia, 1882-1941 (novelist)",
+          "url": "https://archivesearch.lib.cam.ac.uk/agents/people/8823?&filter_fields[]=primary_type&filter_values[]=resource&filter_fields[]=subjects&filter_values[]=Spanish+Civil+War+%281936-1939%29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://id.loc.gov/authorities/names/n79041870.madsxml.xml"
+        },
+        {
+          "date": "2009-10-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BnF Catalogue général",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb11929398t.public"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Woolf, Virginia (1882-1941)",
+          "url": "https://www.idref.fr/027199746"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Woolf, Virginia (1882-1941)",
+          "url": "https://francearchives.gouv.fr/fr/agent/30357395"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Woolf, Virginia, 1882-1941; וולף, וירג׳יניה; Вулф, Вирджиния, 1882-1941 - LC Linked Data Service: Authorities and Vocabularies - Suggestions enabled",
+          "url": "https://id.loc.gov/authorities/names/n79041870.html#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10080,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10080,
+    "cache_read_input_tokens": 5862,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8226,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8226,
+        "cache_read_input_tokens": 3858,
+        "input_tokens": 2,
+        "output_tokens": 489,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1116,
+    "output_tokens_details": {
+      "thinking_tokens": 472
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

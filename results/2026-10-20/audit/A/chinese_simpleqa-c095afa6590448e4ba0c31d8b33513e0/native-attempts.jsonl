@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "El Tomatal locality population 2010 census", "results": [], "status": "allowed", "tool_use_id": "toolu_013EozMBwoGKvxGLtsSKc1sT"}
+{"billable": false, "call": 2, "query": "El Tomatal 2010年人口普查 人口 聚居地", "results": [], "status": "allowed", "tool_use_id": "toolu_01HfibCXVr8V3QkGAcFWCVrP"}
+{"billable": false, "call": 3, "query": "El Tomatal localidad Censo 2010 habitantes", "results": [], "status": "allowed", "tool_use_id": "toolu_01TDCCKUXm48F9wjknfuPXvt"}
+{"billable": false, "call": 4, "query": "\"El Tomatal\" Wikipedia census 2010 population", "results": [], "status": "allowed", "tool_use_id": "toolu_01CVMc8SUmU1vcBHuEiZQFgB"}
+{"billable": false, "call": 5, "query": "El Tomatal pueblo población 2010 INEGI Guerrero OR Sinaloa OR Nayarit OR \"Baja California\"", "results": [], "status": "allowed", "tool_use_id": "toolu_015yogi7zKRVuE6QoXTCRe4J"}

@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:维生素 A、D、E、K。**\n\n依据 21 CFR § 172.867(d)。含 olestra 的食品必须按每克 olestra 添加以下四种维生素:\n- 维生素 E:1.9 mg α-生育酚当量\n- 维生素 A:51 视黄醇当量,以乙酸视黄酯或棕榈酸视黄酯形式添加\n- 维生素 D:12 IU\n- 维生素 K₁:8 μg\n\n这些维生素要列在配料表里,后面加星号,并注明\"Dietarily insignificant\"。\n\n网址:\n- https://www.law.cornell.edu/cfr/text/21/172.867\n- https://ecfr.io/Title-21/Section-172.867\n- https://www.federalregister.gov/documents/2004/05/24/04-11502/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-olestra(FDA 2004 年的规定,明确要求微波爆米花也按此添加维生素 A、D、E、K)\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 12.149,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 12922,
+      "cacheReadInputTokens": 5862,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0567222,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 444,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-013",
+  "raw": "jsonl/B/custom-013.jsonl",
+  "reported_cost_usd": 0.0567222,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8165,
+      "query": "olestra FDA required fortification vitamins A D E K 21 CFR 172.867",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "§ 172.867",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2016-title21-vol3/pdf/CFR-2016-title21-vol3-sec172-869.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Food and Drug Administration, HHS",
+          "url": "https://www.govinfo.gov/link/cfr/21/172?link-type=pdf&sectionnum=867&year=mostrecent#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy",
+          "url": "https://www.govinfo.gov/link/cfr/21/172?link-type=pdf&sectionnum=868&year=2022#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "FOOD ADDITIVES PERMITTED FOR DIRECT ADDITION TO FOOD FOR HUMAN CONSUMPTION - (1) As substitutes for the corresponding naturally derived fatty alcohols permitted in food by existing regulations in this part...",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2009-title21-vol3/xml/CFR-2009-title21-vol3-part172.xml#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "21 CFR § 172.867 - Olestra.",
+          "url": "https://correo.liicornell.org/cfr/text/21/172.867"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "incorporation by reference in accordance with 5 U",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2021-title21-vol3/html/CFR-2021-title21-vol3.htm#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "21 CFR § 172.867 - Olestra. - 21 CFR § 172.867 - Olestra.",
+          "url": "https://www.law.cornell.edu/cfr/text/21/172.867#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra.",
+          "url": "https://www.govinfo.gov/content/pkg/CFR-2013-title21-vol3/xml/CFR-2013-title21-vol3-sec172-867.xml"
+        },
+        {
+          "date": "2004-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Food Additives Permitted for Direct Addition to Food for Human Consumption; Olestra - In establishing food additive approval regulations, FDA generally incorporates by reference FCC specifications where such specif...",
+          "url": "https://www.federalregister.gov/documents/2004/05/24/04-11502/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-olestra#2"
+        },
+        {
+          "date": "2026-06-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "21 CFR 172.867 | Olestra. | eCFR.io",
+          "url": "https://ecfr.io/Title-21/Section-172.867"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12922,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12922,
+    "cache_read_input_tokens": 5862,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11068,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11068,
+        "cache_read_input_tokens": 3858,
+        "input_tokens": 2,
+        "output_tokens": 361,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 444,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

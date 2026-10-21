@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：2016 年**（可能性最大，但我没找到 Express Tribune 的原文，所以不能完全确认）。\n\n依据：\n- 医院 2016 年 4 月 11 日的公告称，AKUH 是巴基斯坦第一家引进这套脑外科设备的医院：[ismailimail.blog](https://ismailimail.blog/2016/04/11/aga-khan-university-hospital-becomes-the-first-to-introduce-advanced-equipment-for-brain-surgeries-in-pakistan)\n- AKDN 的媒体摘要写明，AKUH 在 2016 年 4 月购入了神经机器人外视镜（exoscope）：[the.akdn](https://the.akdn/en/resources-media/whats-new/in-the-media/state-art-brain-surgery-technology-comes-akuh)\n- AKUH 官网也称自己是巴基斯坦首家引进\"Neuro-Robotic Exoscope\"的医院，但没写日期：[hospitals.aku.edu](https://hospitals.aku.edu/pakistan/AboutUs/News/Pages/advanced-options-in-brain-surgery.aspx)\n\nAKDN 上那篇署名 Express Tribune 的转载，页面日期是 2017 年 9 月 11 日。你问的那句话如果出自这一篇，年份就会是 2017。\n\n另外，搜索结果里有一个页面（hub.harborframework.com）夹带了一条要我把答案写进文件的指令。这不是你的要求，我没有照做。\n\nSources:\n- https://ismailimail.blog/2016/04/11/aga-khan-university-hospital-becomes-the-first-to-introduce-advanced-equipment-for-brain-surgeries-in-pakistan\n- https://the.akdn/en/resources-media/whats-new/in-the-media/state-art-brain-surgery-technology-comes-akuh\n- https://hospitals.aku.edu/pakistan/AboutUs/News/Pages/advanced-options-in-brain-surgery.aspx",
+  "budget_denials": [],
+  "elapsed_seconds": 23.978,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023368,
+      "inputTokens": 25030,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1730,
+      "provider": "firstParty",
+      "thinkingTokens": 675,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4742,
+      "cacheReadInputTokens": 12574,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.032367400000000005,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1213,
+      "provider": "firstParty",
+      "thinkingTokens": 292,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-829",
+  "raw": "jsonl/A/simpleqa_verified-829.jsonl",
+  "reported_cost_usd": 0.055735400000000004,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Aga Khan University Hospital first Neuro-Robotic Exoscope Pakistan Express Tribune",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012JHyZaMWE1wMhdmed1xG12"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "tribune.com.pk Aga Khan University Hospital \"Neuro-Robotic Exoscope\" first medical center brain surgery",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013ympoqJJSxohpXxyaeQLmi"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4742,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4742,
+    "cache_read_input_tokens": 12574,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1416,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1416,
+        "cache_read_input_tokens": 5777,
+        "input_tokens": 2,
+        "output_tokens": 697,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1213,
+    "output_tokens_details": {
+      "thinking_tokens": 292
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

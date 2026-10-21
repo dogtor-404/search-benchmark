@@ -1,0 +1,154 @@
+{
+  "answer": "答案:**William Berger(Bill Berger)**。\n\n1986 年他在 WFMU 开设每周半小时的 Low-Fi(Lo-Fi)环节,播放听众寄来的家庭录音。1986 年秋季的 WFMU 杂志《LCD》把这个节目描述为“用廉价设备制作的家庭录音”,内容全部来自邮寄投稿,每周五晚间黄金时段播出。\n\n依据的网址:\n- https://www.last.fm/tag/lo-fi/wiki#1(维基百科 Lo-fi music 词条的转载,称 WFMU DJ William Berger 把半小时节目用来播放家庭录音,并以 Lo-fi 命名)\n- https://ipfs.io/ipfs/QmehSxmTPRCr85Xjgzjut6uWQihoTfqg9VVihJ892bmZCp/Lo-fi_music.html#1(维基百科词条的镜像,写明 1986 年底采用此术语)\n- http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html(当事人回忆 Bill 的 Lo-Fi 节目)\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.352,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7021,
+      "cacheReadInputTokens": 5871,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0337091,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 503,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-002",
+  "raw": "jsonl/B/custom-002.jsonl",
+  "reported_cost_usd": 0.0337091,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6666,
+      "query": "WFMU 1986 Low-Fi segment home tape recordings listeners DJ",
+      "results": [
+        {
+          "date": "2017-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LO-FI ON THE LOWER EAST SIDE 1986-1990",
+          "url": "http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Lo-fi music",
+          "url": "https://ipfs.io/ipfs/QmehSxmTPRCr85Xjgzjut6uWQihoTfqg9VVihJ892bmZCp/Lo-fi_music.html#1"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo fi music - Alchetron, The Free Social Encyclopedia",
+          "url": "https://alchetron.com/Lo-fi-music"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "low fi wiki | Last.fm",
+          "url": "https://www.last.fm/tag/low+fi/wiki?ver=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "lo-fi wiki | Last.fm - Don't want to see ads",
+          "url": "https://www.last.fm/tag/lo-fi/wiki#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chasing Ghosts: WFMU Airchecks",
+          "url": "https://www.worldradiohistory.com/hd2/IDX-Site-Technical/Engineering-Broadcast/Radio-World-IDX/IDX/2006/Radio-World-2006-03-15-IDX-12.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Lo-fi music",
+          "url": "https://artandpopularculture.com/Low-fi#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music | Last.fm",
+          "url": "https://www.last.fm/tag/lo-fi?setlang=en"
+        },
+        {
+          "date": "2005-12-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Lo-fi music",
+          "url": "https://preprod.arquivo.pt/noFrame/patching/patching/record/20210318091516mp_/https://en.wikipedia.org/wiki/Lo-fi_music#1"
+        },
+        {
+          "date": "2024-01-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo fi hip poducer",
+          "url": "https://winterfert.weebly.com/blog/lo-fi-hip-poducer#c2xpdnZvdmlrLmNvbS9pbmRleC5waHA/a2V5PWF6N3dvYTRlMXdpOWZjc3JhMWxpJnE9RWxpemFiZXRoJTIwcGVya2lucyZwPVZvdmFuJnM9V2VlYmx5V0Imcj1XZWVibHkuY29tJmM9Q0FUMjcmc2M9YnV0dG9uJmQ9MDEuMjAyNCZ0PSZtX3I9aWNlbmVyeS53ZWVibHkuY29tJms9VGV4dA=="
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7021,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7021,
+    "cache_read_input_tokens": 5871,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5158,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5158,
+        "cache_read_input_tokens": 3867,
+        "input_tokens": 2,
+        "output_tokens": 420,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 503,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

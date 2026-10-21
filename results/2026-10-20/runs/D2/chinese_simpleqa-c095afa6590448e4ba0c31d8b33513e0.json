@@ -1,0 +1,221 @@
+{
+  "answer": "**628 人**。据 2010 年 INEGI 人口普查，埃尔托马塔尔（El Tomatal，位于墨西哥瓦哈卡州圣玛丽亚科洛特佩克）的总人口为 628 人，其中男性 326 人、女性 302 人，另有 64 人讲某种土著语言。\n\n依据：\n- https://zh.wikipedia.org/zh-sg/埃尔托马塔尔\n- https://es.m.wikipedia.org/wiki/El_Tomatal\n- http://www.citypopulation.de/de/mexico/oaxaca/santa_mar%C3%ADa_colotepec/204010018__el_tomatal/ （2010-05-31 普查：628）",
+  "budget_denials": [],
+  "elapsed_seconds": 5.358,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0554008,
+      "inputTokens": 12060,
+      "maxOutputTokens": 32000,
+      "outputTokens": 335,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0",
+  "raw": "jsonl/D2/chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0.jsonl",
+  "reported_cost_usd": 0.0554008,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7574,
+      "query": "El Tomatal población censo 2010",
+      "results": [
+        {
+          "date": "2018-12-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "埃尔托马塔尔 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/zh-sg/%E5%9F%83%E5%B0%94%E6%89%98%E9%A9%AC%E5%A1%94%E5%B0%94"
+        },
+        {
+          "date": "2018-12-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "埃爾托馬塔爾 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-mo/%E5%9F%83%E5%B0%94%E6%89%98%E9%A9%AC%E5%A1%94%E5%B0%94"
+        },
+        {
+          "date": "2025-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal, Oax. - Opiniones (⭐5) y fotos | Santa María Colotepec",
+          "url": "https://mexico.pueblosamerica.com/i/el-tomatal-3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal",
+          "url": "http://www.citypopulation.de/de/mexico/oaxaca/santa_mar%c3%ada_colotepec/204010018__el_tomatal/"
+        },
+        {
+          "date": "2024-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal (Chiapas) Cintalapa",
+          "url": "https://mexico.pueblosamerica.com/i/el-tomatal/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Prologo Andrés Bermúdez \"El Rey del Tomate\"",
+          "url": "https://www.gbv.de/dms/spk/iai/toc/734353677.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal",
+          "url": "https://mapcarta.com/es/20360090"
+        },
+        {
+          "date": "2025-11-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal localidad, Coatzacoalcos - Ubicación Mapa, Clima, Población | El Tiempo en El Tomatal hoy",
+          "url": "https://mapasparati.com/mexico/veracruz-de-ignacio-de-la-llave/coatzacoalcos/el-tomatal-ubicacion-mapa-poblacion-clima-tiempo-por-hora-hoy-y-manana/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Estas actividades, se encuentran en relación con el censo de población y vivienda 2010:",
+          "url": "https://dspace.uazuay.edu.ec/bitstream/datos/5466/1/11807.pdf#78#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal, Santa María Colotepec - 747 habitantes",
+          "url": "https://www.municipiodata.com/localites/oaxaca/santa-maria-colotepec/el-tomatal"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6617,
+      "query": "\"El Tomatal\" 2010 census population",
+      "results": [
+        {
+          "date": "2022-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal - Wikipedia, la enciclopedia libre",
+          "url": "https://es.m.wikipedia.org/wiki/El_Tomatal"
+        },
+        {
+          "date": "2018-12-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "埃尔托马塔尔 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/zh-sg/%E5%9F%83%E5%B0%94%E6%89%98%E9%A9%AC%E5%A1%94%E5%B0%94"
+        },
+        {
+          "date": "2018-12-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "埃爾托馬塔爾 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-mo/%E5%9F%83%E5%B0%94%E6%89%98%E9%A9%AC%E5%A1%94%E5%B0%94"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal",
+          "url": "http://www.citypopulation.de/de/mexico/oaxaca/santa_mar%c3%ada_colotepec/204010018__el_tomatal/"
+        },
+        {
+          "date": "2024-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal (Chiapas) Cintalapa",
+          "url": "https://mexico.pueblosamerica.com/i/el-tomatal/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal, Santa María Colotepec - 747 habitantes",
+          "url": "https://www.municipiodata.com/localites/oaxaca/santa-maria-colotepec/el-tomatal"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal, Benito Juárez - 161 Inhabitants | Locality Statistics",
+          "url": "https://www.municipiodata.com/en/localites/guerrero/benito-juarez/el-tomatal"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal",
+          "url": "https://zh.getamap.org/el_tomatal-%E5%9C%B0%E5%9B%BE-%E5%A4%A9%E6%B0%94-%E7%85%A7%E7%89%87_crittaotmax.html"
+        },
+        {
+          "date": "2024-01-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El Tomatal",
+          "url": "https://sandee.com/mexico/oaxaca/el-tomatal"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td rowspan=\"2\">Cve</td><td rowspan=\"2\">Región/Municipio</td><td rowspan=\"2\">Población total 2000</td><td colspan=\"4\"...",
+          "url": "https://transparencia.info.jalisco.gob.mx/sites/default/files/10.-%20Regi%C3%B3n%2010%20Valles.pdf#18#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12060,
+    "iterations": [],
+    "output_tokens": 335,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

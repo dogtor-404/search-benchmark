@@ -1,0 +1,60 @@
+{
+  "answer": "Mathlib 最初创建于 **2017 年**。Lean 3 在 2017 年初发布后不久，社区就开始搭建统一的数学库，同年（2017 年）mathlib 仓库建立并开始发展。\n\n如果你需要更精确的日期（比如首个 commit 的时间），我凭记忆无法确定到具体某天，需要联网查证。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.479,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.017988000000000004,
+      "inputTokens": 2037,
+      "maxOutputTokens": 32000,
+      "outputTokens": 492,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-010",
+  "raw": "jsonl/D0_prime/custom-010.jsonl",
+  "reported_cost_usd": 0.017988000000000004,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2037,
+    "iterations": [],
+    "output_tokens": 492,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

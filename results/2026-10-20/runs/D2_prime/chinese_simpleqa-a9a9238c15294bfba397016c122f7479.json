@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：毛利兰（小兰）**\n\n在《名侦探柯南：福尔摩斯的默示录》（动画 TV 616–621 话）中，工藤新一在伦敦大本钟下向毛利兰表白，并让她转告草地女王「0 是一切的开始」。\n\n依据：维基百科《名侦探柯南：福尔摩斯的默示录》\nhttps://zh.wikipedia.org/wiki/名偵探柯南：福爾摩斯的默示錄",
+  "budget_denials": [],
+  "elapsed_seconds": 7.961,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0334264,
+      "inputTokens": 6690,
+      "maxOutputTokens": 32000,
+      "outputTokens": 309,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-a9a9238c15294bfba397016c122f7479",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-a9a9238c15294bfba397016c122f7479.jsonl",
+  "reported_cost_usd": 0.0334264,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7146,
+      "query": "名侦探柯南 福尔摩斯的默示录 工藤新一 表白 毛利兰",
+      "results": [
+        {
+          "date": "2026-02-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "福尔摩斯默示录",
+          "url": "https://baike.baidu.com/item/%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E9%BB%98%E7%A4%BA%E5%BD%95/2401530?noadapt=1&bst=1792065513.d9f1329e322ae155#1"
+        },
+        {
+          "date": "2020-10-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "名侦探柯南：福尔摩斯的默示录 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%8D%E5%81%B5%E6%8E%A2%E6%9F%AF%E5%8D%97%EF%BC%9A%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF%E7%9A%84%E9%BB%98%E7%A4%BA%E9%8C%84#1"
+        },
+        {
+          "date": "2020-10-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "名偵探柯南：福爾摩斯的默示錄 - 維基百科，自由的百科全書 - 名偵探柯南：福爾摩斯的默示錄",
+          "url": "https://zh.wikipedia.org/zh-mo/%E5%90%8D%E5%81%B5%E6%8E%A2%E6%9F%AF%E5%8D%97%EF%BC%9A%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF%E7%9A%84%E9%BB%98%E7%A4%BA%E9%8C%84#1"
+        },
+        {
+          "date": "2025-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "《名侦探柯南》工藤新一与小兰：青梅竹马的深情告白全记录",
+          "url": "https://m.sohu.com/a/900361858_120352010/?pvid=000115_3w_a"
+        },
+        {
+          "date": "2019-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "小蘭跟新一終於親了！《名偵探柯南》最閃章節即將改編動畫播出 -- 上報",
+          "url": "https://www.upmedia.mg/tw/lifestyle/information/55681"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "新一告白小兰是哪一集",
+          "url": "https://m.kuaikanmanhua.com/qa/40614"
+        },
+        {
+          "date": "2022-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "柯南里面有几集是讲柯南去伦敦然后碰到一个小男孩，小男孩是知名网球选手的弟弟？",
+          "url": "https://www.zhihu.com/question/543330804#0"
+        },
+        {
+          "date": "2016-11-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "名侦探柯南的新一在哪一集向小兰告白的",
+          "url": "https://wenwen.sogou.com/z/q858500834.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "如何评价名侦探柯南中的新兰感情？现实中的你会想要这样的爱情吗? - c",
+          "url": "https://weibo.com/p/2313474304747866781914/wenda_home#1"
+        },
+        {
+          "date": "2019-08-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "名侦探柯南：工藤新一毛利兰的伦敦大本钟告白，主题曲中的小秘密",
+          "url": "https://www.jianshu.com/p/1eba2647f773"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6690,
+    "iterations": [],
+    "output_tokens": 309,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "这个我记不准具体数字。\n\nManyazybash（Манязыбаш）是俄罗斯巴什科尔托斯坦共和国布拉耶沃区的一个村庄。2010 年俄罗斯人口普查的数据我记得大致在 400～500 人上下，但确切数字我无法凭记忆确认，不敢给你一个具体数值。如果需要准确数字，得联网查 2010 年全俄人口普查数据。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.574,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018628,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 523,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-1212",
+  "raw": "jsonl/D0_prime/simpleqa_verified-1212.jsonl",
+  "reported_cost_usd": 0.018628,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 523,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

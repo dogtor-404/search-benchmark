@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：1968 年 5 月 6 日**\n\n当天阿姆斯特朗在休斯敦附近的埃灵顿空军基地驾驶 1 号登月研究机（LLRV-1）模拟登月。这是他第 22 次驾驶这架飞行器。飞了大约 5 分钟后飞行器失控。在离地约 200 英尺（约 60 米）时他弹射出舱，跳伞落地，没有受伤。事后调查认定，事故原因是氦气压力丧失，导致备用姿态推进器用的过氧化氢耗尽。\n\n依据（搜了 1 次）：\n- NASA：https://www.nasa.gov/history/astronaut-armstrong-survives-llrv-crash/\n- NASA，事故 50 周年纪念文章：https://www.nasa.gov/history/50-years-ago-armstrong-survives-training-crash/\n- 史密森尼航空航天博物馆：https://airandspace.si.edu/stories/editorial/neil-armstrongs-apollo-11-close-call",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.07,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 13648,
+      "cacheReadInputTokens": 5867,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1198334,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 473,
+      "provider": "firstParty",
+      "thinkingTokens": 38,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-020",
+  "raw": "jsonl/B_prime/custom-020.jsonl",
+  "reported_cost_usd": 0.1198334,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6817,
+      "query": "Neil Armstrong LLRV crash ejection May 6 1968",
+      "results": [
+        {
+          "date": "2023-05-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Astronaut Armstrong Survives LLRV Crash - NASA",
+          "url": "https://www.nasa.gov/history/astronaut-armstrong-survives-llrv-crash/"
+        },
+        {
+          "date": "2018-05-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50 Years Ago: Armstrong Survives Training Crash - NASA",
+          "url": "https://www.nasa.gov/history/50-years-ago-armstrong-survives-training-crash/?=___psv__p_45378165__t_w_"
+        },
+        {
+          "date": "2019-07-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Neil Armstrong's Apollo 11 Close Call - This guest blog from our friends at Smithsonian Channel explores one of the stories featured in their new documentary series Apo...",
+          "url": "https://airandspace.si.edu/stories/editorial/neil-armstrongs-apollo-11-close-call?utm_campaign=airandspace&utm_medium=social&utm_source=twitter#1"
+        },
+        {
+          "date": "2026-03-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lunar Landing Research Vehicle (Apollo 11) crash",
+          "url": "https://airandspace.si.edu/multimedia-gallery/image/22ospring26astrohelotraining-llrvapollo11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[APOLLO 11]. NEIL ARMSTRONG'S NEARLY FATAL ACCIDENT BEFORE HIS APOLLO 11 FLIGHT",
+          "url": "https://www.sothebys.com/zh/auctions/ecatalogue/2018/space-and-exploration-n09897/lot.198.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "As backup commanders on the second and third Apollo flights, Neil Armstrong and Pete Conrad were the first two astronauts assign...",
+          "url": "https://dspace.mit.edu/bitstream/handle/1721.1/150698/tylko-tylko-phd-sts-2023-thesis.pdf?sequence=1&isAllowed=y#31#41#31"
+        },
+        {
+          "date": "2012-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Landing Safely After Rehearsal Mishap - NASA",
+          "url": "https://www.nasa.gov/image-article/landing-safely-after-rehearsal-mishap/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Investigators Pin Down LLRV Accident Cause",
+          "url": "https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/roundups/issues/68-10-25.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo Lunar Landing Research Vehicle (LLVR) crashes at Ellington Field Joint Reserve Base",
+          "url": "https://www.criticalpast.com/video/65675079602_LLVR-1-crashing-Ellington-AFB_Neil-Armstrong_parachute_Apollo-astronaut-training"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Details 17954",
+          "url": "http://astronautix.com/d/details17954.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13648,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13648,
+    "cache_read_input_tokens": 5867,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11789,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11789,
+        "cache_read_input_tokens": 3863,
+        "input_tokens": 2,
+        "output_tokens": 356,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 473,
+    "output_tokens_details": {
+      "thinking_tokens": 38
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

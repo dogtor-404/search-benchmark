@@ -1,0 +1,60 @@
+{
+  "answer": "Matthew McConaughey 凭《达拉斯买家俱乐部》在 2014 年第 86 届奥斯卡获最佳男主角。往前五年是 2009 年的 Super Bowl XLIII，冠军是 Pittsburgh Steelers（匹兹堡钢人）。\n\n匹兹堡市 2020 年美国人口普查人口约为 **302,971 人**。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.989,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.020052,
+      "inputTokens": 2063,
+      "maxOutputTokens": 32000,
+      "outputTokens": 590,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-520",
+  "raw": "jsonl/D0_prime/frames-520.jsonl",
+  "reported_cost_usd": 0.020052,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2063,
+    "iterations": [],
+    "output_tokens": 590,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

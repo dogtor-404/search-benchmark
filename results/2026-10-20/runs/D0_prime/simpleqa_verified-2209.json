@@ -1,0 +1,60 @@
+{
+  "answer": "第一届亚欧交通部长会议（ASEM Transport Ministers' Meeting）我记得是 2009 年 10 月 26 日在立陶宛维尔纽斯开幕的（会期 26–27 日）。\n\n不过我对具体开幕日期不是完全有把握，建议以官方资料为准。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.164,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.024652,
+      "inputTokens": 2043,
+      "maxOutputTokens": 32000,
+      "outputTokens": 824,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-2209",
+  "raw": "jsonl/D0_prime/simpleqa_verified-2209.jsonl",
+  "reported_cost_usd": 0.024652,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2043,
+    "iterations": [],
+    "output_tokens": 824,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

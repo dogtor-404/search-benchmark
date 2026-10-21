@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：2013 年。** 他是 2013 年的 Padma Bhushan 获奖者，名单在 2013 年 1 月 25 日（共和国日前夕）公布。\n\nBioSpectrum 在 2013 年公布名单时报道：曾任印度生物技术部（DBT）秘书的 M. K. Bhan 获 Padma Bhushan，接任他的 K. VijayRaghavan 获 Padma Shri。Deccan Herald 报道了在总统府举行的颁奖仪式，Bhan 在获奖者名单里。那篇报道在搜索结果里没有显示日期，我没能确认是哪一年的仪式。\n\n共搜了 2 次。\n\n依据的网址：\n- [BioSpectrum India: Bhan, VijayRaghavan get Padma Awards](https://biospectrumindia.com/news/95/4504/bhan-vijayraghavan-get-padma-awards.html)\n- [BioSpectrum Asia: Padma Bhushan Dr MK Bhan to get Genome Valley Excellence Award today](https://www.biospectrumasia.com/influencers/49/4585/padma-bhushan-dr-mk-bhan-to-get-genome-valley-excellence-award-today.html)\n- [Deccan Herald: Prez gives away Padma awards](https://www.deccanherald.com/content/327429/prez-gives-away-padma-awards.html)\n- [Wikipedia: Maharaj Kishan Bhan](https://en.wikipedia.org/wiki/Maharaj_Kishan_Bhan)",
+  "budget_denials": [],
+  "elapsed_seconds": 25.301,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023521300000000002,
+      "inputTokens": 26463,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1750,
+      "provider": "firstParty",
+      "thinkingTokens": 750,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4147,
+      "cacheReadInputTokens": 12032,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0516264,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 801,
+      "provider": "firstParty",
+      "thinkingTokens": 80,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-185",
+  "raw": "jsonl/A_prime/simpleqa_verified-185.jsonl",
+  "reported_cost_usd": 0.0751477,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Maharaj Kishan Bhan Padma Bhushan year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VZ88kNoRWh3gLbjGD8sZFY"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"M K Bhan\" Padma Bhushan 2013",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01T3NiSgPjBebLVoowZoWPgx"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4147,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4147,
+    "cache_read_input_tokens": 12032,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1329,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1329,
+        "cache_read_input_tokens": 5269,
+        "input_tokens": 2,
+        "output_tokens": 582,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 801,
+    "output_tokens_details": {
+      "thinking_tokens": 80
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

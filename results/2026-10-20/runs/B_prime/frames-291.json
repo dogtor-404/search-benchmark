@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：Rose Loomis（罗丝·卢米斯）**\n\n沃霍尔的《玛丽莲双联画》（Marilyn Diptych，1962）用的是 1953 年黑色电影《飞瀑怒潮》（*Niagara*）的一张宣传照，摄影师是 Gene Korman。梦露在这部片子里演女主角 Rose Loomis。\n\n依据：\n- https://rivercitybangkok.com/blonde-bombshell/ ：这组作品都用了《Niagara》的同一张宣传照，梦露在片中演 Rose Loomis。\n- https://hessen.museum-digital.de/object/128330 ：Museum für Sepulkralkultur 的藏品说明（德文），说原照是 1953 年《Niagara》的宣传照，梦露演 Rose Loomis。\n- https://ufdcimages.uflib.ufl.edu/NC/FE/00/41/82/00001/Strischek,%20S.pdf ：佛罗里达大学的一篇论文，说《Marilyn Diptych》用的是 Gene Korman 为《Niagara》拍的宣传照，并提到 Rose Loomis 是梦露在片中的角色。\n\n共搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.521,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8566,
+      "cacheReadInputTokens": 5874,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0805988,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 544,
+      "provider": "firstParty",
+      "thinkingTokens": 38,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-291",
+  "raw": "jsonl/B_prime/frames-291.jsonl",
+  "reported_cost_usd": 0.0805988,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7737,
+      "query": "Marilyn Diptych publicity photo Niagara 1953 Rose Loomis",
+      "results": [
+        {
+          "date": "2025-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grafik \"Marilyn\" von Andy Warhol",
+          "url": "https://www.deutsche-digitale-bibliothek.de/item/RKBB4GYEDHK2F5TAIU3YRPAORGIRA4ZM?isThumbnailFiltered=false&query=Andy+Warhol&rows=20&offset=0&viewType=list&lang=en&hitNumber=15"
+        },
+        {
+          "date": "2020-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Blonde Bombshell — RIVER CITY BANGKOK",
+          "url": "https://rivercitybangkok.com/blonde-bombshell/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Museum für Sepulkralkultur [CC BY-NC-SA]</center>",
+          "url": "https://hessen.museum-digital.de/pdf/object/128330.pdf?lang=en#1#1"
+        },
+        {
+          "date": "2023-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grafik \"Marilyn\" von Andy Warhol :: Museum für Sepulkralkultur :: museum-digital:hessen",
+          "url": "https://hessen.museum-digital.de/object/128330"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Archivo:Monroe in Niagara (1953 publicity photo).jpg - Wikipedia, la enciclopedia libre",
+          "url": "https://es.m.wikipedia.org/wiki/Archivo:Monroe_in_Niagara_(1953_publicity_photo).jpg"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results - - 2012-11-25 04:37:36",
+          "url": "https://quod.lib.umich.edu/h/hart?size=20;sort=hart_wono;type=boolean;view=thumbnail;rgn1=hart_su;select1=phrase;q1=Corvey#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Berkas:Monroe in Niagara (1953 publicity photo).jpg - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Berkas:Monroe_in_Niagara_(1953_publicity_photo).jpg"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Файл:Monroe in Niagara (1953 publicity photo).jpg — Википедия",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Monroe_in_Niagara_(1953_publicity_photo).jpg"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "and do machine-like is what I want to do” (Livingstone and Cameron 56)",
+          "url": "https://ufdcimages.uflib.ufl.edu/NC/FE/00/41/82/00001/Strischek,%20S.pdf#16#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "358: ANDY WARHOL - Marilyn DiptychAndy Warhol (American, 1928 - 1987)",
+          "url": "https://m.stanfordauctioneers.com/catalog/090718.pdf#38#28"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8566,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8566,
+    "cache_read_input_tokens": 5874,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6700,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6700,
+        "cache_read_input_tokens": 3870,
+        "input_tokens": 2,
+        "output_tokens": 421,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 544,
+    "output_tokens_details": {
+      "thinking_tokens": 38
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

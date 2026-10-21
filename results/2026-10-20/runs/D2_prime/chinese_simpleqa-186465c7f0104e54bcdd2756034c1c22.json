@@ -1,0 +1,142 @@
+{
+  "answer": "信号-量化杂讯比（SQNR）用**分贝（dB）**表示。\n\n依据：\n- Wikipedia 词条 \"Signal-to-quantization-noise ratio\"：SQNR 常用分贝表示，近似公式写作 `SQNR|dB = P_xν + 6.02ν + 4.77`。https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Signal-to-quantization-noise_ratio\n- Princeton 教程：\"The SQNR in dB is approximately equal to 6 times the number of bits\"。https://www.cs.princeton.edu/courses/archive/fall08/cos436/sensors/node41.html\n- ScienceDirect：定义 `SQNR_dB = 10 log10(Px/Pe)`。https://www.sciencedirect.com/topics/engineering/signal-to-quantization-noise-ratio",
+  "budget_denials": [],
+  "elapsed_seconds": 8.715,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0318744,
+      "inputTokens": 6117,
+      "maxOutputTokens": 32000,
+      "outputTokens": 346,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.0318744,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7129,
+      "query": "Signal-to-quantization-noise ratio SQNR unit decibels dB",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Signal Coding - The signal-to-noise ratio, which is SNR = Ps/Pquant",
+          "url": "https://www.sciencedirect.com/topics/engineering/signal-coding#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Problem: Noise",
+          "url": "https://www.cs.princeton.edu/courses/archive/fall08/cos436/sensors/node41.html#SECTION00053100000000000000"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Signal-to-Quantization Noise Ratio - Chapters and Articles",
+          "url": "https://www.sciencedirect.com/topics/engineering/signal-to-quantization-noise-ratio#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "This example demonstrates that the assumed model for quantization noise is useful in predicting the performance of uniform quant...",
+          "url": "https://ocw.mit.edu/courses/res-6-dtsp-discrete-time-signal-processing/mitres_6-dtsp_s26_thirdedition.pdf#189#40"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "where \\(q_{s}\\) is the quantization step as given in (2.3)",
+          "url": "http://www.diva-portal.org/smash/get/diva2:768594/FULLTEXT01.pdf#14#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[\\begin{array}{cc}",
+          "url": "https://upcommons.upc.edu/bitstream/handle/2117/428932/final_memorial.pdf?isAllowed=y&sequence=4#10#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "To do this, we use the SQNR metric (signal- to- quantization- noise ratio), which is conventionally measured in decibels",
+          "url": "https://arxiv.org/pdf/2608.26926#5#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "To calculate SQNR, the signal power and quantization noise power must be determined",
+          "url": "https://ir.library.oregonstate.edu/downloads/cr56n363d#7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Signal-to-quantization-noise ratio",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Signal-to-quantization-noise_ratio"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TorchAO Static FP8 Quantization (Linear)#",
+          "url": "https://docs.pytorch.org/TensorRT/tutorials/_rendered_examples/dynamo/torchao/quantize_linear_fp8_static.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6117,
+    "iterations": [],
+    "output_tokens": 346,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

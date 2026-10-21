@@ -1,0 +1,142 @@
+{
+  "answer": "**David Protein**（品牌名 David，母公司 Linus Technology）在 2025 年 5 月收购了 EPG 的唯一生产商 Epogee，交易金额约 7500 万美元。\n\n依据：\n- https://agfundernews.com/protein-bar-maker-david-acquires-novel-fat-maker-epogee-raises-75m-series-a-on-back-of-explosive-growth\n- https://www.foodbusinessnews.net/articles/28379-david-raises-75-million-in-series-a-round\n- https://www.bakingbusiness.com/articles/64088-in-court-filing-david-denies-hoarding-ingredient （文中提到，David 是 Epogee 的最大客户，占其约 90% 的供应量）",
+  "budget_denials": [],
+  "elapsed_seconds": 4.828,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0397488,
+      "inputTokens": 8527,
+      "maxOutputTokens": 32000,
+      "outputTokens": 259,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-014",
+  "raw": "jsonl/D2/custom-014.jsonl",
+  "reported_cost_usd": 0.0397488,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7174,
+      "query": "2025 protein bar brand acquired Epogee EPG sole manufacturer",
+      "results": [
+        {
+          "date": "2026-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Protein",
+          "url": "https://time.com/collection/time100-most-influential-companies/2026/david-protein/?filters=Disrupters"
+        },
+        {
+          "date": "2025-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Protein Accused of Cutting Off Competitors in New Lawsuit",
+          "url": "https://www.thefashionlaw.com/david-protein-accused-of-cutting-off-competitors-in-market-monopoly-lawsuit/"
+        },
+        {
+          "date": "2026-09-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EPG: How a Decades-Old Fat Substitute Became a Modern Patent and Supply-Chain Battleground - Register now for your free, tailored, daily legal newsfeed service.",
+          "url": "https://www.lexology.com/library/detail.aspx?g=741040e3-4f74-4bb1-9907-50acfcf6f95b#1"
+        },
+        {
+          "date": "2026-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein Bars, Market Definition And Injunctions",
+          "url": "https://webiis08.mondaq.com/unitedstates/antitrust-eu-competition/1737410/#authors#1"
+        },
+        {
+          "date": "2025-06-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What is Epogee, the Novel Fat Maker Sparking UPF Controversy & A Protein Bar War?",
+          "url": "https://www.greenqueen.com.hk/david-protein-bar-epogee-epg-fat-seed-oil-ultra-processed/?utm_source=green-queen-future-food-weekly.beehiiv.com&utm_medium=referral&utm_campaign=the-ai-powered-natural-glp-1-peptide-that-could-rival-ozempic-future-food-weekly"
+        },
+        {
+          "date": "2026-09-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David parent secures $250 million - Home » Sugar Reduction » David parent secures $250 million",
+          "url": "https://www.bakingbusiness.com/articles/66848-david-parent-secures-250-million#1"
+        },
+        {
+          "date": "2025-06-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In court filing, David denies hoarding ingredient",
+          "url": "https://www.bakingbusiness.com/articles/64088-in-court-filing-david-denies-hoarding-ingredient#1"
+        },
+        {
+          "date": "2025-06-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dairy - Articles - Page 55",
+          "url": "https://www.dairyprocessing.com/articles/keyword/2379-dairy?__cf_chl_rt_tk=uXU9Xt0duatancf4Wrzrnev.DHT3IhO37n6DdrB8i_o-1772323824-1.0.1.1-GcuI38AJqnbd5xC.u4Pf70yQamAmU8wo7dVVcf5V0VU&page=55"
+        },
+        {
+          "date": "2025-05-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David raises $75 million in Series A round",
+          "url": "https://www.foodbusinessnews.net/articles/28379-david-raises-75-million-in-series-a-round?utm_source=www.thetech.buzz&utm_medium=referral&utm_campaign=beyond-tech"
+        },
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein bar maker David acquires novel fat maker Epogee, raises $75m Series A on back of ‘explosive’ growth",
+          "url": "https://agfundernews.com/protein-bar-maker-david-acquires-novel-fat-maker-epogee-raises-75m-series-a-on-back-of-explosive-growth?utm_source=convertkit&utm_medium=email&utm_campaign=How+are+agrifood+corporates+driving+the+AI+agenda%3F+Mystery+buyer+for+Merit+plant%2C+Jorge+Heraud+on+%27the+#1%20opportunity%20in%20agtech,%27%20biocontrol%20funding%20in%20focus,%20Farm%20QA%27s%20seed%20round,%20MeliBio%20acquisition%20-%2017787970"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8527,
+    "iterations": [],
+    "output_tokens": 259,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

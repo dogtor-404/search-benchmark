@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:2016 年。**\n\n《Express Tribune》在 2016 年 4 月 13 日刊出这篇报道,标题是 “AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’”。正文第一句就是你引用的那句话。\n\n依据网址:\n- https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope\n- 同一报纸 2016 年 9 月的另一篇报道也回顾了这件事:https://tribune.com.pk/story/1186712/successful-feat-rare-heart-procedure-performed\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.633,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 11027,
+      "cacheReadInputTokens": 5903,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0481263,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 342,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-829",
+  "raw": "jsonl/B/simpleqa_verified-829.jsonl",
+  "reported_cost_usd": 0.0481263,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7018,
+      "query": "Express Tribune Aga Khan University Hospital first Neuro-Robotic Exoscope Pakistan brain surgery",
+      "results": [
+        {
+          "date": "2026-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKUH,P - Home",
+          "url": "https://hospitals.aku.edu/pakistan/others/departments/department-of-surgery/section-of-neurosurgery"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Section of Neurosurgery",
+          "url": "https://hospitals.aku.edu/pakistan/Health-Services/department-of-surgery/section-of-neurosurgery/Pages/default.aspx"
+        },
+        {
+          "date": "2016-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’ | The Express Tribune - AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’",
+          "url": "https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope#1"
+        },
+        {
+          "date": "2016-09-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rare heart procedure performed in Pakistan | The Express Tribune - Rare heart procedure performed in Pakistan",
+          "url": "https://tribune.com.pk/story/1186712/successful-feat-rare-heart-procedure-performed#1"
+        },
+        {
+          "date": "2017-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "State-of-the-art brain surgery technology comes to AKUH | The Express Tribune - State-of-the-art brain surgery technology comes to AKUH",
+          "url": "https://tribune.com.pk/story/1501304/state-art-brain-surgery-technology-comes-akuh#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Use of Neuro-Robotic Exoscope for Neurosurgery in Pakistan: A Case Series",
+          "url": "https://scholar.archive.org/work/zvbru5dkyfh4jpxfiqpo5ktgde"
+        },
+        {
+          "date": "2016-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKU becomes country’s first hospital to introduce ‘Neuro-Robotic Exoscope’ | The Express Tribune - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20211130010011/https://tribune.com.pk/story/1083560/medical-development-aku-becomes-countrys-first-hospital-to-introduce-neuro-robotic-exoscope#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE ACA KHAN UNIVERSITY",
+          "url": "https://ecommons.aku.edu/cgi/viewcontent.cgi?article=1243&context=pakistan_fhs_mc_surg_neurosurg#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Syed Ather ENAM | Scientific Director, Juma Research Laboratory | MD, PhD, FRCSI, FRCSC, FRCSG FACS, Diplomate American Board of Neurosurgery | Aga Khan University Hospital, Karachi, Karachi | AKUH | Department of Surgery | Research profile - Introduction: The SCARE Guidelines were published in 2016 to provide a structure for reporting surgical case reports",
+          "url": "https://www.researchgate.net/profile/Syed-Ather-Enam/3#2"
+        },
+        {
+          "date": "2023-04-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ather Enam - Wikipedia - Ather Enam",
+          "url": "https://en.wikipedia.org/wiki/Ather_Enam#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11027,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11027,
+    "cache_read_input_tokens": 5903,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9132,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9132,
+        "cache_read_input_tokens": 3899,
+        "input_tokens": 2,
+        "output_tokens": 245,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 342,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

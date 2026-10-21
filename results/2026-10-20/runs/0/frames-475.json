@@ -1,0 +1,72 @@
+{
+  "answer": "Hannah Arendt 葬在纽约州 Annandale-on-Hudson 的巴德学院（Bard College）。截至 2020 年，该校任期最长的校长是 Leon Botstein（里昂·博茨坦）。他自 1975 年起担任校长，到 2020 年已有约 45 年，而且仍在任。\n\n这是凭记忆回答的，没有联网核实。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.731,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1762,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.009398799999999999,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 219,
+      "provider": "firstParty",
+      "thinkingTokens": 84,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-475",
+  "raw": "jsonl/0/frames-475.jsonl",
+  "reported_cost_usd": 0.009398799999999999,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1762,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1762,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1762,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1762,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 219,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 219,
+    "output_tokens_details": {
+      "thinking_tokens": 84
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

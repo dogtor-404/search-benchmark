@@ -1,0 +1,9 @@
+{
+  "finished_at": "2026-10-20T12:33:26.520674+00:00",
+  "group": "D2",
+  "question_id": "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa",
+  "run_sha256": "d9761cb57147e6c3dbc4a7783c336ce1976d86546baa7a5a0bea11fea1eaa644",
+  "started_at": "2026-10-20T12:33:21.941833+00:00",
+  "status": "ok",
+  "workers": 4
+}

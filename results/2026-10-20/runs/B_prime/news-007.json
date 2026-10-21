@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** 作者是 **Hema Budaraju**，Google Search 产品管理副总裁（VP, Product Management）。\n\n**依据：**\n- 原帖：https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/ ，标题和 10 月 15 日的日期都对得上。不过搜索摘要里只有正文，没有作者署名。\n- 作者是从这篇中文报道里来的，它写明“Google 产品管理副总裁 Hema Budaraju 在官方公告中说明”这次更新：https://xn--4oq20hg9mc5eqzav18h.xn--fiqs8s/google-ai-overviews-ai-mode-source-links-update-2026-10-15/\n- 旁证：PPC Land 的报道 https://ppc.land/google-pushes-links-higher-in-ai-answers-as-preferred-sources-use-rises-7x/ 的摘要里也有 Hema Budaraju（Vice…）这个名字，但摘要被截断了，看不出这一句说的是 10 月 15 日这篇还是更早的帖子。\n\n只搜了 1 次。作者这一点来自第三方报道，我没能在 Google 原帖上直接看到署名。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.201,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 17970,
+      "cacheReadInputTokens": 5852,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1567264,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 589,
+      "provider": "firstParty",
+      "thinkingTokens": 90,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "news-007",
+  "raw": "jsonl/B_prime/news-007.jsonl",
+  "reported_cost_usd": 0.1567264,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8365,
+      "query": "\"More ways to connect with the web from Search\" Google blog",
+      "results": [
+        {
+          "date": "2026-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "More ways to connect with the web from Search",
+          "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google pushes links higher in AI answers as Preferred Sources use rises 7x",
+          "url": "https://ppc.land/google-pushes-links-higher-in-ai-answers-as-preferred-sources-use-rises-7x/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "More ways to connect with the web from Search | Bill Scully | 32 条评论",
+          "url": "https://www.linkedin.com/posts/billscully_more-ways-to-connect-with-the-web-from-search-activity-7517947129114406912-LGlj"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google调整AI搜索链接展示：AI Overviews与AI Mode增加来源入口，企业网站能否获得更多点击？",
+          "url": "https://xn--4oq20hg9mc5eqzav18h.xn--fiqs8s/google-ai-overviews-ai-mode-source-links-update-2026-10-15/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AI Overviews links: is Google sending more clicks now?",
+          "url": "https://aiwiz.uk/blog/ai-overviews-links-ai-mode-clicks/"
+        },
+        {
+          "date": "2025-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Supporting the web with new features and partnerships - Supporting the web with new features and partnerships",
+          "url": "https://blog.google/products-and-platforms/products/search/tools-partnerships-web-ecosystem/?trk=article-ssr-frontend-pulse_little-text-block#1"
+        },
+        {
+          "date": "2024-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Novas formas de se conectar com a web com as Visões Gerais criadas por IA - Novas formas de se conectar com a web com as Visões Gerais criadas por IA",
+          "url": "https://blog.google/intl/pt-br/produtos/explore-e-encontre-respostas/novas-formas-de-se-conectar-com-a-web-com-as-visoes-gerais-criadas-por-ia/#1"
+        },
+        {
+          "date": "2026-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Search Will Start Showing You More Ways to Go Down Rabbit Holes - CNET - Skip to content",
+          "url": "https://www.cnet.com/tech/services-and-software/google-search-will-start-showing-you-more-ways-to-go-down-rabbit-holes/#1"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google is working to make links in AI answers more prominent. - King of Computer Media",
+          "url": "https://en.kocpc.com.tw/archives/26383"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "구글, AI 검색에 웹사이트 링크 노출 확대… 언론사 기사 연결도 강화 - SEO NEWS",
+          "url": "https://seonews.co.kr/google-ai-search-website-links/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 17970,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 17970,
+    "cache_read_input_tokens": 5852,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16126,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16126,
+        "cache_read_input_tokens": 3848,
+        "input_tokens": 2,
+        "output_tokens": 516,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 589,
+    "output_tokens_details": {
+      "thinking_tokens": 90
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

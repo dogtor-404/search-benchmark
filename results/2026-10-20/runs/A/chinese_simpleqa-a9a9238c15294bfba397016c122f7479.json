@@ -1,0 +1,107 @@
+{
+  "answer": "**答案:毛利兰(小兰)。**\n\n在动画原创的《福尔摩斯的默示录》篇中,毛利家受英国贵族邀请去了英国。小兰在伦敦发现新一也在那里,追上他之后,新一正式向她告白。\n\n可信度:这条信息只来自一篇 Dcard 网友整理帖,我没有找到官方资料或第二个来源来核实。第一次搜索也没有直接查到这个篇章。\n\nSources:\n- [Dcard:充滿粉紅泡泡的愛情線(工藤新一&毛利蘭)](https://www.dcard.tw/f/conan/p/239687382)",
+  "budget_denials": [],
+  "elapsed_seconds": 22.901,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023470900000000003,
+      "inputTokens": 27214,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1499,
+      "provider": "firstParty",
+      "thinkingTokens": 545,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4038,
+      "cacheReadInputTokens": 12076,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0227416,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 537,
+      "provider": "firstParty",
+      "thinkingTokens": 102,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-a9a9238c15294bfba397016c122f7479",
+  "raw": "jsonl/A/chinese_simpleqa-a9a9238c15294bfba397016c122f7479.jsonl",
+  "reported_cost_usd": 0.046212500000000004,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "名侦探柯南 福尔摩斯的默示录 工藤新一 伦敦 表白",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_018XAeGV4DS3tmmt47kX9L9K"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "柯南 \"福尔摩斯的默示录\" 新一 伦敦 向小兰表白 动画",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014F5YyhXistFJqpKZ6mgMYk"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4038,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4038,
+    "cache_read_input_tokens": 12076,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1172,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1172,
+        "cache_read_input_tokens": 5317,
+        "input_tokens": 2,
+        "output_tokens": 224,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 537,
+    "output_tokens_details": {
+      "thinking_tokens": 102
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

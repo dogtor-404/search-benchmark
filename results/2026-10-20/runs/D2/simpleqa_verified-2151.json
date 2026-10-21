@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：The Beatles 的《I Want to Hold Your Hand》**（《我想握住你的手》）。\n\n在 Hands Across Hawthorne（2011 年 5 月 29 日，波特兰霍桑大桥）集会上，Brad Forkner 演讲之后，Basic Rights Oregon 的执行主任 Jeana Frazzini 号召大家为 Q Patrol（酷儿巡逻队）做志愿者，随后人群合唱了这首歌。\n\n依据：https://en.wikipedia.org/wiki/Hands_Across_Hawthorne （原文：“During the rally, the crowd sang the Beatles' 'I Want to Hold Your Hand'.”）",
+  "budget_denials": [],
+  "elapsed_seconds": 6.458,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0728144,
+      "inputTokens": 16442,
+      "maxOutputTokens": 32000,
+      "outputTokens": 328,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-2151",
+  "raw": "jsonl/D2/simpleqa_verified-2151.jsonl",
+  "reported_cost_usd": 0.0728144,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7204,
+      "query": "Hands Across Hawthorne 2011 rally Beatles song crowd sang",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "+2151,\"In 2011, during the Hands Across Hawthorne rally, which followed Brad Forkner's speech and Basic Rights Oregon's call for...",
+          "url": "https://huggingface.co/datasets/xinlei55555/simpleqa_verified/commit/3370a4e4a9e686e1b20c27290f053b0b77683493.diff?file=simpleqa_verified.csv#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2011 Hands Across Hawthorne Rally Beatles Song Crowd Sang - Instagram",
+          "url": "https://www.instagram.com/popular/2011-hands-across-hawthorne-rally-beatles-song-crowd-sang/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne Beatles Song Crowd Sang",
+          "url": "https://www.latest.instagram.com/popular/hands-across-hawthorne-beatles-song-crowd-sang/?utm_source=topic_pill"
+        },
+        {
+          "date": "2011-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Date | May 29, 2011",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": "2011-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Hands Across Hawthorne",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Hands Across Hawthorne",
+          "url": "https://ipfs.io/ipfs/QmehSxmTPRCr85Xjgzjut6uWQihoTfqg9VVihJ892bmZCp/Hands_Across_Hawthorne.html#1"
+        },
+        {
+          "date": "2011-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20221014012907/https://en.wikipedia.org/wiki/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Alchetron, The Free Social Encyclopedia - Alchetron",
+          "url": "https://alchetron.com/Hands-Across-Hawthorne#Assault#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2016-04 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "http://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FHands_Across_Hawthorne#1"
+        },
+        {
+          "date": "2011-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Folks gather for 'Hands Across Hawthorne'",
+          "url": "https://web.archive.org/web/20120325012847/http://portlandcitycenter.katu.com/news/community-spirit/folks-gather-hands-across-hawthorne/440795"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.798,
+      "query": "\"Hands Across Hawthorne\" Brad Forkner \"Queer Patrol\"",
+      "results": [
+        {
+          "date": "2026-06-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "핸즈 어크로스 호손 - 위키백과, 우리 모두의 백과사전 - - 2026년 아시안 게임 에디터톤이 9월 4일부터 10월 6일까지 진행됩니다",
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%B8%EC%A6%88_%EC%96%B4%ED%81%AC%EB%A1%9C%EC%8A%A4_%ED%98%B8%EC%86%90#1"
+        },
+        {
+          "date": "2016-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "攜手霍桑 - 維基百科，自由的百科全書 - 攜手霍桑",
+          "url": "https://zh.m.wikipedia.org/zh-tw/%E6%90%BA%E6%89%8B%E9%9C%8D%E6%A1%91#1"
+        },
+        {
+          "date": "2016-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "携手霍桑 - 维基百科，自由的百科全书 - 携手霍桑",
+          "url": "https://zh.m.wikipedia.org/zh/%E6%90%BA%E6%89%8B%E9%9C%8D%E6%A1%91#1"
+        },
+        {
+          "date": "2011-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Hands Across Hawthorne",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": "2011-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Date | May 29, 2011",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Hands Across Hawthorne",
+          "url": "https://ipfs.io/ipfs/QmehSxmTPRCr85Xjgzjut6uWQihoTfqg9VVihJ892bmZCp/Hands_Across_Hawthorne.html#1"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Alchetron, The Free Social Encyclopedia - Alchetron",
+          "url": "https://alchetron.com/Hands-Across-Hawthorne#Assault#1"
+        },
+        {
+          "date": "2011-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - Wikiwand - Reading on Wikiwand",
+          "url": "https://www.wikiwand.com/en/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": "2017-09-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hands Across Hawthorne - The Wayback Machine - http://web",
+          "url": "http://web.archive.org/web/20171204162441/https://en.wikipedia.org/wiki/Hands_Across_Hawthorne#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "+2151,\"In 2011, during the Hands Across Hawthorne rally, which followed Brad Forkner's speech and Basic Rights Oregon's call for...",
+          "url": "https://huggingface.co/datasets/xinlei55555/simpleqa_verified/commit/3370a4e4a9e686e1b20c27290f053b0b77683493.diff?file=simpleqa_verified.csv#15"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 16442,
+    "iterations": [],
+    "output_tokens": 328,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

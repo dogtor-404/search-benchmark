@@ -1,0 +1,9 @@
+{
+  "finished_at": "2026-10-20T13:24:46.627518+00:00",
+  "group": "D2_prime",
+  "question_id": "news-008",
+  "run_sha256": "81942c7d9c96b75a58f64920b3a26159f2c9d35937d24854a61fe8462ac4c0ac",
+  "started_at": "2026-10-20T13:24:37.912039+00:00",
+  "status": "ok",
+  "workers": 4
+}

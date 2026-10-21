@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：William Berger（William \"Bill\" Michael Berger，常署名 Wm. Berger）。** 我只搜了 1 次。\n\n1986 年底，WFMU 的 DJ William Berger 在自己的节目里每周拿出半小时，专门播放听众寄来的家庭录音，这个环节就叫 \"Lo-Fi\"。\"lo-fi\" 这个说法就是从这里传开的。他在 WFMU 主持的节目叫 The Hip Bone。\n\n依据：\n- 维基百科 Lo-fi music 词条：https://en.wikipedia.org/wiki/Lo-fi_(music)\n- DBpedia 摘要（原文是 \"adopted in late 1986 by WFMU DJ William Berger… weekly half hour segment… under the name Lo-Fi\"）：http://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FLo-fi_music\n- 当年 Lo-Fi 节目的参与者 Ray Brazen 的回忆：http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html",
+  "budget_denials": [],
+  "elapsed_seconds": 10.395,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9537,
+      "cacheReadInputTokens": 5867,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0901254,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 632,
+      "provider": "firstParty",
+      "thinkingTokens": 137,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-002",
+  "raw": "jsonl/B_prime/custom-002.jsonl",
+  "reported_cost_usd": 0.0901254,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6597,
+      "query": "WFMU 1986 \"Low-Fi\" segment DJ home tapes William Berger",
+      "results": [
+        {
+          "date": "2005-12-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo-fi music - Wikipedia - Lo-fi music",
+          "url": "https://en.wikipedia.org/wiki/Lo-fi_(music)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Matches in DBpedia 2016-04 for { <http://dbpedia.org/resource/Lo-fi_music> ?p ?o } - DBpedia – Linked Data Fragments",
+          "url": "http://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FLo-fi_music#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2016-04 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fwikidata.dbpedia.org%2Fresource%2FQ1507298#1"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lo fi music - Alchetron, The Free Social Encyclopedia",
+          "url": "https://alchetron.com/Lo-fi-music"
+        },
+        {
+          "date": "2017-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LO-FI ON THE LOWER EAST SIDE 1986-1990",
+          "url": "http://raybrazen.blogspot.com/2017/02/lo-fi-on-lower-east-side-1986-1991.html"
+        },
+        {
+          "date": "2017-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WILLIAM M. BERGER, 1964-2017",
+          "url": "http://raybrazen.blogspot.com/2017/09/william-m-berger-1964-2017.html?showComment=1510062850759#c3096761326176810728"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chasing Ghosts: WFMU Airchecks",
+          "url": "https://www.worldradiohistory.com/hd2/IDX-Site-Technical/Engineering-Broadcast/Radio-World-IDX/IDX/2006/Radio-World-2006-03-15-IDX-12.pdf#1#1"
+        },
+        {
+          "date": "2018-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wm. Berger",
+          "url": "https://dev.metal-archives.com/artists/Wm._Berger/738568"
+        },
+        {
+          "date": "2017-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "William Berger Memorial Page: Wm. Berger presents My Castle of Quiet - Wm. Berger presents My Castle of Quiet: Playlist from September 21, 2017",
+          "url": "https://wfmu.org/playlists/shows/74970#1"
+        },
+        {
+          "date": "2026-09-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wm Berger's The Hip Bone program: A Brief History of WFMU - A Brief History of WFMU: Playlist from October 1, 2026",
+          "url": "https://wfmu.org/playlists/shows/168922#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9537,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9537,
+    "cache_read_input_tokens": 5867,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7678,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7678,
+        "cache_read_input_tokens": 3863,
+        "input_tokens": 2,
+        "output_tokens": 410,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 632,
+    "output_tokens_details": {
+      "thinking_tokens": 137
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

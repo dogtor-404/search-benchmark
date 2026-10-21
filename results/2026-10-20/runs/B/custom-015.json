@@ -1,0 +1,154 @@
+{
+  "answer": "**第一作者是 Kevin D. Hall(凯文·霍尔)。**\n\n这项试验发表在《Cell Metabolism》2019 年第 30 卷第 1 期,第 67–77 页。题目是 *Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake*。20 名成年人住进 NIH 临床中心,随机先吃超加工饮食或未加工饮食 2 周,再换另一种饮食 2 周。\n\n依据的网址:\n- https://pubmed.ncbi.nlm.nih.gov/?term=R+Ouwerkerk#1(PubMed 检索结果,作者列表以 Hall KD 开头,PMID 31105044)\n- https://www.sciencedirect.com/science/article/pii/S1550413119302608(《Cell Metabolism》勘误页,作者列表第一位是 Kevin D. Hall)",
+  "budget_denials": [],
+  "elapsed_seconds": 15.049,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10658,
+      "cacheReadInputTokens": 5852,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.047525200000000004,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 430,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-015",
+  "raw": "jsonl/B/custom-015.jsonl",
+  "reported_cost_usd": 0.047525200000000004,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7519,
+      "query": "2019 NIH ultra-processed diet randomized controlled trial inpatient first author Cell Metabolism",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "M Gharib - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=M+Gharib#1"
+        },
+        {
+          "date": "2025-08-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-processed diets cause excess calorie intake and weight gain: A one-month inpatient randomized controlled trial of ad libitum food intake - Find journal articles, conference proceedings and datasets deposited in A*OAR",
+          "url": "https://oar.a-star.edu.sg/public/communities-collections/articles/16056?collectionId=13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chen_2019_Foods_8_ - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Chen_2019_Foods_8_#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Medline ® Abstract for Reference 12 of 'Obesity in adults: Behavioral therapy'",
+          "url": "https://www.uptodate.com/contents/obesity-in-adults-behavioral-therapy/abstract/12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "R Ouwerkerk - Search Results - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=R+Ouwerkerk#1"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - PubMed - Randomized Controlled Trial",
+          "url": "https://https-pubmed-ncbi-nlm-nih-gov-443.webvpn.ynu.edu.cn/31105044/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{\"version\":\"6.9\",\"hitCount\":1,\"request\":{\"queryString\":\"EXT_ID:31105044 AND SRC:MED\",\"internalQuery\":\"EXT_ID:31105044 AND SRC:ME...",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31105044%20AND%20SRC:MED&resulttype=core&format=json#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5. Hall, K",
+          "url": "https://www.nature.com/articles/s41598-025-92784-1.pdf#5#4"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1550413119302608?fr=RR-2&ref=pdf_download&rr=a10a1284acdc055c#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "HALL, K",
+          "url": "https://www.arca.fiocruz.br/bitstream/handle/icict/52365/TD_85.pdf?sequence=2&isAllowed=y#5#5"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10658,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10658,
+    "cache_read_input_tokens": 5852,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8814,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8814,
+        "cache_read_input_tokens": 3848,
+        "input_tokens": 2,
+        "output_tokens": 339,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 430,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

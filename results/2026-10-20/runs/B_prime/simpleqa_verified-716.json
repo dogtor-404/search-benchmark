@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：Equilux（equilux，“等光日”）**\n\n这个词由拉丁语 equi-（相等）和 lux（光）组成，指白天和黑夜真正一样长的那一天。春分、秋分那天白天其实会长几分钟，原因有两个：一是日出、日落按太阳圆面的上边缘算，不按圆心算；二是大气折射让人提前看到、延后看不到太阳。所以 equilux 不在春分、秋分当天，而是在它们前后几天，具体日期随纬度变化。\n\n依据的网址：\n- https://dictionary.obspm.fr/terms/equilux/ （天文学词源词典：“The date on which the day and night have exactly the same length”）\n- https://www.timeanddate.com/astronomy/equilux.html\n- https://www.bbc.co.uk/weather/weather-watcher/39319777\n\n另外，wordorigins.org 找到这个词最早的用例是 1986 年的一条 Usenet 帖子（https://wordorigins-org.ghost.io/equinox-equilux/），之后到 21 世纪才流行开来。\n\n共搜索 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 10.623,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 11601,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.103435,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 472,
+      "provider": "firstParty",
+      "thinkingTokens": 19,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-716",
+  "raw": "jsonl/B_prime/simpleqa_verified-716.jsonl",
+  "reported_cost_usd": 0.103435,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7219,
+      "query": "equilux neologism day and night exactly equal",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "équiluxe",
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26584145/equiluxe"
+        },
+        {
+          "date": "2017-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "And I do, hey, hey, hey, and I do",
+          "url": "https://www.stage.bbc.co.uk/blogs/simonmayo/entries/1e2e4f63-14cd-425a-a1e7-929302ebc477#comments"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "An Etymological Dictionary of Astronomy and Astrophysics",
+          "url": "https://dictionary.obspm.fr/terms/equilux/"
+        },
+        {
+          "date": "2017-03-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or Equilux? - ByElizabeth Rizzini",
+          "url": "https://www.bbc.co.uk/weather/weather-watcher/39319777#1"
+        },
+        {
+          "date": "2019-09-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What is the autumn equinox? - The sun is setting earlier and the nights are getting longer",
+          "url": "https://www.bbc.co.uk/weather/features/49722470#1"
+        },
+        {
+          "date": "2016-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or equilux? - Equinox or equilux?",
+          "url": "https://www.bbc.com/weather/weather-watcher/37434406#1"
+        },
+        {
+          "date": "2024-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "equinox / equilux",
+          "url": "https://wordorigins-org.ghost.io/equinox-equilux/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Equilux - What Is the Equilux?",
+          "url": "https://www.timeanddate.com/astronomy/equilux.html?__cf_chl_f_tk=mEYsPJrDWpYhG_PBjdTsHjhovjpQ2MxJYGqMt2hZQvs-1783393329-1.0.1.1-_HB1Q.Ygs5vrkwYP5zLAMG9jUy775wgLrQXDeA8BzMc#1"
+        },
+        {
+          "date": "2026-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pasitikome lygiadienį – bet jis žymi ne visai tą, ką dauguma galvoja",
+          "url": "https://www.lrytas.lt/it/visata/2026/09/23/news/pasitikome-lygiadieni-bet-jis-zymi-ne-visai-ta-ka-dauguma-galvoja-44119759"
+        },
+        {
+          "date": "2017-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Autumn equinox - ByChloe Moore",
+          "url": "https://www.bbc.com/weather/weather-watcher/41306674#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11601,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11601,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9754,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 383,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 472,
+    "output_tokens_details": {
+      "thinking_tokens": 19
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

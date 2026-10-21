@@ -1,0 +1,60 @@
+{
+  "answer": "是 **David Protein**（大卫蛋白棒）。\n\n据我所知，Epogee 是 EPG（酯化丙氧基甘油，一种低热量脂肪替代品）的唯一生产商，而 David 的蛋白棒正是靠 EPG 做到“150 卡、28 克蛋白”的卖点。2025 年 David 收购了 Epogee，以便锁定这一关键原料的供应。\n\n说明：当前无法联网，以上凭记忆回答，交易细节（时间、金额）我无法确认。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.358,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.030996000000000003,
+      "inputTokens": 1979,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1154,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-014",
+  "raw": "jsonl/D0/custom-014.jsonl",
+  "reported_cost_usd": 0.030996000000000003,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1979,
+    "iterations": [],
+    "output_tokens": 1154,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "**伊丽莎白二世的在位时间更长。**\n\n- **伊丽莎白二世在位**：1952年2月6日至2022年9月8日，约 **70年7个月**。\n- **尤利乌斯·凯撒的一生**：公元前100年7月（12日或13日）出生，公元前44年3月15日遇刺，约 **55年8个月**。\n\n前者比后者长大约15年。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.086,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1760,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0190416,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 232,
+      "provider": "firstParty",
+      "thinkingTokens": 96,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-513",
+  "raw": "jsonl/0_prime/frames-513.jsonl",
+  "reported_cost_usd": 0.0190416,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1760,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1760,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1760,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 232,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 232,
+    "output_tokens_details": {
+      "thinking_tokens": 96
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

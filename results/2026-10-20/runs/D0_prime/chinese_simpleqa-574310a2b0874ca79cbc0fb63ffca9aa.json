@@ -1,0 +1,60 @@
+{
+  "answer": "邢慈静是**明代（明朝）**人。她是明代书法家邢侗的妹妹，工于书法、绘画，也精于刺绣，因此有「针神」之称。",
+  "budget_denials": [],
+  "elapsed_seconds": 15.195,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.027983999999999995,
+      "inputTokens": 2041,
+      "maxOutputTokens": 32000,
+      "outputTokens": 991,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa.jsonl",
+  "reported_cost_usd": 0.027983999999999995,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2041,
+    "iterations": [],
+    "output_tokens": 991,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

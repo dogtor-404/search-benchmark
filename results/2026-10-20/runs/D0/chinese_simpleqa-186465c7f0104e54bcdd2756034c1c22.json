@@ -1,0 +1,60 @@
+{
+  "answer": "**分贝（dB）。**\n\n信号-量化噪声比（SQNR / SQNR）本质是信号功率与量化噪声功率之比，是一个无量纲的比值，工程上通常取 20log₁₀ 或 10log₁₀ 换算成**分贝**来表示。\n\n补充几点：\n\n- 对满量程正弦波、n 位均匀量化器，常用近似式是 **SQNR ≈ 6.02n + 1.76 dB**（每增加 1 bit 约提升 6 dB）。\n- 因为是无量纲比值，严格说它“没有物理单位”，dB 只是表示比值的对数单位。\n- 有时也会反过来用**比特（bits）**表示——即有效位数 ENOB = (SQNR − 1.76)/6.02，但这是等价表述，不是 SQNR 本身的单位。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.153,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.014708,
+      "inputTokens": 1977,
+      "maxOutputTokens": 32000,
+      "outputTokens": 340,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/D0/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.014708,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1977,
+    "iterations": [],
+    "output_tokens": 340,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "Wi-Fi 这个品牌名称是由品牌咨询公司 **Interbrand** 起的。1999 年，Wi-Fi 联盟（当时的 WECA）聘请 Interbrand 设计名称和标志，Interbrand 从 10 个候选名中提出了 \"Wi-Fi\"（仿照 \"Hi-Fi\" 的谐音）。\n\n依据网址：https://www.interbrandjapan.com/work/wi-fi_weca/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.841,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032242400000000004,
+      "inputTokens": 6764,
+      "maxOutputTokens": 32000,
+      "outputTokens": 235,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-001",
+  "raw": "jsonl/D2_prime/custom-001.jsonl",
+  "reported_cost_usd": 0.032242400000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7103,
+      "query": "Wi-Fi 品牌名称 由哪家品牌咨询公司 命名 Interbrand",
+      "results": [
+        {
+          "date": "2022-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ý nghĩa thực sự của cái tên Wi-Fi",
+          "url": "https://vtv6.vtv.vn/cong-nghe/y-nghia-thuc-su-cua-cai-ten-wi-fi-20220731073356753.htm"
+        },
+        {
+          "date": "2022-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ý nghĩa thực sự của cái tên Wi-Fi - Ý nghĩa thực sự của cái tên Wi-Fi",
+          "url": "https://vtv.vn/print/cong-nghe/y-nghia-thuc-su-cua-cai-ten-wi-fi-20220731073356753.htm#1"
+        },
+        {
+          "date": "2023-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi (WECA) - インターブランドジャパン",
+          "url": "https://www.interbrandjapan.com/work/wi-fi_weca/"
+        },
+        {
+          "date": "2005-05-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wi-Fi – Wikipedia - Wi-Fi",
+          "url": "https://de.wikipedia.org/wiki/Wi-Fi#Markenbegriff_/_Zertifizierung#1"
+        },
+        {
+          "date": "2023-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "People are just realising meaning behind WiFi - as company dispels popular myth - People are only just realising meaning behind WiFi - as company dispels popular myth",
+          "url": "https://www.mirror.co.uk/tech/people-only-just-realising-meaning-30709146#1"
+        },
+        {
+          "date": "2023-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "People are just realising what WiFi actually stands for - Advertisement",
+          "url": "https://www.dailymail.co.uk/lifestyle/article-12405277/People-just-realising-WiFi-actually-stands-answer-surprise-you.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What Does Wi-Fi Stand For? - BLOG",
+          "url": "https://www.corsair.com/es/lt/explorer/gamer/gaming-pcs/what-does-wi-fi-stand-for/#1"
+        },
+        {
+          "date": "2024-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "People horrified to learn meaning behind word Wi-Fi - it's not what it seems - People shocked after only just learning meaning behind the word Wi-Fi - and they're baffled",
+          "url": "https://www.mirror.co.uk/news/weird-news/people-shocked-after-only-just-32511187#1"
+        },
+        {
+          "date": "2024-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Was bedeutet Wi-Fi? Gar nichts und das steckt dahinter - Fundstück",
+          "url": "https://t3n.de/news/wifi-bedeutung-gar-nichts-1616315/?utm_source=rss&utm_medium=feed&utm_campaign=news#1"
+        },
+        {
+          "date": "2024-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Que signifie Wi-Fi ? - BLOG",
+          "url": "https://www.corsair.com/lm/fr/explorer/gamer/gaming-pcs/what-does-wi-fi-stand-for/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6764,
+    "iterations": [],
+    "output_tokens": 235,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

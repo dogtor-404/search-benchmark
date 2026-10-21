@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：Thomas Yates**，他是 McMurtry Automotive 的联合创始人兼董事总经理。他驾驶 Spéirling PURE Validation Prototype 1 驶上定制的旋转平台；平台翻转 180° 后，他靠风扇产生的约 2000 kg 下压力把车“吸”在平台底面，并在完全倒挂的状态下向前行驶了一段。\n\n依据网址：\n- https://www.topgear.com/car-news/electric/mcmurtry-speirling-first-car-world-drive-upside-down\n- https://www.theengineer.co.uk/content/news/mcmurtry-speirling-defies-gravity-using-fan-downforce\n- https://www.thedrive.com/news/watch-the-mcmurtry-speirling-fan-car-drive-upside-down\n- 中文报道：https://www.sinchew.com.my/news/20250415/international/6454316",
+  "budget_denials": [],
+  "elapsed_seconds": 6.973,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.073376,
+      "inputTokens": 15316,
+      "maxOutputTokens": 32000,
+      "outputTokens": 580,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-017",
+  "raw": "jsonl/D2/custom-017.jsonl",
+  "reported_cost_usd": 0.073376,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7219,
+      "query": "McMurtry Spéirling 倒挂行驶 2025年4月 驾驶员",
+      "results": [
+        {
+          "date": "2025-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "世界首辆倒挂行驶电动车！“蝙蝠风扇车”Speirling最新技术展示 - 国际 - 带你看世界",
+          "url": "https://www.sinchew.com.my/news/20250415/international/6454316"
+        },
+        {
+          "date": "2025-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry's party trick ... | Professional Motorsport World",
+          "url": "https://www.pmw-magazine.com/news/aerodynamics/mcmurtrys-party-trick.html"
+        },
+        {
+          "date": "2025-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Watch the McMurtry Speirling Fan Car Drive Upside Down - Watch the McMurtry Speirling Fan Car Drive Upside Down",
+          "url": "https://www.thedrive.com/news/watch-the-mcmurtry-speirling-fan-car-drive-upside-down#1"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "World-First: McMurtry Speirling Hypercar Drives Upside Down - Advertisement",
+          "url": "https://www.hemmings.com/stories/watch-a-world-first-the-mcmurtry-speirling-hypercar-drives-upside-down/#wp--skip-link--target#1"
+        },
+        {
+          "date": "2025-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ôtô chạy ở tư thế treo ngược nhờ lực ép - Thứ bảy, 12/4/2025, 10:56 (GMT+7)",
+          "url": "https://vnexpress.net/oto-chay-o-tu-the-treo-nguoc-nho-luc-ep-4873073.html#box_comment_vne#1"
+        },
+        {
+          "date": "2025-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry’s fan-powered hypercar breaks physics and track records - Electric & Hybrid Vehicle Technology International",
+          "url": "https://www.electrichybridvehicletechnology.com/news/mcmurtrys-fan-powered-hypercar-breaks-physics-and-track-records.html"
+        },
+        {
+          "date": "2025-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Meet The World's First Hypercar That Can Drive Upside Down",
+          "url": "https://www.ndtv.com/auto/meet-the-worlds-first-hypercar-that-can-drive-upside-down-8194304#pfrom-auto-topstories"
+        },
+        {
+          "date": "2025-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The McMurtry Spéirling is the first car in the world to DRIVE UPSIDE DOWN - Electric",
+          "url": "https://www.topgear.com/car-news/electric/mcmurtry-speirling-first-car-world-drive-upside-down#comments#1"
+        },
+        {
+          "date": "2025-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Deze auto kan ook op z'n kop rijden [video]",
+          "url": "https://www.autoblog.nl/nieuws/deze-auto-kan-ook-op-zn-kop-rijden-video-7094115#comment-5866839"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry Spéirling defies gravity using fan downforce - The Engineer",
+          "url": "https://www.theengineer.co.uk/content/news/mcmurtry-speirling-defies-gravity-using-fan-downforce#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.789,
+      "query": "McMurtry Speirling upside down drive April 2025 driver",
+      "results": [
+        {
+          "date": "2025-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Watch the McMurtry Speirling Fan Car Drive Upside Down - Watch the McMurtry Speirling Fan Car Drive Upside Down",
+          "url": "https://www.thedrive.com/news/watch-the-mcmurtry-speirling-fan-car-drive-upside-down#1"
+        },
+        {
+          "date": "2025-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry's party trick ... | Professional Motorsport World",
+          "url": "https://www.pmw-magazine.com/news/aerodynamics/mcmurtrys-party-trick.html"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry Spéirling defies gravity using fan downforce - The Engineer",
+          "url": "https://www.theengineer.co.uk/content/news/mcmurtry-speirling-defies-gravity-using-fan-downforce#1"
+        },
+        {
+          "date": "2025-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Meet The World's First Hypercar That Can Drive Upside Down",
+          "url": "https://www.ndtv.com/auto/meet-the-worlds-first-hypercar-that-can-drive-upside-down-8194304#pfrom-auto-topstories"
+        },
+        {
+          "date": "2025-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The McMurtry Spéirling is the first car in the world to DRIVE UPSIDE DOWN - Electric",
+          "url": "https://www.topgear.com/car-news/electric/mcmurtry-speirling-first-car-world-drive-upside-down#comments#1"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry Speirling becomes the first car to drive upside down",
+          "url": "https://www.shropshirestar.com/lifestyle/cars/mcmurtry-speirling-becomes-the-first-car-to-drive-upside-down-5707478"
+        },
+        {
+          "date": "2025-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "McMurtry’s fan-powered hypercar breaks physics and track records - Electric & Hybrid Vehicle Technology International",
+          "url": "https://www.electrichybridvehicletechnology.com/news/motorsport-electrification/mcmurtrys-fan-powered-hypercar-breaks-physics-and-track-records.html"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "World-First: McMurtry Speirling Hypercar Drives Upside Down - Advertisement",
+          "url": "https://www.hemmings.com/stories/watch-a-world-first-the-mcmurtry-speirling-hypercar-drives-upside-down/#wp--skip-link--target#1"
+        },
+        {
+          "date": "2025-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Watch: McMurtry is the world's first car to drive upside down - Watch: McMurtry is the world's first car to drive upside down",
+          "url": "https://newatlas.com/automotive/mcmurtry-speirling-pure-vp1-drives-upside-down/#comments#1"
+        },
+        {
+          "date": "2025-04-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "News: WATCH: McMurtry’s Spéirling stuns with gravity-defying stunt",
+          "url": "https://www.carsifu.my/news/watch-mcmurtrys-speirling-stuns-with-gravity-defying-stunt"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 15316,
+    "iterations": [],
+    "output_tokens": 580,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

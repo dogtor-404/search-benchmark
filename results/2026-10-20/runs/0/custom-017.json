@@ -1,0 +1,72 @@
+{
+  "answer": "我不知道。\n\n我记得 McMurtry Spéirling 靠风扇产生的下压力,理论上可以倒挂行驶。Max Chilton 在 2022 年古德伍德速度节爬坡赛上驾驶它跑出了 39.08 秒的纪录。但 2025 年 4 月那次倒挂演示的驾驶员是谁,我没有可靠的记忆。Chilton 可能是人选,但这只是猜测,我不会当作答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.862,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1772,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115488,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 430,
+      "provider": "firstParty",
+      "thinkingTokens": 267,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-017",
+  "raw": "jsonl/0/custom-017.jsonl",
+  "reported_cost_usd": 0.0115488,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1772,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1772,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1772,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1772,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 430,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 430,
+    "output_tokens_details": {
+      "thinking_tokens": 267
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

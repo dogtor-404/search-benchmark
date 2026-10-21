@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：Apache License 2.0**（Apache-2.0）。\n\n依据（搜了 1 次）：\n- Lean 4 官方仓库的许可证文件写的是 “Licensed under the Apache License, Version 2.0”：https://github.com/leanprover/lean4/blob/v4.30.0-rc1/LICENSES\n- Gentoo 和 Spack 给 Lean 4 打包时都标为 `Apache-2.0`：http://dk.archive.ubuntu.com/mirrors/pub/pub/mirrors/mirrors/gentoo-portage/sci-mathematics/lean/lean-4.24.0.ebuild 、https://raw.githubusercontent.com/spack/spack-packages/refs/heads/develop/repos/spack_repo/builtin/packages/lean4/package.py\n- 中文维基百科的“Lean”词条也写许可证为 Apache License 2.0：https://zh.wikipedia.org/zh-hans/Lean\n\n补充：这个 `LICENSES` 文件里还有带 “LLVM Exceptions” 的 Apache 2.0 条款。从搜索摘要推断，这段条款应该是给仓库里打包的第三方组件用的，Lean 4 本身用的是 Apache 2.0。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.771,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5566,
+      "cacheReadInputTokens": 5837,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0569914,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 564,
+      "provider": "firstParty",
+      "thinkingTokens": 51,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-007",
+  "raw": "jsonl/B_prime/custom-007.jsonl",
+  "reported_cost_usd": 0.0569914,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6009,
+      "query": "Lean 4 leanprover/lean4 license Apache 2.0",
+      "results": [
+        {
+          "date": "2026-03-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "lean4/LICENSES at v4.30.0-rc1 · leanprover/lean4 · GitHub - ==============================================================================",
+          "url": "https://github.com/leanprover/lean4/blob/v4.30.0-rc1/LICENSES#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Content - 813da297567374691eaae7a88739dbbefd2afdfd - 45a1df0/LICENSE - https://github.com/leanprover/lean",
+          "url": "https://archive.softwareheritage.org/browse/content/sha1_git:813da297567374691eaae7a88739dbbefd2afdfd/?origin_url=https://github.com/leanprover/lean&path=LICENSE#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://raw.githubusercontent.com/spack/spack-packages/refs/heads/develop/repos/spack_repo/builtin/packages/lean4/package.py"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[gentoo-commits] repo/gentoo:master commit in: sci-mathematics/lean/ - +EAPI=8",
+          "url": "https://archives.gentoo.org/gentoo-commits/1783172759.90a4356bcabfaa0e391be5694e3cc4dd112aed20.xgqt@gentoo/T/#u#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "http://dk.archive.ubuntu.com/mirrors/pub/pub/mirrors/mirrors/gentoo-portage/sci-mathematics/lean/lean-4.24.0.ebuild"
+        },
+        {
+          "date": "2024-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean - Lean",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_zh_all_maxi/Lean#1"
+        },
+        {
+          "date": "2024-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean：修订间差异 - 维基百科，自由的百科全书 - Lean：修订间差异",
+          "url": "https://zh.wikipedia.org/?diff=prev&oldid=83122582#1"
+        },
+        {
+          "date": "2024-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean - 維基百科，自由的百科全書 - Lean",
+          "url": "https://zh.wikipedia.org/zh-mo/Lean#1"
+        },
+        {
+          "date": "2024-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "FreshPorts -- math/lean4: Theorem prover and functional language for math (new gen) - As an Amazon Associate I earn from qualifying purchases",
+          "url": "https://www.freshports.org/math/lean4?branch=2024Q2#1"
+        },
+        {
+          "date": "2024-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/zh-hans/Lean#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5566,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5566,
+    "cache_read_input_tokens": 5837,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3737,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3737,
+        "cache_read_input_tokens": 3833,
+        "input_tokens": 2,
+        "output_tokens": 486,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 564,
+    "output_tokens_details": {
+      "thinking_tokens": 51
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

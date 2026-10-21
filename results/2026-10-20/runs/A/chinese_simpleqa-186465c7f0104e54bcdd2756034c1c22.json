@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：分贝（dB）。**\n\nSQNR 是信号功率与量化噪声功率之比取对数，所以用 dB 表示。按功率比算是 10·log10(信号功率/噪声功率)。按电压比算则用 20·log10。\n\n在 A/D 转换里，经验值是每增加 1 个量化位，SQNR 约增加 6 dB。例如 16 位约为 96 dB。\n\n我只搜了 1 次。上面的公式和经验值来自搜索结果的摘要，我没有打开原页面核对。\n\nSources:\n- [A Quantization-Friendly Separable Convolution for MobileNets](https://arxiv.org/pdf/1803.08607)\n- [Because the ADC outputs only levels there is inherently noise in the quantized (CCRMA, Stanford)](https://ccrma.stanford.edu/CCRMA/Courses/252/sensors/node41.html)\n- [signal to quantization noise ratio (SQNR) – itwissen.info](https://itwissen.info/en/signal-to-quantization-noise-ratio-SQNR.html)\n- [Signal-to-Quantization Noise Ratio (SQNR) – Vibration Research](https://vru.vibrationresearch.com/lesson/signal-to-quantization-noise-ratio-sqnr/)",
+  "budget_denials": [],
+  "elapsed_seconds": 14.391,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011618700000000001,
+      "inputTokens": 12832,
+      "maxOutputTokens": 128000,
+      "outputTokens": 671,
+      "provider": "firstParty",
+      "thinkingTokens": 144,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2968,
+      "cacheReadInputTokens": 6753,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0179353,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 538,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+  "raw": "jsonl/A/chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22.jsonl",
+  "reported_cost_usd": 0.029554,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "信号量化噪声比 SQNR 单位 分贝",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QgHA5XTn4LtEfDCVM86jwL"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2968,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2968,
+    "cache_read_input_tokens": 6753,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1117,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1117,
+        "cache_read_input_tokens": 4302,
+        "input_tokens": 2,
+        "output_tokens": 447,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 538,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

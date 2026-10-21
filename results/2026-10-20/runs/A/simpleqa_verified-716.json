@@ -1,0 +1,98 @@
+{
+  "answer": "答案是 **equilux**,由拉丁语表示“相等”和“光”的词构成。它指某地白昼与黑夜最接近等长(各约 12 小时)的那一天。\n\n它和春分、秋分(equinox)不是一回事。春分、秋分指太阳圆面中心穿过赤道的时刻。equilux 的日期因纬度而异。例如得州 College Station 是 9 月 26 日,怀俄明州 Casper 是 9 月 25 日。搜索结果对“完全相等”的说法有分歧。CJR 的文章指出,这一天的白昼比黑夜仍长约 1 秒,所以严格来说并不精确相等。\n\n我只搜了 1 次。上面的结果没有直接说明这个词在 21 世纪才流行,这一点我没有核实。\n\nSources:\n- [Day and night: EQUILUX vs EQUINOX (KBTX)](https://www.kbtx.com/2024/09/25/equinox-versus-equilux/)\n- [equinox equilux (CJR)](https://www.cjr.org/language_corner/equinox-equilux.php)\n- [The equinox myth: Day and night aren't actually equal (The Weather Network)](https://www.theweathernetwork.com/en/news/weather/seasonal/the-equinox-myth-day-and-night-arent-actually-equal?cus=%3D%3D)\n- [Day and Night Aren't Equal on the Equinox: It's Equilux](https://ozgurnevres.com/day-night-equal-equinox-equilux/)",
+  "budget_denials": [],
+  "elapsed_seconds": 17.941,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117598,
+      "inputTokens": 13623,
+      "maxOutputTokens": 128000,
+      "outputTokens": 795,
+      "provider": "firstParty",
+      "thinkingTokens": 228,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3159,
+      "cacheReadInputTokens": 6753,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.019479299999999998,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 616,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-716",
+  "raw": "jsonl/A/simpleqa_verified-716.jsonl",
+  "reported_cost_usd": 0.0312391,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "neologism equinox date day and night exactly equal \"equilux\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Tzoi7a7WiofjmQX2X5XwAb"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3159,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3159,
+    "cache_read_input_tokens": 6753,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1308,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1308,
+        "cache_read_input_tokens": 4302,
+        "input_tokens": 2,
+        "output_tokens": 525,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 616,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

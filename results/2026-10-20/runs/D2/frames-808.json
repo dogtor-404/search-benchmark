@@ -1,0 +1,300 @@
+{
+  "answer": "**詹姆斯·乔伊斯（James Joyce）和弗吉尼亚·伍尔夫（Virginia Woolf）** 都生于 1882 年、卒于 1941 年。\n\n**弗吉尼亚·伍尔夫活得更久，比乔伊斯多 82 天。**\n\n- 乔伊斯：1882-02-02 生，1941-01-13 去世，共 **21,529 天**\n- 伍尔夫：1882-01-25 生，1941-03-28 去世，共 **21,611 天**\n- 伍尔夫比乔伊斯早出生 8 天，又比乔伊斯晚去世 74 天，因此她的寿命共多出 **8 + 74 = 82 天**。\n\n依据：\n- Britannica, James Joyce：https://www.britannica.com/biography/James-Joyce\n- GZH 文章（给出两人的生卒日期，并指出伍尔夫比乔伊斯晚 74 天去世）：https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2023/06/no-ling-mrs-dalloway-encontra-mr-bloom-cliw1wpuj009p0156kj3ukih5.html\n- 《Parallaxes: Virginia Woolf Meets James Joyce》介绍页（确认两人同为 1882–1941）：https://www.readings.com.au/product/9781443856232/parallaxes-virginia-woolf-meets-james-joyce----2014--9781443856232",
+  "budget_denials": [],
+  "elapsed_seconds": 22.704,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 15744,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.14598080000000002,
+      "inputTokens": 13963,
+      "maxOutputTokens": 32000,
+      "outputTokens": 4349,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-808",
+  "raw": "jsonl/D2/frames-808.jsonl",
+  "reported_cost_usd": 0.14598080000000002,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7495,
+      "query": "James Joyce born 2 February 1882 died 13 January 1941 Virginia Woolf born 25 January 1882 died 28 March 1941",
+      "results": [
+        {
+          "date": "2021-01-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A sra. Dalloway e o sr. Bloom vão às compras",
+          "url": "https://revistacult.uol.com.br/home/sra-dalloway-e-o-sr-bloom-vao-as-compras/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Parallaxes: Virginia Woolf Meets James Joyce",
+          "url": "https://ar.library.dctabudhabi.ae/eds/detail?db=nlebk&an=759532&isbn=9781443859271"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Things you might not know about Virginia Woolf",
+          "url": "http://susansellers.co.uk/tag/flush/"
+        },
+        {
+          "date": "2023-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No Ling, Mrs. Dalloway encontra Mr. Bloom | GZH",
+          "url": "https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2023/06/no-ling-mrs-dalloway-encontra-mr-bloom-cliw1wpuj009p0156kj3ukih5.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BIOGRAPHY OF VIRGINIA WOOLF (2)",
+          "url": "http://mural.uv.es/apabru/biography2"
+        },
+        {
+          "date": "2016-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Modern British and Irish Literature - 文字记录",
+          "url": "https://prezi.com/hzbtvqsrdrwt/modern-british-and-irish-literature/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(1882–1941)",
+          "url": "https://kids.britannica.com/kids/article/Leigh-Hunt/326853/related/main?page=2#1"
+        },
+        {
+          "date": "2005-10-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "From Wikipedia, the free encyclopedia. - From Wikipedia, the free encyclopedia.",
+          "url": "https://wayback.qa-archive-it.org/all/20051008033757/http://en.wikipedia.org/wiki/1882#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Flush | work by Woolf | Britannica - Virginia Woolf",
+          "url": "https://www.britannica.com/topic/Flush-by-Woolf#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Theorists of the modernist novel : James Joyce, Dorothy Richardson, Virginia Woolf / Deborah Parsons. - Princeton University Library Catalog",
+          "url": "https://catalog.princeton.edu/catalog/9951235583506421"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7404,
+      "query": "modernist writers born 1882 died 1941 Joyce Woolf",
+      "results": [
+        {
+          "date": "2014-04-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Parallaxes: Virginia Woolf Meets James Joyce",
+          "url": "https://www.readings.com.au/product/9781443856232/parallaxes-virginia-woolf-meets-james-joyce----2014--9781443856232"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mohammed VI Library @ AUI",
+          "url": "https://libserv.aui.ma/search?/aCanales%2C+Viola./acanales+viola/-3%2C-1%2C0%2CE/frameset&FF=acanani+marco&1%2C1%2C"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Theorists of the modernist novel James Joyce, Dorothy Richardson, Virginia Woolf Deborah Parsons",
+          "url": "https://library.mdim.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=12084"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Publisher description for Framing pieces : designs of the gloss in Joyce, Woolf, and Pound / John Whittier-Ferguson.",
+          "url": "https://catdir.loc.gov/catdir/enhancements/fy0602/95017101-d.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Parallaxes: Virginia Woolf Meets James Joyce",
+          "url": "https://ar.library.dctabudhabi.ae/eds/detail?db=nlebk&an=759532&isbn=9781443859271"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results - \"Woolf, Virginia, 1882-1941\"",
+          "url": "https://catalogue.nli.ie/Search/Results?filter%5B%5D=era_facet%3A%221882-1941%22&filter%5B%5D=topic_facet%3A%22Modernism+%28Literature%29%22&lookfor=%22Woolf%2C+Virginia%2C+1882-1941%22&type=Subject"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "OSU Libraries Catalog - | Title | Parallaxes : Virginia Woolf meets James Joyce / edited by Marco Canani and Sara Sullam",
+          "url": "https://library.ohio-state.edu/search~S7?/i9781443851046/i9781443851046/47%2C0%2C0%2CB/frameset&FF=i9781443856232&1%2C1%2C#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wright State University Libraries / All Locations - | Title | Theorists of the modernist novel : James Joyce, Dorothy Richardson, Virginia Woolf / Deborah Parsons",
+          "url": "https://wsuol2.wright.edu/search~S7?/cPR888.F45+H58+1989/cpr++888+f45+h58+1989/47%2C-1%2C0%2CB/frameset&FF=cpr++888+m63+p38+2007&1%2C1%2C#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Woolf, Joyce, and artistic neurosis / Murray Roston.",
+          "url": "http://libris.kb.se/bib/9233055"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Framing pieces : designs of the gloss in Joyce, Woolf, and Pound / John Whittier-Ferguson.",
+          "url": "https://libsearch.arts.ac.uk/cgi-bin/koha/opac-detail.pl?biblionumber=123379"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7247,
+      "query": "Britannica James Joyce born February 2 1882 died January 13 1941",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ulysses",
+          "url": "https://books.google.com.sg/books?id=0DiYEAAAQBAJ&newbks=1&newbks_redir=0&hl=zh-CN&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Portrait of the Artist as a Young Man",
+          "url": "https://books.google.com.sg/books?id=ZX8gXDPHRtQC&newbks=0&hl=en&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Restored Finnegans Wake",
+          "url": "https://books.google.com.sg/books?id=YbACvudBHVMC&newbks=0&hl=sv&redir_esc=y"
+        },
+        {
+          "date": "2022-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "James Joyce | The British Library",
+          "url": "https://www.britishlibrary.cn/en/authors/james-joyce/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "James Joyce | Writer, Additional Crew, Soundtrack - James Joyce(1882-1941)",
+          "url": "https://s.media-imdb.com/name/nm0004656/?ls=#1"
+        },
+        {
+          "date": "2026-03-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Sisters | short story by Joyce | Britannica - The Sisters",
+          "url": "https://www.britannica.com/topic/The-Sisters-short-story-by-Joyce#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "James Joyce - Biography - IMDb",
+          "url": "https://s.media-imdb.com/name/nm0004656/bio/?ref_=nm_ov_ql_1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Joyce, James, 1882-1941 | The National Library of Israel",
+          "url": "https://www.nli.org.il/en/authorities/987007263495505171"
+        },
+        {
+          "date": "2010-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Encyclopedia of Twentieth-Century Fiction - Joyce, James",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444337822.wbetcfv1j006#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Daily article] February 2: James Joyce",
+          "url": "https://lists.wikimedia.org/hyperkitty/list/daily-article-l@lists.wikimedia.org/message/WV4UEO3CBC4DSJUY5AYK25K65TE3EV6A/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 15744,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13963,
+    "iterations": [],
+    "output_tokens": 4349,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

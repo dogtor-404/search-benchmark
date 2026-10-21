@@ -1,0 +1,72 @@
+{
+  "answer": "**1983 年 1 月 1 日**。这一天常被称为 ARPANET 的“Flag Day”：ARPANET 正式停用 NCP，所有主机改用 TCP/IP，这一天也常被看作现代互联网的起点。\n\n当时的计划依据是 RFC 801（1981 年 11 月发布的过渡计划）。实际上并不是所有主机当天都切换完成，有些站点之后几个月才陆续完成迁移。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.15,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1764,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0179736,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 177,
+      "provider": "firstParty",
+      "thinkingTokens": 20,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-023",
+  "raw": "jsonl/0_prime/custom-023.jsonl",
+  "reported_cost_usd": 0.0179736,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1764,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1764,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1764,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1764,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 177,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 177,
+    "output_tokens_details": {
+      "thinking_tokens": 20
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

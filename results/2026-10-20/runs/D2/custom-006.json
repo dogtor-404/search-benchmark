@@ -1,0 +1,142 @@
+{
+  "answer": "发起 Lean 项目的计算机科学家是 **Leonardo de Moura**，他当时在微软研究院工作。2013 年，Lean 项目由他发起，第一个版本 Lean 0.1 在 2014 年发布。\n\n依据：\n- https://lean-lang.org/fro/about/ — “De Moura created Lean in 2013 and previously worked on automated reasoning and theorem proving at Microsoft Research…”\n- https://graphsearch.epfl.ch/en/concept/62889984 — “It was launched by Leonardo de Moura at Microsoft Research in 2013.”",
+  "budget_denials": [],
+  "elapsed_seconds": 4.434,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0300488,
+      "inputTokens": 6127,
+      "maxOutputTokens": 32000,
+      "outputTokens": 254,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-006",
+  "raw": "jsonl/D2/custom-006.jsonl",
+  "reported_cost_usd": 0.0300488,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7423,
+      "query": "Lean theorem prover 2013 Microsoft Research initiated by Leonardo de Moura",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean (proof assistant)",
+          "url": "https://graphsearch.epfl.ch/en/concept/62889984#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Grants | Alfred P. Sloan Foundation",
+          "url": "https://sloan.org/grant-detail/g-2023-19661"
+        },
+        {
+          "date": "2024-07-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean: Past, Present, and Future (Invited Talk)",
+          "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results",
+          "url": "https://drops.dagstuhl.de/search/documents?author=Ullrich,%20Sebastian"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Language Reference",
+          "url": "https://lean-lang.org/doc/reference/4.22.0-rc4/Introduction/#introduction"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+        },
+        {
+          "date": "2025-03-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Review on Mechanical Proving and Formalization of Mathematical Theorems - Lean was initially conceived as an experimental initiative by de Moura at the Massachusetts Institute of Technology (MIT) 2013. ...",
+          "url": "https://ieeexplore.ieee.org/document/10930874/references#references#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean (proof assistant) - Are you an EPFL student looking for a semester project",
+          "url": "https://test-graphsearch.epfl.ch/en/concept/62889984#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lean Programming Language",
+          "url": "https://lean-lang.org/fro/about/"
+        },
+        {
+          "date": "2018-06-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Lean Theorem Prover (system description)",
+          "url": "https://kilthub.cmu.edu/articles/journal_contribution/The_Lean_Theorem_Prover_system_description_/6492815"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6127,
+    "iterations": [],
+    "output_tokens": 254,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "1875 年，乔治·布朗（加拿大联邦之父之一、《环球报》*The Globe* 创办人）**拒绝出任安大略省副总督**（Lieutenant Governor of Ontario）。\n\n他还拒绝过授予他的爵士头衔，但我记得那是后来的事（大约 1879 年），不在 1875 年。这一点我不太确定。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.124,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1748,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0209856,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 334,
+      "provider": "firstParty",
+      "thinkingTokens": 204,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/0_prime/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.0209856,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1748,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1748,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1748,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1748,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 334,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 334,
+    "output_tokens_details": {
+      "thinking_tokens": 204
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

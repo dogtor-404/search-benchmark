@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：卡尔·希尔森（Carl Hiaasen）。** 黛米·摩尔主演的电影《脱衣舞娘》（*Striptease*，1996）改编自他 1993 年的小说 *Strip Tease*。导演和编剧是安德鲁·伯格曼（Andrew Bergman）。\n\n一共搜了 2 次。中文那次没有找到原著作者，第二次用英文搜到了维基百科和 AFI 目录的条目，上面写明了原著信息。\n\n依据：\n- [Striptease (film) - Wikipedia](https://en.wikipedia.org/wiki/Striptease_(film))\n- [Striptease (1996) - AFI Catalog](https://catalog.afi.com/Catalog/moviedetails/60583)",
+  "budget_denials": [],
+  "elapsed_seconds": 21.008,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0235699,
+      "inputTokens": 27549,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1630,
+      "provider": "firstParty",
+      "thinkingTokens": 847,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3757,
+      "cacheReadInputTokens": 11986,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0424572,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 499,
+      "provider": "firstParty",
+      "thinkingTokens": 41,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8",
+  "raw": "jsonl/A_prime/chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8.jsonl",
+  "reported_cost_usd": 0.0660271,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "脱衣舞娘 1996 电影 小说改编 作者",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HK6hG7y77CupjdtKQdPy2n"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Striptease 1996 film based on novel Strip Tease Carl Hiaasen",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016pcG2GAZWhWQpRdzfpy76y"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3757,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3757,
+    "cache_read_input_tokens": 11986,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 966,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 966,
+        "cache_read_input_tokens": 5242,
+        "input_tokens": 2,
+        "output_tokens": 265,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 499,
+    "output_tokens_details": {
+      "thinking_tokens": 41
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

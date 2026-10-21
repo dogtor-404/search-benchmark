@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "中国最后一家点翠工场 关闭 年", "results": [], "status": "allowed", "tool_use_id": "toolu_01M5fbgcqKkkcDnQbjmsnJkK"}
+{"billable": false, "call": 2, "query": "点翠 最后一家工场 1933年 关闭", "results": [], "status": "allowed", "tool_use_id": "toolu_01ScX9XhiGYrcKriEmvzgxnL"}

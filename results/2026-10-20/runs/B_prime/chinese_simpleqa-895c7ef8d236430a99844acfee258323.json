@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1985 年**（在西班牙创立，开始只做男装，1991 年被 Inditex 集团收购）。\n\n依据：\n- 官网（西班牙语）：https://www.massimodutti.com/gt/company ，原文是“Massimo Dutti nace en al año 1985 y es adquirida por Inditex en 1991”\n- 百度百科：https://baike.baidu.com/item/Massimo%20Dutti ，写的是“创立于1985年11月”\n\n搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.613,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4844,
+      "cacheReadInputTokens": 5835,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.044735,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 240,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-895c7ef8d236430a99844acfee258323",
+  "raw": "jsonl/B_prime/chinese_simpleqa-895c7ef8d236430a99844acfee258323.jsonl",
+  "reported_cost_usd": 0.044735,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6274,
+      "query": "Massimo Dutti 创立 年份",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti",
+          "url": "https://www.massimodutti.com/gt/company"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MassimoDutti香港中环旗舰店开业",
+          "url": "https://cn.fashionnetwork.com/newsPdf/downloadPdf/?id=258702#1#1"
+        },
+        {
+          "date": "2025-11-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti - 西班牙品牌",
+          "url": "https://baike.baidu.com/item/Massimo%20Dutti#1"
+        },
+        {
+          "date": "2026-03-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti",
+          "url": "https://baike.baidu.com/item/MASSIMO%20DUTTI/9817068?anchor=1&fragment=1&bst=1791941250.fd4cd63287298a00#1"
+        },
+        {
+          "date": "2023-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti 杭州嘉里中心店崭新揭幕",
+          "url": "http://fashion.ynet.com/2023/09/11/3666982t3228.html"
+        },
+        {
+          "date": "2017-08-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "这个ZARA的高端线品牌，分分钟穿出年薪百万的感觉",
+          "url": "https://www.sohu.com/a/164855647_115837#1"
+        },
+        {
+          "date": "2019-02-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ZARA姐妹品牌Massimo Dutti更新了Logo！ - 消费频道",
+          "url": "http://cptc.webtex.cn/info/2019-2-26@685363_1.htm"
+        },
+        {
+          "date": "2017-07-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti将联袂天猫超级品牌日带来亚洲首秀 - 资讯 - 观潮网 - Fashion Trend Digest",
+          "url": "http://fashiontrenddigest.com/d/29048.shtml"
+        },
+        {
+          "date": "2026-03-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti - 搜词条",
+          "url": "https://wapbaike.baidu.com/item/Massimo%20Dutti/9817068#1"
+        },
+        {
+          "date": "2012-11-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti西班牙人氣品牌首度進駐台灣 台北101旗艦店11/20正式開幕|流行速遞-VOGUE時尚網",
+          "url": "https://www.vogue.com.tw/fashion/content-7981"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4844,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4844,
+    "cache_read_input_tokens": 5835,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3017,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3017,
+        "cache_read_input_tokens": 3831,
+        "input_tokens": 2,
+        "output_tokens": 171,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 240,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

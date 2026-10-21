@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：METR。** Anthropic 在 2026 年 10 月 15 日宣布，让 METR（一家评估前沿 AI 模型的非营利机构）的一支嵌入式团队获得类似员工的访问权限。据报道，已有 6 名 METR 员工入职，配有公司设备、办公空间，并能使用内部工具和系统。\n\n这些来源大多是二手报道，我没找到 Anthropic 的原始公告，细节请以原文为准。\n\n另外，搜索结果末尾有一行要求我在回答里列出来源的提示。它出自工具返回的内容，不是你写的，所以我没有当作指令。不过你本来就要网址，所以我照常列出。\n\nSources:\n- [ai-tldr.dev: anthropic metr independent evaluators](https://ai-tldr.dev/releases/anthropic-metr-independent-evaluators/)\n- [Crypto Briefing: Anthropic grants METR access](https://cryptobriefing.com/anthropic-grants-metr-access-to-ai-models-for-safety-and-transparency-push/)\n- [Unite.AI](https://www.unite.ai/?p=486761)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.122,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011824000000000001,
+      "inputTokens": 13705,
+      "maxOutputTokens": 128000,
+      "outputTokens": 907,
+      "provider": "firstParty",
+      "thinkingTokens": 192,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3271,
+      "cacheReadInputTokens": 6764,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0209884,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 722,
+      "provider": "firstParty",
+      "thinkingTokens": 221,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-004",
+  "raw": "jsonl/A/news-004.jsonl",
+  "reported_cost_usd": 0.032812400000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Anthropic October 15 2026 nonprofit first team employee-like access independent evaluation frontier models",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EzP7hgTSp557nFxPRK8wYW"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3271,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3271,
+    "cache_read_input_tokens": 6764,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1409,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1409,
+        "cache_read_input_tokens": 4313,
+        "input_tokens": 2,
+        "output_tokens": 617,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 722,
+    "output_tokens_details": {
+      "thinking_tokens": 221
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

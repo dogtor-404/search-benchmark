@@ -1,0 +1,142 @@
+{
+  "answer": "第1届 ASEM 交通部长会议于 **2009年10月19日** 开始（会期 19–20 日，在立陶宛维尔纽斯举行）。\n\n依据：https://aseminfoboard.org/asem_events/1st-asem-transport-ministers-meeting-asemtmm1/",
+  "budget_denials": [],
+  "elapsed_seconds": 11.689,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0220424,
+      "inputTokens": 4389,
+      "maxOutputTokens": 32000,
+      "outputTokens": 200,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-2209",
+  "raw": "jsonl/D2_prime/simpleqa_verified-2209.jsonl",
+  "reported_cost_usd": 0.0220424,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6182,
+      "query": "1st ASEM Transport Ministers' Meeting began date",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lithuania in ASEM",
+          "url": "https://www.urm.lt/en/international-organizations/the-asia-europe-meeting-asem/lithuania-in-asem/1023"
+        },
+        {
+          "date": "2022-11-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1st ASEM Transport Ministers' Meeting (ASEMTMM1) - ASEM InfoBoard",
+          "url": "https://aseminfoboard.org/asem_events/1st-asem-transport-ministers-meeting-asemtmm1/"
+        },
+        {
+          "date": "2020-04-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ASEM - The Asia-Europe Meeting",
+          "url": "https://www.sam.gov.lv/en/asem-asia-europe-meeting"
+        },
+        {
+          "date": "2011-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "WHEN MARKING THE 20TH ANNIVERSARY OF LITHUANIA-CHINA RELATIONS, LITHUANIAN FOREIGN VICE-MINISTER EMPHASIZES BILATERAL COOPERATION IN TRANSPORT SECTOR",
+          "url": "https://www.urm.lt/en/news/928/when-marking-the-20th-anniversary-of-lithuania-china-relations-lithuanian-foreign-vice-minister-emphasizes-bilateral-cooperation-in-transport-sector:30330"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国際：ASEM交通大臣会合",
+          "url": "https://www.mlit.go.jp/kokusai/kokusai_tk1_000083.html"
+        },
+        {
+          "date": "2011-07-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COOPERATION BETWEEN LITHUANIA AND VIETNAM WAS DISCUSSED IN VILNIUS",
+          "url": "https://www.urm.lt/en/news/928/cooperation-between-lithuania-and-vietnam-was-discussed-in-vilnius:30172"
+        },
+        {
+          "date": "2011-10-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Asia-Europe Meeting (ASEM) (Archives)",
+          "url": "https://warp.da.ndl.go.jp/info:ndljp/pid/11615066/www.mofa.go.jp/erp/aec/page23e_000335.html"
+        },
+        {
+          "date": "2022-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Statement on the occasion of the 1st ASEM Day - ASEM InfoBoard",
+          "url": "https://aseminfoboard.org/asem_press_releases/statement-on-the-occasion-of-the-1st-asem-day/#content"
+        },
+        {
+          "date": "2017-01-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Statement on the occasion of the 1st ASEM Day",
+          "url": "https://www.eeas.europa.eu/node/21665_en"
+        },
+        {
+          "date": "2009-10-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Naujienos",
+          "url": "https://mfa.lt/naujienos/141/vilniuje-vyks-azijos-ir-europos-transporto-ministru-susitikimas-asem:9134"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4389,
+    "iterations": [],
+    "output_tokens": 200,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

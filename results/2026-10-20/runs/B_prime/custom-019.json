@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：约 632 英里/小时**（约 1017 公里/小时）\n\n1954 年 12 月 10 日，Stapp 在新墨西哥州 Holloman 空军基地乘坐 Sonic Wind No. 1 火箭滑车，最高速度达到 632 英里/小时，随后约 1.4 秒内停下。下面几个来源都给出这个数字：\n\n- 美国空军测试中心：https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2411198/december-10-1954-dr-john-stapp-testing-pioneer/\n- 史密森尼航空航天博物馆（Sonic Wind I 藏品页）：https://airandspace.si.edu/collection-objects/rocket-sled-sonic-wind-i/nasm_A19680015000\n- 史密森尼文章：https://airandspace.si.edu/stories/editorial/man-behind-high-speed-safety-standards\n- 美国国会图书馆照片说明：https://www.loc.gov/item/2015647634/\n\n《Science》2015 年的一篇书评写的是 639 英里/小时，但上面几个来源都写 632，所以我采用 632。这道题只搜了 1 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.599,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7057,
+      "cacheReadInputTokens": 5869,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0682658,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 531,
+      "provider": "firstParty",
+      "thinkingTokens": 25,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-019",
+  "raw": "jsonl/B_prime/custom-019.jsonl",
+  "reported_cost_usd": 0.0682658,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7085,
+      "query": "John Paul Stapp December 10 1954 rocket sled speed mph",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Science Magazine - 28 August 2015 - 38 - INSIGHTS | BOOKS",
+          "url": "https://www.sciencemagazinedigital.org/sciencemagazine/28_august_2015?pg=38#pg38#1"
+        },
+        {
+          "date": "2020-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "December 10, 1954: Dr. John Stapp - Testing Pioneer",
+          "url": "https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2411198/december-10-1954-dr-john-stapp-testing-pioneer/"
+        },
+        {
+          "date": "2018-08-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Man Behind High-Speed Safety Standards - The Man Behind High-Speed Safety Standards",
+          "url": "https://airandspace.si.edu/stories/editorial/man-behind-high-speed-safety-standards#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Planning to go 1700 m.p.h. in a sled! Col. John Paul Stapp, who traveled 632 miles per hour in a rocket-sled during recent Air Force tests at Alamogordo, N.M., shows a picture of the super-sled to Charles Romine, narrator of CBS Television's \"The Search\" program at Mitchel Air Force Base this morning (Wednesday).",
+          "url": "https://www.loc.gov/item/2015647634/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search results from Photo, Print, Drawing, Available Online, 1955-07-01, New York, New Mexico",
+          "url": "https://www.loc.gov/photos/?dates=1955-07-01&fa=subject:new+york%7Clocation:new+mexico"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Planning to go 1700 m.p.h. in a sled!",
+          "url": "https://lccn.loc.gov/2015647634/mods"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rocket Sled, Sonic Wind I",
+          "url": "https://airandspace.si.edu/collection-objects/rocket-sled-sonic-wind-i/nasm_A19680015000"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Moments of Enchantment; 25; Dr. John Paul Stapp",
+          "url": "https://americanarchive.org/catalog/cpb-aacip-18bc01aee28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "6,305",
+          "url": "https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/media/AM63-30pt10.pdf#27#22"
+        },
+        {
+          "date": "2017-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Record-Breaking Rocket Sled Created Modern Safety Standards - On a clear December day in 1954, Colonel John Stapp, a physician and flight surgeon, strapped in for a ride that would earn him ...",
+          "url": "https://www.airandspace.si.edu/stories/editorial/record-breaking-rocket-sled-created-modern-safety-standards#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7057,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7057,
+    "cache_read_input_tokens": 5869,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5196,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5196,
+        "cache_read_input_tokens": 3865,
+        "input_tokens": 2,
+        "output_tokens": 452,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 531,
+    "output_tokens_details": {
+      "thinking_tokens": 25
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

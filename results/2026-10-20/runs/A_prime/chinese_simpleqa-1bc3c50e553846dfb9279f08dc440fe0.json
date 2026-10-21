@@ -1,0 +1,125 @@
+{
+  "answer": "**答案：2008 年。**\n\n明报 2022 年的报道写明：小冷水堆填区从 1999 年开始有斑蝶聚集的记录，**2008 年**被渔农自然护理署列为「具特殊科学价值地点（SSSI）」。保育区官网和其他几个网页只说这里约 2 公顷被列为 SSSI，或者讲斑蝶数量（2002–2003 年冬季记录到 3.2 万至 4.5 万只），都没有写列入的年份。所以「2008 年」只有明报这一个来源，没有找到第二个独立来源核对。\n\n一共搜了 4 次。搜索词是我自己改写的关键词，没有把题目原文发到网上。\n\n依据网址：\n- [明报：小冷水堆填区蜕变 屯门保育乐园诱蝴蝶开餐（2022-07-05）](https://ol.mingpao.com/ldy/cultureleisure/culture/20220705/1656958662775/%E5%B0%8F%E5%86%B7%E6%B0%B4%E5%A0%86%E5%A1%AB%E5%8D%80%E8%9B%BB%E8%AE%8A-%E5%B1%AF%E9%96%80%E4%BF%9D%E8%82%B2%E6%A8%82%E5%9C%92%E8%AA%98%E8%9D%B4%E8%9D%B6%E9%96%8B%E9%A4%90)\n- [小冷水蝴蝶保育区官网](https://www.slsbutterflyhabitat.org/)\n- [拍摄场地：小冷水已关闭堆填区](https://fpf.ccidahk.gov.hk/tc/location/detail.php?id=1871)\n- [绿色力量：Danaids 新闻稿（2013）](https://download.greenpower.org.hk/butterfly/press/20131006_Danaids_e.pdf)",
+  "budget_denials": [],
+  "elapsed_seconds": 49.384,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.046612799999999996,
+      "inputTokens": 51483,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2929,
+      "provider": "firstParty",
+      "thinkingTokens": 804,
+      "webSearchRequests": 4
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8044,
+      "cacheReadInputTokens": 28123,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0983366,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1416,
+      "provider": "firstParty",
+      "thinkingTokens": 358,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0",
+  "raw": "jsonl/A_prime/chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0.jsonl",
+  "reported_cost_usd": 0.1449494,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Siu Lang Shui landfill Site of Special Scientific Interest designated year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016KrDNVq3AqTzymCxk6MpPz"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "小冷水 具特殊科學價值地點 年 漁農自然護理署 堆填區",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QLh8YP1NzCESiP1qRn94rb"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"Siu Lang Shui\" landfill SSSI butterfly designated",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NS6ExZMygXtrABpmY977fo"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "小冷水 具特殊科學價值地點 2001年 OR 2002年 OR 2003年 列為 斑蝶",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011A7my45yfeN666rBpUxD2L"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8044,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8044,
+    "cache_read_input_tokens": 28123,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1998,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1998,
+        "cache_read_input_tokens": 8497,
+        "input_tokens": 2,
+        "output_tokens": 692,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1416,
+    "output_tokens_details": {
+      "thinking_tokens": 358
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

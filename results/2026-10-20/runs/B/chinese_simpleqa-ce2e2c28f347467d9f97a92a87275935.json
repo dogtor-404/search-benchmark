@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:NHK(日本放送协会)。**\n\n维基百科(中文)写道,“环境荷尔蒙”(環境ホルモン)最初是由横滨市立大学的井口泰泉教授和 NHK 在日本创出的名称。百度百科的“内分泌干扰素”词条也有相同说法。\n\n依据网址:\n- https://zh.wikipedia.org/zh-cn/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99\n- https://baike.baidu.com/item/%E5%86%85%E5%88%86%E6%B3%8C%E5%B9%B2%E6%89%B0%E7%B4%A0/5349660\n\n日文资料只能佐证井口泰泉是这个词的提出者或“名付け亲のひとり”(命名者之一),没有提到 NHK。NHK 这部分只有上面两个中文来源。",
+  "budget_denials": [],
+  "elapsed_seconds": 9.541,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6348,
+      "cacheReadInputTokens": 5856,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0299356,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 395,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+  "raw": "jsonl/B/chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935.jsonl",
+  "reported_cost_usd": 0.0299356,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6811,
+      "query": "环境荷尔蒙 井口泰泉 命名 日本 最初",
+      "results": [
+        {
+          "date": "2002-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "未来を創る科学者達 （27）体内で作用する化学物質の謎 〜井口泰泉〜 | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」",
+          "url": "https://scienceportal.jst.go.jp/sciencechannel/i026904027/"
+        },
+        {
+          "date": "2006-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "环境荷尔蒙 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/zh-cn/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "生殖異変 環境ホルモンの反逆 / 井口泰泉／著 - オンライン書店 e-hon",
+          "url": "https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000030408570&Action_id=121&Sza_id=F3"
+        },
+        {
+          "date": "2006-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "環境荷爾蒙 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-tw/%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "資料詳細：佐賀市立図書館",
+          "url": "https://www2.lib.saga.saga.jp/winj/opac/switch-detail.do?lang=ja&bibid=1101585754"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "環境ホルモンと野生動物の異変",
+          "url": "https://www2.library.city.imari.saga.jp/winj/opac/switch-detail.do?lang=ja&bibid=1100308686"
+        },
+        {
+          "date": "2016-03-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "基礎生物学研究所 セミナー・行事 / 行事詳細",
+          "url": "https://www.nibb.ac.jp/event/event/16/03/post_888.html"
+        },
+        {
+          "date": "2025-10-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "内分泌干扰素 - 可模拟人体荷尔蒙的可扰乱内分泌的物质",
+          "url": "https://baike.baidu.com/item/%E5%86%85%E5%88%86%E6%B3%8C%E5%B9%B2%E6%89%B0%E7%B4%A0/5349660#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "基礎生物学研究所 / お知らせ - 井口教授・NHKサイエンスアイに出演",
+          "url": "http://www.nibb.ac.jp/pressroom/news/2001/02/nhk.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SCHOOL OF LOCK!",
+          "url": "https://www.tfm.co.jp/lock/staff/midori/2008/0225.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6348,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6348,
+    "cache_read_input_tokens": 5856,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4500,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4500,
+        "cache_read_input_tokens": 3852,
+        "input_tokens": 2,
+        "output_tokens": 315,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 395,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

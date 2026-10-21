@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：5%。**\n\nAnthropic 在 2026 年 10 月 18 日的公告中表示，拟向新成立的 Anthropic Public Benefit Fund 初步注入公司 **5% 的股份**，但该计划还需获得股东批准；此外，董事会可自行决定在 Anthropic 估值较某一基准值每增长 50% 时，再增加 2% 的股份。公告还称，加上联合创始人及员工的既有捐赠承诺后，约 20% 的公司股份将用于公益目的。\n\n依据：\n- CNBC：https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html\n- Reuters（经 US News 转载）：https://money.usnews.com/investing/news/articles/2026-10-18/anthropic-to-commit-5-stake-to-new-public-benefit-fund\n- 中央社：https://www.cna.com.tw/news/afe/202610190033.aspx",
+  "budget_denials": [],
+  "elapsed_seconds": 6.672,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.059778399999999995,
+      "inputTokens": 12428,
+      "maxOutputTokens": 32000,
+      "outputTokens": 479,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "news-002",
+  "raw": "jsonl/D2/news-002.jsonl",
+  "reported_cost_usd": 0.059778399999999995,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7578,
+      "query": "Anthropic Public Benefit Fund October 18 2026 announcement percentage shares",
+      "results": [
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic將注入5%股份 成立新公益基金 | 產經 | 中央社 CNA",
+          "url": "https://www.cna.com.tw/news/afe/202610190033.aspx"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic pledges 5% of shares to new public benefit fund",
+          "url": "https://www.xn--anadoluajans-d5b.gov.tr/en/science-technology/anthropic-pledges-5-of-shares-to-new-public-benefit-fund/4092911"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+          "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html?utm_campaign=mb&utm_source=morning_brew&utm_medium=newsletter"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Empresa de IA Anthropic destina 5% das ações a novo fundo de \"benefício público\"",
+          "url": "https://www.rtp.pt/noticias/mundo/empresa-de-ia-anthropic-destina-5-das-acoes-a-novo-fundo-de-beneficio-publico_n1772572"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund",
+          "url": "https://www.independent.co.uk/news/anthropic-b3068901.html"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to commit 5% stake to new public benefit fund",
+          "url": "https://nypost.com/2026/10/18/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund - CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/anthropic-commits-5-of-its-stock-to-a-new-public-benefit-fund-20014691.htm"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-commits-5-stock-public-232940564.html"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic: Anthropic commits 5 pc of its stock to new 'public benefit' fund - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-commits-5-pc-of-its-stock-to-new-public-benefit-fund/articleshow/135038936.cms?from=mdr"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund",
+          "url": "https://abcnews.com/Technology/wireStory/anthropic-commits-5-stock-new-public-benefit-fund-137368440?utm_source=briefed&utm_medium=referral&utm_campaign=organic"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7627,
+      "query": "Anthropic \"Public Benefit Fund\" stockholder approval",
+      "results": [
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic sets out equity commitment for public benefit fund",
+          "url": "https://blockchain.news/news/anthropic-public-benefit-fund-equity-commitment"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of shares to new public benefit fund",
+          "url": "https://au.finance.yahoo.com/news/anthropic-commits-5-shares-public-190612761.html"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Commits 5% of Shares to a New Public Benefit Fund - ESG Today",
+          "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-commits-5-of-shares-to-a-new-public-benefit-fund"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Allocate 5% Stake to Public Benefit Fund",
+          "url": "https://india.entrepreneur.com/business-news/anthropic-to-allocate-5-stake-to-public-benefit-fund"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Commit 5% of Shares to New Public Benefit Fund",
+          "url": "https://markets.businessinsider.com/news/stocks/anthropic-to-commit-5-of-shares-to-new-public-benefit-fund-1036638475"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Pledges 5% Of Its Shares To Public Benefit Fund—Here's How It Works",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-pledges-5-shares-public-072152314.html?ref=blog.thenoblehouse.ai"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Commit 5% of Shares to New Public Benefit Fund - TipRanks.com",
+          "url": "https://www.tipranks.com/news/anthropic-to-commit-5-of-shares-to-new-public-benefit-fund"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its shares to a new public benefit fund",
+          "url": "https://thenextweb.com/news/anthropic-public-benefit-fund-5-percent-shares"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Public Benefit Fund to target 'public good'",
+          "url": "https://www.siliconrepublic.com/business/anthropic-public-benefit-fund-to-target-public-good-ai-claude"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Commit 5% Stake to New Public Benefit Fund",
+          "url": "https://money.usnews.com/investing/news/articles/2026-10-18/anthropic-to-commit-5-stake-to-new-public-benefit-fund"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12428,
+    "iterations": [],
+    "output_tokens": 479,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

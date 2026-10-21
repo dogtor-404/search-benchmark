@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：内蒙古四子王旗着陆场（四子王旗预定区域）**\n\n依据：新华网报道《嫦娥五号\"挖土\"归来！中国探月工程嫦娥五号任务取得圆满成功》http://www.news.cn/politics/2020-12/17/c_1126869889.htm",
+  "budget_denials": [],
+  "elapsed_seconds": 5.221,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0236584,
+      "inputTokens": 4928,
+      "maxOutputTokens": 32000,
+      "outputTokens": 173,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-64a8963506a241fcbe6eb050ed94698d",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-64a8963506a241fcbe6eb050ed94698d.jsonl",
+  "reported_cost_usd": 0.0236584,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7011,
+      "query": "嫦娥五号 2020年12月17日 着陆场",
+      "results": [
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "嫦娥五号“挖土”归来！中国探月工程嫦娥五号任务取得圆满成功-新华网",
+          "url": "http://www.news.cn/politics/2020-12/17/c_1126869889.htm"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "嫦娥揽月 采样归来丨嫦娥五号返回器“出差”回家 还有这些工作得做→",
+          "url": "http://m.news.cctv.com/2020/12/17/ARTIKsvv9HhIkBI01sc7YS0q201217.shtml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "嫦娥五号“挖土”归来 将积极开展月球样品研究国际合作",
+          "url": "https://vs.cns.com.cn/video/detailTemp/274996.html?id=274996"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "独家视频丨今天，“嫦娥”回家了，还捎来了月球“土”特产！",
+          "url": "http://news.cnr.cn/native/gd/20201217/t20201217_525365973.shtml"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国焦点面对面：“嫦五”归来，“太空快递”如何用？漫天星辰如何“摘”？",
+          "url": "https://www.chinanews.com.cn/gn/2020/12-17/9364332.shtml#1"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "欢迎回家！独家视频直击嫦娥五号返回器成功着陆全程",
+          "url": "http://news.cnr.cn/native/gd/20201217/t20201217_525365474.shtml"
+        },
+        {
+          "date": "2020-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人民日报海外版 - 12月17日凌晨，嫦娥五号返回器携带月球样品，采用半弹道跳跃方式再入返回，在内蒙古四子王旗预定区域安全着陆",
+          "url": "http://paper.people.com.cn/hwbwap/html/2020-12/18/content_2024527.htm#1"
+        },
+        {
+          "date": "2020-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“嫦五”归来，“太空快递”如何用？漫天星辰如何“摘”？ - “嫦五”归来，“太空快递”如何用？漫天星辰如何“摘”？",
+          "url": "https://news.ifeng.com/c/82GtSlCFXOK#1"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "载土而归！嫦娥五号返回地球！ - 载土而归！嫦娥五号返回地球！",
+          "url": "https://www.163.com/dy/article/FU1N525K0514R9KD.html#1"
+        },
+        {
+          "date": "2020-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国嫦娥五号任务取得圆满成功",
+          "url": "http://zhuanti.spacechina.com/n3042428/n3042571/n3042608/c3093710/content.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4928,
+    "iterations": [],
+    "output_tokens": 173,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

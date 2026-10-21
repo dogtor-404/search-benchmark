@@ -1,0 +1,134 @@
+{
+  "answer": "**Charles Muhanji** (Uganda) placed first in 2000, driving a **Subaru Impreza WRX**.\n\n- Michel von Tell's Wikipedia article gives the sixth place in a Toyota as the 2000 Rwanda Mountain Rally. That is the event I used.\n- The Wikipedia table of past winners of the Rwanda Mountain Gorilla Rally lists Muhanji and the Impreza WRX for 2000. The rally ran then under an earlier name, the Fraternity Rally.\n- I found this winner in only one source. I didn't open the pages themselves, only the search summaries, so a rally results archive would be worth checking if you need certainty.\n\nSources:\n- [Michel von Tell – Wikipedia](https://en.wikipedia.org/wiki/Michel_von_Tell)\n- [Rwanda Mountain Gorilla Rally – Wikipedia](https://en.wikipedia.org/wiki/Rwanda_Mountain_Gorilla_Rally)\n- [Mountain Gorilla Rally – About](https://mountaingorillarally.com/about)",
+  "budget_denials": [],
+  "elapsed_seconds": 47.3,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0692858,
+      "inputTokens": 78588,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2854,
+      "provider": "firstParty",
+      "thinkingTokens": 799,
+      "webSearchRequests": 6
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7896,
+      "cacheReadInputTokens": 30529,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0470269,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1237,
+      "provider": "firstParty",
+      "thinkingTokens": 379,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/A/frames-656.jsonl",
+  "reported_cost_usd": 0.1163127,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Michel von Tell 2000 Toyota sixth place rally",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019M9f5D4ZCyRRX3hZbVd1Ry"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"Michel von Tell\" 2000 Toyota driver results",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TsjnyzyEwm7bBkUJJgqVty"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"von Tell\" Toyota Celica 2000 Swiss rally OR hillclimb OR \"Tour de Suisse\" OR \"Rallye du Valais\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Xavrr4CNdeKWBKda9jgCzG"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "Michel von Tell racing driver Wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KR3K7G1KqQUxXBgTfpJVi1"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "2000 Rwanda Mountain Rally winner car",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Wm3nY2hkxYm9sTkHpnZ1Vi"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7896,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7896,
+    "cache_read_input_tokens": 30529,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 912,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 912,
+        "cache_read_input_tokens": 9435,
+        "input_tokens": 2,
+        "output_tokens": 423,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1237,
+    "output_tokens_details": {
+      "thinking_tokens": 379
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

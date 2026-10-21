@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：** 1875 年，有人请乔治·布朗（George Brown）出任安大略省副总督（Lieutenant Governor of Ontario），他推辞了，想专心经营《The Globe》报社和自己的养牛生意。\n\n**依据：**\n- https://prezi.com/z4xgddtau5he/par-nancy-h-8-2/ ：明确写他在 1875 年获得安大略省副总督的职位，但没有接受，选择专心经营报纸和养牛。\n- https://www.britannica.com/biography/George-Brown ：写他推辞了安大略省副总督的职位，也推辞过授予爵士的提议，然后专心经营《The Globe》。这里没写年份。\n\n**说明：** \"1875\" 这个年份只在 Prezi 那份学生做的演示稿里有。这种来源可靠性一般，而且这页写的进入参议院年份（1874）和维基百科写的 1873 年 12 月对不上。Britannica 能证实他推辞过这个职位，但不能证实年份。他推辞的爵位是另一件事，不是这道题问的。\n\n共搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.429,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14543,
+      "cacheReadInputTokens": 5839,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1282278,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 535,
+      "provider": "firstParty",
+      "thinkingTokens": 81,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/B_prime/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.1282278,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6863,
+      "query": "George Brown 1818-1880 declined 1875",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - George Brown (Canadian politician)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/George_Brown_(Canadian_politician)#1"
+        },
+        {
+          "date": "2003-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - George Brown (Canadian politician)",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20190813204540/https://en.wikipedia.org/wiki/George_Brown_(Canadian_politician)#1"
+        },
+        {
+          "date": "2015-01-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Par: Nancy H, 8-2 - 文字记录",
+          "url": "https://prezi.com/z4xgddtau5he/par-nancy-h-8-2/#1"
+        },
+        {
+          "date": "2003-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20230609082742/https://en.wikipedia.org/wiki/George_Brown_%28Canadian_politician%29#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Globe | Canadian newspaper | Britannica - Quick Facts",
+          "url": "https://www.britannica.com/topic/The-Globe#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician)",
+          "url": "https://encyclo-pedia.thefreedictionary.com/George+Brown+(Canadian+politician)"
+        },
+        {
+          "date": "1998-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown | Canadian Politician & Journalist, The Globe | Britannica - Quick Facts",
+          "url": "https://www.britannica.com/biography/George-Brown#1"
+        },
+        {
+          "date": "2019-09-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - Wikipedia bahasa Indonesia, ensiklopedia bebas - Selamat ulang tahun ke-23 Wikipedia bahasa Indonesia",
+          "url": "https://id.wikipedia.org/wiki/George_Brown?oldformat=true#1"
+        },
+        {
+          "date": "2024-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - George Brown",
+          "url": "https://www.britannica.com/print/article/81515#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikiwand - George Brown (Canadian politician)",
+          "url": "https://www.wikiwand.com:443/en/George_Brown_(Canadian_politician)"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14543,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14543,
+    "cache_read_input_tokens": 5839,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12712,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12712,
+        "cache_read_input_tokens": 3835,
+        "input_tokens": 2,
+        "output_tokens": 382,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 535,
+    "output_tokens_details": {
+      "thinking_tokens": 81
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "answer": "**答案：尼古拉斯·戈弗特·德布鲁因（Nicolaas Govert de Bruijn，1918–2012）。**\n\n他从 1967 年起设计 Automath，这是一种用来形式化数学理论、并带有内置证明检查器的语言。“de Bruijn 准则”说的是：证明助手的输出应由一个小而独立的检查器（内核）来验证，所以复杂的搜索和策略部分不必被信任。\n\n第一次搜索的结果只讲了这条准则本身，没有直接说它以德布鲁因命名。准则的名字和 Automath 的作者都是德布鲁因，这一点是我根据常识和两次搜索的结果合起来得出的结论，没有哪个来源明确写出这一整句话。\n\nSources:\n- [Nicolaas Govert de Bruijn – MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/De_Bruijn/)\n- [Automath – Wikipedia](https://www.Wikipedia.org/wiki/Automath)\n- [About Automath – TU Eindhoven](https://www.win.tue.nl/automath/aboutautomath.htm)\n- [A Survey on Theorem Provers in Formal Methods](https://arxiv.org/pdf/1912.03028)\n- [Rocq 文档：核心语言](https://rocq-prover.org/doc/v9.3/refman/language/core/index.html)",
+  "budget_denials": [],
+  "elapsed_seconds": 25.843,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0232782,
+      "inputTokens": 24497,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1657,
+      "provider": "firstParty",
+      "thinkingTokens": 375,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4406,
+      "cacheReadInputTokens": 12226,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0269686,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 811,
+      "provider": "firstParty",
+      "thinkingTokens": 126,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-009",
+  "raw": "jsonl/A/custom-009.jsonl",
+  "reported_cost_usd": 0.050246799999999994,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "de Bruijn criterion Automath inventor \"small trusted kernel\" de Bruijn criterion",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015BcSYgzmtBp3iAc8ZNuaqg"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Automath Nicolaas Govert de Bruijn history",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LA4RDkeme3oZCk5a8G2yv6"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4406,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4406,
+    "cache_read_input_tokens": 12226,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1381,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1381,
+        "cache_read_input_tokens": 5476,
+        "input_tokens": 2,
+        "output_tokens": 490,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 811,
+    "output_tokens_details": {
+      "thinking_tokens": 126
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

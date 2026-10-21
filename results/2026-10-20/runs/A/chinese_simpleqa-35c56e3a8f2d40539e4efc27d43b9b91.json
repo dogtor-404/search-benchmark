@@ -1,0 +1,98 @@
+{
+  "answer": "呋虫胺（Dinotefuran，CAS 165252-70-0）的分子式是 **C₇H₁₄N₄O₃**，分子量约 202.21。化学名是 1-甲基-2-硝基-3-((四氢呋喃-3-基)甲基)胍。\n\n搜索结果里的 Synzeal 页面列了一个“Dinotefuran DN”（CAS 457614-32-3，C₇H₁₅N₃O）。它是另一种化合物，不是呋虫胺本身。\n\nSources:\n- [Ambeed 产品规格页](https://ambeed.cn/product-details/specification/A211386)\n- [ChemicalBook](https://www.chemicalbook.com/SupplyInfo_415893.htm)\n- [Thermo Scientific 产品页](https://www.thermofisher.com/order/catalog/product/467092500)\n- [Chemsrc](https://www.chemsrc.com/CasPaper/402148.html)\n- [PPDB（赫特福德大学）](https://sitem.herts.ac.uk/aeru/ppdb/en/Reports/1195.htm)\n- [Synzeal（Dinotefuran DN，另一种化合物）](https://www.synzeal.com/cn/dinotefuran-dn)",
+  "budget_denials": [],
+  "elapsed_seconds": 21.265,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011624200000000001,
+      "inputTokens": 13612,
+      "maxOutputTokens": 128000,
+      "outputTokens": 526,
+      "provider": "firstParty",
+      "thinkingTokens": 124,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2773,
+      "cacheReadInputTokens": 6730,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.019233,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 746,
+      "provider": "firstParty",
+      "thinkingTokens": 221,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+  "raw": "jsonl/A/chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91.jsonl",
+  "reported_cost_usd": 0.0308572,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "呋虫胺 化学式 分子式 dinotefuran",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DhqLsDc8AHaCZ1zUcpcXz2"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2773,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2773,
+    "cache_read_input_tokens": 6730,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 945,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 945,
+        "cache_read_input_tokens": 4279,
+        "input_tokens": 2,
+        "output_tokens": 654,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 746,
+    "output_tokens_details": {
+      "thinking_tokens": 221
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

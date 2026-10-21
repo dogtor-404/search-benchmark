@@ -1,0 +1,60 @@
+{
+  "answer": "美国宣布独立是 1776 年 7 月 4 日；墨西哥宣布独立通常记为 1810 年 9 月 16 日，这一天也称“多洛雷斯呼声”。\n\n1810 − 1776 = **34 年**，所以美国比墨西哥早 34 年。\n\n补充：墨西哥正式的独立宣言是 1813 年 11 月 6 日，独立在 1821 年才获承认。若按 1813 年算，美国比墨西哥早 37 年。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.42,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.013856,
+      "inputTokens": 1979,
+      "maxOutputTokens": 32000,
+      "outputTokens": 297,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-137",
+  "raw": "jsonl/D0/frames-137.jsonl",
+  "reported_cost_usd": 0.013856,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1979,
+    "iterations": [],
+    "output_tokens": 297,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

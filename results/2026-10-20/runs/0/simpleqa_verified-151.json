@@ -1,0 +1,72 @@
+{
+  "answer": "在桑给巴尔（以及东非斯瓦希里语地区），Harees 叫作 **Boko Boko**。这是一道用小麦和肉（通常是鸡肉或羊肉）长时间炖煮成糊状的菜，常在斋月期间食用。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.182,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1768,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.008172800000000001,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 94,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-151",
+  "raw": "jsonl/0/simpleqa_verified-151.jsonl",
+  "reported_cost_usd": 0.008172800000000001,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1768,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1768,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1768,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1768,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 94,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 94,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "**Boko Boko**（也写作 Bokoboko）。\n\n在桑给巴尔，用小麦和肉（常为鸡肉）慢炖成粥状的 Harees 被称为 Boko Boko；它也是当地开斋节、婚礼等场合常吃的一道菜。\n\n依据：\n- https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/ — “Bokoboko or Harees… famous in Zanzibar and Mombasa”\n- http://suroorasia.blogspot.com/2016/06/recipes-for-ramadhan-harees.html — “The Zanzibari version is called ‘boko’.”",
+  "budget_denials": [],
+  "elapsed_seconds": 5.268,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0345528,
+      "inputTokens": 6928,
+      "maxOutputTokens": 32000,
+      "outputTokens": 319,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-151",
+  "raw": "jsonl/D2/simpleqa_verified-151.jsonl",
+  "reported_cost_usd": 0.0345528,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7536,
+      "query": "Harees dish Zanzibar called",
+      "results": [
+        {
+          "date": "2020-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bokoboko Recipe || Arabic Style Haleem (known as Harees or Hareesa) Famous in Zanzibar and Mombasa",
+          "url": "https://donimranfamilykitchen.wordpress.com/2020/11/08/bokoboko-recipe-arabic-style-haleem-known-as-harees-or-hareesa-famous-in-zanzibar-and-mombasa/"
+        },
+        {
+          "date": "2021-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In Bibi’s Kitchen: The Recipes and Stories of Grandmothers From the Eight African Countries That Touch the Indian Ocean - Our book review",
+          "url": "https://www.aramcoworld.com/resources/reviews/2021/in-bibis-kitchen-the-recipes-and-stories-of-grandmothers-from-the-eight-african-countries-that-tou"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Central Library Catalog - Central Library Catalog",
+          "url": "https://catalog.ohiolink.edu/iii/encore/record/C__Rb42440962__SAfrica%20%20%20%20Description%20and%20travel.__P0%2C34__Orightresult__X1;jsessionid=9CF89EEFABBEA07BBBA5239DB9712645?lang=eng&suite=def#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In Bibi's kitchen : the recipes & stories of grandmothers from the eight African countries that touch the Indian Ocean",
+          "url": "https://saugus.noblenet.org/eg/opac/record/4668710?locg=68;ac=anotes;available=true;query=Cookbooks.;qtype=identifier%7Cgenre;facet=author%7Call_authors%5BFarah%2C%20Khadija%20M.%5D"
+        },
+        {
+          "date": "2023-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "مقال : نزار الحافرة - عادات وتقاليد العيد بزنجبار",
+          "url": "https://www.adngad.net/articles/569211"
+        },
+        {
+          "date": "2024-12-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Zanzibar Street Food: Must-Try Urojo Soup & Local Delights - 0 saved",
+          "url": "https://www.lemon8-app.com/@whoisherby/7446923443435520554?region=us#1"
+        },
+        {
+          "date": "2016-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recipes for Ramadhan: Harees",
+          "url": "http://suroorasia.blogspot.com/2016/06/recipes-for-ramadhan-harees.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Coffee Shop & Zanzibar Foods menu for delivery in Maabela | Talabat - Picks for you 🔥",
+          "url": "https://www.talabat.com/oman/restaurant/703325/coffee-shop-zanzibar-foods-maabela?aid=1421#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-deep · Datasets at Hugging Face - context",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-deep/viewer/default/train?p=14#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SALT-NLP/simpleqa-verified-ctx-screen-gptos · Datasets at Hugging Face - Need answer: In Zanzibar it's called \"haleva\"",
+          "url": "https://huggingface.co/datasets/SALT-NLP/simpleqa-verified-ctx-screen-gptos/viewer/default/train?p=14#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6928,
+    "iterations": [],
+    "output_tokens": 319,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

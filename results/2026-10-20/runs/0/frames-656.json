@@ -1,0 +1,72 @@
+{
+  "answer": "我不知道。\n\n我对 Michel von Tell 的印象很模糊，只隐约记得他可能是瑞士的拉力或山地赛车手。2000 年他开丰田拿到第六名，具体是哪项赛事，我没有可靠的记忆。所以谁拿了第一、开的什么车，我都答不上来，硬猜多半会错。\n\n如果你告诉我赛事名称，比如是瑞士拉力锦标赛、某场 WRC 分站还是别的比赛，我可以再想想。但没有资料可查的话，我多半还是给不出确切答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.353,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1777,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0105988,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 333,
+      "provider": "firstParty",
+      "thinkingTokens": 134,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-656",
+  "raw": "jsonl/0/frames-656.jsonl",
+  "reported_cost_usd": 0.0105988,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1777,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1777,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1777,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1777,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 333,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 333,
+    "output_tokens_details": {
+      "thinking_tokens": 134
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "answer": "**答案:Willa(Raelle 的母亲)。** 第一季结局 \"Witchbomb\" 的最后几秒揭示她没有死。\n\n搜索结果里有些细节说得不清楚。比如有一条说 Scylla 在一所房子里发现了她,但我没能核实这个场景的细节。\n\n第一季结尾时,Raelle 和 Abigail 的存活要到第二季开头才确认。General Alder 还活着是第二季才揭示的,不是第一季结局。\n\nSources:\n- [‘Motherland: Fort Salem’ Creator On The Finale Bombshell, Raelle & Scylla’s Future & More Season 2 Scoop (Hollywood Life)](https://hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview)\n- [Motherland: Fort Salem finale recap (Show Snob)](https://showsnob.com/2020/05/21/motherland-fort-salem-finale-recap/)\n- [Motherland: Fort Salem Finale: Who Didn't Survive The Camarilla's Assault? (TVLine)](https://tvline.com/2021/08/24/motherland-fort-salem-recap-season-2-episode-10-alder-dead-alive)",
+  "budget_denials": [],
+  "elapsed_seconds": 16.394,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118569,
+      "inputTokens": 14584,
+      "maxOutputTokens": 128000,
+      "outputTokens": 797,
+      "provider": "firstParty",
+      "thinkingTokens": 351,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3062,
+      "cacheReadInputTokens": 6748,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0190408,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 611,
+      "provider": "firstParty",
+      "thinkingTokens": 71,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-3173",
+  "raw": "jsonl/A/simpleqa_verified-3173.jsonl",
+  "reported_cost_usd": 0.0308977,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Motherland: Fort Salem season 1 finale who is alive revealed",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WXstA6HfZubYgcsvroFSoA"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3062,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3062,
+    "cache_read_input_tokens": 6748,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1216,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1216,
+        "cache_read_input_tokens": 4297,
+        "input_tokens": 2,
+        "output_tokens": 516,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 611,
+    "output_tokens_details": {
+      "thinking_tokens": 71
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

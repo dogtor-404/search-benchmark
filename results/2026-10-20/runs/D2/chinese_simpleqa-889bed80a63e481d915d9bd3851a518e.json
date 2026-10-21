@@ -1,0 +1,142 @@
+{
+  "answer": "1994 年的国际数学家大会（ICM）在**瑞士**举办，举办城市是**苏黎世（Zürich）**，时间是 1994 年 8 月 3 日至 11 日。\n\n依据：国际数学联盟（IMU）的 ICM 1994 官方报告 https://www.mathunion.org/fileadmin/IMU/Publications/Bulletins/1994_1999/37/icm94.report.html",
+  "budget_denials": [],
+  "elapsed_seconds": 4.744,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.04318879999999999,
+      "inputTokens": 9452,
+      "maxOutputTokens": 32000,
+      "outputTokens": 246,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-889bed80a63e481d915d9bd3851a518e",
+  "raw": "jsonl/D2/chinese_simpleqa-889bed80a63e481d915d9bd3851a518e.jsonl",
+  "reported_cost_usd": 0.04318879999999999,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7454,
+      "query": "1994 International Congress of Mathematicians Zürich Switzerland",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Report of the International Congress of Mathematicians 1994",
+          "url": "https://www.mathunion.org/fileadmin/IMU/Publications/Bulletins/1994_1999/37/icm94.report.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Organizing Committee is pleased to announce that the next International Congress of Mathematicians will take place in Zürich...",
+          "url": "https://www.ams.org/journals/notices/199307/199307FullIssue.pdf?adat=July/August%201993&trk=&cat=none&type=.pdf#67#42"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians August 3–11, 1994 Zürich, Switzerland - Proceedings of the International Congress of Mathematicians August 3–11, 1994 Zürich, Switzerland",
+          "url": "https://ebooks.mpdl.mpg.de/ebooks/Record/EB000637236#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Speech by Henri Carnal,",
+          "url": "https://www.mathunion.org/fileadmin/IMU/Publications/Bulletins/1994_1999/37/carnal.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Editor:",
+          "url": "https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1994.1/ICM1994.1.ocr.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians - Skip to main content",
+          "url": "https://rd.springer.com/book/10.1007/978-3-0348-9078-6?page=2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proceedings of the International Congress of Mathematicians : August 3-11, 1994, Zürich, Switzerland /",
+          "url": "https://catalog.lib.uchicago.edu/vufind/Record/2414573"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search results for Book/Printed Material, 3764351535",
+          "url": "https://www.loc.gov/books/?all=True&q=3764351535&st=list"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BnF Catalogue général",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb375213449"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "平成６年３月",
+          "url": "https://www.jstage.jst.go.jp/article/jjsme/76/3/76_41/_pdf/-char/en#2#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9452,
+    "iterations": [],
+    "output_tokens": 246,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

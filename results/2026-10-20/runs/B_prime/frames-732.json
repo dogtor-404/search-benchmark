@@ -1,0 +1,233 @@
+{
+  "answer": "**答案：1818 年 12 月 3 日。**\n\n1. 这艘消防船叫 **Illinois**，归芝加哥消防局使用。1908 年救一场大火时，它被掉下来的东西砸中，沉进芝加哥河约 20 英尺深的水里，后来很快被打捞起来，重新投入使用。\n   - https://en.wikipedia.org/wiki/Illinois_(fireboat)\n   - https://en.wikipedia.org/wiki/Fireboats_of_Chicago\n2. 和它同名的伊利诺伊州于 **1818 年 12 月 3 日**加入联邦，是美国第 21 个州。\n   - https://www.loc.gov/item/today-in-history/december-03\n   - https://www.congress.gov/115/crec/2017/12/19/163/207/modified/CREC-2017-12-19-pt1-PgE1728.htm\n\n这里把题目里的“founded”理解为建州（加入联邦）的日期。\n\n这次共搜了 2 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 13.559,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 13003,
+      "cacheReadInputTokens": 16358,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.11905959999999999,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 587,
+      "provider": "firstParty",
+      "thinkingTokens": 87,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-732",
+  "raw": "jsonl/B_prime/frames-732.jsonl",
+  "reported_cost_usd": 0.11905959999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6841,
+      "query": "Chicago Fire Department fireboat sank 1908 refloated",
+      "results": [
+        {
+          "date": "2013-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat) - Wikipedia - Illinois (fireboat)",
+          "url": "https://en.wikipedia.org/wiki/Illinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat) - The Illinois was a fireboat operated by the Chicago Fire Department",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Illinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia",
+          "url": "https://fragments.dbpedia.org/2014/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FIllinois_(fireboat)"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2016-04 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FIllinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat)",
+          "url": "https://dbpedia.org/page/Illinois_(fireboat)"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fireboats of Chicago - As an important port city, Chicago has operated dedicated fireboats since 1877.[1][2]",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Fireboats_of_Chicago#1"
+        },
+        {
+          "date": "2022-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat): Difference between revisions - Illinois (fireboat): Difference between revisions",
+          "url": "http://www.citizendium.net/wiki/index.php?title=Illinois_(fireboat)&diff=prev&oldid=869351#1"
+        },
+        {
+          "date": "2024-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat)",
+          "url": "https://en.citizendium.org/wiki/Illinois_%28fireboat%29"
+        },
+        {
+          "date": "2012-12-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fireboats of Chicago - Wikipedia - Fireboats of Chicago",
+          "url": "https://en.wikipedia.org/wiki/Fireboats_of_Chicago#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (Fireboat) - Illinois (Fireboat)",
+          "url": "https://encycloreader.org/db/view.php?id=VbT1NjZ6a8li#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 1.6856,
+      "query": "Illinois admitted to the Union December 3, 1818 statehood",
+      "results": [
+        {
+          "date": "2017-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Pages H10169-H10175]",
+          "url": "https://www.congress.gov/115/crec/2017/12/18/modified/CREC-2017-12-18-pt1-PgH10169.htm#1"
+        },
+        {
+          "date": "2026-08-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "States in the Senate | Illinois Timeline",
+          "url": "https://www.senate.gov/states/IL/timeline.htm"
+        },
+        {
+          "date": "2009-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Congressional Record - December 17, 2009 - Issue: Vol. 155, No. 192 — Daily Edition111th Congress (2009 - 2010) - 1st Session",
+          "url": "https://www.congress.gov/congressional-record/volume-155/issue-192/extensions-of-remarks-section/article/E3020-2#1"
+        },
+        {
+          "date": "2017-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Extensions of Remarks]",
+          "url": "https://www.congress.gov/115/crec/2017/12/19/163/207/modified/CREC-2017-12-19-pt1-PgE1728.htm#1"
+        },
+        {
+          "date": "2018-08-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois General Assembly - Short Description: ILLINOIS STATEHOOD DAY",
+          "url": "https://www.ilga.gov/legislation/BillStatus_pf.asp?DocNum=489&DocTypeID=HB&LegID=&GAID=14&SessionID=91&GA=100#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Polk Topeka, Kansas, city directory\" - fied the  constitution  of  the  United  States  January  9,  1788.",
+          "url": "https://archive.org/stream/polktopekakansas00unse_0/polktopekakansas00unse_0_djvu.txt#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Today in History - December 3",
+          "url": "https://www.loc.gov/item/today-in-history/december-03?loclr=eatod"
+        },
+        {
+          "date": "2001-03-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois General Assembly - Bill Status of HB0489 100th General Assembly",
+          "url": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=0489&GAID=14&GA=100&DocTypeID=HB&LegID=100547&SessionID=91&SpecSess=#1"
+        },
+        {
+          "date": "2021-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Executive Order Number 14-07",
+          "url": "https://www.illinois.gov/government/executive-orders/executive-order.executive-order-number-07.2014.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Statistician and economist, 1877. - Text-only - Full View - The Statistician and economist, 1877. | HathiTrust Digital Library",
+          "url": "https://babel.hathitrust.org/cgi/ssd?id=uc1.b3142234;page=ssd;view=plaintext;seq=175;num=169#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13003,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13003,
+    "cache_read_input_tokens": 16358,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4518,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4518,
+        "cache_read_input_tokens": 10489,
+        "input_tokens": 2,
+        "output_tokens": 344,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 587,
+    "output_tokens_details": {
+      "thinking_tokens": 87
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

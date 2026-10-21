@@ -1,0 +1,221 @@
+{
+  "answer": "**Kevin D. Hall**（Kevin D. Hall 等，美国 NIH 国家糖尿病、消化和肾脏疾病研究所）。\n\n该研究论文题为《Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake》，2019 年 5 月 16 日在线发表，发表于 *Cell Metabolism* 30(1):67–77.e3，DOI: 10.1016/j.cmet.2019.05.008，临床试验注册号 NCT03407053。\n\n依据网址：\n- https://pubmed.ncbi.nlm.nih.gov/31105044/\n- https://www.sciencedirect.com/science/article/pii/S1550413119302487",
+  "budget_denials": [],
+  "elapsed_seconds": 6.993,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0670024,
+      "inputTokens": 14869,
+      "maxOutputTokens": 32000,
+      "outputTokens": 352,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-015",
+  "raw": "jsonl/D2/custom-015.jsonl",
+  "reported_cost_usd": 0.0670024,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7262,
+      "query": "2019 NIH ultra-processed diet inpatient randomized trial first author",
+      "results": [
+        {
+          "date": "2019-02-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - The Royal College of Surgeons of England Library Surgical Library",
+          "url": "https://rcseng.ovidds.com/discover/result?logSearchID=164782295&pubid=solr_7156-oai%3Apubmedcentral.nih.gov%3A7946062&pubid=solr_6057-medline%3A31105044&pubid=solr_7902-info%3Adoi%2F10.1016%252Fj.cmet.2019.05.008&pubid=solr_7121-sd-lf%3AS1550-4131(19)30248-7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "M Gharib - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=M+Gharib#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Medline ® Abstract for Reference 12 of 'Obesity in adults: Behavioral therapy'",
+          "url": "https://www.uptodate.com/contents/obesity-in-adults-behavioral-therapy/abstract/12"
+        },
+        {
+          "date": "2025-08-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-processed diets cause excess calorie intake and weight gain: A one-month inpatient randomized controlled trial of ad libitum food intake - Find journal articles, conference proceedings and datasets deposited in A*OAR",
+          "url": "https://oar.a-star.edu.sg/public/communities-collections/articles/16056?collectionId=13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{\"version\":\"6.9\",\"hitCount\":1,\"request\":{\"queryString\":\"EXT_ID:31105044 AND SRC:MED\",\"internalQuery\":\"EXT_ID:31105044 AND SRC:ME...",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31105044%20AND%20SRC:MED&resulttype=core&format=json#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Publications - Integrative Physiology Section - NIDDK",
+          "url": "https://www.niddk.nih.gov/research-funding/at-niddk/labs-branches/laboratory-biological-modeling/integrative-physiology-section/publications?dkrd=www2.niddk.nih.gov"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - PubMed - Randomized Controlled Trial",
+          "url": "https://https-pubmed-ncbi-nlm-nih-gov-443.webvpn.ynu.edu.cn/31105044/#1"
+        },
+        {
+          "date": "2018-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BioStudies < The European Bioinformatics Institute < EMBL-EBI - Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food I...",
+          "url": "https://www.ebi.ac.uk/biostudies/europepmc/studies/S-EPMC7946062?fs=NIHMS1528772-supplement-1.pdf#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Peter Walter - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=Peter+Walter#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake",
+          "url": "https://library.fabresearch.org/viewItem.php?id=12668&cbNews=on&cbEvents=on&cbBooks=on&cbHandouts=on&cbFactsheets=on&cbWebsites=on&cbResearch=on&start=&finish=&searchText=nutrition"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7269,
+      "query": "Hall 2019 Cell Metabolism ultra-processed diets cause excess calorie intake inpatient randomized controlled trial",
+      "results": [
+        {
+          "date": "2019-05-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1550413119302487#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Medline ® Abstract for Reference 12 of 'Obesity in adults: Behavioral therapy'",
+          "url": "https://www.uptodate.com/contents/obesity-in-adults-behavioral-therapy/abstract/12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Juen Guo - - Research articleOpen archiveK",
+          "url": "https://www.sciencedirect.com/author/26535878900/juen-guo#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "R Ouwerkerk - Search Results - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=R+Ouwerkerk#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "M Gharib - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=M+Gharib#1"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - PubMed - Randomized Controlled Trial",
+          "url": "https://https-pubmed-ncbi-nlm-nih-gov-443.webvpn.ynu.edu.cn/31105044/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "calories weight gain - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=calories+weight+gain#1"
+        },
+        {
+          "date": "2019-02-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - The Royal College of Surgeons of England Library Surgical Library",
+          "url": "https://rcseng.ovidds.com/discover/result?logSearchID=164782295&pubid=solr_7156-oai%3Apubmedcentral.nih.gov%3A7946062&pubid=solr_6057-medline%3A31105044&pubid=solr_7902-info%3Adoi%2F10.1016%252Fj.cmet.2019.05.008&pubid=solr_7121-sd-lf%3AS1550-4131(19)30248-7#1"
+        },
+        {
+          "date": "2019-06-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "News: Eating highly processed foods linked... (NIH Research Matters) - Behind the headlines - News: Eating highly processed foods linked... (NIH Research Matters) - Behind the headlines",
+          "url": "https://www.ncbi.xyz/search/research-news/142/#1"
+        },
+        {
+          "date": "2025-08-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-processed diets cause excess calorie intake and weight gain: A one-month inpatient randomized controlled trial of ad libitum food intake - Find journal articles, conference proceedings and datasets deposited in A*OAR",
+          "url": "https://oar.a-star.edu.sg/public/communities-collections/articles/16056?collectionId=13#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14869,
+    "iterations": [],
+    "output_tokens": 352,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

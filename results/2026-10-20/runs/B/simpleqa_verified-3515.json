@@ -1,0 +1,233 @@
+{
+  "answer": "**答案:** 1875 年,乔治·布朗(George Brown)拒绝了安大略省副总督(lieutenant governorship of Ontario)的职位。他想继续保持独立发言的立场,专心办《环球报》(The Globe)。\n\n另外,他在 1879 年还拒绝了爵士头衔(KCMG)。这是另一件事,不是 1875 年的事。\n\n**依据的网址:**\n- https://www.canada.ca/en/parks-canada/news/2016/08/george-brown-house-national-historic-site.html(加拿大公园局:\"refused both the lieutenant governorship of Ontario (1875) and a knighthood (1879)\")\n- https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/Brown,_George_(1818-1880)(DNB:\"In 1875 Brown declined the lieutenant-governorship of Ontario\")\n- https://www.britannica.com/biography/George-Brown(不列颠百科,也提到他拒绝了副总督职位和爵位)\n\n我一共搜了 2 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 12.19,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 18429,
+      "cacheReadInputTokens": 5843,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0794683,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 516,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-3515",
+  "raw": "jsonl/B/simpleqa_verified-3515.jsonl",
+  "reported_cost_usd": 0.0794683,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6975,
+      "query": "George Brown 1818-1880 refused 1875",
+      "results": [
+        {
+          "date": "2016-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown House National Historic Site",
+          "url": "https://www.canada.ca/en/parks-canada/news/2016/08/george-brown-house-national-historic-site.html?wbdisable=true"
+        },
+        {
+          "date": "2016-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lieu historique national de la maison George Brown",
+          "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2016/08/lieu-historique-national-de-la-maison-george-brown.html?wbdisable=true"
+        },
+        {
+          "date": "2022-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown House National Historic Site",
+          "url": "https://pks-staging.pc.gc.ca/culture/designation/lieu-site/maison-george-brown-house?wbdisable=true"
+        },
+        {
+          "date": "2003-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - George Brown (Canadian politician)",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20190813204540/https://en.wikipedia.org/wiki/George_Brown_(Canadian_politician)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Globe | Canadian newspaper | Britannica - Quick Facts",
+          "url": "https://www.britannica.com/topic/The-Globe#1"
+        },
+        {
+          "date": "2024-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - George Brown",
+          "url": "https://www.britannica.com/print/article/81515#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - George Brown (Canadian politician)",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/George_Brown_(Canadian_politician)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GEORGE BROWN was born in Edinburgh on November 29, 1818, and was educated in his native city",
+          "url": "https://www.archive.org/download/municipalityofto02midd/municipalityofto02midd.pdf#107#107#107"
+        },
+        {
+          "date": "1998-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown | Canadian Politician & Journalist, The Globe | Britannica - Quick Facts",
+          "url": "https://www.britannica.com/biography/George-Brown#1"
+        },
+        {
+          "date": "2012-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dictionary of National Biography, 1901 supplement/Brown, George (1818-1880) - Wikisource, the free online library - Dictionary of National Biography, 1901 supplement/Brown, George (1818-1880)",
+          "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/Brown,_George_(1818-1880)#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6961,
+      "query": "George Brown Canadian politician Globe 1875 refused knighthood",
+      "results": [
+        {
+          "date": "2022-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown House National Historic Site",
+          "url": "https://parks.canada.ca/culture/designation/personnage-person/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/~/link.aspx?_id=827CE349BDEB42BE861DB38CEB2925A2&_z=z"
+        },
+        {
+          "date": "2016-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lieu historique national de la maison George Brown",
+          "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2016/08/lieu-historique-national-de-la-maison-george-brown.html?wbdisable=true"
+        },
+        {
+          "date": "2024-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - George Brown",
+          "url": "https://www.britannica.com/print/article/81515#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TITLES IN CANADA",
+          "url": "https://ia800302.us.archive.org/9/items/titlesincanadain00unse/titlesincanadain00unse.pdf#6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - Search The Canadian Encyclopedia",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20200416043706/https://thecanadianencyclopedia.ca/en/article/george-brown#1"
+        },
+        {
+          "date": "2016-01-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown presentation by Gabriel - 文字记录",
+          "url": "https://prezi.com/tlmxhj4bbenw/george-brown-presentation-by-gabriel/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BROWN, GEORGE - BROWN, GEORGE",
+          "url": "https://slovar-vocab.com/english/britannica-vocab/brown-george-7089191.html#1"
+        },
+        {
+          "date": "2015-01-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown - 文字记录",
+          "url": "https://prezi.com/bvtfxubslsqq/george-brown/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GEORGE BROWN was born in Edinburgh on November 29, 1818, and was educated in his native city",
+          "url": "https://www.archive.org/download/municipalityofto02midd/municipalityofto02midd.pdf#107#107#107"
+        },
+        {
+          "date": "2003-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "George Brown (Canadian politician) - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20230609082742/https://en.wikipedia.org/wiki/George_Brown_%28Canadian_politician%29#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 18429,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 18429,
+    "cache_read_input_tokens": 5843,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16594,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16594,
+        "cache_read_input_tokens": 3839,
+        "input_tokens": 2,
+        "output_tokens": 370,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 516,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

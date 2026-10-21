@@ -1,0 +1,30 @@
+{
+  "billable_searches_in_invalid_attempt": 4,
+  "failed_request_types": [
+    {
+      "error_type": "BenchError",
+      "http_status": null,
+      "reason_type": null
+    },
+    {
+      "error_type": "BenchError",
+      "http_status": null,
+      "reason_type": null
+    }
+  ],
+  "group": "D2",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "local_guard_blocked_nonempty_responses": 2,
+  "original_file_sha256": {
+    "audit/D2/frames-39/dispatch.json": "e6153d9a706ad5f85c9e28681d3a595ec4438534b314838212622f6bc15ee1ec",
+    "audit/D2/frames-39/mcp-count.txt": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+    "audit/D2/frames-39/search.jsonl": "6fa5cb41e214ad4cf8fbfc4d1ef2491be421a58560d82a0dc9ab908777721ced",
+    "audit/D2/frames-39/stderr.txt": "d0f2303a114d64fd95769a7a6996dc727d00c3a348106440d9ef2b81313f7b2f",
+    "jsonl/D2/frames-39.jsonl": "dc1753e392f447f59541385b97e36d3f8f7b7f7a98c2c1d48fc64615d5dc66eb",
+    "runs/D2/frames-39.json": "6d5e2fa5e9f1243e990b98f4b0e811418ccf0288a4b9fc5f86384152fa21a89c"
+  },
+  "question_id": "frames-39",
+  "reason": "已检查真实搜索失败及后续工具记录；保留无效次，仅对此题重跑一次，不据答案择优，成功题不重复。",
+  "retry_number": 1,
+  "reviewed_by": "Codex operational audit review"
+}

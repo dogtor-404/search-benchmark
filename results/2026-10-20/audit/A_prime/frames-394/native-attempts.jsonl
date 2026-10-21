@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Apollo 11 launch mass kg Wikipedia", "results": [], "status": "allowed", "tool_use_id": "toolu_013me9feodTgkgkrTd9qo6i4"}
+{"billable": false, "call": 2, "query": "Apollo 12 launch mass kg Wikipedia", "results": [], "status": "allowed", "tool_use_id": "toolu_01LnXeJj1mw88hE7AH17vkNa"}
+{"billable": false, "call": 3, "query": "Apollo 13 launch mass kg Wikipedia", "results": [], "status": "allowed", "tool_use_id": "toolu_017VFUhtavTptF9RHBZN6Uya"}

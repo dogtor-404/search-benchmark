@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "Bill Brown University of Chicago critical theorist B.A. education", "results": [], "status": "allowed", "tool_use_id": "toolu_01F2Pdif5n47RySCFvP72nPG"}
+{"billable": false, "call": 2, "query": "\"Bill Brown\" \"thing theory\" B.A. Duke University Ph.D. Stanford Modern Thought and Literature", "results": [], "status": "allowed", "tool_use_id": "toolu_01Rs5hLp99Uo2m7mBCzeDrAi"}
+{"billable": false, "call": 3, "query": "Bill Brown Karla Scherer professor \"B.A.\" Duke \"Johns Hopkins\" Stanford", "results": [], "status": "allowed", "tool_use_id": "toolu_01ERBr1KUH2SfpZ3EAzE3SU8"}
+{"billable": false, "call": 4, "query": "\"Bill Brown\" critical theory Wikipedia \"received his B.A.\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01PsQwLHc9YDV99fxEtVxF8x"}

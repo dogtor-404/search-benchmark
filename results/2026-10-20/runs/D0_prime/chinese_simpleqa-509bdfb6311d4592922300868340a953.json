@@ -1,0 +1,60 @@
+{
+  "answer": "阿尔伯特·爱因斯坦（Albert Einstein）。他以提出狭义相对论和广义相对论闻名，通常被称为天才。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.517,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.009976,
+      "inputTokens": 2039,
+      "maxOutputTokens": 32000,
+      "outputTokens": 91,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-509bdfb6311d4592922300868340a953",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-509bdfb6311d4592922300868340a953.jsonl",
+  "reported_cost_usd": 0.009976,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2039,
+    "iterations": [],
+    "output_tokens": 91,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

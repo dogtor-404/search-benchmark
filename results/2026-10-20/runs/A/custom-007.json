@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：Apache License 2.0。**\n\n依据是下游打包文件和百科镜像,不是仓库里的 LICENSE 原文。我只搜了 1 次,没有直接查到 leanprover/lean4 仓库的 LICENSE 文件。要最终确认,可以看 github.com/leanprover/lean4/blob/master/LICENSE。\n\n- Gentoo 的 Lean 4.24.0 ebuild 把许可证写成 Apache-2.0。\n- openSUSE 的 lean4.spec 写 License: Apache-2.0,项目地址指向 leanprover/lean4 仓库。\n- 维基百科镜像的信息框也标注 Apache 2.0。\n\nSources:\n- [lean 4.24.0.ebuild (Gentoo, riken.jp)](https://ftp.riken.jp/Linux/gentoo-portage/sci-mathematics/lean/lean-4.24.0.ebuild)\n- [lean4.spec (openSUSE)](https://src.opensuse.org/science/lean4/src/branch/main/lean4.spec)\n- [Lean (proof assistant), Wikipedia 镜像](https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Lean_4)",
+  "budget_denials": [],
+  "elapsed_seconds": 16.514,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120473,
+      "inputTokens": 16113,
+      "maxOutputTokens": 128000,
+      "outputTokens": 872,
+      "provider": "firstParty",
+      "thinkingTokens": 332,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3029,
+      "cacheReadInputTokens": 6735,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0181775,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 538,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-007",
+  "raw": "jsonl/A/custom-007.jsonl",
+  "reported_cost_usd": 0.0302248,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Lean 4 GitHub leanprover/lean4 LICENSE Apache 2.0",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PYeMNVLFb63LBGp2hAEqqc"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3029,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3029,
+    "cache_read_input_tokens": 6735,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1196,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1196,
+        "cache_read_input_tokens": 4284,
+        "input_tokens": 2,
+        "output_tokens": 436,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 538,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

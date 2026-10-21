@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:equilux**(拉丁语 equi- “等” + lux “光”)。它指昼夜时长真正相等的那一天。这一天通常在春分前几天、秋分后几天,具体日期随纬度而变。春分、秋分时昼夜并不精确相等,因为太阳是圆盘,而且大气会折射光线。\n\n依据:\n- https://dictionary.obspm.fr/terms/equilux/ (天文学词源词典:“The date on which the day and night have exactly the same length”)\n- https://www.timeanddate.com/astronomy/equilux.html\n- https://www.bbc.com/weather/weather-watcher/37434406 (英国皇家气象学会)\n- https://wordorigins-org.ghost.io/equinox-equilux/ (这个词最早的用例见于 1986 年的 Usenet 帖子,近几十年才流行起来)",
+  "budget_denials": [],
+  "elapsed_seconds": 10.52,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10375,
+      "cacheReadInputTokens": 5859,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0457839,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 369,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-716",
+  "raw": "jsonl/B/simpleqa_verified-716.jsonl",
+  "reported_cost_usd": 0.0457839,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.713,
+      "query": "neologism date when day and night are exactly equal equilux",
+      "results": [
+        {
+          "date": "2024-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "equinox / equilux",
+          "url": "https://wordorigins-org.ghost.io/equinox-equilux/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/#/portal/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "›äquinoktium‹ in: Deutsches Wörterbuch, Neubearbeitung (²DWB) - Digitales Wörterbuch der deutschen Sprache",
+          "url": "https://www.dwds.de/wb/dwb2/aquinoktium#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "équiluxe",
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26584145/equiluxe"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "An Etymological Dictionary of Astronomy and Astrophysics",
+          "url": "https://dictionary.obspm.fr/terms/equilux/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "›nachtgleiche‹ in: Deutsches Wörterbuch (¹DWB)",
+          "url": "https://www.dwds.de/wb/dwb/nachtgleiche#GN01397"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Equilux - What Is the Equilux?",
+          "url": "https://www.timeanddate.com/astronomy/equilux.html?__cf_chl_f_tk=mEYsPJrDWpYhG_PBjdTsHjhovjpQ2MxJYGqMt2hZQvs-1783393329-1.0.1.1-_HB1Q.Ygs5vrkwYP5zLAMG9jUy775wgLrQXDeA8BzMc#1"
+        },
+        {
+          "date": "2016-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Equinox or equilux? - Equinox or equilux?",
+          "url": "https://www.bbc.com/weather/weather-watcher/37434406#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search 'day-and-night' on etymonline - Want to remove ads",
+          "url": "https://www.etymonline.com/search?page=4&q=day-and-night#1"
+        },
+        {
+          "date": "2015-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Äquinoktium",
+          "url": "https://blog.leo.org/2015/09/24/aequinoktium/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search 'equinox' on etymonline - c",
+          "url": "https://www.etymonline.com/search?q=equinox#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10375,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10375,
+    "cache_read_input_tokens": 5859,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8524,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8524,
+        "cache_read_input_tokens": 3855,
+        "input_tokens": 2,
+        "output_tokens": 297,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 369,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

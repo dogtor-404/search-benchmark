@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：Rose Loomis**\n\nAndy Warhol 的《Marilyn Diptych》取材自玛丽莲·梦露 1953 年电影《Niagara》（《飞瀑怒潮》）的宣传照，她在片中饰演的角色名叫 Rose Loomis。\n\n依据网址：https://smarthistory.org/warhol-marilyn-diptych/ （以及 https://www.tate.org.uk/visit/tate-modern/display/in-the-studio/in-the-conservation-studio-andy-warhol）",
+  "budget_denials": [],
+  "elapsed_seconds": 9.023,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0492784,
+      "inputTokens": 10123,
+      "maxOutputTokens": 32000,
+      "outputTokens": 415,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-291",
+  "raw": "jsonl/D2_prime/frames-291.jsonl",
+  "reported_cost_usd": 0.0492784,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7626,
+      "query": "Andy Warhol Marilyn Diptych publicity photo Marilyn Monroe film character",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Andy Warhol, Marilyn Monroe Diptych – Renaissance Through Contemporary Art History",
+          "url": "https://uen.pressbooks.pub/arth2720/chapter/andy-warhol-marilyn-monroe-diptych/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In the Conservation Studio: Andy Warhol – Display at Tate Modern | Tate",
+          "url": "https://www.tate.org.uk/visit/tate-modern/display/in-the-studio/in-the-conservation-studio-andy-warhol"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Marilyn Diptych",
+          "url": "https://artuk.org/discover/artworks/marilyn-diptych-117797/view_as/list/search/style_title:pop-art/sort_by/name.keyword/order/desc/page/1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CONA Full Record - Research Home  Tools  Cutural Objects Names Authority",
+          "url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700008374#top#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "358: ANDY WARHOL - Marilyn DiptychAndy Warhol (American, 1928 - 1987)",
+          "url": "https://m.stanfordauctioneers.com/catalog/090718.pdf#38#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Search Results - - 2012-11-25 04:37:36",
+          "url": "https://quod.lib.umich.edu/h/hart?size=20;sort=hart_wono;type=boolean;view=thumbnail;rgn1=hart_su;select1=phrase;q1=Corvey#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Andy Warhol, Marilyn Diptych – Smarthistory - Andy Warhol, Marilyn Diptych",
+          "url": "https://smarthistory.org/warhol-marilyn-diptych/?sidebar=a-level#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "and do machine-like is what I want to do” (Livingstone and Cameron 56)",
+          "url": "https://ufdcimages.uflib.ufl.edu/NC/FE/00/41/82/00001/Strischek,%20S.pdf#16#6"
+        },
+        {
+          "date": "2026-06-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hues that girl?: The art, photography, books that Marilyn Monroe inspired - Explore",
+          "url": "https://www.hindustantimes.com/lifestyle/art-culture/hues-that-girl-the-art-photography-books-that-marilyn-monroe-inspired-101781334319850-amp.html#1"
+        },
+        {
+          "date": "2018-05-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fame, Fragility & The Factory: Andy Warhol’s Celebrity Icons | Andipa Editions",
+          "url": "https://andipaeditions.com/es/blog/353-fame-fragility-and-the-factory-andy-warhols-icons/#sidebar"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10123,
+    "iterations": [],
+    "output_tokens": 415,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

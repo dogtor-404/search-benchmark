@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：伊利诺伊州于 1818 年 12 月 3 日成立（加入联邦）。**\n\n消防船是「伊利诺伊号」（Illinois），由芝加哥消防局运营，1908 年救火时沉没，之后被打捞起来重新服役——来源：Wikipedia 的 \"Illinois (fireboat)\" 词条（https://en.wikipedia.org/wiki/Illinois_(fireboat)）。与之同名的伊利诺伊州于 1818 年 12 月 3 日加入美国联邦——来源：Congress.gov 国会记录（https://www.congress.gov/115/crec/2018/10/11/modified/CREC-2018-10-11-pt1-PgS6825-3.htm ）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.03,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.048957600000000004,
+      "inputTokens": 8950,
+      "maxOutputTokens": 32000,
+      "outputTokens": 631,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "frames-732",
+  "raw": "jsonl/D2_prime/frames-732.jsonl",
+  "reported_cost_usd": 0.048957600000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6736,
+      "query": "Chicago Fire Department fireboat sank 1908 refloated name",
+      "results": [
+        {
+          "date": "2013-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat) - Wikipedia - Illinois (fireboat)",
+          "url": "https://en.wikipedia.org/wiki/Illinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat) - The Illinois was a fireboat operated by the Chicago Fire Department",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Illinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2014 | DBpedia",
+          "url": "https://fragments.dbpedia.org/2014/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FIllinois_(fireboat)"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DBpedia 2016-04 | DBpedia - DBpedia – Linked Data Fragments",
+          "url": "https://fragments.dbpedia.org/2016-04/en?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FIllinois_(fireboat)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat)",
+          "url": "https://dbpedia.org/page/Illinois_(fireboat)"
+        },
+        {
+          "date": "2024-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat)",
+          "url": "https://en.citizendium.org/wiki/Illinois_%28fireboat%29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fireboats of Chicago - As an important port city, Chicago has operated dedicated fireboats since 1877.[1][2]",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Fireboats_of_Chicago#1"
+        },
+        {
+          "date": "2022-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (fireboat): Difference between revisions - Illinois (fireboat): Difference between revisions",
+          "url": "http://www.citizendium.net/wiki/index.php?title=Illinois_(fireboat)&diff=prev&oldid=869351#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois (Fireboat) - Illinois (Fireboat)",
+          "url": "https://encycloreader.org/db/view.php?id=VbT1NjZ6a8li#1"
+        },
+        {
+          "date": "2012-12-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fireboats of Chicago - Wikipedia - Fireboats of Chicago",
+          "url": "https://en.wikipedia.org/wiki/Fireboats_of_Chicago#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7455,
+      "query": "Illinois state founded date admitted to the Union",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The New States",
+          "url": "https://archive.org/download/illustratedunive00cla/illustratedunive00cla.pdf#144#102"
+        },
+        {
+          "date": "2021-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Executive Order Number 14-07",
+          "url": "https://www.illinois.gov/government/executive-orders/executive-order.executive-order-number-07.2014.html"
+        },
+        {
+          "date": "2017-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Pages H10169-H10175]",
+          "url": "https://www.congress.gov/115/crec/2017/12/18/modified/CREC-2017-12-18-pt1-PgH10169.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>State</td><td>Territory organized</td><td>State admitted</td></tr><tr><td>Vermont</td><td>Out of New Hampshire an...",
+          "url": "https://www.cga.ct.gov/hco/books/CT_State_Register_Manual_1979.pdf#214#181"
+        },
+        {
+          "date": "2018-10-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Pages S6825-S6826]",
+          "url": "https://www.congress.gov/115/crec/2018/10/11/modified/CREC-2018-10-11-pt1-PgS6825-3.htm#1"
+        },
+        {
+          "date": "2009-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Congressional Record - December 17, 2009 - Issue: Vol. 155, No. 192 — Daily Edition111th Congress (2009 - 2010) - 1st Session",
+          "url": "https://www.congress.gov/congressional-record/volume-155/issue-192/extensions-of-remarks-section/article/E3020-2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The States of the Union. (Published 1865) - SKIP ADVERTISEMENT",
+          "url": "https://www.nytimes.com/1865/07/02/archives/the-states-of-the-union.html#1"
+        },
+        {
+          "date": "2018-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois General Assembly - Illinois General Assembly - Bill Status for HB 489",
+          "url": "https://ilga.gov/ftp/legislation/100/BillStatus/XML/10000HB0489.xml#1"
+        },
+        {
+          "date": "2002-04-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Illinois General Assembly - Full Text of SJR0038 100th General Assembly",
+          "url": "https://ilga.gov/legislation/fulltext.asp?DocName=10000SJ0038&GA=100&SessionId=50&DocTypeId=SJR&LegID=21188&DocNum=0038&GAID=8&SpecSess=&Session=#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Polk Topeka, Kansas, city directory\" - fied the  constitution  of  the  United  States  January  9,  1788.",
+          "url": "https://archive.org/stream/polktopekakansas00unse_0/polktopekakansas00unse_0_djvu.txt#32"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8950,
+    "iterations": [],
+    "output_tokens": 631,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "第一作者是 Kevin D. Hall（Kevin Hall，NIH 国家糖尿病、消化和肾脏疾病研究所 NIDDK）。\n\n论文是 2019 年发表在 *Cell Metabolism* 上的 \"Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake\"。研究发现，在超加工饮食期间，受试者每天多摄入约 500 kcal，两周内体重平均增加约 0.9 kg；在未加工饮食期间则平均减重约 0.9 kg。",
+  "budget_denials": [],
+  "elapsed_seconds": 4.836,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1761,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0094448,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 224,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-015",
+  "raw": "jsonl/0/custom-015.jsonl",
+  "reported_cost_usd": 0.0094448,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1761,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1761,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1761,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1761,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 224,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 224,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

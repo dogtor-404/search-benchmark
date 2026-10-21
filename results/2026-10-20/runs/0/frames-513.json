@@ -1,0 +1,72 @@
+{
+  "answer": "伊丽莎白二世在位时间更长。\n\n- **伊丽莎白二世**：1952 年 2 月 6 日即位，2022 年 9 月 8 日去世，在位约 70 年 7 个月。\n- **尤利乌斯·凯撒**：公元前 100 年（一说前 102 年）出生，公元前 44 年被刺杀，终年约 55 到 56 岁。\n\n所以女王的在位时间（约 70 年）比凯撒的整个生命（约 56 年）还要长大约 14 年。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.872,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1764,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0090268,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 181,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-513",
+  "raw": "jsonl/0/frames-513.jsonl",
+  "reported_cost_usd": 0.0090268,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1764,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1764,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1764,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1764,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 181,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 181,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

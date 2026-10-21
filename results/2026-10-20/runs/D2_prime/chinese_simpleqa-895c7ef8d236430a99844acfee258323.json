@@ -1,0 +1,142 @@
+{
+  "answer": "Massimo Dutti 创建于 **1985 年**（西班牙，起初只做男装，1991 年被 Inditex 收购）。\n\n依据：\n- Wikipedia: https://en.m.wikipedia.org/wiki/Massimo_Dutti\n- 品牌官网: https://www.massimodutti.com/ch/company",
+  "budget_denials": [],
+  "elapsed_seconds": 5.951,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0202784,
+      "inputTokens": 4083,
+      "maxOutputTokens": 32000,
+      "outputTokens": 173,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-895c7ef8d236430a99844acfee258323",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-895c7ef8d236430a99844acfee258323.jsonl",
+  "reported_cost_usd": 0.0202784,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6393,
+      "query": "Massimo Dutti founded year created",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti",
+          "url": "https://www.massimodutti.com/ch/company"
+        },
+        {
+          "date": "2007-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti - Wikipedia - Massimo Dutti",
+          "url": "https://en.m.wikipedia.org:443/wiki/Massimo_Dutti#1"
+        },
+        {
+          "date": "2015-08-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti reopens its store in Dubai Festival City",
+          "url": "https://www.khaleejtimes.com/business/massimo-dutti-reopens-its-store-in-dubai-festival-city"
+        },
+        {
+          "date": "2017-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish brand Massimo Dutti launches in Pacific Centre | Daily Hive | News",
+          "url": "https://dailyhive.com/vancouver/spanish-brand-massimo-dutti-launches-pacific-centre#comments-58920"
+        },
+        {
+          "date": "2015-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti opens first west coast US store",
+          "url": "https://ca.fashionnetwork.com/news/Massimo-dutti-opens-first-west-coast-us-store,598284.html"
+        },
+        {
+          "date": "2017-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mumbai gets its very own Massimo Dutti store | Man's World India",
+          "url": "https://www.mansworldindia.com/fashion/mumbai-gets-its-very-own-massimo-dutti-store"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti | Latest news, analysis and jobs - Massimo Dutti",
+          "url": "https://www.businessoffashion.com/organisations/massimo-dutti/?LinkSource=HomePage#1"
+        },
+        {
+          "date": "2015-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MASSIMO DUTTI OPENS SOUTH COAST PLAZA STORE - MR Magazine",
+          "url": "https://mr-mag.com/massimo-dutti-opens-south-coast-plaza-store/"
+        },
+        {
+          "date": "2019-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti",
+          "url": "https://www.tharawat-magazine.com/vocabulary/massimo-dutti/"
+        },
+        {
+          "date": "2012-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti enters US market with first flagship store",
+          "url": "https://www.fibre2fashion.com/news/apparel-news/newsdetails.aspx?news_id=116899"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4083,
+    "iterations": [],
+    "output_tokens": 173,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

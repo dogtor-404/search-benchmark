@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:Willa,也就是 Raelle 的母亲。** 她一直被认为已经死了。第一季结局\"Witchbomb\"的最后,Scylla 被 Anacostia 救出后去见 Willa,才发现这一季一直给她下命令的人就是 Willa。Willa 还提到了自己的女儿。\n\n依据的网址:\n- https://www.tvinsider.com/935196/motherland-fort-salem-season-1-finale-raelle-mother-alive-abigail-scylla/\n- https://hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview/\n- https://www.denofgeek.com/tv/motherland-fort-salem-eliot-laurence-season-2/\n- https://ew.com/events/comic-con/motherland-fort-salem-season-2-twists/\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.74,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7468,
+      "cacheReadInputTokens": 5854,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0343754,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 391,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-3173",
+  "raw": "jsonl/B/simpleqa_verified-3173.jsonl",
+  "reported_cost_usd": 0.0343754,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7488,
+      "query": "Motherland: Fort Salem Season 1 finale who is alive",
+      "results": [
+        {
+          "date": "2020-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' cast and creator tease 'dramatic' season 2 twists - Motherland: Fort Salem cast and creator tease 'dramatic' season 2 twists",
+          "url": "https://ew.com/events/comic-con/motherland-fort-salem-season-2-twists/#1"
+        },
+        {
+          "date": "2020-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Creator on What’s Brewing for Season 2 | Den of Geek - Motherland: Fort Salem Creator on What’s Brewing for Season 2",
+          "url": "https://www.denofgeek.com/tv/motherland-fort-salem-eliot-laurence-season-2/#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' Season 2 Spoilers On Raelle, Abigail, Scylla",
+          "url": "https://develop.hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview/#main"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Episode 10 Review - Witchbomb | Den of Geek - Motherland: Fort Salem Episode 10 Review – Witchbomb",
+          "url": "https://www.denofgeek.com/tv/motherland-fort-salem-episode-10-review/#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Cast Answers Finale Questions | Den of Geek - Motherland: Fort Salem Cast Answers Finale Questions",
+          "url": "https://www.denofgeek.com/tv/motherland-fort-salem-cast-answers-finale-questions/#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘Motherland: Fort Salem’ Creator On The Finale Bombshell, Raelle & Scylla’s Future & More Season 2 Scoop",
+          "url": "https://hollywoodlife.com/2020/05/20/motherland-fort-salem-season-2-spoilers-raelle-abigail-scylla-finale-interview/"
+        },
+        {
+          "date": "2020-05-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'Motherland: Fort Salem' Boss Breaks Down Those Major Finale Surprises & Teases Season 2 - ‘Motherland: Fort Salem’ Boss Breaks Down Those Major Finale Surprises & Teases Season 2",
+          "url": "https://www.tvinsider.com/935196/motherland-fort-salem-season-1-finale-raelle-mother-alive-abigail-scylla/#spotim#1"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8 Burning Questions for 'Motherland: Fort Salem' Season 2",
+          "url": "https://www.tvinsider.com/gallery/motherland-fort-salem-season-2-burning-questions-freeform/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fort Salem cast teases season 2 during Comic-Con 2020",
+          "url": "https://spite.s3.uk.io.cloud.ovh.net/fort-salem-cast-teases-season-2-during-comic-con-2020.html"
+        },
+        {
+          "date": "2020-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motherland: Fort Salem Season 1, Episode 10 Recap: Witchbomb",
+          "url": "https://showsnob.com/2020/05/21/motherland-fort-salem-finale-recap/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7468,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7468,
+    "cache_read_input_tokens": 5854,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5622,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5622,
+        "cache_read_input_tokens": 3850,
+        "input_tokens": 2,
+        "output_tokens": 314,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 391,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Squeeze \"Is That Love\" \"Black Coffee in Bed\" \"I Think I'm Go Go\" song release year", "results": [], "status": "allowed", "tool_use_id": "toolu_01TxAEsKxe8es2qTNaCka6c3"}
+{"billable": false, "call": 2, "query": "E.T. the Extra-Terrestrial theatrical premiere date", "results": [], "status": "allowed", "tool_use_id": "toolu_01Xoa8KVDy5vSLinmdiZgyUY"}
+{"billable": false, "call": 3, "query": "Squeeze \"I Think I'm Go Go\" song album release", "results": [], "status": "allowed", "tool_use_id": "toolu_017cWqbhWdhgLmh889BcKY8x"}

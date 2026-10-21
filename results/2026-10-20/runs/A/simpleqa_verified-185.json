@@ -1,0 +1,107 @@
+{
+  "answer": "**答案:2013 年。**\n\nMaharaj Kishan Bhan 在 2013 年获得 Padma Bhushan。维基百科的奖项列表写的是\"Padmabhushan for civil services - 2013\"。BioSpectrum 2013 年 1 月的文章也提到他当周获奖。\n\n第一次搜索没有直接给出年份。我是靠 Deccan Herald 那篇报道里同批获奖的人推断出 2013,再搜一次才确认的。\"civil services\"这个说法只见于维基百科的列表,没有在官方 Padma 奖网站上核对过。\n\nSources:\n- [Maharaj Kishan Bhan – Wikipedia](https://en.wikipedia.org/wiki/Maharaj_Kishan_Bhan)\n- [Padma Bhushan Dr MK Bhan to get Genome Valley Excellence Award today – BioSpectrum Asia](https://www.biospectrumasia.com/influencers/26/4585/padma-bhushan-dr-mk-bhan-to-get-genome-valley-excellence-award-today.html)\n- [Prez gives away Padma awards – Deccan Herald](https://www.deccanherald.com/content/327429/prez-gives-away-padma-awards.html)",
+  "budget_denials": [],
+  "elapsed_seconds": 26.988,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0237568,
+      "inputTokens": 26523,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2209,
+      "provider": "firstParty",
+      "thinkingTokens": 1047,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4266,
+      "cacheReadInputTokens": 12092,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.025515200000000002,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 723,
+      "provider": "firstParty",
+      "thinkingTokens": 97,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-185",
+  "raw": "jsonl/A/simpleqa_verified-185.jsonl",
+  "reported_cost_usd": 0.049272,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Maharaj Kishan Bhan Padma Bhushan year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019MAPKz4NanmZgkz2WirvV4"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Maharaj Kishan Bhan pediatrician Padma Bhushan 2013 civil services",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FbH9yxicqdaRDBhz4j1SRX"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4266,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4266,
+    "cache_read_input_tokens": 12092,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1392,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1392,
+        "cache_read_input_tokens": 5325,
+        "input_tokens": 2,
+        "output_tokens": 428,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 723,
+    "output_tokens_details": {
+      "thinking_tokens": 97
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

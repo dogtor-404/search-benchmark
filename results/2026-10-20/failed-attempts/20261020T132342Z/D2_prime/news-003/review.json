@@ -1,0 +1,25 @@
+{
+  "billable_searches_in_invalid_attempt": 1,
+  "failed_request_types": [
+    {
+      "error_type": "URLError",
+      "http_status": null,
+      "reason_type": "SSLEOFError"
+    }
+  ],
+  "group": "D2_prime",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "local_guard_blocked_nonempty_responses": 0,
+  "original_file_sha256": {
+    "audit/D2_prime/news-003/dispatch.json": "5380d921f13ec2b7991b3d984cfefc7f62334a5c2ca9c2aabba4a9a0f8866007",
+    "audit/D2_prime/news-003/mcp-count.txt": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+    "audit/D2_prime/news-003/search.jsonl": "e04cf8b9a4b240633cae4574f242b99e64f2980b4d2dd7ed6b0bf1f861f01732",
+    "audit/D2_prime/news-003/stderr.txt": "c4055f0b246bb5ff8cb9777278807c2f5f27dcbbed8e2fde78a508c9edde62b7",
+    "jsonl/D2_prime/news-003.jsonl": "d0489abe9832b9b6485f1f3e35adaeb8be410cb194d9daaef48ee13e020f05b8",
+    "runs/D2_prime/news-003.json": "f0243a09ecdadae6982627113d8c80b36a01266d7556635f8593bd1c70e16f91"
+  },
+  "question_id": "news-003",
+  "reason": "已检查真实搜索失败及后续工具记录；保留无效次，仅对此题重跑一次，不据答案择优，成功题不重复。",
+  "retry_number": 1,
+  "reviewed_by": "Codex operational audit review"
+}

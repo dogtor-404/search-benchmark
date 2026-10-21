@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：格尔拉赫峰（Gerlachovský štít，又译格尔拉霍夫斯基峰）**。它海拔 2655 米，在斯洛伐克境内的塔特拉山。\n\n依据（共搜 1 次）：\n- 维基百科（中文）：https://zh.m.wikipedia.org/wiki/%E5%96%80%E7%88%BE%E5%B7%B4%E4%BB%9F%E5%B1%B1\n- 百度百科：https://baike.baidu.com/item/%e5%96%80%e5%b0%94%e5%b7%b4%e9%98%a1%e5%b1%b1#1\n- 欧路词典转引的英文维基峰列表：http://beta_dict.eudic.net/mdicts/en/Carpathian_Mountains.html。表中格尔拉赫峰 2655 米排第一，罗马尼亚最高的莫尔多瓦努峰（Moldoveanu）为 2544 米。\n\nFactmonster 给的数字是 2663 米，是旧数据。较新的来源都写 2655 米。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.534,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6891,
+      "cacheReadInputTokens": 5842,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.032566200000000003,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 441,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818",
+  "raw": "jsonl/B/chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818.jsonl",
+  "reported_cost_usd": 0.032566200000000003,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5856,
+      "query": "喀尔巴阡山脉最高峰",
+      "results": [
+        {
+          "date": "2023-03-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀尔巴阡山 - 喀尔巴阡山",
+          "url": "https://baike.baidu.com/item/%e5%96%80%e5%b0%94%e5%b7%b4%e9%98%a1%e5%b1%b1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "冰洞七载",
+          "url": "https://www.cnki.com.cn/Article/CJFDTotal-CBCK200332023.htm"
+        },
+        {
+          "date": "2005-05-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀尔巴阡山脉 - 维基百科，自由的百科全书",
+          "url": "https://zh.m.wikipedia.org/wiki/%E5%96%80%E7%88%BE%E5%B7%B4%E4%BB%9F%E5%B1%B1"
+        },
+        {
+          "date": "2024-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀尔巴阡山_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%B1%B1"
+        },
+        {
+          "date": "2026-07-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀尔巴阡山脉 - 搜词条",
+          "url": "https://wapbaike.baidu.com/item/%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%B1%B1%E8%84%89/553756?fromtitle=%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%B1%B1&fromid=1875943#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "全屏显示 专题 章节",
+          "url": "https://mooc1.chaoxing.com/mooc-ans/ztnodedetailcontroller/visitnodedetail?courseId=92005978&knowledgeId=92006131&_from_=&_fromV2_=&rtag=_="
+        },
+        {
+          "date": "2005-05-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀爾巴阡山脈 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-hk/%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%B1%B1%E8%84%89"
+        },
+        {
+          "date": "2017-01-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Carpathian Mountains: Meaning and Definition of",
+          "url": "https://www.factmonster.com/dictionary/carpathianmountains"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "喀尔巴阡山脉",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_zh_all_maxi/%E5%96%80%E5%B0%94%E5%B7%B4%E9%98%A1%E5%B1%B1%E8%84%89"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Carpathian Mountains的解释和发音 「欧路词典」英汉-汉英词典 为您提供权威的英语单词解释_真人发音_用法_例句",
+          "url": "http://beta_dict.eudic.net/mdicts/en/Carpathian_Mountains.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6891,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6891,
+    "cache_read_input_tokens": 5842,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5057,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5057,
+        "cache_read_input_tokens": 3838,
+        "input_tokens": 2,
+        "output_tokens": 371,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 441,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

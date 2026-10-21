@@ -1,0 +1,144 @@
+{
+  "answer": "COBE 于 **1989 年 11 月 18 日**发射。\n\n依据：[NASA Science – COBE](https://science.nasa.gov/mission/cobe/)（Launch: Nov. 18, 1989）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.444,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0215184,
+      "inputTokens": 4163,
+      "maxOutputTokens": 32000,
+      "outputTokens": 219,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-024",
+  "raw": "jsonl/D2_prime/custom-024.jsonl",
+  "reported_cost_usd": 0.0215184,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6465,
+      "query": "NASA COBE Cosmic Background Explorer satellite launch date",
+      "results": [
+        {
+          "date": "2013-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "John Mather :: FAQ",
+          "url": "https://asd.gsfc.nasa.gov/archive/mather/faq/"
+        },
+        {
+          "date": "2025-04-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COBE (Cosmic Background Explorer) - NASA Science",
+          "url": "https://science.nasa.gov/mission/cobe/"
+        },
+        {
+          "date": "2013-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "John Mather :: FAQ :: COBE",
+          "url": "https://asd.gsfc.nasa.gov/archive/mather/faq/cobe.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cosmic background explorer (COBE) mission",
+          "url": "https://ui.adsabs.harvard.edu/abs/1993SPIE.2019..146M"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NNSA",
+          "url": "https://science.nasa.gov/wp-content/uploads/2024/06/cobe-press-kit.pdf?emrc=6739e43e145c5#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BCCP",
+          "url": "https://aether.lbl.gov/bccp/cobehome.html"
+        },
+        {
+          "date": "2002-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Infrared measurements from the Cosmic Background Explorer (COBE)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/1350449594900914"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COBE",
+          "url": "https://aether.lbl.gov/www/projects/cobe/index.html"
+        },
+        {
+          "date": "1989-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Probing the primeval fireball",
+          "url": "https://www.osti.gov/biblio/7059556"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COBE",
+          "url": "https://www.mpp.mpg.de/~mazin/CIB_measurements_theory/text7.htm"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4163,
+    "iterations": [],
+    "output_tokens": 219,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "轮岛涂是在 **1977年**（昭和52年，4月25日）被日本政府指定为国家重要无形文化财产。\n\n依据：\n- 国指定文化财等数据库（kunishitei.bunka.go.jp）https://kunishitei.bunka.go.jp/bsys/maindetails/303/120\n- 文化遺産オンライン https://bunka.nii.ac.jp/heritages/detail/160148",
+  "budget_denials": [],
+  "elapsed_seconds": 6.961,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0240824,
+      "inputTokens": 4674,
+      "maxOutputTokens": 32000,
+      "outputTokens": 245,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-784a518b5ade45f78896131f35cd29ea.jsonl",
+  "reported_cost_usd": 0.0240824,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6754,
+      "query": "轮岛涂 国家重要无形文化财产 指定 年份",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国指定文化財等データベース",
+          "url": "https://kunishitei.bunka.go.jp/bsys/maindetails/303/120"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "輪島塗 文化遺産オンライン",
+          "url": "https://api.online.bunka.go.jp/heritages/detail/160148"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "文化遺産データベース",
+          "url": "https://online.bunka.go.jp/db/heritages/detail/160148"
+        },
+        {
+          "date": "2024-02-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "特派現場／日本輪島早市震後如戰火廢墟 漆藝業者矢言重建 | 國際 | 中央社 CNA",
+          "url": "https://www.cna.com.tw/news/aopl/202402040008.aspx?utm_source=Telegram&amp;utm_medium=cnanewstw&amp;utm_campaign=link"
+        },
+        {
+          "date": "2024-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登強震重創日漆器工藝 台灣善款助職人復興輪島塗 | 國際 | 中央社 CNA",
+          "url": "https://www.cna.com.tw/news/aopl/202403170074.aspx?utm_source=Telegram&amp;utm_medium=cnanewstw&amp;utm_campaign=link"
+        },
+        {
+          "date": "2024-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "日本文化遗产工厂在地震中损毁严重 恢复需2年以上时间",
+          "url": "http://www.china.com.cn/news/2024-01/30/content_116973504.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "美品 年代物 日本购回木制框架 漆木輪嶋涂精绘《大型花鸟图案挂屏》制作精美 工艺精细 轮岛涂起源于江户时代宽文年间，是位于能登半岛的石川县轮岛市起源生产的漆器名称,于1977年被日本政府指定为国家重要无形文化财 尺寸整体长51X42.5X3CM 画芯尺寸30.5X21CM",
+          "url": "http://www.kongfz.cn/59657692/bid/"
+        },
+        {
+          "date": "2024-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登強震重創日漆器工藝 台灣善款助職人復興輪島塗 - Rti央廣",
+          "url": "https://www.rti.org.tw/news/view/id/2199243"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（戊6772）《日本轮岛塗结界》原盒一件泉 木胎漆器 日本传统工艺漆器 制作精美 做工精良 两侧印有五三桐纹 长：65cm 高：13cm 宽：5.8cm 轮岛涂起源于江户时代宽文年间，是位于能登半岛的石川县轮岛市起源生产的漆器名称，于1977年被日本政府指定为国家重要无形文化财产。",
+          "url": "http://www.kongfz.cn/73904146/bid/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "報道関係各位",
+          "url": "https://www.art.city.wajima.ishikawa.jp/wp-content/uploads/2025/07/0a01183a7692ecdfd8aa0cc5a3be5f74-2.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4674,
+    "iterations": [],
+    "output_tokens": 245,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

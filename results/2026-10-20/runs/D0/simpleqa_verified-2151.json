@@ -1,0 +1,60 @@
+{
+  "answer": "我不知道。\n\n我对 2011 年波特兰 Hands Across Hawthorne 集会（Brad Forkner 遇袭后、Basic Rights Oregon 组织的那次）只有模糊印象——人群唱过一首披头士的歌，但我无法可靠地确认是哪一首（\"Hey Jude\" 和 \"All You Need Is Love\" 都有可能，但都是猜测，没有依据）。按你的要求，不确定就直说不知道，不编答案。",
+  "budget_denials": [],
+  "elapsed_seconds": 5.088,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018172,
+      "inputTokens": 1998,
+      "maxOutputTokens": 32000,
+      "outputTokens": 509,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-2151",
+  "raw": "jsonl/D0/simpleqa_verified-2151.jsonl",
+  "reported_cost_usd": 0.018172,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1998,
+    "iterations": [],
+    "output_tokens": 509,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

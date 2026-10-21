@@ -1,0 +1,142 @@
+{
+  "answer": "**Massimo Dutti 创建于 1985 年**，最初是西班牙的一家男装品牌，1991 年被 Inditex 集团收购，该集团旗下还有 Zara 等品牌。\n\n依据：\n- Massimo Dutti 官网品牌历史：“Massimo Dutti nace en el año 1985 y es adquirida por Inditex en 1991”（Massimo Dutti 诞生于 1985 年，1991 年被 Inditex 收购）— https://www.massimodutti.com/gt/company\n- 维基百科：“Founded: Spain (1985)… established in 1985” — https://en.wikipedia.org/wiki/Massimo_Dutti",
+  "budget_denials": [],
+  "elapsed_seconds": 4.566,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.024728800000000002,
+      "inputTokens": 4967,
+      "maxOutputTokens": 32000,
+      "outputTokens": 220,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-895c7ef8d236430a99844acfee258323",
+  "raw": "jsonl/D2/chinese_simpleqa-895c7ef8d236430a99844acfee258323.jsonl",
+  "reported_cost_usd": 0.024728800000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6331,
+      "query": "Massimo Dutti founded year history",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti",
+          "url": "https://www.massimodutti.com/gt/company"
+        },
+        {
+          "date": "2007-02-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti - Wikipedia - Massimo Dutti",
+          "url": "https://en.m.wikipedia.org:443/wiki/Massimo_Dutti#1"
+        },
+        {
+          "date": "2017-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mumbai gets its very own Massimo Dutti store | Man's World India",
+          "url": "https://www.mansworldindia.com/fashion/mumbai-gets-its-very-own-massimo-dutti-store"
+        },
+        {
+          "date": "2012-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti enters US market with first flagship store",
+          "url": "https://www.fibre2fashion.com/news/apparel-news/newsdetails.aspx?news_id=116899"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti | Latest news, analysis and jobs - Massimo Dutti",
+          "url": "https://www.businessoffashion.com/organisations/massimo-dutti/?LinkSource=HomePage#1"
+        },
+        {
+          "date": "2015-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti opens first west coast US store",
+          "url": "https://ca.fashionnetwork.com/news/Massimo-dutti-opens-first-west-coast-us-store,598284.html"
+        },
+        {
+          "date": "2015-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MASSIMO DUTTI OPENS SOUTH COAST PLAZA STORE - MR Magazine",
+          "url": "https://mr-mag.com/massimo-dutti-opens-south-coast-plaza-store/"
+        },
+        {
+          "date": "2017-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish brand Massimo Dutti launches in Pacific Centre | Daily Hive | News",
+          "url": "https://dailyhive.com/vancouver/spanish-brand-massimo-dutti-launches-pacific-centre#comments-58920"
+        },
+        {
+          "date": "2015-11-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Massimo Dutti Opens First West Coast Store in Southern California",
+          "url": "https://www.apparelnews.net/news/2015/nov/19/massimo-dutti-opens-first-west-coast-store-souther/#comments"
+        },
+        {
+          "date": "2010-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Malta joins Massimo Dutti in celebrating 25 years of growth - Malta joins Massimo Dutti in celebrating 25 years of growth",
+          "url": "https://timesofmalta.com/article/malta-joins-massimo-dutti-in-celebrating-25-years-of-growth.337858#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4967,
+    "iterations": [],
+    "output_tokens": 220,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

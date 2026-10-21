@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：2019 年。** 事件视界望远镜（EHT）合作组织在 2019 年 4 月 10 日（北京时间晚上）于全球六地同时召开发布会，公布了 M87 星系中心黑洞的照片。\n\n只搜了 1 次。\n\n依据的网址：\n- [中国日报：人类首张黑洞照片面世 距地球5500万光年](https://cn.chinadaily.com.cn/a/201904/11/WS5cae7263a310e7f8b1575c47.html)\n- [中国日报 2019-04-10 报道](https://cn.chinadaily.com.cn/a/201904/10/WS5cadebbba310e7f8b1575c31.html)\n- [量子位 2019-04 报道](https://www.qbitai.com/2019/04/1726.html)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.344,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117207,
+      "inputTokens": 12797,
+      "maxOutputTokens": 128000,
+      "outputTokens": 882,
+      "provider": "firstParty",
+      "thinkingTokens": 151,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3147,
+      "cacheReadInputTokens": 6741,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.034180199999999994,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 382,
+      "provider": "firstParty",
+      "thinkingTokens": 16,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-025",
+  "raw": "jsonl/A_prime/custom-025.jsonl",
+  "reported_cost_usd": 0.045900899999999994,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "事件视界望远镜 首张黑洞照片 公布",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MAb7cLL4Xqvs9XdEyEgwMY"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3147,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3147,
+    "cache_read_input_tokens": 6741,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1308,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1308,
+        "cache_read_input_tokens": 4290,
+        "input_tokens": 2,
+        "output_tokens": 274,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 382,
+    "output_tokens_details": {
+      "thinking_tokens": 16
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

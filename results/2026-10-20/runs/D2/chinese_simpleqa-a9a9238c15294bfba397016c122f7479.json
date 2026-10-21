@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：毛利兰（小兰）。**\n\n在《名侦探柯南》的“福尔摩斯的默示录（伦敦篇）”中，工藤新一以真实身份在伦敦大本钟下向小兰表白，他说：“你是个很棘手的悬案……就算我是福尔摩斯，也没法准确推理出自己喜欢女孩的心思。”\n\n依据：\n- https://baike.baidu.com/item/福尔摩斯默示录/2401530\n- https://www.upmedia.mg/tw/lifestyle/information/55681",
+  "budget_denials": [],
+  "elapsed_seconds": 4.529,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.026872800000000002,
+      "inputTokens": 5303,
+      "maxOutputTokens": 32000,
+      "outputTokens": 260,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-a9a9238c15294bfba397016c122f7479",
+  "raw": "jsonl/D2/chinese_simpleqa-a9a9238c15294bfba397016c122f7479.jsonl",
+  "reported_cost_usd": 0.026872800000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6264,
+      "query": "名侦探柯南 福尔摩斯的默示录 工藤新一 伦敦 向谁表白",
+      "results": [
+        {
+          "date": "2026-02-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "福尔摩斯默示录",
+          "url": "https://baike.baidu.com/item/%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E9%BB%98%E7%A4%BA%E5%BD%95/2401530?noadapt=1&bst=1792065513.d9f1329e322ae155#1"
+        },
+        {
+          "date": "2026-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "工藤新一（日本漫画《名侦探柯南》及衍生作品的主人公）_百度百科 - 据灰原哀回忆，关于朗姆外貌的传闻五花八门：例如大块头男子、像女人一样的男人、上了年纪的老人，还有这些都是其替身的说法",
+          "url": "https://wapbaike.baidu.com/item/%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80/159496?filter=question#3"
+        },
+        {
+          "date": "2019-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "小蘭跟新一終於親了！《名偵探柯南》最閃章節即將改編動畫播出 -- 上報",
+          "url": "https://www.upmedia.mg/tw/lifestyle/information/55681"
+        },
+        {
+          "date": "2022-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "柯南里面有几集是讲柯南去伦敦然后碰到一个小男孩，小男孩是知名网球选手的弟弟？",
+          "url": "https://www.zhihu.com/question/543330804#0"
+        },
+        {
+          "date": "2023-08-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "主线之新兰动画集数（TV+剧场版），新一形态+柯南形态 - 667~672 福尔摩斯默示录（新一形态）",
+          "url": "https://www.bilibili.com/opus/751742843202043952#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "http://bbs.baidu.com.cn/p/1299104186?pn=15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "新一小兰伦敦告白在第几集",
+          "url": "https://m.kuaikanmanhua.com/qa/129833"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "福尔摩斯的默示录",
+          "url": "https://baike.sogou.com/m/v54267371.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://m.ximalaya.com/ask/q3420540"
+        },
+        {
+          "date": "2019-12-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "名侦探柯南中新来自一在哪一集向小兰表演息益世油导据析调脱白的？0",
+          "url": "https://wenda.so.com/q/1637880736217378"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5303,
+    "iterations": [],
+    "output_tokens": 260,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

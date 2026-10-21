@@ -1,0 +1,144 @@
+{
+  "answer": "第一作者是 **Kevin D. Hall**（凯文·D·霍尔）。\n\n依据：PubMed 记录显示该论文作者排序为 \"Hall KD, Ayuketah A, Brychta R, ...\"（Kevin D. Hall 排第一），即《Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake》，Cell Metabolism 2019;30(1):67-77.e3。\n\n网址：https://pubmed.ncbi.nlm.nih.gov/31105044/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.546,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0371664,
+      "inputTokens": 7615,
+      "maxOutputTokens": 32000,
+      "outputTokens": 311,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-015",
+  "raw": "jsonl/D2_prime/custom-015.jsonl",
+  "reported_cost_usd": 0.0371664,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7112,
+      "query": "2019 NIH ultra-processed diet inpatient randomized controlled trial first author Cell Metabolism",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "M Gharib - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=M+Gharib#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "R Ouwerkerk - Search Results - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=R+Ouwerkerk#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Chen_2019_Foods_8_ - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Chen_2019_Foods_8_#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Medline ® Abstract for Reference 12 of 'Obesity in adults: Behavioral therapy'",
+          "url": "https://www.uptodate.com/contents/obesity-in-adults-behavioral-therapy/abstract/12"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - PubMed - Randomized Controlled Trial",
+          "url": "https://https-pubmed-ncbi-nlm-nih-gov-443.webvpn.ynu.edu.cn/31105044/#1"
+        },
+        {
+          "date": "2025-08-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-processed diets cause excess calorie intake and weight gain: A one-month inpatient randomized controlled trial of ad libitum food intake - Find journal articles, conference proceedings and datasets deposited in A*OAR",
+          "url": "https://oar.a-star.edu.sg/public/communities-collections/articles/16056?collectionId=13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "{\"version\":\"6.9\",\"hitCount\":1,\"request\":{\"queryString\":\"EXT_ID:31105044 AND SRC:MED\",\"internalQuery\":\"EXT_ID:31105044 AND SRC:ME...",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31105044%20AND%20SRC:MED&resulttype=core&format=json#1"
+        },
+        {
+          "date": "2019-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1550413119302608?fr=RR-2&ref=pdf_download&rr=a10a1284acdc055c#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Industrial Applications of Selected JFS Articles",
+          "url": "https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.14690#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1562 篇文献已施引: - 1562 篇文献已施引:",
+          "url": "https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-85067029942&src=s&imp=t&sid=9012d5f87758c0de81c84b9ff8f4ed71&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=a020242657a54ac536e739512a4223a7#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7615,
+    "iterations": [],
+    "output_tokens": 311,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

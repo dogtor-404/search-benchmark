@@ -1,0 +1,221 @@
+{
+  "answer": "**伊丽莎白二世的在位时间更长。**\n\n- 伊丽莎白二世在位 **70 年 214 天**（1952 年 2 月 6 日—2022 年 9 月 8 日）。\n- 尤利乌斯·凯撒生于公元前 100 年，卒于公元前 44 年，享年约 **55 岁**。\n\n因此，伊丽莎白二世的在位时间比凯撒的寿命长约 15 年。\n\n来源：\n- https://www.guinnessworldrecords.com/world-records/longest-reigning-queen\n- https://www.bbc.com/history/historic_figures/caesar_julius.shtml",
+  "budget_denials": [],
+  "elapsed_seconds": 6.27,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06302239999999999,
+      "inputTokens": 13194,
+      "maxOutputTokens": 32000,
+      "outputTokens": 488,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "frames-513",
+  "raw": "jsonl/D2/frames-513.jsonl",
+  "reported_cost_usd": 0.06302239999999999,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6844,
+      "query": "Queen Elizabeth II reign length 70 years 214 days",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Showing 1 results",
+          "url": "https://arkivji.org.mt/actor/browse?occupation=1588171&place=803693&subject=1588156&sf_culture=en&repository=67619&sort=identifier&sortDir=asc"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Longest-reigning queen ever",
+          "url": "https://www.guinnessworldrecords.com/world-records/longest-reigning-queen"
+        },
+        {
+          "date": "2022-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Queen Elizabeth II dies aged 96 as the longest-reigning queen ever",
+          "url": "https://dev-micro.guinnessworldrecords.com/news/2022/9/queen-elizabeth-ii-dies-aged-96-as-the-longest-reigning-queen-ever-703732"
+        },
+        {
+          "date": "2022-09-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The life and times of Queen Elizabeth II and her record-breaking seven-decade reign - russian news agency",
+          "url": "https://tass.com/world/1505173#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Carolyn Harris",
+          "url": "http://dev-micro.guinnessworldrecords.com/records/partners/consultants/carolyn-harris"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Longest-reigning queen ever",
+          "url": "https://www.guinnessworldrecords.es/world-records/longest-reigning-queen"
+        },
+        {
+          "date": "2022-09-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A record-busting reign of 70 years on the throne - Times of India - - News",
+          "url": "https://timesofindia.indiatimes.com/world/uk/a-record-busting-reign-of-70-years-on-the-throne/articleshow/94109642.cms#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Queen Elizabeth II: In Memoriam Maxicards",
+          "url": "https://auspost.com.au/shop/product/queen-elizabeth-ii-in-memoriam-maxicards-set-of-6-2202220"
+        },
+        {
+          "date": "2005-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "List of monarchs in Britain by length of reign - Wikipedia - List of monarchs in Britain by length of reign",
+          "url": "https://en.m.wikipedia.org/wiki/Longest_reigning_monarch_of_the_British_monarchy#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Record",
+          "url": "https://catalogue.royalalberthall.com/Record.aspx?src=CalmView.Persons&id=DS%2fUK%2f3143"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6985,
+      "query": "Julius Caesar born 100 BC died 44 BC age 55",
+      "results": [
+        {
+          "date": "2011-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Julius Caesar - Julius Caesar",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110217100018/http://en.wikipedia.org/wiki/Julius_Caesar#1"
+        },
+        {
+          "date": "2006-10-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BBC - History - Julius Caesar (100BC - 44BC)",
+          "url": "https://www.stage.bbc.co.uk/history/historic_figures/caesar_julius.shtml#1"
+        },
+        {
+          "date": "2006-10-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cookies on the BBC website - Julius Caesar (100BC - 44BC)",
+          "url": "https://www.bbc.com/history/historic_figures/caesar_julius.shtml#1"
+        },
+        {
+          "date": "2016-07-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "This Day in History (22-04-1395) - This Day in History (22-04-1395)",
+          "url": "https://parstoday.ir/en/radio/programs-i18322-this_day_in_history_(22_04_1395)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Julius Caesar - Julius Caesar",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_top_maxi/Julius_Caesar#1"
+        },
+        {
+          "date": "1993-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Julius Caesar - Document - Use this link to get back to this page",
+          "url": "https://go.gale.com/ps/i.do?asid=7a6b45c6&id=GALE%7cK1616000116&it=r&p=WHIC&sid=bookmark-WHIC&u=seoblogs&v=2.1#1"
+        },
+        {
+          "date": "2004-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Júlio César – Wikipédia, a enciclopédia livre - Júlio César",
+          "url": "https://pt.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar#1"
+        },
+        {
+          "date": "2024-08-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Julius Caesar – Wikipedia tiếng Việt - Julius Caesar",
+          "url": "https://vi.m.wikipedia.org/wiki/X%C3%AAda#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Julius Caesar: Biography",
+          "url": "https://www.history.co.uk/biographies/julius-caesar?page=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Who was Julius Caesar? | Julius Caesar Facts for Kids",
+          "url": "https://www.twinkl.com.cn/teaching-wiki/julius-caesar"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13194,
+    "iterations": [],
+    "output_tokens": 488,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "呋虫胺（Dinotefuran）的化学式为 **C₇H₁₄N₄O₃**，分子量 202.21，CAS 号 165252-70-0。\n\n注意：ChemWhat 上一条“呋虫胺 DN”（CAS 457614-32-3）的 C₇H₁₅N₃O 是另一个相关化合物（去硝基代谢物），不是呋虫胺本身。\n\n依据：\n- https://www.chemicalbook.cn/ProductChemicalPropertiesCB9132151.htm\n- https://www.altascientific.com.cn/product/show-11415",
+  "budget_denials": [],
+  "elapsed_seconds": 4.129,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0247888,
+      "inputTokens": 4887,
+      "maxOutputTokens": 32000,
+      "outputTokens": 239,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+  "raw": "jsonl/D2/chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91.jsonl",
+  "reported_cost_usd": 0.0247888,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6027,
+      "query": "呋虫胺 化学式",
+      "results": [
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺 CAS#: 165252-70-0 - 呋虫胺",
+          "url": "https://www.chemicalbook.cn/ProductChemicalPropertiesCB9132151.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺 DN CAS#：457614-32-3 • ChemWhat",
+          "url": "https://www.chemwhat.net/dinotefuran-dn-cas-457614-32-3/"
+        },
+        {
+          "date": "2024-07-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋蟲胺 DN CAS#: 457614-32-3",
+          "url": "https://www.chemwhat.tw/%E5%91%8B%E8%9F%B2%E8%83%BA-DN-CAS-457614-32-3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺-天津阿尔塔科技有限公司",
+          "url": "https://www.altascientific.com.cn/product/show-11415"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋蟲胺 DN CAS#: 457614-32-3 • ChemWhat",
+          "url": "https://www.chemwhat.tw/dinotefuran-dn-cas-457614-32-3/"
+        },
+        {
+          "date": "2019-06-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺丨18029706405丨厂家直供价格 厂家：武汉市合中生化物资有限公司 - 产品详情",
+          "url": "https://www.chemicalbook.cn/SupplyInfo_415893.htm#1"
+        },
+        {
+          "date": "2020-06-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺全国包邮价格 90元/kg/桶 厂家：湖北霖扬化工有限公司",
+          "url": "https://www.chemicalbook.cn/SupplyInfo_710852.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋蟲胺 CAS#：165252-70-0 • ChemWhat",
+          "url": "https://www.chemwhat.tw/%E5%91%8B%E8%9F%B2%E8%83%BA-CAS-165252-70-0-2/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[0068] A和E各自表示氢原子，或者A和E合在一起形成\\(\\text{CH}_2-\\text{CH}_2\\)或\\(\\text{CH}_2-\\text{O}-\\text{CH}_2\\)，Z表示2-氯-5-噻唑基、6-氯-3-吡啶基或3-四氢呋喃基",
+          "url": "https://patentimages.storage.googleapis.com/02/84/2e/be26dc7b1fa0e7/CN103648280B.pdf#4#2"
+        },
+        {
+          "date": "2012-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺-产品-农博数据中心",
+          "url": "http://shuju.aweb.com.cn/product/20121017/176373.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4887,
+    "iterations": [],
+    "output_tokens": 239,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

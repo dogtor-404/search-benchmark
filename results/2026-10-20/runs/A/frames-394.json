@@ -1,0 +1,116 @@
+{
+  "answer": "**答案:约 47,906 kg**\n\n依据维基百科各任务信息框里的发射质量:\n\n| 任务 | 发射质量 |\n|---|---|\n| Apollo 11 | 49,735 kg(109,646 lb) |\n| Apollo 12 | 49,915 kg(110,044 lb) |\n| Apollo 13 | 44,069 kg(指令服务舱 28,881 kg + 登月舱 15,188 kg) |\n\n计算:(49,735 + 49,915 + 44,069) ÷ 3 = 143,719 ÷ 3 ≈ 47,906.3,四舍五入为 **47,906 kg**。\n\n**口径不一致**:Apollo 13 的 44,069 kg 只是指令服务舱加登月舱之和。Apollo 11 和 12 的数值更高,可能还包含适配器、逃逸塔等部件,不过这是我的推测,来源里没有明说。如果三个任务都按指令服务舱加登月舱计算,结果会不同。Apollo 11 的这两部分合计约 43,947 kg,Apollo 12 我没有查到对应分项。\n\nSources:\n- [Apollo 11 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_11)\n- [Apollo 12 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_12)\n- [Apollo 13 – Wikipedia](https://en.wikipedia.org/wiki/Apollo_13)",
+  "budget_denials": [],
+  "elapsed_seconds": 42.461,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0365756,
+      "inputTokens": 52061,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2739,
+      "provider": "firstParty",
+      "thinkingTokens": 1062,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5440,
+      "cacheReadInputTokens": 18706,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.035696599999999995,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1205,
+      "provider": "firstParty",
+      "thinkingTokens": 326,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-394",
+  "raw": "jsonl/A/frames-394.jsonl",
+  "reported_cost_usd": 0.07227220000000001,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Apollo 11 Apollo 12 Apollo 13 launch mass kg",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XojzaPGPSaZ5Py5UGS2hLD"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Apollo 11 wikipedia spacecraft properties launch mass kg",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KfgFq42p1ESkWsKoQVMmxC"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Apollo 13 spacecraft properties \"launch mass\" lb kg infobox",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KmGYj2mKjFzjpF8AjPVoUC"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5440,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5440,
+    "cache_read_input_tokens": 18706,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1318,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1318,
+        "cache_read_input_tokens": 6573,
+        "input_tokens": 2,
+        "output_tokens": 567,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1205,
+    "output_tokens_details": {
+      "thinking_tokens": 326
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

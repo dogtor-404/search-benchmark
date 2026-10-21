@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：美国专利号 3,600,186**（US 3,600,186）\n\n- 发明人：Fred H. Mattson 与 Robert A. Volpenhein（宝洁公司）\n- 申请日：1968 年 4 月 23 日；授权日：1971 年 8 月 17 日\n- 专利名称：*Low calorie fat-containing food compositions*（低热量含脂肪食品组合物）\n\n依据网址：\n- https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A\n- https://patents.google.com/patent/USRE33996",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.602,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.097404,
+      "inputTokens": 21798,
+      "maxOutputTokens": 32000,
+      "outputTokens": 485,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-011",
+  "raw": "jsonl/D2_prime/custom-011.jsonl",
+  "reported_cost_usd": 0.097404,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8433,
+      "query": "Mattson Volpenhein 1968 low calorie fat US patent number",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat-containing food compositions",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "专利检索_··其他脂肪酸酯例如磷脂专利检索_··其他脂肪酸酯例如磷脂专利检索查询_··其他脂肪酸酯例如磷脂专利检索查询分析平台 - 序号 | 专利名 | 申请号 | 申请日 | 公开（公告）号 | 公开（公告）日 | 发明人",
+          "url": "https://trade.patenthub.cn/zhuanlifenlei/list-1857-41.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The polyol fatty acid polyesters suitable for use as the low- calorie fatty materials in the simulated cheese analogs described ...",
+          "url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/19901227/patents/EP0404216NWA1/document.pdf#6#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent",
+          "url": "http://patentimages.storage.googleapis.com/4e/27/55/c9766c547db299/US4005196.pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Many classes of low-calorie fatty materials are suitable for use in the present invention",
+          "url": "https://patentimages.storage.googleapis.com/57/41/d6/f83318382e63a2/US5061504.pdf#6#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat mimetics comprising carboxy/carboxylate esters - Nabisco Brands, Inc. - Several other patents disclose edible compounds which are not digested or absorbed to the same extent as natural triglycerides",
+          "url": "https://FreePatentsOnline.com/4830787.html#2"
+        },
+        {
+          "date": "2004-11-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat materials that eliminate laxative side effect - Procter & Gamble - The National Institutes of Health Consensus Development Conference published “Lowering Blood Cholesterol to Prevent Heart Diseas...",
+          "url": "https://www.freepatentsonline.com/6821545.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent [19] Klemann et al",
+          "url": "https://patentimages.storage.googleapis.com/e0/ee/de/94c32d8d83aae3/US5093142.pdf#5#1"
+        },
+        {
+          "date": "1992-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Compositions for treating hypercholesterolemia - U",
+          "url": "https://patents.google.com/patent/USRE33996#3"
+        },
+        {
+          "date": "2026-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olestra — Grokipedia - Olestra",
+          "url": "https://grokipedia.com/page/Olestra#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8248,
+      "query": "Mattson Volpenhein low-calorie fat-containing food compositions patent",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Low calorie fat-containing food compositions",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-3600186-A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EUROPEAN PATENT APPLICATION",
+          "url": "http://data.epo.org/publication-server/rest/v1.2/patents/EP0184259NWA2/document.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10 Europaïsches Patentamt",
+          "url": "http://data.epo.org/publication-server/rest/v1.2/patents/EP0184259NWB1/document.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Many classes of low-calorie fatty materials are suitable for use in the present invention",
+          "url": "https://patentimages.storage.googleapis.com/57/41/d6/f83318382e63a2/US5061504.pdf#6#3"
+        },
+        {
+          "date": "1992-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Compositions for treating hypercholesterolemia - U",
+          "url": "https://patents.google.com/patent/USRE33996#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The polyol fatty acid polyesters suitable for use as the low- calorie fatty materials in the simulated cheese analogs described ...",
+          "url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/19901227/patents/EP0404216NWA1/document.pdf#6#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "United States Patent",
+          "url": "http://patentimages.storage.googleapis.com/4e/27/55/c9766c547db299/US4005196.pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Many classes of reduced calorie fat substitutes, or mixtures thereof, are suitable for use in the present invention",
+          "url": "https://patentimages.storage.googleapis.com/5d/71/d8/12d8c6a8683bb4/EP0348196A1.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "专利检索_··其他脂肪酸酯例如磷脂专利检索_··其他脂肪酸酯例如磷脂专利检索查询_··其他脂肪酸酯例如磷脂专利检索查询分析平台 - 序号 | 专利名 | 申请号 | 申请日 | 公开（公告）号 | 公开（公告）日 | 发明人",
+          "url": "https://trade.patenthub.cn/zhuanlifenlei/list-1857-41.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fatty acid ester of sugar and sugar alcohol - 酸部分を有するＳＰＥの使用が記載される",
+          "url": "https://patents.google.com/patent/JPS62192395A/en#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 21798,
+    "iterations": [],
+    "output_tokens": 485,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

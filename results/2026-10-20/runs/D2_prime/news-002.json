@@ -1,0 +1,144 @@
+{
+  "answer": "答案：**5%**。\n\nAnthropic 在 2026 年 10 月 18 日的公告中表示，计划（在股东批准的前提下）将公司 **5%** 的股份初步投入新成立的 Anthropic Public Benefit Fund，后续在公司估值每增长 50% 时，董事会还可酌情再追加 2% 的股份。\n\n依据网址：\n- Reuters（转台湾新闻）：https://www.taiwannews.com.tw/news/6460446\n- NY Post：https://nypost.com/2026/10/18/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund/\n- AP（ABC News）：https://abcnews.com/Technology/wireStory/anthropic-commits-5-stock-new-public-benefit-fund-137368440",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.853,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0387904,
+      "inputTokens": 7491,
+      "maxOutputTokens": 32000,
+      "outputTokens": 417,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "news-002",
+  "raw": "jsonl/D2_prime/news-002.jsonl",
+  "reported_cost_usd": 0.0387904,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7639,
+      "query": "Anthropic October 18 2026 announcement Anthropic Public Benefit Fund percentage shares",
+      "results": [
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic將注入5%股份 成立新公益基金 | 產經 | 中央社 CNA",
+          "url": "https://www.cna.com.tw/news/afe/202610190033.aspx"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic pledges 5% of shares to new public benefit fund",
+          "url": "https://www.xn--anadoluajans-d5b.gov.tr/en/science-technology/anthropic-pledges-5-of-shares-to-new-public-benefit-fund/4092911"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Commit 5% of Shares to New Public Benefit Fund - TipRanks.com",
+          "url": "https://www.tipranks.com/news/anthropic-to-commit-5-of-shares-to-new-public-benefit-fund"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund",
+          "url": "https://abcnews.com/Technology/wireStory/anthropic-commits-5-stock-new-public-benefit-fund-137368440?utm_source=briefed&utm_medium=referral&utm_campaign=organic"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to dedicate 5% of shares to public benefit fund, stake to rise with valuation",
+          "url": "https://upstox.com/news/business-news/latest-updates/anthropic-to-dedicate-5-of-shares-to-public-benefit-fund-stake-to-rise-with-valuation/article-202065/"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to commit 5% stake to new public benefit fund",
+          "url": "https://nypost.com/2026/10/18/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to commit 5% stake to new 'public benefit fund' | Taiwan News | Oct. 19, 2026 10:05",
+          "url": "https://www.taiwannews.com.tw/news/6460446"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to commit 5% stake to new ‘public benefit fund’",
+          "url": "https://www.straitstimes.com/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund?ref=latest-headlines"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its stock to a new 'public benefit' fund - CNBC TV18",
+          "url": "https://www.cnbctv18.com/business/anthropic-commits-5-of-its-stock-to-a-new-public-benefit-fund-20014691.htm"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic: Anthropic commits 5 pc of its stock to new 'public benefit' fund - The Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-commits-5-pc-of-its-stock-to-new-public-benefit-fund/articleshow/135038936.cms?from=mdr"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7491,
+    "iterations": [],
+    "output_tokens": 417,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

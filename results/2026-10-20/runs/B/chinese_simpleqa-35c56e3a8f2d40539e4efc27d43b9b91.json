@@ -1,0 +1,154 @@
+{
+  "answer": "呋虫胺(Dinotefuran)的化学式是 **C₇H₁₄N₄O₃**,分子量约 202.21,CAS 号为 165252-70-0。\n\n依据的网址(都给出了同一个分子式):\n- https://www.chemicalbook.cn/ProductChemicalPropertiesCB9132151.htm\n- https://cheman.chemnet.com/pesticides/supplier2.cgi?f=plist&exact=dict&terms=165252-70-0&mark=&c=sanctified_org&terms2=dinotefuran\n- https://www.altascientific.com.cn/product/show-11415\n\n这几个来源大多是化学品供应商和化工数据库,不是官方出版的资料。不过它们的分子式、分子量和 InChI 互相一致。",
+  "budget_denials": [],
+  "elapsed_seconds": 11.449,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9247,
+      "cacheReadInputTokens": 5836,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.04100960000000001,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 343,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+  "raw": "jsonl/B/chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91.jsonl",
+  "reported_cost_usd": 0.04100960000000001,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7847,
+      "query": "呋虫胺 化学式 分子式 dinotefuran",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺-天津阿尔塔科技有限公司",
+          "url": "https://www.altascientific.com.cn/product/show-11415"
+        },
+        {
+          "date": "2019-06-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺丨18029706405丨厂家直供价格 厂家：武汉市合中生化物资有限公司 - 产品详情",
+          "url": "https://www.chemicalbook.cn/SupplyInfo_415893.htm#1"
+        },
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺 CAS#: 165252-70-0 - 呋虫胺",
+          "url": "https://www.chemicalbook.cn/ProductChemicalPropertiesCB9132151.htm#1"
+        },
+        {
+          "date": "2026-09-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺价格 厂家：湖北启步新材料科技有限公司 - 产品详情",
+          "url": "https://www.chemicalbook.cn/SupplyInfo_415470.htm#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺 | CAS:165252-70-0",
+          "url": "https://www.heowns.com:443/product/PNO1082856.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NebuChem™ 呋虫胺",
+          "url": "https://www.nebulabio.cn/index.php/nebuchem/18860.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "农药通用名数据库_ 化工助手-中国化工网(中国权威化工服务中心)",
+          "url": "https://cheman.chemnet.com/pesticides/supplier2.cgi?f=plist&exact=dict&terms=165252-70-0&mark=&c=sanctified_org&terms2=dinotefuran"
+        },
+        {
+          "date": "2012-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺-产品-农博数据中心",
+          "url": "http://shuju.aweb.com.cn/product/20121017/176373.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "呋虫胺 | insecticide agent | CAS 165252-70-0 | Dinotefuran (MTI-446，呋虫胺) | Parasite 抑制剂",
+          "url": "https://www.invivochem.cn/dinotefuran.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(R)-Dinotefuran-MTI-446) | 新烟碱类农药 | CAS 406466-53-3",
+          "url": "https://www.invivochem.cn/r-dinotefuran-mti-446-.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9247,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9247,
+    "cache_read_input_tokens": 5836,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7419,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7419,
+        "cache_read_input_tokens": 3832,
+        "input_tokens": 2,
+        "output_tokens": 267,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "billable_searches_in_invalid_attempt": 2,
+  "failed_request_types": [
+    {
+      "error_type": "URLError",
+      "http_status": null,
+      "reason_type": "SSLEOFError"
+    }
+  ],
+  "group": "D2",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "local_guard_blocked_nonempty_responses": 0,
+  "original_file_sha256": {
+    "audit/D2/custom-007/dispatch.json": "f8329efca03180cb83cf5949d4f2a74f88217eb703510a48641c344fc20eea77",
+    "audit/D2/custom-007/mcp-count.txt": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+    "audit/D2/custom-007/search.jsonl": "9d0f97cd227de3a95bbea19ceb5a300d8cfda8552449a92be6a4230d2c4e9d31",
+    "audit/D2/custom-007/stderr.txt": "d0f2303a114d64fd95769a7a6996dc727d00c3a348106440d9ef2b81313f7b2f",
+    "jsonl/D2/custom-007.jsonl": "52a54a93009d9c1475af68af88885baea37188606ba81abecb7fbd6c87d5f84b",
+    "runs/D2/custom-007.json": "b47e9ecf1c1da1333c7c4b80037fb7b3f97d1e240568174ecfdef4b074b7bc5a"
+  },
+  "question_id": "custom-007",
+  "reason": "已检查真实搜索失败及后续工具记录；保留无效次，仅对此题重跑一次，不据答案择优，成功题不重复。",
+  "retry_number": 1,
+  "reviewed_by": "Codex operational audit review"
+}

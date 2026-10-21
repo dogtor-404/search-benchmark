@@ -1,0 +1,100 @@
+{
+  "answer": "**答案:1968 年 5 月 6 日。**\n\n阿姆斯特朗在休斯敦埃灵顿空军基地驾驶 LLRV 做模拟登月飞行。飞行约 5 分钟后,飞行器失控,他在离地约 200 英尺(约 60 米)处弹射,靠降落伞着陆,没有受伤。\n\n搜索结果的摘要里没有直接写出这个日期,我是用查询里的 5 月 6 日对照 NASA 页面标题和内容得出的。日期来自我对这起事故的已有了解,没有逐页核对原文。\n\n依据网址:\n- [NASA:55 years ago, astronaut Armstrong survives LLRV crash](https://www.nasa.gov/history/astronaut-armstrong-survives-llrv-crash/)\n- [Smithsonian 国家航空航天博物馆:Neil Armstrong's Apollo 11 close call](https://airandspace.si.edu/stories/editorial/neil-armstrongs-apollo-11-close-call)\n- [AMU:This week in space history, 1968, Neil Armstrong survives training crash](https://amuedge.com/this-week-in-space-history-1968-neil-armstrong-survives-training-crash/)\n\nSources:\n- [https://www.nasa.gov/history/astronaut-armstrong-survives-llrv-crash/](https://www.nasa.gov/history/astronaut-armstrong-survives-llrv-crash/)\n- [https://airandspace.si.edu/stories/editorial/neil-armstrongs-apollo-11-close-call](https://airandspace.si.edu/stories/editorial/neil-armstrongs-apollo-11-close-call)\n- [https://amuedge.com/this-week-in-space-history-1968-neil-armstrong-survives-training-crash/](https://amuedge.com/this-week-in-space-history-1968-neil-armstrong-survives-training-crash/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.054,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119472,
+      "inputTokens": 14862,
+      "maxOutputTokens": 128000,
+      "outputTokens": 922,
+      "provider": "firstParty",
+      "thinkingTokens": 211,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3131,
+      "cacheReadInputTokens": 6765,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0238885,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1068,
+      "provider": "firstParty",
+      "thinkingTokens": 312,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-020",
+  "raw": "jsonl/A/custom-020.jsonl",
+  "reported_cost_usd": 0.0358357,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Neil Armstrong LLRV crash ejected date May 6, 1968",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LT7qTMU7AAJpZmvyABu47g"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3131,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3131,
+    "cache_read_input_tokens": 6765,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1268,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1268,
+        "cache_read_input_tokens": 4314,
+        "input_tokens": 2,
+        "output_tokens": 972,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1068,
+    "output_tokens_details": {
+      "thinking_tokens": 312
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

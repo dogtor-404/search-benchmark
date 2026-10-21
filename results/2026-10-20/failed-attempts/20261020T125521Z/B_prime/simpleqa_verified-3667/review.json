@@ -1,0 +1,25 @@
+{
+  "billable_searches_in_invalid_attempt": 1,
+  "failed_request_types": [
+    {
+      "error_type": "URLError",
+      "http_status": null,
+      "reason_type": "SSLEOFError"
+    }
+  ],
+  "group": "B_prime",
+  "invalid_reason": "存在真实搜索失败或审计错误。",
+  "local_guard_blocked_nonempty_responses": 0,
+  "original_file_sha256": {
+    "audit/B_prime/simpleqa_verified-3667/dispatch.json": "346a8636e0f5b260121d7fd8d60ed26eeb82809f38e51e05bb336f93af29bb91",
+    "audit/B_prime/simpleqa_verified-3667/mcp-count.txt": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+    "audit/B_prime/simpleqa_verified-3667/search.jsonl": "b39b20606449d6ef341bc7528a0f8be55747de0d77652079fec9dc2fc5c60240",
+    "audit/B_prime/simpleqa_verified-3667/stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "jsonl/B_prime/simpleqa_verified-3667.jsonl": "558f4f8d4793a7bf922368614360b118120fc0cc5f08409c10ccf4f25126ba6b",
+    "runs/B_prime/simpleqa_verified-3667.json": "0f4c197935b87370c5859caef3c5d41dffc81efc592c6a3d51f0f3e74e25b5bf"
+  },
+  "question_id": "simpleqa_verified-3667",
+  "reason": "已检查真实搜索失败及后续工具记录；保留无效次，仅对此题重跑一次，不据答案择优，成功题不重复。",
+  "retry_number": 1,
+  "reviewed_by": "Codex operational audit review"
+}

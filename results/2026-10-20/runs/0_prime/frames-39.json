@@ -1,0 +1,72 @@
+{
+  "answer": "**Arianne Kathleen**\n\n- 截至 2024 年 7 月 1 日，美国体操史上获奖最多的女运动员是 **Simone Biles**。她的全名是 Simone **Arianne** Biles，所以名字取 **Arianne**。\n- 女子 800 米自由泳世界纪录保持者是 **Katie Ledecky**，成绩是 2016 年里约奥运会的 8:04.79。Katie 是昵称，她的全名是 **Kathleen** Genevieve Ledecky，所以中间名取 **Kathleen**。\n\n以上是凭记忆回答的，没有上网核对。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.131,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1821,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0216896,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 340,
+      "provider": "firstParty",
+      "thinkingTokens": 124,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-39",
+  "raw": "jsonl/0_prime/frames-39.jsonl",
+  "reported_cost_usd": 0.0216896,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1821,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1821,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1821,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1821,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 340,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 340,
+    "output_tokens_details": {
+      "thinking_tokens": 124
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "answer": "**答案：安培每米（A/m，即 A·m⁻¹）。**\n\n磁化强度 **M** 定义为单位体积的磁偶极矩。在国际单位制（SI）中，它的单位是安培每米（A/m）。磁化强度的定义是 M = Σm / V。1 A/m 的含义等价于 1 A·m²/m³，即在 1 立方米的体积内包含 1 安培平方米的磁矩。在 CGS 单位制中，磁化强度对应 emu/cm³（有时用符号 Gs），换算关系是 1 emu/cm³ = 10³ A/m。\n\n注意不要与**磁感应强度 B**（单位特斯拉 T）混淆。\n\n依据：\n- 中文维基百科「磁化强度」：https://zh.wikipedia.org/wiki/磁化強度\n- NIST 特别出版物 696《Units for Magnetic Properties》（磁化强度 M 的 SI 单位是 A/m）：https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication696.pdf\n- 中科院武汉物理与数学所资料（明确写着“在 SI 单位制中，磁化强度的单位…符号为 A·m⁻¹”）：http://www.wipm.ac.cn/jgsz/yjdw/yzfzwlyjs/lyzwl/lyzwl_qtlj/201204/W020120401387086310373.pdf",
+  "budget_denials": [],
+  "elapsed_seconds": 8.599,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 10240,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06456,
+      "inputTokens": 11488,
+      "maxOutputTokens": 32000,
+      "outputTokens": 828,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0",
+  "raw": "jsonl/D2/chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0.jsonl",
+  "reported_cost_usd": 0.06456,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7256,
+      "query": "磁化强度 国际单位制 单位 A/m",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>Property</td><td>Symbol</td><td>CGS units</td><td>SI units</td><td>Conversion</td></tr><tr><td>Magnetic flux dens...",
+          "url": "https://par.nsf.gov/servlets/purl/10314453#26#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A",
+          "url": "http://www.mpq.mpg.de/~kcfong/pdoc/eqn&table/magnetic_conversion.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A J J J O L  0 8 2 7 7 5",
+          "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication696.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "3.1.1 Materie im Magnetfeld",
+          "url": "https://www.oeaw.ac.at/fileadmin/Institute/ESI/PDF/student_corner/mp1_magnetismus_dehm.pdf#2#1"
+        },
+        {
+          "date": "2023-11-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "IEC - Common Data Dictionary (CDD)",
+          "url": "https://cdd.iec.ch/cdd/iec62720/cdddev.nsf/bf7bfcc7a73006aec1257552003e602d/a3a4583304444365c1258a67004b1803?OpenDocument"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\[\\begin{array}{r}\\mathrm{SI:}B = \\mu_0(H + M),\\\\ \\mathrm{Gaussian:}B = H + 4\\pi M",
+          "url": "https://scholar.google.co.jp/scholar_url?url=https%3A%2F%2Fapi.mountainscholar.org%2Fserver%2Fapi%2Fcore%2Fbitstreams%2F695141e7-a1b1-4023-a9da-591dcdac0c82%2Fcontent&hl=ja&sa=X&d=8781896212172045915&ei=qBROavPgI6HuieoPqMDv4QE&scisig=ANDmEU7f6klitwAgPN6GluPTeENv&oi=scholaralrt&_x_output_type_b6db407c4_=embedded_pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Magnetic Dipole Moment - Empty Cell | Sulfur (g) | S | 70",
+          "url": "https://www.sciencedirect.com/topics/engineering/magnetic-dipole-moment#4"
+        },
+        {
+          "date": "2017-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Magnetic material and manufacturing method therefor - The term “magnetic properties” as used herein refers to at least one of the magnetic material's magnetization J (T), saturation ...",
+          "url": "https://patents.google.com/patent/US11033958#15"
+        },
+        {
+          "date": "2007-01-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "APPENDIX A: MAGNETIC UNITS",
+          "url": "https://www-odp.tamu.edu/publications/tnotes/tn34/tn34_11.htm?_x_tr_sch=http"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Magnetic Pole - an overview - Chapters and Articles",
+          "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/magnetic-pole#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7506,
+      "query": "磁化强度 M 定义 单位 安培每米 磁矩 体积",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "有时，我们需要使用单位体积的磁矩值来表征样品的磁矩信号，如对于薄膜样品，测量样品的质量比测量样品的体积更困难一些；此外，当计算材料的磁化率、磁导率以及磁能积时也要用到单位体积的磁矩值",
+          "url": "http://www.wipm.ac.cn/jgsz/yjdw/yzfzwlyjs/lyzwl/lyzwl_qtlj/201204/W020120401387086310373.pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Magnetic Dipole Moment - Empty Cell | Sulfur (g) | S | 70",
+          "url": "https://www.sciencedirect.com/topics/engineering/magnetic-dipole-moment#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "As in dielectrics, we also have two fields in the case of magnetic interactions",
+          "url": "https://iopscience.iop.org/book/mono/978-0-7503-3655-0.pdf#47#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A J J J O L  0 8 2 7 7 5",
+          "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication696.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "magnetoelectric effect (Section 1.5.8.1), effects of higher order (Section 1.5.8.2) have also been observed",
+          "url": "https://onlinelibrary.wiley.com/iucr/itc/Da/ch1o5v0001/fig1o5o1o1.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. TENSORIAL ASPECTS OF PHYSICAL PROPERTIES",
+          "url": "https://onlinelibrary.wiley.com/iucr/itc/Da/ch1o5v0001/sec1o5o1o1.pdf?__cf_chl_tk=k4iN1Cp74xdTRpT8CyEnPLp57X52jcFtXD4HLXzp2iU-1787638726-1.0.1.1-csOefLVeCACRc2PkWFX2zNr4cCuJjMYedjDGyixYm04#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A",
+          "url": "http://www.mpq.mpg.de/~kcfong/pdoc/eqn&table/magnetic_conversion.pdf#1#1"
+        },
+        {
+          "date": "2006-04-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "磁化强度 - 维基百科，自由的百科全书 - 磁化强度[编辑]",
+          "url": "https://zh.wikipedia.org/wiki/%E7%A3%81%E5%8C%96%E5%BC%B7%E5%BA%A6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "磁化強度 - 磁化強度",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_zh_all_maxi/%E7%A3%81%E5%8C%96%E5%BC%B7%E5%BA%A6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "196 Units in electromagnetism",
+          "url": "https://magnetism.eu/esm/2011/questions/units.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 10240,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 11488,
+    "iterations": [],
+    "output_tokens": 828,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

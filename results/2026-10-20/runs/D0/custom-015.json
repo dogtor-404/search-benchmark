@@ -1,0 +1,60 @@
+{
+  "answer": "第一作者是 **Kevin D. Hall**（美国国家卫生研究院 NIH 下属 NIDDK，即国家糖尿病、消化和肾脏疾病研究所）。\n\n那项试验是 2019 年发表在 *Cell Metabolism* 上的住院代谢病房随机对照试验：*Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake*。受试者在病房里先吃两周超加工饮食、再吃两周未加工饮食（顺序随机），两种饮食的糖、盐、脂肪、纤维等营养构成都匹配，受试者可以自由取食；结果显示，超加工饮食组每天多摄入约 500 千卡，体重增加。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.669,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.014352,
+      "inputTokens": 1973,
+      "maxOutputTokens": 32000,
+      "outputTokens": 323,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-015",
+  "raw": "jsonl/D0/custom-015.jsonl",
+  "reported_cost_usd": 0.014352,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1973,
+    "iterations": [],
+    "output_tokens": 323,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

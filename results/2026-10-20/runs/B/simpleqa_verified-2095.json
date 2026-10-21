@@ -1,0 +1,233 @@
+{
+  "answer": "**答案:4 次**,分别是 1990、1997、2002 和 2013 年的大选。\n\n依据是一篇论文摘要的原话:PPP 五次上台执政(1970、1977、1988、1993、2008),另外四次成为主要反对党(1990、1997、2002、2013)。\n\n- 论文摘要:https://www.webology.org/abstract.php?id=4292\n\n另一个来源是 Dawn 的 PPP 专题,它也提到 PPP 在 2002 年排第二(81 席),在 1997 年也排第二(18 席)。其中 1997 年是我根据席位排名推断的:当年 PML-N 大胜,PPP 席位第二。\n- https://www.dawn.com/news/1806791\n\n这个数字只有一个来源直接给出,我没找到第二个来源能独立核实。\n\n另外,这个\"4 次\"没有把 1970 年算进去。1970 年 PPP 是国民议会第二大党,但当时它没有成为反对党。",
+  "budget_denials": [],
+  "elapsed_seconds": 12.498,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 25353,
+      "cacheReadInputTokens": 20857,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1095897,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 608,
+      "provider": "firstParty",
+      "thinkingTokens": 87,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/B/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.1095897,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7895,
+      "query": "Pakistan People's Party emerged as the leading opposition party national level times",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PAKISTAN NATIONAL ALLIANCE (PNA) This coalition was formed in January 1977 to oppose the PPP in the national elections",
+          "url": "https://archive.org/download/the-military-politics-in-pakistan-1947-1997-by-hasan-askari-rizvi/PAKAFFAIRSFILE018_text.pdf#63#59"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "political parties which exercise influence all over the country are called national political parties",
+          "url": "https://cpsa-acsp.ca/papers-2012/Mahmood.pdf#5#2"
+        },
+        {
+          "date": "2024-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pakistan Peoples Party - Subscribe to notifications",
+          "url": "https://www.dawn.com/news/1806791#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It envisages its social agenda in the slogan of _Roti, Kapra, Makan (Food,_",
+          "url": "https://prr.hec.gov.pk/jspui/bitstream/123456789/21210/1/Taseer%20Ullah%20history%202022%20iiu%20isb.pdf%2026.8.22.pdf#68#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It was no surprise that Bhutto's strategy of taking good care of every political section of the region of West Pakistan worked o...",
+          "url": "https://dam-oclc.bac-lac.gc.ca/download?fileName=Brock_Quddus_Muhammed_1976.pdf&id=db11f32a-c655-4a70-98b1-d8e67b77670d&is_thesis=1&oclc_number=1243913577#22#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Webology (ISSN: 1735-188X)",
+          "url": "http://webology.org/data-cms/articles/20221215101425pmWEBOLOGY%2018%20(5)%20-%20306.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Elections and political parties are interrelated to each other",
+          "url": "http://norr.numl.edu.pk/repository/filedownload/1222#14#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Identification and Budge’s and Farlie’s (1983) Salience theory",
+          "url": "https://prr.hec.gov.pk/jspui/bitstream/123456789/15607/1/mehwish%20malghani%20english%202018%20numl%20isb.pdf#47#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Punjab is Pakistan’s most populous and most heavily contested province, and has been central to shaping the country’s national p...",
+          "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2013/03/PakistanElections-4.pdf#4#8#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Refugee Review Tribunal of Australia - Political parties have functioned only intermittently since Pakistan became independent in 1947. From the death of Jinnah in 194...",
+          "url": "https://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/RRTA/2003/244.html#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7539,
+      "query": "Pakistan Peoples Party Wikipedia \"opposition\" \"times\" 1977 1990 1997 2002 2013 2018 largest opposition party National Assembly",
+      "results": [
+        {
+          "date": "2013-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Elections in Pakistan - Ordered by the Supreme Court, General Musharraf held general election in 2002, bearing Sharif and Benazir Bhutto from keeping th...",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20131117103402/http://en.wikipedia.org/wiki/Elections_in_Pakistan#2"
+        },
+        {
+          "date": "2022-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Peculiar Case of the Pakistan Peoples Party as an Opposition Party - Article",
+          "url": "https://carnegieendowment.org/research/2022/03/the-peculiar-case-of-the-pakistan-peoples-party-as-an-opposition-party?lang=en&center=global#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Refugee Review Tribunal of Australia - Political parties have functioned only intermittently since Pakistan became independent in 1947. From the death of Jinnah in 194...",
+          "url": "http://www4.austlii.edu.au/au/cases/cth/RRTA/2003/244.html#2"
+        },
+        {
+          "date": "2018-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "From Bhutto to Bilawal | Political Economy | thenews.com.pk - From Bhutto to Bilawal",
+          "url": "https://www.thenews.com.pk/tns/detail/566930-bhutto-bilawal#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Factors Responsible For The Decline Of Pakistan Peoples Party In Electoral Politics: A Case Study Of General Elections 2013",
+          "url": "https://www.webology.org/abstract.php?id=4292"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pakistan Peoples Party - Alchetron, The Free Social Encyclopedia - Alchetron",
+          "url": "https://alchetron.com/Pakistan-Peoples-Party#1"
+        },
+        {
+          "date": "2026-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pakistan People's Party - [ Expand/Collapse ]",
+          "url": "https://en.namu.wiki/w/%ED%8C%8C%ED%82%A4%EC%8A%A4%ED%83%84%20%EC%9D%B8%EB%AF%BC%EB%8B%B9#1"
+        },
+        {
+          "date": "2003-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "List of political parties in Pakistan - 12 | Pakistan Insani Haqooq Party | PIHP | Umbrella | 2013 | Khalid Aftab Sulehri",
+          "url": "https://web.archive.org/web/20190926102021/https://en.wikipedia.org/wiki/List_of_political_parties_in_Pakistan#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "List of political parties in Pakistan - | Benazir Bhutto",
+          "url": "https://ncyclopedia.thefreedictionary.com/List+of+political+parties+in+Pakistan#2"
+        },
+        {
+          "date": "2016-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Idealism to realism",
+          "url": "https://www.nation.com.pk/29-Jun-2016/idealism-to-realism"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 25353,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 25353,
+    "cache_read_input_tokens": 20857,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12362,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12362,
+        "cache_read_input_tokens": 14995,
+        "input_tokens": 2,
+        "output_tokens": 332,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 608,
+    "output_tokens_details": {
+      "thinking_tokens": 87
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

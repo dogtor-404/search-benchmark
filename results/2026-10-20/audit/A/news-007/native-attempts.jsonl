@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Google \"More ways to connect with the web from Search\" October 15, 2026", "results": [], "status": "allowed", "tool_use_id": "toolu_01Ejuk5CcenP6znPXyWwXrmi"}
+{"billable": false, "call": 2, "query": "blog.google \"More ways to connect with the web from Search\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01WZuohVf3uCv9U6mGSEZkm2"}
+{"billable": false, "call": 3, "query": "\"AI Mode and AI Overviews updates to explore the web\" Google blog author", "results": [], "status": "allowed", "tool_use_id": "toolu_01LL7ChviEn5cQmPqiMYXfpA"}

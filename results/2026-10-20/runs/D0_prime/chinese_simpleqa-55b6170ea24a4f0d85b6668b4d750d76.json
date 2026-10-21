@@ -1,0 +1,60 @@
+{
+  "answer": "我不知道。\n\n“中国最后一家点翠工场在哪一年关闭”这件事我没有可靠的记忆来源，不敢凭印象给一个年份。点翠工艺在民国时期逐渐衰落、被仿点翠（烧蓝、染色羽毛等）取代是常见说法，但“最后一家工场关闭的具体年份”我没有确切依据，不能乱猜。",
+  "budget_denials": [],
+  "elapsed_seconds": 8.072,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.016815999999999998,
+      "inputTokens": 2034,
+      "maxOutputTokens": 32000,
+      "outputTokens": 434,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+  "raw": "jsonl/D0_prime/chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76.jsonl",
+  "reported_cost_usd": 0.016815999999999998,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2034,
+    "iterations": [],
+    "output_tokens": 434,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

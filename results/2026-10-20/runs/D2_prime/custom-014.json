@@ -1,0 +1,144 @@
+{
+  "answer": "答案：**David（David Protein）**。\n\n2025 年 5 月，蛋白棒品牌 David（David Protein，由 RXBAR 创始人 Peter Rahal 创立）宣布收购 EPG 唯一生产商 Epogee，并同时完成 7500 万美元 A 轮融资。\n\n依据：\n- https://hgventures.com/epogee-acquired-by-david/\n- https://agfundernews.com/protein-bar-maker-david-acquires-novel-fat-maker-epogee-raises-75m-series-a-on-back-of-explosive-growth",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.503,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0425784,
+      "inputTokens": 9013,
+      "maxOutputTokens": 32000,
+      "outputTokens": 302,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-014",
+  "raw": "jsonl/D2_prime/custom-014.jsonl",
+  "reported_cost_usd": 0.0425784,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8658,
+      "query": "2025 收购 Epogee 蛋白棒品牌 EPG",
+      "results": [
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Epogee Acquired by David - HG Ventures",
+          "url": "https://hgventures.com/epogee-acquired-by-david/"
+        },
+        {
+          "date": "2026-09-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EPG: How a Decades-Old Fat Substitute Became a Modern Patent and Supply-Chain Battleground - Register now for your free, tailored, daily legal newsfeed service.",
+          "url": "https://www.lexology.com/library/detail.aspx?g=741040e3-4f74-4bb1-9907-50acfcf6f95b#1"
+        },
+        {
+          "date": "2025-05-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein bar maker David acquires novel fat maker Epogee, raises $75m Series A on back of ‘explosive’ growth",
+          "url": "https://agfundernews.com/protein-bar-maker-david-acquires-novel-fat-maker-epogee-raises-75m-series-a-on-back-of-explosive-growth?utm_source=convertkit&utm_medium=email&utm_campaign=How+are+agrifood+corporates+driving+the+AI+agenda%3F+Mystery+buyer+for+Merit+plant%2C+Jorge+Heraud+on+%27the+#1%20opportunity%20in%20agtech,%27%20biocontrol%20funding%20in%20focus,%20Farm%20QA%27s%20seed%20round,%20MeliBio%20acquisition%20-%2017787970"
+        },
+        {
+          "date": "2025-05-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David raises $75 million in Series A round",
+          "url": "https://www.foodbusinessnews.net/articles/28379-david-raises-75-million-in-series-a-round?utm_source=www.thetech.buzz&utm_medium=referral&utm_campaign=beyond-tech"
+        },
+        {
+          "date": "2026-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Protein",
+          "url": "https://time.com/collection/time100-most-influential-companies/2026/david-protein/?filters=Disrupters"
+        },
+        {
+          "date": "2026-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein Bars, Market Definition And Injunctions",
+          "url": "https://webiis08.mondaq.com/unitedstates/antitrust-eu-competition/1737410/#authors#1"
+        },
+        {
+          "date": "2026-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#epg #cpg #foodindustry #proteinnutrition #founderstory #foodtech #protein #consumerinsights | Peekage",
+          "url": "https://www.linkedin.com/posts/peekage_epg-cpg-foodindustry-activity-7464771025914937344-KWeI"
+        },
+        {
+          "date": "2025-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "David Protein's acquisition of Epogee and a subsequent lawsuit are threatening to tear the CPG world apart",
+          "url": "https://www.modernretail.co/operations/a-lawsuit-over-david-proteins-acquisition-of-epogee-is-threatening-to-tear-the-cpg-world-apart/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss#1"
+        },
+        {
+          "date": "2025-06-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Popular Protein Bar Brand Sued Over Surprising Ingredient Controversy",
+          "url": "https://www.theolympian.com/sports/article307873255.html#storylink=moresection"
+        },
+        {
+          "date": "2025-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Protein-bar brand David raises $75m to “scale” manufacturing - Skip to navigation Skip to main content Skip to right column",
+          "url": "https://finance.yahoo.com/news/protein-bar-brand-david-raises-123155763.html#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9013,
+    "iterations": [],
+    "output_tokens": 302,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

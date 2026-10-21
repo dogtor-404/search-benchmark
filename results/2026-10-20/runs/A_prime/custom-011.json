@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：美国专利 US 3,600,186**，名称是 \"Low calorie fat-containing food compositions\"，内容就是后来奥利斯特拉（olestra）所用的蔗糖聚酯。\n\n依据：我搜了 1 次，打开的几份后来的专利都引用了 3,600,186，写明发明人是 Mattson 和 Volpenhein，内容是用至少带 4 个脂肪酸酯基的糖或糖醇脂肪酸酯，替代食品中约 10%–100% 的脂肪。欧洲专利 EP0375239 写明这件专利 1971 年 8 月 17 日授权。\n\n没核实的部分：搜到的资料里没有写 1968 年的申请日期，我也没看到专利原文。专利号本身有几份资料互相印证。\n\n来源：\n- [US4983413A – Google Patents](https://patents.google.com/patent/US4983413)\n- [US5612080A – Google Patents](https://patents.google.com/patent/US5612080)\n- [EP0375239 – EPO](https://data.epo.org/publication-server/rest/v1.2/patents/EP0375239NWB1/document.pdf)\n- [US4508746A – Google Patents](https://patents.google.com/patent/US4508746)",
+  "budget_denials": [],
+  "elapsed_seconds": 18.338,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012006900000000001,
+      "inputTokens": 15174,
+      "maxOutputTokens": 128000,
+      "outputTokens": 979,
+      "provider": "firstParty",
+      "thinkingTokens": 207,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3359,
+      "cacheReadInputTokens": 6751,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0410382,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 640,
+      "provider": "firstParty",
+      "thinkingTokens": 108,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-011",
+  "raw": "jsonl/A_prime/custom-011.jsonl",
+  "reported_cost_usd": 0.0530451,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Mattson Volpenhein patent 3,600,186 low calorie fat-containing food compositions",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0135czWpkTR7s4xdqzTHvLMm"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3359,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3359,
+    "cache_read_input_tokens": 6751,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1510,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1510,
+        "cache_read_input_tokens": 4300,
+        "input_tokens": 2,
+        "output_tokens": 470,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 640,
+    "output_tokens_details": {
+      "thinking_tokens": 108
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "TCG Yavuz (F240) 全长约 **115.5 米**（另有一说全长 110.5 米、水线长 110.5 米，垂线间长 102.2 米；多数资料采用 115.5 m）。\n\n依据：\n- 土耳其语维基百科“Yavuz sınıfı fırkateyn”：Uzunluk 115,5 m — https://tr.wikipedia.org/wiki/Yavuz_s%C4%B1n%C4%B1f%C4%B1_f%C4%B1rkateyn\n- Seaforces.org：Length 115.5 meters — https://www.seaforces.org/marint/Turkish-Navy/Frigates/Yavuz-class.htm",
+  "budget_denials": [],
+  "elapsed_seconds": 10.236,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0378584,
+      "inputTokens": 6418,
+      "maxOutputTokens": 32000,
+      "outputTokens": 585,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-1129",
+  "raw": "jsonl/D2_prime/simpleqa_verified-1129.jsonl",
+  "reported_cost_usd": 0.0378584,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6321,
+      "query": "TCG Yavuz F240 length meters Turkish Navy",
+      "results": [
+        {
+          "date": "2008-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz sınıfı fırkateyn - Vikipedi",
+          "url": "https://tr.wikipedia.org/wiki/Yavuz_s%C4%B1n%C4%B1f%C4%B1_f%C4%B1rkateyn?oldid=17907140"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Turgutreis (F-241) NATO WARSHIP current location right now",
+          "url": "https://www.marinetraffic.org/vessels/TCG-Turgutreis-(F-241)/1/271035003/current-position"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Media in category \"TCG Yavuz (F-240)\"",
+          "url": "https://commons.wikimedia.org/wiki/Category:TCG_Yavuz_(F-240)?action=render"
+        },
+        {
+          "date": "2013-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "YAVUZ CLASS (MEKO 200 Track I)",
+          "url": "https://devrimyaylali.com/yavuz-class-meko-200-track-i/"
+        },
+        {
+          "date": "2019-06-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz, Çanakkale Boğazı'ndan geçti",
+          "url": "https://www.hurriyet.com.tr/ekonomi/yavuz-canakkale-bogazindan-gecti-41251589"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TURKISH NAVY (TURKEY)",
+          "url": "https://myownonpmirror.com/ships/turkey/tu_es_yavuz.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TCG Yavuz F240 - IMO 4658051 - ShipSpotting.com",
+          "url": "https://www.shipspotting.com/photos/1354303"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NAVYPEDIA",
+          "url": "http://www.navypedia.org/ships/turkey/tu_es_yavuz.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Frigate TCG Yavuz (F240)",
+          "url": "https://shipshub.com/ships/113-1.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yavuz class Frigate MEKO200TN Turkish Navy Türk Deniz Kuvvetleri",
+          "url": "https://www.seaforces.org/marint/Turkish-Navy/Frigates/Yavuz-class.htm"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6418,
+    "iterations": [],
+    "output_tokens": 585,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

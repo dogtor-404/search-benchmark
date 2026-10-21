@@ -1,0 +1,142 @@
+{
+  "answer": "**2013 年**（2013 年 1 月公布获奖名单，4 月 20 日由总统 Pranab Mukherjee 颁奖）。\n\n依据：\n- https://biospectrumindia.com/news/66/15648/dr-maharaj-kishan-bhan-passes-away-at-the-age-of-72.html（明确写“Padma Bhushan 2013”）\n- https://www.news18.com/news/india/president-pranab-mukherjee-confers-padma-awards-604252.html（2013 年 4 月 20 日授奖）\n- https://www.deccanherald.com/india/karnataka-scientist-selected-padma-vibhushan-2238519（2013 年 1 月入选名单）",
+  "budget_denials": [],
+  "elapsed_seconds": 4.722,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0244208,
+      "inputTokens": 4755,
+      "maxOutputTokens": 32000,
+      "outputTokens": 247,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-185",
+  "raw": "jsonl/D2/simpleqa_verified-185.jsonl",
+  "reported_cost_usd": 0.0244208,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6297,
+      "query": "Maharaj Kishan Bhan Padma Bhushan year",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BioSpectrum",
+          "url": "https://www.biospectrumindia.com/article/pdf/15648#1#1"
+        },
+        {
+          "date": "2013-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Padma Bhushan Dr MK Bhan to get Genome Valley Excellence Award today",
+          "url": "https://biospectrumasia.com/influencers/26/4585/padma-bhushan-dr-mk-bhan-to-get-genome-valley-excellence-award-today.html"
+        },
+        {
+          "date": "2020-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dr Maharaj Kishan Bhan passes away at 72",
+          "url": "https://biospectrumindia.com/news/66/15648/dr-maharaj-kishan-bhan-passes-away-at-the-age-of-72.html"
+        },
+        {
+          "date": "2013-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "President Pranab Mukherjee confers Padma awards - Advertisement",
+          "url": "https://www.news18.com/news/india/president-pranab-mukherjee-confers-padma-awards-604252.html#1"
+        },
+        {
+          "date": "2013-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "President Mukherjee confers Padma awards - India",
+          "url": "https://www.newindianexpress.com/india/2013/Apr/20/president-mukherjee-confers-padma-awards-469846.html#1"
+        },
+        {
+          "date": "2013-01-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Karnataka scientist selected for Padma Vibhushan",
+          "url": "https://www.deccanherald.com/india/karnataka-scientist-selected-padma-vibhushan-2238519"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DR. MAHARAJ KISHAN BHAN (9 NOVEMBER 1947 - 26 JANUARY 2020)",
+          "url": "https://kaushikbharati.org/papers/obituary_mk_bhan.pdf#1#1"
+        },
+        {
+          "date": "2013-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "President confers Padma awards",
+          "url": "https://indianexpress.com/article/india/latest-news/president-confers-padma-awards/lite/"
+        },
+        {
+          "date": "2013-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "President to felicitate Padma Award winners today - Advertisement",
+          "url": "https://www.news18.com/news/india/padma-awards-5-601001.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Maharaj Kishan Bhan - Maharaj Kishan Bhan",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Maharaj_Kishan_Bhan#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4755,
+    "iterations": [],
+    "output_tokens": 247,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "**130 年**\n\n- Anton Grylewicz（德国共产党政治人物）生于 **1885 年 1 月 8 日**。\n- 第二部海绵宝宝电影《海绵宝宝：海绵出水》（*The SpongeBob Movie: Sponge Out of Water*）于 **2015 年 2 月 6 日**在美国上映。\n- 从 1885 年 1 月 8 日到 2015 年 2 月 6 日，已满 130 周年，向下取整为 **130 年**。\n\n说明：这是凭记忆回答的。Grylewicz 的出生日期我比较有把握，但没能联网核对。就算具体日期有出入，只要他生于 1885 年 2 月 6 日之前，结果都是 130 年。",
+  "budget_denials": [],
+  "elapsed_seconds": 6.377,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1803,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0224456,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 385,
+      "provider": "firstParty",
+      "thinkingTokens": 128,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-548",
+  "raw": "jsonl/0_prime/frames-548.jsonl",
+  "reported_cost_usd": 0.0224456,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1803,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1803,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1803,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1803,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 385,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 385,
+    "output_tokens_details": {
+      "thinking_tokens": 128
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

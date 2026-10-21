@@ -1,0 +1,60 @@
+{
+  "answer": "1968 年 5 月 6 日。\n\n那天，阿姆斯特朗在埃灵顿空军基地驾驶 LLRV 一号机（编号 LLRV-1，后编号为 LLTV？）时，飞行器失去控制；他在约 60 米（200 英尺）高度弹射，降落伞正常打开，他本人只受了轻伤（咬到舌头）。飞行器随后坠毁焚毁。\n\n这是凭记忆作答，没有联网核实；日期我比较有把握，细节（如具体高度）可能有出入。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.617,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.014452,
+      "inputTokens": 1983,
+      "maxOutputTokens": 32000,
+      "outputTokens": 326,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-020",
+  "raw": "jsonl/D0/custom-020.jsonl",
+  "reported_cost_usd": 0.014452,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1983,
+    "iterations": [],
+    "output_tokens": 326,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

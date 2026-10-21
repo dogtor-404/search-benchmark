@@ -1,0 +1,142 @@
+{
+  "answer": "小说作者是**卡尔·海森（Carl Hiaasen）**，小说于 1993 年出版。\n\n依据：维基百科「脱衣舞娘 (电影)」条目 — https://zh.wikipedia.org/wiki/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)",
+  "budget_denials": [],
+  "elapsed_seconds": 6.296,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0283624,
+      "inputTokens": 5664,
+      "maxOutputTokens": 32000,
+      "outputTokens": 261,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8.jsonl",
+  "reported_cost_usd": 0.0283624,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6422,
+      "query": "电影《脱衣舞娘》同名小说 作者",
+      "results": [
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - 维基百科，自由的百科全书 - 脱衣舞娘 (电影)",
+          "url": "https://zh.wikipedia.org/wiki?oldid=61052010&title=%e8%84%b1%e8%a1%a3%e8%88%9e%e5%a8%98_(%e7%94%b5%e5%bd%b1)#1"
+        },
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脫衣舞娘 (電影) - 維基百科，自由的百科全書 - 脫衣舞娘 (電影)",
+          "url": "https://zh.wikipedia.org/zh-tw/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "2025-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - Wikiwand - Wikiwand AI",
+          "url": "https://www.wikiwand.com/zh-sg/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "2023-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘-快懂百科",
+          "url": "https://www.baike.com/wikiid/115020175215085239?prd=innerlink"
+        },
+        {
+          "date": "2020-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脫衣舞娘 (電影)查看源代码讨论查看历史",
+          "url": "https://factpedia.org/wiki/%e8%84%ab%e8%a1%a3%e8%88%9e%e5%a8%98_(%e9%9b%bb%e5%bd%b1)"
+        },
+        {
+          "date": "2020-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影)",
+          "url": "https://factpedia.org/index.php?title=%e8%84%ab%e8%a1%a3%e8%88%9e%e5%a8%98_(%e9%9b%bb%e5%bd%b1)&variant=zh-hans"
+        },
+        {
+          "date": "2024-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘",
+          "url": "https://baike.sogou.com/v4647099.htm?fromTitle=%E8%84%B1%E8%A1%A3%E5%A8%98"
+        },
+        {
+          "date": "2013-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - 维基百科，自由的百科全书 - The Wayback Machine - http://web",
+          "url": "http://web.archive.org/web/20220122111107/https://zh.wikipedia.org/wiki/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        },
+        {
+          "date": "2024-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 - 脱衣舞娘是一个多义词，您可以选择查看以下义项（共2个义项）：",
+          "url": "https://baike.sogou.com/v4647099.htm?fromTitle=%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98#1"
+        },
+        {
+          "date": "2015-04-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "脱衣舞娘 (电影) - The Wayback Machine - http://web",
+          "url": "http://web.archive.org/all/20150603084151/http://zh.wikipedia.org/wiki/%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A8%98_(%E7%94%B5%E5%BD%B1)#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5664,
+    "iterations": [],
+    "output_tokens": 261,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

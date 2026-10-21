@@ -1,0 +1,221 @@
+{
+  "answer": "**OSS Scanner**。它是 Anthropic 在 2026 年 10 月 8 日随 Anthropic Cyber Mission 一同发布的免费、opt-in 开源项目扫描服务，由 Anthropic 最强的模型（包括 Claude Mythos）定期扫描，报告含漏洞说明、PoC 和修复建议，且不经人工复核直接发给维护者。\n\n- Anthropic 官方公告：https://www.anthropic.com/news/anthropic-cyber-mission\n- The Hacker News 报道：https://thehackernews.com/2026/10/anthropic-launches-free-ai.html\n- Socket 报道：https://socket.dev/blog/anthropic-oss-scanner",
+  "budget_denials": [],
+  "elapsed_seconds": 6.009,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0773584,
+      "inputTokens": 17408,
+      "maxOutputTokens": 32000,
+      "outputTokens": 362,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "news-005",
+  "raw": "jsonl/D2/news-005.jsonl",
+  "reported_cost_usd": 0.0773584,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7552,
+      "query": "Anthropic Cyber Mission 2026年10月8日 免费开源 安全扫描工具",
+      "results": [
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic推出OSS Scanner 为开源项目提供免费AI安全扫描-品玩",
+          "url": "https://www.pingwest.com/w/318192"
+        },
+        {
+          "date": "2026-10-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic推出OSS Scanner 为开源项目提供免费AI安全扫描",
+          "url": "https://www.c114.net.cn/ainews/131395.html"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic OSS Scanner AI Code Vulnerability Announcement",
+          "url": "https://linuxsecurity.com/news/security-projects/anthropic-ai-vulnerability-scanner-open-source"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御",
+          "url": "https://www.freebuf.com/articles/ics-articles/505450.html"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/itmedia_news_202610092000002164/?tpgnr=it"
+        },
+        {
+          "date": "2026-10-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Launches AI Defense Program for Critical Infrastructure and Open Source | Mallory",
+          "url": "https://mallory.ai/stories/01a11d97-2f0a-7f2a-997a-d1caecae245d"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic、重要インフラとOSSを保護する「Cyber Mission」",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2147283.html"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "OSS-Scanner: Kostenloses KI-Tool von Anthropic soll Open-Source-Projekte vor Schwachstellen schützen",
+          "url": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/?cmpscreencustom=1"
+        },
+        {
+          "date": "2026-10-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic's Free OSS Scanner: What It Means For Your Team",
+          "url": "https://jfrog.com/blog/anthropics-free-oss-scanner/"
+        },
+        {
+          "date": "2026-10-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "אנתרופיק תסרוק בחינם קוד פתוח ותשתיות קריטיות בעזרת Claude - אנתרופיק משיקה יוזמת אבטחת סייבר חדשה וסורק אבטחה חינמי לקוד פתוח",
+          "url": "https://www.gadgety.co.il/370505/anthropic-cyber-mission-announced/#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7434,
+      "query": "Anthropic Cyber Mission October 2026 open source security scanning tool",
+      "results": [
+        {
+          "date": "2026-10-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Introducing the Anthropic Cyber Mission",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission?utm_source=therundownai.beehiiv.com&utm_medium=newsletter&utm_campaign=rundown-1012&_bhlid=7a7b98cf5514869895eed0321f1aad97463ac573"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic OSS Scanner AI Code Vulnerability Announcement",
+          "url": "https://linuxsecurity.com/news/security-projects/anthropic-ai-vulnerability-scanner-open-source"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Launches Free OSS Scanner to Find Vulnerabilities in Open-Source Projects | Mallory",
+          "url": "https://mallory.ai/stories/01a12039-314a-73e3-8b66-9a62d8c86811"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic推出OSS Scanner 为开源项目提供免费AI安全扫描-品玩",
+          "url": "https://www.pingwest.com/w/318192"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Cyber Mission: Finding Vulnerabilities Is the Easy Part | Tuskira",
+          "url": "https://www.tuskira.ai/blog/finding-vulnerabilities-is-the-easy-part"
+        },
+        {
+          "date": "2026-10-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings - Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings",
+          "url": "https://socket.dev/blog/anthropic-oss-scanner?utm_medium=feed#Better-reports-still-require-maintainers-to-ship-fixes#1"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic、重要インフラとOSSのサイバー防御を支援するCyber Missionを発表 | gihyo.jp",
+          "url": "https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "OSS-Scanner: Kostenloses KI-Tool von Anthropic soll Open-Source-Projekte vor Schwachstellen schützen",
+          "url": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/?cmpscreencustom=1"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic、重要インフラとOSSを保護する「Cyber Mission」",
+          "url": "https://ai.watch.impress.co.jp/docs/news/2147283.html"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+          "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html?version=meter/at%2Bnull"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 17408,
+    "iterations": [],
+    "output_tokens": 362,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "answer": "**equilux**（昼夜平分日 / 等昼日）。\n\n它的意思是“白天和黑夜时长恰好相等的日期”，与 **equinox**（二分日）不同：equinox 指太阳直射赤道的那一天，由于大气折射以及太阳视圆面的原因，那天的实际日照通常比黑夜长出几分钟；而 equilux 才是真正昼夜各约 12 小时的那一天。这个词在 21 世纪随科普网站与天气媒体的传播而流行起来。\n\n不过需要说明：这一题我仅凭记忆作答，无法联网核实；如果你需要严谨出处，建议再查一下词典或科普来源。",
+  "budget_denials": [],
+  "elapsed_seconds": 3.814,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.013648,
+      "inputTokens": 1987,
+      "maxOutputTokens": 32000,
+      "outputTokens": 285,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "simpleqa_verified-716",
+  "raw": "jsonl/D0/simpleqa_verified-716.jsonl",
+  "reported_cost_usd": 0.013648,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1987,
+    "iterations": [],
+    "output_tokens": 285,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "answer": "Mathlib 最初创建于 **2017 年**。\n\n2017 年 7 月前后，Leonardo de Moura 和 Mario Carneiro 等人在 Lean 3 的社区库 `leanprover/mathlib` 中开始了这一项目，当时的目标是建立一个统一的数学库。后来它迁移到 Lean 4（Mathlib4），但库本身的起点仍算 2017 年。\n\n具体的月份和日期我不太确定，上面的“7 月前后”只是印象，年份是比较有把握的。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.945,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1759,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0090368,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 184,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-010",
+  "raw": "jsonl/0/custom-010.jsonl",
+  "reported_cost_usd": 0.0090368,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1759,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1759,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1759,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1759,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 184,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 184,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

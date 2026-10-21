@@ -1,0 +1,221 @@
+{
+  "answer": "**1997年1月**正式挂牌成立（当时名为“中国中医研究院望京医院”，2006年因上级机构更名，才改名为“中国中医科学院望京医院”）。\n\n依据：维基百科“中国中医科学院望京医院”条目记载“1997年1月，望京医院正式挂牌，2006年……更名为中国中医科学院望京医院”。\nhttps://zh.wikipedia.org/wiki/中国中医科学院望京医院",
+  "budget_denials": [],
+  "elapsed_seconds": 13.106,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 8448,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.05494160000000001,
+      "inputTokens": 9528,
+      "maxOutputTokens": 32000,
+      "outputTokens": 757,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-2268a30af11c4effa809af8938ffe230",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-2268a30af11c4effa809af8938ffe230.jsonl",
+  "reported_cost_usd": 0.05494160000000001,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7231,
+      "query": "中国中医科学院望京医院 正式挂牌成立 年份",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院",
+          "url": "http://www.natcm.gov.cn/d/file/bf64c7e39feb48846059873fd784b191.docx#1#1"
+        },
+        {
+          "date": "2019-05-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "打造中国式骨伤科高地 - | 国家中医药管理局 |",
+          "url": "http://www.natcm.gov.cn/xinxifabu/meitibaodao/2019-09-02/10722.html#1"
+        },
+        {
+          "date": "2023-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院2023年公开招聘应届高校毕业生公告_中国中医科学院_中国,中医,科学院,望京,医院,2023,年,公开,招聘,应届,高校,毕业生,公告",
+          "url": "https://www.cacms.ac.cn/recruitment/detail/3210.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "医院历史 医院概况 -中国中医科学院望京医院",
+          "url": "https://www.wjhospital.com.cn/html/news/columns/2/"
+        },
+        {
+          "date": "2023-05-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "望京医院党委书记李浩在我院传承45周年纪念大会上的致辞",
+          "url": "https://www.wjhospital.com.cn/Html/News/Articles/20003349.html"
+        },
+        {
+          "date": "2023-05-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "追寻历史足迹、凝聚奋进力量——中国中医科学院望京医院传承45周年纪念大会暨望京骨伤学术论坛启动仪式召开_中国中医科学院_追寻,历史,足迹,凝聚,奋进,力量,中国,中医,科学院,望京,医院,传承,45,周年纪念,大会,暨,望京,骨伤,学术,论坛,启动,仪式,召开",
+          "url": "https://www.cacms.ac.cn/news_dynamic/detail/3319.html"
+        },
+        {
+          "date": "2023-05-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院传承45周年学术活动—2023年望京骨伤学术论坛成功举办",
+          "url": "https://36.112.128.15/Html/News/Articles/20003347.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院",
+          "url": "https://www.dayi.org.cn/hospital/1120304?regionCode=CA#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1997年 医院概况 -中国中医科学院望京医院",
+          "url": "https://36.112.128.15/Html/News/Articles/1089.html"
+        },
+        {
+          "date": "2023-05-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院传承45周年纪念大会即将拉开帷幕，诚邀您的光临！",
+          "url": "https://36.112.128.15/Html/News/Articles/20003324.html"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7338,
+      "query": "中国中医科学院望京医院 挂牌 成立 2006年 更名",
+      "results": [
+        {
+          "date": "2023-05-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院传承45周年学术活动—2023年望京骨伤学术论坛成功举办",
+          "url": "https://36.112.128.15/Html/News/Articles/20003347.html"
+        },
+        {
+          "date": "2021-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%8C%BB%E7%A7%91%E5%AD%A6%E9%99%A2%E6%9C%9B%E4%BA%AC%E5%8C%BB%E9%99%A2"
+        },
+        {
+          "date": "2026-09-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "望京医院",
+          "url": "https://baike.baidu.com/item/%E6%9C%9B%E4%BA%AC%E5%8C%BB%E9%99%A2?fromid=4731247&fromtitle=%D6%D0%B9%FA%D6%D0%D2%BD%BF%C6%D1%A7%D4%BA%CD%FB%BE%A9%D2%BD%D4%BA&type=syn&bst=1792146131.18b974182c2bec25"
+        },
+        {
+          "date": "2006-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "15家医保定点医疗机构名称变更于19日起执行",
+          "url": "https://news.sina.com.cn/c/2006-10-21/102210290490s.shtml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院怎么样_中国中医科学院望京医院口碑_中国中医科学院望京医院正规吗",
+          "url": "https://m.iiyiyi.com/17281/about/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "医院历史 医院概况 -中国中医科学院望京医院",
+          "url": "https://36.112.128.15/Html/News/Columns/2/Index.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院 - Wikiwand",
+          "url": "https://www.wikiwand.com/zh-tw/articles/%e4%b8%ad%e5%9b%bd%e4%b8%ad%e5%8c%bb%e7%a7%91%e5%ad%a6%e9%99%a2%e6%9c%9b%e4%ba%ac%e5%8c%bb%e9%99%a2"
+        },
+        {
+          "date": "2024-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院招聘",
+          "url": "https://www.kq36.com/25/244786"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "中国中医科学院望京医院",
+          "url": "https://m.dayi.org.cn/hospital/1120304#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Shein",
+          "url": "https://baike.baidu.com/ja/item/%e4%b8%ad%e5%9b%bd%e4%b8%ad%e5%8c%bb%e7%a7%91%e5%ad%a6%e9%99%a2%e6%9c%9b%e4%ba%ac%e7%97%85%e9%99%a2/317197#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 8448,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9528,
+    "iterations": [],
+    "output_tokens": 757,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "答案：**1983 年 1 月 1 日**（ARPANET 在这一天整体从 NCP 切换到 TCP/IP，被称为“flag day”）。\n\n依据网址：https://elists.isoc.org/pipermail/internet-history/2013-January/002651.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.359,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0276664,
+      "inputTokens": 5830,
+      "maxOutputTokens": 32000,
+      "outputTokens": 193,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-023",
+  "raw": "jsonl/D2_prime/custom-023.jsonl",
+  "reported_cost_usd": 0.0276664,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6574,
+      "query": "ARPANET switch from NCP to TCP/IP flag day date January 1 1983",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] NCP to TCP/IP Transition",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2009-April/000793.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] internet-history Digest, Vol 37, Issue 1",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2009-November/000955.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[ih] the Jan 1 1983 cutover to TCP/IP on the ARPAnet",
+          "url": "https://elists.isoc.org/pipermail/internet-history/2013-January/002651.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "13-Jan-83 19:19:37-PST,5542;000000000001",
+          "url": "https://ftp.nic.ad.jp/internet/ftp.rfc-editor.org/in-notes/museum/ddn-news/ddn-news.n20.1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Maj",
+          "url": "https://ftp.nic.ad.jp/internet/ftp.rfc-editor.org/in-notes/museum/ARPANET_News.mail#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "インターネットを支えるTCP/IPの誕生から普及まで",
+          "url": "https://www.nic.ad.jp/ja/newsletter/No67/0320.html#:~:text=1973%E5%B9%B4%E3%81%AE%E9%96%8B%E7%99%BA%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E3%80%812000%E5%B9%B4%E4%BB%A3%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7&text=ARPANET%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84,%E3%81%AB%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82"
+        },
+        {
+          "date": "2008-01-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "25 Years of TCP/IP on the Internet",
+          "url": "https://learn.microsoft.com/ja-jp/archive/blogs/drnick/25-years-of-tcpip-on-the-internet"
+        },
+        {
+          "date": "2013-04-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Enhanced IP: IPv4 with 64-Bit Addresses - Enhanced IP: IPv4 with 64-Bit Addresses",
+          "url": "https://ieeexplore.ieee.org/document/6509372/citations#citations#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "you can buy whatever would do your",
+          "url": "https://archive.org/download/scott_bradner_history_of_the_internet/scott_bradner_history_of_the_internet.en.srt#8"
+        },
+        {
+          "date": "2013-01-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ISNIC Lénaskrá: Frétt",
+          "url": "https://www.isnic.is/is/news/view?id=295"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5830,
+    "iterations": [],
+    "output_tokens": 193,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

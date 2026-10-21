@@ -1,0 +1,98 @@
+{
+  "answer": "**答案：1996 年**\n\n1996 年 1 月，FDA 批准 olestra 用作预包装即食咸味零食（如薯片、饼干）里的脂肪替代品。各来源给的具体日期略有出入：有的写 1 月 24 日，有的写 1 月 25 日；联邦公报（Federal Register）里的最终规则是 1996 年 1 月 30 日发布的。\n\n共搜索 1 次。\n\n依据：\n- [Olestra – Wikipedia](https://en.wikipedia.org/wiki/Olestra)\n- [Federal Register 2003-08-05（govinfo）](https://www.govinfo.gov/content/pkg/FR-2003-08-05/pdf/03-19508.pdf)\n- [Mental Floss：olestra 1990s controversy](https://www.mentalfloss.com/food/olestra-fat-free-snack-controversy-1990s)",
+  "budget_denials": [],
+  "elapsed_seconds": 13.152,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117099,
+      "inputTokens": 14069,
+      "maxOutputTokens": 128000,
+      "outputTokens": 606,
+      "provider": "firstParty",
+      "thinkingTokens": 212,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2895,
+      "cacheReadInputTokens": 6744,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0323648,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 392,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "custom-012",
+  "raw": "jsonl/A_prime/custom-012.jsonl",
+  "reported_cost_usd": 0.044074699999999994,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "FDA approved olestra savory snacks year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0168p2ubN9ZJdFioUSc6m5Yb"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2895,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2895,
+    "cache_read_input_tokens": 6744,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1053,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1053,
+        "cache_read_input_tokens": 4293,
+        "input_tokens": 2,
+        "output_tokens": 307,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 392,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

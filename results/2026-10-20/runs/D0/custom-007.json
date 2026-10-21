@@ -1,0 +1,60 @@
+{
+  "answer": "Lean 4 的源代码使用 **Apache License 2.0**（Apache 2.0）开源许可证。`leanprover/lean4` 仓库根目录下的 LICENSE 文件就是 Apache 2.0 全文；该许可证宽松、允许商用和修改，但要求保留版权与许可声明、标明改动，并附带专利授权条款。\n\n补充一点相关背景：Lean 社区生态里的 mathlib4 也采用 Apache 2.0。\n\n（这是凭记忆的回答；如果你要用于合规判断，建议再核对仓库里的 LICENSE 文件原文。）",
+  "budget_denials": [],
+  "elapsed_seconds": 6.152,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.019867999999999997,
+      "inputTokens": 1967,
+      "maxOutputTokens": 32000,
+      "outputTokens": 600,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "custom-007",
+  "raw": "jsonl/D0/custom-007.jsonl",
+  "reported_cost_usd": 0.019867999999999997,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1967,
+    "iterations": [],
+    "output_tokens": 600,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

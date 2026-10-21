@@ -1,0 +1,154 @@
+{
+  "answer": "**5%**。Anthropic 在 2026 年 10 月 18 日的公告中说,经股东批准后,会先把 5% 的股份划给 Anthropic Public Benefit Fund。此后公司估值每比某个基准线高出 50%,董事会可自行决定再追加 2%。\n\n我只搜了新闻报道,没有打开 Anthropic 官方博客。下面的报道转述或引用了公告原文:\n\n- CNBC:https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html\n- ESG Today:https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/\n- Mint(引用了公告原文):https://www.livemint.com/companies/news/ahead-of-ipo-ai-firm-anthropic-announces-a-new-public-benefit-fund-to-commit-5-of-its-stocks-what-we-know-11792372858462.html",
+  "budget_denials": [],
+  "elapsed_seconds": 7.159,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8159,
+      "cacheReadInputTokens": 5882,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0374822,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 425,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "news-002",
+  "raw": "jsonl/B/news-002.jsonl",
+  "reported_cost_usd": 0.0374822,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.736,
+      "query": "Anthropic Public Benefit Fund October 18, 2026 announcement percentage of shares stockholder approval",
+      "results": [
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic pledges shares for public good",
+          "url": "https://qazinform.com/news/anthropic-pledges-shares-for-public-good-b106bb"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic pledges 5% of shares to new public benefit fund",
+          "url": "https://mobil.aa.com.tr/en/science-technology/anthropic-pledges-5-of-shares-to-new-public-benefit-fund/4092911"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+          "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html?taid=6ad54f4f2113bc0001a7dda6&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic Commits 5% of Shares to a New Public Benefit Fund - ESG Today",
+          "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ahead of IPO, AI firm Anthropic announces a new ‘public benefit fund’ to commit 5% of its stocks: What we know | Company Business News",
+          "url": "https://www.livemint.com/companies/news/ahead-of-ipo-ai-firm-anthropic-announces-a-new-public-benefit-fund-to-commit-5-of-its-stocks-what-we-know-11792372858462.html"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of shares to new public benefit fund By Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4916238"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic sets out equity commitment for public benefit fund",
+          "url": "https://blockchain.news/news/anthropic-public-benefit-fund-equity-commitment"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to commit 5% stake to new public benefit fund",
+          "url": "https://nypost.com/2026/10/18/business/anthropic-to-commit-5-stake-to-new-public-benefit-fund/"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic to Commit 5% of Shares to New Public Benefit Fund",
+          "url": "https://markets.businessinsider.com/news/stocks/anthropic-to-commit-5-of-shares-to-new-public-benefit-fund-1036638475"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anthropic commits 5% of its shares to a new public benefit fund",
+          "url": "https://thenextweb.com/news/anthropic-public-benefit-fund-5-percent-shares"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8159,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8159,
+    "cache_read_input_tokens": 5882,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6285,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6285,
+        "cache_read_input_tokens": 3878,
+        "input_tokens": 2,
+        "output_tokens": 333,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 425,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

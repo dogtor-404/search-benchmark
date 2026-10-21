@@ -1,0 +1,154 @@
+{
+  "answer": "**答案：1933 年。**\n\n一般说法是翠鸟数量减少、翠羽断了货源，中国最后一家点翠工场在 1933 年关闭。搜了 1 次，几个来源都说是这一年。不过这些网页基本是互相转述的说法，我没查到最早的原始出处。\n\n依据的网址：\n- 维基百科“点翠”：https://zh.m.wikipedia.org/wiki/%E7%82%B9%E7%BF%A0\n- 南海博物馆：http://www.nanhaimuseum.org/n1/2022/0304/c419341-32366356-4.html\n- 万方数据，论文《艺术美学视域下的点翠工艺》：https://d.wanfangdata.com.cn/periodical/mysd-s202012002",
+  "budget_denials": [],
+  "elapsed_seconds": 8.611,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4682,
+      "cacheReadInputTokens": 5839,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0453398,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 335,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+  "raw": "jsonl/B_prime/chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76.jsonl",
+  "reported_cost_usd": 0.0453398,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5999,
+      "query": "中国最后一家点翠工场 关闭 年",
+      "results": [
+        {
+          "date": "2015-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吴钩：在宋朝，点翠不是时尚是犯禁 - 28689807,",
+          "url": "https://m.haiwainet.cn/middle/345439/2015/0430/content_28689807_2.html#1"
+        },
+        {
+          "date": "2022-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "活动预告｜佳人匠心，装“点”春日——妇女节系列社教活动",
+          "url": "http://www.nanhaimuseum.org/n1/2022/0304/c419341-32366356-4.html"
+        },
+        {
+          "date": "2016-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠 - 维基百科，自由的百科全书",
+          "url": "https://zh.m.wikipedia.org/wiki/%E7%82%B9%E7%BF%A0"
+        },
+        {
+          "date": "2016-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "點翠 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-mo/%E7%82%B9%E7%BF%A0"
+        },
+        {
+          "date": "2020-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://baike.baidu.com/tashuo/browse/content?id=98b0818ab5c790e2d4d5e201&fromModule=tashuo-article_tashuo-tab-item"
+        },
+        {
+          "date": "2015-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠首饰最早出现在什么时候？宋元时期有吗？ - 点翠首饰最早出现在什么时候？宋元时期有吗？",
+          "url": "https://www.zhihu.com/question/29434697#0#1"
+        },
+        {
+          "date": "2020-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠技艺登上热搜，美丽的背后是残忍！_百科TA说",
+          "url": "https://wapbaike.baidu.com/tashuo/browse/content?id=98b0818ab5c790e2d4d5e201&fromModule=tashuo-article_bottom-tashuo-feed"
+        },
+        {
+          "date": "2020-12-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "艺术美学视域下的点翠工艺",
+          "url": "https://d.wanfangdata.com.cn/periodical/mysd-s202012002"
+        },
+        {
+          "date": "2017-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "点翠，这位公子哥用创意让这门非遗技艺再次惊艳人间",
+          "url": "https://m.voc.com.cn/xhn/news/201709/14555417.html"
+        },
+        {
+          "date": "2017-03-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "千羽换得一发簪丨艳羽霓裳",
+          "url": "https://m.guoqinwang.com/news/4750.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4682,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4682,
+    "cache_read_input_tokens": 5839,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2851,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2851,
+        "cache_read_input_tokens": 3835,
+        "input_tokens": 2,
+        "output_tokens": 263,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 335,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

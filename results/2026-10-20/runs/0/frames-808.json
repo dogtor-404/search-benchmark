@@ -1,0 +1,72 @@
+{
+  "answer": "**James Joyce** und **Virginia Woolf**: beide 1882 geboren, beide 1941 gestorben.\n\n- Joyce: 2. Februar 1882 bis 13. Januar 1941\n- Woolf: 25. Januar 1882 bis 28. März 1941\n\n**Woolf wurde älter, und zwar um 82 Tage.** Sie wurde 8 Tage früher geboren als Joyce (25. Jan gegenüber 2. Feb) und starb 74 Tage später (13. Jan gegenüber 28. März 1941). Das ergibt 8 + 74 = 82 Tage.\n\nDie Daten stammen aus meinem Gedächtnis, ich konnte sie nicht nachschlagen.",
+  "budget_denials": [],
+  "elapsed_seconds": 7.246,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1771,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0143848,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 714,
+      "provider": "firstParty",
+      "thinkingTokens": 464,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "frames-808",
+  "raw": "jsonl/0/frames-808.jsonl",
+  "reported_cost_usd": 0.0143848,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1771,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1771,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1771,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1771,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 714,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 714,
+    "output_tokens_details": {
+      "thinking_tokens": 464
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：Palazzo della Cancelleria（宗座文书院宫 / 大法院宫）**\n\n这是罗马第一座完全从零开始、按新文艺复兴风格兴建的宫殿，建于约 1489–1513 年，由枢机 Raffaele Riario 委托建造（建筑师说法不一，常提到 Bramante 参与）。\n\n依据：\n- https://www.alamy.de/stockfoto-eingang-des-palazzo-delle-cancelleria-in-rom-italien-19135658.html（\"the first palazzo in Rome to be built from the ground up in the new Renaissance style\"）\n- https://wcsiasc.org/formal-award-ceremony-12-of-october/（\"the first palazzo in Rome to be erected from the ground up in the new Renaissance style\"）\n- https://www.britannica.com/place/Cancelleria",
+  "budget_denials": [],
+  "elapsed_seconds": 11.138,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.041896,
+      "inputTokens": 7526,
+      "maxOutputTokens": 32000,
+      "outputTokens": 564,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-1353",
+  "raw": "jsonl/D2_prime/simpleqa_verified-1353.jsonl",
+  "reported_cost_usd": 0.041896,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7001,
+      "query": "first palace in Rome erected from ground up new Renaissance style",
+      "results": [
+        {
+          "date": "2023-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Eingang des Palazzo Delle Cancelleria in Rom, Italien Stockfotografie - Alamy",
+          "url": "https://www.alamy.de/stockfoto-eingang-des-palazzo-delle-cancelleria-in-rom-italien-19135658.html"
+        },
+        {
+          "date": "2023-09-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Formal award ceremony 12 of October - WCS",
+          "url": "https://wcsiasc.org/formal-award-ceremony-12-of-october/"
+        },
+        {
+          "date": "2008-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Text-Book of the History of Architecture Seventh Edition, revised - PALACES",
+          "url": "https://www.gutenberg.org/cache/epub/26319/arch2.html#3"
+        },
+        {
+          "date": "2012-09-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Historisch wertvoll: Römische Nächte – ein Bett im Museum - WELT - Historisch wertvoll",
+          "url": "https://www.welt.de/reise/nah/article109085825/Historisch-wertvoll-Roemische-Naechte-ein-Bett-im-Museum.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Architektur in Renaissance und Barock",
+          "url": "https://www.projekte.kunstgeschichte.uni-muenchen.de/arch_complete_vers/40-ren-barock-architektur/studieneinheiten/lektion_5/V_2_6.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Interior view",
+          "url": "https://www.wga.hu/html_m/zzzarchi/16c/3/2rome05.html"
+        },
+        {
+          "date": "2019-12-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Paleis van de Kanselarij - Wikipedia - Paleis van de Kanselarij",
+          "url": "https://nl.wikipedia.org/wiki/Paleis_van_de_Kanselarij#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Der Palazzo Farnese in Rom - Der Palazzo Farnese in Rom: Antonio da Sangallo d.J. / Michelangelo",
+          "url": "https://books.google.com.sg/books/about/Der_Palazzo_Farnese_in_Rom.html?id=2DvlUDO9d-cC&redir_esc=y#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Renaissance Architecture in Rome - Concept Version 10",
+          "url": "http://www.library.snls.org.sz/boundless/boundless/art-history/textbooks/boundless-art-history-textbook/the-italian-renaissance-23/renaissance-architecture-152/renaissance-architecture-in-rome-615-8041/index.html#1"
+        },
+        {
+          "date": "2026-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cancelleria | palace, Rome, Italy | Britannica",
+          "url": "https://www.britannica.com/place/Cancelleria"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7526,
+    "iterations": [],
+    "output_tokens": 564,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

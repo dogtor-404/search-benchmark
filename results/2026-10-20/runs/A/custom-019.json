@@ -1,0 +1,100 @@
+{
+  "answer": "Stapp 在 1954 年 12 月 10 日的火箭滑车试验中,最高速度约为 **632 英里每小时**(约 1,017 公里每小时)。他在约 5 秒内加速到这个速度。\n\n这个数字是我在 1 次搜索中查到的,来源之间没有分歧。过载数值各来源不一致,这里不引用。\n\nSources:\n- [December 10, 1954: Dr. John Stapp - Testing Pioneer(美国空军飞行测试中心)](https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2411198/december-10-1954-dr-john-stapp-testing-pioneer/)\n- [John P. Stapp(新墨西哥太空博物馆)](https://nmspacemuseum.org/inductee/john-p-stapp/)\n- [John Paul Stapp, a Real Life Rocket (Sled) Man(Popular Science)](https://www.popsci.com/blog-network/vintage-space/john-paul-stapp-real-life-rocket-sled-man)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.354,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119674,
+      "inputTokens": 14849,
+      "maxOutputTokens": 128000,
+      "outputTokens": 965,
+      "provider": "firstParty",
+      "thinkingTokens": 248,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3251,
+      "cacheReadInputTokens": 6767,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.018508700000000003,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 482,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-019",
+  "raw": "jsonl/A/custom-019.jsonl",
+  "reported_cost_usd": 0.0304761,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "John Paul Stapp December 10, 1954 rocket sled top speed mph Holloman",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WbRyg9koQEcuvnqfe8SkSG"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3251,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3251,
+    "cache_read_input_tokens": 6767,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1386,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1386,
+        "cache_read_input_tokens": 4316,
+        "input_tokens": 2,
+        "output_tokens": 381,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 482,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

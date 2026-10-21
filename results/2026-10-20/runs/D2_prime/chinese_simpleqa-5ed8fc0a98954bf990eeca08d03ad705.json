@@ -1,0 +1,142 @@
+{
+  "answer": "**答案：约翰·D·德拉马特（John D. DeLamater）**，也有图书馆目录译作\"德拉梅特\"。\n\n依据网址：\n- https://search.worldcat.org/zh-cn/title/1273942116 （作者：Janet Shibley Hyde、John D. DeLamater）\n- https://nbinet3.ncl.edu.tw/search~S10*chi?/i7806817301/i7806817301/1,1,1,E/frameset&FF=i7806817301&1,1,?save=b8872176 （\"珍妮特.S.海德、約翰.D.德拉馬特著\"）\n\n说明：该书中译名《人类的性存在》译自 *Understanding Human Sexuality*，合著者是威斯康星大学麦迪逊分校社会学教授 John D. DeLamater。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.477,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.030942400000000002,
+      "inputTokens": 5769,
+      "maxOutputTokens": 32000,
+      "outputTokens": 369,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705",
+  "raw": "jsonl/D2_prime/chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705.jsonl",
+  "reported_cost_usd": 0.030942400000000002,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6282,
+      "query": "《人类的性存在》 珍妮特·海德 Janet Shibley Hyde 合著者",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NATIONAL BIBLIOGRAPHIC INFORMATION NETWORK /All Locations",
+          "url": "https://nbinet3.ncl.edu.tw/search~S10*chi?/i7806817301/i7806817301/1,1,1,E/frameset&FF=i7806817301&1,1,?save=b8872176"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "检索结果 - 北京大学医学图书馆",
+          "url": "https://opac.bjmu.edu.cn/search/result?type=Author&page=1&sort=score+desc&lookfor=%E6%B5%B7%E5%BE%B7%20(Hyde%2C%20Janet%20Shiblry)"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人類的性存在 | WorldCat.org",
+          "url": "https://search.worldcat.org/zh-cn/title/1273942116"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "扬州市图书馆书目检索系统 Online Public Access Catalogue",
+          "url": "http://opac.yzlib.cn:8080/opac/openlink.php?title=%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%80%A7%E5%AD%98%E5%9C%A8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://opac.cdclib.cn/opac/book/1054247?view=simple&flag=printer"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类的性存在: 第8版 :(美)珍妮特·S·海德(Janet Shibley Hyde)，(美)约翰·D·德拉马特(John D. Delamater), 贺岭峰, 李强, 高旭辰",
+          "url": "http://ilasweb.kmlib.yn.cn/NTRdrBookRetr.aspx?strKeyValue2=2&strKeyValueAuthor=(%e7%be%8e)%e7%8f%8d%e5%a6%ae%e7%89%b9%c2%b7S%c2%b7%e6%b5%b7%e5%be%b7(Janet+Shibley+Hyde)%ef%bc%8c(%e7%be%8e)%e7%ba%a6%e7%bf%b0%c2%b7D%c2%b7%e5%be%b7%e6%8b%89%e9%a9%ac%e7%89%b9(John+D.+Delamater)%2c+%e8%b4%ba%e5%b2%ad%e5%b3%b0%2c+%e6%9d%8e%e5%bc%ba%2c+%e9%ab%98%e6%97%ad%e8%be%b0&strTypeAuthor=author&tabletype=*&strAllPublish=&strAllPubyear=fq%3dpubyear%3a%222005%22&strAllLanguage=&strKeyValue=%e9%a9%ac%e7%89%b9&strType=author&strVip2=&strStartYear=&strEndYear=&strPublisher=&strAuthorer="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://libopac.nudt.edu.cn/opac/book/229689?view=simple&flag=printer"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "云南民族大学图书馆书目检索系统 Online Public Access Catalogue",
+          "url": "http://opac.ynni.edu.cn:8080/opac/item.php?marc_no=0000211849"
+        },
+        {
+          "date": "2025-08-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人类的性存在",
+          "url": "https://www.wikidata.org/wiki/Q124166007?uselang=zh-hans#P921"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "馆藏书目查询系统",
+          "url": "https://vufind.library.sh.cn/Record/973c3206-5de5-4b42-9949-f35c36bd36b4?lng=en"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5769,
+    "iterations": [],
+    "output_tokens": 369,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

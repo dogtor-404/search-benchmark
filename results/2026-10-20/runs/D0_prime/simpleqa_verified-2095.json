@@ -1,0 +1,60 @@
+{
+  "answer": "据我所知，答案是 **4 次**。\n\n巴基斯坦人民党（PPP）在国民议会（National Assembly）层面成为最大反对党/主要反对党的几次大致是：\n\n1. **1990 年大选后**：败给 IJI（后来并入 PML-N 阵营），贝娜齐尔·布托任反对党领袖（1990–1993）。\n2. **1997 年大选后**：PML-N 大胜，PPP 只获约 18 席，仍是最大反对党，贝娜齐尔·布托任反对党领袖。\n3. **2002 年大选后**：PML-Q 组阁，PPP 成为最大反对党，Makhdoom Amin Fahim 任反对党领袖。\n4. **2013 年大选后**：PML-N 组阁，PPP 为最大反对党，Syed Khurshid Shah 任反对党领袖。\n\n到 2022 年为止算 4 次。（2018 年大选后最大反对党是 PML-N，所以那次不算；2022 年 4 月 PPP 加入执政联盟后也不再算反对党。）\n\n这个数字来自我对巴基斯坦选情的记忆，无法联网核实，供参考。",
+  "budget_denials": [],
+  "elapsed_seconds": 31.366,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.053772,
+      "inputTokens": 2048,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2279,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-2095",
+  "raw": "jsonl/D0_prime/simpleqa_verified-2095.jsonl",
+  "reported_cost_usd": 0.053772,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2048,
+    "iterations": [],
+    "output_tokens": 2279,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

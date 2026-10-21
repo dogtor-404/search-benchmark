@@ -1,0 +1,144 @@
+{
+  "answer": "答案是**福岛邦彦（Kunihiko Fukushima，福島邦彦）**。\n\n依据网址：https://pubmed.ncbi.nlm.nih.gov/7326278/（\"A simplified version of Kunihiko Fukushima's Neocognitron\"，对应 Fukushima, *Biological Cybernetics*, 1980, 36(4):193–202）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.366,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0254024,
+      "inputTokens": 5004,
+      "maxOutputTokens": 32000,
+      "outputTokens": 245,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "custom-021",
+  "raw": "jsonl/D2_prime/custom-021.jsonl",
+  "reported_cost_usd": 0.0254024,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6296,
+      "query": "Neocognitron 1980 提出 日本 研究者 Fukushima",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "On the surface, XOR appears to be a very simple problem, however, Minksy and Papert (1969) showed that this was a big problem fo...",
+          "url": "https://indico.ijclab.in2p3.fr/event/11551/contributions/38027/attachments/25802/38033/02_Marc_DURANTON_Histoire_IA_250604.pdf#8#3"
+        },
+        {
+          "date": "2019-09-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recent advances in the deep CNN neocognitron - Special Issue on Recent Progress in Nonlinear Theory and Its Applications",
+          "url": "https://www.jstage.jst.go.jp/article/nolta/10/4/10_304/_article#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A simplified version of Kunihiko Fukushima's Neocognitron - PubMed - doi: 10.1007/BF00335154.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7326278/#1"
+        },
+        {
+          "date": "2010-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Neocognitron trained with winner-kill-loser rule - Skip to main contentSkip to article",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608010000912?via%3Dihub#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NSTL国家科技图书文献中心 - 【期刊论文】Artificial vision by multi-layered neural networks: Neocognitron and its advances SCOPUS Scopus数据库 SCIE Web of Science核心 N...",
+          "url": "https://hz.nstl.gov.cn/paper_detail.html?doi=10.1016/j.neunet.2012.09.016#1"
+        },
+        {
+          "date": "2019-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ネオコグニトロンと畳み込みニューラルネットワーク - Invited Review Article",
+          "url": "https://www.jstage.jst.go.jp/article/mii/36/2/36_17/_article/-char/en#1"
+        },
+        {
+          "date": "2022-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "深層畳み込み神経回路ネオコグニトロン - Feature The horizon of deep learning from the perspective of cognitive science",
+          "url": "https://www.jstage.jst.go.jp/article/jcss/29/1/29_2021.061/_article#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "neocognitron - Search Results - PubMed - Search Page",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/?term=neocognitron#1"
+        },
+        {
+          "date": "2007-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Recent Studies Around the Neocognitron | Neural Information Processing - Several features on this page require Premium Access",
+          "url": "https://dl.acm.org/doi/10.1007/978-3-540-69158-7_109#1"
+        },
+        {
+          "date": "2012-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Artificial vision by multi-layered neural networks: neocognitron and its advances - PubMed - doi: 10.1016/j",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23098752/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5004,
+    "iterations": [],
+    "output_tokens": 245,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

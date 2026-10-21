@@ -1,0 +1,17 @@
+{
+  "group": "B_prime",
+  "original_archive": "failed-attempts/20261020T131353Z/B_prime/custom-015",
+  "original_file_sha256": {
+    "audit/search.jsonl": "a78ecd65496085345e2e0a808d70a23490641614a599f667d504256cb0cb585f",
+    "raw.jsonl": "b415b66ba3ec64156893f2f9b71139e6aa9307eb865bdc69c1add6ff744398b0",
+    "run.json": "3cf7998088449d01e512d53112a8870e668e9a28376237ef15c1d57f924e8df4"
+  },
+  "query_length": 129,
+  "question_id": "custom-015",
+  "reason": "原工具拒绝129字符查询但漏记；依据原始tool_use和对应参数错误回填非执行拒绝，保留原最终回答，不调用模型或搜索API。",
+  "repaired_ledger_sha256": "7f84b6f44c7ab437be538800aad3c39c0e24d9777305f65a7201482bb266016f",
+  "reprocessing_without_model_call": true,
+  "reviewed_at": "2026-10-20T13:13:53.896770+00:00",
+  "search_calls_unchanged": 1,
+  "tool_use_id": "toolu_01PgKF7bTSkAfq92edEPX5EH"
+}

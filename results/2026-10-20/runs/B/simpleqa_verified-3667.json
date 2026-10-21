@@ -1,0 +1,154 @@
+{
+  "answer": "**答案:South Orange Little League(奥兰多西南部)。**\n\n他小时候在这个联盟打球,之后在 Walker Jr. High 打球,再上 Dr. Phillips High School。\n\n依据:\n- https://www.mlive.com/tigers/2010/04/now_with_tigers_veteran_big_le.html:Damon 说,母亲让他和哥哥 James 报名了奥兰多西南部的 South Orange Little League,他的第一支队伍是 T-ball 的 Green Machine。\n- https://ocps.ss15.sharpschool.com/cms/One.aspx?portalId=54703&pageId=89584:他在 South Orange Little League 打球。\n- https://www.memorabilix.co.uk/baseball-11/johnny-damon-13964/:他小时候在 South Orange Little League 打球,之后在 Walker Jr. High 打球,再上高中。\n\n我只搜了 1 次。",
+  "budget_denials": [],
+  "elapsed_seconds": 7.794,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 11954,
+      "cacheReadInputTokens": 5848,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.052288799999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 388,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-3667",
+  "raw": "jsonl/B/simpleqa_verified-3667.jsonl",
+  "reported_cost_usd": 0.052288799999999996,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7464,
+      "query": "Johnny Damon childhood Little League before junior high school",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Johnny Damon",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Johnny_Damon#1"
+        },
+        {
+          "date": "2010-04-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Now with Tigers, veteran major leaguer Johnny Damon hasn't lost his love for game",
+          "url": "https://www.mlive.com/tigers/2010/04/now_with_tigers_veteran_big_le.html"
+        },
+        {
+          "date": "2004-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20210515150905/https://en.wikipedia.org/wiki/Johnny_Damon#1"
+        },
+        {
+          "date": "2004-04-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20191205135916/https://en.wikipedia.org/wiki/Johnny_Damon#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon",
+          "url": "https://ocps.ss15.sharpschool.com/cms/One.aspx?portalId=54703&pageId=89584"
+        },
+        {
+          "date": "2017-11-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Happy Birthday To Cresskill's Johnny Damon - Happy Birthday To Cresskill's Johnny Damon",
+          "url": "https://dailyvoice.com/new-jersey/northernvalley/neighbors/happy-birthday-to-cresskills-johnny-damon/599175/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon - Wikiwand - Johnny Damon",
+          "url": "https://www.wikiwand.com/es/Johnny_Damon#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon: American professional baseball outfielder (born: 1973) | Biography, Facts, Information, Career, Wiki, Life - peoplepill id: johnny-damon",
+          "url": "https://peoplepill.com/i/johnny-damon/tc/business/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Autographs of Johnny Damon",
+          "url": "https://www.memorabilix.co.uk/baseball-11/johnny-damon-13964/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Johnny Damon 2025 - Dosen.Profillengkap.Com - Johnny Damon",
+          "url": "https://dosen.profillengkap.com/en/Johnny_Damon#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11954,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11954,
+    "cache_read_input_tokens": 5848,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10114,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10114,
+        "cache_read_input_tokens": 3844,
+        "input_tokens": 2,
+        "output_tokens": 315,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 388,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

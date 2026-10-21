@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Express Tribune Aga Khan University Hospital first Neuro-Robotic Exoscope Pakistan", "results": [], "status": "allowed", "tool_use_id": "toolu_01MhKFaznN4ESnBJrwRFUAFg"}
+{"billable": false, "call": 2, "query": "tribune.com.pk \"Neuro-Robotic Exoscope\" Aga Khan University Hospital first medical center", "results": [], "status": "allowed", "tool_use_id": "toolu_01351xBQd1cA93fRGVfu5mHr"}
+{"billable": false, "call": 3, "query": "Express Tribune April 2016 Aga Khan University Hospital brain surgery technology exoscope first in Pakistan", "results": [], "status": "allowed", "tool_use_id": "toolu_018Q4Da67ED3dzoiTAZit8bx"}

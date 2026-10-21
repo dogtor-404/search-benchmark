@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "Chicago fireboat sank 1908 refloated", "results": [], "status": "allowed", "tool_use_id": "toolu_01SmnHrHNJkGt3RhYpQNoo6b"}
+{"billable": false, "call": 2, "query": "Illinois fireboat Chicago 1908 sank refloated; Illinois statehood December 3, 1818", "results": [], "status": "allowed", "tool_use_id": "toolu_01E1onQS91MmUXaNRJSFcVYE"}

@@ -1,0 +1,142 @@
+{
+  "answer": "**答案**：stadion（单程跑）和 diaulos（双程跑，即两倍距离赛跑）。\n\n依据：\n- 维基百科 \"Phanas of Pellene\"：他第一个在同一届奥运会上赢得全部三项赛跑——stadion race、double race (Diaulos)、race in full armour (Hoplitodromos)。https://en.wikipedia.org/wiki/Phanas_of_Pellene\n- Olympedia 运动员页面：512 BCE 获 stadion、diaulos、hoplite race 三金。https://www.olympedia.org/athletes/2800664",
+  "budget_denials": [],
+  "elapsed_seconds": 7.208,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0272904,
+      "inputTokens": 5511,
+      "maxOutputTokens": 32000,
+      "outputTokens": 238,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "simpleqa_verified-813",
+  "raw": "jsonl/D2_prime/simpleqa_verified-813.jsonl",
+  "reported_cost_usd": 0.0272904,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6577,
+      "query": "Phanas of Pellene Olympics 512 BCE hoplitodromos events won",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia",
+          "url": "https://www.olympedia.org/athletes/2800664"
+        },
+        {
+          "date": "2023-02-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fanas dari Pellene - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Fanas_dari_Pellene?wprov=rarw1"
+        },
+        {
+          "date": "2015-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Phanas of Pellene - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phanas_of_Pellene"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia – Pellene in Ancient Athletics",
+          "url": "https://www.olympedia.org/countries/PEL/sports/AAT.5"
+        },
+        {
+          "date": "2017-08-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Phanas de Pellène — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Phanas_de_Pell%C3%A8ne"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympedia – Medal winners Olympia 512 BCE",
+          "url": "http://www.olympedia.org/editions/144/medal"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympic stadion victor 512 BCE",
+          "url": "https://topostext.org/people/17905"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "45 Xenophon / with an Engl",
+          "url": "http://phedss.fsfv-pr.rs/issue/Vol-8-No-1-2021/v8n1sw32021.pdf#4#3"
+        },
+        {
+          "date": "2016-08-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Broadcasting from Ancient Olympia - Greece Is",
+          "url": "https://www.greece-is.com/broadcasting-ancient-olympia/"
+        },
+        {
+          "date": "2012-07-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Olympia - Olympia",
+          "url": "https://www.worldhistory.org/timeline/Olympia/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5511,
+    "iterations": [],
+    "output_tokens": 238,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

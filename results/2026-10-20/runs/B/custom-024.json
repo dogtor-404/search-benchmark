@@ -1,0 +1,154 @@
+{
+  "answer": "COBE 于 **1989 年 11 月 18 日**发射。发射地点是加州范登堡空军基地,使用德尔它(Delta)火箭。\n\n有一处差异:NASA 新闻资料包(press kit)写的发射时间是 1989 年 11 月 17 日太平洋标准时间 06:24。这是当地时间。换算成 UTC 就是 11 月 18 日,所以两种说法并不矛盾。\n\n依据的网址:\n- https://asd.gsfc.nasa.gov/archive/mather/faq/cobe.html(NASA 戈达德,John Mather 的 COBE 常见问题)\n- https://lambda.gsfc.nasa.gov/product/cobe/index.html(NASA LAMBDA)\n- https://science.nasa.gov/wp-content/uploads/2024/06/cobe-press-kit.pdf(NASA 新闻资料包)\n- https://cloud.kepuchina.cn/newSearch/imgText?id=6969160432908423168(科普中国)",
+  "budget_denials": [],
+  "elapsed_seconds": 10.82,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5014,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0248791,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 423,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "custom-024",
+  "raw": "jsonl/B/custom-024.jsonl",
+  "reported_cost_usd": 0.0248791,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6395,
+      "query": "COBE 宇宙背景探测卫星 发射日期",
+      "results": [
+        {
+          "date": "2017-12-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[科普中国]-于山背景探测器卫星",
+          "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=6969160432908423168"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NNSA",
+          "url": "https://science.nasa.gov/wp-content/uploads/2024/06/cobe-press-kit.pdf?emrc=6739e43e145c5#2#1"
+        },
+        {
+          "date": "2013-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "John Mather :: COBE",
+          "url": "https://asd.gsfc.nasa.gov/archive/mather/cobe/#content"
+        },
+        {
+          "date": "2018-11-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "宇宙背景探测器 - 图文",
+          "url": "https://cloud.kepuchina.cn/search/imgText?id=444724#1"
+        },
+        {
+          "date": "2013-04-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "John Mather :: FAQ :: COBE",
+          "url": "https://asd.gsfc.nasa.gov/archive/mather/faq/cobe.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Aeronautics and Space Administration",
+          "url": "https://lambda.gsfc.nasa.gov/product/cobe/index.html"
+        },
+        {
+          "date": "2002-09-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Infrared measurements from the Cosmic Background Explorer (COBE)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/1350449594900914"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BCCP",
+          "url": "https://aether.lbl.gov/bccp/cobehome.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COBE",
+          "url": "https://www.mpp.mpg.de/~mazin/CIB_measurements_theory/text7.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "COBE",
+          "url": "https://aether.lbl.gov/www/projects/cobe/index.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5014,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5014,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 3171,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 3171,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 348,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 423,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

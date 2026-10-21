@@ -1,0 +1,98 @@
+{
+  "answer": "Phanas of Pellene also won the **stadion** (the single-length foot race) and the **diaulos** (the double-length race) at the Olympics of 512 BCE (the 65th Olympiad). Together with the hoplitodromos, that gave him all three races.\n\nWikipedia says he was the first to win all three. Olympedia lists him as gold medalist in the Stadion, the Diaulos and the Race in Armor at the 512 BCE Games. One search result said the question gave the date as 521 BCE, but the question says 512 BCE, which matches the sources.\n\nSources:\n- [Phanas of Pellene – Wikipedia](https://en.wikipedia.org/wiki/Phanas_of_Pellene)\n- [Olympedia – Pellene, 512 BCE edition](https://www.olympedia.org/countries/PEL/editions/144)",
+  "budget_denials": [],
+  "elapsed_seconds": 15.755,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115685,
+      "inputTokens": 13140,
+      "maxOutputTokens": 128000,
+      "outputTokens": 509,
+      "provider": "firstParty",
+      "thinkingTokens": 114,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2778,
+      "cacheReadInputTokens": 6768,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0178568,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 606,
+      "provider": "firstParty",
+      "thinkingTokens": 219,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "simpleqa_verified-813",
+  "raw": "jsonl/A/simpleqa_verified-813.jsonl",
+  "reported_cost_usd": 0.0294253,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Phanas of Pellene Olympic victor 512 BCE hoplitodromos two other events",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JVkrv5ZpHscAwXtzvNAqZy"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2778,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2778,
+    "cache_read_input_tokens": 6768,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 912,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 912,
+        "cache_read_input_tokens": 4317,
+        "input_tokens": 2,
+        "output_tokens": 504,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 606,
+    "output_tokens_details": {
+      "thinking_tokens": 219
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

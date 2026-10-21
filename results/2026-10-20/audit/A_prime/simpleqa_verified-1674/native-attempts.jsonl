@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "Richard Serra first outdoor sculptures country", "results": [], "status": "allowed", "tool_use_id": "toolu_01KxngtLobEKVkYtUjs2r42h"}
+{"billable": false, "call": 2, "query": "\"Serra\" \"first outdoor\" sculpture Japan OR Netherlands OR Canada 1970", "results": [], "status": "allowed", "tool_use_id": "toolu_01D6GAYbDDQJoSgaP6Kr2nrd"}

@@ -1,0 +1,470 @@
+{
+  "answer": "大约 **49,886 kg**。Apollo 13 那个数没在搜索结果里查到，所以这个答案不算完全确认。\n\n**每次任务的数**（整艘飞船在发射时的质量，含发射逃逸系统和登月舱适配器，不含土星五号火箭）：\n\n| 任务 | 发射质量 | 出处 |\n|---|---|---|\n| Apollo 11 | 109,646 lb（49,735 kg） | Apollo 12 词条里有一句对比（见下）；Wikimedia Commons 给的是 49,734.6 kg |\n| Apollo 12 | 110,044 lb（49,915 kg） | 英文 Wikipedia Apollo 12 词条；Commons 给的是 49,915.12 kg |\n| Apollo 13 | 110,252 lb（约 50,009 kg） | **没查到**。这是我凭记忆写的，来自英文 Wikipedia 信息框和 Orloff 的 NASA 统计表 |\n\n**算法**：三次合计 329,942 lb，平均 109,980.7 lb，换算成 **49,886 kg**。如果先把每个数四舍五入到整千克再平均，得 49,887 kg。\n\n**要注意两点**：\n- Apollo 13 的数我没核实。它变一点，平均值就跟着变。\n- 还有一种算法不把发射逃逸系统和适配器算进去，旧版 Wikipedia 用的就是这种。按它算，Apollo 11 是 45,702 kg，Apollo 12 是 45,870 kg，平均值会低大约 4 吨。Apollo 13 按这种算法的数也没查到。\n\n**依据的网址**：\n- https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Apollo_12 （原文：\"the spacecraft weighed 110,044 pounds (49,915 kg), up from 109,646 pounds (49,735 kg) on Apollo 11\"）\n- https://commons.wikimedia.org/wiki/Category:Apollo_11 （49,734.6 kg）\n- https://commons.m.wikimedia.org/wiki/Category:Apollo_12 （49,915.12 kg）\n- 另一种算法的数：https://web.archive.org/web/20230226161855/https://simple.wikipedia.org/wiki/Apollo_11 （Apollo 11 是 45,702 kg）；https://si.wikipedia.org/wiki/Apollo_12 （Apollo 12 是 45,870 kg）\n\n5 次搜索已经用完。",
+  "budget_denials": [],
+  "elapsed_seconds": 31.982,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 51508,
+      "cacheReadInputTokens": 35931,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.4624542,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2159,
+      "provider": "firstParty",
+      "thinkingTokens": 907,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "frames-394",
+  "raw": "jsonl/B_prime/frames-394.jsonl",
+  "reported_cost_usd": 0.4624542,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7725,
+      "query": "Apollo 11 launch mass kg Wikipedia spacecraft",
+      "results": [
+        {
+          "date": "2011-02-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110219233211/http://en.wikipedia.org/wiki/Apollo_11#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Apollo 11",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Apollo_11#1"
+        },
+        {
+          "date": "2019-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DLR - 50th anniversary of Apollo 11",
+          "url": "https://www.dlr.de/en/latest/news/2019/03/20190716_50th-anniversary-of-apollo-11/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Г",
+          "url": "http://engjournal.ru/articles/2239/2239.pdf#4#4"
+        },
+        {
+          "date": "2021-04-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikipedia:Featured article candidates/Featured log/March 2021 - Wikipedia - - weighed 6,487,742 pounds (2,942,790 kg) at launch, an increase from Apollo 11's 6,477,875 pounds (2,938,315 kg)",
+          "url": "https://en.m.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Featured_log/March_2021#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apolo 11 - Anónimo",
+          "url": "https://www.ecured.cu/index.php?title=Apolo_11&oldid=2981232&printable=yes#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| MSFC 76545   | High fidelity mockup    | U",
+          "url": "http://www.boeing.com/defense-space/space/apollo11/docs/50th_Anniversary.pdf#11#4"
+        },
+        {
+          "date": "2017-02-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Apollo 11",
+          "url": "http://wayback.archive-it.org/org-660/20170316025730/https://en.wikipedia.org/wiki/Apollo_11#1"
+        },
+        {
+          "date": "2019-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Walking on the Moon again? - Royal Aeronautical Society",
+          "url": "https://www.aerosociety.com/news/walking-on-the-moon-again#1"
+        },
+        {
+          "date": "2023-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Category:Apollo 11 - Wikimedia Commons - Category:Apollo 11",
+          "url": "https://commons.wikimedia.org/wiki/Category:Apollo_11?uselang=it#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7793,
+      "query": "Apollo 12 launch mass kg Wikipedia",
+      "results": [
+        {
+          "date": "2013-09-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 12 - Apollo 12",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20130917145803/https://en.wikipedia.org/wiki/Apollo_12#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 12 - Apollo 12",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Apollo_12#1"
+        },
+        {
+          "date": "2004-09-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アポロ12号 - Wikipedia - アポロ12号",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD12%E5%8F%B7#1"
+        },
+        {
+          "date": "2023-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Category:Apollo 12 - Wikimedia Commons - Category:Apollo 12",
+          "url": "https://commons.m.wikimedia.org/wiki/Category:Apollo_12#1"
+        },
+        {
+          "date": "2024-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "阿波罗12号_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E9%98%BF%E6%B3%A2%E7%BD%9712%E5%8F%B7/6213928?fromModule=tashuo-article_bottom-lemma"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| MSFC 76545   | High fidelity mockup    | U",
+          "url": "http://www.boeing.com/defense-space/space/apollo11/docs/50th_Anniversary.pdf#11#4"
+        },
+        {
+          "date": "2024-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ඇපලෝ 12 - විකිපීඩියා",
+          "url": "https://si.wikipedia.org/wiki/Apollo_12"
+        },
+        {
+          "date": "2013-01-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 12 - Apollo 12",
+          "url": "https://wayback.qa-archive-it.org/all/20130131083244/http://en.wikipedia.org/wiki/Apollo_12#1"
+        },
+        {
+          "date": "2024-02-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Engineering:Apollo 12 - Anonymous",
+          "url": "https://handwiki.org/wiki/Engineering:Apollo_12#Crew#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Revision 0d604584-20f2-4ba1-9521-ce949a10bd42",
+          "url": "https://space.stackexchange.com/revisions/0d604584-20f2-4ba1-9521-ce949a10bd42/view-source"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6888,
+      "query": "Apollo 13 launch mass kg Wikipedia",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 13",
+          "url": "https://raumfahrtmissionen.dlr.de/programme/europaeische-missionen?view=article&id=25:apollo-13&catid=13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://en.wikipedia.org/wiki/Apollo_13?action=raw#5"
+        },
+        {
+          "date": "2020-04-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BBC Radio 4 - Today - Today Puzzle #720",
+          "url": "https://www.bbc.co.uk/programmes/articles/4dCw6LCGgKVP5S9tCFP3S37/today-puzzle-720"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 13 - Apollo 13",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_top_maxi/Apollo_13#1"
+        },
+        {
+          "date": "2025-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Aprender datos sobre Apolo 13 para niños - Apolo 13 para niños",
+          "url": "https://ninos.kiddle.co/Apolo_13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apolo 13 - Anónimo",
+          "url": "http://www.ecured.cu/index.php?title=Apolo_13&oldid=2056536&printable=yes#1"
+        },
+        {
+          "date": "2004-12-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アポロ13号 - Wikipedia - アポロ13号",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD13%E5%8F%B7#1"
+        },
+        {
+          "date": "2024-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Category:Saturn V - Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Saturn_V#mw-subcategories"
+        },
+        {
+          "date": "2026-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "阿波罗13号",
+          "url": "https://baike.baidu.com/item/%E9%98%BF%E6%B3%A2%E7%BD%9713%E5%8F%B7/3965?bst=1791290585.fd74847429e97042#2"
+        },
+        {
+          "date": "2026-05-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Engineering:Apollo 13 - Anonymous",
+          "url": "https://handwiki.org/wiki/Engineering:Apollo_13#Spacecraft_location#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.6841,
+      "query": "Apollo 13 \"launch mass\" pounds kg infobox 45,931",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 13 - Apollo 13",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_top_maxi/Apollo_13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 13 - Mission type | Crewed lunar landing attempt (H)",
+          "url": "https://library.kiwix.org/content/wikipedia_en_all_maxi/A/Apollo_13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://en.wikipedia.org/wiki/Apollo_13?action=raw#5"
+        },
+        {
+          "date": "2025-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Aprender datos sobre Apolo 13 para niños - Apolo 13 para niños",
+          "url": "https://ninos.kiddle.co/Apolo_13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Selected Mission Weights",
+          "url": "http://apolloproject.com/sp-4029/Apollo_18-37_Selected_Mission_Weights.htm"
+        },
+        {
+          "date": "2020-04-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BBC Radio 4 - Today - Today Puzzle #720",
+          "url": "https://www.bbc.co.uk/programmes/articles/4dCw6LCGgKVP5S9tCFP3S37/today-puzzle-720"
+        },
+        {
+          "date": "2004-12-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アポロ13号 - Wikipedia - アポロ13号",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD13%E5%8F%B7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Revision 0d604584-20f2-4ba1-9521-ce949a10bd42",
+          "url": "https://space.stackexchange.com/revisions/0d604584-20f2-4ba1-9521-ce949a10bd42/view-source"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Launch Vehicle",
+          "url": "http://apolloproject.com/sp-4029/Apollo_18-13_Launch_Vehicle-Spacecraft_Key_Facts.htm"
+        },
+        {
+          "date": "2020-01-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "অ্যাপোলো ১৩ - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20200613092954/https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%8B%E0%A6%B2%E0%A7%8B_%E0%A7%A7%E0%A7%A9#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.887,
+      "query": "Apollo 11 \"launch mass\" \"100,756 pounds\" 45,702 kg",
+      "results": [
+        {
+          "date": "2017-02-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Apollo 11",
+          "url": "http://wayback.archive-it.org/org-660/20170316025730/https://en.wikipedia.org/wiki/Apollo_11#1"
+        },
+        {
+          "date": "2016-11-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "APOLLO 11",
+          "url": "https://prezi.com/yzmtztdqgesb/apollo-11/"
+        },
+        {
+          "date": "2008-07-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Simple English Wikipedia, the free encyclopedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20230226161855/https://simple.wikipedia.org/wiki/Apollo_11#1"
+        },
+        {
+          "date": "2019-07-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50 Year Anniversary for Apollo 11! - Real World Aviation - Infinite Flight Community",
+          "url": "https://community.infiniteflight.com/t/50-year-anniversary-for-apollo-11/340200#main-container"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Apollo 11",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Apollo_11#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "领英上的LUX Space Science & Technology - LSS: Apollo11Launch",
+          "url": "https://www.linkedin.com/posts/luxspacescience_apollo11launch-activity-7086396319472246784-xUtT"
+        },
+        {
+          "date": "2020-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Wikiwand - Wikiwand AI",
+          "url": "https://www.wikiwand.com/en/Apollo_11#1"
+        },
+        {
+          "date": "2020-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Wikiwand - Apollo 11",
+          "url": "https://www.wikiwand.com/en/articles/1969_Moon_landing#1"
+        },
+        {
+          "date": "2001-09-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apollo 11 - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20240310103914/https://en.wikipedia.org/wiki/Apollo_11#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Ignition masses [kg]** & **Apollo 11** & **Apollo 12** & **Apollo 13** & **Apollo 14** & **Apollo 15** & **Apollo 16** & **Apo...",
+          "url": "https://rc.library.uta.edu/uta-ir/bitstream/handle/10106/27294/COLEY-DISSERTATION-2017.pdf?sequence=1&isAllowed=y#38#18"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 51508,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 51508,
+    "cache_read_input_tokens": 35931,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 23447,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 23447,
+        "cache_read_input_tokens": 30065,
+        "input_tokens": 2,
+        "output_tokens": 1468,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 2159,
+    "output_tokens_details": {
+      "thinking_tokens": 907
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

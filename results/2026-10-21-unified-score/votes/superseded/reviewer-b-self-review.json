@@ -1,0 +1,13 @@
+{
+  "changed_at": "2026-10-21T09:52:01.786026+08:00",
+  "reason": "B在未见前票或组别的独立自检中，将“不要当作确切答案”视为确定性免责声明而非最终撤回；已保留发布前原票与其收据。",
+  "changes": [
+    {
+      "id": "578f403cbf1b477f9fe0f13c630afe7f",
+      "before": "withdrawn_answer",
+      "after": "submitted_answer"
+    }
+  ],
+  "old_published_adjudications_retained": true,
+  "new_final_uses_current_independent_vote": true
+}

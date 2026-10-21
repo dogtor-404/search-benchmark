@@ -1,0 +1,2465 @@
+{
+  "cohorts": {
+    "first": {
+      "classification_groups": {
+        "0": {
+          "all_questions": 92,
+          "category_counts": {
+            "confident_incorrect_assertion": 1,
+            "explicit_abstention": 19,
+            "hedged_or_withdrawn_guess": 12,
+            "incomplete_answer": 0
+          },
+          "confident_incorrect_percent_all_questions": 1.0869565217391304,
+          "model": "Sonnet 不搜索",
+          "original_incorrect": 32
+        },
+        "0_prime": {
+          "all_questions": 92,
+          "category_counts": {
+            "confident_incorrect_assertion": 0,
+            "explicit_abstention": 14,
+            "hedged_or_withdrawn_guess": 5,
+            "incomplete_answer": 0
+          },
+          "confident_incorrect_percent_all_questions": 0.0,
+          "model": "Opus 不搜索",
+          "original_incorrect": 19
+        },
+        "D0": {
+          "all_questions": 92,
+          "category_counts": {
+            "confident_incorrect_assertion": 3,
+            "explicit_abstention": 15,
+            "hedged_or_withdrawn_guess": 12,
+            "incomplete_answer": 0
+          },
+          "confident_incorrect_percent_all_questions": 3.260869565217391,
+          "model": "Flash 不搜索",
+          "original_incorrect": 30
+        },
+        "D0_prime": {
+          "all_questions": 92,
+          "category_counts": {
+            "confident_incorrect_assertion": 6,
+            "explicit_abstention": 18,
+            "hedged_or_withdrawn_guess": 5,
+            "incomplete_answer": 1
+          },
+          "confident_incorrect_percent_all_questions": 6.521739130434782,
+          "model": "Pro 不搜索",
+          "original_incorrect": 30
+        }
+      },
+      "comparisons": {
+        "high_deepseek_search_models": {
+          "a": "D2_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Pro + DeepSeek 搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.043478260869565216,
+              0.2391304347826087
+            ],
+            "draws": 10000,
+            "estimate": 0.14130434782608695,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.14130434782608695,
+          "mean_difference_upper": 0.14130434782608695,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "high_no_search": {
+          "a": "D0_prime",
+          "b": "0_prime",
+          "direction": "Opus 不搜索 减 Pro 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.32608695652173914,
+              1.326086956521739
+            ],
+            "draws": 10000,
+            "estimate": 0.7934782608695652,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.7934782608695652,
+          "mean_difference_upper": 0.7934782608695652,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_A": {
+          "a": "0",
+          "b": "A",
+          "direction": "Sonnet 原生搜索 减 Sonnet 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.6086956521739131,
+              1.923913043478261
+            ],
+            "draws": 10000,
+            "estimate": 1.25,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 1.25,
+          "mean_difference_upper": 1.25,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_A_prime": {
+          "a": "0_prime",
+          "b": "A_prime",
+          "direction": "Opus 原生搜索 减 Opus 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.17391304347826086,
+              1.108695652173913
+            ],
+            "draws": 10000,
+            "estimate": 0.6304347826086957,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.6304347826086957,
+          "mean_difference_upper": 0.6304347826086957,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_B": {
+          "a": "0",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Sonnet 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.3043478260869565,
+              2.5434782608695654
+            ],
+            "draws": 10000,
+            "estimate": 1.9130434782608696,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 1.9130434782608696,
+          "mean_difference_upper": 1.9130434782608696,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_B_prime": {
+          "a": "0_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Opus 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.5434782608695652,
+              1.5434782608695652
+            ],
+            "draws": 10000,
+            "estimate": 1.0217391304347827,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 1.0217391304347827,
+          "mean_difference_upper": 1.0217391304347827,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_D2": {
+          "a": "D0",
+          "b": "D2",
+          "direction": "Flash + DeepSeek 搜索 减 Flash 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.75,
+              2.0760869565217392
+            ],
+            "draws": 10000,
+            "estimate": 1.4021739130434783,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 1.4021739130434783,
+          "mean_difference_upper": 1.4021739130434783,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_D2_prime": {
+          "a": "D0_prime",
+          "b": "D2_prime",
+          "direction": "Pro + DeepSeek 搜索 减 Pro 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.0869565217391304,
+              2.2934782608695654
+            ],
+            "draws": 10000,
+            "estimate": 1.673913043478261,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 1.673913043478261,
+          "mean_difference_upper": 1.673913043478261,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "mid_deepseek_search_models": {
+          "a": "D2",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Flash + DeepSeek 搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.2391304347826087,
+              0.6195652173913043
+            ],
+            "draws": 10000,
+            "estimate": 0.40217391304347827,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.40217391304347827,
+          "mean_difference_upper": 0.40217391304347827,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "mid_no_search": {
+          "a": "D0",
+          "b": "0",
+          "direction": "Sonnet 不搜索 减 Flash 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              -0.6847826086956522,
+              0.45652173913043476
+            ],
+            "draws": 10000,
+            "estimate": -0.10869565217391304,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": -0.10869565217391304,
+          "mean_difference_upper": -0.10869565217391304,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "opus_search": {
+          "a": "A_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Opus 原生搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.21739130434782608,
+              0.5869565217391305
+            ],
+            "draws": 10000,
+            "estimate": 0.391304347826087,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.391304347826087,
+          "mean_difference_upper": 0.391304347826087,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "sonnet_search": {
+          "a": "A",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Sonnet 原生搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.29347826086956524,
+              1.0978260869565217
+            ],
+            "draws": 10000,
+            "estimate": 0.6630434782608695,
+            "n": 92
+          },
+          "known_pairs": 92,
+          "mean_difference_lower": 0.6630434782608695,
+          "mean_difference_upper": 0.6630434782608695,
+          "n_all_pairs": 92,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        }
+      },
+      "confident_error_comparisons": {
+        "high": {
+          "claude_count": 0,
+          "claude_group": "0_prime",
+          "deepseek_count": 6,
+          "deepseek_group": "D0_prime",
+          "difference_percent_deepseek_minus_claude": 6.521739130434782,
+          "mcnemar": {
+            "a_only": 0,
+            "b_only": 6,
+            "p_exact": 0.03125
+          },
+          "n": 92,
+          "paired_bootstrap": {
+            "ci95": [
+              0.021739130434782608,
+              0.11956521739130435
+            ],
+            "draws": 10000,
+            "estimate": 0.06521739130434782,
+            "n": 92
+          }
+        },
+        "mid": {
+          "claude_count": 1,
+          "claude_group": "0",
+          "deepseek_count": 3,
+          "deepseek_group": "D0",
+          "difference_percent_deepseek_minus_claude": 2.1739130434782608,
+          "mcnemar": {
+            "a_only": 1,
+            "b_only": 3,
+            "p_exact": 0.625
+          },
+          "n": 92,
+          "paired_bootstrap": {
+            "ci95": [
+              -0.021739130434782608,
+              0.06521739130434782
+            ],
+            "draws": 10000,
+            "estimate": 0.021739130434782608,
+            "n": 92
+          }
+        }
+      },
+      "excluded_question_ids": [
+        "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e",
+        "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+        "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0",
+        "frames-137",
+        "frames-394",
+        "frames-598",
+        "simpleqa_verified-1129",
+        "simpleqa_verified-1353"
+      ],
+      "groups": {
+        "0": {
+          "correct_percent": 65.21739130434783,
+          "mean_lower": 2.869565217391304,
+          "mean_upper": 2.869565217391304,
+          "n": 92,
+          "name": "Sonnet 不搜索",
+          "original_correct": 60,
+          "original_incorrect": 32,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 60,
+            "incorrect_submitted": 12,
+            "no_answer": 19,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 460,
+          "total_lower": 264,
+          "total_upper": 264,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "0_prime": {
+          "correct_percent": 79.34782608695652,
+          "mean_lower": 3.8043478260869565,
+          "mean_upper": 3.8043478260869565,
+          "n": 92,
+          "name": "Opus 不搜索",
+          "original_correct": 73,
+          "original_incorrect": 19,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 73,
+            "incorrect_submitted": 5,
+            "no_answer": 14,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 460,
+          "total_lower": 350,
+          "total_upper": 350,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "A": {
+          "correct_percent": 94.56521739130434,
+          "mean_lower": 4.119565217391305,
+          "mean_upper": 4.119565217391305,
+          "n": 92,
+          "name": "Sonnet 原生搜索",
+          "original_correct": 87,
+          "original_incorrect": 5,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 87,
+            "incorrect_submitted": 3,
+            "no_answer": 1,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 139,
+          "search_penalty_total": 47,
+          "theoretical_max_total": 460,
+          "total_lower": 379,
+          "total_upper": 379,
+          "zero_point_answers_with_search_penalty": 2
+        },
+        "A_prime": {
+          "correct_percent": 100.0,
+          "mean_lower": 4.434782608695652,
+          "mean_upper": 4.434782608695652,
+          "n": 92,
+          "name": "Opus 原生搜索",
+          "original_correct": 92,
+          "original_incorrect": 0,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 92,
+            "incorrect_submitted": 0,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 144,
+          "search_penalty_total": 52,
+          "theoretical_max_total": 460,
+          "total_lower": 408,
+          "total_upper": 408,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "B": {
+          "correct_percent": 100.0,
+          "mean_lower": 4.782608695652174,
+          "mean_upper": 4.782608695652174,
+          "n": 92,
+          "name": "Sonnet + DeepSeek 搜索",
+          "original_correct": 92,
+          "original_incorrect": 0,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 92,
+            "incorrect_submitted": 0,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 112,
+          "search_penalty_total": 20,
+          "theoretical_max_total": 460,
+          "total_lower": 440,
+          "total_upper": 440,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "B_prime": {
+          "correct_percent": 100.0,
+          "mean_lower": 4.826086956521739,
+          "mean_upper": 4.826086956521739,
+          "n": 92,
+          "name": "Opus + DeepSeek 搜索",
+          "original_correct": 92,
+          "original_incorrect": 0,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 92,
+            "incorrect_submitted": 0,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 108,
+          "search_penalty_total": 16,
+          "theoretical_max_total": 460,
+          "total_lower": 444,
+          "total_upper": 444,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D0": {
+          "correct_percent": 67.3913043478261,
+          "mean_lower": 2.9782608695652173,
+          "mean_upper": 2.9782608695652173,
+          "n": 92,
+          "name": "Flash 不搜索",
+          "original_correct": 62,
+          "original_incorrect": 30,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 62,
+            "incorrect_submitted": 12,
+            "no_answer": 15,
+            "pending_submitted": 0,
+            "withdrawn_answer": 3
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 460,
+          "total_lower": 274,
+          "total_upper": 274,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D0_prime": {
+          "correct_percent": 67.3913043478261,
+          "mean_lower": 3.010869565217391,
+          "mean_upper": 3.010869565217391,
+          "n": 92,
+          "name": "Pro 不搜索",
+          "original_correct": 62,
+          "original_incorrect": 30,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 62,
+            "incorrect_submitted": 11,
+            "no_answer": 18,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 460,
+          "total_lower": 277,
+          "total_upper": 277,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D2": {
+          "correct_percent": 98.91304347826087,
+          "mean_lower": 4.380434782608695,
+          "mean_upper": 4.380434782608695,
+          "n": 92,
+          "name": "Flash + DeepSeek 搜索",
+          "original_correct": 91,
+          "original_incorrect": 1,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 91,
+            "incorrect_submitted": 1,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 141,
+          "search_penalty_total": 49,
+          "theoretical_max_total": 460,
+          "total_lower": 403,
+          "total_upper": 403,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D2_prime": {
+          "correct_percent": 100.0,
+          "mean_lower": 4.684782608695652,
+          "mean_upper": 4.684782608695652,
+          "n": 92,
+          "name": "Pro + DeepSeek 搜索",
+          "original_correct": 92,
+          "original_incorrect": 0,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 92,
+            "incorrect_submitted": 0,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 121,
+          "search_penalty_total": 29,
+          "theoretical_max_total": 460,
+          "total_lower": 431,
+          "total_upper": 431,
+          "zero_point_answers_with_search_penalty": 0
+        }
+      },
+      "question_ids": [
+        "chinese_simpleqa-0263fcd74bad4fb6b9811c2540e50860",
+        "chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818",
+        "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0",
+        "chinese_simpleqa-1373e5c4d426417396e5276dec689475",
+        "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+        "chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0",
+        "chinese_simpleqa-2268a30af11c4effa809af8938ffe230",
+        "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+        "chinese_simpleqa-419bdcaba9f54bacb8e1323cbfc665d9",
+        "chinese_simpleqa-509bdfb6311d4592922300868340a953",
+        "chinese_simpleqa-5444d485297d4543bf8d66410d93f548",
+        "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+        "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa",
+        "chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705",
+        "chinese_simpleqa-64a8963506a241fcbe6eb050ed94698d",
+        "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+        "chinese_simpleqa-80297db596eb4d8fb4b424e8e50b37a23",
+        "chinese_simpleqa-889bed80a63e481d915d9bd3851a518e",
+        "chinese_simpleqa-895c7ef8d236430a99844acfee258323",
+        "chinese_simpleqa-a9a9238c15294bfba397016c122f7479",
+        "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+        "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8",
+        "custom-001",
+        "custom-002",
+        "custom-003",
+        "custom-004",
+        "custom-005",
+        "custom-006",
+        "custom-007",
+        "custom-008",
+        "custom-009",
+        "custom-010",
+        "custom-011",
+        "custom-012",
+        "custom-013",
+        "custom-014",
+        "custom-015",
+        "custom-016",
+        "custom-017",
+        "custom-018",
+        "custom-019",
+        "custom-020",
+        "custom-021",
+        "custom-022",
+        "custom-023",
+        "custom-024",
+        "custom-025",
+        "frames-291",
+        "frames-366",
+        "frames-39",
+        "frames-396",
+        "frames-475",
+        "frames-513",
+        "frames-520",
+        "frames-548",
+        "frames-564",
+        "frames-656",
+        "frames-732",
+        "frames-808",
+        "news-001",
+        "news-002",
+        "news-003",
+        "news-004",
+        "news-005",
+        "news-006",
+        "news-007",
+        "news-008",
+        "news-009",
+        "news-010",
+        "simpleqa_verified-1212",
+        "simpleqa_verified-1221",
+        "simpleqa_verified-1419",
+        "simpleqa_verified-151",
+        "simpleqa_verified-1674",
+        "simpleqa_verified-1753",
+        "simpleqa_verified-185",
+        "simpleqa_verified-2095",
+        "simpleqa_verified-2116",
+        "simpleqa_verified-2151",
+        "simpleqa_verified-2180",
+        "simpleqa_verified-2209",
+        "simpleqa_verified-2668",
+        "simpleqa_verified-3011",
+        "simpleqa_verified-3137",
+        "simpleqa_verified-3173",
+        "simpleqa_verified-3218",
+        "simpleqa_verified-3515",
+        "simpleqa_verified-3667",
+        "simpleqa_verified-706",
+        "simpleqa_verified-716",
+        "simpleqa_verified-813",
+        "simpleqa_verified-829"
+      ],
+      "questions_per_group": 92
+    },
+    "second": {
+      "classification_groups": {
+        "0": {
+          "all_questions": 95,
+          "category_counts": {
+            "confident_incorrect_assertion": 3,
+            "explicit_abstention": 23,
+            "hedged_or_withdrawn_guess": 26,
+            "incomplete_answer": 1
+          },
+          "confident_incorrect_percent_all_questions": 3.1578947368421053,
+          "model": "Sonnet 不搜索",
+          "original_incorrect": 53
+        },
+        "0_prime": {
+          "all_questions": 95,
+          "category_counts": {
+            "confident_incorrect_assertion": 1,
+            "explicit_abstention": 10,
+            "hedged_or_withdrawn_guess": 27,
+            "incomplete_answer": 1
+          },
+          "confident_incorrect_percent_all_questions": 1.0526315789473684,
+          "model": "Opus 不搜索",
+          "original_incorrect": 39
+        },
+        "D0": {
+          "all_questions": 95,
+          "category_counts": {
+            "confident_incorrect_assertion": 15,
+            "explicit_abstention": 14,
+            "hedged_or_withdrawn_guess": 29,
+            "incomplete_answer": 1
+          },
+          "confident_incorrect_percent_all_questions": 15.789473684210526,
+          "model": "Flash 不搜索",
+          "original_incorrect": 59
+        },
+        "D0_prime": {
+          "all_questions": 95,
+          "category_counts": {
+            "confident_incorrect_assertion": 20,
+            "explicit_abstention": 16,
+            "hedged_or_withdrawn_guess": 16,
+            "incomplete_answer": 1
+          },
+          "confident_incorrect_percent_all_questions": 21.05263157894737,
+          "model": "Pro 不搜索",
+          "original_incorrect": 53
+        }
+      },
+      "comparisons": {
+        "high_deepseek_search_models": {
+          "a": "D2_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Pro + DeepSeek 搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.6421052631578947,
+              1.6526315789473685
+            ],
+            "draws": 10000,
+            "estimate": 1.1157894736842104,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 1.1157894736842104,
+          "mean_difference_upper": 1.1157894736842104,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "high_no_search": {
+          "a": "D0_prime",
+          "b": "0_prime",
+          "direction": "Opus 不搜索 减 Pro 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.4105263157894737,
+              1.768421052631579
+            ],
+            "draws": 10000,
+            "estimate": 1.0842105263157895,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 1.0842105263157895,
+          "mean_difference_upper": 1.0842105263157895,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_A": {
+          "a": "0",
+          "b": "A",
+          "direction": "Sonnet 原生搜索 减 Sonnet 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              -0.4,
+              1.2421052631578948
+            ],
+            "draws": 10000,
+            "estimate": 0.43157894736842106,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 0.43157894736842106,
+          "mean_difference_upper": 0.43157894736842106,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_A_prime": {
+          "a": "0_prime",
+          "b": "A_prime",
+          "direction": "Opus 原生搜索 减 Opus 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              -0.25263157894736843,
+              1.2947368421052632
+            ],
+            "draws": 10000,
+            "estimate": 0.5157894736842106,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 0.5157894736842106,
+          "mean_difference_upper": 0.5157894736842106,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_B": {
+          "a": "0",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Sonnet 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.5473684210526315,
+              3.0210526315789474
+            ],
+            "draws": 10000,
+            "estimate": 2.305263157894737,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 2.305263157894737,
+          "mean_difference_upper": 2.305263157894737,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_B_prime": {
+          "a": "0_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Opus 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.3894736842105264,
+              2.905263157894737
+            ],
+            "draws": 10000,
+            "estimate": 2.1473684210526316,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 2.1473684210526316,
+          "mean_difference_upper": 2.1473684210526316,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_D2": {
+          "a": "D0",
+          "b": "D2",
+          "direction": "Flash + DeepSeek 搜索 减 Flash 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.4,
+              3.136842105263158
+            ],
+            "draws": 10000,
+            "estimate": 2.2842105263157895,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 2.2842105263157895,
+          "mean_difference_upper": 2.2842105263157895,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "lift_D2_prime": {
+          "a": "D0_prime",
+          "b": "D2_prime",
+          "direction": "Pro + DeepSeek 搜索 减 Pro 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.263157894736842,
+              2.9368421052631577
+            ],
+            "draws": 10000,
+            "estimate": 2.1157894736842104,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 2.1157894736842104,
+          "mean_difference_upper": 2.1157894736842104,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "mid_deepseek_search_models": {
+          "a": "D2",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Flash + DeepSeek 搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.42105263157894735,
+              1.1473684210526316
+            ],
+            "draws": 10000,
+            "estimate": 0.8105263157894737,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 0.8105263157894737,
+          "mean_difference_upper": 0.8105263157894737,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "mid_no_search": {
+          "a": "D0",
+          "b": "0",
+          "direction": "Sonnet 不搜索 减 Flash 不搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              0.11578947368421053,
+              1.4842105263157894
+            ],
+            "draws": 10000,
+            "estimate": 0.7894736842105263,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 0.7894736842105263,
+          "mean_difference_upper": 0.7894736842105263,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "opus_search": {
+          "a": "A_prime",
+          "b": "B_prime",
+          "direction": "Opus + DeepSeek 搜索 减 Opus 原生搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.0421052631578946,
+              2.305263157894737
+            ],
+            "draws": 10000,
+            "estimate": 1.631578947368421,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 1.631578947368421,
+          "mean_difference_upper": 1.631578947368421,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        },
+        "sonnet_search": {
+          "a": "A",
+          "b": "B",
+          "direction": "Sonnet + DeepSeek 搜索 减 Sonnet 原生搜索",
+          "known_pair_bootstrap": {
+            "ci95": [
+              1.0210526315789474,
+              2.7263157894736842
+            ],
+            "draws": 10000,
+            "estimate": 1.8736842105263158,
+            "n": 95
+          },
+          "known_pairs": 95,
+          "mean_difference_lower": 1.8736842105263158,
+          "mean_difference_upper": 1.8736842105263158,
+          "n_all_pairs": 95,
+          "note": "连续分数差采用按题配对bootstrap，10000次；只用双方得分均已确定的题。全题差上下界来自原待核，非置信区间。不使用McNemar给连续分数差检验。"
+        }
+      },
+      "confident_error_comparisons": {
+        "high": {
+          "claude_count": 1,
+          "claude_group": "0_prime",
+          "deepseek_count": 20,
+          "deepseek_group": "D0_prime",
+          "difference_percent_deepseek_minus_claude": 20.0,
+          "mcnemar": {
+            "a_only": 0,
+            "b_only": 19,
+            "p_exact": 3.814697265625e-06
+          },
+          "n": 95,
+          "paired_bootstrap": {
+            "ci95": [
+              0.12631578947368421,
+              0.28421052631578947
+            ],
+            "draws": 10000,
+            "estimate": 0.2,
+            "n": 95
+          }
+        },
+        "mid": {
+          "claude_count": 3,
+          "claude_group": "0",
+          "deepseek_count": 15,
+          "deepseek_group": "D0",
+          "difference_percent_deepseek_minus_claude": 12.631578947368421,
+          "mcnemar": {
+            "a_only": 3,
+            "b_only": 15,
+            "p_exact": 0.007537841796875
+          },
+          "n": 95,
+          "paired_bootstrap": {
+            "ci95": [
+              0.042105263157894736,
+              0.21052631578947367
+            ],
+            "draws": 10000,
+            "estimate": 0.12631578947368421,
+            "n": 95
+          }
+        }
+      },
+      "excluded_question_ids": [
+        "msqa-ES-35",
+        "msqa-ES-37",
+        "msqa-ES-51",
+        "msqa-ES-56",
+        "msqa-ES-67",
+        "msqa-ID-07",
+        "msqa-ID-33",
+        "msqa-ID-70",
+        "msqa-KO-52",
+        "msqa-KO-76",
+        "msqa-KO-85",
+        "msqa-KO-90",
+        "msqa-KO-91",
+        "msqa-RU-01",
+        "msqa-RU-04",
+        "msqa-RU-19",
+        "msqa-RU-24",
+        "msqa-RU-31",
+        "msqa-RU-89",
+        "msqa-TH-08",
+        "msqa-TH-100",
+        "msqa-TH-40",
+        "msqa-TH-76",
+        "msqa-TH-80",
+        "msqa-TH-85"
+      ],
+      "groups": {
+        "0": {
+          "correct_percent": 44.21052631578947,
+          "mean_lower": 1.4842105263157894,
+          "mean_upper": 1.4842105263157894,
+          "n": 95,
+          "name": "Sonnet 不搜索",
+          "original_correct": 42,
+          "original_incorrect": 53,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 42,
+            "incorrect_submitted": 23,
+            "no_answer": 25,
+            "pending_submitted": 0,
+            "withdrawn_answer": 5
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 475,
+          "total_lower": 141,
+          "total_upper": 141,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "0_prime": {
+          "correct_percent": 58.94736842105263,
+          "mean_lower": 2.1578947368421053,
+          "mean_upper": 2.1578947368421053,
+          "n": 95,
+          "name": "Opus 不搜索",
+          "original_correct": 56,
+          "original_incorrect": 39,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 56,
+            "incorrect_submitted": 25,
+            "no_answer": 10,
+            "pending_submitted": 0,
+            "withdrawn_answer": 4
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 475,
+          "total_lower": 205,
+          "total_upper": 205,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "A": {
+          "correct_percent": 76.84210526315789,
+          "mean_lower": 1.9157894736842105,
+          "mean_upper": 1.9157894736842105,
+          "n": 95,
+          "name": "Sonnet 原生搜索",
+          "original_correct": 73,
+          "original_incorrect": 22,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 73,
+            "incorrect_submitted": 14,
+            "no_answer": 4,
+            "pending_submitted": 0,
+            "withdrawn_answer": 4
+          },
+          "search_calls_total": 236,
+          "search_penalty_total": 141,
+          "theoretical_max_total": 475,
+          "total_lower": 182,
+          "total_upper": 182,
+          "zero_point_answers_with_search_penalty": 8
+        },
+        "A_prime": {
+          "correct_percent": 87.36842105263158,
+          "mean_lower": 2.6736842105263157,
+          "mean_upper": 2.6736842105263157,
+          "n": 95,
+          "name": "Opus 原生搜索",
+          "original_correct": 83,
+          "original_incorrect": 12,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 83,
+            "incorrect_submitted": 9,
+            "no_answer": 2,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 229,
+          "search_penalty_total": 134,
+          "theoretical_max_total": 475,
+          "total_lower": 254,
+          "total_upper": 254,
+          "zero_point_answers_with_search_penalty": 3
+        },
+        "B": {
+          "correct_percent": 89.47368421052632,
+          "mean_lower": 3.789473684210526,
+          "mean_upper": 3.789473684210526,
+          "n": 95,
+          "name": "Sonnet + DeepSeek 搜索",
+          "original_correct": 85,
+          "original_incorrect": 10,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 85,
+            "incorrect_submitted": 8,
+            "no_answer": 1,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 136,
+          "search_penalty_total": 41,
+          "theoretical_max_total": 475,
+          "total_lower": 360,
+          "total_upper": 360,
+          "zero_point_answers_with_search_penalty": 2
+        },
+        "B_prime": {
+          "correct_percent": 94.73684210526316,
+          "mean_lower": 4.3052631578947365,
+          "mean_upper": 4.3052631578947365,
+          "n": 95,
+          "name": "Opus + DeepSeek 搜索",
+          "original_correct": 90,
+          "original_incorrect": 5,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 90,
+            "incorrect_submitted": 5,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 121,
+          "search_penalty_total": 26,
+          "theoretical_max_total": 475,
+          "total_lower": 409,
+          "total_upper": 409,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D0": {
+          "correct_percent": 37.89473684210526,
+          "mean_lower": 0.6947368421052632,
+          "mean_upper": 0.6947368421052632,
+          "n": 95,
+          "name": "Flash 不搜索",
+          "original_correct": 36,
+          "original_incorrect": 59,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 36,
+            "incorrect_submitted": 38,
+            "no_answer": 15,
+            "pending_submitted": 0,
+            "withdrawn_answer": 6
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 475,
+          "total_lower": 66,
+          "total_upper": 66,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D0_prime": {
+          "correct_percent": 44.21052631578947,
+          "mean_lower": 1.0736842105263158,
+          "mean_upper": 1.0736842105263158,
+          "n": 95,
+          "name": "Pro 不搜索",
+          "original_correct": 42,
+          "original_incorrect": 53,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 42,
+            "incorrect_submitted": 36,
+            "no_answer": 16,
+            "pending_submitted": 0,
+            "withdrawn_answer": 1
+          },
+          "search_calls_total": 0,
+          "search_penalty_total": 0,
+          "theoretical_max_total": 475,
+          "total_lower": 102,
+          "total_upper": 102,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D2": {
+          "correct_percent": 92.63157894736842,
+          "mean_lower": 2.9789473684210526,
+          "mean_upper": 2.9789473684210526,
+          "n": 95,
+          "name": "Flash + DeepSeek 搜索",
+          "original_correct": 88,
+          "original_incorrect": 7,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 88,
+            "incorrect_submitted": 7,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 231,
+          "search_penalty_total": 136,
+          "theoretical_max_total": 475,
+          "total_lower": 283,
+          "total_upper": 283,
+          "zero_point_answers_with_search_penalty": 0
+        },
+        "D2_prime": {
+          "correct_percent": 87.36842105263158,
+          "mean_lower": 3.1894736842105265,
+          "mean_upper": 3.1894736842105265,
+          "n": 95,
+          "name": "Pro + DeepSeek 搜索",
+          "original_correct": 83,
+          "original_incorrect": 12,
+          "original_pending": 0,
+          "outcome_counts": {
+            "correct": 83,
+            "incorrect_submitted": 12,
+            "no_answer": 0,
+            "pending_submitted": 0,
+            "withdrawn_answer": 0
+          },
+          "search_calls_total": 171,
+          "search_penalty_total": 76,
+          "theoretical_max_total": 475,
+          "total_lower": 303,
+          "total_upper": 303,
+          "zero_point_answers_with_search_penalty": 0
+        }
+      },
+      "languages": {
+        "es": {
+          "0": {
+            "mean_lower": 2.2666666666666666,
+            "mean_upper": 2.2666666666666666,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 8,
+              "incorrect_submitted": 2,
+              "no_answer": 3,
+              "pending_submitted": 0,
+              "withdrawn_answer": 2
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 34,
+            "total_upper": 34,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 1.6666666666666667,
+            "mean_upper": 1.6666666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 8,
+              "incorrect_submitted": 5,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 25,
+            "total_upper": 25,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 2.1333333333333333,
+            "mean_upper": 2.1333333333333333,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 12,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 37,
+            "search_penalty_total": 22,
+            "theoretical_max_total": 75,
+            "total_lower": 32,
+            "total_upper": 32,
+            "zero_point_answers_with_search_penalty": 1
+          },
+          "A_prime": {
+            "mean_lower": 2.066666666666667,
+            "mean_upper": 2.066666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 12,
+              "incorrect_submitted": 2,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 38,
+            "search_penalty_total": 23,
+            "theoretical_max_total": 75,
+            "total_lower": 31,
+            "total_upper": 31,
+            "zero_point_answers_with_search_penalty": 1
+          },
+          "B": {
+            "mean_lower": 1.5333333333333334,
+            "mean_upper": 1.5333333333333334,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 10,
+              "incorrect_submitted": 3,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 33,
+            "search_penalty_total": 18,
+            "theoretical_max_total": 75,
+            "total_lower": 23,
+            "total_upper": 23,
+            "zero_point_answers_with_search_penalty": 2
+          },
+          "B_prime": {
+            "mean_lower": 2.533333333333333,
+            "mean_upper": 2.533333333333333,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 12,
+              "incorrect_submitted": 3,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 28,
+            "search_penalty_total": 13,
+            "theoretical_max_total": 75,
+            "total_lower": 38,
+            "total_upper": 38,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": 1.4666666666666666,
+            "mean_upper": 1.4666666666666666,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 8,
+              "incorrect_submitted": 6,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 22,
+            "total_upper": 22,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": 2.2,
+            "mean_upper": 2.2,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 9,
+              "incorrect_submitted": 4,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 33,
+            "total_upper": 33,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 0.4666666666666667,
+            "mean_upper": 0.4666666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 4,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 51,
+            "search_penalty_total": 36,
+            "theoretical_max_total": 75,
+            "total_lower": 7,
+            "total_upper": 7,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 1.0666666666666667,
+            "mean_upper": 1.0666666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 4,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 42,
+            "search_penalty_total": 27,
+            "theoretical_max_total": 75,
+            "total_lower": 16,
+            "total_upper": 16,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        },
+        "id": {
+          "0": {
+            "mean_lower": 1.5294117647058822,
+            "mean_upper": 1.5294117647058822,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 7,
+              "incorrect_submitted": 3,
+              "no_answer": 7,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 85,
+            "total_lower": 26,
+            "total_upper": 26,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 2.235294117647059,
+            "mean_upper": 2.235294117647059,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 10,
+              "incorrect_submitted": 4,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 85,
+            "total_lower": 38,
+            "total_upper": 38,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 2.2941176470588234,
+            "mean_upper": 2.2941176470588234,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 3,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 34,
+            "search_penalty_total": 17,
+            "theoretical_max_total": 85,
+            "total_lower": 39,
+            "total_upper": 39,
+            "zero_point_answers_with_search_penalty": 1
+          },
+          "A_prime": {
+            "mean_lower": 2.8823529411764706,
+            "mean_upper": 2.8823529411764706,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 37,
+            "search_penalty_total": 20,
+            "theoretical_max_total": 85,
+            "total_lower": 49,
+            "total_upper": 49,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B": {
+            "mean_lower": 3.0,
+            "mean_upper": 3.0,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 3,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 27,
+            "search_penalty_total": 10,
+            "theoretical_max_total": 85,
+            "total_lower": 51,
+            "total_upper": 51,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B_prime": {
+            "mean_lower": 3.7058823529411766,
+            "mean_upper": 3.7058823529411766,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 23,
+            "search_penalty_total": 6,
+            "theoretical_max_total": 85,
+            "total_lower": 63,
+            "total_upper": 63,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": 0.5882352941176471,
+            "mean_upper": 0.5882352941176471,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 5,
+              "incorrect_submitted": 5,
+              "no_answer": 5,
+              "pending_submitted": 0,
+              "withdrawn_answer": 2
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 85,
+            "total_lower": 10,
+            "total_upper": 10,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": 1.0588235294117647,
+            "mean_upper": 1.0588235294117647,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 6,
+              "incorrect_submitted": 4,
+              "no_answer": 6,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 85,
+            "total_lower": 18,
+            "total_upper": 18,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 2.6470588235294117,
+            "mean_upper": 2.6470588235294117,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 41,
+            "search_penalty_total": 24,
+            "theoretical_max_total": 85,
+            "total_lower": 45,
+            "total_upper": 45,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 3.3529411764705883,
+            "mean_upper": 3.3529411764705883,
+            "n": 17,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 29,
+            "search_penalty_total": 12,
+            "theoretical_max_total": 85,
+            "total_lower": 57,
+            "total_upper": 57,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        },
+        "ja": {
+          "0": {
+            "mean_lower": 1.65,
+            "mean_upper": 1.65,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 9,
+              "incorrect_submitted": 4,
+              "no_answer": 5,
+              "pending_submitted": 0,
+              "withdrawn_answer": 2
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 100,
+            "total_lower": 33,
+            "total_upper": 33,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 2.0,
+            "mean_upper": 2.0,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 5,
+              "no_answer": 4,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 100,
+            "total_lower": 40,
+            "total_upper": 40,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 1.55,
+            "mean_upper": 1.55,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 3,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 55,
+            "search_penalty_total": 35,
+            "theoretical_max_total": 100,
+            "total_lower": 31,
+            "total_upper": 31,
+            "zero_point_answers_with_search_penalty": 2
+          },
+          "A_prime": {
+            "mean_lower": 1.7,
+            "mean_upper": 1.7,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 16,
+              "incorrect_submitted": 2,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 60,
+            "search_penalty_total": 40,
+            "theoretical_max_total": 100,
+            "total_lower": 34,
+            "total_upper": 34,
+            "zero_point_answers_with_search_penalty": 2
+          },
+          "B": {
+            "mean_lower": 4.85,
+            "mean_upper": 4.85,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 20,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 23,
+            "search_penalty_total": 3,
+            "theoretical_max_total": 100,
+            "total_lower": 97,
+            "total_upper": 97,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B_prime": {
+            "mean_lower": 4.9,
+            "mean_upper": 4.9,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 20,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 22,
+            "search_penalty_total": 2,
+            "theoretical_max_total": 100,
+            "total_lower": 98,
+            "total_upper": 98,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": 0.45,
+            "mean_upper": 0.45,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 6,
+              "incorrect_submitted": 7,
+              "no_answer": 6,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 100,
+            "total_lower": 9,
+            "total_upper": 9,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": 0.0,
+            "mean_upper": 0.0,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 6,
+              "incorrect_submitted": 10,
+              "no_answer": 4,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 100,
+            "total_lower": 0,
+            "total_upper": 0,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 4.05,
+            "mean_upper": 4.05,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 20,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 39,
+            "search_penalty_total": 19,
+            "theoretical_max_total": 100,
+            "total_lower": 81,
+            "total_upper": 81,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 4.4,
+            "mean_upper": 4.4,
+            "n": 20,
+            "outcome_counts": {
+              "correct": 20,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 32,
+            "search_penalty_total": 12,
+            "theoretical_max_total": 100,
+            "total_lower": 88,
+            "total_upper": 88,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        },
+        "ko": {
+          "0": {
+            "mean_lower": 2.0,
+            "mean_upper": 2.0,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 9,
+              "incorrect_submitted": 5,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 30,
+            "total_upper": 30,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 3.2666666666666666,
+            "mean_upper": 3.2666666666666666,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 2,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 49,
+            "total_upper": 49,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 2.1333333333333333,
+            "mean_upper": 2.1333333333333333,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 12,
+              "incorrect_submitted": 3,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 34,
+            "search_penalty_total": 19,
+            "theoretical_max_total": 75,
+            "total_lower": 32,
+            "total_upper": 32,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A_prime": {
+            "mean_lower": 4.266666666666667,
+            "mean_upper": 4.266666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 26,
+            "search_penalty_total": 11,
+            "theoretical_max_total": 75,
+            "total_lower": 64,
+            "total_upper": 64,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B": {
+            "mean_lower": 4.2,
+            "mean_upper": 4.2,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 1,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 19,
+            "search_penalty_total": 4,
+            "theoretical_max_total": 75,
+            "total_lower": 63,
+            "total_upper": 63,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B_prime": {
+            "mean_lower": 5.0,
+            "mean_upper": 5.0,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 15,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 75,
+            "total_upper": 75,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": 0.4666666666666667,
+            "mean_upper": 0.4666666666666667,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 5,
+              "incorrect_submitted": 6,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 2
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 7,
+            "total_upper": 7,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": 1.1333333333333333,
+            "mean_upper": 1.1333333333333333,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 7,
+              "incorrect_submitted": 6,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 75,
+            "total_lower": 17,
+            "total_upper": 17,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 4.066666666666666,
+            "mean_upper": 4.066666666666666,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 15,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 29,
+            "search_penalty_total": 14,
+            "theoretical_max_total": 75,
+            "total_lower": 61,
+            "total_upper": 61,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 3.6666666666666665,
+            "mean_upper": 3.6666666666666665,
+            "n": 15,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 19,
+            "search_penalty_total": 4,
+            "theoretical_max_total": 75,
+            "total_lower": 55,
+            "total_upper": 55,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        },
+        "ru": {
+          "0": {
+            "mean_lower": 2.0714285714285716,
+            "mean_upper": 2.0714285714285716,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 7,
+              "incorrect_submitted": 2,
+              "no_answer": 4,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": 29,
+            "total_upper": 29,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 3.357142857142857,
+            "mean_upper": 3.357142857142857,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 10,
+              "incorrect_submitted": 1,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": 47,
+            "total_upper": 47,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 1.6428571428571428,
+            "mean_upper": 1.6428571428571428,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 40,
+            "search_penalty_total": 26,
+            "theoretical_max_total": 70,
+            "total_lower": 23,
+            "total_upper": 23,
+            "zero_point_answers_with_search_penalty": 1
+          },
+          "A_prime": {
+            "mean_lower": 3.142857142857143,
+            "mean_upper": 3.142857142857143,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 1,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 32,
+            "search_penalty_total": 18,
+            "theoretical_max_total": 70,
+            "total_lower": 44,
+            "total_upper": 44,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B": {
+            "mean_lower": 4.714285714285714,
+            "mean_upper": 4.714285714285714,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 18,
+            "search_penalty_total": 4,
+            "theoretical_max_total": 70,
+            "total_lower": 66,
+            "total_upper": 66,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B_prime": {
+            "mean_lower": 4.785714285714286,
+            "mean_upper": 4.785714285714286,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 17,
+            "search_penalty_total": 3,
+            "theoretical_max_total": 70,
+            "total_lower": 67,
+            "total_upper": 67,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": 2.357142857142857,
+            "mean_upper": 2.357142857142857,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 9,
+              "incorrect_submitted": 4,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": 33,
+            "total_upper": 33,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": 2.9285714285714284,
+            "mean_upper": 2.9285714285714284,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 10,
+              "incorrect_submitted": 3,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": 41,
+            "total_upper": 41,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 3.4285714285714284,
+            "mean_upper": 3.4285714285714284,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 36,
+            "search_penalty_total": 22,
+            "theoretical_max_total": 70,
+            "total_lower": 48,
+            "total_upper": 48,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 2.5,
+            "mean_upper": 2.5,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 11,
+              "incorrect_submitted": 3,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 25,
+            "search_penalty_total": 11,
+            "theoretical_max_total": 70,
+            "total_lower": 35,
+            "total_upper": 35,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        },
+        "th": {
+          "0": {
+            "mean_lower": -0.7857142857142857,
+            "mean_upper": -0.7857142857142857,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 2,
+              "incorrect_submitted": 7,
+              "no_answer": 5,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": -11,
+            "total_upper": -11,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "0_prime": {
+            "mean_lower": 0.42857142857142855,
+            "mean_upper": 0.42857142857142855,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 6,
+              "incorrect_submitted": 8,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": 6,
+            "total_upper": 6,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "A": {
+            "mean_lower": 1.7857142857142858,
+            "mean_upper": 1.7857142857142858,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 10,
+              "incorrect_submitted": 1,
+              "no_answer": 2,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 36,
+            "search_penalty_total": 22,
+            "theoretical_max_total": 70,
+            "total_lower": 25,
+            "total_upper": 25,
+            "zero_point_answers_with_search_penalty": 3
+          },
+          "A_prime": {
+            "mean_lower": 2.2857142857142856,
+            "mean_upper": 2.2857142857142856,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 12,
+              "incorrect_submitted": 2,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 36,
+            "search_penalty_total": 22,
+            "theoretical_max_total": 70,
+            "total_lower": 32,
+            "total_upper": 32,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B": {
+            "mean_lower": 4.285714285714286,
+            "mean_upper": 4.285714285714286,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 1,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 16,
+            "search_penalty_total": 2,
+            "theoretical_max_total": 70,
+            "total_lower": 60,
+            "total_upper": 60,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "B_prime": {
+            "mean_lower": 4.857142857142857,
+            "mean_upper": 4.857142857142857,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 14,
+              "incorrect_submitted": 0,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 16,
+            "search_penalty_total": 2,
+            "theoretical_max_total": 70,
+            "total_lower": 68,
+            "total_upper": 68,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0": {
+            "mean_lower": -1.0714285714285714,
+            "mean_upper": -1.0714285714285714,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 3,
+              "incorrect_submitted": 10,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 1
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": -15,
+            "total_upper": -15,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D0_prime": {
+            "mean_lower": -0.5,
+            "mean_upper": -0.5,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 4,
+              "incorrect_submitted": 9,
+              "no_answer": 1,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 0,
+            "search_penalty_total": 0,
+            "theoretical_max_total": 70,
+            "total_lower": -7,
+            "total_upper": -7,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2": {
+            "mean_lower": 2.9285714285714284,
+            "mean_upper": 2.9285714285714284,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 1,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 35,
+            "search_penalty_total": 21,
+            "theoretical_max_total": 70,
+            "total_lower": 41,
+            "total_upper": 41,
+            "zero_point_answers_with_search_penalty": 0
+          },
+          "D2_prime": {
+            "mean_lower": 3.7142857142857144,
+            "mean_upper": 3.7142857142857144,
+            "n": 14,
+            "outcome_counts": {
+              "correct": 13,
+              "incorrect_submitted": 1,
+              "no_answer": 0,
+              "pending_submitted": 0,
+              "withdrawn_answer": 0
+            },
+            "search_calls_total": 24,
+            "search_penalty_total": 10,
+            "theoretical_max_total": 70,
+            "total_lower": 52,
+            "total_upper": 52,
+            "zero_point_answers_with_search_penalty": 0
+          }
+        }
+      },
+      "question_ids": [
+        "msqa-ES-32",
+        "msqa-ES-34",
+        "msqa-ES-43",
+        "msqa-ES-44",
+        "msqa-ES-46",
+        "msqa-ES-53",
+        "msqa-ES-57",
+        "msqa-ES-58",
+        "msqa-ES-61",
+        "msqa-ES-71",
+        "msqa-ES-73",
+        "msqa-ES-77",
+        "msqa-ES-80",
+        "msqa-ES-82",
+        "msqa-ES-83",
+        "msqa-ID-02",
+        "msqa-ID-18",
+        "msqa-ID-31",
+        "msqa-ID-32",
+        "msqa-ID-38",
+        "msqa-ID-48",
+        "msqa-ID-53",
+        "msqa-ID-55",
+        "msqa-ID-59",
+        "msqa-ID-61",
+        "msqa-ID-63",
+        "msqa-ID-69",
+        "msqa-ID-72",
+        "msqa-ID-79",
+        "msqa-ID-80",
+        "msqa-ID-81",
+        "msqa-ID-82",
+        "msqa-JA-05",
+        "msqa-JA-08",
+        "msqa-JA-21",
+        "msqa-JA-36",
+        "msqa-JA-37",
+        "msqa-JA-38",
+        "msqa-JA-51",
+        "msqa-JA-53",
+        "msqa-JA-54",
+        "msqa-JA-55",
+        "msqa-JA-58",
+        "msqa-JA-60",
+        "msqa-JA-64",
+        "msqa-JA-69",
+        "msqa-JA-78",
+        "msqa-JA-84",
+        "msqa-JA-85",
+        "msqa-JA-86",
+        "msqa-JA-87",
+        "msqa-JA-88",
+        "msqa-KO-19",
+        "msqa-KO-28",
+        "msqa-KO-35",
+        "msqa-KO-36",
+        "msqa-KO-50",
+        "msqa-KO-56",
+        "msqa-KO-58",
+        "msqa-KO-62",
+        "msqa-KO-63",
+        "msqa-KO-73",
+        "msqa-KO-75",
+        "msqa-KO-78",
+        "msqa-KO-83",
+        "msqa-KO-88",
+        "msqa-KO-89",
+        "msqa-RU-08",
+        "msqa-RU-23",
+        "msqa-RU-25",
+        "msqa-RU-28",
+        "msqa-RU-29",
+        "msqa-RU-37",
+        "msqa-RU-38",
+        "msqa-RU-69",
+        "msqa-RU-72",
+        "msqa-RU-73",
+        "msqa-RU-74",
+        "msqa-RU-82",
+        "msqa-RU-94",
+        "msqa-RU-95",
+        "msqa-TH-44",
+        "msqa-TH-46",
+        "msqa-TH-48",
+        "msqa-TH-49",
+        "msqa-TH-51",
+        "msqa-TH-54",
+        "msqa-TH-57",
+        "msqa-TH-60",
+        "msqa-TH-77",
+        "msqa-TH-78",
+        "msqa-TH-79",
+        "msqa-TH-83",
+        "msqa-TH-94",
+        "msqa-TH-96"
+      ],
+      "questions_per_group": 95
+    }
+  },
+  "complete": true,
+  "created_at": "2026-10-21T10:05:25.903575+08:00",
+  "excluded_answers": 330,
+  "judgment_resolution": {
+    "closure_file": "judgment-closure.json",
+    "disagreements": 20,
+    "human_pending": 0,
+    "scores_changed": false,
+    "status": "closed_by_2_of_3_majority"
+  },
+  "original_answers": 2200,
+  "original_grades_modified": false,
+  "policy_sha256": "45b1c7576049b48f7f90c5bc4b648b7ac85526955cfaef503329011dc275e98e",
+  "retained_answers": 1870,
+  "retrospective": true,
+  "rule": "正确+5，错误且仍提交-3，不答或最终撤回0；第二次起每次搜索-1，对所有结果生效，无零分下限。",
+  "same_question_ids_for_all_groups": true
+}

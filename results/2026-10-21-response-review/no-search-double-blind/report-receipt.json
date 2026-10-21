@@ -1,0 +1,19 @@
+{
+  "files": {
+    "example-fact-checks.json": "25411ebf9d7d9c51ef888669ad5f19fc09118a4e24f4bc1c8b04d5d6ad849093",
+    "examples.json": "b9393befd3034f51f8c3bb530928ba66b3334961615bdf44f16f4b48526813a0",
+    "report.md": "49e52451dc21a4583dbbed7ff054ac989d420bac41b98ebc4dbb9aa63a429093",
+    "summary.json": "ee6947082444756d09ddd43d5455f8d7d5e08e264a1489969ea39eaf23085161"
+  },
+  "generated_at": "2026-10-21T09:46:10.436812+08:00",
+  "protocol_sha256": "1e606da56c7e49aa9b417b7a43c24ca8d7c00bb46aeebf6eb47939f0b3f2d8a4",
+  "records": 402,
+  "resolved_sha256": "d165bd8345734970bb0d2b239f232b813533c32c935a3da132c20120757b48ca",
+  "rubric_sha256": "d63485c8efca8f019203f7d47ff8874a6517942d6a47395975d8778a94911653",
+  "source_summary_sha256": {
+    "results/2026-10-20-revised-96/policy.json": "656ab4c53db6e32574c8b0b81f83926c7185717bed9165979c61e043a3236a8c",
+    "results/2026-10-21-multilingual/analysis/full-summary.json": "7eaf0fa84b01b8037729616766fa19bb22c0c806d67fb1f74f4ad46689e104b6",
+    "tmp/archive/analysis/full-summary.json": "faa49b732392e4d6f187d51c391893e0d93c155853e05ce130bab6cd09d380df"
+  },
+  "tool_sha256": "c00da56dfc1de50ba95e5486c52ca8c52a22b8feb468a11802c56c78e1078759"
+}

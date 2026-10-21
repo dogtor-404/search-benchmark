@@ -1,0 +1,190 @@
+{
+  "authorization": "不是已经有2:1的票了嘛？我觉得就按照这个来就好了？",
+  "closed_disagreements": 20,
+  "confirmed_at": "2026-10-21T10:09:46.689996+08:00",
+  "human_pending": 0,
+  "method": "采用已有两位独立票及分歧第三票的2:1多数意见结案，不再要求额外人工投票。只涉及本次分类及最终提交状态补评，不替换原正确性裁决。",
+  "results": [
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "2cd551c9e1414c569fcdd0203dde2eed",
+      "majority_label": "incomplete_answer",
+      "question_id": "msqa-RU-95",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "28a85bc08f8d4687947d2e7cf0f85760",
+      "majority_label": "confident_incorrect_assertion",
+      "question_id": "msqa-ES-56",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "4c8f34b744b64b528863afbc79462aef",
+      "majority_label": "explicit_abstention",
+      "question_id": "msqa-RU-31",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "47085e1323654cde8e39b9dafa32efa1",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-ID-63",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "3e87f9b3ce6345f7b5b523ae5850fa29",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-ID-72",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "24185738b2074bd3941dcbdd16b9e3e2",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-JA-05",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "5c23f41e290a4317a69a7958a049f60e",
+      "majority_label": "explicit_abstention",
+      "question_id": "msqa-TH-51",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "1ff2dd86692442a8a6aa60269116d90d",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-TH-85",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "59e30b84ab6e44f1b88587418528ba7f",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-JA-86",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "17e96cffbfd74f128ac8cb918c0f3452",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-ID-53",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "0108e690f75b4ea1872763966cd8b461",
+      "majority_label": "confident_incorrect_assertion",
+      "question_id": "msqa-ES-37",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "4784b74804324ea5942f555c80c0f208",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-ID-48",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "category",
+      "id": "6028e3bad8ef44a086ea781c0377341d",
+      "majority_label": "hedged_or_withdrawn_guess",
+      "question_id": "msqa-RU-08",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "b6b7231da0f14487806f1b4663c4ab91",
+      "majority_label": "withdrawn_answer",
+      "question_id": "msqa-ES-58",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "5fb0c168d4984ddaad5b72121c111b84",
+      "majority_label": "no_answer",
+      "question_id": "msqa-ID-48",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "4c59c0d496df4c1a8e0d184d53cbb418",
+      "majority_label": "no_answer",
+      "question_id": "msqa-ES-51",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "f3945be5d6484d28a8c35cb1fcdc2b8e",
+      "majority_label": "no_answer",
+      "question_id": "msqa-ID-53",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "183063217d1f4f2fa4e6a20649e30843",
+      "majority_label": "withdrawn_answer",
+      "question_id": "msqa-KO-50",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "5f3b6a39a84e4595965ecde1e13132d3",
+      "majority_label": "withdrawn_answer",
+      "question_id": "msqa-ES-51",
+      "votes_against": 1,
+      "votes_for": 2
+    },
+    {
+      "existing_result_unchanged": true,
+      "field": "decision",
+      "id": "e5bffe35e7494809854b8526286b03f4",
+      "majority_label": "submitted_answer",
+      "question_id": "msqa-JA-05",
+      "votes_against": 1,
+      "votes_for": 2
+    }
+  ],
+  "scores_changed": false
+}

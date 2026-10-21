@@ -1,0 +1,17 @@
+{
+  "calculation_question_sha256": {
+    "questions/multilingual.jsonl": "dc584590c1ff973bc011ece981c8fdbbea002aeb178d6f56a08a685b3060ff0a",
+    "questions/questions.jsonl": "2cec115ba985bf305ce664e6edd7aaab2955f6be61af8023c3523cf573cc6f4d"
+  },
+  "created_at": "2026-10-21T09:56:38.142133+08:00",
+  "files": {
+    "report.md": "9230cd98ffd0b3360459d669995f8be75c47b65c2cde958ed3a9c6079315ed19",
+    "score-records.jsonl": "b671065c1155feb53660bd6d55df3cace71e00aaaa6abdd5400ec2cd0a8568b9",
+    "summary.json": "9525c8fca68c1ddc4e1b137e5c864792b6777fe6525e4bdf995fb6c5ad005e80"
+  },
+  "protocol_sha256": "6cee83cc6cf169e5a11bea044103a0b15254e4f7ca06c954652d44099cbd998a",
+  "resolution_sha256": "9cbf1d96332b67294462119010bda313b870c146128ac76096d6b439320a7274",
+  "rules_and_rationale_sha256": "ac43faf8ce063198a78a948100460b8556591c75e0923976b1fe2641fafeb9fa",
+  "source_files_verified": 2210,
+  "tool_sha256": "d375516d1094cb9cf5c8626d7b7f464f027809dc9ae29598d5886a5cbedabadc"
+}

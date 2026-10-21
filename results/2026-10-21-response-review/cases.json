@@ -1,0 +1,67 @@
+[
+  {
+    "candidate_answer": "我不知道这个具体数字，不想随便编一个。\n\n我所知道的是：泰国的“แห่นางแมว”（Hae Nang Maeo，求雨游行）是在久旱不雨时举行。村民把猫装进竹篮或笼子里抬着游行，沿途唱求雨的歌，路边的人向猫和队伍泼水，据说猫被淋湿后会带来雨水。\n\n至于仪式要准备几对花和蜡烛，各地的做法不同，我没见过可靠的资料给出统一的数字。如果你需要准确的答案，建议查泰国文化部的资料或地方志。",
+    "case_kind": "明确弃答",
+    "group": "0",
+    "group_name": "Sonnet 不搜索",
+    "original_reason": "候选明确表示不知道，未给出花和蜡烛各五对。",
+    "original_verdict": "incorrect",
+    "question": "ในประเทศไทย ถ้าฝนไม่ตกจะมีประเพณีแห่นางแมวเพื่อขอฝน พิธีนี้ต้องเตรียมดอกไม้และเทียนกี่คู่",
+    "question_id": "msqa-TH-08",
+    "raw": "results/2026-10-21-multilingual/jsonl/0/msqa-TH-08.jsonl",
+    "reference_answer": "ดอกไม้ 5 คู่และเทียน 5 คู่",
+    "run_sha256": "99c90ec6398164557a322e2b60b6f7bec5cec7270a8cfa9f88854cac153074e9"
+  },
+  {
+    "candidate_answer": "《万叶集》卷十一，歌番号二三六二（作者未详）。",
+    "case_kind": "确定断言与参考不符且经学术来源核查",
+    "group": "D0_prime",
+    "group_name": "Pro 不搜索",
+    "original_reason": "候选给出的歌号为2362，与标准2657不符。",
+    "original_verdict": "incorrect",
+    "question": "「神奈備にひもろき立てて斎へども人の心は守りあへぬもの」の出典として正しいものを答えよ（巻・歌番号まで明記せよ）。",
+    "question_id": "msqa-JA-55",
+    "raw": "results/2026-10-21-multilingual/jsonl/D0_prime/msqa-JA-55.jsonl",
+    "reference_answer": "『万葉集』巻第十一・2657",
+    "run_sha256": "0cca21296eee93b601fefffa9db9518dc7c6b3716d3a5b6d89a2d72074193179"
+  },
+  {
+    "candidate_answer": "凭记忆回答，不一定准确：\n\n**영신제（迎神祭）一般在农历五月初三举行**，也就是江陵端午祭正式开幕的头几天。它是在南大川端午祭坛迎接大关岭国师城隍神的仪式，之后依次是 조전제례（农历五月初五前后）、단오굿，最后是 송신제（送神祭，收尾）。\n\n农历四月十五日另有大关岭山神祭、国师城隍祭和 영신행차（迎神巡行），容易跟 영신제 混淆。我记得这两天的分工大致如此，但具体时间和哪个仪式归在哪一天，我没把握。\n\n今年（2026年）的具体公历日期我不知道，不敢报。建议查江陵端午祭委员会的官方日程。",
+    "case_kind": "不完整回答",
+    "group": "0",
+    "group_name": "Sonnet 不搜索",
+    "original_reason": "仅给出农历五月初三，未说明标准答案中的晚上。",
+    "original_verdict": "incorrect",
+    "question": "강릉 단오제 중 영신제는 언제 합니까?",
+    "question_id": "msqa-KO-62",
+    "raw": "results/2026-10-21-multilingual/jsonl/0/msqa-KO-62.jsonl",
+    "reference_answer": "음력 5월 3일 저녁.",
+    "run_sha256": "eaafc140402d2d9be05a5934f2e5e4d64f6f84837cf80623c10a55873cc481ef"
+  },
+  {
+    "candidate_answer": "我不确定\"오다망\"是什么意思，记忆里没有这个词的可靠释义。\n\n韩语流行语常取每个词的首字缩写，比如\"오운완\"=\"오늘 운동 완료\"（今天运动完成）。照这个规律，\"오다망\"**可能**是\"오늘 다이어트 망함\"（今天减肥失败了），但这只是我按构词规律做的推测，不能当作答案。",
+    "case_kind": "猜到正确候选后撤回",
+    "group": "0_prime",
+    "group_name": "Opus 不搜索",
+    "original_reason": "虽猜到今天减肥失败，但明确声明该猜测不能作为答案。",
+    "original_verdict": "incorrect",
+    "question": "유행어 \"오다망\" 무슨 뜻입니까?",
+    "question_id": "msqa-KO-83",
+    "raw": "results/2026-10-21-multilingual/jsonl/0_prime/msqa-KO-83.jsonl",
+    "reference_answer": "오늘 다이어트 망했다",
+    "run_sha256": "802ba877924bfaac8ef9db9dd6ade91ab797389e0f39bb6788b1246bfd98d2a1"
+  },
+  {
+    "candidate_answer": "**Ответ:** в Твери, 7 июля 1871 года.\n\nИсточники расходятся. Один (gbuz-okb-tver.ru) пишет «7 июня», но это похоже на опечатку. Остальные источники, включая протоколы съезда, дают 7 июля. Протоколы озаглавлены «Протоколы губернского съезда земских врачей. 7-9 июля 1871 года». Съезд работал три дня, на него приехали 22 человека. Его инициатором был Н. М. Павлов, старший врач губернской больницы. В других губерниях съезды потом стали созывать «по примеру тверских».\n\nИсточники:\n- https://elib.tverlib.ru/k_stanovleniyu_tverskoy_zemskoy_mediciny\n- https://region.tverlib.ru/cgi-bin/fulltext_opac.cgi?show_article=1302\n- https://kray.tverlib.ru/150-let-nazad-v-tveri-sostoyalsya-pervyy-v-rossii-gubernskiy-sezd-zemskikh-vrachey\n- https://diss.unn.ru/files/2017/795/diss-Smirnova_-795.pdf (ссылка на протоколы съезда 7–9 июля 1871 г.)\n- http://gbuz-okb-tver.ru/struktura/muzey-istorii-meditsiny/significant-dates/145-let-s-pervogo-sezda (фраза про «по примеру тверских»; там же ошибочное «7 июня»)",
+    "case_kind": "参考答案来源冲突",
+    "group": "B",
+    "group_name": "Sonnet + DeepSeek 搜索",
+    "original_reason": "候选给出的开幕日期为1871年7月7日，与标准的6月7日不符。",
+    "original_verdict": "incorrect",
+    "question": "В каком городе и в какой день открылся первый съезд тверских земских врачей, ставший образцом для врачебных съездов в других губерниях?",
+    "question_id": "msqa-RU-04",
+    "raw": "results/2026-10-21-multilingual/jsonl/B/msqa-RU-04.jsonl",
+    "reference_answer": "Он открылся в Твери 7 июня 1871 года.",
+    "run_sha256": "ddb0d95db1a09900134331c143907f77f61ae37e13d6837c49d4a02fbe4528b9"
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "checked_at": "2026-10-21",
+  "scope": "主报告选例后的补充来源核对；不改匿名原票、最终类别或原正确性成绩。reference_concern=true 的题仅用于案例排除及事后敏感性分析。没有对全部402份做独立事实终审。",
+  "checks": [
+    {
+      "round": "first",
+      "question_id": "simpleqa_verified-3515",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "加拿大政府的George Brown House说明区分：1875年拒绝安大略省副总督职务，1879年拒绝骑士头衔。候选混淆两件事。",
+      "sources": [
+        {
+          "title": "Parks Canada：George Brown House National Historic Site",
+          "url": "https://www.canada.ca/en/parks-canada/news/2016/08/george-brown-house-national-historic-site.html"
+        }
+      ]
+    },
+    {
+      "round": "first",
+      "question_id": "simpleqa_verified-1674",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "Fergus McCaffrey画廊展览图录前言记载Serra在1970东京双年展安装其第一件户外雕塑To Encircle Base Plate (Hexagram)，支持日本。馆方所谓第一件大型户外作品或第一件公共委托不是同一限定。PDF过大未由浏览器全文提取；相关段落在搜索返回中可读。",
+      "sources": [
+        {
+          "title": "Fergus McCaffrey：Richard Serra Drawings展览图录，前言第5页",
+          "url": "https://forward.fergusmccaffrey.com/wp-content/uploads/2020/06/SerraDrawings_McCaffrey_Final_pages.pdf"
+        }
+      ]
+    },
+    {
+      "round": "first",
+      "question_id": "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "暨南大学文创研究院文章及新快报原文均记最后一家点翠工厂1933年关闭，支持原参考，非候选1958年。未核查候选其他背景断言。",
+      "sources": [
+        {
+          "title": "暨南大学：点翠，美丽与残忍，传承与保护",
+          "url": "https://ccjd.jnu.edu.cn/2021/0601/c23053a626563/page.htm"
+        },
+        {
+          "title": "新快报：满头珠翠，今日何在",
+          "url": "https://epaper.xkb.com.cn/view/1086572"
+        }
+      ]
+    },
+    {
+      "round": "first",
+      "question_id": "simpleqa_verified-3011",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "歌手Reba官方网站的专辑页明确记载RIAA白金认证，候选答金唱片并否认白金。",
+      "sources": [
+        {
+          "title": "Reba官网：So Good Together",
+          "url": "https://www.reba.com/so-good-together"
+        }
+      ]
+    },
+    {
+      "round": "first",
+      "question_id": "simpleqa_verified-1129",
+      "status": "reference_dispute",
+      "reference_concern": true,
+      "note": "冻结参考110.50米；候选明确回答全长115.5米。美国海军研究生院论文的船型对照表记TCG Yavuz Length Overall为115.5米，专业舰艇资料也记115.5米，可能涉及长度量法或参考错误，不能据此称候选编造。原四类计数仍按冻结参考。",
+      "sources": [
+        {
+          "title": "Naval Postgraduate School学位论文：Fluid-structure interaction effects resulting from hull appendage coupling，表2（原文镜像）",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Fluid-structure_interaction_effects_resulting_from_hull_appendage_coupling_%28IA_fluidstructurein109452019%29.pdf"
+        },
+        {
+          "title": "SeaForces：Yavuz class specifications",
+          "url": "https://www.seaforces.org/marint/Turkish-Navy/Frigates/Yavuz-class.htm"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-ES-35",
+      "status": "reference_dispute",
+      "reference_concern": true,
+      "note": "原World History Encyclopedia来源确写最终完成1797年；候选1740年也有建筑史原研究支持，例如Javier Aguilera Rojas的La Habana Vieja（1985）以档案地图论述1674至1740工程，西班牙国防部出版的军事史论文也记1674–1740。完工范围或史料存在冲突，不能用作无争议幻觉例子。",
+      "sources": [
+        {
+          "title": "原参考：World History Encyclopedia，Havana段",
+          "url": "https://www.worldhistory.org/article/1867/treasure-ports-of-the-spanish-main/"
+        },
+        {
+          "title": "Javier Aguilera Rojas：La Habana Vieja，Ciudad y Territorio（1985）",
+          "url": "https://javieraguilerarojas.com/wp-content/uploads/2021/07/LA-HABANA-VIEJA.-Mapas-y-planos-en-los-Archivos-de-Espana.-Articulo_compressed.pdf"
+        },
+        {
+          "title": "西班牙国防部：Revista de Historia Militar 99",
+          "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_099.pdf"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-KO-52",
+      "status": "reference_dispute",
+      "reference_concern": true,
+      "note": "国立国语院词典把候选谚语소 뒷걸음질 치다 쥐 잡다解释为偶然立功；官方问答对原参考가는 날이 장날的解释强调出乎意料的遭遇。题目泛称意外事情巧合地吻合，存在多个近义谚语适用的疑问，不作唯一答案终审。",
+      "sources": [
+        {
+          "title": "国立国语院：한국어기초사전，소，谚语条",
+          "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=64289"
+        },
+        {
+          "title": "国立国语院：가는 날이 장날问答",
+          "url": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=90&pageIndex=1&qna_seq=329552"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-TH-85",
+      "status": "reference_dispute",
+      "reference_concern": true,
+      "note": "冻结参考为阿瑜陀耶早期；候选答后期。泰国诗琳通人类学中心的术语文章记ภาพกาก证据从阿瑜陀耶后期至拉达那哥欣早期，与候选一致，故有参考来源疑问。原参考silpa-mag文章本次503，未据此断言哪一来源最终正确。",
+      "sources": [
+        {
+          "title": "诗琳通人类学中心：กาก术语文章（相关段落由搜索返回可读）",
+          "url": "https://www.sac.or.th/portal/th/article/detail/742"
+        },
+        {
+          "title": "原参考Silpa Magazine（本次503）",
+          "url": "https://www.silpa-mag.com/art/article_158656"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-KO-85",
+      "status": "reference_dispute",
+      "reference_concern": true,
+      "note": "原韩国民族文化大百科记1960年代，候选答1950年代。韩国政府Korea.net文章说明army base stew诞生于1950年代，可能涉及起源与后续定型的差别，不能用作无争议事实错误。",
+      "sources": [
+        {
+          "title": "原参考：韩国民族文化大百科，부대찌개",
+          "url": "https://encykorea.aks.ac.kr/Article/E0079968"
+        },
+        {
+          "title": "韩国政府Korea.net：Eat your way across Korea -- army base stew",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=131279"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-KO-89",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "韩国独立纪念馆的《安重根的生涯与救国运动》天主教入教章节记1897年，支持原参考；候选1895年并非只缺月份。",
+      "sources": [
+        {
+          "title": "韩国独立纪念馆：안중근의 생애와 구국운동",
+          "url": "https://search.i815.or.kr/publication/yeoljeon/detail.do?id=9-AJ0001-000"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-KO-63",
+      "status": "corroborated_with_name_variant",
+      "reference_concern": false,
+      "note": "韩国学中央研究院数字南杨州文化大典记始祖本名趙岩（조암），与바우的岩/石之名存在文字形式差异，但不支持候选趙之壽。只据此确认候选核心姓名不符，不强行断定所有本名写法唯一。相关内容由搜索返回可读。",
+      "sources": [
+        {
+          "title": "数字南杨州文化大典：풍양 조씨",
+          "url": "https://namyangju.grandculture.net/namyangju/index/GC08900532?category=%EC%9D%B8%EB%AA%85&depth=2&name=A~Z%2C0~9&page=111&search=%EC%A1%B0%EC%A7%80%EB%A6%B0"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-ID-82",
+      "status": "corroborated_classification",
+      "reference_concern": false,
+      "note": "ASJP语言数据库给出Buginese属于Tamanic-Bugis下Bugis的分类，Glottolog也列相应谱系；原来源明确最近为Campalagian和Tamanic。候选漏Tamanic，并把其他南苏拉威西语支列为其次最近；此例涉及分类体系，建议视频优先使用更直观的姓名/编号题。",
+      "sources": [
+        {
+          "title": "ASJP：Wordlist Buginese，Classification",
+          "url": "https://asjp.clld.org/languages/BUGINESE"
+        },
+        {
+          "title": "Glottolog：Buginese",
+          "url": "https://glottolog.org/resource/languoid/id/bugi1244"
+        },
+        {
+          "title": "原参考：Buginese language，Classification",
+          "url": "https://en.wikipedia.org/wiki/Buginese_language"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-JA-58",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "日本农林水产省乡土料理数据库将ハタハタの湯上げ列在山形县，主传承地区庄内，支持原参考。候选答秋田县。",
+      "sources": [
+        {
+          "title": "日本农林水产省：ハタハタの湯上げ 山形県",
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hatahatanoyuage_yamagata.html"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-JA-86",
+      "status": "primary_text_supported",
+      "reference_concern": false,
+      "note": "《今昔物语集》卷17第17话的电子原文题名及正文记蔵満，包含相人预言不过四十岁及入笠置窟苦行的情节；候选把人物换成明惠。",
+      "sources": [
+        {
+          "title": "《今昔物语集》卷17第17话原文电子版",
+          "url": "https://yatanavi.org/text/k_konjaku/k_konjaku17-17"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-JA-55",
+      "status": "corroborated",
+      "reference_concern": false,
+      "note": "國學院大學数字博物馆ひもろき条收录目标句并标11-2657，支持卷十一2657，非候选2362。",
+      "sources": [
+        {
+          "title": "國學院大學数字博物馆：ひもろき",
+          "url": "https://jmapps.ne.jp/kokugakuin/det.html?data_id=32261"
+        }
+      ]
+    },
+    {
+      "round": "second",
+      "question_id": "msqa-JA-53",
+      "status": "primary_text_supported",
+      "reference_concern": false,
+      "note": "国际日本文化研究中心和歌数据库的後拾遺集原文，卷十哀伤的00536条为目标句，非候选古今集卷十三628。",
+      "sources": [
+        {
+          "title": "国际日本文化研究中心：後拾遺集全文",
+          "url": "https://lapis.nichibun.ac.jp/waka/waka_i004.html"
+        }
+      ]
+    }
+  ]
+}

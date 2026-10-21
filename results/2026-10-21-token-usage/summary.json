@@ -1,0 +1,697 @@
+{
+  "codex": {
+    "cached_fraction_of_codex_input": 0.9838041962370573,
+    "main_threads": 2,
+    "main_usage": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 162778880,
+      "input_tokens": 165227334,
+      "output_tokens": 685272,
+      "reasoning_output_tokens": 293360,
+      "total_tokens": 165912606
+    },
+    "per_session": [
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "第一轮主对话",
+        "unique_requests": 417,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 77076224,
+          "input_tokens": 77999244,
+          "output_tokens": 271965,
+          "reasoning_output_tokens": 104987,
+          "total_tokens": 78271209
+        },
+        "usage_projection_sha256": "c8f8467332e59bd02c03e21e5a37071664795ed70c8127e837221307a383dbc2"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/blind_answer_review",
+        "unique_requests": 43,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 7227520,
+          "input_tokens": 7539642,
+          "output_tokens": 28572,
+          "reasoning_output_tokens": 3961,
+          "total_tokens": 7568214
+        },
+        "usage_projection_sha256": "41c03b50b01193f769e4a3a05d054aeaed919f8608d4d6fbe11c30bc26064254"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/score_adjudicator",
+        "unique_requests": 16,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 613760,
+          "input_tokens": 637755,
+          "output_tokens": 5059,
+          "reasoning_output_tokens": 1894,
+          "total_tokens": 642814
+        },
+        "usage_projection_sha256": "3eee2dfde695b82022776a4f9645cda538f961135ae8b052a8e4340aa87bc775"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/response_judge_b",
+        "unique_requests": 31,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 2982400,
+          "input_tokens": 3106638,
+          "output_tokens": 24062,
+          "reasoning_output_tokens": 4201,
+          "total_tokens": 3130700
+        },
+        "usage_projection_sha256": "c0e560201cf399d53b337c6ecf94c9e9f4ae9a1d924a9ce825bf66554046134d"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/score_response_a",
+        "unique_requests": 34,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 3679360,
+          "input_tokens": 3820523,
+          "output_tokens": 20837,
+          "reasoning_output_tokens": 3037,
+          "total_tokens": 3841360
+        },
+        "usage_projection_sha256": "e9bc0984049f08d91f155ad88a737e0c332f7ff412ae4ecac42434a6bb796a7d"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/response_judge_a",
+        "unique_requests": 27,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 2291584,
+          "input_tokens": 2550103,
+          "output_tokens": 25838,
+          "reasoning_output_tokens": 4901,
+          "total_tokens": 2575941
+        },
+        "usage_projection_sha256": "2d68092d1fe1a4efc909e1b610218e31842c41044561f3ed44ee2bab709d7e2f"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/score_response_b",
+        "unique_requests": 34,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 3497216,
+          "input_tokens": 3655787,
+          "output_tokens": 17343,
+          "reasoning_output_tokens": 2325,
+          "total_tokens": 3673130
+        },
+        "usage_projection_sha256": "3624dc0228b17cfa54cf4493d75683e2369a9d4327bbff5f7647e75750245997"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/response_adjudicator",
+        "unique_requests": 22,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 983552,
+          "input_tokens": 1006583,
+          "output_tokens": 8178,
+          "reasoning_output_tokens": 2631,
+          "total_tokens": 1014761
+        },
+        "usage_projection_sha256": "b5d67e71f7c191947bdf23732fe12b57dfdf222e311e9d7ab2cbeb3371d63b8f"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/blind_scorer_03",
+        "unique_requests": 231,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 35781504,
+          "input_tokens": 36112701,
+          "output_tokens": 42206,
+          "reasoning_output_tokens": 9049,
+          "total_tokens": 36154907
+        },
+        "usage_projection_sha256": "c3c1e97a229f95326889788dc496560da72e016c84db4b09929da049ab0075c7"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/blind_scorer_01",
+        "unique_requests": 130,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 19365376,
+          "input_tokens": 19577564,
+          "output_tokens": 36307,
+          "reasoning_output_tokens": 5983,
+          "total_tokens": 19613871
+        },
+        "usage_projection_sha256": "b7b97d43c86f486da6c2ccc6a100a9eddf36cd2afbee3e5009f78189bc7490f3"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/independent_msqa_judge",
+        "unique_requests": 8,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 406016,
+          "input_tokens": 462363,
+          "output_tokens": 7687,
+          "reasoning_output_tokens": 3005,
+          "total_tokens": 470050
+        },
+        "usage_projection_sha256": "2e0cb9e762a5b448454cf8d3ddf330852206a7e1d4052910aaa9e15b029a4482"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "第二轮及后续复核主对话",
+        "unique_requests": 501,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 85702656,
+          "input_tokens": 87228090,
+          "output_tokens": 413307,
+          "reasoning_output_tokens": 188373,
+          "total_tokens": 87641397
+        },
+        "usage_projection_sha256": "de11d5375d34f49db4da4d0f18c2bebb559121bb3e983c74098f64f22a5b8d83"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "inherited_usage_records_skipped": 0,
+        "role": "/root/blind_scorer_02",
+        "unique_requests": 152,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 21048704,
+          "input_tokens": 21249907,
+          "output_tokens": 33399,
+          "reasoning_output_tokens": 6366,
+          "total_tokens": 21283306
+        },
+        "usage_projection_sha256": "df78239db97cae0d68f678a5139e96b7274a3ab90b20ea62a71a02b51b9f2885"
+      }
+    ],
+    "sessions": 13,
+    "total_usage": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 260655872,
+      "input_tokens": 264946900,
+      "output_tokens": 934760,
+      "reasoning_output_tokens": 340713,
+      "total_tokens": 265881660
+    },
+    "worker_agents": 11,
+    "worker_usage": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 97876992,
+      "input_tokens": 99719566,
+      "output_tokens": 249488,
+      "reasoning_output_tokens": 47353,
+      "total_tokens": 99969054
+    }
+  },
+  "first_round_api_grading": [
+    {
+      "cache_read_and_write": 4315979,
+      "calls": 1000,
+      "provider": "claude",
+      "raw_files_projection_sha256": "72971789c9347785cbdd5f6a6fb8cd3446894335ccb9f6aa45567b6b907512c9",
+      "reported_input_plus_output": 163126,
+      "tokens_lower": 4479105,
+      "tokens_upper": 4479105
+    },
+    {
+      "cache_read_and_write": 0,
+      "calls": 1000,
+      "provider": "deepseek",
+      "raw_files_projection_sha256": "ef71d585ea01af53a9ac6780e9cab1a3ae754d15eb9803658a028589b17cf5a7",
+      "reported_input_plus_output": 2988130,
+      "tokens_lower": 2988130,
+      "tokens_upper": 2988130
+    }
+  ],
+  "first_round_api_judging_tokens_range": [
+    7467235,
+    7467235
+  ],
+  "formal_answer_tokens_range": [
+    42733468,
+    46964764
+  ],
+  "formal_rounds": [
+    {
+      "answers": 1000,
+      "claude_main_tokens": 7366296,
+      "deepseek_cache_possible_extra": 830080,
+      "deepseek_reported_input_plus_output": 2599158,
+      "reported_auxiliary_models_tokens": 4616090,
+      "round": "first",
+      "tokens_lower": 14581544,
+      "tokens_upper": 15411624
+    },
+    {
+      "answers": 1200,
+      "claude_main_tokens": 14025873,
+      "deepseek_cache_possible_extra": 3401216,
+      "deepseek_reported_input_plus_output": 5973049,
+      "reported_auxiliary_models_tokens": 8153002,
+      "round": "second",
+      "tokens_lower": 28151924,
+      "tokens_upper": 31553140
+    }
+  ],
+  "main_estimate_tokens_lower": 316082363,
+  "main_estimate_tokens_upper": 320313659,
+  "method": [
+    "按token_usage_record.payload.usage逐请求读取，以response_id去重，仅取thread_id匹配当前会话的记录；不把累计token_count快照相加。",
+    "总量=input_tokens+output_tokens；cached_input_tokens属于输入子集，reasoning_output_tokens属于输出子集，均不额外再加。",
+    "Claude原生搜索另外上报的辅助模型用量已计入；DeepSeek兼容接口input/cache映射未核实，以是否额外计算缓存构成小范围估值差。",
+    "这是累计token处理量，含缓存及多轮上下文重复读取，不是生成的新文本量或等价全价计费量。",
+    "删题不撤销已发生用量。试跑、失败重试和搜索服务内部未上报用量未全部并入，所以不是完整账户账单。"
+  ],
+  "official_usage_reference": "https://developers.openai.com/api/docs/guides/prompt-caching",
+  "same_project_other_sessions_excluded_from_main_scope": {
+    "expanded_estimate_tokens_range_including_these": [
+      341917002,
+      346148298
+    ],
+    "per_session": [
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 1,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 6016,
+          "input_tokens": 24067,
+          "output_tokens": 199,
+          "reasoning_output_tokens": 118,
+          "total_tokens": 24266
+        },
+        "usage_projection_sha256": "f56db949359ddb820cc702307d8be9b79bdcabe69201cfdc6c3f570a62e4e009"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 4,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 105600,
+          "input_tokens": 131537,
+          "output_tokens": 532,
+          "reasoning_output_tokens": 241,
+          "total_tokens": 132069
+        },
+        "usage_projection_sha256": "5ed98be9642446c6d0e8b86af3415f5facf3f092af97ec0d630f55d7f75ff218"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "非这两条主任务及其评分子任务；同项目其他对话不纳入主口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 6,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 201984,
+          "input_tokens": 215752,
+          "output_tokens": 702,
+          "reasoning_output_tokens": 330,
+          "total_tokens": 216454
+        },
+        "usage_projection_sha256": "2396fba59bb0a7ee6266ce487b5d6f3035302bf45c37f66a656af540eddd2bbb"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 25,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1824896,
+          "input_tokens": 2139769,
+          "output_tokens": 3443,
+          "reasoning_output_tokens": 1637,
+          "total_tokens": 2143212
+        },
+        "usage_projection_sha256": "f18a8adf00fad4871a7179d30826a5291f614f987f10366fd6f0c6e07aa30469"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 15,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 550656,
+          "input_tokens": 596484,
+          "output_tokens": 1684,
+          "reasoning_output_tokens": 662,
+          "total_tokens": 598168
+        },
+        "usage_projection_sha256": "6008c7c98d9e5c7e78b728a9cbd529df1709fa25436e2aa3db555fcbeab1e9d4"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 5,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 196992,
+          "input_tokens": 242107,
+          "output_tokens": 685,
+          "reasoning_output_tokens": 309,
+          "total_tokens": 242792
+        },
+        "usage_projection_sha256": "fd9623f329485d8727e45d68227f2482a1616c54e39263ef689b8e26cb7071f3"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 1,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 6016,
+          "input_tokens": 22209,
+          "output_tokens": 166,
+          "reasoning_output_tokens": 90,
+          "total_tokens": 22375
+        },
+        "usage_projection_sha256": "81de016ef5fcda53dc3a76f09be9567763c7a054e12c12b9b3a989a202dc178f"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 1,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 6016,
+          "input_tokens": 23405,
+          "output_tokens": 211,
+          "reasoning_output_tokens": 136,
+          "total_tokens": 23616
+        },
+        "usage_projection_sha256": "8fec29aea0199027dbde4fa3c8a2a24964ec1ecaa8076ff60764e991372b189d"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 4,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 60800,
+          "input_tokens": 83154,
+          "output_tokens": 515,
+          "reasoning_output_tokens": 221,
+          "total_tokens": 83669
+        },
+        "usage_projection_sha256": "e37f5c2dc1cc655f2c67b5946de15f6bf14bf646481a01851f969b041bc54c72"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 1,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 10752,
+          "input_tokens": 29784,
+          "output_tokens": 166,
+          "reasoning_output_tokens": 79,
+          "total_tokens": 29950
+        },
+        "usage_projection_sha256": "041be596dbee22d6ebbdf15e6528b7538e0aa81bfa0f3f36ec3aaab2147bb183"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 2,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 24832,
+          "input_tokens": 51458,
+          "output_tokens": 307,
+          "reasoning_output_tokens": 142,
+          "total_tokens": 51765
+        },
+        "usage_projection_sha256": "2aaba456505e14115f40348465f122b45c1ff3c73c657e82e820437fd0550f3c"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 34,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 2624768,
+          "input_tokens": 2816390,
+          "output_tokens": 4304,
+          "reasoning_output_tokens": 1605,
+          "total_tokens": 2820694
+        },
+        "usage_projection_sha256": "5ecafb9e81c057a9c33344994e2c3432de94edba668f5b9c27cb2979c3bdb170"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 1,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 6016,
+          "input_tokens": 21095,
+          "output_tokens": 356,
+          "reasoning_output_tokens": 283,
+          "total_tokens": 21451
+        },
+        "usage_projection_sha256": "fa07c8779e23e6b246f7038e95aa9c196034a7ae0bc6f905656e08cc76e3c2dc"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 25,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1528192,
+          "input_tokens": 1652751,
+          "output_tokens": 3029,
+          "reasoning_output_tokens": 1069,
+          "total_tokens": 1655780
+        },
+        "usage_projection_sha256": "5b2ccaf60043f6a6825394340968cc6bb52731595e944877414508d3e0e12d41"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 33,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 2566656,
+          "input_tokens": 2706763,
+          "output_tokens": 4137,
+          "reasoning_output_tokens": 1682,
+          "total_tokens": 2710900
+        },
+        "usage_projection_sha256": "4af1f9d8321a21960732b379cfce83eab2ceb254af785be8729f3972e0ef1c44"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 9,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 225152,
+          "input_tokens": 284079,
+          "output_tokens": 1215,
+          "reasoning_output_tokens": 658,
+          "total_tokens": 285294
+        },
+        "usage_projection_sha256": "bda0151aafa84fbcf08b591eff23b9be71a8fd543ac94689b33945006a0540bd"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 21,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1319040,
+          "input_tokens": 1646222,
+          "output_tokens": 2620,
+          "reasoning_output_tokens": 1002,
+          "total_tokens": 1648842
+        },
+        "usage_projection_sha256": "0e35949d34fdacc42768bbb529a81038db40cee552d091b8ba13b866c121ba03"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 6,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 122752,
+          "input_tokens": 164345,
+          "output_tokens": 991,
+          "reasoning_output_tokens": 482,
+          "total_tokens": 165336
+        },
+        "usage_projection_sha256": "08162ae3bbc1d74b340efe4b614ff88093eb9adce019f0fb60f208bf307607bd"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 16,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 934784,
+          "input_tokens": 1019682,
+          "output_tokens": 1925,
+          "reasoning_output_tokens": 643,
+          "total_tokens": 1021607
+        },
+        "usage_projection_sha256": "f851b1515c2169b5148bf1d8634997438df124340ac1436ab89163d4a2d25455"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "非这两条主任务及其评分子任务；同项目其他对话不纳入主口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 4,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 154240,
+          "input_tokens": 193698,
+          "output_tokens": 961,
+          "reasoning_output_tokens": 174,
+          "total_tokens": 194659
+        },
+        "usage_projection_sha256": "1c968bdd3ed59ef8237270ef2d0c28004c816a3c9542b5bd0607eda87cebb862"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "非这两条主任务及其评分子任务；同项目其他对话不纳入主口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 3,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 97920,
+          "input_tokens": 123981,
+          "output_tokens": 464,
+          "reasoning_output_tokens": 0,
+          "total_tokens": 124445
+        },
+        "usage_projection_sha256": "19d51efbcc7fc580239fa32723a668d97e081bcf65c383fa4040a3094f134650"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "后台辅助审查用量，不纳入主对话/评分agent口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 6,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 167936,
+          "input_tokens": 212002,
+          "output_tokens": 1109,
+          "reasoning_output_tokens": 646,
+          "total_tokens": 213111
+        },
+        "usage_projection_sha256": "7c0b948eb2beb8e77bc93d7363e60e11b3e26b3df49105a43957c7af986ae056"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "非这两条主任务及其评分子任务；同项目其他对话不纳入主口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 7,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 318848,
+          "input_tokens": 357747,
+          "output_tokens": 1656,
+          "reasoning_output_tokens": 646,
+          "total_tokens": 359403
+        },
+        "usage_projection_sha256": "0728437bfe5767e831a084786e5e31e75cc87a20d0d2759168e9a2a9985a029d"
+      },
+      {
+        "duplicate_usage_records_skipped": 0,
+        "excluded_reason": "非这两条主任务及其评分子任务；同项目其他对话不纳入主口径",
+        "inherited_usage_records_skipped": 0,
+        "role": "其他同项目对话",
+        "unique_requests": 73,
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 10766848,
+          "input_tokens": 10975117,
+          "output_tokens": 69664,
+          "reasoning_output_tokens": 24721,
+          "total_tokens": 11044781
+        },
+        "usage_projection_sha256": "8218252770eb74de9f87e8d4e836116dcc4dfc12c0fa29081183a2e68c97adc2"
+      }
+    ],
+    "usage": {
+      "cache_write_input_tokens": 0,
+      "cached_input_tokens": 23827712,
+      "input_tokens": 25733598,
+      "output_tokens": 101041,
+      "reasoning_output_tokens": 37576,
+      "total_tokens": 25834639
+    }
+  },
+  "scope": "两轮2200份正式答案及搜索辅助模型、第一轮2000次API判分、两轮主对话和其11个评分/复核agent。Codex用量只纳入本次用户要求统计之前的逐请求记录。",
+  "snapshot_at_beijing": "2026-10-21 10:29:40",
+  "snapshot_at_utc": "2026-10-21T02:29:40.981Z",
+  "source_files_sha256": {
+    "results/2026-10-21-multilingual/analysis/resource-runs.jsonl": "2dae80a64ff2b2693eadffb1c0b3a278170dd9b48e2cc13ad3d67695ed04bef1",
+    "tmp/archive/analysis/resource-runs.jsonl": "32d8caca72a5fecc7a44f95927b7a8f6d776272b199232236592f452b7d8ff9d"
+  },
+  "video_recommended": "三亿多 token"
+}

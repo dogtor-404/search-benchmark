@@ -1,0 +1,35 @@
+{
+  "core_duplicate_usage_records_skipped": 0,
+  "core_session_usage_projections": {
+    "codex-session-02": "c8f8467332e59bd02c03e21e5a37071664795ed70c8127e837221307a383dbc2",
+    "codex-session-05": "41c03b50b01193f769e4a3a05d054aeaed919f8608d4d6fbe11c30bc26064254",
+    "codex-session-15": "de11d5375d34f49db4da4d0f18c2bebb559121bb3e983c74098f64f22a5b8d83",
+    "codex-session-17": "2e0cb9e762a5b448454cf8d3ddf330852206a7e1d4052910aaa9e15b029a4482",
+    "codex-session-22": "b7b97d43c86f486da6c2ccc6a100a9eddf36cd2afbee3e5009f78189bc7490f3",
+    "codex-session-23": "df78239db97cae0d68f678a5139e96b7274a3ab90b20ea62a71a02b51b9f2885",
+    "codex-session-24": "c3c1e97a229f95326889788dc496560da72e016c84db4b09929da049ab0075c7",
+    "codex-session-29": "2d68092d1fe1a4efc909e1b610218e31842c41044561f3ed44ee2bab709d7e2f",
+    "codex-session-30": "c0e560201cf399d53b337c6ecf94c9e9f4ae9a1d924a9ce825bf66554046134d",
+    "codex-session-31": "b5d67e71f7c191947bdf23732fe12b57dfdf222e311e9d7ab2cbeb3371d63b8f",
+    "codex-session-34": "e9bc0984049f08d91f155ad88a737e0c332f7ff412ae4ecac42434a6bb796a7d",
+    "codex-session-35": "3624dc0228b17cfa54cf4493d75683e2369a9d4327bbff5f7647e75750245997",
+    "codex-session-37": "3eee2dfde695b82022776a4f9645cda538f961135ae8b052a8e4340aa87bc775"
+  },
+  "core_unique_requests": 1646,
+  "documents_sha256": {
+    "README.md": "7b3840db65c783a1f3ce13e69f5b04decb5a4f1404aaeae1034efbd3452761c2",
+    "report.md": "bab110a7d140dc8dda4c30b507acec76e40d6e1304dba412be20aca5c2eaa064",
+    "日志.md": "d6b96aead56077a24976687e15629d9f580b18c7c0911da2fcb291791e7dd00c"
+  },
+  "inherited_usage_records_skipped": 0,
+  "report_sha256": "750f81c7bb397f38127e7ce8d0e40642a0d3815e9a756de8e87d2789294b886b",
+  "snapshot_at_utc": "2026-10-21T02:29:40.981Z",
+  "summary_sha256": "471f597c75fa9d169c5a660814ecc07e549590102cfcb1f65d254fc27b89b7a6",
+  "tool_sha256": "353d9701b1564cb69431b974fd1be28171c0ace01b3b619f445999aab3bfe9ad",
+  "verification": {
+    "cached_and_reasoning_not_double_counted": true,
+    "sessions": 13,
+    "unique_requests": 1646,
+    "usage_sum_arithmetic": true
+  }
+}

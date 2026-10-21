@@ -1,0 +1,118 @@
+{
+  "adopted_at": "2026-10-21T10:05:25.903575+08:00",
+  "apply_to_all_groups": true,
+  "authorization": "给我看分歧内容吧题目的我也看不懂，直接从分母删掉。主要给我看判决的分歧就好了",
+  "excluded_question_ids": {
+    "first": [
+      "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e",
+      "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+      "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0",
+      "frames-137",
+      "frames-394",
+      "frames-598",
+      "simpleqa_verified-1129",
+      "simpleqa_verified-1353"
+    ],
+    "second": [
+      "msqa-ES-35",
+      "msqa-ES-37",
+      "msqa-ES-51",
+      "msqa-ES-56",
+      "msqa-ES-67",
+      "msqa-ID-07",
+      "msqa-ID-33",
+      "msqa-ID-70",
+      "msqa-KO-52",
+      "msqa-KO-76",
+      "msqa-KO-85",
+      "msqa-KO-90",
+      "msqa-KO-91",
+      "msqa-RU-01",
+      "msqa-RU-04",
+      "msqa-RU-19",
+      "msqa-RU-24",
+      "msqa-RU-31",
+      "msqa-RU-89",
+      "msqa-TH-08",
+      "msqa-TH-100",
+      "msqa-TH-40",
+      "msqa-TH-76",
+      "msqa-TH-80",
+      "msqa-TH-85"
+    ]
+  },
+  "new_primary_denominators": {
+    "first": 92,
+    "second": 95
+  },
+  "original_grades_modified": false,
+  "original_pending_question_ids": {
+    "first": [
+      "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e",
+      "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+      "frames-394",
+      "frames-598"
+    ],
+    "second": [
+      "msqa-ES-51",
+      "msqa-ES-67",
+      "msqa-KO-85",
+      "msqa-KO-91",
+      "msqa-RU-01",
+      "msqa-RU-89"
+    ]
+  },
+  "previous_primary_denominators": {
+    "first": 96,
+    "second": 120
+  },
+  "reference_flag_question_ids": {
+    "first": [
+      "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e",
+      "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb",
+      "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0",
+      "frames-137",
+      "frames-394",
+      "frames-598",
+      "simpleqa_verified-1129",
+      "simpleqa_verified-1353"
+    ],
+    "second": [
+      "msqa-ES-35",
+      "msqa-ES-37",
+      "msqa-ES-51",
+      "msqa-ES-56",
+      "msqa-ID-07",
+      "msqa-ID-33",
+      "msqa-ID-70",
+      "msqa-KO-52",
+      "msqa-KO-76",
+      "msqa-KO-85",
+      "msqa-KO-90",
+      "msqa-RU-04",
+      "msqa-RU-19",
+      "msqa-RU-24",
+      "msqa-RU-31",
+      "msqa-RU-89",
+      "msqa-TH-08",
+      "msqa-TH-100",
+      "msqa-TH-40",
+      "msqa-TH-76",
+      "msqa-TH-80",
+      "msqa-TH-85"
+    ]
+  },
+  "retrospective": true,
+  "selection_rule": "截至本次处理，完整四类复核summary中全部all_reference_flags题号，并集两轮所有原待核题号。按题号在同轮十组统一剔除，包含原答对、答错、弃答与待核；不只剔除某模型的某份答案。",
+  "source_files_sha256": {
+    "results/2026-10-20-revised-96/policy.json": "656ab4c53db6e32574c8b0b81f83926c7185717bed9165979c61e043a3236a8c",
+    "results/2026-10-21-response-review/no-search-double-blind/resolution-receipt.json": "fd94a9eb3d515191d73a63b651b6e3297545e61d7286cddb201f6ee82f46cb25",
+    "results/2026-10-21-response-review/no-search-double-blind/resolved.jsonl": "d165bd8345734970bb0d2b239f232b813533c32c935a3da132c20120757b48ca",
+    "results/2026-10-21-response-review/no-search-double-blind/summary.json": "ee6947082444756d09ddd43d5455f8d7d5e08e264a1489969ea39eaf23085161",
+    "results/2026-10-21-unified-score/protocol.json": "6cee83cc6cf169e5a11bea044103a0b15254e4f7ca06c954652d44099cbd998a",
+    "results/2026-10-21-unified-score/resolution-receipt.json": "9cbf1d96332b67294462119010bda313b870c146128ac76096d6b439320a7274",
+    "results/2026-10-21-unified-score/score-records.jsonl": "b671065c1155feb53660bd6d55df3cace71e00aaaa6abdd5400ec2cd0a8568b9",
+    "results/2026-10-21-unified-score/summary.json": "9525c8fca68c1ddc4e1b137e5c864792b6777fe6525e4bdf995fb6c5ad005e80"
+  },
+  "source_questions_deleted": false
+}

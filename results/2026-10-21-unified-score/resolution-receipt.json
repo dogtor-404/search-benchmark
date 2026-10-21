@@ -1,0 +1,15 @@
+{
+  "adjudicated": 7,
+  "blind_sha256": "7d6e5b6defc937ab5de9d7d5603d3aa7086bae02b4f32f3fbe6a91a1f41b5f69",
+  "disagreements": 7,
+  "mapping_sha256": "40a5763e8b7dd180c07f95f1b828c6d124d16edb4cfef8a51c8e9e76875c0adc",
+  "method": "两位独立匿名语义判断；一致采用，分歧由第三位独立匿名裁决，第三位看不到前票。",
+  "records": 328,
+  "resolved_sha256": "8f4fb62e63e8784eb913a1219a7db1bba18403cc95758bd90b55a5e8c4850224",
+  "rubric_sha256": "cd5ffb285a176346ffc21c24fc08a27875ec9c840949fd7ed8d8a41845022ad9",
+  "votes_sha256": {
+    "a": "be45004664739dab34a1d3d7a46090db7ceeba377576b7e72a6f92f69d2245ac",
+    "b": "61691d94ef0a99a4f02b554f967102a558abc20474994ee007e183ed889feb71",
+    "c": "daa56d380fdf5a89a813ae83751ca318996d1834b6fa83bcf138f885bb01a9f9"
+  }
+}

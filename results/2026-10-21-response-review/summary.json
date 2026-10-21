@@ -1,0 +1,92 @@
+{
+  "confirmed_abstentions_among_original_incorrect": 112,
+  "confirmed_count_is_lower_bound": true,
+  "confirmed_fraction_of_original_incorrect": 0.2814070351758794,
+  "definition": "明确说不知道、找不到或无法确定，且不把某个候选作为题目目标答案提交。泛泛背景介绍可以存在；背景本身仍可能有事实错误。",
+  "groups": {
+    "0": {
+      "confirmed_abstentions_lower_bound": 36,
+      "name": "Sonnet 不搜索",
+      "original_incorrect": 70,
+      "other_original_incorrect_not_classified_as_hallucination": 34
+    },
+    "0_prime": {
+      "confirmed_abstentions_lower_bound": 14,
+      "name": "Opus 不搜索",
+      "original_incorrect": 56,
+      "other_original_incorrect_not_classified_as_hallucination": 42
+    },
+    "A": {
+      "confirmed_abstentions_lower_bound": 14,
+      "name": "Sonnet 原生搜索",
+      "original_incorrect": 37,
+      "other_original_incorrect_not_classified_as_hallucination": 23
+    },
+    "A_prime": {
+      "confirmed_abstentions_lower_bound": 3,
+      "name": "Opus 原生搜索",
+      "original_incorrect": 20,
+      "other_original_incorrect_not_classified_as_hallucination": 17
+    },
+    "B": {
+      "confirmed_abstentions_lower_bound": 3,
+      "name": "Sonnet + DeepSeek 搜索",
+      "original_incorrect": 18,
+      "other_original_incorrect_not_classified_as_hallucination": 15
+    },
+    "B_prime": {
+      "confirmed_abstentions_lower_bound": 0,
+      "name": "Opus + DeepSeek 搜索",
+      "original_incorrect": 11,
+      "other_original_incorrect_not_classified_as_hallucination": 11
+    },
+    "D0": {
+      "confirmed_abstentions_lower_bound": 24,
+      "name": "Flash 不搜索",
+      "original_incorrect": 79,
+      "other_original_incorrect_not_classified_as_hallucination": 55
+    },
+    "D0_prime": {
+      "confirmed_abstentions_lower_bound": 18,
+      "name": "Pro 不搜索",
+      "original_incorrect": 70,
+      "other_original_incorrect_not_classified_as_hallucination": 52
+    },
+    "D2": {
+      "confirmed_abstentions_lower_bound": 0,
+      "name": "Flash + DeepSeek 搜索",
+      "original_incorrect": 18,
+      "other_original_incorrect_not_classified_as_hallucination": 18
+    },
+    "D2_prime": {
+      "confirmed_abstentions_lower_bound": 0,
+      "name": "Pro + DeepSeek 搜索",
+      "original_incorrect": 19,
+      "other_original_incorrect_not_classified_as_hallucination": 19
+    }
+  },
+  "limitations": [
+    "112是已确认的保守下界，不是完整弃答总数；其余286份含错误断言、不完整、猜测与撤回等，不一概称幻觉。",
+    "原18份待核不混入398错误的分母；原始判分、正确率与搜索扣分均未更改。",
+    "没有全面审查每条断言与每次返回的对应关系，不能计算有据可依的严格幻觉率。",
+    "补注为AI审阅，不是母语人工复核。"
+  ],
+  "method": "独立于原评分的事后AI语义补注。先看匿名错误项的原盲评理由，回看候选回答首尾；需区分猜测与撤回答案的项目回查原文。仅收录证据明确的目标弃答，保留含候选、部分回答等边界项，不把未收录视为没有弃答。不是基于关键词的自动分类，也不是新的完整幻觉评测。",
+  "new_reference_review": {
+    "hospital_page_date": "1871年6月7日",
+    "library_page_date": "1871年7月7日",
+    "original_reference": "特维尔 1871年6月7日",
+    "question_id": "msqa-RU-04",
+    "scores_changed": false,
+    "status": "source_date_conflict_requires_review"
+  },
+  "original_correct": 784,
+  "original_incorrect": 398,
+  "original_uncertain": 18,
+  "remaining_original_incorrect": 286,
+  "reviewed_on": "2026-10-21",
+  "source_answer_records": 1200,
+  "source_vote_records": 1200,
+  "strict_hallucination_count": null,
+  "strict_hallucination_rate": null
+}

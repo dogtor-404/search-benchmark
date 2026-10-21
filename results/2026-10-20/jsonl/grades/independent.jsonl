@@ -1,0 +1,1000 @@
+{"id": "002c17c5b46b4629b7c20d605ed7dc24", "reason": "许可证Apache License 2.0匹配。", "verdict": "correct"}
+{"id": "0031d1ae3cb84ea1a43a777317a19beb", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "005ee1b1f7a54df8b58723c57d117186", "reason": "单位为分贝，与标准一致。", "reused_from": {"id": "5cddff6f164d4825a126b943d7beb894", "phase": "baseline"}, "verdict": "correct"}
+{"id": "00c8e77106384c7e8cb88e2c0b480558", "reason": "年份1899与标准一致。", "reused_from": {"id": "ca66a288449c41b292726120be53e0a4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "00ca690ba6fc48a9bafa7e7615567d10", "reason": "年份1984匹配。", "verdict": "correct"}
+{"id": "00e5f3d0cf99422caf8e735861b3cd44", "reason": "明确回答Google服务器，与标准一致。", "verdict": "correct"}
+{"id": "00feb61359c8498488036a7e1896016b", "reason": "威斯康星大学麦迪逊分校与标准等价。", "verdict": "correct"}
+{"id": "0111026e1c6a4c0cae43d7f6cca35452", "reason": "许可证Apache License 2.0匹配。", "verdict": "correct"}
+{"id": "01fa42ca33674fed930b90715731958b", "reason": "未给出作者Hema Budaraju。", "reused_from": {"id": "91810cc5a691476bbb8219b24eb784a8", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "01ffd133ea734c3aae9c1ef376f3c7b9", "reason": "按正式独立宣言选择45年，与标准一致。", "reused_from": {"id": "34b0680c14f24c2e8179b50146aa6ca1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "024e479625484a01897bd4123df3582c", "reason": "人物Harald Haas与标准一致。", "reused_from": {"id": "592d9761878a4470a4537ac01da4c8a5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "028266a7a34f43baa20e58c11ea00082", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "029c0b5bce4a4c229499f160c665f7f4", "reason": "校长Leon Botstein与标准一致。", "reused_from": {"id": "29b6d9cb46114b71a2177f008b933a14", "phase": "baseline"}, "verdict": "correct"}
+{"id": "02be509421d843d5be0cdef78a83513e", "reason": "主答出生名4个元音，与标准一致。", "verdict": "correct"}
+{"id": "02d472508b8443569e420c18065cdf35", "reason": "年份1818匹配。", "verdict": "correct"}
+{"id": "0351b84df0ed4bffabaf35966f20743a", "reason": "作家、较长寿者及82天均匹配。", "verdict": "correct"}
+{"id": "03575669785b4c7dab32d9e9f4d5256a", "reason": "大学Duke University与标准一致。", "reused_from": {"id": "4e43df5972ab44049ac7ad4d55adbe9f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "037b8bf535454643bc552bcf0667af6d", "reason": "国家瑞士匹配。", "verdict": "correct"}
+{"id": "03a98d67745042e1815c27bab70a7b99", "reason": "维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "03c6b27bd2db49659eead5efbfffaa36", "reason": "白金认证匹配。", "verdict": "correct"}
+{"id": "03f1278d2b4b4e26a9a10aec68a671f5", "reason": "角色Rose Loomis与标准一致。", "reused_from": {"id": "a49fb7f4a2a54e989bc8c0f92f4a41fe", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0421112e096c4a5ead792495a27ced94", "reason": "第一作者Kevin D. Hall与标准一致。", "reused_from": {"id": "ba01efac7c2247298e0f32d289a6b639", "phase": "baseline"}, "verdict": "correct"}
+{"id": "050642b5d82c48ebba660cd865e7605c", "reason": "未给出完赛时间41:18。", "reused_from": {"id": "5b064642208c46de8706cfd59b525b7d", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "0568b93320864bfe934fd85a07a13674", "reason": "明确给出1818年，与标准一致，保留语气不影响答案。", "reused_from": {"id": "6eaad0cf05a043d9b93b4ba580031f0d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "059e5748dc2348e480c68c9d3f08e91f", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "062b1262a32a482eb0e244a20734c974", "reason": "作者Carl Hiaasen匹配。", "verdict": "correct"}
+{"id": "0635adbcdff94611b1647e34c6cd9ce9", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "066d93394ebc42ec99b9fe6508590614", "reason": "未给出作者Hema Budaraju。", "reused_from": {"id": "bdb782521e3446afaf25d2e94c5ad3e0", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "0696cf40fb26446b94ef66b492a29eff", "reason": "剧院名称为同一名称的拼写变体。", "verdict": "correct"}
+{"id": "06be9185ced34c0e9a85dbcf1b1dba8e", "reason": "菜名Boko Boko匹配。", "verdict": "correct"}
+{"id": "06dcfee1afc44b37907a75ee0011e4e2", "reason": "导演为冲浦启之，与标准一致。", "reused_from": {"id": "a98a579fc385455d8013296c742a9959", "phase": "baseline"}, "verdict": "correct"}
+{"id": "07240ec1e6db40398ace491daafc73a3", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "073d4c36951446d3b89b064215a29e2c", "reason": "第一作者Kevin D. Hall与标准一致。", "reused_from": {"id": "5c86c594c14c43d49174e3e74525f92d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "074ef6d4051d4969a0254dfd4bdaccc8", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "07550f415f91492798e4e5c8adee6238", "reason": "公司Interbrand与标准一致。", "reused_from": {"id": "d44e8152334c41c2a1ed29e559b72b6b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "077845f3363e420b897d7d208f4012bd", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "07aa02d6b837447d83b7e94144127424", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "0860aa38ef6a439f836c3581941b2cd9", "reason": "年份2017匹配。", "verdict": "correct"}
+{"id": "08b215a1f84e4618b1aff14d843ac840", "reason": "学名Ambystoma texanum匹配。", "verdict": "correct"}
+{"id": "08de73d50bb44aef9baff4cae96ddff1", "reason": "博士领域神学匹配。", "verdict": "correct"}
+{"id": "0915b864c3df4f089407980ed47e168a", "reason": "未给出作者Hema Budaraju。", "reused_from": {"id": "eab9191196a04d508137fe494fd0cd8c", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "09468897c44c43cba70f61d0e341d902", "reason": "菜名boko boko与标准一致。", "verdict": "correct"}
+{"id": "09779c15fbd34438b7767683efaa6d2d", "reason": "人物Phil Belanger与标准一致。", "reused_from": {"id": "18dfeeee85fb49eb93058772fed45d8b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "09aa07c788e04d68a58cd8e7bae86a2a", "reason": "主答案采用整枚火箭加飞船质量，题面未限定统计对象，无法唯一对应标准的飞船质量。", "verdict": "uncertain"}
+{"id": "09b5081a731e4493884002b5b5526e35", "reason": "出生年份1946与标准一致。", "reused_from": {"id": "ff8400617c6940a786e2ba339f61814a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "09d189a52bd240f59860065e4e02e3b4", "reason": "国家瑞士匹配。", "verdict": "correct"}
+{"id": "09de55e06d0e4d808c672c18aed73780", "reason": "两位作家、伍尔夫较长寿及82天均与标准一致。", "reused_from": {"id": "064b55d3abcc45ebacff90dda6dcb7df", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0a17dd9ee70345e592ac39a586449f90", "reason": "国家美国与标准日本不符。", "verdict": "incorrect"}
+{"id": "0a6e5a9ec4394914bf55016a466f4cab", "reason": "作家、较长寿者及82天均匹配。", "verdict": "correct"}
+{"id": "0a92f57fccce45aa9fdddcc03f61a7f4", "reason": "年份1977与标准一致。", "reused_from": {"id": "bcc98943eeda49f0b1573938e50bd334", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0ac9da0c72f749949a5b9e82af14bd8f", "reason": "插画师Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "0af510cef79546f68ad0da30d437d833", "reason": "姓名Arianne Kathleen与标准一致。", "reused_from": {"id": "6bfc9c4e54184ea38de51a60837889ff", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0b23c7a3f11f4caaa0e024aadc880ea0", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "0b355105a5f04ecfbea65beb6e87fe33", "reason": "硕士学校答伯克利，与标准威斯康星大学不符。", "reused_from": {"id": "a1fad44176fe446fb15a96dea29b5e07", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "0c18ca4a8ff943e9a6504f6c803a81b7", "reason": "主答案平均47906公斤与标准一致。", "verdict": "correct"}
+{"id": "0c3e175a84444f5d9091e184a9961eaa", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "0c408c8496cb4335b58f0a47407b9ee3", "reason": "年份为2017，与标准一致。", "reused_from": {"id": "a0169b79284d4f66a5ceca9f79b3616f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0c721da3a2bc45cea9b3adc287f0652a", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "0cf5325ccfb148fbb38375ddf59fd528", "reason": "合著者John D. DeLamater与标准一致。", "reused_from": {"id": "b2da22385cdd4da09b22a5e6ca329023", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0d1b9c7f3d1b48c2a40728092052dfff", "reason": "年份1996与标准一致。", "reused_from": {"id": "33531ea093314634a31e997cce10dd8d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0d2fe5183e4a41eea4d7a6936c866842", "reason": "年份2017与标准一致。", "reused_from": {"id": "12a6826e1a6b4965988d6165d23686d0", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0d5ced5145014a17bae92f02417c482f", "reason": "110.5米在标准可接受范围内。", "verdict": "correct"}
+{"id": "0df603d763a74c72a7367ec6342586d6", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "0ed57d348a5c4fdf866675f4fb10d15b", "reason": "所问日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "0f5051c2312844aeb59815000f5e1d3c", "reason": "年份2013匹配。", "verdict": "correct"}
+{"id": "0f66af27ae3e4df685947fe0cb933ed5", "reason": "单位安培每米与标准等价。", "reused_from": {"id": "b9c0f874224c49a684d78a32553ae4dd", "phase": "baseline"}, "verdict": "correct"}
+{"id": "0fe9f531869b49b6a70f6c26c4991dc1", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "10a4391c733f4d50bfbdc37d1a1d7b7b", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "110e8d3d69e841ea83c5014c0ccf8c5f", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "11950059b9fa497f9ed6f36b58b43db7", "reason": "作品名The Problem We All Live With与标准一致。", "reused_from": {"id": "958d6fc94e2a42d3b24563c1cdf556b9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "11988092513c426681283f760d1cad77", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "11c970f3e9754233afa736eb8ce3d113", "reason": "1810/1813/1821对应不同独立事件，题面未指定采用哪次宣告。", "verdict": "uncertain"}
+{"id": "11eedd56f40549f3bf8c4ff4488c2b23", "reason": "作者Carl Hiaasen与标准一致。", "verdict": "correct"}
+{"id": "1222e6c30e4b49a2beeec53af0bbed4a", "reason": "导演冲浦启之匹配。", "verdict": "correct"}
+{"id": "12b271f1c8ac4b8cbe2a254f570d2205", "reason": "日期2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "12d62273583141289c64e7c681b18cea", "reason": "国家日本匹配。", "verdict": "correct"}
+{"id": "12e2c3a1e60e4d88af7815410e148296", "reason": "词语equilux与标准一致。", "reused_from": {"id": "d8f73ec59fe144e4951b0680d56ff446", "phase": "baseline"}, "verdict": "correct"}
+{"id": "136498bac258402d8f029aaee1512ce3", "reason": "角色Rose Loomis匹配。", "verdict": "correct"}
+{"id": "142c16e073854c35a72dee99ca76cc13", "reason": "单位分贝与标准一致。", "reused_from": {"id": "1680f621cd104b209a6c312656d89066", "phase": "baseline"}, "verdict": "correct"}
+{"id": "149a11dabe674fa6954899a042a34bdf", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "14fe1c383b934d0daaf78f05c2f304a0", "reason": "日期1983年1月1日与标准一致。", "reused_from": {"id": "2d11b842121c4dbb82489b866fe99143", "phase": "baseline"}, "verdict": "correct"}
+{"id": "151487333fde49f8a55ba0198ce1e822", "reason": "110.5米在标准可接受范围内。", "reused_from": {"id": "63326d427f704f52980c3828edd3a1e6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1580ada6e86f4d03aef64e4fa5dff621", "reason": "学名Ambystoma texanum与标准一致。", "reused_from": {"id": "09e8715994804b3f98a994020372ee8b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "15887604b0a34f129150c5906bcd12a2", "reason": "年份1984匹配。", "verdict": "correct"}
+{"id": "15e7e8dad8b943358fcd9a090d7b982c", "reason": "新加坡部门名称匹配。", "verdict": "correct"}
+{"id": "15f4b57548d243b7bed46dc76398e362", "reason": "未给出人口628。", "reused_from": {"id": "030ae849477f47fcaa79cc3219e555d7", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "160c4c91bad94760a02c9842c0155273", "reason": "许可证Apache License 2.0匹配。", "verdict": "correct"}
+{"id": "16435a5657c641b2afa2b5229f96be64", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "1687b5fc136341bf98d6628da4b41a02", "reason": "两项目stadion和diaulos匹配。", "verdict": "correct"}
+{"id": "16a2e8ea45f24bb9943962e6feb640c3", "reason": "山峰格尔拉赫峰与标准一致。", "reused_from": {"id": "806bb7ccc1bc498aad1010e6a6f1cad0", "phase": "baseline"}, "verdict": "correct"}
+{"id": "16acac52ac0d4e7a9773ee0f44319556", "reason": "宫殿Palazzo della Cancelleria与标准一致。", "reused_from": {"id": "d01235c1d5d4426e82ff9a447c585f45", "phase": "baseline"}, "verdict": "correct"}
+{"id": "16f32f16776f4e62b01213ef50e90b13", "reason": "两项目stadion和diaulos与标准一致。", "reused_from": {"id": "ba6d5198e8a6401ebba4c25149397699", "phase": "baseline"}, "verdict": "correct"}
+{"id": "17413c9641ad413db0f800f01f47bf90", "reason": "未给出获胜者和车型。", "reused_from": {"id": "e381cc5d6b2242018610cdd7baa342a1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "17bfb4d723e14ace81c536248d819e58", "reason": "未回答参考视频存储在Google服务器。", "reused_from": {"id": "9f6ded625ba04897bcaad80d94dbcf4a", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "180f7b5f8741475fa51646ac5ea633ae", "reason": "所问完成年份2014与标准一致。", "reused_from": {"id": "5489e745cfa34c2c8659b1984ed62bed", "phase": "baseline"}, "verdict": "correct"}
+{"id": "181efc659fe94996b74e32727299138e", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "183fba9d0cdd45309a7708966f2f54c0", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "184cc70b0ba14909a8f910e2dedf7653", "reason": "人口302971匹配。", "verdict": "correct"}
+{"id": "18ecab903ca64b53ba1aead2479b96ea", "reason": "Gianni Rodari与标准人物一致，中文译名差异可接受。", "reused_from": {"id": "a529beda73dc4676a2a7a08668290700", "phase": "baseline"}, "verdict": "correct"}
+{"id": "190c855a0fd3490ba80ffb0207fa2284", "reason": "未给出股份比例5%。", "reused_from": {"id": "7621296756d44914952bb7fddae5c4dd", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "197e7f8d40294203aa26524ef6ed8ef4", "reason": "未给出具体模型版本。", "reused_from": {"id": "db22a0b97e154750b8daf32be1668829", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1a1fb3ab502a4699b334c61d77638511", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "1acb85aa2cff4e97a6053b04d8a51bdb", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "1ae0829ea7ae48409a88971840441db4", "reason": "主答案报道年份2016匹配。", "verdict": "correct"}
+{"id": "1af033c4b0474d12ae097aa8dfc1b81c", "reason": "未给出量产年份2028。", "reused_from": {"id": "7dfdd3875a274a1aaf42412c1e53414a", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1b11f3c0e7fb469cbd829898189a09d8", "reason": "菜名boko boko与标准一致。", "reused_from": {"id": "ae1ffb07636f408d96a72e35822244e1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1b388c46b16d42a68a9faabff1dddc58", "reason": "四种维生素A、D、E、K与标准一致。", "reused_from": {"id": "98f1ab77a18d43069d17a80dec07638e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1ba7f8e268c449b7a434cb082cc6068f", "reason": "山峰格尔拉赫峰与标准一致。", "reused_from": {"id": "6b8d5fa52a0144278857b9fdcc5a424b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1bc298e5741545458f56313932c71326", "reason": "未给出两位获奖者。", "reused_from": {"id": "fc6f4948c93f47f1a1ecae267acc6879", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1bc7340e87b04956ad001f0b20534e0c", "reason": "主答案建州年份1818匹配。", "verdict": "correct"}
+{"id": "1bdfbe75ba2b4ab8816be7510addfb64", "reason": "车型McMurtry Spéirling与标准一致。", "reused_from": {"id": "57f3cfe30fd04b8dbbc7da7ca77f3f18", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1bf2a0057fca4a788d0a1522910439dc", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "1c20c2f4d3bd43f78112d6dc5f1689f7", "reason": "白金认证匹配。", "verdict": "correct"}
+{"id": "1ca504fd0aa9490fb3291a174c1ee4c3", "reason": "给出1999或2000年，与标准2008年不符。", "reused_from": {"id": "915f13d5629e41c9a584f5c0e064ef6a", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1caf9f51ea254ef99235aecda404a821", "reason": "未给出活动日期。", "reused_from": {"id": "8e8ea8a93dd34577aaca860bf5f2bf90", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1cedf16afde84cbdbf2903297d967e23", "reason": "人物Marcelo Viana匹配。", "verdict": "correct"}
+{"id": "1d1827eec21144c9a97a363b313b62c6", "reason": "年份2013与标准一致。", "verdict": "correct"}
+{"id": "1d620687778448a0b1f4ed9f0cac4b6d", "reason": "驾驶员Thomas Yates匹配。", "verdict": "correct"}
+{"id": "1d84ed2219d74024817e286175ed49e9", "reason": "联盟South Orange Little League与标准一致。", "reused_from": {"id": "b88544e7e9594a9a8bf70c087abcb7ff", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1d97b5eb77a24980a4e8383b72e95987", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "1df114135e2f446f845630a7afa77bcf", "reason": "未给出工具名OSS Scanner。", "reused_from": {"id": "27cc0aa32ad643329505aa259ee4bcd1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1e360b863deb4e4db232b49476c605c8", "reason": "大学Duke University与标准一致。", "reused_from": {"id": "5eb9a7f998b34a5196c3f06007808f98", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1f78782cba5d432bbf203370f5972a12", "reason": "未给出球队Brooklyn Superbas。", "reused_from": {"id": "fb7298ccb25f48ed83d43c34e5d36dfd", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "1f971b3dd2154013819b5b9e8699e5c4", "reason": "年份1818与标准一致。", "reused_from": {"id": "f037f34f2930407893b5a5d96b5a30de", "phase": "baseline"}, "verdict": "correct"}
+{"id": "1fb3be5842224998a93953beed973bff", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "1fe81e52947c4c39b5f4338c640665d3", "reason": "平均47183公斤，与标准47906公斤不符。", "verdict": "incorrect"}
+{"id": "2062d058a6e24727814c83913ab7fe2c", "reason": "年份1996与标准一致。", "reused_from": {"id": "7f1e7c66fe834ba289868bf3bc17b022", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2088305dd419478a8aa17d2362fffd86", "reason": "年份1996与标准一致。", "reused_from": {"id": "d365b399c3904821bab035a05f4d5de9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "20e2767ccb994c70bb7e5d210a9dd651", "reason": "女王在位时间更长，与标准一致。", "verdict": "correct"}
+{"id": "21c7a62337be4de99405f3150736d044", "reason": "人物Willa Collar与标准一致。", "reused_from": {"id": "8d189bc05c044ff28c735a07c2aa8d70", "phase": "baseline"}, "verdict": "correct"}
+{"id": "21e256fc3d1d4d439e283b3f0a625edd", "reason": "年份2028匹配。", "verdict": "correct"}
+{"id": "21fab13265854f7da49c9faae181664d", "reason": "专利编号US 3,600,186与标准及别名一致。", "reused_from": {"id": "67c94eaadba04483bdaa0d0aef47e073", "phase": "baseline"}, "verdict": "correct"}
+{"id": "221066a8752a476bb49a60a8feecb09a", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "222d563f5b8543c7922759d11eb04c60", "reason": "联盟South Orange Little League匹配。", "verdict": "correct"}
+{"id": "224efd2e4beb421593ea12063a774f75", "reason": "报道年份2016匹配。", "verdict": "correct"}
+{"id": "2253487ce7be49f68f7b06f6875da315", "reason": "年份1977与标准一致。", "reused_from": {"id": "fef58ed0c4c2485e84052c676f4b75d2", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2282e205e0eb43bf8329d60cddca7bd1", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "2296f447114441e18c9bb8ef7525863b", "reason": "国家答加拿大，与标准日本不符。", "reused_from": {"id": "fb2bc0dab98345c196480def359af370", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "22c282db2abd486f804d5da71174e07d", "reason": "作家、较长寿者及82天均匹配。", "verdict": "correct"}
+{"id": "2301b4c025e8489cb97d6da2680d815d", "reason": "宫殿Palazzo della Cancelleria与标准一致。", "reused_from": {"id": "c22bd6d674bb4470b85299c47ef2e31b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2304de5cb4e642119915456d784b1e6f", "reason": "品牌David Protein为可接受别名。", "verdict": "correct"}
+{"id": "2319ef04560a4a18b63bdb187297d833", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "237a2c7df1944169bc7573d1f19bc0e6", "reason": "唯一具体领域为神学Theology，与标准一致，保留语气不影响。", "reused_from": {"id": "8aad0d0b2c5d43c5a63f7f6d8ef50681", "phase": "baseline"}, "verdict": "correct"}
+{"id": "238aa9563ae54fdba2cda05d8699ae71", "reason": "着陆场四子王旗与标准一致。", "reused_from": {"id": "994de5a7557a4fd885dcbbb02eb86774", "phase": "baseline"}, "verdict": "correct"}
+{"id": "23a05b3e56c34332b8509df5e85f8027", "reason": "答拒绝爵位，与标准拒绝安大略省副总督职位不符。", "reused_from": {"id": "b7fbda10332b45fdb03ded1f6a187b94", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "23cead2851264e4bbb988fc446c4d181", "reason": "拒绝安大略省副总督职位。", "verdict": "correct"}
+{"id": "23f5702b3e65419baa400181c89da953", "reason": "姓名Arianne Kathleen匹配。", "verdict": "correct"}
+{"id": "2475e4ac3d6f4915a42c60f3f05cfe5a", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "24b5f30ef95b41e084e8c9bd09e41ed0", "reason": "作者Hema Budaraju匹配。", "verdict": "correct"}
+{"id": "24e3343cda7b45138c46326301bee3a6", "reason": "作者贾尼·罗大里匹配。", "verdict": "correct"}
+{"id": "24e6a4185df54215932a1d71f331a511", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "24e77c41f48d443b9815ab1b26b558f1", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "258ebd0112f542b0b7dc1b8001d348b9", "reason": "Nelson计2、Rolihlahla计4；题面未说明采用英文名还是出生名。", "verdict": "uncertain"}
+{"id": "25dc00b0769a421ab4c7eae84356a68a", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "25f4e530b2ca47948c2c0f230f349d1f", "reason": "比较结论为女王在位更长，与标准一致。", "verdict": "correct"}
+{"id": "261f5bdddb254e8c8e43515bb2397b44", "reason": "41:18在允许范围内。", "verdict": "correct"}
+{"id": "2643cb26d47f4fe9ac5f597d97538646", "reason": "维生素A、D、E、K与标准一致。", "reused_from": {"id": "5fc7817f766642949ef12d0bdeb17179", "phase": "baseline"}, "verdict": "correct"}
+{"id": "26718bcc65a145cf9633e0cecc7f53cd", "reason": "硕士学校威斯康星大学匹配。", "verdict": "correct"}
+{"id": "267aa0f9dcf0446e82802c05ee388d25", "reason": "剧院名为同一名称的拼写变体。", "verdict": "correct"}
+{"id": "27278a104cdb467b9033d0bc1d4f4048", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "275a5ffe388044e191b12a11baa6d808", "reason": "歌曲I Want to Hold Your Hand匹配。", "verdict": "correct"}
+{"id": "2770c301de384ec9af013a77c9534489", "reason": "未给出球队Brooklyn Superbas。", "reused_from": {"id": "2e39285f416a44c3b6f20eed64306cf1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "27791b5dc5bc4e199a184ac114439a59", "reason": "国家日本匹配。", "verdict": "correct"}
+{"id": "27c07cc86c1347a6901f7151b447cc42", "reason": "人物Leonardo de Moura与标准一致。", "reused_from": {"id": "4109787c52d9439a929b2925e3f2d2df", "phase": "baseline"}, "verdict": "correct"}
+{"id": "27c0f680acd84847b716317aebdf7b2e", "reason": "未给出量产年份2028。", "reused_from": {"id": "1a86faf1976c4912bc30a3888e6a1336", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "28da1facdb2f49c68ddb4974d517d381", "reason": "人物毛利兰与标准一致。", "reused_from": {"id": "783bcd15c0b84d3192e55310de393495", "phase": "baseline"}, "verdict": "correct"}
+{"id": "29b190929ee44496b6d1181853bf066e", "reason": "速度632英里/小时与标准一致。", "reused_from": {"id": "286a186af3684bc5937912048af18436", "phase": "baseline"}, "verdict": "correct"}
+{"id": "29e11d40840e401e93bb88cb507d9f5c", "reason": "日期1968年5月6日匹配。", "verdict": "correct"}
+{"id": "29ee074a639041f5ad046bdb39858f04", "reason": "年份2019与标准一致。", "reused_from": {"id": "f3974668541f47b2b9bd79797dd77def", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2a22de838b1c40f38a071528f33f67a2", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "2afc78f9c83441e3aa5716dbfade35b0", "reason": "获奖者Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "2b284d3019314f71a62e50981cda284f", "reason": "Charles Muhanji及Subaru Impreza WRX均匹配。", "verdict": "correct"}
+{"id": "2b836409c3ef4e418af1d2343c482407", "reason": "法文书名与别名一致。", "verdict": "correct"}
+{"id": "2b9188a9da45400795330be8bad54516", "reason": "公司Interbrand与标准一致。", "reused_from": {"id": "86881a4ac5db466aa4e825158a33e2a5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2bb4459608c844fd99f8126a45bc6043", "reason": "人物Nicolaas Govert de Bruijn与标准一致。", "reused_from": {"id": "5abbe01230894493a8db4a6564fbf44d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2bb958f96be54d7f8d6a524ccec36b8e", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "2bc4f8f02a4d4a5c93d0c9667d083568", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "2be51f4e261d4de1a9904f1d18d7ed39", "reason": "Willa及其母亲身份明确对应Willa Collar。", "verdict": "correct"}
+{"id": "2c107dff22f149059aaa4d46398c511d", "reason": "宫殿Palazzo della Cancelleria与标准一致。", "reused_from": {"id": "adc585fb4e434e3a8b6a678a051612c1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2c136598e9a6462394ceaa0a625c5c63", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "2ccd129484134620a6aa5f6372f85555", "reason": "人口628匹配。", "verdict": "correct"}
+{"id": "2ce13374fc22458cb0fb252619bd0cc9", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "2d03496eaed64aa4be05a208ab20345b", "reason": "所问插画师Juan Pablo Machado与标准一致。", "reused_from": {"id": "86fdaa87b9ff4eb3acc6d2381ffd172d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2d26d8d3db9346e787c52d0b4131815a", "reason": "作品名The Problem We All Live With匹配。", "verdict": "correct"}
+{"id": "2d3ba94314ff42fb95d87ba0772e7d41", "reason": "大学Duke University匹配。", "verdict": "correct"}
+{"id": "2d3ce702ded0434ab8b27c7056abdf65", "reason": "日期2009年10月19日匹配。", "verdict": "correct"}
+{"id": "2d4aad2d001146209012c8b019c7c9df", "reason": "作者Carl Hiaasen匹配。", "verdict": "correct"}
+{"id": "2d6df59b0a9d4eda901aca32b0dc206e", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "2db35f5d3d194acfadd237ac547861e5", "reason": "人物福岛邦彦与标准一致。", "reused_from": {"id": "040f3c9adb08438693c6aef43c5d0d18", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2dd962a73ec14ce093ab8eb1cfb449fd", "reason": "主要猜测为WWF，同时含NHK但未选定，答案含互斥组织。", "reused_from": {"id": "6354ee90b6214d48a653704f1ced5368", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "2ddb8ab2730f4384afb3143cd723a05d", "reason": "国家加拿大与标准日本不符。", "reused_from": {"id": "290f37eccc754fe88b48453bfa9fc540", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "2ddf07bfd22d412f81754da898402752", "reason": "维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "2dff635760434ed793cf6a63cbb4a0d9", "reason": "白金认证匹配。", "verdict": "correct"}
+{"id": "2e9a67d9432f4f09a3781a3db92a0aba", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "2ee9e44d348a4bb4bebed42695410428", "reason": "未给出新加坡数码发展及新闻部。", "reused_from": {"id": "3af0dd5bdf714ee1b741a6df3620d4a1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "2f4cfd28f8c545989398f89083309c79", "reason": "比较结论为伊丽莎白二世在位更长，与标准一致。", "reused_from": {"id": "c195e6d0eb194029b50a3d49bc89e01b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2f88ee4cab9e403aa5f66841bdb1700c", "reason": "年份2008匹配。", "verdict": "correct"}
+{"id": "2fca4ab070ce4ab4b6dfbfa7af7c8b14", "reason": "人物Willa Collar与标准一致。", "reused_from": {"id": "7f830e8213554e188db4739d94905daf", "phase": "baseline"}, "verdict": "correct"}
+{"id": "2fccf473789d4fc89a4613d5b8e47a45", "reason": "年份1999与标准2008不符。", "reused_from": {"id": "1cec8c728fdd47f2a99838ad5cc40130", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "2fd9653e9bd34c67a38d4b53b4214346", "reason": "歌曲I Want to Hold Your Hand匹配。", "verdict": "correct"}
+{"id": "30398d8ea07a4c5e91d40586aef12387", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "30411f29f1e84ebb92451fb1e7744ff3", "reason": "格尔拉赫峰匹配。", "verdict": "correct"}
+{"id": "3061364e029b440d932427dc385d0a66", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "30eadb6395494564baf19e5f907133d9", "reason": "专利编号US3600186与标准一致。", "verdict": "correct"}
+{"id": "31135a9f936f47e887d2e9d1332030f7", "reason": "年份1981与标准一致。", "reused_from": {"id": "4d7c5ef803a34c389939cd681c5fa605", "phase": "baseline"}, "verdict": "correct"}
+{"id": "312275ac4cc544bdbc2d56bdd9e60b9a", "reason": "未给出Thomas Yates，猜测Chilton与标准不符。", "reused_from": {"id": "ce23bde346244b548798122d445137fe", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "316250989029497f970c4b71f816d8cd", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "318b40114fc74aefa6faef280b5b12af", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "31bf92fc5ba3422c97b6aaa5065c1d46", "reason": "报道年份2016匹配。", "verdict": "correct"}
+{"id": "31c1a17f025f4418ac8f9d7c842408e6", "reason": "人口628匹配。", "verdict": "correct"}
+{"id": "3257dd8978e94b499bacf1c49cc0cd25", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "3280f11dc3384eadb86258b9ea4a2d7b", "reason": "博士领域Theology匹配。", "verdict": "correct"}
+{"id": "32fcc76e3d554a7ebb13461893dc8fc6", "reason": "国家瑞士匹配。", "verdict": "correct"}
+{"id": "330bc35b42e245b8bf4f524a60db61c1", "reason": "品牌David匹配。", "verdict": "correct"}
+{"id": "33214d16ef5d40f3864a586b6d1f3ae0", "reason": "法文书名与可接受别名一致，中译合理。", "reused_from": {"id": "a5d1c8c7f4ef4d5f90f392a17948e703", "phase": "baseline"}, "verdict": "correct"}
+{"id": "334e6b6fa56c4f599fee4ad84bff1f32", "reason": "人物Nicolaas Govert de Bruijn匹配。", "verdict": "correct"}
+{"id": "337d08664614420f82a9bfbb0ece4eba", "reason": "主答Rolihlahla的4个元音，与标准一致。", "verdict": "correct"}
+{"id": "33c42605a8ef48559113bb006ab0e06c", "reason": "年份为1997，与标准一致。", "reused_from": {"id": "c522f66a03c642d5bf64461561d61c40", "phase": "baseline"}, "verdict": "correct"}
+{"id": "342be716f0464cacb6e2069fbd8aee6b", "reason": "答案采用1810年独立运动起点；题面未指定1813或1821年哪次正式宣告。", "verdict": "uncertain"}
+{"id": "3461fe90fbfe46d997e4a6bdcb0111c5", "reason": "四种维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "347a05b3471445bbb0b6c911d948bb12", "reason": "Teatro Lírico Fluminense与标准剧院为拼写变体。", "reused_from": {"id": "f172f5287b654af8b20bc0127914c58a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "34a0cb837cc046dc9d74d38c56b79fb4", "reason": "给出2019年，与标准2016年不符。", "reused_from": {"id": "2446fd65f2434277bc920a328535b8dd", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "34a6a2b5715d471e85d8e3c8457dbc07", "reason": "主答案Arianne Kathleen与标准一致。", "reused_from": {"id": "366422e69ef64b0590742a972b0c6fd9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "34aee191b98a476ebced019b43f3f0c3", "reason": "虽声明只是推测，唯一候选人物毛利兰与标准一致。", "reused_from": {"id": "32ef7b94f7a34fc1ad6d2e8fcf10f523", "phase": "baseline"}, "verdict": "correct"}
+{"id": "34c34ee0e2c749f790b8290baeb6775a", "reason": "人物Leonardo de Moura与标准一致。", "reused_from": {"id": "46be9bec066142e1a8b6bee046da5a9b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "34f7903515be4aac8179130382681f7a", "reason": "四子王旗着陆场匹配。", "verdict": "correct"}
+{"id": "352d237039be4fd792da5a323a2af0fe", "reason": "年份2008匹配。", "verdict": "correct"}
+{"id": "3548c61013b0447580e331818a23221f", "reason": "国家瑞士与标准一致。", "reused_from": {"id": "e69c7b1e07364eae87342d3cbb9e294f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "356f9bf456b846ec8919c349bb60829e", "reason": "stadion和diaulos两项目均匹配。", "verdict": "correct"}
+{"id": "35b01e0104954400871daedea267169b", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "35b27ff301e54d8995d904122840c976", "reason": "比较结论为女王在位更长，与标准一致。", "verdict": "correct"}
+{"id": "35b4163746e641d69faac0ee9c34040f", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "35e4e00536c2485fb41e4cab40974ea2", "reason": "姓名Arianne Kathleen匹配。", "verdict": "correct"}
+{"id": "35f5c6073dd04b88abdb3b065c751d8c", "reason": "主答案1108年匹配。", "verdict": "correct"}
+{"id": "361f1cf6dfff4ebea0af31114bbea816", "reason": "作品名The Problem We All Live With与标准一致。", "reused_from": {"id": "8f7807fe2c8d412d848c41b2695e0f45", "phase": "baseline"}, "verdict": "correct"}
+{"id": "364b9267174642b283c41ccdf7d7c6bb", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "364ce3f6f99b42f799787eef56778c3d", "reason": "名称boko boko与标准一致。", "reused_from": {"id": "60582a697bf34a1aa9e27bb84affe11b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "36537083224743c59eefcb613152e0ef", "reason": "次数4匹配。", "verdict": "correct"}
+{"id": "366131e0a65f470b94fd4550fc662053", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "36a2c4727002470f82beb5e2edfc61aa", "reason": "车手Niki Lauda与标准一致。", "reused_from": {"id": "8528b82cd900441aad95ff5dee4b771c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "36a2fbd4e20b437eabc937851cb9f111", "reason": "人口302971与标准一致。", "reused_from": {"id": "fad7aef51dae4262a8683cf104ef751f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "36b5570d650242c2b448a8f864835154", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "3714d9f3c1d94b4cad7b1436cdccc885", "reason": "菜名Boko Boko与标准一致，大小写不影响。", "reused_from": {"id": "330995e39d734042a4de8d534c419a86", "phase": "baseline"}, "verdict": "correct"}
+{"id": "373d7a2f0ce24ecd90d3d4843e5ba641", "reason": "朝代明与标准一致。", "reused_from": {"id": "7a23b9f7af7f407a81d510bf4692b531", "phase": "baseline"}, "verdict": "correct"}
+{"id": "37aaf78c056242a7b41fa49018c24267", "reason": "明确选择Google服务器，与标准一致。", "verdict": "correct"}
+{"id": "37d6510890494b809f04eaf34667480b", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "37feb94a964a4725adc3fdfd64522e9c", "reason": "品牌David匹配。", "verdict": "correct"}
+{"id": "3814a310eab649249089aa22683a59cd", "reason": "年份1985匹配。", "verdict": "correct"}
+{"id": "38184036a5c046a09ddd533da5fed610", "reason": "人物福岛邦彦与标准一致。", "reused_from": {"id": "bfed53608ced4608934603784cb03a54", "phase": "baseline"}, "verdict": "correct"}
+{"id": "382b025978b04f3793e6ab3b760d6e84", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "386063f7a88c4de1b6f5ee6162991c9f", "reason": "1810年起点得34年，1821年正式文书得45年；题面未限定所指声明。", "verdict": "uncertain"}
+{"id": "38945c50a3e443ff953da96c6aab35a8", "reason": "人物Willa Collar匹配。", "verdict": "correct"}
+{"id": "3906940d9dfa4750aa92ae8051c362ff", "reason": "未给出所问新加坡部门名称。", "reused_from": {"id": "b5727912cda545cfa95ccfa405c8c432", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "3979e27ac9394b798ef704903205b0c7", "reason": "给出约44200公斤或2950000公斤，均与标准47906公斤不符。", "reused_from": {"id": "b698f6831e2842498987fe3bfc4c04d3", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "3995a6b94ba0437f94583fad18087480", "reason": "四子王旗着陆场匹配。", "verdict": "correct"}
+{"id": "39a5003f6d6e4905b98a4fe7d38aa26f", "reason": "人物Phil Belanger与标准一致。", "reused_from": {"id": "0c0e323f787b45c4b2e218e33a9fc59b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "39ad72e732624d468fe1543790787be7", "reason": "人口30在允许范围内。", "verdict": "correct"}
+{"id": "39af7f03cfa54cb6a9e7783e2dfb8f23", "reason": "词语equilux与标准一致。", "reused_from": {"id": "47ac5d7c559e44b9a84568a5b9f13a9e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "39d17bae96744e0cba89f1adb674bb3f", "reason": "两个项目stadion和diaulos与标准一致。", "reused_from": {"id": "8021cbb2a0e84d10a567a9f870b3d09b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3a187e055b46497ca61954a4a8dbde0e", "reason": "年份2013与标准一致。", "reused_from": {"id": "14069e00becb43bd86f3fa87e01ba809", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3a810cabeffc4b0d97ea140c0e4f1be0", "reason": "年份2019与标准一致。", "reused_from": {"id": "b622458926694312b699cf73e89a5ad6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3ab175a7fb6745e4b3c2c978418d3d7f", "reason": "作品名The Problem We All Live With匹配。", "verdict": "correct"}
+{"id": "3ae198a6af394d37a798ecc5be0d6fde", "reason": "合著者为John D. DeLamater，与标准一致。", "reused_from": {"id": "8bd2ca68f8f240ac8e5e1b92717df9c6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3b5cf44846ae49a185df4bddc652fa18", "reason": "未给出人口30或可接受范围。", "reused_from": {"id": "766be372cb7644a096d3453d5b642981", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "3b637fabe3a44482a5618e7b2613a03f", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "3b858047899948a893661f60cb2f0452", "reason": "年份1933匹配。", "verdict": "correct"}
+{"id": "3b928381a1314244bb80d8d1f369a3df", "reason": "大学Duke University匹配。", "verdict": "correct"}
+{"id": "3c0ed6fa232544d7bb3aba4ba78d899d", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "3c228e1176ef41438ec5546caddc1170", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "3ca646aace7e472cb89cc32e7aad41bf", "reason": "联盟South Orange Little League匹配。", "verdict": "correct"}
+{"id": "3cc50500bfb549919768dc211f019473", "reason": "年份2013与标准一致。", "reused_from": {"id": "8310f97da4c446a2a1b0aabd78527d8d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3d1e7dbaff5e4a33a55d41acd8722cce", "reason": "年份1933与标准一致。", "verdict": "correct"}
+{"id": "3d79009216e240cbb191c105fe45f43c", "reason": "学名Ambystoma texanum匹配。", "verdict": "correct"}
+{"id": "3d7dc508329445ec80bcb47636da5739", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "3dad23f960e945128969a222d568e7dd", "reason": "插画师Juan Pablo Machado与标准一致。", "reused_from": {"id": "e801e38bf8344a20a1d9b76323d264b9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3e30f40051d3447bae3323cf8ac48340", "reason": "未给出人口628。", "reused_from": {"id": "0ec62cb5b9a84e48a2167648173da2fc", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "3eb28f708d09491a9876ce074737cf82", "reason": "大学University of Wisconsin与标准一致。", "reused_from": {"id": "b066bb1802b64c4ea807aa3653a4f48d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3ec23d5fa4a4404db5dfc53ccdc2157d", "reason": "未给出具体模型版本。", "reused_from": {"id": "2f132f6d42c549c89312c7374da4cc91", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "3f2ea25612a24858ac84cdfbc617ff39", "reason": "人物Marcelo Viana与标准一致。", "reused_from": {"id": "92a3b89413934d16b1b68275116980d7", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3f9c92f7f772401bbb5175cc5df153df", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "3fa4c28a8d664c3784377037a137a30d", "reason": "组织世界粮食计划署与标准一致。", "reused_from": {"id": "4d32b7ca961e4a52b47cf3dd7a18cc31", "phase": "baseline"}, "verdict": "correct"}
+{"id": "3fa71ee1843342db91c708f4bdc48ae5", "reason": "人口30在范围内。", "verdict": "correct"}
+{"id": "3fb0685f36c4453c9fc2a14a0f189571", "reason": "专利US3600186匹配。", "verdict": "correct"}
+{"id": "3fc7ea91c1b74fe7906b29cf94b16f60", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "3fcfb9c55b0a41c7a2e432196dc4dc76", "reason": "车手Niki Lauda与标准一致。", "reused_from": {"id": "1c7f3669225c46c79aecb93ac6b669d6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "401c07f2057d49b9862c6d9c80c87a1d", "reason": "姓名Arianne Kathleen匹配。", "verdict": "correct"}
+{"id": "4036b7f858ef42519456d3ff423aaea9", "reason": "获奖年份2013匹配。", "verdict": "correct"}
+{"id": "40d6dec151594a2b99de2b3d3355e1be", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "40d72053f667455b8f2561fc282f405d", "reason": "作者Hema Budaraju匹配。", "verdict": "correct"}
+{"id": "41754566e486408791487705131d032f", "reason": "公司Interbrand与标准一致。", "reused_from": {"id": "612ee04882d043de945a6c2da5c691fe", "phase": "baseline"}, "verdict": "correct"}
+{"id": "4192667d6575433fbfe78658f8ac385e", "reason": "人物爱因斯坦与标准一致。", "reused_from": {"id": "48f63e556f3b4c33bc1a526bd3098573", "phase": "baseline"}, "verdict": "correct"}
+{"id": "41b78bd5e1a74dc8a44063f8995f9896", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "421f5d09bbfa41fb9f4270eec0e8fb93", "reason": "日期1968年5月6日匹配。", "verdict": "correct"}
+{"id": "422e8998e11a43c2917e68a0e5228afb", "reason": "作品名The Problem We All Live With与标准一致。", "reused_from": {"id": "99b8fc72008f420b9a7c848f87edea87", "phase": "baseline"}, "verdict": "correct"}
+{"id": "424d315faa9840c4aa1617f11929306b", "reason": "大学University of Wisconsin与标准一致。", "reused_from": {"id": "096f5c8b100b4c74ae7e81c495dba6bc", "phase": "baseline"}, "verdict": "correct"}
+{"id": "42989b5407294fd9af3d1e3c64fd4462", "reason": "剧院名称为同一名称的拼写变体。", "verdict": "correct"}
+{"id": "42df1047a677444d941698033a866b59", "reason": "单位分贝与标准一致。", "reused_from": {"id": "8ad52eeddd5045e8812dea2baf7cf585", "phase": "baseline"}, "verdict": "correct"}
+{"id": "43094a030aa34cd5a82cc6157bf7a1d5", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "43598740135e4134b8e923a082ffcd25", "reason": "明确按整箭含飞船计算，标准按飞船质量；原题未限定launch mass统计对象。", "verdict": "uncertain"}
+{"id": "43bfb7d20bdd4054a52cc8ee03506e32", "reason": "stadion和diaulos两项目匹配。", "verdict": "correct"}
+{"id": "44393d97d72746668af60e3706721a8d", "reason": "主答Nelson的2个元音，并说明出生名Rolihlahla为4；题目未界定给定名口径。", "reused_from": {"id": "a21853e5a4564b018ce79b69d6ff49d2", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "4460bd1fcff04f918ddb437d5cbc4ead", "reason": "未给出完赛时间41:18。", "reused_from": {"id": "ca816990392b45c08e4fd946be929237", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "4515cce055ea4e02ac7262db71f1f572", "reason": "日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "45351a8951d44cac9116bd94722ade30", "reason": "国家日本与标准一致。", "verdict": "correct"}
+{"id": "45a81bb88b0f42e1acb9c251afbdda08", "reason": "日期2009年10月19日匹配。", "verdict": "correct"}
+{"id": "45c18d68910c47f39c45a5e40780cb84", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "4646e67b81544489bc1af782b04075b6", "reason": "日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "46a98ab0138e42328c2d8f02ed8759a6", "reason": "人物Marcelo Viana匹配。", "verdict": "correct"}
+{"id": "46f3770fb62c400cb4cabe81100ebb88", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "47394de2e45f4df9840bf9a0dec46346", "reason": "未给出工具OSS Scanner。", "reused_from": {"id": "3bb07754ef384ef581c4e7cff7e280b3", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "473e5f12718d473fbca18d554aa87363", "reason": "菜名Boko Boko匹配。", "verdict": "correct"}
+{"id": "47745ba2169442eaa5852658ba1d7df9", "reason": "许可证Apache License 2.0匹配。", "verdict": "correct"}
+{"id": "47fda690dfce43928bbd12e223650657", "reason": "人物William Berger匹配。", "verdict": "correct"}
+{"id": "480909dea1ca4db0b96231fa7356ecdd", "reason": "年份1977与标准一致。", "reused_from": {"id": "fb1ec7ee24ae4091ba3018edb059b41f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "48262190fa7c48229af0fbe8e673b718", "reason": "速度为632英里/小时，与标准一致。", "reused_from": {"id": "ad57208fe74649e181a256369abfbe55", "phase": "baseline"}, "verdict": "correct"}
+{"id": "483fd9705b5942a59b7f7503e7a6d8bf", "reason": "活动日期2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "484d0300682c43a59e4355d159c6351b", "reason": "拒绝安大略省副总督职位，与标准一致。", "verdict": "correct"}
+{"id": "48d559ea905449b1b8dc37f41f521ce3", "reason": "博士领域神学匹配。", "verdict": "correct"}
+{"id": "48e0498139bc45e1921215a428052650", "reason": "联盟South Orange Little League匹配。", "verdict": "correct"}
+{"id": "490e59b2f2b64729b96af457af587a0d", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "49656c16ad514140b58274eb5939c1a0", "reason": "作者卡尔·海森与标准一致。", "verdict": "correct"}
+{"id": "49a19ff6ad074691b4072a9eb6df505c", "reason": "大学Duke University匹配。", "verdict": "correct"}
+{"id": "4a0e6a6a111c4c0ba914439749319260", "reason": "时间41:18与标准一致。", "verdict": "correct"}
+{"id": "4b667e0f7bdf46d18fa5a689a2b73369", "reason": "答Jacob Palis，与标准Marcelo Viana不符。", "reused_from": {"id": "2113310e0bc9463b8b0a04b25f1d1732", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "4b7fb307331242259b604ec881279c25", "reason": "Teatro Lírico Fluminense与标准为同一剧院的拼写变体。", "reused_from": {"id": "7f2649f3117847b690c76e5e7265b32b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "4bcf5e8c6caf4498bcf0c7a45632b012", "reason": "导演冲浦启之匹配。", "verdict": "correct"}
+{"id": "4cc93f70b55d41fea039755a4b01d5b4", "reason": "人物William Berger匹配。", "verdict": "correct"}
+{"id": "4ccafd12c05744e4b527d78361dac675", "reason": "着陆场四子王旗与标准一致。", "reused_from": {"id": "2c248b7f63114818b10fd7e8a8042af2", "phase": "baseline"}, "verdict": "correct"}
+{"id": "4cda42a6c439416bb52c342b43f467e1", "reason": "年份1977与标准一致。", "reused_from": {"id": "ae75beab42aa40af87767445596c48da", "phase": "baseline"}, "verdict": "correct"}
+{"id": "4ce2d5c723a9497ba6092d2d1540ebb4", "reason": "列出diaulos和dolichos，缺少标准要求的stadion。", "reused_from": {"id": "73297870f5484d9c9d8b00c8c8cf9fa9", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "4d3184abc4444487bfb1cbde08b14dbc", "reason": "校长Leon Botstein与标准一致。", "reused_from": {"id": "eb9cb971033842c2916032aeb8249cda", "phase": "baseline"}, "verdict": "correct"}
+{"id": "4dedf132f31f4dd8adfe353775258aa8", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "4e4c4d93218d443d9e9608b2371ccaf0", "reason": "获奖者Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "4e8324876da14d7fb34fa48c5dabab02", "reason": "人口628匹配。", "verdict": "correct"}
+{"id": "4eb47d0d75a444cf8e89d5b8cf20f2c2", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "4f2fea7123b9435588d06d9fdea05e42", "reason": "博士领域神学匹配。", "verdict": "correct"}
+{"id": "4f84d36d8e6a40bab0b75b17fe3ed844", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "4ff26cb53d604452863b13fdf1df553d", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "5033a3a02f4d4bc99eb228af5b286993", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "50d05c5ee79a4491911d95081a8803a7", "reason": "年份1985匹配。", "verdict": "correct"}
+{"id": "514cc5d129264a8681c362170d354a09", "reason": "格尔拉赫峰匹配。", "verdict": "correct"}
+{"id": "516ad365014e4acc88139506b2fe02c6", "reason": "年份为1933，与标准一致。", "reused_from": {"id": "25fb183a3116485eb82104756cdd1912", "phase": "baseline"}, "verdict": "correct"}
+{"id": "516da172366b47b9b61910f2ac81c63d", "reason": "获胜者Charles Muhanji及车型均匹配。", "verdict": "correct"}
+{"id": "51ca2a5e80204f339855ac0d2c3cb60b", "reason": "Teatro Lírico Fluminense与标准为同一剧院拼写变体。", "reused_from": {"id": "22f9e9559e8b427fb8f0ffd6d3a2d100", "phase": "baseline"}, "verdict": "correct"}
+{"id": "51f5828765d749a9b319048a1dd4b64b", "reason": "未给出人口628。", "reused_from": {"id": "2a9c77cd73cc4940b5816791b07e01c5", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "5200c9769d554a1eb598d7b59f4844ed", "reason": "许可证Apache License 2.0与标准一致。", "verdict": "correct"}
+{"id": "5229873a246a4a649e14e6b336f416b5", "reason": "人物毛利兰与标准一致。", "reused_from": {"id": "a0bf0368e45541099067adf4e0676630", "phase": "baseline"}, "verdict": "correct"}
+{"id": "525541b2366b4385900f631e59ec4723", "reason": "人口302971与标准一致。", "reused_from": {"id": "9e9535c9f2704a29b242147004b1babe", "phase": "baseline"}, "verdict": "correct"}
+{"id": "52a0ab0ae8f14d7c9acbaa97afeee0b3", "reason": "物理学家爱因斯坦与标准一致。", "reused_from": {"id": "4dcad4f5884a484e9e81771b7be176dd", "phase": "baseline"}, "verdict": "correct"}
+{"id": "52c7a8b29444441a841eccd2f5cc2e3f", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "52fd4ea038a64b0db49dadeae66155e2", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "53479f7a69734c92910cb5148fd79649", "reason": "未给出股份比例5%。", "reused_from": {"id": "95f7a645b3544721a1c19c6cb4fb38e7", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "53f26eec307e4979b6795458f4c7150f", "reason": "专利编号US 3,600,186与标准一致。", "reused_from": {"id": "ebbb19cfe667429bb49d437c3ffd723c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "540ab33cf0084736991651c2de6d793d", "reason": "朝代为明，与标准一致。", "reused_from": {"id": "9bae2862e0cb4c84992551a9133f0c34", "phase": "baseline"}, "verdict": "correct"}
+{"id": "54244eff4efe46e6b49f719855116ff7", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "5424681b1ecb421186a39be8780f1f4c", "reason": "年份1899匹配。", "verdict": "correct"}
+{"id": "544c43aab9fa48bb921ff46393fdda8d", "reason": "学名Ambystoma texanum匹配。", "verdict": "correct"}
+{"id": "54e4c86c3dc94c7299d4a3d8b9ae7fd6", "reason": "年份1971与标准1997不符。", "reused_from": {"id": "ad1c78d889fd426d95e480d6208627eb", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "550970dcad1e4ed8a88af12488ace586", "reason": "未给出本科学校Duke University。", "reused_from": {"id": "e98f1d112ef043a6a24e3a380537790f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "5528538705034b6a8fba234f99ce98e4", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "55bde35c230040ba946cec46745caee7", "reason": "年份1933匹配。", "verdict": "correct"}
+{"id": "56296c33159a4074b09b96f5da8e991b", "reason": "明确选择South Orange Little League，匹配。", "verdict": "correct"}
+{"id": "573772f67f894fbc82416e68f5b9f27e", "reason": "年份1985与标准一致。", "reused_from": {"id": "7bc857d6a4544e80943de2a3e3fceb5c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "57f17f9727b54d7a964e0ccc7948bccd", "reason": "次数为4，与标准一致。", "reused_from": {"id": "1d20be68c38547dcb491333bb65c4981", "phase": "baseline"}, "verdict": "correct"}
+{"id": "582301a1a29b472d960958507a661224", "reason": "作品名The Problem We All Live With匹配。", "verdict": "correct"}
+{"id": "585c379fafc14571a790ab3cb93bdc9e", "reason": "答拒绝爵位，与标准副总督职位不符。", "reused_from": {"id": "a9ecbbcbdcd1491e84aa1fc0027cdc60", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "585c58cb8aa94aa9930470ef881317ee", "reason": "年份2028匹配。", "verdict": "correct"}
+{"id": "587d20b271504e76994f3610b903706b", "reason": "英文姓名William Berger与标准一致。", "reused_from": {"id": "162eb47775cd4203819bd22895c6ec44", "phase": "baseline"}, "verdict": "correct"}
+{"id": "58e96c6632c3467db387652c512d7a2d", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "5967bb10769248e3b1d18fe743b1812a", "reason": "组织世界粮食计划署与标准一致。", "reused_from": {"id": "047e10c381d2422593f57b8bedfc04f3", "phase": "baseline"}, "verdict": "correct"}
+{"id": "59ababc52a074a2f8a35673dbed402b3", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "59bd0dcb12a5401aa24f03e3507b3547", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "59f0377f1767404a93de3f77333fcf69", "reason": "具体模型版本匹配。", "verdict": "correct"}
+{"id": "5a18883a031d4a69bf54c43aece1be50", "reason": "将昵称Katie作为完整名，未给出标准要求的Kathleen。", "verdict": "incorrect"}
+{"id": "5a1dcc5b629a482998ba358bbffcd121", "reason": "两位获奖者姓名均匹配。", "verdict": "correct"}
+{"id": "5a6e3d09e3bd47158fa5500eed4d1c29", "reason": "专利编号US 3,600,186与标准一致。", "reused_from": {"id": "d808eca9a3794b21884bc7c68dcfff68", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5aaf8539bcc840d3977e7aa9fa5f3a0f", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "5ae940d21c6340f5aa488e351fea4289", "reason": "两位获奖者Henri B. Kagan与Kenso Soai均匹配。", "verdict": "correct"}
+{"id": "5b013681734c415487e32b82016ae832", "reason": "人口302971与标准一致。", "verdict": "correct"}
+{"id": "5b4170c74d1044d3b49c168b9abcc8b3", "reason": "分别列出Nueva Ecija和Antique两个圣若瑟教区的年份，题面地点限定不足，未唯一确定对象。", "verdict": "uncertain"}
+{"id": "5b81655812194569be216951e10e7b2a", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "5b86a78a660b43b6bd47b01a557b1405", "reason": "日期2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "5b900714f13347148b2a581b413b752a", "reason": "日期范围2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "5bdc8d4ffd32455faa4715b8e482a0d5", "reason": "车型McMurtry Spéirling与标准一致。", "reused_from": {"id": "f6f2be83d4064719b7c0cdc4c38bf547", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5c214e4d0641483896887d03778174b2", "reason": "人物Nicolaas Govert de Bruijn与标准一致。", "reused_from": {"id": "c7bb86dc04764013bb19263af259c35e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5c6a7b54bd6641f78981d221f54b1b85", "reason": "插画师为Juan Pablo Machado，与标准一致。", "reused_from": {"id": "78b290e799e847718330e3ea604e68f1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5c8b069c9f8b48cbb58545e361238db5", "reason": "未给出两位获奖者。", "reused_from": {"id": "d7ea443da512495f9dc29b40dc656dfe", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "5d28543bb51540d88820b681edf6e711", "reason": "stadion和diaulos两项目均匹配。", "verdict": "correct"}
+{"id": "5d4d8d5e2d05472289f9ea690b3d8eed", "reason": "年份1899匹配。", "verdict": "correct"}
+{"id": "5d562924e1e84bdb979828ca5419f81d", "reason": "日期1968年5月6日匹配。", "verdict": "correct"}
+{"id": "5e4276e265344f42b5325cb9c935a726", "reason": "人物Bernard Wood与标准Miriam Kastner不符。", "reused_from": {"id": "75ddf3f558a649c9a49ef4e931e18b5f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "5e656a806a704e19b1f1368c2744a1c6", "reason": "日期1968年5月6日与标准一致。", "reused_from": {"id": "82eacfa2ec1e4f67abd2f5d8a392eb81", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5f18eef4b33346dc9839d41a50659b46", "reason": "原名Gerlachovský štít对应格尔拉赫峰。", "verdict": "correct"}
+{"id": "5f2b5b153eda40129c5472a1f2401bad", "reason": "人口30在范围内。", "verdict": "correct"}
+{"id": "5f3914ad46dd4d3cb722549c4cc65860", "reason": "拒绝安大略省副总督职位，与标准一致。", "reused_from": {"id": "592d690875114cca8e116665923f968b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "5fb191ff8fe54f849851eff6e0fd286e", "reason": "未给出人口30或可接受范围。", "reused_from": {"id": "2e4059aafd5a44a69c34c582392cd94d", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "5fbfbd77aea14d4e90e09b217edd6270", "reason": "人口302971匹配。", "verdict": "correct"}
+{"id": "60370c4b7a4841679d82dcee129cffc7", "reason": "导演冲浦启之与标准一致。", "verdict": "correct"}
+{"id": "606b3a3dd2c84e28b2026cf9a1449a91", "reason": "110.5米在可接受范围内。", "reused_from": {"id": "3b0f89f797304a19908fda2c8e12f0a9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "60a811c831f347368f8cfa06c717fba7", "reason": "合著者John D. DeLamater与标准一致。", "reused_from": {"id": "196d633072cc4fcf9a2c945696d03d9c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "60b71dcc1bd543cbbdbd63dc8b6db38e", "reason": "英文作者Carl Hiaasen匹配，中文音译可接受。", "verdict": "correct"}
+{"id": "613f5e6b501d400286a4fc556baabb7f", "reason": "未给出关闭年份1933。", "reused_from": {"id": "0ba20b35724946879dac9665fa54e432", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "61753a38e8bf4eb08255e52a65afb55a", "reason": "所问日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "617cb4d1320b43d889f7d7099dd7fa94", "reason": "日期2009年10月19日与标准一致。", "verdict": "correct"}
+{"id": "61c565d99e3445ec85de986e5e7d02ee", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "62e1746f65d74fbd96fe008c681a6eb8", "reason": "年份1984与标准一致。", "verdict": "correct"}
+{"id": "62f33ed018164a71b37b638feb9d128d", "reason": "未给出品牌David。", "reused_from": {"id": "eab6efa9db144e9e96f8b9dbf0db0e96", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "6333c83820534e058099ada1c2262098", "reason": "存储位置Google服务器匹配。", "verdict": "correct"}
+{"id": "6343b58b573d4f86b6db6ef64a06c24b", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "6389a1d04f784fa59539f79014378a08", "reason": "许可证Apache License 2.0与标准一致。", "reused_from": {"id": "25a64e644b1c48969aad9a8865b6968f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "63b7fe452333461786cca1c8989f51d9", "reason": "年份1818与标准一致。", "reused_from": {"id": "cb9aa7083eb2453f85a834413c0fb315", "phase": "baseline"}, "verdict": "correct"}
+{"id": "63cced8221644010ac57fc059e870228", "reason": "年份2028匹配。", "verdict": "correct"}
+{"id": "640b301eb72941089a0be3202c36cfc9", "reason": "具体模型版本匹配。", "verdict": "correct"}
+{"id": "64507439f320424d8f8ae74db638dbfb", "reason": "年份2008匹配。", "verdict": "correct"}
+{"id": "64b0fb0daae94756844b7f8dae93e6fd", "reason": "主答案1108年与标准一致。", "reused_from": {"id": "fd481428700a4d0e9c5aa9ea84db86f4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "64b7b629571f465cadfe2c3a1681d6d4", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "65345790801645d28defef16764adc5a", "reason": "给出632英里/小时，与标准一致。", "reused_from": {"id": "058e4d0926464f0fa24f676a3b0fe435", "phase": "baseline"}, "verdict": "correct"}
+{"id": "658941c6768f41ac823abd67c52331eb", "reason": "四子王旗着陆场匹配。", "verdict": "correct"}
+{"id": "65a43b5d649d4e1ea33c4e15e1132704", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "66213c1d66c14f249175159608c090e9", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "669ebbee224848f29c389c90ffc6fde9", "reason": "最终改答34年并解释1810/1821差异；题目没有唯一界定墨西哥宣告独立日期。", "reused_from": {"id": "5bba6cfc3df142ec94a251e8c5fb2c7d", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "6706110bf118427d92439feb43e20673", "reason": "新加坡部门名称匹配。", "verdict": "correct"}
+{"id": "6725b4773757445fb4dab62be7982296", "reason": "格尔拉赫峰匹配。", "verdict": "correct"}
+{"id": "673aeecfb7d246fda890ea7443f7d796", "reason": "人物爱因斯坦与标准一致。", "reused_from": {"id": "067a4b0ea0ad47659e83ed2fd6ab715f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "675739a59aa147a1a26e587af4f99c4e", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "677ded62e508478db5258a1a6b05a2b4", "reason": "所问剧院Teatro Lyrico Fluminense匹配。", "verdict": "correct"}
+{"id": "67803bdd039640f3901e4916275fe7a0", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "6798645900a24f81a326bd54e698ec24", "reason": "年份2013匹配。", "verdict": "correct"}
+{"id": "67e30dd649744757843c4a01ddda829e", "reason": "博士领域神学匹配。", "verdict": "correct"}
+{"id": "68604e697a95497aac9b1d57baad9a4f", "reason": "两位获奖者Henri B. Kagan与Kenso Soai均匹配。", "verdict": "correct"}
+{"id": "688533b7e8304a3db9385b54b64d8537", "reason": "年份1899与标准一致。", "reused_from": {"id": "205fb5e25a554690856dbf0c5f9742e7", "phase": "baseline"}, "verdict": "correct"}
+{"id": "69d348aeaec648f883ed522d55b95956", "reason": "未回答存储在Google服务器。", "reused_from": {"id": "7af7c9aecd89444b9db0c8a997942d34", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "6a14f5bb9d024d749a66a6b31e6fd055", "reason": "人物Marcelo Viana匹配。", "verdict": "correct"}
+{"id": "6bb67e3165df4d6f844b2304ceec410b", "reason": "驾驶员Thomas Yates与标准一致。", "reused_from": {"id": "87804a54623f4cd8b3c4620361f1454f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "6bb8c93d786e4f46bc9b7a6cdcf8da6c", "reason": "书名及法文原名匹配。", "verdict": "correct"}
+{"id": "6bcc74f9b995417c9bdfbf8d78ee0ff7", "reason": "次数4与标准一致。", "reused_from": {"id": "d10ca8494b9b4497863620e96c86907d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "6c43475db965429692770de78791e580", "reason": "主答案115.5米超出允许范围，列举110.5米但未采用。", "verdict": "incorrect"}
+{"id": "6c43c5f17662408eac898faac4ec4a01", "reason": "角色Rose Loomis与标准一致。", "reused_from": {"id": "11a44be5a4b24e0aa789bd5401e3e854", "phase": "baseline"}, "verdict": "correct"}
+{"id": "6c58a5d48d7941729067718801064409", "reason": "答Gold，与标准platinum不符。", "reused_from": {"id": "d5e371fb682044599c033ceec9499664", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "6c5b2cd34da140d6af7d1a67e1ebcbc8", "reason": "年份1984匹配。", "verdict": "correct"}
+{"id": "6c614416afc54e6c98d8aaead746ef81", "reason": "年份1899与标准一致。", "verdict": "correct"}
+{"id": "6c7770389703490ea65fc3d37730406f", "reason": "主答案1108年匹配。", "verdict": "correct"}
+{"id": "6cd5ae0c662944778b449d7e39e2237b", "reason": "存储在Google服务器，与标准一致。", "verdict": "correct"}
+{"id": "6d416f4334f54a8fa8cb66b952b455a8", "reason": "人物Willa Collar匹配。", "verdict": "correct"}
+{"id": "6e393d2b48444e5cbcccdb4abafd26b8", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "6ecad62f32914f24a67dbfd816717475", "reason": "年份1899匹配。", "verdict": "correct"}
+{"id": "6ecb7528bb9a4a2c814c2b38aa0474e1", "reason": "法文书名与别名一致。", "verdict": "correct"}
+{"id": "6edaf06aa3724bb49b849bc4d4c8f439", "reason": "答日本环境厅，与标准NHK不符。", "reused_from": {"id": "d593e2ddcd384a3ca02857bfefbfba72", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "6eefe7ef15b2467b917aa3761e63d822", "reason": "年份2014匹配。", "verdict": "correct"}
+{"id": "6f12a0a958544c4d8ad69d80e2783e31", "reason": "人口30在允许范围内。", "verdict": "correct"}
+{"id": "6f272a7e14e7407cbb2d251c8bc6110f", "reason": "人物Nicolaas Govert de Bruijn匹配。", "verdict": "correct"}
+{"id": "6f325d23ad19457fafaecfc72acd7b5b", "reason": "主答案建州年份1818匹配。", "verdict": "correct"}
+{"id": "6f47180e5e394da7851a7b3be89df21a", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "6f75f2f5a3e1440ab68763453d5ea275", "reason": "许可证Apache License 2.0与标准一致。", "reused_from": {"id": "cd157f5683154e7b9fa25ad0ae6b37fc", "phase": "baseline"}, "verdict": "correct"}
+{"id": "6f91cd78b6f341ddb2b35cc13d0da491", "reason": "以Nelson计为2，但标准为4；题目未说明采用常用名还是出生名，给定名指代存在歧义。", "reused_from": {"id": "2f92a0ccdf03429891cbde98523b87a8", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "6fc01da8f3ee411881a383555c9e6631", "reason": "组织答日本经济新闻社，与标准NHK不符。", "reused_from": {"id": "f3942f6c8f88444cb1cbe35f21922f97", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "6ffc0e3738a74df28c4531567ef773bd", "reason": "四子王旗着陆场匹配。", "verdict": "correct"}
+{"id": "70114e391df04c888f929e9eed3e75a3", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "703dacc81e8d4066a99573d1955d55ca", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "704978d21946402a961a7bbc4aaba269", "reason": "人物Willa Collar匹配。", "verdict": "correct"}
+{"id": "7059d7e3efc64c18b70d896be85f3096", "reason": "回答2年，与标准一致。", "reused_from": {"id": "e74038c5a54348e4bed4d4f7cfbd5d06", "phase": "baseline"}, "verdict": "correct"}
+{"id": "7158f40290a54e84beb677615034e65d", "reason": "年份1981与标准一致。", "reused_from": {"id": "d1ab8d46544a4ab1ad7af17f6b864f04", "phase": "baseline"}, "verdict": "correct"}
+{"id": "71619f85237e4f7bb625d09ebbbb2722", "reason": "新加坡部门名称匹配。", "verdict": "correct"}
+{"id": "7178e30cde904ffcb7f6d096886d0193", "reason": "化学式C7H14N4O3与标准一致。", "reused_from": {"id": "af91c04cbebb41c6b71b9503ebcd96ae", "phase": "baseline"}, "verdict": "correct"}
+{"id": "718feae66be646f3ad22a5ba9953825c", "reason": "硕士大学为威斯康星大学，与标准一致。", "reused_from": {"id": "8583b6a885dc4b7283de479f0797e456", "phase": "baseline"}, "verdict": "correct"}
+{"id": "71b29845598a4a6a87104bf950973f78", "reason": "拒绝安大略省副总督职位，与标准一致。", "reused_from": {"id": "8a4889584df6488abf06eaf96577495e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "71fc319b657843e490a25652aad55b04", "reason": "相隔130年匹配。", "verdict": "correct"}
+{"id": "7230078c0c674562bbd4154bfee3c910", "reason": "球队Brooklyn Superbas与标准一致。", "reused_from": {"id": "1d4bf4f7f4ae48acac0f262539153b4d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "724d5649c7fd474f84d0f18b49d3d490", "reason": "日期2009年10月19日与标准一致。", "reused_from": {"id": "b274c84d1f234816a59e6439669c8e87", "phase": "baseline"}, "verdict": "correct"}
+{"id": "72bdf50e96364e778e9458e69b29afe4", "reason": "完成年份2014与标准一致。", "reused_from": {"id": "236ed246437b43f08fc3e168ee6352d1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "72de4673976e4ec7afdebfd95c35ba19", "reason": "111米在标准允许范围内。", "verdict": "correct"}
+{"id": "7329b3aefbbb46359467c20c43b35739", "reason": "获胜者Charles Muhanji及车型匹配。", "verdict": "correct"}
+{"id": "735e4e70abb54ce7a1e6fdf605791d0c", "reason": "公司Interbrand与标准一致。", "reused_from": {"id": "7125f4975d11415d8ef48dbe93484223", "phase": "baseline"}, "verdict": "correct"}
+{"id": "7363cd2ca614440da3e6f6c908a5f91b", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "7377621e15aa44cc80c5e4212f0277da", "reason": "歌曲I Want to Hold Your Hand匹配。", "verdict": "correct"}
+{"id": "7460421632b5459d80f8b31110b52a24", "reason": "拉丁姓名Thomas Yates匹配，音译差异可接受。", "verdict": "correct"}
+{"id": "75f3ed526aa147b3a57886b4aa64cac5", "reason": "获奖者Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "75f6628535c14df8bf8163150346255c", "reason": "次数4与标准一致。", "reused_from": {"id": "2722637922064f9398538b6ff2ed6e39", "phase": "baseline"}, "verdict": "correct"}
+{"id": "760c52c9739d4ebe9dc469faceed1c6f", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "766927863df94f5c8caba31e5de2125b", "reason": "年份1818匹配。", "verdict": "correct"}
+{"id": "76cf597eedcb4bf8bd0f801daeb3fed8", "reason": "年份2017匹配。", "verdict": "correct"}
+{"id": "770e1e372847498296de0bdffc4eb8db", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "771ddaebf51e426aab87f141302b3af2", "reason": "着陆场四子王旗与标准一致。", "reused_from": {"id": "630b061bbe684f79aa8ad89601a74edf", "phase": "baseline"}, "verdict": "correct"}
+{"id": "77651875a9654894b21ee3535a032e0e", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "782cf410041842e1ac79549f6389d5ae", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "784399da1c4d45be90ca2852ab882972", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "7937a011fb0a4fcd808a9623e43ca329", "reason": "主答案1108年匹配。", "verdict": "correct"}
+{"id": "79a709e2fd9f45eaab0814ea9b97d1fb", "reason": "年份2028匹配。", "verdict": "correct"}
+{"id": "79f2a48bbd384381a488eb18d60b154b", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "7a414a005ef44638a06b81de6150035f", "reason": "未给出机构METR。", "reused_from": {"id": "aa7e702e3b074ecf98f69f37db108413", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "7aa5b1aba9b44756a1954f23ff407c1f", "reason": "拉丁姓名明确匹配，中文译名差异可接受。", "verdict": "correct"}
+{"id": "7b40d39157bc441a8b65460b4d980cc0", "reason": "作家、较长寿者及82天差值匹配。", "verdict": "correct"}
+{"id": "7b9d6de5123f45d588f9b9b3971e6e50", "reason": "未给出两位获奖者。", "reused_from": {"id": "0233a2c5d767486ca6aa25cff959cf34", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "7c626f7e570f42a6b9346e6b6f9f6708", "reason": "年份2016匹配。", "verdict": "correct"}
+{"id": "7c6b2f10de0849ed85281a2e7ab5c660", "reason": "Willa及其母亲身份明确对应Willa Collar。", "verdict": "correct"}
+{"id": "7c6fa6db8a314c278b7e2c4a5de00ae5", "reason": "大学Duke University匹配。", "verdict": "correct"}
+{"id": "7cd9f88e14d94278858fc332deb0b7f3", "reason": "采用包含逃逸系统和适配器的飞船质量，标准未说明统计部件；不同质量口径无法唯一判定。", "verdict": "uncertain"}
+{"id": "7d03a926d28049768187587ccbfaa873", "reason": "年份1997与标准一致。", "reused_from": {"id": "1d6749eea4524a69b949c83492682bf3", "phase": "baseline"}, "verdict": "correct"}
+{"id": "7d232232d62e40b3ac0665b0dc7b0fcc", "reason": "答3次，与标准4次不符。", "verdict": "incorrect"}
+{"id": "7dae51aaff074e45a14aa0846a9caa9e", "reason": "具体模型版本DeepSeek-V4.1-Flash-1017匹配。", "verdict": "correct"}
+{"id": "7de71ccd3fcc4ffaa043247820c6e233", "reason": "年份2014匹配。", "verdict": "correct"}
+{"id": "7e23aa0fb7794c3e9aa05e640d2c7291", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "7e30245637ac4736be9e77f54b381847", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "7ef812d57262428584136e4b8a43cc14", "reason": "约110米及110.5米均在标准可接受范围内。", "reused_from": {"id": "8c36951ab7984796b3391207e407b939", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8046aa574328404080d4e7e670447421", "reason": "角色Rose Loomis与标准一致。", "verdict": "correct"}
+{"id": "805cae8e52be448e90334b920e322ec2", "reason": "作家、较长寿者及82天差值匹配。", "verdict": "correct"}
+{"id": "817cedca7f7a411eb9a32392e25b19e5", "reason": "菜名boko boko与标准一致。", "reused_from": {"id": "3de8cfde5d1946bdb36e3d46720093e5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8187505d41484bb7bf75bc2688524f94", "reason": "41:18在可接受时间范围内。", "verdict": "correct"}
+{"id": "818e95942de94139be5a707e039edafa", "reason": "William Berger及Bill别名匹配。", "verdict": "correct"}
+{"id": "81e5731ba5f847bf901c22ef76660540", "reason": "联盟为South Orange Little League，与标准一致。", "reused_from": {"id": "97296d7e5e6547ca9277de977e203fde", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8211c71f1f49418ebf28c3a32df66b56", "reason": "歌曲All You Need Is Love与标准曲名不符。", "reused_from": {"id": "ec331a251e9441629e602135a6b4aaca", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "824ed33c91fd486893d523e80b01d5f4", "reason": "作者贾尼·罗大里与标准一致。", "reused_from": {"id": "f2dc0b5c446545c8ab58c21ed47196ab", "phase": "baseline"}, "verdict": "correct"}
+{"id": "827e46fc90ba48e1b317a6f48f116d47", "reason": "答Albrecht W. Hofmann，与标准Miriam Kastner不符。", "reused_from": {"id": "8b469cbffc0f4d8c98b05b2ad5b981ee", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "828d6c156de246a691abbf8bc48b3647", "reason": "具体模型版本匹配。", "verdict": "correct"}
+{"id": "8324254441814b21a5f5e08d3db79eea", "reason": "未给出所问新加坡部门。", "reused_from": {"id": "7e0262f417db47998f03579293a082d9", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "8381d9a0736e4d3f801434172cb82a67", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "83a49b9a606f4160a2871f46a9da44d5", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "83b65172ccf74c03b80279670af584f5", "reason": "年份1997匹配。", "verdict": "correct"}
+{"id": "8447fdda06ce4c85b0e1fabfdd56e647", "reason": "人物Phil Belanger与标准一致。", "reused_from": {"id": "b80d1b89d20b450e90ee8e81a78dfe87", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8565e6945d854cebbe3f60db05bd7c39", "reason": "化学式C7H14N4O3与标准一致。", "reused_from": {"id": "06ded699282c4167a86ff3dad9895c84", "phase": "baseline"}, "verdict": "correct"}
+{"id": "85d147c3850e483f99b95a4b8e8bb72c", "reason": "驾驶员Thomas Yates匹配。", "verdict": "correct"}
+{"id": "860731e7fbed4c558dd15b575bf2ec5a", "reason": "日期1989年11月18日与标准一致。", "reused_from": {"id": "2f871673f5c549629a915613ede2590a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "867962ac598f4182aab17a15d4ad20ac", "reason": "导演冲浦启之匹配。", "verdict": "correct"}
+{"id": "86b1110f202c484ea372148640ebc2e3", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "86daa372007245d8b9aa7a61b2e2400a", "reason": "存储位置Google服务器匹配。", "verdict": "correct"}
+{"id": "8860d801b90647eb98c22ec4283f52c8", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "8886c6f6fcfb4858b9c1a9d78e5781a8", "reason": "车型McMurtry Spéirling与标准一致。", "reused_from": {"id": "c0cb28cc63bf47ddb3f15f5472123a8f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "888b1f2e3a414f919d25240b4402ac3e", "reason": "拒绝安大略省副总督职位。", "verdict": "correct"}
+{"id": "88a3922a7a49490696c3e724b3469b52", "reason": "研究者福岛邦彦与标准一致。", "reused_from": {"id": "6ee19c8c6f894eb1956ceda2447ade85", "phase": "baseline"}, "verdict": "correct"}
+{"id": "88ddaa50144442c3aeef094be3c13d2d", "reason": "组织NHK与标准一致。", "reused_from": {"id": "ccf69b457ab84fa4abb3364675840618", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8a4438d9369f4c4ba46605da42d82f98", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "8a6b3ca28430491a9cff8d3c5bafdf76", "reason": "主答案1984年匹配。", "verdict": "correct"}
+{"id": "8ab0604d1c3d459db339d19f20c8fa1f", "reason": "单位分贝与标准一致。", "reused_from": {"id": "3fdc32c5058d4857bbae93af5291732d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8b306aa573a14479a34d9d911dfe6806", "reason": "许可证Apache License 2.0匹配。", "verdict": "correct"}
+{"id": "8b38e3cae8f34fe48dee3b9e1f02d59b", "reason": "未给出年份2008。", "reused_from": {"id": "a9f8e7284669432584060328133cfac2", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "8b9cc758848f445399b7b21bb9f12578", "reason": "硕士学校威斯康星大学匹配。", "verdict": "correct"}
+{"id": "8c6621f871bb42ac99980f9576b54991", "reason": "专利US3600186匹配。", "verdict": "correct"}
+{"id": "8c78ffc05a254218bf500d14c222679c", "reason": "未给出量产年份2028。", "reused_from": {"id": "eba8b80cb3574523a2fef940e94094a2", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "8c92d9cb1bfd464792cdd53d71f0fceb", "reason": "硕士学校威斯康星大学匹配。", "verdict": "correct"}
+{"id": "8cae529e3b524782966e538da4aaba2e", "reason": "日期2009年10月19日匹配。", "verdict": "correct"}
+{"id": "8cc4e48e38c846ce8054a25dc4fb37bf", "reason": "维生素A、D、E、K与标准一致。", "reused_from": {"id": "6d0f2ae6fa1e41348f4987155fbb5f4e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8cda3005d03f4dca9c9633206062ee32", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "8d03843745354efa8cb36ddfc51b31a0", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "8d234652aa11454ba12e6e34da573fb9", "reason": "41:18在允许范围内。", "verdict": "correct"}
+{"id": "8d273ab6c3174a20919630c89c954c57", "reason": "作品名The Problem We All Live With匹配。", "verdict": "correct"}
+{"id": "8d6ec5b9455447c1b990b47dda89732a", "reason": "学名Ambystoma texanum与标准一致。", "verdict": "correct"}
+{"id": "8d7a526832354d01ae1f2508e35172b9", "reason": "未给出作者Hema Budaraju。", "reused_from": {"id": "72f789601c7c42e584ef6fe370429f2f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "8dad80aca1fd481da25c3a2033837c65", "reason": "插画师Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "8dfd317f373c40689abf3dd28050aa6d", "reason": "国家瑞士与标准一致。", "reused_from": {"id": "96dfc717360f4d5a8dc00dbdbd238125", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8e051013dbfb4d6a81d4e71f2d58819e", "reason": "人物为Harald Haas，与标准一致。", "reused_from": {"id": "3a8377db5a0b4f5b8db481b642f62318", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8e151bc6a200431c8ee680f0177ab7f8", "reason": "作者Hema Budaraju匹配。", "verdict": "correct"}
+{"id": "8e5d12b348304807a125d5861d24e9cd", "reason": "大学Duke University匹配。", "verdict": "correct"}
+{"id": "8ebd1f09af43458ca34ba4152c781ab1", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "8edd8d4d0cd646a7b34eed0053fc8b65", "reason": "年份2017与标准一致。", "reused_from": {"id": "e6c3d5756f6547749129189c61d487bf", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8f000b68b32f40e4ac043e5459d325ad", "reason": "许可证Apache License 2.0与标准一致。", "reused_from": {"id": "aa33498ffa614f97ac9c01c0dfb6dfc6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8f20b85e9b0348c6bd95dbe6c5e0b8b7", "reason": "人物Willa Collar匹配。", "verdict": "correct"}
+{"id": "8f44a3e5ef40461cbedc9c9b8878c3ba", "reason": "人物爱因斯坦与标准一致。", "reused_from": {"id": "b818250107f940e6b4b7a213ea27ba11", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8f513434e6d14f87b8728b70d830e8ff", "reason": "41:18在允许范围内。", "verdict": "correct"}
+{"id": "8f66f75e9ac14e348b878433702221ef", "reason": "作者Kevin D. Hall与标准一致。", "reused_from": {"id": "3cf897e6665a4d37a24875d38f628eb4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "8fd596709a06466687d3a0d5a84f472d", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "8fe1e0f272194d86a62f588a00a79965", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "8ff6e8b5dee64befbd0b4e8c22426dfa", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "8ff8ba8d0df3469b95b445edfea76e0a", "reason": "未给出股份比例5%。", "reused_from": {"id": "decd4b45efed43249c5726420e852917", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "8fff5845ee6e4f72af465a7b0651e58b", "reason": "未回答具体联盟South Orange Little League。", "reused_from": {"id": "acc509b5acc34f43ae6d092ad76b2fe4", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "90583a6def5e4ac1aa3f2afbdade5000", "reason": "导演冲浦启之匹配。", "verdict": "correct"}
+{"id": "906f4f0fcd14493988080a3a8fc515b6", "reason": "宫殿Palazzo Venezia与标准Palazzo della Cancelleria不符。", "reused_from": {"id": "a34558f5632c4581a8964b5cd5fcfd9b", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "90adbf4b91be42c1a58c3d3e9927d70c", "reason": "角色Rose Loomis匹配。", "verdict": "correct"}
+{"id": "90d60181f90244b097dd0eb5d4a9aaf6", "reason": "国家瑞士与标准一致。", "verdict": "correct"}
+{"id": "90e3353b1de0485ab8b6b708f9604cd9", "reason": "未给出具体模型版本。", "reused_from": {"id": "96e1db513ce34985966e7666faf159df", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "90e4ed4cd01045c981fefccedf17d5c3", "reason": "菜名boko boko匹配。", "verdict": "correct"}
+{"id": "9110ed0f779b43b8aeeca9395bda1cab", "reason": "日期1968年5月6日与标准一致。", "verdict": "correct"}
+{"id": "912d156d6e6642ab951613f59c1b5072", "reason": "年份1899匹配。", "verdict": "correct"}
+{"id": "9138cc2ff98e4df482c8a6e940a97367", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "9144ecac0623492dbaa99afb0907dae1", "reason": "人物William Berger与标准一致。", "reused_from": {"id": "222b8066e1db47658873f2f937cc4c4a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "91a4c7ad0d464684abf992c91522ee8c", "reason": "合著者John D. DeLamater与标准及别名一致。", "reused_from": {"id": "f2a0186dc36e4942b4f99bee9c6b57eb", "phase": "baseline"}, "verdict": "correct"}
+{"id": "91b0f362a3ec4bb099b5b121b5541b17", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "91b529e5c3894ed6b41050d1315f74af", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "920cbcf1a8824396908953be9bd75f13", "reason": "年份为1996，与标准答案一致。", "reused_from": {"id": "a909388947194e69b2a7e923e382f60b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "924d5ac243884a6da9aa4d53d167ad9c", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "9440d1a834ec4d329aae68fb434d807f", "reason": "菜名Boko boko匹配。", "verdict": "correct"}
+{"id": "95a80ebb053b43d3b34021fbd8f380b8", "reason": "作家、较长寿者及82天均与标准一致。", "reused_from": {"id": "9e9a9ce387234ee1becdbbcb5c64ac3c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "95bcca1d643e49648684cc73c859d7fb", "reason": "具体模型版本匹配。", "verdict": "correct"}
+{"id": "95de8ec1704d40cfae8c575670aa9ffc", "reason": "所问车手Niki Lauda与标准一致。", "reused_from": {"id": "fc36bae41b954ec49bf22ff2b6beb39c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9649a41ab2434aa5bfd486299199b873", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "965de0d5b6ff4fe183138509be7db66c", "reason": "威斯康星大学麦迪逊分校与标准等价。", "verdict": "correct"}
+{"id": "96a4001b9e1740b496d0f9f89d454337", "reason": "日期1968年5月6日与标准一致。", "reused_from": {"id": "ed0b6e6e27bd4390b9d414dba3b70611", "phase": "baseline"}, "verdict": "correct"}
+{"id": "96df2a85ce3d4aeaaf0bce875919726f", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "96ffbd34a33e45289ba49a19bebea3c4", "reason": "未给出METR；候选自行主张拒答应算对不改变事实判分。", "reused_from": {"id": "6df39206542c47109ab1e975ef4e69ee", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "9742620b7a0f49329c573da677f4aa38", "reason": "作品名称与标准一致。", "verdict": "correct"}
+{"id": "977e5ed4041f4ca9b1edd6fecc958316", "reason": "年份1818匹配。", "verdict": "correct"}
+{"id": "979abd3c96084bb28707169788187611", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "982bb3a0808448fdb3e64acafdbdbda4", "reason": "未给出具体模型版本。", "reused_from": {"id": "dae0e3795d1a4be08962bcdc546c6531", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "985bfb6e49894ad58038db92876331f6", "reason": "日期1989年11月18日与标准一致。", "reused_from": {"id": "e5991185ee614c6282055f963ff035cc", "phase": "baseline"}, "verdict": "correct"}
+{"id": "988d06cc6736420fb2458a65774a272f", "reason": "专利US3600186匹配。", "verdict": "correct"}
+{"id": "9964f0e8974e4262ab268d4ed5a95ad9", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "9999e1ff3c6b42fd8a2b6faa56900818", "reason": "化学式C7H14N4O3与标准一致。", "reused_from": {"id": "7f4be2cf36574e1d93bec2e3db75e0df", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9a16d75b37504328813caf45a9098bc4", "reason": "日期1968年5月6日与标准一致。", "reused_from": {"id": "c08c2aa11263499ea835afbd4bde0352", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9a714437ccd64369b412639412acfda7", "reason": "候选按1810年宣告独立计34年，标准按1821年计45年；题目未区分起义宣告与正式独立宣言。", "reused_from": {"id": "6f9e68c3782b4fe5b064ce4e0d3eb4c9", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "9a7f6fcaaf444d028f5512f43768d3b2", "reason": "年份2017与标准一致。", "reused_from": {"id": "9c38e4a07ae44a7a99b0901330139761", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9a7fd721f0fb409f95b9969673f1e182", "reason": "年份1933匹配。", "verdict": "correct"}
+{"id": "9aa8f794a46d491990000eb8a660df52", "reason": "日期1983年1月1日匹配。", "verdict": "correct"}
+{"id": "9ab55a2c174245cdb0dbb2d4cd8cb6a1", "reason": "Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "9aec0251a21d4eca951428197627ffb5", "reason": "给出115.5米，超出标准可接受范围。", "reused_from": {"id": "616de6cdf21c42a6bec7e819eba1d41f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "9b1035baee9a48e38ce452e8476dd3a4", "reason": "答相隔0年，与标准2年不符。", "reused_from": {"id": "2efc2f3636794443a1ea423ab98f4976", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "9b840e895b924dcdac17cbd3322e0be1", "reason": "年份2028匹配。", "verdict": "correct"}
+{"id": "9c8892a6435d44a99f253dabd559657f", "reason": "完成年份2014与标准一致。", "reused_from": {"id": "a9c1cca1876b4df8b54a242448cf4ea6", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9c8c050536354e5eba8225cd40854af2", "reason": "平均值47906公斤与标准一致。", "verdict": "correct"}
+{"id": "9c8d5c01b55641769a6f13e33058a306", "reason": "年份1997与标准一致。", "reused_from": {"id": "3ce1586238fa4d538bf1e705d51c6ca2", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9cfa615992ec4a3bb2efc826ddd423ae", "reason": "年份2017匹配。", "verdict": "correct"}
+{"id": "9d57e71cb72845dc809b8a6ad471a93f", "reason": "回答相隔2年，与标准一致。", "reused_from": {"id": "93c9004bf83142c78af825239ba01b49", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9d5f2e1ba93f4274ae214978b83138b5", "reason": "法文书名与别名一致。", "verdict": "correct"}
+{"id": "9daf74fe71884a33929a83c8e9e6a3d3", "reason": "拒绝安大略省副总督职位。", "verdict": "correct"}
+{"id": "9dbcd5d3aa604739aa8edad85f350be0", "reason": "年份1818与标准一致。", "reused_from": {"id": "dd45d425272640618b2cc58901540a26", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9dc8933d54364688aaf330eaaa5aafe9", "reason": "主答案1108年与标准一致，区分了初稿与定名。", "reused_from": {"id": "bd3aa1ae845041968f5a0bb9bab988bf", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9e04fa9f1eec420bbc870a27b37e5519", "reason": "未给出两位获奖者。", "reused_from": {"id": "a90dcc33341a4911b3468810a3391c17", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "9e643c7e8f7f4434bcafbdcf5ee122b1", "reason": "日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "9e77c32cd8594bff9cebef4e169edf24", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "9e85a44f196a46bfa96550f73d287282", "reason": "车型McMurtry Spéirling与标准一致。", "reused_from": {"id": "86ce3adde754416fad94f89833bae72e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "9f37ddd737834f0eab1fc827905cf8a5", "reason": "菜名Boko boko匹配。", "verdict": "correct"}
+{"id": "9fa94832b56f4fd0ab45c8e7d09a073c", "reason": "本科学校Duke University匹配。", "verdict": "correct"}
+{"id": "a011a28ea73b4432b93d87945204ae7b", "reason": "未给出获胜者和车型。", "reused_from": {"id": "e8b40ee67f224188bae4cc0e3a28da5c", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "a0746d2c2f9e4ea0a5f2c92f60730d49", "reason": "学名Ambystoma texanum与标准一致。", "reused_from": {"id": "9121743eace740279b5353b729af84ce", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a07e5dcc46124766b731ad746c9da097", "reason": "国家日本与标准一致。", "verdict": "correct"}
+{"id": "a0b94c60ebf04c8ebc9333969352f4d6", "reason": "以Nelson计为2，但标准为4；题目未说明采用常用名还是出生名，给定名指代存在歧义。", "reused_from": {"id": "756699a72cd541af8454cb27557396d6", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "a0cccc82d89b450caac67ed4cdc9771e", "reason": "白金认证匹配。", "verdict": "correct"}
+{"id": "a0e34cfaec73490b943923ae9474ce3c", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "a111357ea0a7426981555709c23fcff9", "reason": "主答案1108年与标准一致，保留语气不影响判定。", "reused_from": {"id": "90bfc36b4c4149bea83086f4b01d79fc", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a11176f595ec4894ab36d85fa198983e", "reason": "新加坡部门名称匹配。", "verdict": "correct"}
+{"id": "a140bd1c82bd42a199e3f3b3cd4e3e04", "reason": "未给出新加坡部门名称。", "reused_from": {"id": "8dd18077525e494d819d64a3b5244102", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "a19e66af6ccc4299a649ed04ddebc699", "reason": "年份为1899，与标准一致。", "reused_from": {"id": "80b9d3d2603e40eab5d4c4e467fdb4d4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a2043ae2659c4be2ae2becff32aecd77", "reason": "年份1899与标准一致。", "reused_from": {"id": "3354cde2292d49eebd495b903732742f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a20b486da40b469aad0514446b81f842", "reason": "相隔130年与标准一致。", "reused_from": {"id": "f6ca9468ee6045dcb1cbe10ab3061215", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a272029e8d19422cb66a32c04b79c4f9", "reason": "人口302971匹配。", "verdict": "correct"}
+{"id": "a27c98c312e543f9bc383ccf0feeaf0f", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "a29898473edb4d9ca4d90e6e59107d70", "reason": "未给出机构METR。", "reused_from": {"id": "1ba06dc62699467b929ffd16688ce4ef", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "a2a9708cd8b84f5588ff47eb283ea23e", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "a2fa161a4afc4ff8a96bc5c9d2f43a86", "reason": "格尔拉赫峰匹配。", "verdict": "correct"}
+{"id": "a30ab05028bb47f694498f90b3c9bea3", "reason": "姓名Arianne Kathleen与标准一致。", "verdict": "correct"}
+{"id": "a3783ae3cf5e409cb4c611025f34e12d", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "a3c040e01e2645e0aa5abdccccd78968", "reason": "给定名Nelson与出生名Rolihlahla分别计2或4，题面未唯一限定。", "verdict": "uncertain"}
+{"id": "a3f8393606774e2aa6de43fce5de6065", "reason": "主答案年份1984与标准一致。", "reused_from": {"id": "4c9403466c2b4c8bbb07ca6884593425", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a48f6565297049dab36569dd441e3f37", "reason": "年份2008匹配。", "verdict": "correct"}
+{"id": "a4af472b927c4009a21f112eb7b377cb", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "a50a3be0d0e842279e8491be8da711af", "reason": "剧院名称为同一Teatro Lyrico Fluminense。", "reused_from": {"id": "027c7e56cb2f467b9fb526e6f6f978cb", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a5a231291d4b4a5abbdfdda6037e96d5", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "a5a2403f84654d26be4c4f6ed51986e6", "reason": "车型McMurtry Spéirling匹配。", "verdict": "correct"}
+{"id": "a65270ce619d44e5a31276cbc8022b7e", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "a696f4f875cb49caa7a454f53d0fb1e3", "reason": "年份1985匹配。", "verdict": "correct"}
+{"id": "a714de6753134c17907d6ca88f5b3aaf", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "a76dd1068f9c4fcf86628079ba31b6d5", "reason": "年份1985匹配。", "verdict": "correct"}
+{"id": "a8b15c8f835c430f956798a701d1f0e3", "reason": "安培每米与标准安培／公尺等价。", "reused_from": {"id": "896801f191f4432c979c39be31c24a1a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a8f5e6d58d164630997164289576767b", "reason": "法文书名与可接受别名一致。", "reused_from": {"id": "739b0f58d2f9459ea8e8545ebfae7e97", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a9106315b3a545039eec7e5577d3bd49", "reason": "新加坡部门名称匹配。", "verdict": "correct"}
+{"id": "a9564a63832940c5a9eb718722061da1", "reason": "人物Leonardo de Moura匹配。", "verdict": "correct"}
+{"id": "a961424b388d44cc86f421c570415241", "reason": "以1107年原书序年作撰成年，标准1108可能为成书年；题面未区分序文和成书口径，无法确定。", "verdict": "uncertain"}
+{"id": "a987df4e28954fb2b2b2d204efe0bfab", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "a9a0b96a69f5438c8ce483da8550d233", "reason": "年份1818匹配。", "verdict": "correct"}
+{"id": "a9a6b71b19384e03bb3a8611f4f36322", "reason": "主答案4个且按Rolihlahla计数，与标准一致。", "reused_from": {"id": "3de513c82e924d489b065e3685ab2f06", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a9a7ed0073cd47f0b006901cda9afbb4", "reason": "人物Willa Collar与标准一致。", "reused_from": {"id": "69e2fd1460144bcd9dacc9faccf02b75", "phase": "baseline"}, "verdict": "correct"}
+{"id": "a9f2916dd2d844fab2f8366f29c2d47f", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "aa04de5c1bb94f98a88d8c72c7c828c4", "reason": "品牌Misfits与标准David不符。", "reused_from": {"id": "0db2fb5a0275462daa0d8b12218abd27", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "aa32e97a34d14590983bf504c2cbd59d", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "aa58fcc970ae4e55a0eaee9af290118b", "reason": "仅列两位作家及日期并输出拟议工具调用，未完成较长寿者和82天差值的回答。", "reused_from": {"id": "5f90aef8571f4a999954107edb7e4b57", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "aa9a8652f0e847298179c168a923b78f", "reason": "采用1810年得34年，并区分1821年得45年；题面未限定墨西哥宣告事件。", "verdict": "uncertain"}
+{"id": "aad403d06a6944ffa1927db6b60abb62", "reason": "认证Platinum与标准一致。", "reused_from": {"id": "725e954089114284aa24a3b10a56155f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "abc8219b6edc46beb175917fd422d222", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "ac1f4413e1c84e718a205bcc689f56c9", "reason": "人物Timothy L. Grove与标准Miriam Kastner不符。", "reused_from": {"id": "09e1b77d0b364435abe60b89e18185b5", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ac4c144a4f28479abb031ff9caab0526", "reason": "法文书名与别名一致。", "verdict": "correct"}
+{"id": "ac59cce07b2541d0909d1cb518e78120", "reason": "角色名Rose Loomis与标准一致。", "reused_from": {"id": "a56710338aca437d8df847d42ed15063", "phase": "baseline"}, "verdict": "correct"}
+{"id": "aca40814ed8c486e92f56a5f6eddbb99", "reason": "David Protein为可接受别名。", "reused_from": {"id": "805b357339814055944aa462e0150bb1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "aca58cb7d8dc44ecae418f6b8167495e", "reason": "未回答存储在Google服务器。", "reused_from": {"id": "f7b8d1f375d7466588a333f143741dd1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "acef296c56244a2992cba24648e956b8", "reason": "答Scylla Ramshorn，与标准Willa Collar不符。", "reused_from": {"id": "fc3775f7092a492984ca4b0647fae400", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ada8f25f4a5145e586bb06b21e77f421", "reason": "安培每米等同于安培／公尺。", "reused_from": {"id": "3fa65c4580bf424d9ab77642113abd86", "phase": "baseline"}, "verdict": "correct"}
+{"id": "adb07a03d8a94ccd806e9733eba13c2a", "reason": "日期1983年1月1日与标准一致。", "reused_from": {"id": "d61663b84cc04f08944e0ea9197c3f6e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ae322b69f9c8434e8213673dfaaeae3c", "reason": "四种维生素A、D、E、K与标准一致。", "reused_from": {"id": "2c82ce0845be4f7f941138109613a556", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ae5d82eb0569484ab1212df21a8b01da", "reason": "校长Leon Botstein与标准一致。", "reused_from": {"id": "3911e720a8bf4d34988da4e7a763370d", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ae7ed0fead4243fa83b47fea112d97e0", "reason": "作者Hema Budaraju匹配。", "verdict": "correct"}
+{"id": "aec41af4c99f46c78cf29402a35e3348", "reason": "拒绝安大略省副总督职位。", "verdict": "correct"}
+{"id": "aede2a97f4b8484ba1b10a5744820dff", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "af3c7da6e7094408ad786a999b9c61ba", "reason": "学名Ambystoma texanum匹配。", "verdict": "correct"}
+{"id": "af954738de5943279ba9de0b34a0ac90", "reason": "日期1989年11月18日匹配。", "verdict": "correct"}
+{"id": "afac54db09e043a08dcafb0ba720fa95", "reason": "品牌David匹配。", "verdict": "correct"}
+{"id": "b001f690449a4ce9aeb412c22b98aee5", "reason": "人物Harald Haas与标准一致。", "reused_from": {"id": "262ee0de54994749b06175933b221549", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b00dc4a8872547e3a816e8a628565ab1", "reason": "年份2013与标准一致。", "reused_from": {"id": "c2dcfbae1e444c51b4bbc18df21dbc04", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b0f5fb5aacae462ca0c44632906758fa", "reason": "朝代明匹配。", "verdict": "correct"}
+{"id": "b1b1cf8f385b4ffebe091a061cc421e9", "reason": "年份2014匹配。", "verdict": "correct"}
+{"id": "b1d4b8a9b99d4ae28ae749ea5d6e046a", "reason": "明确选择South Orange Little League，匹配。", "verdict": "correct"}
+{"id": "b1de2433f20740fb9ef305e08636f47f", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "b21a4e988f164bbf8c08adc9545ac5b6", "reason": "推测2022至2023年，与标准2016年不符。", "reused_from": {"id": "1acef034b7494ca999e38dd2cd11583c", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b2408d7402e44f6e9fe67ec4cf378b5f", "reason": "比较结论为女王在位更长，与标准一致。", "verdict": "correct"}
+{"id": "b24b2fd56e6c4054bacdd117f37f4e62", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "b27d4ed6c79540899a9354427902c80f", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "b28e1ea7989f495086af7a95c13b22bd", "reason": "未给出所问平均质量47906公斤。", "reused_from": {"id": "7bc872a9b4014ab7b1dd1d49eebc666c", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b290ebdad86940ffa8f7b3dfcdb771db", "reason": "驾驶员Thomas Yates匹配。", "verdict": "correct"}
+{"id": "b3465eb7ce724bc6b44ba9441ff68abc", "reason": "组织世界粮食计划署与标准一致。", "reused_from": {"id": "be030e3bd74e42a5a640b65b373a6e16", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b3853bef3a904348b0cd8d294d8ff198", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "b44e3b1df7fd45928470cbccd55227e1", "reason": "未给出Duke University，且猜测为Princeton。", "reused_from": {"id": "85b4852417824b6fbf113a32e4103109", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b4655a5056384ab3bfb522541400447d", "reason": "未给出量产年份2028。", "reused_from": {"id": "481094bddaf6488fb8fc5dacefd6d996", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b47db0e5f6e64c30ae9b71938ceaee28", "reason": "两个项目stadion和diaulos与标准一致。", "reused_from": {"id": "5e8bbfa8fa1146e6a0151a8bdf8e8412", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b496010efac845868c346f2f173b95f3", "reason": "年份1958与标准1933不符。", "reused_from": {"id": "848f6a4e6092472da43c1777d9252812", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b4cc7cbd47054108b16df302c5fe7dd4", "reason": "次数4匹配。", "verdict": "correct"}
+{"id": "b4de677ba2024bd3845bc7b5d9220a6a", "reason": "报道年份2016匹配。", "verdict": "correct"}
+{"id": "b5485f69f16d4d02a9180d2137666f0d", "reason": "相隔2年匹配。", "verdict": "correct"}
+{"id": "b57c1f26d85746ddbc58ab52809a0df8", "reason": "人物William Berger匹配。", "verdict": "correct"}
+{"id": "b5c9af8e33c342b29e33ed2f50a0e9b2", "reason": "作者卡尔·海森与标准一致。", "reused_from": {"id": "8c0c2e9ba1824be19d4287ae4cf4f486", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b5d30f4225ae46399ef261484faba2d2", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "b69ac2f3178a4c01b6077599572c3938", "reason": "比较结论为伊丽莎白二世在位更长，与标准一致。", "reused_from": {"id": "a0006042653847e59ecb82fa21783b82", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b6cc3213816c4ecda697749a122c1a3c", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "b6fe8dd5c876423cbbee195a40be4d1c", "reason": "人口628匹配。", "verdict": "correct"}
+{"id": "b70ed950bb304a4d8c75ab50328522bb", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "b725e39c02944854a20836c8c1ce1763", "reason": "年份1933匹配。", "verdict": "correct"}
+{"id": "b79986a7a725423ba810a4e288cca6f4", "reason": "学名Ambystoma texanum匹配。", "verdict": "correct"}
+{"id": "b7bb07375cfb4319847e026d6d1b4d4a", "reason": "角色Rose Loomis与标准一致。", "reused_from": {"id": "f06685c34bde414885fc0aa92c1809f9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b7c8958bdd6e4ff0b92444cc28eb147b", "reason": "猜测为All You Need Is Love，与标准曲名不符。", "reused_from": {"id": "5a8130e02be64cb9966bf5a2f89ec142", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b7cef8a84a8f45f28d9f6884c45b923c", "reason": "词语equilux与标准一致。", "reused_from": {"id": "b3b04eebd5c14adbb37156bf285ec0d4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b822e23dc21846f19388bb3de5d5b32c", "reason": "人物Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "b8270a3a9461498aa9ee8adca648d658", "reason": "原名Gerlachovský štít对应格尔拉赫峰，译名差异可接受。", "verdict": "correct"}
+{"id": "b8894712ec024d3ca9fb0d67e240ab89", "reason": "单位安培每米与标准等价。", "reused_from": {"id": "b4b0f50fcfb64476afaf1d6d79db8bc5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b89cac7d95fa4bb99cc69b8bfc484858", "reason": "两位获奖者拉丁姓名均匹配，且撤回夹杂的错误中文。", "verdict": "correct"}
+{"id": "b8adfe9cdaed4461a16354273c2174ce", "reason": "年份1985与标准一致。", "reused_from": {"id": "ebfb052c34554abebf5a3de3804f1648", "phase": "baseline"}, "verdict": "correct"}
+{"id": "b8e6ab6d85f348a7949f23b8a143ab76", "reason": "未给出导演冲浦启之。", "reused_from": {"id": "a8b55303712549fba4ab5d320ccc6f5a", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "b8ea2e6999bb4c908ae66ef9fc207b87", "reason": "歌曲I Want to Hold Your Hand匹配。", "verdict": "correct"}
+{"id": "b919f0b2af104044a9c65f4af3a0af9f", "reason": "导演为冲浦启之，与标准一致。", "reused_from": {"id": "7d5a70dae9b14d3fbe15490365f069c8", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ba3c274b211e46d8b22a80a529f1bf70", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "ba57c58bbc1642b18c03ae6f1b372b64", "reason": "维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "ba64fc34427546cb9b666b6d4cfbde92", "reason": "英文姓名Carl Hiaasen明确匹配，中文译名差异可接受。", "reused_from": {"id": "bb79d3c51fd6445dbb5009dc9f743e8f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ba8e569247c24f5b8eedfb150468a87c", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "baad447bc077467a99e24be60aeb26f6", "reason": "人物Marcelo Viana匹配。", "verdict": "correct"}
+{"id": "badeec6a8fc6453592a6f5c9e8f7d6a0", "reason": "剧院名称为同一名称的拼写变体。", "verdict": "correct"}
+{"id": "bb6e7c5b5b524390bcd6022542ee63c1", "reason": "完成年份2014匹配。", "verdict": "correct"}
+{"id": "bb6ff837e7444399b0f216c831c2c937", "reason": "比较结论为伊丽莎白二世在位更长，与标准一致。", "reused_from": {"id": "d00df7013bd4468c83ed6856f6ed4cbb", "phase": "baseline"}, "verdict": "correct"}
+{"id": "bb8e4b88d62842599b840481c3ca45bb", "reason": "国家瑞士匹配。", "verdict": "correct"}
+{"id": "bc478879c91441cb90057a1a4e2d4458", "reason": "品牌David匹配。", "verdict": "correct"}
+{"id": "bca812ae04154efb91d06bda212e3068", "reason": "年份1985匹配。", "verdict": "correct"}
+{"id": "bcd2b98dc3964af0bb9985ff848b831c", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "bd10bef1e16f423b9abe26c3f16f92b3", "reason": "年份1997匹配。", "verdict": "correct"}
+{"id": "bd5e60e3498841c2a0676492385fde34", "reason": "年份1997匹配。", "verdict": "correct"}
+{"id": "bd643becd9304c86a4b2ce44c85fae13", "reason": "人物William Berger与标准一致。", "reused_from": {"id": "e71819964da64986bb8944483cfa060e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "bd9c99cc205e41b9bcdf617becacda68", "reason": "主答案年份1997匹配。", "verdict": "correct"}
+{"id": "bddd562570bd4cbb802b835950771471", "reason": "年份2017匹配。", "verdict": "correct"}
+{"id": "bdfdf8f2f79b4c928dc70d20ce0af8f2", "reason": "Gold且否定白金，与标准platinum矛盾。", "reused_from": {"id": "87cd435e7e5646f186c9746f1bf09196", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "be02413568a943d68346326f00ea7af6", "reason": "仅给奥兰多当地联盟，未给所问具体名称。", "reused_from": {"id": "e8cb97f021ee49dbb2b9de3fbaa5fef3", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "be352fe8569940a28d71e19de5c3c0a2", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "be4ffd6843924cd3b9b035616cca017c", "reason": "未给出人口628。", "reused_from": {"id": "919c917d0bdc4cf5be7f437beadcf00d", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "beaa1b44e7aa4edd83557348e3e2cce4", "reason": "获奖者Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "bf1dac2648cc4f3f9380bb7546c1fb4d", "reason": "出生年份1946与标准一致。", "reused_from": {"id": "991c612ba20547ee9a7502faed544968", "phase": "baseline"}, "verdict": "correct"}
+{"id": "bf520e83fc7f44058f7553236969bcb9", "reason": "人口30在可接受范围内。", "verdict": "correct"}
+{"id": "bf6e209335f841fd85b15688b5e5e9be", "reason": "年份2019匹配。", "verdict": "correct"}
+{"id": "bf7853e76f34408684f85ad84a7685bd", "reason": "球队Chicago Cubs与标准Brooklyn Superbas不符。", "reused_from": {"id": "1f0a0f57f6bb403aac98cd4e840490c1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "bf7999ef205c4d3e97a76b888e2b3db4", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "bf7ef5b12eda44f6a7d2fa62121f3b49", "reason": "化学式C7H14N4O3与标准一致。", "reused_from": {"id": "11299cb38e4b45f284e89769004362c7", "phase": "baseline"}, "verdict": "correct"}
+{"id": "bf903bf2ac4d46f8a9ff9dc387466ee6", "reason": "倾向1962年，另列1984但未确定，未给出与标准一致的唯一答案。", "reused_from": {"id": "ba2fa72568ed4249b8ec4ae6110b1112", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "bfaf5e1fd6194f80860ca5db2154b546", "reason": "组织世界粮食计划署与标准一致。", "reused_from": {"id": "06f1a720814c46ebb38f77a4e5e9b3da", "phase": "baseline"}, "verdict": "correct"}
+{"id": "bfcb9e05990348acb516e60fbf26fa19", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "bfe5e2bfa040495baf97c345d186f96f", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "c06dddf01f004e018d02bc39dcdb5490", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "c0b8157180264834afe7f480eb5d94e0", "reason": "未给出作者Hema Budaraju，提到的Robby Stein也未确定且不匹配。", "verdict": "incorrect"}
+{"id": "c12d15609705463cb0ce7a2f6f1023c4", "reason": "人物Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "c178de82765e47e488aae59f00f5b1b5", "reason": "主答案1108年匹配。", "verdict": "correct"}
+{"id": "c1828a7701e74c759ac6db5c2f3c134c", "reason": "专利US3600186匹配。", "verdict": "correct"}
+{"id": "c1b21341d8cf44988353a7397caab76f", "reason": "相隔2年与标准一致。", "reused_from": {"id": "0559fe8566ff4f0ea6e0efd1c88e5151", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c1de91f31d56469db52f5656f3551df4", "reason": "平均45834公斤，与标准47906公斤不符。", "reused_from": {"id": "6f1af2e20130404884a295759110d86c", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "c233c9a18f0d4a5dba0868add9abd363", "reason": "姓名Arianne Kathleen与标准一致。", "reused_from": {"id": "4b9f95fa00f14b31a39c17c8e8743d86", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c2827002576f4ca7825845362444c728", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "c2b4b97df4064d13b1d899add7da046d", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "c2d50d1cab0d498093530acfa2798102", "reason": "车手Niki Lauda与标准一致。", "reused_from": {"id": "1ef4865fe251427dafd35528c00cc8fe", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c2e261713f974867a2b485f16f309fcb", "reason": "主答34年并列出45年的另一宣言口径；题目未指定采用哪次独立宣告。", "reused_from": {"id": "d86fa93f99f44f75984c201bc3ed4b8b", "phase": "baseline"}, "verdict": "uncertain"}
+{"id": "c3213c92452a4ecb925e5cc516d774c1", "reason": "41:18在允许范围内。", "verdict": "correct"}
+{"id": "c373fc95079c4abcb7dd3369c422f1f0", "reason": "两位获奖者姓名匹配。", "verdict": "correct"}
+{"id": "c375439b08b54cabaef934ef22cebfab", "reason": "年份2013匹配。", "verdict": "correct"}
+{"id": "c386ca69c2894db895bf239bfa3217c1", "reason": "未给出相隔130年的结果。", "reused_from": {"id": "e2a72ee600d84b40aff6df51cd51b304", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "c3d45a3e5b254765b984115772ff6336", "reason": "具体模型版本匹配。", "verdict": "correct"}
+{"id": "c4988a888a0b4b538d67105e7b887c57", "reason": "Gianni Rodari明确对应罗大里，中文音译差异可接受。", "reused_from": {"id": "2b0adfb3f2b4473bbf644aea585b4f59", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c4d09b74cf004d6aaefb101e9026c629", "reason": "人物Nicolaas Govert de Bruijn匹配。", "verdict": "correct"}
+{"id": "c533a1b6ab1c4941acad3659b132012e", "reason": "剧院名称为标准的拼写变体。", "verdict": "correct"}
+{"id": "c54c762d356c43aa88bab611962bd3c2", "reason": "人物William Berger与标准一致。", "verdict": "correct"}
+{"id": "c5c167180c8d481c888b50c81e12e15e", "reason": "白金认证与platinum等价。", "verdict": "correct"}
+{"id": "c66fb170b93641c4b2f5467126429e57", "reason": "角色Rose Loomis匹配。", "verdict": "correct"}
+{"id": "c6901bd487084950841f8c40c8cda914", "reason": "人物Marcelo Viana与标准一致。", "verdict": "correct"}
+{"id": "c69fd889ebce485485efe8e38f5e11ab", "reason": "人物Nicolaas Govert de Bruijn与标准一致。", "reused_from": {"id": "83190a950adf4fbe817933a98b44ff94", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c6c18ec5da2b44269e64f2513f41456c", "reason": "未给出Thomas Yates，不能以Chilton猜测替代。", "reused_from": {"id": "5d067087ba3148c086b5b344039945f6", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "c6d462a109ae447fb6e792672afe9c88", "reason": "Charles Muhangi与标准姓名为拼写变体，车型Subaru Impreza WRX匹配。", "verdict": "correct"}
+{"id": "c6e5434cd9e348f0b3e3fb87f0a4a2e1", "reason": "stadion和diaulos两项目均匹配。", "verdict": "correct"}
+{"id": "c76a741a20404d858de919de98324877", "reason": "选定歌曲I Want to Hold Your Hand，与标准一致。", "verdict": "correct"}
+{"id": "c7a1bbd0cbbe4cc3a6f3b495093f72fa", "reason": "四种维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "c7e6732e7d3348f0ad78dba145ba79e2", "reason": "采用1810年独立运动起点得34年；题面未指定1813或1821年哪次独立宣告。", "verdict": "uncertain"}
+{"id": "c8516daae424426b8a7998a8506d3dbc", "reason": "公司Interbrand匹配。", "verdict": "correct"}
+{"id": "c86d8fa4c4a241f097fa302bd5cc5a13", "reason": "未回答所问导演冲浦启之。", "verdict": "incorrect"}
+{"id": "c87d8f23d06e4256809049443de34d03", "reason": "主答案人口302971与标准一致。", "reused_from": {"id": "6b35cb4a0df84b7193c302d950e22d05", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c8e5a39b7f6f4c729f00b0f9e8d54715", "reason": "量产年份2028与标准一致。", "verdict": "correct"}
+{"id": "c914f6927955494bbeb5c8b120e4d546", "reason": "人物Nicolaas Govert de Bruijn匹配。", "verdict": "correct"}
+{"id": "c91b51c89fb04a258908128c3a3c45a5", "reason": "工具OSS Scanner匹配。", "verdict": "correct"}
+{"id": "c94779cb2d774772bd4c53936d3c9105", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "c978a663d63649d29ed78eb5c09d8082", "reason": "作家为贾尼·罗大里，与标准一致。", "reused_from": {"id": "7d51a2456b694dd49db13ca6f5d511a1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c9ac0282551949888fb332afbb4639e2", "reason": "校长Leon Botstein与标准一致。", "reused_from": {"id": "f7c43cc6c9c54a53a3c934e9865d2a59", "phase": "baseline"}, "verdict": "correct"}
+{"id": "c9db5bcb0197489bbabcfb5410d806d9", "reason": "存储在Google服务器，与标准一致。", "verdict": "correct"}
+{"id": "ca0d10b20ed64ffcbc799d9d43e4ed17", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "caf134f8c36d4335adb5ee83be054b06", "reason": "计算结果49486公斤，与标准47906公斤不符。", "reused_from": {"id": "9bdd76978cff46f58ed738c35f18ed7f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "cb0ae034a0844fd5ab44b0eaf48976f6", "reason": "两位获奖者姓名均匹配。", "verdict": "correct"}
+{"id": "cb77a07366c744bb938a43bfe61a617c", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "cbb4ad60f8554f0fab222d15ebe8afe0", "reason": "单位安培每米与标准等价。", "verdict": "correct"}
+{"id": "cbc038fd485c43c09e7950e730971e81", "reason": "作家、较长寿者及82天差值均匹配。", "verdict": "correct"}
+{"id": "cbc99b6607a24eb4a95c571bc4edcd41", "reason": "两位作家、寿命更长者及82天差值均与标准一致。", "reused_from": {"id": "d8ee920159fd44348536f7291f0f5f8c", "phase": "baseline"}, "verdict": "correct"}
+{"id": "cc4b4b782c714772a0d88bb80137634c", "reason": "人口302971匹配。", "verdict": "correct"}
+{"id": "cc5dded56f2e40ccb319bfd445e7201b", "reason": "国家日本匹配。", "verdict": "correct"}
+{"id": "cca88e38f16f45ee902bf600a5988d9b", "reason": "未提供所问歌曲名称。", "reused_from": {"id": "8c3d55b3480b47f0bb14e9b455a6b598", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "cce17d3af3314bb1a68ed13501a9f1a7", "reason": "角色Rose Loomis匹配。", "verdict": "correct"}
+{"id": "ccea4e05a81b4a5781a26b316f3b88ac", "reason": "未给出活动日期October 13–19。", "reused_from": {"id": "9850e44a88764fefb00b33a593db3ce1", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ccefa697e29e43cfacebf886c45718d8", "reason": "获奖者Miriam Kastner匹配。", "verdict": "correct"}
+{"id": "cd37e6bdacad479fab4b4507e622d8e6", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "cd5259c46ddc40479e0815d39e98717d", "reason": "完成年份2014与标准一致。", "reused_from": {"id": "d13aa270bc78431086e2e8a34cc76043", "phase": "baseline"}, "verdict": "correct"}
+{"id": "cda5237a2fad4ba9b248d83bf882664d", "reason": "人物Alex N. Halliday与标准Miriam Kastner不符。", "reused_from": {"id": "72f579ade4b34f93ab99b489ccbefd24", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "cdfe9a9c18ae4f7399ed767984e449e3", "reason": "给出10月8日，与标准10月19日不符。", "reused_from": {"id": "bc78749367134ae9a8cf9309c4e3bc3f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ce76e2b6ad6d4d6dbd785ca8c3fa8533", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "ce897c7b73e54be386706e72fb9196bd", "reason": "作者贾尼·罗大里匹配。", "verdict": "correct"}
+{"id": "cedb22a5742c41ed888e6d1b12797f9c", "reason": "回答2009年，与标准2008年不符。", "verdict": "incorrect"}
+{"id": "ceed84bdddcf40aba220c6bfd040a958", "reason": "活动日期2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "cf70e50277ac4725a98a21b900670b3e", "reason": "回答4次，与标准一致。", "reused_from": {"id": "30752164d71140bb92d78dd2b8bb56a8", "phase": "baseline"}, "verdict": "correct"}
+{"id": "cfc15854a25e4aa7aacba6a0245740b7", "reason": "日期1968年5月6日与标准一致。", "verdict": "correct"}
+{"id": "cff3d4574514416296c9c8980ec6c423", "reason": "所问日期1968年5月6日与标准一致。", "reused_from": {"id": "d522029622c94bae9440a904b1f23691", "phase": "baseline"}, "verdict": "correct"}
+{"id": "cfffdf16b8a448babc3e58c9f4e2d689", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "d023844af80e4d53bebe3d8f0e5ae906", "reason": "年份2019与标准一致。", "reused_from": {"id": "407322be1f0f444dbf6ef95184148636", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d0b6ff7de6ea41908505b2dc8ccd0b5e", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "d0f0affb828c44f588ccb254f4b2920c", "reason": "国家答荷兰，与标准日本不符。", "reused_from": {"id": "5daba0dfcfcb4dc09010fef09bf3add0", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d10598a63c164892bd1d6e772f69afef", "reason": "日期2009年10月19日匹配。", "verdict": "correct"}
+{"id": "d12176eaff14445ab0dd6cf32bae0f4c", "reason": "给出2008年11月17日，与标准2009年10月19日不符。", "reused_from": {"id": "aaf3e2e0b8fc47d6a2b1d8dcceaa2d4f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d12c07dd24e64a5a9ec625bb1d5b428e", "reason": "着陆场四子王旗匹配。", "verdict": "correct"}
+{"id": "d167654d53e74a96834573b4b8f6763b", "reason": "歌曲I Want to Hold Your Hand匹配。", "verdict": "correct"}
+{"id": "d1f4e275f0ff41aa8ddadcfffd07aabd", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "d2167d4c4b32473eab1e5f40d03c7034", "reason": "国家为瑞士，与标准一致。", "reused_from": {"id": "d6c2005988eb45d99b045bef0edd5f94", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d228730cc1a8423fa4967e9ebd5aaeca", "reason": "拒绝安大略省副总督职位，与标准一致。", "verdict": "correct"}
+{"id": "d32f7ca6a3904563808f19404aaf7d4f", "reason": "品牌David匹配。", "verdict": "correct"}
+{"id": "d35a9b5d0e0b4d1b8a0ce41b44deb403", "reason": "化学式C7H14N4O3匹配。", "verdict": "correct"}
+{"id": "d37a48ca5f814f4a828a2f4460e43e23", "reason": "给出2023年，与标准2016年不符。", "reused_from": {"id": "9d45ca9f78b347c7b96eed3edf880c38", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d3a31367255048ea8bdce6704a6f5f0e", "reason": "人口为302971，与标准一致。", "reused_from": {"id": "330e0ae7da714f508cdf05a5a1fd5d90", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d3daac6989724c8fa9429995295269b6", "reason": "插画师Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "d3eb63d0f8654136a807f2ead5b9fccc", "reason": "博士领域神学匹配。", "verdict": "correct"}
+{"id": "d429943d7515483c99fb7dc229053c6b", "reason": "比例5%匹配。", "verdict": "correct"}
+{"id": "d459c5287d364210b873cca4b2fd2759", "reason": "年份1997匹配。", "verdict": "correct"}
+{"id": "d4829255c35e48d387ac5a23aff759c7", "reason": "日期范围2026年10月13至19日匹配。", "verdict": "correct"}
+{"id": "d4a1d1f2231a4747b4f0fdf3c122472b", "reason": "给出10月26日，与标准10月19日不符。", "reused_from": {"id": "e584c2f642d54a649a2e2b08da7f1c86", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d4af6583513f4008a7d516a36d714c09", "reason": "110.5米在可接受范围内。", "verdict": "correct"}
+{"id": "d4d5c081bc0941419d4aefd3778946fe", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "d51fc27317184127ac93d4adace87de9", "reason": "主答案1108年匹配。", "verdict": "correct"}
+{"id": "d5762ee9dfc1414f99b08c1fe6ce0008", "reason": "年份为2019，与标准一致。", "reused_from": {"id": "71daf17c484b48e5987261163e37faf8", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d5fd0d1dffa04036972a76b0c562b73b", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "d5fe3840b40c4bdbb6bf0730d67ecb11", "reason": "作者贾尼·罗大里匹配。", "verdict": "correct"}
+{"id": "d6229b960764445a910f1c3e2a72321b", "reason": "硕士学校威斯康星大学匹配。", "verdict": "correct"}
+{"id": "d644a23edf57476da8137f042ad8e928", "reason": "日期1989年11月18日与标准一致。", "reused_from": {"id": "aa26e0c444484fce81c9acf13d1588f7", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d67eb8b8803344c987a39c7e5f717e5d", "reason": "驾驶员Thomas Yates匹配。", "verdict": "correct"}
+{"id": "d6a0250445e0422faadb26f25e7d9326", "reason": "未给出鉴定年份2008。", "reused_from": {"id": "840115e067e54e25a3a109114fc36b15", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d6c1aa2108204c2d8e3ddcc406b7efc5", "reason": "Nelson有2个元音，标准4对应出生名Rolihlahla；题面未限定。", "verdict": "uncertain"}
+{"id": "d6d8d5b233994abbbb5f45d4982e7056", "reason": "学名Ambystoma texanum与标准一致。", "reused_from": {"id": "8d309ae02fa2478f92e1868d1df74652", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d6e65d7cf8ce4e2d9255c583209ac4d9", "reason": "日期1989年11月18日与标准一致。", "reused_from": {"id": "72ecc49f8b8a4d7a85c7f165cbfbc00a", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d785fac9837042b9a25c82aac925b05e", "reason": "创建年份1985匹配。", "verdict": "correct"}
+{"id": "d7a0450d5f8d4085bef6fa80888cdf24", "reason": "词语equilux与标准一致。", "reused_from": {"id": "e6985820a893479cb635d3123b8017ac", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d7b26e73a5d94bf4973839e31b0cfab8", "reason": "年份1946与标准一致。", "reused_from": {"id": "13f40ad0d77645cba10caab307aca058", "phase": "baseline"}, "verdict": "correct"}
+{"id": "d7c18f9eb3914a39938b68cbd98a1a0b", "reason": "未给出人口30或可接受范围。", "reused_from": {"id": "d6b3fcc38602426f8472ccb8785fc3fa", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d8163212b8bf4231a3b1e458664e6304", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "d8da93ff3c1d4f0cba176c5ec326b1c2", "reason": "未给出完赛时间41:18。", "reused_from": {"id": "f3de2a2e986f471eacc59b7e0179f247", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "d910f1b3726649d7af4b0f6d06bd9a47", "reason": "驾驶员Thomas Yates匹配。", "verdict": "correct"}
+{"id": "d9a2a9237bc24f9bb4de62226775e7a7", "reason": "Muhangi为Muhanji拼写变体，车型Subaru Impreza WRX匹配。", "verdict": "correct"}
+{"id": "d9beb6c623534668b10ef836623db726", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "da2f10a1db6346b29cecbab97c0b4aa4", "reason": "插画师Juan Pablo Machado匹配。", "verdict": "correct"}
+{"id": "da51eced053646c2bbe6dddc02f61dca", "reason": "年份1899匹配。", "verdict": "correct"}
+{"id": "dac4b2d2715b4e3280c84a8fe746bbdc", "reason": "导演冲浦启之与标准一致。", "reused_from": {"id": "09cd78b4367f41f885ceefd39a4f33cc", "phase": "baseline"}, "verdict": "correct"}
+{"id": "db3f777e0eef43fcb7c6cbdc66645235", "reason": "Gianni Rodari对应标准作者，音译差异可接受。", "verdict": "correct"}
+{"id": "db43eb23cbdd4aecb8eff8480c928ff3", "reason": "年份1981与标准一致。", "reused_from": {"id": "b5726f82b20b4b7e97a8d83df7757e76", "phase": "baseline"}, "verdict": "correct"}
+{"id": "db9bf0b1644b4866a4567a96f4f492b9", "reason": "词语equilux匹配。", "verdict": "correct"}
+{"id": "dbe6bc24d6e649fb8b9cc796d039e13f", "reason": "人口302971匹配。", "verdict": "correct"}
+{"id": "dbf90e46bd504c32800cf9c33983e4b0", "reason": "次数4与标准一致。", "verdict": "correct"}
+{"id": "dbfea128dab5415aa98dcac6a807fad4", "reason": "姓名Arianne Kathleen匹配。", "verdict": "correct"}
+{"id": "dc192308e1064b8da1b26d6daaab16e5", "reason": "作品名The Problem We All Live With与标准一致。", "reused_from": {"id": "f38701a999584a4d826fce083175a9cd", "phase": "baseline"}, "verdict": "correct"}
+{"id": "dc46d4a346d341f1953069a6106b51ef", "reason": "未给出机构METR。", "reused_from": {"id": "b4b2ce3226934651950b36a3d11cae1d", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ddb424df1a5e48f68321c58d48944b32", "reason": "驾驶员Max Chilton与标准Thomas Yates不符。", "reused_from": {"id": "95bc8b8e636e4e90a1fd27e99f71b75f", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ddbf711bed6849dba5fa6f8b941c5ae5", "reason": "人物Harald Haas匹配。", "verdict": "correct"}
+{"id": "de00c3d232b94bed8d9bbdaab00f83ef", "reason": "认证Platinum与标准一致。", "reused_from": {"id": "6083db5c875f48828546148b79318435", "phase": "baseline"}, "verdict": "correct"}
+{"id": "de8bd5a467fb4d65929eea8fbe496364", "reason": "角色Rose Loomis匹配。", "verdict": "correct"}
+{"id": "deb991637b394a82862eba249ec2d0cf", "reason": "110.5米在可接受范围内。", "verdict": "correct"}
+{"id": "df072c35ac48442691bc9fd702c89b5f", "reason": "年份2017匹配。", "verdict": "correct"}
+{"id": "df3dde782cd64d809027ca82e8ae7c9d", "reason": "年份为1984，与标准一致。", "reused_from": {"id": "2b0317c0fdc849a8925b3352787a9857", "phase": "baseline"}, "verdict": "correct"}
+{"id": "df3e61636e74454aa3c4c7b969fb1241", "reason": "成立年份1997匹配。", "verdict": "correct"}
+{"id": "df44b229e7a44abaa1fad667404d16b1", "reason": "单位分贝匹配。", "verdict": "correct"}
+{"id": "dfe8606874284f6b8bdd48dbfa86756b", "reason": "未给出品牌David。", "reused_from": {"id": "72cebc92ba8944029c1b85c28539fd28", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e0212906d7d04ca3bbd041ce6aa89774", "reason": "未给出正确歌曲I Want to Hold Your Hand。", "reused_from": {"id": "086e489831c9493596117769c6c76975", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e100270821d048a1a672011c6f659c18", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "e183e70e9e404bbc9d25378e2a2f27df", "reason": "未给出获胜者与车型。", "reused_from": {"id": "c03c31499f464fffa8b5bc89f9617260", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e1b1074c4aaf4a64a1ee6b65fc95728c", "reason": "给出约2022年，与标准2016年不符。", "reused_from": {"id": "d3296217daa747fda8cd75a22515c233", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e1fed55ee7544476980f046ee46afb36", "reason": "组织NHK匹配。", "verdict": "correct"}
+{"id": "e2e66f769787435a8bcd2bbae1f6cbfd", "reason": "联盟South Orange Little League与标准一致。", "verdict": "correct"}
+{"id": "e3368083ddf6433d8593958d61febc5a", "reason": "未给出股份比例5%。", "reused_from": {"id": "270a672a109c40f4a83824c727c30a18", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e3841fc15b92495a97459c366103b491", "reason": "作者Hema Budaraju匹配。", "verdict": "correct"}
+{"id": "e3c91b8e051e4be78c35a303b29406a8", "reason": "主答案115.5米超出109.39至111.61米的允许范围。", "verdict": "incorrect"}
+{"id": "e3ff132f2cfd47e991e2390b907d1a46", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "e40763989184440ebdb50c48f517757c", "reason": "球队Brooklyn Superbas匹配。", "verdict": "correct"}
+{"id": "e46bbb927bf4487da0cda5082261bd43", "reason": "机构METR匹配。", "verdict": "correct"}
+{"id": "e46f41478bcc4b4f823a1010f0956b1d", "reason": "组织世界粮食计划署匹配。", "verdict": "correct"}
+{"id": "e48bbe4cd89e46a780369f07006345fa", "reason": "比较结论为伊丽莎白二世在位更长，与标准一致。", "reused_from": {"id": "5be47fa0ab524affa9079352bc5f44e5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "e4aea5c190ac474ca8a3ac836655e8c0", "reason": "国家瑞士匹配。", "verdict": "correct"}
+{"id": "e623b649a617444e86d378668a474b71", "reason": "着陆场四子王旗与标准一致。", "reused_from": {"id": "c5bbe3e9af5a43f6bc9e9aaf46796abe", "phase": "baseline"}, "verdict": "correct"}
+{"id": "e6b74b5140c94e9aad1025237bf8bc1e", "reason": "人物Brian Turner与标准William Berger不符。", "reused_from": {"id": "acfcf7bc68434bf8911c1bc1af0eaeba", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e71e9c4f41b544a69b0b4b2857937515", "reason": "未回答存储于Google服务器。", "reused_from": {"id": "119204ae55674766a4a666e90936565e", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e755919d75434fd0baef574f56cba8f7", "reason": "相隔130年与标准一致。", "reused_from": {"id": "aea90af801d4419faf6cb79907773a8b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "e75c558b7f2d41b7a55aca507d579df5", "reason": "主答历史学，另猜神学或宗教研究，未明确给出标准领域。", "reused_from": {"id": "70f72d68d54b49df8f04adbbaca2629d", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e8213410445e48cf9be32f4555d54f3a", "reason": "校长Leon Botstein匹配。", "verdict": "correct"}
+{"id": "e83417bf958949ef8ae102b79e4e06d9", "reason": "专利US3600186匹配。", "verdict": "correct"}
+{"id": "e86c8aeb583c42f88a91a02d4330c5f8", "reason": "新加坡数码发展及新闻部匹配。", "verdict": "correct"}
+{"id": "e8d943c6a5994e1196e2db2a4517ba45", "reason": "次数4与标准一致。", "verdict": "correct"}
+{"id": "e909d6c8a82948a69c275ce229c033b7", "reason": "合著者John D. DeLamater匹配。", "verdict": "correct"}
+{"id": "e90b75c9426341e4997ea603af9e26a2", "reason": "年份2008匹配。", "verdict": "correct"}
+{"id": "e915adcc2e12461b97c87ff4e9454218", "reason": "未给出博士领域Theology。", "reused_from": {"id": "98a2d8531c4940b1afeae3ab1f9f6e35", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "e98f3e37b1c8434dbc4022c8daf31caa", "reason": "主答案国家日本与标准一致。", "reused_from": {"id": "38bdd23b617c494b90ba76422ba2c0a5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "e9c0227073f1476eaeec031b7f6ef18d", "reason": "插画师Juan Pablo Machado与标准一致。", "reused_from": {"id": "cf67c0a8bfdc449c8e79e1f4542d1b3b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ea81ab8b346b45ed89d590ce79451fc1", "reason": "比较结论为女王在位更长，与标准一致。", "verdict": "correct"}
+{"id": "ea88f24f71f7411485c8f7b74e99df5a", "reason": "年份1981与标准一致。", "reused_from": {"id": "200bb0b02ccb469dbb4b5a452eb17088", "phase": "baseline"}, "verdict": "correct"}
+{"id": "eaf84332198e46da8447d0651da6dc2a", "reason": "维生素A、D、E、K匹配。", "verdict": "correct"}
+{"id": "eafb2051fa2b4583ad1d1905e844c654", "reason": "人物Phil Belanger与标准一致。", "reused_from": {"id": "4d5b92e6727a45bdaf6a4cafd6d4f3ae", "phase": "baseline"}, "verdict": "correct"}
+{"id": "eb9e24440dc34c38a8eab2238566f59d", "reason": "主答案1108年与标准一致。", "reused_from": {"id": "0c10310d82aa4a54a91def14606008e9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ebbfda34e6784ea9b314c603b902e8cb", "reason": "年份2017与标准一致。", "verdict": "correct"}
+{"id": "ebc36651ce1e4353bacbd006d9d1f387", "reason": "答34年并区分1821年45年的口径；题面未明确采用哪次独立宣告。", "verdict": "uncertain"}
+{"id": "ebc8dd5c7e08492ea8e1cdcc7753f152", "reason": "给出Jean-Louis Schlesser及Schlesser-Renault，与标准不符。", "reused_from": {"id": "1b58b85931194c97a77c46ff281c4992", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "ebde8178135b413d9ee570895ae4012d", "reason": "书名及法文原名匹配。", "verdict": "correct"}
+{"id": "ec6b87e6b5504287809d331f6546ea54", "reason": "出生年份1946匹配。", "verdict": "correct"}
+{"id": "ece91acae0fc4aabb89bdd4fb53496a5", "reason": "速度632英里/小时与标准一致。", "reused_from": {"id": "fef1d35d803f419b981f3d894e3d8c94", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ed1cb9f8540a410abf5572a32a4fbf04", "reason": "朝代明与标准一致。", "reused_from": {"id": "c25e4177c2ee44bd8ca7290d0d048eff", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ed673d3bef964b348257f9dcdb7431cd", "reason": "人物Harald Haas与标准一致。", "reused_from": {"id": "18f3c7ea2222477aafa0e4ffe8d8b677", "phase": "baseline"}, "verdict": "correct"}
+{"id": "eea9b99a0656458db74fabaf784f4abc", "reason": "人物福岛邦彦匹配。", "verdict": "correct"}
+{"id": "ef0da9ce578a410a8b14c5e5db1d576e", "reason": "出生年份1946与标准一致。", "reused_from": {"id": "329f8af40eff4a5ba4195695ec9cd1bf", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ef496e0455664e59b8dc00e3f077afdc", "reason": "第一作者Kevin D. Hall匹配。", "verdict": "correct"}
+{"id": "ef8aac7e93c944338fbbea223309a756", "reason": "作品名The Problem We All Live With匹配。", "verdict": "correct"}
+{"id": "efb3f3a1e8a14395a6320e5c4f2d2479", "reason": "速度632英里/小时匹配。", "verdict": "correct"}
+{"id": "f0158d392822485fa7f96a8724fbe235", "reason": "未给出关闭年份1933。", "reused_from": {"id": "5e59cf28acb54cfa87cbe5258effd7f5", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "f0235573defe4d08a3fba85c3e687c1f", "reason": "朝代明与标准一致。", "reused_from": {"id": "3e4fa783dec848daa715d5529d8c7d18", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f04637fadd7e42fc8240759211a8dd42", "reason": "给出400至500人，超出标准29至31人范围。", "reused_from": {"id": "58db9db6e5034449a982b117b6ca84db", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "f06d0d8084f44fbab632e7e0e6254e3b", "reason": "日期1983年1月1日与标准一致。", "reused_from": {"id": "86637312e75c44f0b5847323ae578673", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f084c2d112e84752aa3eac29d1e185bd", "reason": "人物爱因斯坦匹配。", "verdict": "correct"}
+{"id": "f0880f6906b742b49b034f23440d817f", "reason": "次数4匹配。", "verdict": "correct"}
+{"id": "f0dbe3aaeb9c44de86e3032c46b2b271", "reason": "日期2009年10月19日匹配。", "verdict": "correct"}
+{"id": "f105ae50449a4728b87adffd02b79719", "reason": "人物毛利兰匹配。", "verdict": "correct"}
+{"id": "f16512f90fcc4580b9afed32ac9d464d", "reason": "作者Kevin D. Hall与标准一致。", "reused_from": {"id": "38741b28c04d4dd8bb524e777f4449df", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f247bb7e098c4fa5b04aa35ab40faadf", "reason": "创建年份1985与标准一致。", "reused_from": {"id": "cf0cf1c085054b298c41efd43687fa53", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f26e5e4da9c94adb97725c9fe4cbccf6", "reason": "姓名Arianne Kathleen与标准一致。", "reused_from": {"id": "01c2ffd38045458a91794e915f7b93bd", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f29cd288bddb4f71a384dbc552fc95e6", "reason": "日期1968年5月6日匹配。", "verdict": "correct"}
+{"id": "f2c6ce5eac2642c4bd4601ae907537b1", "reason": "答案1933年与标准一致，来源保留不影响。", "verdict": "correct"}
+{"id": "f2fd04249a6b4a04bb4b231f0befb2ba", "reason": "人物Nicolaas Govert de Bruijn与标准一致。", "verdict": "correct"}
+{"id": "f31516b4888444cfaf1178da63fe2c85", "reason": "人物Leonardo de Moura与标准一致。", "reused_from": {"id": "9ab203b0f999461488f5e374681aa4e9", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f317142692a140f39b329eefc85a01be", "reason": "主答案1984与标准一致。", "reused_from": {"id": "c8f9c61ec0af4ed0937315330158c873", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f330e07cec8c4a089943590a0aaa3d15", "reason": "作者Carl Hiaasen匹配。", "verdict": "correct"}
+{"id": "f34d703e013f47c2868636c9c0982260", "reason": "数学家为Nicolaas Govert de Bruijn，与标准一致。", "reused_from": {"id": "505edea00a8748749aeb2491ab881cc7", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f3de67371a8c46e7b349bf5b59ebe4de", "reason": "主要答案2016年与标准一致。", "verdict": "correct"}
+{"id": "f3f39032a56a4c588d1f09598e12ff25", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "f40b4a192b364fa091211e0fbf47bf27", "reason": "车手Niki Lauda匹配。", "verdict": "correct"}
+{"id": "f40c5bda120a4081871ca075eb0ddbff", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "f43f260f6f364b10979c5713a2487873", "reason": "年份2014匹配。", "verdict": "correct"}
+{"id": "f4463cbecb354e03a1d62a5432bf7e01", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "f4a10b00035946bf971527293b122faa", "reason": "国家为瑞士，与标准一致。", "reused_from": {"id": "6d965a707a0b4245961355369a20d0fd", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f50495529e9545d4be317da97c89f393", "reason": "人口30在允许范围内。", "verdict": "correct"}
+{"id": "f642b563089141fe96d904528730e2f1", "reason": "以常用英文名Nelson计2，标准按出生名计4；原题未明确选名口径。", "verdict": "uncertain"}
+{"id": "f6b04c47cdd24ea589558c38d68507b0", "reason": "法文原书名与可接受别名完全一致。", "reused_from": {"id": "3ff95890f8904fb48fdc8382dd0029d1", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f6d4904e58204e4aaba5224509cc5a1f", "reason": "年份1996匹配。", "verdict": "correct"}
+{"id": "f721dbf36998423882a6dfdbaa14e80c", "reason": "人口628匹配。", "verdict": "correct"}
+{"id": "f7eb07bef9e74e5692b60af323a9d190", "reason": "日期1983年1月1日与标准一致。", "reused_from": {"id": "a6f1f41a97224e2a8a9454c33c560f29", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f81f2bff10a341b797ff4958b1e3194e", "reason": "未给出October 13–19的日期。", "reused_from": {"id": "620d623052344f66b3b003eab81a3fa6", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "f82d9fa657e4473a8eaaa4577cbd59c1", "reason": "年份2013匹配。", "verdict": "correct"}
+{"id": "f94dad28c0fe48999b52433f0bb0ee23", "reason": "未给出所问相隔130年。", "reused_from": {"id": "c57af5d82b0f436eafe2f7ea0e9874fb", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "f9792fe66328483cb49c351b31add95c", "reason": "列出两个不同州的同名聚居地及人口；题面缺少地区限定，不能唯一选628或186。", "verdict": "uncertain"}
+{"id": "f98b93f7276d4c1689d627d48519484e", "reason": "人物Marcelo Viana匹配。", "verdict": "correct"}
+{"id": "f9935dff81124f2285f6c44680990c64", "reason": "人物福岛邦彦与标准一致。", "reused_from": {"id": "cf41873376f143b1be4c9a5f0f777534", "phase": "baseline"}, "verdict": "correct"}
+{"id": "f9f78c4ed7184dd18b1efe9e993aaca3", "reason": "人物为毛利兰，与标准一致。", "reused_from": {"id": "4ceb19d7234c44cda667bb506c9c8727", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fa34e195fe8a4a1f9c8637111d836000", "reason": "明确提到博士领域为神学，与Theology一致。", "reused_from": {"id": "03e9f6331409403a8d9530deda322848", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fabaaed22e1b4cf3a53c94db7791dfcd", "reason": "Muhangi为Muhanji拼写变体，车型匹配。", "verdict": "correct"}
+{"id": "fb36a1e64a904bd696a3abd12b4b2847", "reason": "宫殿Palazzo della Cancelleria匹配。", "verdict": "correct"}
+{"id": "fb6b59f595f440e68cb8bf8b9ad9bba8", "reason": "原文Gerlachovský štít明确对应格尔拉赫峰，中文译名差异不影响。", "reused_from": {"id": "75e68d8722ee49e98aa0b3921c35ee53", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fb7b93d92ee7496eb4b8f0d1efdea126", "reason": "年份1981匹配。", "verdict": "correct"}
+{"id": "fb94e75308a84db3b7c9c9f833eba942", "reason": "人物William Berger匹配。", "verdict": "correct"}
+{"id": "fbc562392ea648d4849f1d6f72368a52", "reason": "白金认证匹配。", "verdict": "correct"}
+{"id": "fc2cb522104440fd906c610ce797beeb", "reason": "人物Phil Belanger匹配。", "verdict": "correct"}
+{"id": "fc8c1849eac0467389442f4043ba2f5f", "reason": "年份2013与标准一致。", "reused_from": {"id": "fd0d38c0952842e18ca84ab269a0c9ce", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fc902d75a8ef48f2a41b0bd565fe25f1", "reason": "人物Leonardo de Moura与标准一致。", "reused_from": {"id": "c3800ff126f34ea4bc0dbe5c56d205f4", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fcc4ba0ff9a54a99ab1e288aac02f316", "reason": "未给出完赛时间41:18。", "reused_from": {"id": "46a44f8903e44d4c9a204ee68ccd28ca", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "fcedd8a772b54aec9ed299d700e65bc3", "reason": "人物为Marcelo Viana，与标准一致。", "reused_from": {"id": "66060bc041234d329ffb34ef4bb65330", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fd518e22a8794cd98ef8f3a083d80154", "reason": "学名Ambystoma texanum与标准一致。", "reused_from": {"id": "dbb870a09d0f46e58ee696f2aae9ef85", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fd5a34bc8b4e4d35a89ef7d4e1e13688", "reason": "年份2014匹配。", "verdict": "correct"}
+{"id": "fd5c17dc92a24c6799ec657633af14a4", "reason": "作者卡尔·海森与标准一致。", "reused_from": {"id": "143f13b2a7fb420d9e681305970fffb5", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fd9f013b320d4e20ac42e10046c30430", "reason": "山峰格尔拉赫峰与标准一致。", "reused_from": {"id": "a5a0021ede8e4aeca90b5f1daedbe976", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fdf02e1db63142e39e4e45bf91a5bfa8", "reason": "未给出工具OSS Scanner。", "reused_from": {"id": "27404fb3a67c46d79c9f2fdf26c435c9", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "fdf8ebe57546403097bd784280d19f8c", "reason": "法文书名与可接受别名一致。", "reused_from": {"id": "e190011c9a974ebeb6baa59da44830c0", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fe37105967c546cbacf3fa8b55fe8d86", "reason": "人物Marcelo Viana与标准一致。", "reused_from": {"id": "13c52360bc5340448bf754e4d8d46f1b", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fe64523e34f84bd89b9ea7241144563d", "reason": "专利编号US 3,600,186与标准一致。", "reused_from": {"id": "b933be436e10494488568ea1fab92428", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fe77cf7a74094fa18566b6ed01a2d045", "reason": "作者贾尼·罗大里匹配。", "verdict": "correct"}
+{"id": "fe7950c082734971a6ec68a8e2aa1003", "reason": "英文姓名Carl Hiaasen明确对应标准作者，音译差异可接受。", "reused_from": {"id": "3e8e3ef7bcbc421b832c61a20bcad506", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fe893118534544738997e3496badf6a4", "reason": "未给出活动日期。", "reused_from": {"id": "ec5214b4e125414284048a11384de125", "phase": "baseline"}, "verdict": "incorrect"}
+{"id": "fe99d2f8ac7b4e11b2b27b95dcf213c4", "reason": "两项目stadion与diaulos均匹配。", "verdict": "correct"}
+{"id": "fef5377924354723b380bbdbec70dc6c", "reason": "许可证为Apache License 2.0，与标准一致。", "reused_from": {"id": "0ecac73aba3a4d50bc3d7c43df4ace7e", "phase": "baseline"}, "verdict": "correct"}
+{"id": "fefc6811aadf487e85eee4de31ce9a10", "reason": "年份1977匹配。", "verdict": "correct"}
+{"id": "ff212bb037184bf2ac26ade37b7490f3", "reason": "四子王旗着陆场匹配。", "verdict": "correct"}
+{"id": "ff22dd281e124081b1c27596f0317ae5", "reason": "作者贾尼·罗大里匹配。", "verdict": "correct"}
+{"id": "ff28e01e3d3645e3b78df0083f40d754", "reason": "创建年份1985与标准一致。", "reused_from": {"id": "4542d316326741909a830234e064ef1f", "phase": "baseline"}, "verdict": "correct"}
+{"id": "ffba0e6be7f547cd9eb5ca205f35f938", "reason": "比较结论为女王在位更长，与标准一致。", "verdict": "correct"}
+{"id": "ffd0e669cbdb4c40abba0e9a951bc6d6", "reason": "未给出OSS Scanner工具名。", "reused_from": {"id": "73dd00a584fc4c2981298dab08d393a2", "phase": "baseline"}, "verdict": "incorrect"}

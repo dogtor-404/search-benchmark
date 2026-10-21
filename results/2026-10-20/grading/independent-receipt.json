@@ -1,0 +1,10 @@
+{
+  "baseline_reused": 400,
+  "baseline_review_sha256": "8dcdd0fdd53ca692ef3f2714f09336e08d30be984bae59ae795abfa5d6ec0939",
+  "combined_sha256": "36153a8dd1b4ddf902ddccce09c1db798c83a6a50b64fe77e2cc3b51a765378c",
+  "input_sha256": "6f6314052b367e4b92fae87833fbea946601501c70ffd5f76958cf46d7ca0ffa",
+  "new_records": 600,
+  "new_review_sha256": "94747da79b24456a3c1b3c81e4ccc72e7621e99485b87de9ebc5d77ed3327a60",
+  "records": 1000,
+  "role": "独立AI盲审，非人工"
+}

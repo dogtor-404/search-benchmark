@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "correct": 575,
+    "incorrect": 9,
+    "uncertain": 16
+  },
+  "read_scope": "只读600条匿名题目、标准答案、别名和候选答案；未读映射、来源或其他评分；未联网。",
+  "records": 600,
+  "review_sha256": "94747da79b24456a3c1b3c81e4ccc72e7621e99485b87de9ebc5d77ed3327a60",
+  "role": "第三位独立AI盲审，非人工裁决",
+  "source_blind_sha256": "6f6314052b367e4b92fae87833fbea946601501c70ffd5f76958cf46d7ca0ffa",
+  "task": "/root/blind_answer_review",
+  "unique_ids": 600
+}

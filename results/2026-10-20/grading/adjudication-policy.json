@@ -1,0 +1,14 @@
+{
+  "authorization": "用户：你也可以起一个agent加入判分，加入两个无法决策，就以你的为准（2比1）",
+  "authorized_at": "2026-10-20T13:29:53.160772+00:00",
+  "baseline_independent_votes_reused": 400,
+  "baseline_original_pending_preserved": 4,
+  "human_file_written": false,
+  "independent_read_scope": "仅600份匿名题目、参考答案、别名和候选答案；不读映射、模型来源、另两位判分。",
+  "new_independent_votes": 600,
+  "original_dual_scores_preserved": true,
+  "scope": "新增独立AI第三票，前两位分歧时按至少两张相同correct/incorrect票裁决；三票无二票同类则保留待核。",
+  "statistics_note": "搜索提升用多数票后的相同口径baseline计算，原baseline另列；题意质量标记保留。",
+  "tests_sha256": "ec2471664c14bb9d69aaeb513e13705e9813975c95b00de781227acdf7fd3d3a",
+  "tool_sha256": "1a1e0d3f3d60847c4c469f34188564c6a737f454d652ccac58f9d7e479f02953"
+}

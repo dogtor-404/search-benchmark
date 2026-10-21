@@ -1,0 +1,9 @@
+{
+  "claude_token_formula_source": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
+  "created_at": "2026-10-20T13:48:36.119821+00:00",
+  "deepseek_compatibility_source": "https://api-docs.deepseek.com/guides/anthropic_api/",
+  "scope": "从既有1000份原始作答离线汇总，无新API调用；不等同网络流量或纯搜索处理token。",
+  "tests_sha256": "b5378483e0c267e10e8d11d5bcf7104cb287b772f9aea9b1fcf39db2b4c56349",
+  "tool_sha256": "f81923077032ee6e6fad7029b2f682fa62365af576392b344285485c6ac58582",
+  "user_requested": "比较搜索返回数据量与处理数据的token消耗"
+}

@@ -1,0 +1,10 @@
+{
+  "majority_needs_review_sha256": "3ec93d709fbd20cc1c11d53cf14b0b784e96d7f04b18e1b448093c0501207cec",
+  "majority_resolved_sha256": "6c81558143ac87a28b3a55ed563c2ba3df0652e753db96e5cccc4ae6a36d0673",
+  "method": "AI三票多数；只有至少两票correct或incorrect才裁决，其余待核",
+  "needs_review": 5,
+  "resolved": 995,
+  "third_vote_resolved": 3,
+  "tool_sha256": "1a1e0d3f3d60847c4c469f34188564c6a737f454d652ccac58f9d7e479f02953",
+  "user_authorized_change": "用户在正式作答完成、双判启动后授权第三位独立agent及2比1裁决；新增口径单列，不改baseline与原双判结果。"
+}

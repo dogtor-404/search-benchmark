@@ -1,0 +1,864 @@
+{
+  "answer_records": 960,
+  "comparisons": {
+    "0__A": {
+      "a": "0",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.1875,
+          0.375
+        ],
+        "draws": 10000,
+        "estimate": 0.28125,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          17.135416666666668,
+          35.572916666666664
+        ],
+        "draws": 10000,
+        "estimate": 26.197916666666668,
+        "n": 96
+      },
+      "adjusted_score_difference": 26.197916666666668,
+      "b": "A",
+      "difference_b_minus_a_pp": 28.125,
+      "mcnemar": {
+        "a_only": 1,
+        "b_only": 28,
+        "p_exact": 1.1175870895385742e-07
+      },
+      "n": 96
+    },
+    "0__B": {
+      "a": "0",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.25,
+          0.4375
+        ],
+        "draws": 10000,
+        "estimate": 0.34375,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          23.90625,
+          42.708333333333336
+        ],
+        "draws": 10000,
+        "estimate": 33.28125,
+        "n": 96
+      },
+      "adjusted_score_difference": 33.28125,
+      "b": "B",
+      "difference_b_minus_a_pp": 34.375,
+      "mcnemar": {
+        "a_only": 0,
+        "b_only": 33,
+        "p_exact": 2.3283064365386963e-10
+      },
+      "n": 96
+    },
+    "0_prime__A_prime": {
+      "a": "0_prime",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.13541666666666666,
+          0.3020833333333333
+        ],
+        "draws": 10000,
+        "estimate": 0.21875,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          11.145833333333334,
+          27.239583333333332
+        ],
+        "draws": 10000,
+        "estimate": 19.010416666666668,
+        "n": 96
+      },
+      "adjusted_score_difference": 19.010416666666668,
+      "b": "A_prime",
+      "difference_b_minus_a_pp": 21.875,
+      "mcnemar": {
+        "a_only": 0,
+        "b_only": 21,
+        "p_exact": 9.5367431640625e-07
+      },
+      "n": 96
+    },
+    "0_prime__B_prime": {
+      "a": "0_prime",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.125,
+          0.2916666666666667
+        ],
+        "draws": 10000,
+        "estimate": 0.20833333333333334,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          11.927083333333334,
+          28.333333333333332
+        ],
+        "draws": 10000,
+        "estimate": 19.947916666666668,
+        "n": 96
+      },
+      "adjusted_score_difference": 19.947916666666668,
+      "b": "B_prime",
+      "difference_b_minus_a_pp": 20.833333333333336,
+      "mcnemar": {
+        "a_only": 0,
+        "b_only": 20,
+        "p_exact": 1.9073486328125e-06
+      },
+      "n": 96
+    },
+    "A__B": {
+      "a": "A",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.020833333333333332,
+          0.11458333333333333
+        ],
+        "draws": 10000,
+        "estimate": 0.0625,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          2.8125,
+          12.1875
+        ],
+        "draws": 10000,
+        "estimate": 7.083333333333333,
+        "n": 96
+      },
+      "adjusted_score_difference": 7.083333333333333,
+      "b": "B",
+      "difference_b_minus_a_pp": 6.25,
+      "mcnemar": {
+        "a_only": 0,
+        "b_only": 6,
+        "p_exact": 0.03125
+      },
+      "n": 96
+    },
+    "A_prime__B_prime": {
+      "a": "A_prime",
+      "accuracy_bootstrap": {
+        "ci95": [
+          -0.03125,
+          0.0
+        ],
+        "draws": 10000,
+        "estimate": -0.010416666666666666,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          -1.71875,
+          2.7604166666666665
+        ],
+        "draws": 10000,
+        "estimate": 0.9375,
+        "n": 96
+      },
+      "adjusted_score_difference": 0.9375,
+      "b": "B_prime",
+      "difference_b_minus_a_pp": -1.0416666666666665,
+      "mcnemar": {
+        "a_only": 1,
+        "b_only": 0,
+        "p_exact": 1.0
+      },
+      "n": 96
+    },
+    "D0__D2": {
+      "a": "D0",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.22916666666666666,
+          0.4270833333333333
+        ],
+        "draws": 10000,
+        "estimate": 0.3229166666666667,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          20.104166666666668,
+          39.791666666666664
+        ],
+        "draws": 10000,
+        "estimate": 29.6875,
+        "n": 96
+      },
+      "adjusted_score_difference": 29.6875,
+      "b": "D2",
+      "difference_b_minus_a_pp": 32.29166666666667,
+      "mcnemar": {
+        "a_only": 1,
+        "b_only": 32,
+        "p_exact": 7.916241884231567e-09
+      },
+      "n": 96
+    },
+    "D0_prime__D2_prime": {
+      "a": "D0_prime",
+      "accuracy_bootstrap": {
+        "ci95": [
+          0.19791666666666666,
+          0.40625
+        ],
+        "draws": 10000,
+        "estimate": 0.3020833333333333,
+        "n": 96
+      },
+      "adjusted_score_bootstrap": {
+        "ci95": [
+          18.59375,
+          39.010416666666664
+        ],
+        "draws": 10000,
+        "estimate": 28.697916666666668,
+        "n": 96
+      },
+      "adjusted_score_difference": 28.697916666666668,
+      "b": "D2_prime",
+      "difference_b_minus_a_pp": 30.208333333333332,
+      "mcnemar": {
+        "a_only": 2,
+        "b_only": 31,
+        "p_exact": 1.3085082173347473e-07
+      },
+      "n": 96
+    }
+  },
+  "complete": true,
+  "confirmed_abstentions_lower_bound": 71,
+  "correct": 825,
+  "excluded_answer_records": 40,
+  "generated_at": "2026-10-21T09:40:19.874890+08:00",
+  "groups": {
+    "0": {
+      "accuracy": 0.6458333333333334,
+      "accuracy_bounds_on_graded": [
+        64.58333333333333,
+        64.58333333333333
+      ],
+      "accuracy_percent": 64.58333333333333,
+      "adjusted_score_bounds_on_graded": [
+        64.58333333333333,
+        64.58333333333333
+      ],
+      "adjusted_score_mean": 64.58333333333333,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 20,
+      "correct": 62,
+      "deduction_on_known_correct_total": 0,
+      "graded": 96,
+      "incorrect": 34,
+      "mean_cache_read_tokens": 1558.4270833333333,
+      "mean_cache_write_tokens": 1779.03125,
+      "mean_output_tokens": 283.4479166666667,
+      "mean_reported_input_tokens": 2,
+      "mean_returned_characters": 0,
+      "mean_returned_utf8_bytes": 0,
+      "mean_search_calls": 0.0,
+      "mean_seconds": 6.930927083333334,
+      "mean_total_input_tokens": 3339.4583333333335,
+      "median_seconds": 6.308999999999999,
+      "n": 96,
+      "name": "Sonnet 不搜索",
+      "p90_seconds": 9.326,
+      "search_attempts": 0,
+      "search_histogram": {
+        "0": 96,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "0_prime": {
+      "accuracy": 0.7708333333333334,
+      "accuracy_bounds_on_graded": [
+        77.08333333333333,
+        77.08333333333333
+      ],
+      "accuracy_percent": 77.08333333333333,
+      "adjusted_score_bounds_on_graded": [
+        77.08333333333333,
+        77.08333333333333
+      ],
+      "adjusted_score_mean": 77.08333333333333,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 15,
+      "correct": 74,
+      "deduction_on_known_correct_total": 0,
+      "graded": 96,
+      "incorrect": 22,
+      "mean_cache_read_tokens": 1558.4270833333333,
+      "mean_cache_write_tokens": 1775.03125,
+      "mean_output_tokens": 234.375,
+      "mean_reported_input_tokens": 2,
+      "mean_returned_characters": 0,
+      "mean_returned_utf8_bytes": 0,
+      "mean_search_calls": 0.0,
+      "mean_seconds": 6.343572916666667,
+      "mean_total_input_tokens": 3335.4583333333335,
+      "median_seconds": 6.1135,
+      "n": 96,
+      "name": "Opus 不搜索",
+      "p90_seconds": 8.703,
+      "search_attempts": 0,
+      "search_histogram": {
+        "0": 96,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "A": {
+      "accuracy": 0.9270833333333334,
+      "accuracy_bounds_on_graded": [
+        92.70833333333333,
+        92.70833333333333
+      ],
+      "accuracy_percent": 92.70833333333333,
+      "adjusted_score_bounds_on_graded": [
+        90.78125,
+        90.78125
+      ],
+      "adjusted_score_mean": 90.78125,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 1,
+      "correct": 89,
+      "deduction_on_known_correct_total": 185,
+      "graded": 96,
+      "incorrect": 7,
+      "mean_cache_read_tokens": 9356.114583333334,
+      "mean_cache_write_tokens": 3710.8541666666665,
+      "mean_output_tokens": 704.3020833333334,
+      "mean_reported_input_tokens": 4.854166666666667,
+      "mean_returned_characters": 3633.9166666666665,
+      "mean_returned_utf8_bytes": 3815.53125,
+      "mean_search_calls": 1.53125,
+      "mean_seconds": 20.217604166666668,
+      "mean_total_input_tokens": 13071.822916666666,
+      "median_seconds": 17.4055,
+      "n": 96,
+      "name": "Sonnet 原生搜索",
+      "p90_seconds": 31.996,
+      "search_attempts": 147,
+      "search_histogram": {
+        "0": 0,
+        "1": 63,
+        "2": 22,
+        "3": 7,
+        "4": 1,
+        "5": 3
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "A_prime": {
+      "accuracy": 0.9895833333333334,
+      "accuracy_bounds_on_graded": [
+        98.95833333333333,
+        98.95833333333333
+      ],
+      "accuracy_percent": 98.95833333333333,
+      "adjusted_score_bounds_on_graded": [
+        96.09375,
+        96.09375
+      ],
+      "adjusted_score_mean": 96.09375,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 0,
+      "correct": 95,
+      "deduction_on_known_correct_total": 275,
+      "graded": 96,
+      "incorrect": 1,
+      "mean_cache_read_tokens": 9839.416666666666,
+      "mean_cache_write_tokens": 3772.96875,
+      "mean_output_tokens": 655.28125,
+      "mean_reported_input_tokens": 5,
+      "mean_returned_characters": 3723.78125,
+      "mean_returned_utf8_bytes": 3946.9583333333335,
+      "mean_search_calls": 1.5833333333333333,
+      "mean_seconds": 21.069479166666667,
+      "mean_total_input_tokens": 13617.385416666666,
+      "median_seconds": 17.542,
+      "n": 96,
+      "name": "Opus 原生搜索",
+      "p90_seconds": 34.938,
+      "search_attempts": 152,
+      "search_histogram": {
+        "0": 0,
+        "1": 61,
+        "2": 22,
+        "3": 7,
+        "4": 4,
+        "5": 2
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "B": {
+      "accuracy": 0.9895833333333334,
+      "accuracy_bounds_on_graded": [
+        98.95833333333333,
+        98.95833333333333
+      ],
+      "accuracy_percent": 98.95833333333333,
+      "adjusted_score_bounds_on_graded": [
+        97.86458333333333,
+        97.86458333333333
+      ],
+      "adjusted_score_mean": 97.86458333333333,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 0,
+      "correct": 95,
+      "deduction_on_known_correct_total": 105,
+      "graded": 96,
+      "incorrect": 1,
+      "mean_cache_read_tokens": 6997.78125,
+      "mean_cache_write_tokens": 11176.364583333334,
+      "mean_output_tokens": 462.4375,
+      "mean_reported_input_tokens": 4.166666666666667,
+      "mean_returned_characters": 20664.458333333332,
+      "mean_returned_utf8_bytes": 22978.53125,
+      "mean_search_calls": 1.21875,
+      "mean_seconds": 11.128677083333333,
+      "mean_total_input_tokens": 18178.3125,
+      "median_seconds": 10.524000000000001,
+      "n": 96,
+      "name": "Sonnet + DeepSeek 搜索",
+      "p90_seconds": 15.049,
+      "search_attempts": 117,
+      "search_histogram": {
+        "0": 0,
+        "1": 76,
+        "2": 19,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "B_prime": {
+      "accuracy": 0.9791666666666666,
+      "accuracy_bounds_on_graded": [
+        97.91666666666667,
+        97.91666666666667
+      ],
+      "accuracy_percent": 97.91666666666667,
+      "adjusted_score_bounds_on_graded": [
+        97.03125,
+        97.03125
+      ],
+      "adjusted_score_mean": 97.03125,
+      "answered": 96,
+      "argument_rejections": 1,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 0,
+      "correct": 94,
+      "deduction_on_known_correct_total": 85,
+      "graded": 96,
+      "incorrect": 2,
+      "mean_cache_read_tokens": 7347.041666666667,
+      "mean_cache_write_tokens": 10805.208333333334,
+      "mean_output_tokens": 519.7083333333334,
+      "mean_reported_input_tokens": 4.208333333333333,
+      "mean_returned_characters": 19996.645833333332,
+      "mean_returned_utf8_bytes": 22147.760416666668,
+      "mean_search_calls": 1.1875,
+      "mean_seconds": 11.490552083333334,
+      "mean_total_input_tokens": 18156.458333333332,
+      "median_seconds": 10.561499999999999,
+      "n": 96,
+      "name": "Opus + DeepSeek 搜索",
+      "p90_seconds": 16.045,
+      "search_attempts": 115,
+      "search_histogram": {
+        "0": 0,
+        "1": 81,
+        "2": 12,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "D0": {
+      "accuracy": 0.65625,
+      "accuracy_bounds_on_graded": [
+        65.625,
+        65.625
+      ],
+      "accuracy_percent": 65.625,
+      "adjusted_score_bounds_on_graded": [
+        65.625,
+        65.625
+      ],
+      "adjusted_score_mean": 65.625,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 16,
+      "correct": 63,
+      "deduction_on_known_correct_total": 0,
+      "graded": 96,
+      "incorrect": 33,
+      "mean_cache_read_tokens": 0,
+      "mean_cache_write_tokens": 0,
+      "mean_output_tokens": 1221.7708333333333,
+      "mean_reported_input_tokens": 1980.5,
+      "mean_returned_characters": 0,
+      "mean_returned_utf8_bytes": 0,
+      "mean_search_calls": 0.0,
+      "mean_seconds": 8.164583333333333,
+      "mean_total_input_tokens": null,
+      "median_seconds": 4.271,
+      "n": 96,
+      "name": "Flash 不搜索",
+      "p90_seconds": 15.118,
+      "search_attempts": 0,
+      "search_histogram": {
+        "0": 96,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "D0_prime": {
+      "accuracy": 0.6770833333333334,
+      "accuracy_bounds_on_graded": [
+        67.70833333333333,
+        67.70833333333333
+      ],
+      "accuracy_percent": 67.70833333333333,
+      "adjusted_score_bounds_on_graded": [
+        67.70833333333333,
+        67.70833333333333
+      ],
+      "adjusted_score_mean": 67.70833333333333,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 19,
+      "correct": 65,
+      "deduction_on_known_correct_total": 0,
+      "graded": 96,
+      "incorrect": 31,
+      "mean_cache_read_tokens": 0,
+      "mean_cache_write_tokens": 0,
+      "mean_output_tokens": 589.9791666666666,
+      "mean_reported_input_tokens": 2045.5104166666667,
+      "mean_returned_characters": 0,
+      "mean_returned_utf8_bytes": 0,
+      "mean_search_calls": 0.0,
+      "mean_seconds": 9.481666666666667,
+      "mean_total_input_tokens": null,
+      "median_seconds": 6.653,
+      "n": 96,
+      "name": "Pro 不搜索",
+      "p90_seconds": 16.165,
+      "search_attempts": 0,
+      "search_histogram": {
+        "0": 96,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "D2": {
+      "accuracy": 0.9791666666666666,
+      "accuracy_bounds_on_graded": [
+        97.91666666666667,
+        97.91666666666667
+      ],
+      "accuracy_percent": 97.91666666666667,
+      "adjusted_score_bounds_on_graded": [
+        95.3125,
+        95.3125
+      ],
+      "adjusted_score_mean": 95.3125,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 0,
+      "correct": 94,
+      "deduction_on_known_correct_total": 250,
+      "graded": 96,
+      "incorrect": 2,
+      "mean_cache_read_tokens": 4405.333333333333,
+      "mean_cache_write_tokens": 0,
+      "mean_output_tokens": 464.1145833333333,
+      "mean_reported_input_tokens": 9924.614583333334,
+      "mean_returned_characters": 26383.03125,
+      "mean_returned_utf8_bytes": 29305.135416666668,
+      "mean_search_calls": 1.5520833333333333,
+      "mean_seconds": 6.142875,
+      "mean_total_input_tokens": null,
+      "median_seconds": 5.2705,
+      "n": 96,
+      "name": "Flash + DeepSeek 搜索",
+      "p90_seconds": 8.809,
+      "search_attempts": 149,
+      "search_histogram": {
+        "0": 0,
+        "1": 51,
+        "2": 37,
+        "3": 8,
+        "4": 0,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    },
+    "D2_prime": {
+      "accuracy": 0.9791666666666666,
+      "accuracy_bounds_on_graded": [
+        97.91666666666667,
+        97.91666666666667
+      ],
+      "accuracy_percent": 97.91666666666667,
+      "adjusted_score_bounds_on_graded": [
+        96.40625,
+        96.40625
+      ],
+      "adjusted_score_mean": 96.40625,
+      "answered": 96,
+      "argument_rejections": 0,
+      "budget_denials": 0,
+      "confirmed_abstentions_lower_bound": 0,
+      "correct": 94,
+      "deduction_on_known_correct_total": 145,
+      "graded": 96,
+      "incorrect": 2,
+      "mean_cache_read_tokens": 3404,
+      "mean_cache_write_tokens": 0,
+      "mean_output_tokens": 381.25,
+      "mean_reported_input_tokens": 8543.833333333334,
+      "mean_returned_characters": 20900.802083333332,
+      "mean_returned_utf8_bytes": 23490.020833333332,
+      "mean_search_calls": 1.3125,
+      "mean_seconds": 9.124625,
+      "mean_total_input_tokens": null,
+      "median_seconds": 7.516,
+      "n": 96,
+      "name": "Pro + DeepSeek 搜索",
+      "p90_seconds": 14.097,
+      "search_attempts": 126,
+      "search_histogram": {
+        "0": 0,
+        "1": 70,
+        "2": 23,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "uncertain": 0,
+      "ungraded": 0
+    }
+  },
+  "incorrect": 135,
+  "n_questions": 96,
+  "original_answer_records": 1000,
+  "paired_comparisons": {
+    "A__B": {
+      "all_question_difference_bounds_points": [
+        7.083333333333333,
+        7.083333333333333
+      ],
+      "complete_n": 96,
+      "conditional_bootstrap_points": {
+        "ci95": [
+          2.8125,
+          12.1875
+        ],
+        "draws": 10000,
+        "estimate": 7.083333333333333,
+        "n": 96
+      }
+    },
+    "A_prime__B_prime": {
+      "all_question_difference_bounds_points": [
+        0.9375,
+        0.9375
+      ],
+      "complete_n": 96,
+      "conditional_bootstrap_points": {
+        "ci95": [
+          -1.71875,
+          2.7604166666666665
+        ],
+        "draws": 10000,
+        "estimate": 0.9375,
+        "n": 96
+      }
+    }
+  },
+  "policy": {
+    "adopted_at": "2026-10-21",
+    "apply_to_all_groups": true,
+    "authorization": "用户确认将四道争议题在所有组一起剔除，各组使用相同96题；不采用按组只排除待核回答的方案。",
+    "exclude_correct_incorrect_and_uncertain": true,
+    "exclusions": {
+      "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e": "同名教区缺少地点限定",
+      "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb": "撰成与序文年代及来源年份有争议",
+      "frames-394": "launch mass未限定整箭或飞船本体",
+      "frames-598": "given first name未限定常用名或出生名"
+    },
+    "original_questions_per_group": 100,
+    "original_votes_modified": false,
+    "other_quality_flags_excluded": false,
+    "retained_questions_per_group": 96,
+    "retrospective": true,
+    "scope": "first_round_only",
+    "second_round_modified": false,
+    "user_authorized": true
+  },
+  "question_ids": [
+    "simpleqa_verified-2151",
+    "simpleqa_verified-3218",
+    "simpleqa_verified-1753",
+    "simpleqa_verified-1221",
+    "simpleqa_verified-2116",
+    "simpleqa_verified-1419",
+    "simpleqa_verified-1674",
+    "simpleqa_verified-829",
+    "simpleqa_verified-2668",
+    "simpleqa_verified-1353",
+    "simpleqa_verified-3137",
+    "simpleqa_verified-2209",
+    "simpleqa_verified-151",
+    "simpleqa_verified-3515",
+    "simpleqa_verified-716",
+    "simpleqa_verified-185",
+    "simpleqa_verified-706",
+    "simpleqa_verified-2095",
+    "simpleqa_verified-2180",
+    "simpleqa_verified-1212",
+    "simpleqa_verified-3667",
+    "simpleqa_verified-813",
+    "simpleqa_verified-3011",
+    "simpleqa_verified-1129",
+    "simpleqa_verified-3173",
+    "chinese_simpleqa-80297db596eb4d8fb4b424e8e50b37a23",
+    "chinese_simpleqa-64a8963506a241fcbe6eb050ed94698d",
+    "chinese_simpleqa-0263fcd74bad4fb6b9811c2540e50860",
+    "chinese_simpleqa-5444d485297d4543bf8d66410d93f548",
+    "chinese_simpleqa-a9a9238c15294bfba397016c122f7479",
+    "chinese_simpleqa-784a518b5ade45f78896131f35cd29ea",
+    "chinese_simpleqa-0ed629d35be84403b0e32b1e4113a818",
+    "chinese_simpleqa-186465c7f0104e54bcdd2756034c1c22",
+    "chinese_simpleqa-5ed8fc0a98954bf990eeca08d03ad705",
+    "chinese_simpleqa-1373e5c4d426417396e5276dec689475",
+    "chinese_simpleqa-1bc3c50e553846dfb9279f08dc440fe0",
+    "chinese_simpleqa-574310a2b0874ca79cbc0fb63ffca9aa",
+    "chinese_simpleqa-509bdfb6311d4592922300868340a953",
+    "chinese_simpleqa-895c7ef8d236430a99844acfee258323",
+    "chinese_simpleqa-419bdcaba9f54bacb8e1323cbfc665d9",
+    "chinese_simpleqa-889bed80a63e481d915d9bd3851a518e",
+    "chinese_simpleqa-2268a30af11c4effa809af8938ffe230",
+    "chinese_simpleqa-35c56e3a8f2d40539e4efc27d43b9b91",
+    "chinese_simpleqa-c095afa6590448e4ba0c31d8b33513e0",
+    "chinese_simpleqa-d54f3d91114d4709b7206b79d1ea24f8",
+    "chinese_simpleqa-55b6170ea24a4f0d85b6668b4d750d76",
+    "chinese_simpleqa-10099f781dfe4d00a50801b7e6d4edb0",
+    "chinese_simpleqa-ce2e2c28f347467d9f97a92a87275935",
+    "frames-291",
+    "frames-564",
+    "frames-513",
+    "frames-732",
+    "frames-39",
+    "frames-808",
+    "frames-520",
+    "frames-475",
+    "frames-396",
+    "frames-656",
+    "frames-137",
+    "frames-366",
+    "frames-548",
+    "custom-001",
+    "custom-002",
+    "custom-003",
+    "custom-004",
+    "custom-005",
+    "custom-006",
+    "custom-007",
+    "custom-008",
+    "custom-009",
+    "custom-010",
+    "custom-011",
+    "custom-012",
+    "custom-013",
+    "custom-014",
+    "custom-015",
+    "custom-016",
+    "custom-017",
+    "custom-018",
+    "custom-019",
+    "custom-020",
+    "custom-021",
+    "custom-022",
+    "custom-023",
+    "custom-024",
+    "custom-025",
+    "news-001",
+    "news-002",
+    "news-003",
+    "news-004",
+    "news-005",
+    "news-006",
+    "news-007",
+    "news-008",
+    "news-009",
+    "news-010"
+  ],
+  "removed_outcomes": {
+    "correct": 22,
+    "incorrect": 13,
+    "uncertain": 5
+  },
+  "round": "first_revised_96",
+  "uncertain": 0
+}

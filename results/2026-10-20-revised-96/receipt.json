@@ -1,0 +1,28 @@
+{
+  "answer_records": 960,
+  "excluded_answer_records": 40,
+  "files": {
+    "confirmed-abstentions.jsonl": "91b4a065c4cc8d1496d8c7e5d224b513daf01af60605ca2aba65e4108e169e5e",
+    "excluded-records.jsonl": "c7c121bf4d460c10eb67702b424980e606959a5af2efa6cb07df471c8149f29f",
+    "policy.json": "656ab4c53db6e32574c8b0b81f83926c7185717bed9165979c61e043a3236a8c",
+    "report.md": "c0f8ad445ad88fa86c4d40c5dfb10a0a40fd4389e92191af047635840e310b98",
+    "resource-runs.jsonl": "1b1182271584f06567d2f11f9c6cb79c2f8e379c4f67931a592e3486b23c8d84",
+    "scoring-records.jsonl": "7e19c2b26df51a1bc42d53b6393c88856b43204bde4323c35deb159c8fe275e6",
+    "search-efficiency.html": "608f4d0e8c7adb0e8df4cb51673900aa377053b13db92377150e63eafbbfa858",
+    "summary.json": "4187fb92cf217728e918f1bd18cc69e4d871ddc7446d1f7d7a9656b6f8536e1e"
+  },
+  "original_sources_verified": true,
+  "retained_questions_per_group": 96,
+  "source_files_sha256": {
+    "results/2026-10-20-supplement/confirmed-abstentions.jsonl": "626de3413ca73d4302c97070a0bfb6f6bc9fa5aeaf025fb9315c48785fd745f2",
+    "results/2026-10-20-supplement/receipt.json": "bc8c8bca9d7f3cffba58826163b1c7ad8e529a5230ab68261915d349c06c29ff",
+    "results/2026-10-20-supplement/search-efficiency-records.jsonl": "a1d2f825c216e17cae95fba742cde1d2c1244fdfa6390941bbc6d8671d12c9ba",
+    "tmp/archive/analysis/resource-runs.jsonl": "32d8caca72a5fecc7a44f95927b7a8f6d776272b199232236592f452b7d8ff9d",
+    "tmp/archive/analysis/resources-receipt.json": "0b5582f08a85bf73ff45b6bf011f60076a7d9104120fbfd1be1c4921544a4124",
+    "tmp/archive/grading/majority-needs-review.jsonl": "3ec93d709fbd20cc1c11d53cf14b0b784e96d7f04b18e1b448093c0501207cec",
+    "tmp/archive/grading/majority-resolved.jsonl": "6c81558143ac87a28b3a55ed563c2ba3df0652e753db96e5cccc4ae6a36d0673",
+    "tmp/archive/grading/mapping.json": "33b251a372c4de628247c4a0ef7ff15cc8439054b38a9d9862d65d41ecad9860",
+    "tmp/archive/manifest.json": "53f45331d023625d9dd5eea344df24b3001090eb34a0fbf4c3b5dccde38657ef"
+  },
+  "tool_sha256": "6eabb1069f7cdeceaef0af9e8243a5bd2355404fdb5e7e5d311d143c2d21243e"
+}

@@ -1,0 +1,20 @@
+{
+  "adopted_at": "2026-10-21",
+  "apply_to_all_groups": true,
+  "authorization": "用户确认将四道争议题在所有组一起剔除，各组使用相同96题；不采用按组只排除待核回答的方案。",
+  "exclude_correct_incorrect_and_uncertain": true,
+  "exclusions": {
+    "chinese_simpleqa-4bbc0cb7b62340869edc384db4813a9e": "同名教区缺少地点限定",
+    "chinese_simpleqa-59547154e0b64dcca92a2da105631ccb": "撰成与序文年代及来源年份有争议",
+    "frames-394": "launch mass未限定整箭或飞船本体",
+    "frames-598": "given first name未限定常用名或出生名"
+  },
+  "original_questions_per_group": 100,
+  "original_votes_modified": false,
+  "other_quality_flags_excluded": false,
+  "retained_questions_per_group": 96,
+  "retrospective": true,
+  "scope": "first_round_only",
+  "second_round_modified": false,
+  "user_authorized": true
+}

@@ -1,0 +1,16 @@
+{
+  "adopted_during_run": true,
+  "first_search_free": true,
+  "incorrect_score": 0,
+  "no_search_correct_score": 100,
+  "notes": [
+    "运行中按用户要求新增的资源惩罚分，不替换原始正确率，不改变被测prompt、五次上限或盲评标准。",
+    "扣分只使用有效作答中的实际搜索调用；预算/参数拒绝未真正搜索不计，技术故障整次归档另列，不用基础设施故障扣答案分。",
+    "次数是模型可见工具调用口径；原生搜索内部如何改写、分发查询不可观测。文本块换行展示，原始结构保留在raw。",
+    "只按已评分样本计算阶段性分数，待评分与已评分但待核分开；待核给上下界，不按错题处理。",
+    "连续资源惩罚分使用按题配对bootstrap，不对它误用二元McNemar。原始正确率仍保留原McNemar。"
+  ],
+  "penalty_per_additional_search": 5,
+  "score_formula": "correct: max(0,100-5*max(0,search_calls-1)); incorrect: 0; uncertain: [0,possible_correct_score]",
+  "user_authorization": "多次搜索也展示并扣分；每次扣5分（推荐）"
+}

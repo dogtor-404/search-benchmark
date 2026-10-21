@@ -1,0 +1,30 @@
+{
+  "answer_records": 1200,
+  "archive_integrity_sha256": "7bdb36be88e28bd905e2b0730f72bd9f81000630909c8c98892c97f155d0514a",
+  "canonical_archive": "~/dev/search-benchmark/results/2026-10-21-multilingual",
+  "files": {
+    "analysis/archive-integrity.json": "7bdb36be88e28bd905e2b0730f72bd9f81000630909c8c98892c97f155d0514a",
+    "analysis/full-summary.json": "7eaf0fa84b01b8037729616766fa19bb22c0c806d67fb1f74f4ad46689e104b6",
+    "analysis/paired-cases.jsonl": "5fdcbedec58cc93265c53bd2b70c8e5e13f756682e35dddad63becd91021bacf",
+    "analysis/paired-cases.md": "3c50f6b1f4bdd106a8b90943ee6459232b42683cd5ce4c8d98eee30c8ca376c9",
+    "analysis/report.md": "1d9c6afe6af99a64bcb4aab6e479a3aa0b134cb7921e2d10cee421f6dd92a9da",
+    "analysis/search-efficiency-receipt.json": "d0ad186b286442c369102a9ed24045c986ae2f7fbfc5c4f0b1d249d3aec4dc26",
+    "analysis/search-efficiency-records.jsonl": "c43e59a7d25a46d72baeb133265fda88941d0a80337ffa935b17a6ca2b4d47c3",
+    "analysis/search-efficiency-summary.json": "aaaabe0c18c76828a17b86d4528e9f841ddb98546e1b4760a0d64172fdddd9ae",
+    "analysis/search-efficiency.html": "d873b8c2a0f00fc1f814071c7edbd058148274f92bfbb9f4906a167645ffa978",
+    "analysis/search-efficiency.md": "f519b74e4a20f9b2196ab1527240a46a6e16425789075ca20a9965cc99d9ba73",
+    "analysis/search-score-policy.json": "7fcbbe04c27b2f2235aa35699c17add2399ba0c892cb6f628b66a256e2a279ff",
+    "grading/independent-needs-review.jsonl": "f873799ac54f2e8e1f731cf6bf8c9d158e51ddeaae3d19053521d5f306a20f52",
+    "grading/independent-receipt.json": "eb114525bc3b97d86fd268b67b493ea5dfddf4651dd4c9f06da83c4a9a427e6e",
+    "grading/independent-resolved.jsonl": "1f55915874732710679857eff68b6722f425d147dbfd9c2a7a9babe247709fb7"
+  },
+  "generated_at": "2026-10-21T08:43:45.474451+08:00",
+  "grading_method": "independent_ai_single",
+  "manifest_sha256": "f61af532ab52e10e317e158abc0e3d074f77332fab281e903368b6a3a5c64714",
+  "pending": 18,
+  "policy_sha256": "e0f770b9d84b5e5c5fe15421091de17a96c5cb7ebfc2b1d6cd5e8fe9fb52b8e0",
+  "resolved": 1182,
+  "search_efficiency_receipt_sha256": "d0ad186b286442c369102a9ed24045c986ae2f7fbfc5c4f0b1d249d3aec4dc26",
+  "tool_sha256": "d8a42ada9716dbf14760245f3db0d1fa36d0c38bd82a488c003deca54dddfc29",
+  "vote_records": 1200
+}

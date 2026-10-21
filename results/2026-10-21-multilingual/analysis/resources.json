@@ -1,0 +1,175 @@
+{
+  "claude_usage_source": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching",
+  "deepseek_compatibility_source": "https://api-docs.deepseek.com/guides/anthropic_api/",
+  "groups": {
+    "0": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 1657.2416666666666,
+      "mean_main_cache_write_tokens": 1689.4416666666666,
+      "mean_main_input_tokens": 3348.6833333333334,
+      "mean_main_output_tokens": 658.1583333333333,
+      "mean_main_reported_input_tokens": 2,
+      "mean_main_thinking_tokens_reported": 384.45,
+      "mean_returned_characters_per_question": 0,
+      "mean_returned_utf8_bytes_per_call": null,
+      "mean_returned_utf8_bytes_per_question": 0,
+      "median_returned_utf8_bytes_per_question": 0.0,
+      "n": 120,
+      "search_calls": 0
+    },
+    "0_prime": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 1612.65,
+      "mean_main_cache_write_tokens": 1730.0333333333333,
+      "mean_main_input_tokens": 3344.6833333333334,
+      "mean_main_output_tokens": 504.3833333333333,
+      "mean_main_reported_input_tokens": 2,
+      "mean_main_thinking_tokens_reported": 263.2,
+      "mean_returned_characters_per_question": 0,
+      "mean_returned_utf8_bytes_per_call": null,
+      "mean_returned_utf8_bytes_per_question": 0,
+      "median_returned_utf8_bytes_per_question": 0.0,
+      "n": 120,
+      "search_calls": 0
+    },
+    "A": {
+      "auxiliary_models": {
+        "claude-haiku-5-5": {
+          "mean_input_tokens_per_question": 32050.183333333334,
+          "mean_output_tokens_per_question": 2383.8416666666667,
+          "questions_reported": 120
+        }
+      },
+      "mean_main_cache_read_tokens": 16601.7,
+      "mean_main_cache_write_tokens": 5379.725,
+      "mean_main_input_tokens": 21988.108333333334,
+      "mean_main_output_tokens": 1035.2416666666666,
+      "mean_main_reported_input_tokens": 6.683333333333334,
+      "mean_main_thinking_tokens_reported": 188.9,
+      "mean_returned_characters_per_question": 5624.658333333334,
+      "mean_returned_utf8_bytes_per_call": 3131.3673469387754,
+      "mean_returned_utf8_bytes_per_question": 7671.85,
+      "median_returned_utf8_bytes_per_question": 5292.5,
+      "n": 120,
+      "search_calls": 294
+    },
+    "A_prime": {
+      "auxiliary_models": {
+        "claude-haiku-5-5": {
+          "mean_input_tokens_per_question": 31161.866666666665,
+          "mean_output_tokens_per_question": 2345.7916666666665,
+          "questions_reported": 120
+        }
+      },
+      "mean_main_cache_read_tokens": 16522.1,
+      "mean_main_cache_write_tokens": 5360.541666666667,
+      "mean_main_input_tokens": 21889.441666666666,
+      "mean_main_output_tokens": 934.3416666666667,
+      "mean_main_reported_input_tokens": 6.8,
+      "mean_main_thinking_tokens_reported": 196.51666666666668,
+      "mean_returned_characters_per_question": 5587.491666666667,
+      "mean_returned_utf8_bytes_per_call": 3166.3958333333335,
+      "mean_returned_utf8_bytes_per_question": 7599.35,
+      "median_returned_utf8_bytes_per_question": 5526.0,
+      "n": 120,
+      "search_calls": 288
+    },
+    "B": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 14832.808333333332,
+      "mean_main_cache_write_tokens": 17696.791666666668,
+      "mean_main_input_tokens": 32534.083333333332,
+      "mean_main_output_tokens": 660.3833333333333,
+      "mean_main_reported_input_tokens": 4.483333333333333,
+      "mean_main_thinking_tokens_reported": 51.9,
+      "mean_returned_characters_per_question": 29049.108333333334,
+      "mean_returned_utf8_bytes_per_call": 28731.879310344826,
+      "mean_returned_utf8_bytes_per_question": 41661.225,
+      "median_returned_utf8_bytes_per_question": 33871.0,
+      "n": 120,
+      "search_calls": 174
+    },
+    "B_prime": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 13017.85,
+      "mean_main_cache_write_tokens": 16270.833333333334,
+      "mean_main_input_tokens": 29293.25,
+      "mean_main_output_tokens": 691.5166666666667,
+      "mean_main_reported_input_tokens": 4.566666666666666,
+      "mean_main_thinking_tokens_reported": 129.525,
+      "mean_returned_characters_per_question": 25846.616666666665,
+      "mean_returned_utf8_bytes_per_call": 29207.75974025974,
+      "mean_returned_utf8_bytes_per_question": 37483.291666666664,
+      "median_returned_utf8_bytes_per_question": 31946.5,
+      "n": 120,
+      "search_calls": 154
+    },
+    "D0": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 26.666666666666668,
+      "mean_main_cache_write_tokens": 0,
+      "mean_main_input_tokens": null,
+      "mean_main_output_tokens": 4156.233333333334,
+      "mean_main_reported_input_tokens": 1994.2666666666667,
+      "mean_main_thinking_tokens_reported": 0,
+      "mean_returned_characters_per_question": 0,
+      "mean_returned_utf8_bytes_per_call": null,
+      "mean_returned_utf8_bytes_per_question": 0,
+      "median_returned_utf8_bytes_per_question": 0.0,
+      "n": 120,
+      "search_calls": 0
+    },
+    "D0_prime": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 16,
+      "mean_main_cache_write_tokens": 0,
+      "mean_main_input_tokens": null,
+      "mean_main_output_tokens": 1854.525,
+      "mean_main_reported_input_tokens": 2053.0833333333335,
+      "mean_main_thinking_tokens_reported": 0,
+      "mean_returned_characters_per_question": 0,
+      "mean_returned_utf8_bytes_per_call": null,
+      "mean_returned_utf8_bytes_per_question": 0,
+      "median_returned_utf8_bytes_per_question": 0.0,
+      "n": 120,
+      "search_calls": 0
+    },
+    "D2": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 16341.333333333334,
+      "mean_main_cache_write_tokens": 0,
+      "mean_main_input_tokens": null,
+      "mean_main_output_tokens": 1411.1833333333334,
+      "mean_main_reported_input_tokens": 20576.041666666668,
+      "mean_main_thinking_tokens_reported": 0,
+      "mean_returned_characters_per_question": 50546.64166666667,
+      "mean_returned_utf8_bytes_per_call": 30515.1768707483,
+      "mean_returned_utf8_bytes_per_question": 74762.18333333333,
+      "median_returned_utf8_bytes_per_question": 59315.0,
+      "n": 120,
+      "search_calls": 294
+    },
+    "D2_prime": {
+      "auxiliary_models": {},
+      "mean_main_cache_read_tokens": 11959.466666666667,
+      "mean_main_cache_write_tokens": 0,
+      "mean_main_input_tokens": null,
+      "mean_main_output_tokens": 1351.125,
+      "mean_main_reported_input_tokens": 16378.95,
+      "mean_main_thinking_tokens_reported": 0,
+      "mean_returned_characters_per_question": 38594.76666666667,
+      "mean_returned_utf8_bytes_per_call": 30359.101769911504,
+      "mean_returned_utf8_bytes_per_question": 57176.308333333334,
+      "median_returned_utf8_bytes_per_question": 37843.0,
+      "n": 120,
+      "search_calls": 226
+    }
+  },
+  "notes": [
+    "返回量统计原始tool_result中成功搜索的文本字符数和UTF-8字节数，不含外层JSON封装，不代表HTTP网络流量；每个tool_use_id只计一次。",
+    "token取每题最终result.modelUsage，不累加重复的assistant流事件。主模型与辅助模型分列，辅助模型仅为CLI可观测用量，服务端未上报的内部token无法补知。",
+    "Claude累计输入=未缓存输入+缓存读取+缓存写入，包含多轮重复上下文；不是去重文本大小，不是纯搜索内容token，也不是实际付费或Max额度。",
+    "不同模型tokenizer不可直接等量比较。DeepSeek Anthropic兼容接口的缓存字段相加口径未在公开文档中明确，本报告保留原字段，不推算合计。",
+    "搜索相对baseline的用量差含工具定义、调用、返回、历史重读及推理策略差异，不可归因为仅处理搜索文本。"
+  ]
+}

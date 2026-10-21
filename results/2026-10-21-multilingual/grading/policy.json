@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-10-21T07:14:28.846167+08:00",
+  "method": "single_independent_ai_live_blind",
+  "user_authorization": [
+    "评分不要deepseek跑了，就你来盲评好了",
+    "你可以一边做答一边评测吗？"
+  ],
+  "api_judges_enabled": [],
+  "independent_votes_per_answer": 1,
+  "api_grade_records_before_change": 0,
+  "expected_answer_records": 1200,
+  "expected_vote_records": 1200,
+  "live_batch_size": 100,
+  "uncertain_handling": "保留待核与来源URL，不当错题，不虚构多数票",
+  "blind_policy": "独立agent只读指定匿名题目/参考答案/别名/候选回答，不读组别映射、其他评分、被测过程、汇总或联网。",
+  "frozen_manifest_note": "manifest保留原作答配置与旧judges字段供追溯；此用户授权的评分策略覆盖正式轮评分计划，不改变作答参数。",
+  "stopped_old_pipeline_session": 56599,
+  "old_pipeline_stopped_before_judging": true,
+  "live_tail_batch_size": 20,
+  "live_tail_batch_after": 1100,
+  "live_tail_reason": "最后100份分为5个20份不可变批次，减少等待，仍每ID仅一票；评分规则和已发布前11批均不变"
+}

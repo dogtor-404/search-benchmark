@@ -1,0 +1,104 @@
+{
+  "parts": [
+    {
+      "batch": 0,
+      "path": "grading/independent-input/batch-00.jsonl",
+      "records": 100,
+      "sha256": "f7ef40ce7c1cf8c7f09ba09d533957e8ceee2eec85537ddb8d3cc352f65b8c31"
+    },
+    {
+      "batch": 1,
+      "path": "grading/independent-input/batch-01.jsonl",
+      "records": 100,
+      "sha256": "3c44517f6bcd722d5e312d2f1659700649792b5af35cb86d0ad959d8713f6375"
+    },
+    {
+      "batch": 2,
+      "path": "grading/independent-input/batch-02.jsonl",
+      "records": 100,
+      "sha256": "d123d13b85d0933be512c42d41264e6364725eeb81688ccf44c9a4953bca14fe"
+    },
+    {
+      "batch": 3,
+      "path": "grading/independent-input/batch-03.jsonl",
+      "records": 100,
+      "sha256": "8cc566350fa0c08ce4b060a40fd381ae751789cd40af819db2e103c69dce2e7f"
+    },
+    {
+      "batch": 4,
+      "path": "grading/independent-input/batch-04.jsonl",
+      "records": 100,
+      "sha256": "d5524b99ec0378f3e1d18b4cec2b85dc127a1359fcca54675377195cbf22c188"
+    },
+    {
+      "batch": 5,
+      "path": "grading/independent-input/batch-05.jsonl",
+      "records": 100,
+      "sha256": "19029fc341d98086ccfa150ffda1fc370a0049f114bc0ae452f7cb6cdd831aa3"
+    },
+    {
+      "batch": 6,
+      "path": "grading/independent-input/batch-06.jsonl",
+      "records": 100,
+      "sha256": "34dbc742c86e80f126b6abb45730e6b20dd4b4a9de82a231f9110dbbd0e71385"
+    },
+    {
+      "batch": 7,
+      "path": "grading/independent-input/batch-07.jsonl",
+      "records": 100,
+      "sha256": "a56ef2b102506ec1bdae19e8c6cfaf35794b3123ad056ded9452592f0fc405c5"
+    },
+    {
+      "batch": 8,
+      "path": "grading/independent-input/batch-08.jsonl",
+      "records": 100,
+      "sha256": "466d9c43e776612379dbded7b10afd63a9def5f1d390df02976de531f72dad69"
+    },
+    {
+      "batch": 9,
+      "path": "grading/independent-input/batch-09.jsonl",
+      "records": 100,
+      "sha256": "e32d9849854d13b9f29a993fb4216049002c68bae50589e3fb6a12ad1633c998"
+    },
+    {
+      "batch": 10,
+      "path": "grading/independent-input/batch-10.jsonl",
+      "records": 100,
+      "sha256": "01e591a2fb1eec1c058d9a0735ac458a9153a3d846a1c178024ff6b8919ee954"
+    },
+    {
+      "batch": 11,
+      "path": "grading/independent-input/batch-11.jsonl",
+      "records": 20,
+      "sha256": "63b943395693f294fc56b60f633ee94603aa24de343103c302e50fdc6f314748"
+    },
+    {
+      "batch": 12,
+      "path": "grading/independent-input/batch-12.jsonl",
+      "records": 20,
+      "sha256": "a427b310eb4f81197f11dd7e8f96f256cba89c1f841416e6054d76390c487a53"
+    },
+    {
+      "batch": 13,
+      "path": "grading/independent-input/batch-13.jsonl",
+      "records": 20,
+      "sha256": "e12964a6aa6b6b468ae2bbfa9ca96d0a1f8b5ac80b32e2122928be03f8abb1aa"
+    },
+    {
+      "batch": 14,
+      "path": "grading/independent-input/batch-14.jsonl",
+      "records": 20,
+      "sha256": "f0cbcc645a618374c9cb445e191015ecf8c97ebea348354fb6a27c32f63dbf36"
+    },
+    {
+      "batch": 15,
+      "path": "grading/independent-input/batch-15.jsonl",
+      "records": 20,
+      "sha256": "e85988cb2c5f4316b0d78eaf6e26f218417951da4f27b0663f797ac22f5e1f2a"
+    }
+  ],
+  "policy": "仅独立AI单票；每ID唯一评分；只读分配的匿名包，不读映射、其他评分、实验材料或联网。",
+  "records": 1200,
+  "source_blind_sha256": "f3950c5e289d5634a0e74e4c93d771590d50ac87f66f4a7683390eaef676f701",
+  "source_complete": true
+}

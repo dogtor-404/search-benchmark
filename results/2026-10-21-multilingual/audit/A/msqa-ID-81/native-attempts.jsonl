@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "Orang Mapur ladang berpindah alat yang digunakan", "results": [], "status": "allowed", "tool_use_id": "toolu_01HsRdHpFn2idry3MrYAynhD"}
+{"billable": false, "call": 2, "query": "Orang Mapur Bangka berladang berpindah parang kapak tugal peralatan", "results": [], "status": "allowed", "tool_use_id": "toolu_01JoXxxK9Lf3CJzVgHKjnxiB"}
+{"billable": false, "call": 3, "query": "Suku Mapur Bangka Wikipedia sistem ladang berpindah menggunakan alat", "results": [], "status": "allowed", "tool_use_id": "toolu_01C3Bda61BDb6T6r4HvwjF9c"}

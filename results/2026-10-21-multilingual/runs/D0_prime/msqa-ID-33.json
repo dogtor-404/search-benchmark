@@ -1,0 +1,62 @@
+{
+  "answer": "Menurut pengetahuan saya, upacara pengobatan penyakit pada Suku Talang Mamak disebut **Bulian** (kadang ditulis *Belian*). Upacara ini dipimpin oleh seorang dukun/shaman yang disebut **Kemantan**, biasanya dilakukan untuk menyembuhkan penyakit yang diyakini disebabkan oleh gangguan roh atau makhluk halus.\n\nSaya cukup yakin dengan istilah \"Bulian\" ini, meskipun saya tidak bisa memastikan 100% tanpa memeriksa sumber lain.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.611,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.036448,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1414,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-33",
+  "raw": "jsonl/D0_prime/msqa-ID-33.jsonl",
+  "reported_cost_usd": 0.036448,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 1414,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

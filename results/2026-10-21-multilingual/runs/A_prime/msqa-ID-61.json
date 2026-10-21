@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 这个比喻用来形容**没有坚定立场、主意老变的人**（印尼语：orang yang tidak punya pendirian / plin-plan，常被称作“墙头草”）。\n\n**依据：**\n- 印尼几家网站对这个比喻的通行说法 \"bagai air di daun talas\" 解释一致：形容立场不定、一直在变的人（[detik.com](https://www.detik.com/sulsel/berita/d-7784405/130-contoh-peribahasa-dan-artinya-berisi-nasihat-hingga-semboyan-hidup)），或没有原则立场的人（[Mamikos](https://mamikos.com/info/contoh-kalimat-yang-mengandung-peribahasa-pljr/?halaman=3)）。\n- 这个比喻取自芋头叶：叶面有一层蜡质，水珠留不住，在上面滚来滚去（[Mojok](https://mojok.co/visual/nabati/daun-talas-yang-tiada-mengenal-basah/)）。\n\n我没有找到专门解释 \"seperti\" 这个写法的来源。上面的来源用的是 \"bagai\"，两个词都是“像”的意思，所以这个比喻的意思应该一样。\n\n本题共搜索 1 次。\n\nSources:\n- [detik.com：130+ Contoh Peribahasa dan Artinya](https://www.detik.com/sulsel/berita/d-7784405/130-contoh-peribahasa-dan-artinya-berisi-nasihat-hingga-semboyan-hidup)\n- [Mamikos：contoh kalimat yang mengandung peribahasa](https://mamikos.com/info/contoh-kalimat-yang-mengandung-peribahasa-pljr/?halaman=3)\n- [Mojok：Daun Talas yang Tiada Mengenal Basah](https://mojok.co/visual/nabati/daun-talas-yang-tiada-mengenal-basah/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.968,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119825,
+      "inputTokens": 15595,
+      "maxOutputTokens": 128000,
+      "outputTokens": 846,
+      "provider": "firstParty",
+      "thinkingTokens": 294,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3112,
+      "cacheReadInputTokens": 6765,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.043065,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 840,
+      "provider": "firstParty",
+      "thinkingTokens": 79,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/A_prime/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.0550475,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "\"seperti air di daun talas\" perumpamaan arti orang",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Q9hHP9CVRMWA3fGbLL6hrB"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3112,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3112,
+    "cache_read_input_tokens": 6765,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1249,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1249,
+        "cache_read_input_tokens": 4314,
+        "input_tokens": 2,
+        "output_tokens": 748,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 840,
+    "output_tokens_details": {
+      "thinking_tokens": 79
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

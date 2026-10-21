@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** 在济州方言里，「지슬」是**土豆（马铃薯）**的意思，相当于标准韩语的「감자」，也写作「지실」。一般解释为汉字「地實」，意思是\"从地里长出的果实\"。要注意，济州方言里的「감저」指的是红薯（고구마），不是土豆。\n\n这次搜了 1 次。\n\n**依据：**\n- 济州语大词典（济州特别自治道）：「지슬」词条释义为「감자」，异形词是「지실」  \n  https://www.jeju.go.kr/jejueo/dictionary/search.htm?query=%EA%B0%90%EC%9E%90&cnt=false&qtype=word&page=1&id=1-21659-0\n- 济州学研究中心档案：「감저」对应「고구마」，「지슬」对应「감자」  \n  http://jst.re.kr/digitalArchiveDetail.do?cid=210404&mid=RC00092262&menuName=%ea%b5%ac%ec%88%a0(%ec%9d%8c%ec%84%b1)\n- 韩联社（2018）：「'지슬'은 '감자'라는 뜻의 제주어」  \n  https://www.yna.co.kr/view/AKR20180201149900056",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.278,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7972,
+      "cacheReadInputTokens": 5847,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0755214,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 528,
+      "provider": "firstParty",
+      "thinkingTokens": 27,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/B_prime/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.0755214,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6453,
+      "query": "제주 방언 지슬 뜻 감자",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주어대사전",
+          "url": "https://www.jeju.go.kr/jejueo/dictionary/search.htm?query=%EA%B0%90%EC%9E%90&cnt=false&qtype=word&page=1&id=1-21659-0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "서지정보 내보내기 (Export)",
+          "url": "https://www.nculture.org/tag/cultureTagList.do?searchTag=%eb%86%8d%ed%8a%b9%ec%82%b0%eb%ac%bc"
+        },
+        {
+          "date": "2018-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "컬러푸드 '홍지슬' 제주 감자로 육성…내년부터 농가 보급 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20180201149900056"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5.4. 특이 어휘",
+          "url": "https://www.jeju.go.kr/jedu/data/data.htm?category=3094&page=45&act=download&seq=1538745&no=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "103065 #2 올려사 헬거주게",
+          "url": "http://archive.jst.re.kr/upload/pdf/RC00088225.pdf#97#45"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10. 고구마",
+          "url": "https://www.jeju.go.kr/jedu/data/data.htm?category=3101&page=4&act=download&seq=1538191&no=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주학연구센터, 제주학 아카이브",
+          "url": "http://jst.re.kr/digitalArchiveDetail.do?cid=210404&mid=RC00092262&menuName=%ea%b5%ac%ec%88%a0(%ec%9d%8c%ec%84%b1)"
+        },
+        {
+          "date": "2023-01-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "붉은 감자·검정 무…‘색’다른 농산물 드셔봅서예 - 창간 80주년 경향신문",
+          "url": "https://www.khan.co.kr/article/202301032131025#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "박미라 기자 페이지 - 경향신문",
+          "url": "https://www.khan.co.kr/reporter_article.html?id=259&page=103"
+        },
+        {
+          "date": "2023-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[바람개비]제주 지슬반지기밥",
+          "url": "https://www.donga.com/news/Opinion/article/all/20230914/121189644/1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7972,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7972,
+    "cache_read_input_tokens": 5847,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6133,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6133,
+        "cache_read_input_tokens": 3843,
+        "input_tokens": 2,
+        "output_tokens": 429,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 528,
+    "output_tokens_details": {
+      "thinking_tokens": 27
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

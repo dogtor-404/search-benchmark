@@ -1,0 +1,469 @@
+{
+  "answer": "答案：**19 世纪（Edad Contemporánea，即西班牙自由派国家建立、1834 年宗教裁判所被最终废除之后）**。从这一时期起，司法由世俗法官（jueces laicos）执掌，被告不再关押在教会/宗教裁判所的监狱，而是关押在民事监狱（cárceles civiles）中；审前羁押的目的之一就是防止其逃跑。关键节点包括 1812 年《加的斯宪法》、1834 年废除宗教裁判所、1835 年临时司法条例、1849 年《监狱法》和 1882 年《刑事诉讼法》。\n\n依据网址：\n- https://repositorio.ucam.edu/bitstream/handle/10952/5724/Tesis.pdf?sequence=1 （把近代即“Edad Contemporánea”作为研究时段，并述及 1882 年《刑事诉讼法》的审前羁押）\n- https://docta.ucm.es/rest/api/core/bitstreams/ddd813ab-dd67-40fb-a2ce-8b38defb4737/content （1849 年《监狱法》：cárceles civiles 归内政部管辖）\n- https://zaguan.unizar.es/record/10396/files/TESIS-2013-038.pdf （教会监狱与世俗/民事司法监狱的区分）\n- https://citcem.org/wp-content/uploads/2024/02/O-Estertor-do-Santo-Oficio-Do-Iluminismo-a-extincao.pdf （宗教裁判所的衰落与 1834 年最终废除）",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "\"jueces laicos\" \"presos\" \"cárceles civiles\" Inquisición abolición reforma siglo XVIII XIX",
+      "results": [],
+      "status": "budget_exhausted"
+    }
+  ],
+  "elapsed_seconds": 96.34,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 86016,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.6183272,
+      "inputTokens": 66526,
+      "maxOutputTokens": 32000,
+      "outputTokens": 16751,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-53",
+  "raw": "jsonl/D2/msqa-ES-53.jsonl",
+  "reported_cost_usd": 0.6183272,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8119,
+      "query": "jueces laicos España acusados cárceles civiles evitar fuga periodo",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En este periodo de la Edad Contemporánea podemos observar una clara diferenciación en el tratamiento de la prisión provisional, ...",
+          "url": "https://repositorio.ucam.edu/bitstream/handle/10952/5724/Tesis.pdf?sequence=1#8#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A partir de 1971, en la Iglesia latina los laicos podían ser jueces en casos de nulidad matrimonial en un tribunal colegiado con...",
+          "url": "https://www.teologiavalencia.es/wp-content/uploads/2026/04/Dosier-de-comunicaciones-completo.pdf#19#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "en manos de una junta de dieciséis individuos, presidida por un magistrado de la Audiencia, y su sustento dependía de las",
+          "url": "https://zaguan.unizar.es/record/10396/files/TESIS-2013-038.pdf#218#144"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "García Valdés relata como en 1977, cumpliendo el oficio de profesor en la Universidad de Salamanca, recibe la llamada del subsec...",
+          "url": "https://servicios.mpr.es/VisorPublicaciones/visordocumentosicopo.aspx?NIPO=051150480&SUBNIPO=0001&IDPUBLICACION=003705121#143#140"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "un año de la coronación del nuevo Rey, en la ma- yoría de los organismos oficiales se ha procedido a la sustitución del retrato ...",
+          "url": "https://izqrepublicana.es/wp-content/uploads/2022/08/politica_65.pdf#10#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "detuviese en la cárcel (9)",
+          "url": "https://78.47.66.34/es/download/LaInquisicion_11105873.pdf#56#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Si los eclesiásticos son acusados ante los tribunales laicos de cri- menes previstos por las leyes penales de la República, est...",
+          "url": "http://summa.upsa.es/high.raw?id=0000004198&name=00000001.original.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "des», DS/Cortes Generales Extraordinarias y Constituyentes 700 (13 noviembre 1812) 3968.",
+          "url": "https://repositorio.sandamaso.es/bitstream/123456789/1308/1/PD%2024.pdf#47#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "España",
+          "url": "http://148.206.53.231/tesiuami/UAMI14272.pdf#32#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_Bibliografia_ 899",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/8267599.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7949,
+      "query": "\"jueces laicos\" España \"cárceles civiles\" acusados",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Y con mayor motivo por cuanto que, en materia de inserción de «jueces populares», el proceso penal francés, que no la estipula h...",
+          "url": "https://www.archive.org/download/0.-la-iglesia-ante-el-reto-de-la-historia-jean-dumont/0.%20La%20Iglesia%20ante%20el%20reto%20de%20la%20historia%20-%20Jean%20Dumont_text.pdf#72#37"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "clérigos, aunque pueda nombrar varios jueces diocesanos laicos",
+          "url": "https://riucv.ucv.es:443/bitstream/handle/20.500.12466/1740/TESINA%20Clara%20Velasco%20Blanco%20-%20%20El%20Juez%20Laico.pdf?sequence=1&isAllowed=y#38#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LOS JUECES LAICOS EN LA DOCTRINA",
+          "url": "https://core.ac.uk/download/83562533.pdf#7#1"
+        },
+        {
+          "date": "2017-12-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Juez único, jueces laicos y asesores en el motu proprio «mitis iudex dominus Iesus»",
+          "url": "https://revistas.upsa.es/index.php/derechocanonico/article/view/1168"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En la Nueva España de los albores de la Modernidad se aplicaron preceptos laicos y religiosos pasados y presentes pocos o muchos...",
+          "url": "https://inehrm.gob.mx/recursos/Libros/2025_historia_delas_mujeres_en_mexico_t1.pdf#69#41"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los clérigos tienen un estatus especial que, por ejemplo, impide que sean juzgados por los laicos y les autoriza a ejercer como ...",
+          "url": "https://www.igda.es/docus/publicaciones/fc/historia-de-avila-iii-edad-media-siglos-xiv-xv.pdf#153#113"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "afectado a no creer o no compartir o no soportar los actos",
+          "url": "http://www.juecesdemocracia.es/pdf/boletin/Boletin%2047%20HD2.pdf#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "detuviese en la cárcel (9)",
+          "url": "https://78.47.66.34/es/download/LaInquisicion_11105873.pdf#56#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A partir de 1971, en la Iglesia latina los laicos podían ser jueces en casos de nulidad matrimonial en un tribunal colegiado con...",
+          "url": "https://www.teologiavalencia.es/wp-content/uploads/2026/04/Dosier-de-comunicaciones-completo.pdf#19#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "un año de la coronación del nuevo Rey, en la ma- yoría de los organismos oficiales se ha procedido a la sustitución del retrato ...",
+          "url": "https://izqrepublicana.es/wp-content/uploads/2022/08/politica_65.pdf#10#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.8508,
+      "query": "\"cárceles civiles\" \"evitar su fuga\" acusados jueces laicos España historia",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Todo esto prueba que en toda la Europa hubo una época en la cual se consideraba á los locos como criminales, con la sola diferen...",
+          "url": "https://idus.us.es/bitstream/handle/11441/115847/file_2.pdf?sequence=2&isAllowed=y#74#62"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://mirto.intecca.uned.es:8443/video/2/UW/UWF0316WB3nVsFbz/E0u3AuYsGmPmnMCB/9ef5e47cc73b97264e9285dc6d2cc3acd661c7ad-2ff48d0ceaf02b5aa5527c41dfe63b97-1786838218-1786823518?rd=6712"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "se haze, si sueltos a peligro de yrse, y si con grillos, de avergoncarse\"",
+          "url": "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/instituciones-penitenciarias/Arrestos-carceles-y-prisiones-en-los-derechos-historicos-espanoles-NIPO-126-10-030-8.pdf#94#49"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "a quienes «non los deuen mandar meter con los otros presos», si bien debía ponérseles en un lugar seguro\\(^49\\)",
+          "url": "http://www.historiadelderecho.revistacruzdelsur.ar/congresos/XI_Congreso_IIHDI-Tomo_IV.pdf#82#42"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Premio Nacional",
+          "url": "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/instituciones-penitenciarias/Arrestos-carceles-y-prisiones-en-los-derechos-historicos-espanoles-NIPO-126-10-030-8.pdf#94#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No pudiendo ser destinados al servicio de o- bras públicas, sino los reos especialmente con- denados á ellas en juicio; los prec...",
+          "url": "http://larramendi.es/es/catalogo_imagenes/grupo.do?path=1032154#392#192"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_gran osadía e que van contra nuestro señorío los que de esto se trabajan",
+          "url": "https://reunido.uniovi.es/index.php/ridrom/issue/download/1466/307#64#53"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "mármoles, etc",
+          "url": "https://repositorio.umsa.bo/xmlui/bitstream/handle/123456789/26818/HIS-25.PDF?isAllowed=y&sequence=1#26#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "detuviese en la cárcel (9)",
+          "url": "https://78.47.66.34/es/download/LaInquisicion_11105873.pdf#56#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_el Alguacil",
+          "url": "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/instituciones-penitenciarias/Arrestos-carceles-y-prisiones-en-los-derechos-historicos-espanoles-NIPO-126-10-030-8.pdf#94#56"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.8192,
+      "query": "España siglo XIX jueces laicos tribunales civiles presos preventivos evitar fuga reforma justicia",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Educar o castigar: la lucha del reformismo penitenciario español en el siglo XIX y principios del XX",
+          "url": "https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/69010/00820083000063.pdf?sequence=1#6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Esta obra forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto",
+          "url": "https://archivos.juridicas.unam.mx/www/bjv/libros/6/2554/21.pdf#7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+          "url": "https://docta.ucm.es/rest/api/core/bitstreams/ddd813ab-dd67-40fb-a2ce-8b38defb4737/content#105#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_oficinas del juzgado con las precauciones de seguridad y vigilancia convenientes[130]",
+          "url": "https://docta.ucm.es/rest/api/core/bitstreams/ddd813ab-dd67-40fb-a2ce-8b38defb4737/content#105#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En todos los procesos que conducen a la construcción del nuevo aparato",
+          "url": "https://www.dykinson.com/cart/download/numeros/36/#56#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "prendió, por qué causa y con qué motivo, deberá ser puesta en libertad inmediatamente sin costas; y averiguado el que haya comet...",
+          "url": "https://archivos.juridicas.unam.mx/www/bjv/libros/6/2554/21.pdf#7#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "debían someterse las potestades normativas existentes, resultó muy di- fícil articular la vinculación del juez a la ley",
+          "url": "https://www.quadernifiorentini.eu/quaderni/37/volume.pdf#page=104#105#101"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "escarcelado bajo fianza , á no mandarlo el Rey tenido ; espresándose despues en el proceso , si",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/7616/129-004-010%20%284%29.pdf?sequence=1&isAllowed=y#14#276#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(2) Leyes 6, tit",
+          "url": "https://bib-antonioreverte.um.es/Ficheros/Febrero/Febrero_Novisimo/T08_1846/Nov_Febrero_08.pdf#54#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "judilización de los nombramientos de los Jueces Municipales con la Ley de 1908 del",
+          "url": "https://docta.ucm.es/rest/api/core/bitstreams/ddd813ab-dd67-40fb-a2ce-8b38defb4737/content#105#7"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.7797,
+      "query": "Inquisición española jueces eclesiásticos sustituidos por jueces laicos presos cárceles civiles fuga",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Del conjunto de integrantes de Inquisición fueron sus miembros laicos pecheros, especialmente los familiares y en ciertos casos ...",
+          "url": "https://estudiossocioterritoriales.fch.unicen.edu.ar/ojs-3.1.0/index.php/anuario-ies/issue/download/143/78#97#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Constitución** **1912**",
+          "url": "https://cdigital.cabu.uanl.mx/ffdr/6/1020005265/1020005265_004.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La defensa de la Inquisición efectuada en el parlamento por los",
+          "url": "https://citcem.org/wp-content/uploads/2024/02/O-Estertor-do-Santo-Oficio-Do-Iluminismo-a-extincao.pdf#56#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "fue característico de la inquisición, quien utilizaba",
+          "url": "https://bindani.izt.uam.mx/downloads/dn39x213d?locale=fr#toolbar=0#13#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "catedráticos de la Universidad de Alcalá, eran en realidad erasmistas, no luteranos,",
+          "url": "https://ceclmdigital.uclm.es/high.raw?attachment=0001821089.pdf&id=0001821089&name=00000001.original.pdf#32#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Y no se nos hable de política, ni se diga que se trata de un tribunal cuya autoridad es real, según se ha sentado",
+          "url": "https://revistas.comillas.edu/estudioseclesiasticos/en/article/download/21026/18589/49037#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Reflexiones sobre la Inquisición Española",
+          "url": "https://gredos.usal.es/bitstream/handle/10366/24714/THVII~N79~P74-85.pdf;jsessionid=A7716DEB4B1E61C6597E7DE8529DD72C?sequence=3#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los disturbios que en el transcurso de los tiempos, en varias épocas y pueblos de España, han causado las pretensiones de su fue...",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/cbae7ab0-765d-49b3-9624-6cef871befd2/content#68#60"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "manera a lo largo del tiempo",
+          "url": "https://revistas.inah.gob.mx/index.php/cuicuilco/issue/download/318/238#55#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "40 Si el juez eclesiástico en vista de lo actuado por el secular deniega la consignación y pasa a formar instancia o á otro proc...",
+          "url": "https://gredos.usal.es/bitstream/handle/10366/19444/BG~2155.pdf?isAllowed=y&sequence=5#63#32"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 86016,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 66526,
+    "iterations": [],
+    "output_tokens": 16751,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

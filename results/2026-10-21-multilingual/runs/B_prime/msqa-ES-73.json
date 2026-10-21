@@ -1,0 +1,156 @@
+{
+  "answer": "**Respuesta:** más de medio millón de personas, es decir, más de 500.000.\n\n**Fuente:** el artículo «Hidalgo» de la Wikipedia en español (https://es.wikipedia.org/wiki/Hidalgo?oldid=88908907). Dice que el título de hidalgo, que es lo mismo que infanzón, se concedía sin control. Cuando llegaron la Ilustración y los Borbones empezó una reforma de la hacienda que limitó estos nombramientos, «ya que por entonces más de medio millón de personas gozaba de exenciones tributarias basadas en este título».\n\n**Ojo con la cifra:** el mismo artículo cita el censo de 1787, con 480.589 vecinos hidalgos (cabezas de familia). Es un dato distinto del «medio millón de personas», así que no hay que confundirlos.\n\nHice una sola búsqueda.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.421,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 17063,
+      "cacheReadInputTokens": 5894,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1461188,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 421,
+      "provider": "firstParty",
+      "thinkingTokens": 29,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-73",
+  "raw": "jsonl/B_prime/msqa-ES-73.jsonl",
+  "reported_cost_usd": 0.1461188,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7128,
+      "query": "infanzón exención fiscal antes de las reformas de la Ilustración Borbón personas",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "infanzones de carta quiere decir tanto como de privilegio; según Vidal, aunque gocen de la exención de pagos y servidumbre, no p...",
+          "url": "https://www.boe.es/biblioteca_juridica/abrir_pdf.php?id=PUB-DH-2015-14#75#22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "profesión",
+          "url": "https://revistas.ucm.es/index.php/ELEM/article/download/ELEM8585221159A/24600#8#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Madrid, Biblioteca Nacional, Mss",
+          "url": "https://ifc.dpz.es/recursos/publicaciones/17/19/05montaner.pdf#10#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pero volvamos al pleito",
+          "url": "https://ifc.dpz.es/recursos/publicaciones/19/80/13garciamercadal.pdf#2#2"
+        },
+        {
+          "date": "2016-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hidalgo - Wikipedia, la enciclopedia libre - Hidalgo",
+          "url": "https://es.wikipedia.org/wiki/Hidalgo?oldid=88908907#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "infançó",
+          "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/infanco"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "que ellos habían sido poblados según los \"buenos fueros\" de los infanzones de",
+          "url": "https://core.ac.uk/download/289983544.pdf#288#83"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "siglos y ha llevado a error a muchos historiadores locales que asignan la",
+          "url": "https://rasanluis.net/wp-content/uploads/discursos/180125_armando_serrano_martinez.pdf#21#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Evreux (1332-1387); Felipe III y Juana II",
+          "url": "https://addi.ehu.es/bitstream/handle/10810/23613/TFG_Trincado.pdf#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TESTIMONIOS DE INFANZONES DE LA COMARCA DE ANDORRA SEGÚN EL PADRÓN DEL AÑO 1737",
+          "url": "https://celandigital.com/images/pdfs/06_rev_andorra/estudios/testimonios_infanzones_comarca_andorra_segun_padron_1737.pdf#2#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 17063,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 17063,
+    "cache_read_input_tokens": 5894,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 15177,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 15177,
+        "cache_read_input_tokens": 3890,
+        "input_tokens": 2,
+        "output_tokens": 306,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 421,
+    "output_tokens_details": {
+      "thinking_tokens": 29
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

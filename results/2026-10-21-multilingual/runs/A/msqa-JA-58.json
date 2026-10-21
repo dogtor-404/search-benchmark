@@ -1,0 +1,100 @@
+{
+  "answer": "**山形県**(庄内地方)です。\n\n水産検定の問題解説では、庄内地方の「湯上げ」と「田楽」がハタハタの代表的な料理とされています。鶴岡市のハタハタ田楽も、冬の郷土料理として紹介されています。\n\nただし、湯上げの調理法までは今回の検索で確認できませんでした。また、各ページの中身を個別に開いて確認したわけではなく、検索結果の要約に基づいています。\n\nSources:\n- [水産界(大日本水産会メルマガ PDF)](https://osakana.suisankai.or.jp/wp/wp-content/uploads/2023/09/9月大水メルマガ＆水産界.pdf)\n- [tabi-mag.jp](https://tabi-mag.jp/ak0122/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.628,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116701,
+      "inputTokens": 13066,
+      "maxOutputTokens": 128000,
+      "outputTokens": 727,
+      "provider": "firstParty",
+      "thinkingTokens": 287,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2823,
+      "cacheReadInputTokens": 6744,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0169544,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 498,
+      "provider": "firstParty",
+      "thinkingTokens": 136,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-58",
+  "raw": "jsonl/A/msqa-JA-58.jsonl",
+  "reported_cost_usd": 0.028624499999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ハタハタの湯上げ 郷土料理 県",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JTMWgaeYKNaDswhkftGymg"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2823,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2823,
+    "cache_read_input_tokens": 6744,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 981,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 981,
+        "cache_read_input_tokens": 4293,
+        "input_tokens": 2,
+        "output_tokens": 408,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 498,
+    "output_tokens_details": {
+      "thinking_tokens": 136
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

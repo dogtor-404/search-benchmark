@@ -1,0 +1,74 @@
+{
+  "answer": "제주도 방언에서 \"지슬\"은 **감자**를 뜻합니다.\n\n참고로 알고 있는 내용입니다.\n\n- 제주어로 감자를 \"지슬\" 또는 \"지실\"이라고 부르는 것으로 알고 있습니다.\n- 오현명 감독의 영화 〈지슬〉(2012)이 이 말을 제목으로 썼습니다. 영화는 1948년 제주 4·3 사건 당시 마을 사람들이 토벌대를 피해 동굴로 숨어든 이야기를 다루며, 감자가 그 속에서 사람들이 나누는 음식으로 등장합니다. 부제는 \"오늘 우리는 모두 그날의 지슬이다\"로 기억합니다.\n\n어원이나 지역별 발음 차이처럼 더 자세한 부분은 확실하지 않아서 말씀드리기 어렵습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.647,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1760,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0103208,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 312,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/0/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.0103208,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1760,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1760,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1760,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 312,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 312,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

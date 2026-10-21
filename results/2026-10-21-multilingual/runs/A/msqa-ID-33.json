@@ -1,0 +1,100 @@
+{
+  "answer": "**Jawaban:** Upacara pengobatan penyakit Suku Talang Mamak disebut **Bulian** (juga ditulis Belian atau Bulean). Pelaksananya adalah dukun atau kemantan, yang memakai ramuan daun dan akar kayu, gerak tari, dan pemanggilan jiwa si sakit agar kembali ke tubuhnya.\n\nSatu sumber menyebut ritual pengobatan mereka juga mencakup Balai Terbang, Balai Panjang, dan Malighai. Sumbernya berupa artikel jurnal dan skripsi yang sederhana, jadi istilah dan tata caranya bisa berbeda antardaerah.\n\nSources:\n- [Membaca Tari Rentak Bulian pada Suku Talang Mamak (UIN Suska)](https://ejournal.uin-suska.ac.id/index.php/nusantara/article/view/24577)\n- [Mengenal Belian, upacara adat tolak bala di masyarakat Melayu Riau (detik.com)](https://www.detik.com/sumut/budaya/d-7393896/mengenal-belian-upacara-adat-tolak-bala-di-masyarakat-melayu-riau/amp)\n- [Repository UIR](https://repository.uir.ac.id/119/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.618,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0121709,
+      "inputTokens": 15214,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1299,
+      "provider": "firstParty",
+      "thinkingTokens": 149,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3516,
+      "cacheReadInputTokens": 6754,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0201674,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 542,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-33",
+  "raw": "jsonl/A/msqa-ID-33.jsonl",
+  "reported_cost_usd": 0.0323383,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "upacara pengobatan penyakit Suku Talang Mamak",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BnuXePnkqqgNp4E4Grmvmf"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3516,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3516,
+    "cache_read_input_tokens": 6754,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1664,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1664,
+        "cache_read_input_tokens": 4303,
+        "input_tokens": 2,
+        "output_tokens": 449,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 542,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

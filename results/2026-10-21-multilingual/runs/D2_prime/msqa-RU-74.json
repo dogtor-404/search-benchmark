@@ -1,0 +1,144 @@
+{
+  "answer": "答案是**维亚济马姜饼（Вяземский пряник）**。\n\n依据：斯摩棱斯克省的维亚济马市特产，属「заварной」（烫面/熬制）姜饼。资料明确写道：“在革命前的俄罗斯，有三种节日姜饼配方被认为是主要的——图拉、勒热夫和维亚济马。”\n\n来源：https://livingheritage.ru/brand/smolenskaya-oblast/vyazemskij-pryanik",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.113,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0684536,
+      "inputTokens": 12299,
+      "maxOutputTokens": 32000,
+      "outputTokens": 936,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-74",
+  "raw": "jsonl/D2_prime/msqa-RU-74.jsonl",
+  "reported_cost_usd": 0.0684536,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8477,
+      "query": "Смоленской губернии заварное сладкое изделие тульский ржевский три главных праздничных сорта",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Россию сладости из Кёнигсберга начали поставлять в 1820–1830-х годах с лёгкой руки супруги Николая I Александры Фёдоровны",
+          "url": "https://azimuth.ru/uploads/ckeditor/attachments/710/vash_azimut_80.pdf#10#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Город воинской славы Вязьма - часть 4. Особенности разных лет",
+          "url": "https://turbinatravels.com/pdf/65870#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Смоленские конфекты» — это, по сути, засахаренные кусочки фруктов, которые напоминают сухое варенье, но за ними стоит целая ист...",
+          "url": "https://mgusit.mossport.ru/upload/Journal/%E2%84%962(80)-2024.pdf#35#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вяземский пряник",
+          "url": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/vyazemskiy-pryanik-4260"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В России пряники из ржаной ситной муки готовили с мёдом, гвоздикой, анисом, имбирём, по- меранцевой  коркой",
+          "url": "https://pressa.ru/files/issue/private/rodovaya-zemlya/2022/04-2022/raw_issue/rodovaya-zemlya-2022-04-2022.pdf#22#22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "18+",
+          "url": "https://litportal.ru/trial/txt/70198027.a4.pdf#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вяземский пряник",
+          "url": "https://livingheritage.ru/brand/smolenskaya-oblast/vyazemskij-pryanik"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Не зря говорят, что по пряникам можно изучать географию",
+          "url": "https://www.nmosk-lib.ru/upload/iblock/2b1/2b149d8f2fe4bd826d69bf2eb3a7c2c3.pdf#55#53"
+        },
+        {
+          "date": "2026-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Историческое событие для Смоленской области! У нас появился первый официально зарегистрированный региональный бренд — «Пряник Смоленский»!",
+          "url": "http://crt67.ru/news/tpost/p7dh1pnzh1-istoricheskoe-sobitie-dlya-smolenskoi-ob"
+        },
+        {
+          "date": "2020-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тульский пряник: народный промысел - Тульский пряник: народный промысел",
+          "url": "https://vk.ru/@-192831971-tulskii-pryanik-narodnyi-promysel#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12299,
+    "iterations": [],
+    "output_tokens": 936,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

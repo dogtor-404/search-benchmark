@@ -1,0 +1,74 @@
+{
+  "answer": "泰国第一次用泰文字母把《三藏》印成书册，是在**佛历 2431–2436 年（公元 1888–1893 年）**，在拉玛五世（朱拉隆功大帝）在位时。全部印完是在**佛历 2436 年（拉达那哥欣历 112 年，公元 1893 年）**。\n\n- 这一版是为纪念拉玛五世登基 25 周年（银禧）而印的，共 39 册，印了 1,000 套。\n- 之前的三藏都是抄在贝叶或纸上的手抄本，这是第一次铅印成册。\n- 后来拉玛七世时期（约佛历 2468–2471 年，公元 1925–1928 年）又印了 45 册的泰文版三藏，这是第二次大规模的版本。\n\n具体的起印年份和套数我是凭记忆回答的，没法联网核对，细节可能有出入。1893 年完成、39 册这两点我比较有把握。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.343,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1805,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0157308,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 835,
+      "provider": "firstParty",
+      "thinkingTokens": 509,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/0/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.0157308,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1805,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1805,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1805,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1805,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 835,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 835,
+    "output_tokens_details": {
+      "thinking_tokens": 509
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

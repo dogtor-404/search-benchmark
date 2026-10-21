@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** Merariq 指萨萨克人的“私奔/抢婚”式结婚程序。男方在婚礼前把女方从她父母家中带走（规矩是晚上去，不能动武），之后再按习俗走后面的环节：selabar（通知女方家）、sejati、sorong serah 等。这个词原本只指“把姑娘带走以便娶她”，现在也泛指萨萨克人整套传统婚礼流程。词根在萨萨克语里有“跑”的意思。\n\n共搜了 1 次。\n\n**依据：**\n- [Tradisi Kawin Lari (Merariq) pada Suku Bangsa Sasak di Desa Wanasaba, Lombok Timur](https://jurnal.harianregional.com/penjor/id-85243)\n- [Kajian Sosiologi dan Antropologi terhadap Praktik Hukum Tradisi Merariq Adat Suku Sasak Lombok](https://ejournal.uika-bogor.ac.id/index.php/YUSTISI/article/view/16990)\n- [ejurnal.warmadewa.ac.id](https://ejurnal.warmadewa.ac.id/index.php/juinhum/article/download/4123/2901)\n- [journal.uinmataram.ac.id](https://journal.uinmataram.ac.id/index.php/qawwam/article/download/7028/2487/19590)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.716,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0121723,
+      "inputTokens": 16683,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1008,
+      "provider": "firstParty",
+      "thinkingTokens": 155,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3254,
+      "cacheReadInputTokens": 6754,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.039298799999999995,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 595,
+      "provider": "firstParty",
+      "thinkingTokens": 26,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/A_prime/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.0514711,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Merariq adat perkawinan Suku Sasak Lombok kawin lari",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LqJTYjbSkj7BZb217txPDs"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3254,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3254,
+    "cache_read_input_tokens": 6754,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1402,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1402,
+        "cache_read_input_tokens": 4303,
+        "input_tokens": 2,
+        "output_tokens": 497,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 595,
+    "output_tokens_details": {
+      "thinking_tokens": 26
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "answer": "Saya cukup mencari satu kali.\n\n**Jawaban:** Dalam kepercayaan Arat Sabulungan, titi (tato Mentawai) dianggap sebagai \"pakaian abadi\" yang dibawa sampai mati. Tato juga berfungsi sebagai tanda pengenal, sehingga setelah meninggal, orang yang bertato bisa dikenali dan saling mengenal dengan leluhurnya di alam roh. Selain itu, titi dipercaya sebagai pancaran roh kehidupan. Tato mengikat jiwa supaya tetap betah tinggal di tubuh. Titi juga menunjukkan identitas klan, asal daerah, dan status sosial, misalnya motif untuk sikerei (dukun) berbeda dengan motif untuk pemburu.\n\n**Sumber:**\n- https://id.wikipedia.org/wiki/Arat_Sabulungan\n- https://kusalawa.ub.ac.id/index.php/kusalawa/article/view/9/60\n- https://m.tribunnews.com/travel/7770377/jejak-titi-mentawai-tradisi-tato-tubuh-yang-lahir-dari-alam-indonesia",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.1,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14596,
+      "cacheReadInputTokens": 5859,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.12937579999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 571,
+      "provider": "firstParty",
+      "thinkingTokens": 74,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/B_prime/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.12937579999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6911,
+      "query": "titi tato Mentawai fungsi kepercayaan Arat Sabulungan",
+      "results": [
+        {
+          "date": "2026-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\" - RRI.co.id - Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\"",
+          "url": "https://rri.co.id/bukittinggi/budaya/2482445/tato-mentawai-simbol-keselarasan-alam-dan-identitas-leluhur#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TATO SEBAGAI REPRESENTASI IDENTITAS: STUDI LITERATUR TENTANG PERBANDINGAN MAKNA SOSIAL TATO PADA MASYARAKAT MENTAWAI DAN MASYARA...",
+          "url": "http://digilib.unila.ac.id/90884/3/SKRIPSI%20TANPA%20BAB%20PEMBAHASAN.pdf#8#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ABSTRAK",
+          "url": "http://digilib.unila.ac.id/90884/1/ABSTRAK.pdf#1#1"
+        },
+        {
+          "date": "2025-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TATO SEBAGAI REPRESENTASI IDENTITAS: STUDI LITERATUR TENTANG PERBANDINGAN MAKNA SOSIAL TATO PADA MASYARAKAT MENTAWAI DAN MASYARAKAT URBAN MODERN DALAM PERSPEKTIF POSTMODERN",
+          "url": "http://digilib.unila.ac.id/90884/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato masyarakat adat dengan sejumlah ragam motif memiliki makna, syarat dengan ajaran kearifan lokal",
+          "url": "https://zenodo.org/records/2541233/files/1-Book%20Manuscript-7-1-10-20190115.pdf?download=1#23#3"
+        },
+        {
+          "date": "2019-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arat Sabulungan - Wikipedia bahasa Indonesia, ensiklopedia bebas - Tradisi lain yang lekat dengan kepercayaan Arat Sabulungan adalah tato",
+          "url": "https://id.wikipedia.org/wiki/Arat_Sabulungan#2"
+        },
+        {
+          "date": "2025-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jejak Titi Mentawai, Tradisi Tato Tubuh yang Lahir dari Alam Indonesia - Tribunnews.com - ✖",
+          "url": "https://m.tribunnews.com/travel/7770377/jejak-titi-mentawai-tradisi-tato-tubuh-yang-lahir-dari-alam-indonesia#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "cara religius",
+          "url": "https://repositori.kemdikbud.go.id/2844/1/Kajian%20Semiotik%20dan%20Mitologis%20Terhadap%20Tato%20Masyarakat%20Tradisional%20Kepulauan%20Mentawai.pdf#18#14"
+        },
+        {
+          "date": "2023-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mentawai Tattoo Revival",
+          "url": "https://filmdokumenter.id/films/mentawai-tattoo-revival/#brx-content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EKSISTENSI TATO MENTAWAI SEBAGAI BENTUK RESISTENSI KEBUDAYAAN SOSIAL DI KEPULAUAN SUMATERA BARAT",
+          "url": "https://kusalawa.ub.ac.id/index.php/kusalawa/article/view/9/60#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14596,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14596,
+    "cache_read_input_tokens": 5859,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12745,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12745,
+        "cache_read_input_tokens": 3855,
+        "input_tokens": 2,
+        "output_tokens": 413,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 571,
+    "output_tokens_details": {
+      "thinking_tokens": 74
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

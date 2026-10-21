@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** 강릉단오제의 영신제(迎神祭)는 **음력 5월 3일 저녁 6시**에 국사여성황사(国师女城隍祠)에서 열리며, 이어서 신목 행렬인 영신행차가 남대천 단오제단으로 향한다. (2026년에는 양력 6월 17일 18:00에 해당)\n\n**依据：**\n- 한국민족문화대백과사전 「영신제」: http://encykorea.aks.ac.kr/Article/E0077911\n- 강릉시청 「제례」: http://www.gangneung.go.kr/www/contents.do?key=666\n- 강릉단오제보존회 공개행사: http://www.danoje.or.kr/web/sub2/2_sub6_j.html?Table=2_sub6\n- 2026년 실제 진행 보도(6월 17일 오후 6시 영신제): https://www.kwnews.co.kr/article/20260617500795",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.249,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0649824,
+      "inputTokens": 10364,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1152,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-62",
+  "raw": "jsonl/D2/msqa-KO-62.jsonl",
+  "reported_cost_usd": 0.0649824,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6191,
+      "query": "강릉 단오제 영신제 언제",
+      "results": [
+        {
+          "date": "2026-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "강릉단오제 | 지역축제 | 대한민국 구석구석 축제",
+          "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do;jsessionid=064D5EEC994390F4F02CDDAF31704460.instance2?cmsCntntsId=531391&Flag=Y"
+        },
+        {
+          "date": "2026-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통·현대 잇는 강릉단오제 일정 최종 확정 - 강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2036814"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제례 - 강릉시청",
+          "url": "http://www.gangneung.go.kr/www/contents.do;jsessionid=hiMmcaS1JKkj36u2jfvu5AtJcokPaNzL5k1VYOQ6AnAva3m0tPVUh8Tvlof1Z254.GNWEB_servlet_engine4?key=666"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제(迎神祭)",
+          "url": "http://encykorea.aks.ac.kr/Article/E0077911"
+        },
+        {
+          "date": "2026-06-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026강릉단오제 '풀리니 단오다!' 내일 개막 > 뉴스데스크 - MBC 강원영동",
+          "url": "https://www.mbceg.co.kr/post/137288?amp%3Bpage=925&page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0077911"
+        },
+        {
+          "date": "2024-07-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "단오의 내용 - 강릉단오제전수교육관",
+          "url": "http://gn.go.kr/dano/contents.do?key=5819"
+        },
+        {
+          "date": "2026-06-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "원주문화방송(주)",
+          "url": "https://ftp.wjmbc.co.kr/news/desk_board.html?srch_order=WRITE_Y+desc,+NUM_SEQ&srch_by=asc&srch_k=&srch_t=&intPageSize=20&gnb=1&snb=2&pagecode=view&num_seq=95812"
+        },
+        {
+          "date": "2026-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "강릉단오제 영신행차, 신통대길 길놀이 열려 > 뉴스데스크 - MBC 강원영동",
+          "url": "https://www.mbceg.co.kr/post/137410"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제 - 디지털강릉문화대전",
+          "url": "https://gangneung.grandculture.net/gangneung/dir/GC00302579?category=%ec%b0%b8%ea%b3%a0%eb%ac%b8%ed%97%8c&depth=3&name=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84&search=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6902,
+      "query": "강릉단오제 영신제 일시",
+      "results": [
+        {
+          "date": "2026-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통·현대 잇는 강릉단오제 일정 최종 확정 - 강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2036814"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제(迎神祭)",
+          "url": "http://encykorea.aks.ac.kr/Article/E0077911"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제 - 디지털강릉문화대전",
+          "url": "https://gangneung.grandculture.net/gangneung/dir/GC00302579?category=%ec%b0%b8%ea%b3%a0%eb%ac%b8%ed%97%8c&depth=3&name=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84&search=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제례 - 강릉시청",
+          "url": "http://www.gangneung.go.kr/www/contents.do;jsessionid=hiMmcaS1JKkj36u2jfvu5AtJcokPaNzL5k1VYOQ6AnAva3m0tPVUh8Tvlof1Z254.GNWEB_servlet_engine4?key=666"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "국가유산청 국가유산포털",
+          "url": "https://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/unesco/CulHeritage/CulHeritage_03.jsp&pageNo=5_3_2_0_2_0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0077911"
+        },
+        {
+          "date": "2023-10-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "문화체육관광부 국립국악원",
+          "url": "http://gugak.go.kr/ency/multimedia/view/video/4827"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "강릉단오제보존회",
+          "url": "http://www.danoje.or.kr/web/sub2/2_sub6_j.html?Table=2_sub6"
+        },
+        {
+          "date": "2026-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026 강릉단오제 하이라이트 ‘신통대길 길놀이’ 거행",
+          "url": "https://www.kwnews.co.kr/article/20260617500795"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026 강릉단오제",
+          "url": "http://mail.thefestival.co.kr/info/festival/10889"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10364,
+    "iterations": [],
+    "output_tokens": 1152,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

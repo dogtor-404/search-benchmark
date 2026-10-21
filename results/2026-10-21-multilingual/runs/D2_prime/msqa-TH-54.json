@@ -1,0 +1,223 @@
+{
+  "answer": "คำตอบคือ **“ขนมทานงา”** (เปลี่ยนคำว่า “แดก” เป็น “ทาน” ให้ฟังสุภาพขึ้น)\n\n依据：ศิลปวัฒนธรรม《ตามรอย \"ขนมแดกงา\"… สู่การเปลี่ยนชื่อให้ไพเราะ》— \"ปัจจุบันมีคนขายเรียกชื่อเสียใหม่ให้ดูเพราะพริ้งสุภาพ เขาเรียกว่า 'ขนมทานงา' แทน 'แดกงา'\"\nhttps://www.silpa-mag.com/culture/article_3886",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.525,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0748856,
+      "inputTokens": 15732,
+      "maxOutputTokens": 32000,
+      "outputTokens": 571,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-54",
+  "raw": "jsonl/D2_prime/msqa-TH-54.jsonl",
+  "reported_cost_usd": 0.0748856,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8578,
+      "query": "ขนม \"แดกงา\" เปลี่ยนชื่อเรียกสุภาพ คำไหน",
+      "results": [
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงา ชื่อไม่น่ากิน ทำก็ไม่ง่ายแต่อร่อย กับการเปลี่ยนชื่อให้ไพเราะ",
+          "url": "https://www.silpa-mag.com/culture/article_3886"
+        },
+        {
+          "date": "2015-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ข้าวแดกงา - วิกิพีเดีย",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงาหรือขนมข้าวปุก..ขนมที่โยงความหมายเข้ากับการปลุกใจคนไทใหญ่และมอญให้กอบกู้ชาติบ้านเมืองจากพม่า",
+          "url": "https://foodmanman.blogspot.com/2022/07/blog-post.html?m=0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กลอนดอกสร้อย (46) เป็นขนมเคยทานเรศหวานมัน ขนมขึÊนบุ",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/1072/5/Chapter3.pdf#22#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ศูนย์ข้อมูลกลางทางวัฒนธรรม _ หน้าแรก",
+          "url": "http://www.m-culture.in.th/album/194976/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมผิง Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%9c%e0%b8%b4%e0%b8%87"
+        },
+        {
+          "date": "2025-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วิธีทำขนมแดกงา (ข้าวโปง/ข้าวแดกงา) ไส้งาถั่วลิสง หอมหวาน ทำขายได้",
+          "url": "https://www.lemon8-app.com/@banraostory/7541047100583854600?region=th"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สูตรขนมแดกงา (ขนมกระแดกงา) ขนมโบราณหาทานยาก ทำง่าย อร่อยหนึบ - 481 คนบันทึกแล้ว",
+          "url": "https://www.lemon8-app.com/@peungprung/7593350115110027777?region=th#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงา",
+          "url": "https://postjung.com/tag/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตามรอย “ขนมแดกงา” ชื่อไม่น่ากิน ทำไม่ง่าย แต่อร่อย สู่การเปลี่ยนชื่อให้ไพเราะ | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/JMKVwP#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7132,
+      "query": "แดกงา ขนม ชื่อใหม่ สุภาพ เรียกแทน",
+      "results": [
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงา ชื่อไม่น่ากิน ทำก็ไม่ง่ายแต่อร่อย กับการเปลี่ยนชื่อให้ไพเราะ",
+          "url": "https://www.silpa-mag.com/culture/article_3886"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมผิง Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%9c%e0%b8%b4%e0%b8%87"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงาหรือขนมข้าวปุก..ขนมที่โยงความหมายเข้ากับการปลุกใจคนไทใหญ่และมอญให้กอบกู้ชาติบ้านเมืองจากพม่า",
+          "url": "https://foodmanman.blogspot.com/2022/07/blog-post.html?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมไทยโบราณหาทานยาก รูปไม่งาม นามไม่เพราะ แต่อร่อยมากค่ะ",
+          "url": "https://pantip.com/topic/32940308"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กลอนดอกสร้อย (46) เป็นขนมเคยทานเรศหวานมัน ขนมขึÊนบุ",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/1072/5/Chapter3.pdf#22#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ศูนย์ข้อมูลกลางทางวัฒนธรรม _ หน้าแรก",
+          "url": "http://www.m-culture.in.th/album/194976/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/"
+        },
+        {
+          "date": "2015-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ข้าวแดกงา - วิกิพีเดีย",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตามรอย “ขนมแดกงา” ชื่อไม่น่ากิน ทำไม่ง่าย แต่อร่อย สู่การเปลี่ยนชื่อให้ไพเราะ | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/JMKVwP#1"
+        },
+        {
+          "date": "2026-06-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หนังสือ sweet heritage สืบสานตำนานขนมไทยพื้นถิ่น กรมส่งเสริมการเรียนรู้ เผยแพร่โดยห้องสมุดประชาชนจังหวัดสุพรรณบุรี",
+          "url": "https://fliphtml5.com/omlwa/giuo/16/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แดกงา ภาษาอีสาน",
+          "url": "https://esan108.com/dict/view/%e0%b9%81%e0%b8%94%e0%b8%81%e0%b8%87%e0%b8%b2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 15732,
+    "iterations": [],
+    "output_tokens": 571,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

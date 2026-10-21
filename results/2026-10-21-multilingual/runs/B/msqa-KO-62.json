@@ -1,0 +1,156 @@
+{
+  "answer": "**영신제는 음력 5월 3일 저녁(오후 6시 시작)에 합니다.** 장소는 홍제동 국사여성황사이고, 이 제사를 지낸 뒤 영신행차로 이어집니다.\n\n올해(2026년)는 6월 17일이었습니다. 신목행렬이 국사여성황사에서 오후 6시부터 영신제를 지내고 오후 7시에 출발했습니다. 같은 날 영신행차와 신통대길 길놀이가 열렸습니다. 이 날짜는 2026년 6월 17일자 강원일보 기사로 확인했습니다.\n\n디지털강릉문화대전은 영신제 장소를 남대천 단오제단이라고도 적고 있어, 자료마다 장소 설명이 조금 다릅니다.\n\n근거:\n- https://gangneung.grandculture.net/gangneung/dir/GC00302579 (디지털강릉문화대전, 영신제)\n- http://encykorea.aks.ac.kr/Article/E0077911 (한국민족문화대백과, 영신제)\n- https://www.kwnews.co.kr/article/20260617500795 (2026년 영신제 진행 보도)\n- https://www.kado.net/news/articleView.html?idxno=2036814 (2026년 영신행차 6월 17일 일정)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.141,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8243,
+      "cacheReadInputTokens": 5844,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0388144,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 525,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-62",
+  "raw": "jsonl/B/msqa-KO-62.jsonl",
+  "reported_cost_usd": 0.0388144,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.607,
+      "query": "강릉단오제 영신제 일정",
+      "results": [
+        {
+          "date": "2026-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통·현대 잇는 강릉단오제 일정 최종 확정 - 강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2036814"
+        },
+        {
+          "date": "2026-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "강릉단오제 | 지역축제 | 대한민국 구석구석 축제",
+          "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do;jsessionid=064D5EEC994390F4F02CDDAF31704460.instance2?cmsCntntsId=531391&Flag=Y"
+        },
+        {
+          "date": "2026-06-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026강릉단오제 '풀리니 단오다!' 내일 개막 > 뉴스데스크 - MBC 강원영동",
+          "url": "https://www.mbceg.co.kr/post/137288?amp%3Bpage=925&page=2"
+        },
+        {
+          "date": "2026-06-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "원주문화방송(주)",
+          "url": "https://ftp.wjmbc.co.kr/news/desk_board.html?srch_order=WRITE_Y+desc,+NUM_SEQ&srch_by=asc&srch_k=&srch_t=&intPageSize=20&gnb=1&snb=2&pagecode=view&num_seq=95812"
+        },
+        {
+          "date": "2026-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026 강릉단오제 신주미 봉정 및 신주빚기 개최 - 강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2051492"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제(迎神祭)",
+          "url": "http://encykorea.aks.ac.kr/Article/E0077911"
+        },
+        {
+          "date": "2026-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "강릉단오제 영신행차, 신통대길 길놀이 열려 > 뉴스데스크 - MBC 강원영동",
+          "url": "https://www.mbceg.co.kr/post/137410"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영신제 - 디지털강릉문화대전",
+          "url": "https://gangneung.grandculture.net/gangneung/dir/GC00302579?category=%ec%b0%b8%ea%b3%a0%eb%ac%b8%ed%97%8c&depth=3&name=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84&search=%ed%95%9c%ea%b5%ad%20%ec%84%b8%ec%8b%9c%20%ed%92%8d%ec%86%8d%20%ec%82%ac%ec%a0%84"
+        },
+        {
+          "date": "2026-06-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "내일 강릉단오제 영신행차, 일대 교통 통제 > 뉴스데스크 - MBC 강원영동",
+          "url": "https://www.mbceg.co.kr/post/137372?amp%3Bpage=952&page=2"
+        },
+        {
+          "date": "2026-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2026 강릉단오제 하이라이트 ‘신통대길 길놀이’ 거행",
+          "url": "https://www.kwnews.co.kr/article/20260617500795"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8243,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8243,
+    "cache_read_input_tokens": 5844,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6407,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6407,
+        "cache_read_input_tokens": 3840,
+        "input_tokens": 2,
+        "output_tokens": 457,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 525,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

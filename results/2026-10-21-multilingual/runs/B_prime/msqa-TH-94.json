@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** ในภาษาไทยสมัยโบราณ \"แพ้\" แปลว่า **ชนะ** หรือ **มีชัย** ซึ่งตรงข้ามกับความหมายในปัจจุบัน ในสมัยนั้น ถ้าจะพูดถึงการเสียทีหรือปราชัยจะใช้คำว่า \"พ่าย\" ตัวอย่างจากศิลาจารึกหลักที่ 1 คือ \"ช้างขุนสามชนตัวชื่อมาสเมืองแพ้ ขุนสามชนพ่ายหนี\" ต่อมาภาษาไทยรับคำว่า \"ชนะ\" มาจากภาษาเขมร และคนใช้ \"แพ้\" คู่กับ \"พ่าย\" เป็น \"พ่ายแพ้\" ความหมายของ \"แพ้\" จึงกลับเป็นตรงกันข้าม ทุกวันนี้ภาษาไทยถิ่นเหนือ อีสาน และภาษาลาว ยังใช้ \"แพ้\" ในความหมายว่าชนะอยู่\n\n**ที่มา:**\n- พจนานุกรมราชบัณฑิตยสถาน ระบุว่า \"แพ้ (ไทยเดิม) ก. ชนะ\": https://www.sanook.com/dictionary/dict/dict-th-th-royal-institute/search/%E0%B9%81%E0%B8%9E%E0%B9%89/\n- เอกสารประกอบการสอนวิชาวิวัฒนาการของภาษาไทย มจร.: https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2.pdf\n- Wiktionary ภาษาไทย ผ่าน kaikki.org ระบุว่ามาจากภาษาไทดั้งเดิม *beː และความหมายปัจจุบันกลับข้ามกับความหมายโบราณ: https://kaikki.org/thwiktionary/%E0%B9%84%E0%B8%97%E0%B8%A2/meaning/%E0%B9%81/%E0%B9%81%E0%B8%9E/%E0%B9%81%E0%B8%9E%E0%B9%89.html\n\n（中文简述：古泰语中 \"แพ้\" 原义是\"胜、获胜\"，\"败\"用 \"พ่าย\"。上面的答案是用 1 次搜索得出的。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 21.27,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 11641,
+      "cacheReadInputTokens": 5856,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1256952,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1569,
+      "provider": "firstParty",
+      "thinkingTokens": 247,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/B_prime/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.1256952,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.713,
+      "query": "คำว่า แพ้ สมัยโบราณ ความหมายเดิม ชนะ ศิลาจารึก",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พ่อขุนรามคำแหง แต่สมัยอยุธยาคำว่า “ขุน” ลดความสำคัญลงมาเป็น “ขุนนาง” ระดับรองลงมา แต่ปัจจุบัน มีความหมายกว้างออก เช่น ขุนเขา ขุน...",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2.pdf#25#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ค่าในสมัยรัตนโกสินทร์ เช่นสวน เดิมหมายถึง ที่ซึ่งกั้นเป็นเขตไว้สำหรับปลูกต้นไม้ ปัจจุบันใช้ หมายถึง ที่",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2.pdf#25#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๑๘๑ดาง - แทน [๑๘๑]แพ้ - ชนะ [๑๘๓]จาดาง - พดแทน [๑๘๔๓]เงิ้มมือ - เงิ้อมมือ [๑๘๕]ละกา",
+          "url": "https://kukr.lib.ku.ac.th/kukr_es/prasert/search_detail/dowload_digital_file/190824/106515#20#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=80cf19baa5c2d66074a62e3d12b621da&p=206319&postcount=65"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 4. ไพรฟาชาไท    | ประชาชน พลเมือง บริวาร    | “",
+          "url": "https://lc.dru.ac.th/assets/journals/journal-year7-56.pdf#13#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แพ้ คือ",
+          "url": "https://th.ichacha.net/mth/%e0%b9%81%e0%b8%9e%e0%b9%89.html"
+        },
+        {
+          "date": "2026-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"แพ้\" meaning in ไทย - \"แพ้\" meaning in ไทย",
+          "url": "https://kaikki.org/thwiktionary/%E0%B9%84%E0%B8%97%E0%B8%A2/meaning/%E0%B9%81/%E0%B9%81%E0%B8%9E/%E0%B9%81%E0%B8%9E%E0%B9%89.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แพ้ คืออะไร แปลว่าอะไร ตัวอย่างประโยค จากพจนานุกรมแปล ไทย-ไทย ราชบัณฑิตยสถาน",
+          "url": "https://www.sanook.com/dictionary/dict/dict-th-th-royal-institute/search/%E0%B9%81%E0%B8%9E%E0%B9%89/"
+        },
+        {
+          "date": "2026-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ᨻᩯ᩶\" meaning in All languages combined - \"ᨻᩯ᩶\" meaning in All languages combined",
+          "url": "https://kaikki.org/thwiktionary/All%20languages%20combined/meaning/%E1%A8%BB/%E1%A8%BB%E1%A9%AF/%E1%A8%BB%E1%A9%AF%E1%A9%B6.html#th-%E1%A8%BB%E1%A9%AF%E1%A9%B6-nod-verb-RDVFQ0eO#1"
+        },
+        {
+          "date": "2012-06-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PANTIP.COM : A12196684 (ขุนศึก)ทำไมจึงมีแต่คนอยากได้ดาบของพระเอกคะ? [บันเทิงวิทยุ-โทรทัศน์]",
+          "url": "http://topicstock.pantip.com/chalermthai/topicstock/2012/06/A12196684/A12196684.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11641,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11641,
+    "cache_read_input_tokens": 5856,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9793,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9793,
+        "cache_read_input_tokens": 3852,
+        "input_tokens": 2,
+        "output_tokens": 1224,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1569,
+    "output_tokens_details": {
+      "thinking_tokens": 247
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

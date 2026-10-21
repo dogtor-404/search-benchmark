@@ -1,0 +1,74 @@
+{
+  "answer": "我的推测是**生見玉／生御魂（いきみたま）**，但没有把握。\n\n这是盂兰盆节时的习俗：除了祭祀祖先，也款待还在世的父母，向他们表示敬意。子女会带着鱼（如刺鯖）等食物回家，请父母吃。\n\n不过题目说的是\"出嫁的女儿带着材料回娘家，亲手做菜给父母吃\"，这可能是某个地方的专门叫法，和\"生見玉\"不完全一样。如果有这样一个地方名称，我不知道。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.555,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1776,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0238096,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 464,
+      "provider": "firstParty",
+      "thinkingTokens": 275,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-54",
+  "raw": "jsonl/0_prime/msqa-JA-54.jsonl",
+  "reported_cost_usd": 0.0238096,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1776,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1776,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1776,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1776,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 464,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 464,
+    "output_tokens_details": {
+      "thinking_tokens": 275
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

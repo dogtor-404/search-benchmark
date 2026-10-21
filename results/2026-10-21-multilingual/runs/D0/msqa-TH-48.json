@@ -1,0 +1,62 @@
+{
+  "answer": "这是兰纳（清迈）妇女的传统披巾习俗：那块布叫 **สไบ**（sabai，披肩布），斜披在一侧肩上（**ห่มเฉวียงบ่า**）、布尾垂在背后，用来代替上衣。按当地传统，这被视为正经得体的穿着（**ถือว่าแต่งกายเรียบร้อย / เป็นการห่มสไบตามจารีต**），不算衣冠不整。\n\n如果问的是这个动作的名称，那就是 **ห่มสไบ**（或 **ห่มเฉวียงบ่า**）。至于出处原文具体把它归为哪个名目（比如是否另有一个专门说法），我没有把握，只能确定到这一层。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 19.205,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06946000000000001,
+      "inputTokens": 2020,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3069,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-48",
+  "raw": "jsonl/D0/msqa-TH-48.jsonl",
+  "reported_cost_usd": 0.06946000000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2020,
+    "iterations": [],
+    "output_tokens": 3069,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

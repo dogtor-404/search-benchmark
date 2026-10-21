@@ -1,0 +1,74 @@
+{
+  "answer": "李滉（이황，退溪）在 **1528 年（中宗 23 年，28 岁）**通过进士试的会试（진사 회시）。据我记忆，他前一年（1527 年）先在庆尚道乡试中取得资格，之后才考中会试。再往后，他在 1534 年（中宗 29 年）文科及第，这个年份我比较有把握。\n\n进士会试的具体名次和月份我记不清，不敢确定。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.068,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1752,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0126488,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 548,
+      "provider": "firstParty",
+      "thinkingTokens": 397,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-73",
+  "raw": "jsonl/0/msqa-KO-73.jsonl",
+  "reported_cost_usd": 0.0126488,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1752,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1752,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1752,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1752,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 548,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 548,
+    "output_tokens_details": {
+      "thinking_tokens": 397
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

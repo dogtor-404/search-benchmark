@@ -1,0 +1,223 @@
+{
+  "answer": "**วัดวชิรธรรมสาธิตวรวิหาร** (Wat Wachiratham Sathit Worawihan) แขวงบางจาก เขตพระโขนง กรุงเทพฯ — เป็นวัดที่ประชาชนทั่วไปเรียกกันว่าเป็นวัดประจำรัชกาลที่ 10 (อย่างไม่เป็นทางการ) เพราะรัชกาลที่ 9 ทรงโปรดเกล้าฯ ให้สมเด็จพระเจ้าลูกยาเธอ เจ้าฟ้าวชิราลงกรณ ทรงรับวัดนี้ไว้ในพระอุปถัมภ์เมื่อปี 2508 และพระราชทานนามวัด\n\nข้อควรระวัง: ยังไม่มีการประกาศ \"วัดประจำรัชกาลที่ 10\" อย่างเป็นทางการ สื่อส่วนหนึ่งจึงระบุว่าเป็นการคาดการณ์/เรียกกันโดยทั่วไป\n\nแหล่งอ้างอิง:\n- https://www.thaipbs.or.th/now/content/3690\n- https://www.ops.go.th/th/539-celebration-on-the-auspicious-of-his-majesty-the-king-s/documentary-honor\n- https://mgronline.com/travel/detail/9620000044990",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.199,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0885784,
+      "inputTokens": 19123,
+      "maxOutputTokens": 32000,
+      "outputTokens": 580,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-96",
+  "raw": "jsonl/D2/msqa-TH-96.jsonl",
+  "reported_cost_usd": 0.0885784,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7564,
+      "query": "วัดประจำรัชกาลที่ 10 แห่งใด",
+      "results": [
+        {
+          "date": "2026-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เที่ยววัด-ไหว้พระ-รับพร กับวัดประจำรัชกาล 10 รัชกาล | Thai PBS NOW",
+          "url": "https://www.thaipbs.or.th/now/content/3690"
+        },
+        {
+          "date": "2024-05-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“๗๒ พรรษา ธรรมราชา มหาวชิราลงกรณ” ตอนที่ ๕",
+          "url": "https://www.ops.go.th/en/539-celebration-on-the-auspicious-of-his-majesty-the-king-s/documentary-honor/10285-2024-05-16-02-52-04"
+        },
+        {
+          "date": "2024-05-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สารคดีเฉลิมพระเกียรติ",
+          "url": "https://www.ops.go.th/th/539-celebration-on-the-auspicious-of-his-majesty-the-king-s/documentary-honor"
+        },
+        {
+          "date": "2021-11-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เปิดประวัติ \"วัดประจำรัชกาล\" 1-10 แห่งราชวงศ์จักรี ศูนย์รวมจิตใจของคนไทย",
+          "url": "https://www.komchadluek.net/scoop/492115"
+        },
+        {
+          "date": "2019-05-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วิจิตรตระการตา \"วัดวชิรธรรมสาธิตวรวิหาร\" วัดในรัชกาลที่ ๑๐ - xs",
+          "url": "https://mgronline.com/travel/detail/9620000044990#1"
+        },
+        {
+          "date": "2024-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รายการสารคดีเฉลิมพระเกียรติ “๗๒ พรรษา ธรรมราชา มหาวชิราลงกรณ”",
+          "url": "https://www.royaloffice.th/14/05/2024/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5-%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%b2-ep5/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดประจำรัชกาล",
+          "url": "https://bangriang.go.th/news/detail/397163/success"
+        },
+        {
+          "date": "2020-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดวชิรธรรมสาธิตวรวิหาร วัดประจำรัชกาลที่ 10 ชมวัดสวยในกรุงเทพ",
+          "url": "https://travel.trueid.net/detail/jZ7J2waNkdVP"
+        },
+        {
+          "date": "2021-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉玛一世到十世王在位期间的专属皇家佛寺",
+          "url": "https://th.hujiang.com/new/p1351858/"
+        },
+        {
+          "date": "2019-05-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Photo Gallery วิจิตรตระการตา \"วัดวชิรธรรมสาธิตวรวิหาร\" วัดในรัชกาลที่ ๑๐",
+          "url": "https://mgronline.com/travel/photo-gallery/9620000044990"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8295,
+      "query": "วัดประจำรัชกาล รัชกาลที่ 10 วัดราชาธิวาส",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระอุโบสถแห่งนี้ ส่วนหน้าบันด้านหลังประดับกรอบหน้าบันด้วยกรอบซุ้มคดโค้ง คล้ายกับตัวล้ายอง",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/d894f2f6-1d99-4367-a706-54eab355ce3d/DR_%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95_%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5.pdf?attempt=3#93#35"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ทิศตะวันตก จรดแม่น้ำเจ้าพระยา ทิศตะวันออก จรดที่ธรณีสงฆ์ของวัด ทิศใต้ จรดคลองท่อ และท่าวาสุกรี ทิศเหนือ จรดคูคลองจากแม่น้ำเจ้าพร...",
+          "url": "http://cuir.car.chula.ac.th/dspace/bitstream/123456789/10553/1/Thitsayaporn.pdf#38#35"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดนี้ถึง 12 พรรษา (ทรงเมเวชเมื่อ พ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/7e4e3043-a006-4e4e-ae0c-255edd785e86/Fulltext.pdf?attempt=2#54#43"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในการสัญจรทางเรือ ที่สามารถเดินทางผ่านเข้า - ออกด้วยลำคลองด้านทิศเหนือออกสู่มมน้ำ",
+          "url": "http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/thapra/Akarapan_Pansamrit/Fulltext.pdf#51#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๔.  วัดบวรนิเวศวิหาร (มีพระบรมราชสรีรางคารรัชกาลที่ ๖)",
+          "url": "http://www.admincourt.go.th/ADMINCOURT/upload/webcms/DGF/DGF_211123_104902.pdf?v2#10#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระประธานก าลังพิชิตหมู่มาร แต่จิตรกรรมที่วัดราชาธิวาสฯแห่งนี้ บทบาทของพระประธานกลับเป็นเพียง",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/171cd392-2d3d-4c1a-9e62-7c59d60e95a4/fulltext.pdf?attempt=2#9#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วาสฯตั้งอยู่ทางด้านฝั่งตะวันออก และพระราชวังดุสิตนั้นไม่มีพื้นที่ที่ติดกับแม่น ้าเจ้าพระยาซึ่งใช้",
+          "url": "http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/thapra/Akarapan_Pansamrit/Fulltext.pdf#51#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ใบสถ์ของวัดราชาธิวาสวิหารได้ถูกชี้ชทำใหมใน พ",
+          "url": "https://cuir.car.chula.ac.th/xmlui/bitstream/handle/123456789/5595/Jayanin.pdf?sequence=1&isAllowed=y#26#52#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>ภาพที่ 140 ภาพแสดงต าแหน่งจิตรกรรมภายในพระอุโบสถวัดราชาธิวาส ที่มา: ผู้วิจัย</center>",
+          "url": "https://cuir2.car.chula.ac.th/bitstream/123456789/69698/1/6186706435.pdf#54#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สถาปัตยกรรมพระอุโบสถวัดราชาธิวาสวิหาร",
+          "url": "https://www.finearts.go.th/storage/contents/2023/05/detail_file/40PxhvW6Emsw8Pvk3bcICexXi5Kv7hTUjeHECFUZ.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 19123,
+    "iterations": [],
+    "output_tokens": 580,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

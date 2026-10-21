@@ -1,0 +1,74 @@
+{
+  "answer": "**维戈夫隐修院**（Выговская пустынь，又称 Выговское общежительство / Выголексинское общежительство）。\n\n1694 年，达尼拉·维库林（Данила Викулин）和安德烈·杰尼索夫（Андрей Денисов）在卡累利阿的维戈河（Выг）畔建立了这座隐修院。它是无司祭派（беспоповцы）中波莫里耶派（поморское согласие）的主要中心。1850 年代，它在尼古拉一世时期被关闭。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.061,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0206736,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 316,
+      "provider": "firstParty",
+      "thinkingTokens": 134,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-25",
+  "raw": "jsonl/0_prime/msqa-RU-25.jsonl",
+  "reported_cost_usd": 0.0206736,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 316,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 316,
+    "output_tokens_details": {
+      "thinking_tokens": 134
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

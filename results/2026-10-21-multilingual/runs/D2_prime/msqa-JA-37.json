@@ -1,0 +1,144 @@
+{
+  "answer": "答案是**天照大神（天照大御神，アマテラス）**。\n\n依据：维基百科「天照大神」条目 — https://ja.m.wikipedia.org/wiki/天照大御神 （其中写明她是日本神话中的太阳女神、高天原主神／主宰神，皇祖神）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.376,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.05901039999999999,
+      "inputTokens": 13466,
+      "maxOutputTokens": 32000,
+      "outputTokens": 233,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-37",
+  "raw": "jsonl/D2_prime/msqa-JA-37.jsonl",
+  "reported_cost_usd": 0.05901039999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6973,
+      "query": "日本神話 太陽の女神 高天原 主神 天照大神",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "さて、イザナギ・イザナミ2神(以下ギ・ミ2神と省略)は、天神の指示(コトヨサシ)により、地上に国土大八嶋及び神々を生みなす",
+          "url": "https://sitereports.nabunken.go.jp/ja/article/20193/pdf_page#12#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "もうひとつ、記は、天照大神を皇祖神には据えたが、その地位は、充分確固としたものとはなっていない",
+          "url": "https://sitereports.nabunken.go.jp/files/attach/62/62188/100976_1_%E7%A0%94%E7%A9%B6%E7%B4%80%E8%A6%81.pdf#37#14"
+        },
+        {
+          "date": "2023-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#アマテラスを祀る伊勢神宮",
+          "url": "https://www.terumojinja.com/blog/hashtags/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9%E3%82%92%E7%A5%80%E3%82%8B%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE"
+        },
+        {
+          "date": "2023-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#アマテラスの誕生と高天原の支配",
+          "url": "https://www.terumojinja.com/blog/hashtags/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9%E3%81%AE%E8%AA%95%E7%94%9F%E3%81%A8%E9%AB%98%E5%A4%A9%E5%8E%9F%E3%81%AE%E6%94%AF%E9%85%8D"
+        },
+        {
+          "date": "2005-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - 維基百科，自由的百科全書 - 天照大神",
+          "url": "https://zh.wikipedia.org/zh-tw/%E5%A4%A9%E7%85%A7%E7%9A%87%E5%A4%A7%E7%A5%9E?oldformat=true#1"
+        },
+        {
+          "date": "2024-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - Wikipedia - 天照大神",
+          "url": "https://ja.m.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E7%9A%87%E5%A4%A7%E5%BE%A1%E7%A5%9E#1"
+        },
+        {
+          "date": "2005-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E#1"
+        },
+        {
+          "date": "2026-04-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E/1715808?fromModule=lemma_starMap&lemmaFrom=lemma_relation_starMap&structureId=2a5beae450ea9f3310bd5580&structureClickId=1715808&structureItemId=9a70359246fd353e51cdea0b&lemmaIdFrom=9701563"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神_知网阅读",
+          "url": "https://mall.cnki.net/reference/searchentry.aspx;jsessionid=1878A541A35012187EC80350F2AF41A2?k=%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E"
+        },
+        {
+          "date": "2026-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神（日本神话中的太阳女神）_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E/1715808?fromtitle=%E5%A4%A9%E7%85%A7%E5%A4%A7%E5%BE%A1%E7%A5%9E&fromid=606309#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13466,
+    "iterations": [],
+    "output_tokens": 233,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

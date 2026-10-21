@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：ป้ายยา（bpai-yaa，字面意思是“涂药”或“抹药”）**\n\n原意是把药涂抹在身体上；泰国青少年把它当作俚语，用来指“极力推荐、疯狂安利”某样东西，例如商品、咖啡店、餐厅、剧集或内容，把优点讲得让人心动，使对方“中招”后忍不住去买或去试。被推荐的一方则称为“โดนป้ายยา”（被涂药、被安利）。\n\n- 释义：ชักชวน/ชักจูงให้เพื่อนอยากได้สิ่งใดสิ่งหนึ่งด้วยการแนะนำข้อดีสารพัด จนต้องซื้อตาม — https://www.wordyguru.com/a/trenddict/q/ป้ายยา\n- 词典也将其归为口语、俚语，释义为“劝说、诱导（购买商品等）”：https://th.m.wiktionary.org/wiki/ป้ายยา\n- 用法与例句（例如“ขอป้ายยาลิปแท่งนี้”“โดนป้ายยาจนได้”，并提到“ยา”是比喻让人“ติดใจ”）：https://www.lemon8-app.com/@b_b1303/7524085179086963207?region=th\n- 释义与用法补充：https://slang.in.th/term/ป้ายยา",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.69,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.09538959999999999,
+      "inputTokens": 19698,
+      "maxOutputTokens": 32000,
+      "outputTokens": 803,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-60",
+  "raw": "jsonl/D2/msqa-TH-60.jsonl",
+  "reported_cost_usd": 0.09538959999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7654,
+      "query": "ศัพท์สแลง ป้ายยา หมายถึง แนะนำ จนติดใจ",
+      "results": [
+        {
+          "date": "2025-08-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา แปลว่าอะไร? รวมความหมาย “ป้ายยา” ศัพท์วัยรุ่น + ตัวอย่างใช้จริง",
+          "url": "https://www.lemon8-app.com/@tudtuu_sudarat/7536128504904303122?region=th"
+        },
+        {
+          "date": "2025-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา คืออะไร? ความหมาย วิธีใช้ในโซเชียล + ตัวอย่างป้ายยา Gentle Colors / POM POM",
+          "url": "https://www.lemon8-app.com/@panishopab68/7544724625951932935?region=th"
+        },
+        {
+          "date": "2025-07-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา คืออะไร? แปลว่าอะไร ใช้ยังไงในโซเชียล + ตัวอย่างประโยคเข้าใจง่าย",
+          "url": "https://www.lemon8-app.com/@b_b1303/7524085179086963207?region=th"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เมื่อวานนี้คําตลกลิปนี้ไป แล้วคนคอมเมนต์พี่คําตะใช้อะไร ทําไมหน้าใส พี่คําตะ ใช้อะไรทําไมแบบไม่มีรอยสีเลย วันนี้จะมาป้ายยา คือ ม...",
+          "url": "https://fund.pkru.ac.th/storage/download/68e9236402743900015ae2c4?sector=files2025&bucket=publish_paper&ver=0&sk=7c593554ff8d641f42bf743c16db81c7#5#3"
+        },
+        {
+          "date": "2024-05-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Please show me example sentences with \"ป้ายยา\".",
+          "url": "https://hinative.com/questions/14093186"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[tutustory 图图是道] 🚨 ระวังเพจนี้แอดมิน “ป้ายยา” ดุ | ป้ายยา ภาษาจีนพูดยังไง? #tutustory #图图是道 #ภาษาจีนนอกตำรา #ใครไร้สาระเหรอไม่มี๊ #สาระบ้างไรบ้าง #สาระรึเปล่า #ไม่ได้พาดพิงจริงๆนะ",
+          "url": "https://www.blockdit.com/posts/6537ba0aef7d04ae31d5a3a3"
+        },
+        {
+          "date": "2025-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำไทย สแลง หมวด ป",
+          "url": "https://www.wordyguru.com/a/trenddict/category/alphabet/ป"
+        },
+        {
+          "date": "2024-05-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "请教我使用 \"ป้ายยา\"的例句。",
+          "url": "https://zh.hinative.com/questions/14093186"
+        },
+        {
+          "date": "2020-08-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา",
+          "url": "https://slang.in.th/term/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา - วิกิพจนานุกรม",
+          "url": "https://th.m.wiktionary.org/wiki/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8443,
+      "query": "สแลงวัยรุ่นคำว่า \"ยา\" แปลว่าแนะนำสินค้า ซีรีส์ สถานที่",
+      "results": [
+        {
+          "date": "2025-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา คืออะไร? ความหมาย วิธีใช้ในโซเชียล + ตัวอย่างป้ายยา Gentle Colors / POM POM",
+          "url": "https://www.lemon8-app.com/@panishopab68/7544724625951932935?region=th"
+        },
+        {
+          "date": "2025-07-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา คืออะไร? แปลว่าอะไร ใช้ยังไงในโซเชียล + ตัวอย่างประโยคเข้าใจง่าย",
+          "url": "https://www.lemon8-app.com/@b_b1303/7524085179086963207?region=th"
+        },
+        {
+          "date": "2025-08-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา แปลว่าอะไร? รวมความหมาย “ป้ายยา” ศัพท์วัยรุ่น + ตัวอย่างใช้จริง",
+          "url": "https://www.lemon8-app.com/@tudtuu_sudarat/7536128504904303122?region=th"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**2.1.1.9 การสื่อความหมายโดยใช้คำพังเพย** ซึ่งเป็นการใช้ถ้อยคำอุปมาที่แสดง ถึงความจริง เช่น “วันนี้โปร่ง” สื่อความว่าวันนี้ไม่ได...",
+          "url": "https://doi.nrct.go.th/admin/doc/doc_652955.pdf#53#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(1) 神马：ค าสแลงนี้เป็นค าที่เกิดจากการใช้ภาษาในโลกอินเทอร์เน็ตของวัยรุ่น จีน ที่เดิมทีจะพิมพ์แชทคุยโต้ตอบกับเพื่อนว่า 干什么 ซึ่งแปล...",
+          "url": "https://doi.nrct.go.th/admin/doc/doc_652955.pdf#53#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[tutustory 图图是道] 🚨 ระวังเพจนี้แอดมิน “ป้ายยา” ดุ | ป้ายยา ภาษาจีนพูดยังไง? #tutustory #图图是道 #ภาษาจีนนอกตำรา #ใครไร้สาระเหรอไม่มี๊ #สาระบ้างไรบ้าง #สาระรึเปล่า #ไม่ได้พาดพิงจริงๆนะ",
+          "url": "https://www.blockdit.com/posts/6537ba0aef7d04ae31d5a3a3"
+        },
+        {
+          "date": "2023-10-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา ภาษาจีนพูดยังไง? | Tutustory 图图是道",
+          "url": "https://tutustory.com/blog/zhongcao-anli-how-to-say-in-chinese/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พบว่า การใช้ค าในนิติยสารวัยรุ่นมีการใช้ค าสแลง ค าในภาษาพูด ค าทับศัพท์ ค าซ้ า ค าขยาย ค าผวน",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/179025?Resolve_DOI=10.14457/KU.the.2010.975#71#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|9. การแปรด้านสะกดคำ|รูปแบบที่เบี่ยงเบนออกไปจาก รูปเดิม หรือรูปมาตรฐานแต่ยัง มีส่วนที่บ่งบอกได้ว่าเป็นสิ่ง เดียวกันกับรูปเดิมหรื...",
+          "url": "https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=13667&context=chulaetd#36#9"
+        },
+        {
+          "date": "2020-05-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ป้ายยา หมายถึงอะไร? | WordyGuru",
+          "url": "https://www.wordyguru.com/a/trenddict/q/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 19698,
+    "iterations": [],
+    "output_tokens": 803,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

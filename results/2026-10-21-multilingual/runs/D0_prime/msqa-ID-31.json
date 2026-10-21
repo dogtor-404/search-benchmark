@@ -1,0 +1,62 @@
+{
+  "answer": "在明打威人（Suku Mentawai）的语言里，**titi** 指的就是**纹身（刺青）**——这是他们以手工敲刺方式制作的传统纹身。\n\n在明打威人的传统信仰（Arat Sabulungan，即\"萨布莱甘信仰\"）中，titi 的主要功能是：\n\n- **作为死后灵魂的\"衣服/装饰\"**：他们相信人死后，灵魂（simagre）前往亡灵之地，能带走的只有纹身；没有 titi 的灵魂会在精神世界里\"赤裸\"，不被接纳。\n- **象征人与自然的平衡**：明打威人把身体看作宇宙的缩影，纹身图案多来自自然物（植物、动物、星辰等），通过刺青建立人与自然的和谐关系。\n- **标记身份与人生阶段**：纹身也用来标记成年、部族身份、社会角色等，通常由萨满（sikerei）这类有资格的人来施行。\n\n换句话说，titi 在明打威传统文化中不是单纯的装饰，而带有明确的宗教/灵魂层面的功能：它是灵魂去往死后世界的\"衣裳\"和身份凭证。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.306,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.035768,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1380,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/D0_prime/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.035768,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 1380,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

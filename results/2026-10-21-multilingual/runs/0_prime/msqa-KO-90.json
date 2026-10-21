@@ -1,0 +1,74 @@
+{
+  "answer": "**찬자(贊者)가 빗깁니다.**\n\n依据记忆中的《朱子家礼》及朝鲜时代通行的《四礼便览》冠礼仪节：\n\n- **빈(賓，正宾/主礼者)**：负责加冠（始加、再加、三加）、念祝词、取字。\n- **찬자(贊者，赞者)**：由빈挑选的助手。将冠者在席上西向跪坐后，**찬자上前为冠者梳头（櫛），把头发拢起挽成发髻（상투）**，并为冠者戴网巾（망건）等，做加冠前的准备。\n\n《家礼》原文大意为：\"贊者即席，如其向跪，進爲之櫛，合紒施掠\"，即赞者跪于将冠者面前为其梳头、合髻。\n\n以上凭记忆作答，未能联网核对原文。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.751,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1770,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0263216,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 592,
+      "provider": "firstParty",
+      "thinkingTokens": 299,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/0_prime/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.0263216,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1770,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1770,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1770,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1770,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 592,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 592,
+    "output_tokens_details": {
+      "thinking_tokens": 299
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

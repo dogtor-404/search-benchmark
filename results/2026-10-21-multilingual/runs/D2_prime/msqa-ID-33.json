@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：Upacara Bulean**（也称 **Bulian / Belian**）。\n\n这是 Suku Talang Mamak 的传统治病仪式，由 pawang/kemantan（巫医）主持，通过接近灵界力量来治愈病人。后来被改编成舞蹈 Tari Rentak Bulian。\n\n依据的网址：\n- https://rri.co.id/pekanbaru/budaya/2334718/rentak-bulian-jejak-pengobatan-tradisional-suku-talang-mamak-riau\n- https://journal.isi-padangpanjang.ac.id/index.php/Bercadik/article/view/27\n- https://slims.kemdikbud.go.id/（Kemdikbud 图书馆资料：\"Masyarakat Talang Mamak menyebutnya Bulian\"）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.098,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 14592,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0991784,
+      "inputTokens": 20130,
+      "maxOutputTokens": 32000,
+      "outputTokens": 787,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-33",
+  "raw": "jsonl/D2_prime/msqa-ID-33.jsonl",
+  "reported_cost_usd": 0.0991784,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7179,
+      "query": "Suku Talang Mamak upacara pengobatan penyakit",
+      "results": [
+        {
+          "date": "2026-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rentak Bulian, Jejak Pengobatan Tradisional Suku Talang Mamak Riau - RRI.co.id - Rentak Bulian, Jejak Pengobatan Tradisional Suku Talang Mamak Riau",
+          "url": "https://rri.co.id/pekanbaru/budaya/2334718/rentak-bulian-jejak-pengobatan-tradisional-suku-talang-mamak-riau#1"
+        },
+        {
+          "date": "2026-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tari Rentak Bulian: Ritual dan Warisan Suku Talang Mamak - RRI.co.id",
+          "url": "https://gayahidup.rri.co.id/bukittinggi/budaya/2190704/privacy.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "RITUAL PENGOBATAN BONGLAI KUNING DI TALANG PERIGI INDRAGIRI HULU",
+          "url": "https://journal.uir.ac.id/index.php/koba/article/download/1336/837#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "JURNAL",
+          "url": "http://journal.isi-padangpanjang.ac.id/index.php/Bercadik/article/download/27/15#4#1"
+        },
+        {
+          "date": "2017-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/2581927"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Setelah batin selesai dengan upacaranya, maka ia akan menilik para penari perempuan di sekitar bulian",
+          "url": "http://journal.isi-padangpanjang.ac.id/index.php/Garak/article/download/3743/1388#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ABSTRAK",
+          "url": "http://repository.isi-padangpanjang.ac.id/1728/1/ABSTRAK%20%26%20DAFTAR%20ISI.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Portal Perpustakaan",
+          "url": "https://slims.kemdikbud.go.id/?subject_s=%22Kepercayaan%22+%22Masyarakat+Adat%22+%22Nilai+Budaya%22+&library_s=%22Perpustakaan+Kemdikbudristek%22&collection_s=%22Repositori%22&start=3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "227",
+          "url": "http://repository.uin-suska.ac.id/10394/1/Syiar%20Islam%20dalam%20Masyarakat%20Talang%20Mamak.pdf#37#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "awalnya tari telintin di pergunakan sebagai upacara-upacara tertentu saja, tetapi",
+          "url": "https://repository.uir.ac.id/13313/1/176710329.pdf#9#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6971,
+      "query": "upacara Bulean pengobatan Suku Talang Mamak",
+      "results": [
+        {
+          "date": "2026-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tari Rentak Bulian: Ritual dan Warisan Suku Talang Mamak - RRI.co.id",
+          "url": "https://gayahidup.rri.co.id/bukittinggi/budaya/2190704/privacy.html"
+        },
+        {
+          "date": "2026-04-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rentak Bulian, Jejak Pengobatan Tradisional Suku Talang Mamak Riau - RRI.co.id - Rentak Bulian, Jejak Pengobatan Tradisional Suku Talang Mamak Riau",
+          "url": "https://rri.co.id/pekanbaru/budaya/2334718/rentak-bulian-jejak-pengobatan-tradisional-suku-talang-mamak-riau#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/448931?page=1&jid=7574&jname=bercadik"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Portal Perpustakaan",
+          "url": "https://slims.kemdikbud.go.id/?subject_s=%22Warisan+budaya%22+%22Masyarakat+Adat%22+%22Nilai+Budaya%22+&creator_s=%22KH%2C+Armawi%22&institution_s=%22Kementerian+Pendidikan%2C+Kebudayaan%2C+Riset+dan+Teknologi%22&library_s=%22Perpustakaan+Kemdikbudristek%22+&sub_sess=remove"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "JURNAL",
+          "url": "http://journal.isi-padangpanjang.ac.id/index.php/Bercadik/article/download/27/15#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Setelah batin selesai dengan upacaranya, maka ia akan menilik para penari perempuan di sekitar bulian",
+          "url": "http://journal.isi-padangpanjang.ac.id/index.php/Garak/article/download/3743/1388#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Masyarakat Melayu Petalangan Talang Mamak mempunyai keyakinan bahwa hidup manusia selalu diancam bahaya jasmani maupun rohani",
+          "url": "http://journal.isi-padangpanjang.ac.id/index.php/Garak/article/download/3743/1388#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB V",
+          "url": "https://digilib.unimed.ac.id/id/eprint/57617/10/13.%20NIM%202161141026%20CHAPTER%20V.pdf#1#1#1"
+        },
+        {
+          "date": "2023-06-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MEMBACA TARI RENTAK BULIAN PADA SUKU TALANG MAMAK Perspektif Sosiologis",
+          "url": "https://ejournal.uin-suska.ac.id/index.php/nusantara/article/view/24577/0"
+        },
+        {
+          "date": "2017-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TRANSFORMASI UPACARA BULEAN SUKU TALANG MAMAK MENJADI TARI RENTAK BULEAN PADA MASYARAKAT INDERAGIRI HULU PROVINSI RIAU",
+          "url": "https://journal.isi-padangpanjang.ac.id/index.php/Bercadik/article/view/27"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14592,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 20130,
+    "iterations": [],
+    "output_tokens": 787,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

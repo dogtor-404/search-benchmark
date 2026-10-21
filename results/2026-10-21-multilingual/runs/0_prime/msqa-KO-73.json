@@ -1,0 +1,74 @@
+{
+  "answer": "1528 年（朝鲜中宗二十三年），李滉（退溪）28 岁时考中进士会试，名次是第二等。\n\n前一年（1527 年）他在庆尚道乡试中考过了进士试和生员试的初试。文科及第是 1534 年的事。\n\n这是我凭记忆答的，没有上网核对。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.517,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1748,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0211256,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 341,
+      "provider": "firstParty",
+      "thinkingTokens": 227,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-73",
+  "raw": "jsonl/0_prime/msqa-KO-73.jsonl",
+  "reported_cost_usd": 0.0211256,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1748,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1748,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1748,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1748,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 341,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 341,
+    "output_tokens_details": {
+      "thinking_tokens": 227
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "answer": "**คำตอบ:** บายศรีอีสาน 3 ประเภท คือ **พาขวัญ**, **พาบายศรี** และ **หมากเบ็ง** (ขันหมากเบ็ง)\n\nผมยืนยันแต่ละรายการแยกตามแหล่งไม่ได้ เพราะเครื่องมือค้นหาให้มาเป็นสรุปรวมของหลายหน้า ไม่ได้บอกว่าแต่ละหน้าเขียนว่าอะไร และในสรุปนั้นมีแหล่งหนึ่งที่ข้อความถูกตัดไว้ตรงคำว่า \"หมา…\" ส่วนชื่อ \"หมากเบ็ง\" ต่อท้ายมาจากแหล่งอื่น ผมยังไม่ได้เปิดหน้าใดยืนยันตรง ๆ ที่น่าจะเป็นต้นทางมากที่สุดคือหน้าวิกิพีเดียด้านล่าง\n\nถ้าเป็นกลุ่มอีสานเชื้อสายเขมร จะเรียกว่า \"บายแสร็ย\" และแบ่งเป็น 3 ประเภทต่างออกไป คือ บายแสร็ยเดิม (บายศรีต้น), บายแสร็ยเถียะ (บายศรีถาด) และบายแสร็ยจาน (บายศรีปากชาม)\n\nใช้ไป 2 จากที่ให้ได้ 5 ครั้ง\n\nแหล่งที่มา:\n- [พิธีบายศรีสู่ขวัญ - วิกิพีเดีย](https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D)\n- [บายศรีสู่ขวัญ : ประเพณีที่อยู่เคียงคู่แดนดินถิ่นอีสาน - gotoknow](https://www.gotoknow.org/posts/375800)\n- [ศรี ศรี บายศรีสู่ขวัญ - Esanpedia](https://www.esanpedia.oar.ubu.ac.th/esaninfo/?p=6655)\n- [พิธีบายศรีสู่ขวัญ - IsanGate](https://www.isangate.com/www/song-word.html?view=article&id=350%3Abaisri-sukwan&catid=33%3Asukwan)\n- [Sanook - พิธีบายศรีสู่ขวัญ](https://www.sanook.com/horoscope/131393/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 35.708,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023639600000000004,
+      "inputTokens": 23606,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2558,
+      "provider": "firstParty",
+      "thinkingTokens": 524,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5573,
+      "cacheReadInputTokens": 12454,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0763588,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1463,
+      "provider": "firstParty",
+      "thinkingTokens": 207,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-77",
+  "raw": "jsonl/A_prime/msqa-TH-77.jsonl",
+  "reported_cost_usd": 0.09999840000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "บายศรีสู่ขวัญ ภาคอีสาน แบ่งออกเป็น 3 ประเภท",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011E3S9Qx13NgrbsMbq7QT5p"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "ภาคอีสาน แยกบายศรี 3 ประเภท พาขวัญ บายศรีสู่ขวัญ ประกอบด้วย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EQ13kJtpEP4CvRxVZmcjFz"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5573,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5573,
+    "cache_read_input_tokens": 12454,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2360,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2360,
+        "cache_read_input_tokens": 5664,
+        "input_tokens": 2,
+        "output_tokens": 1048,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1463,
+    "output_tokens_details": {
+      "thinking_tokens": 207
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

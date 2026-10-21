@@ -1,0 +1,156 @@
+{
+  "answer": "**Respuesta corta:** La encomienda no nació en España como sistema colonial. En la España medieval (Castilla y Aragón) surgió en el seno de las órdenes militares, como Santiago, Calatrava, Alcántara y Montesa. Un comendador, nombrado por el maestre de la orden, recibía territorios, rentas o beneficios para protegerlos y defenderlos a cambio de servicios. Se desarrolló sobre todo durante la Reconquista, para organizar y repoblar los territorios ganados a los musulmanes. Su remoto antecedente es el *patrocinium* romano.\n\nLa versión americana, aplicada a los indígenas, se estableció después en La Española (las Antillas). Allí fue institucionalizada por Nicolás de Ovando a partir de 1503–1505.\n\n**Fuentes:**\n- https://es.m.wikipedia.org/wiki/Encomienda\n- https://archive.org/download/documentosparala01figu/documentosparala01figu.pdf (sobre el origen romano y medieval)\n\nHice una sola búsqueda. Si por \"originalmente en España\" te referías a una región concreta, los resultados no la precisan más allá de Castilla y Aragón.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.21,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 17847,
+      "cacheReadInputTokens": 5848,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0769908,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 501,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-56",
+  "raw": "jsonl/B/msqa-ES-56.jsonl",
+  "reported_cost_usd": 0.0769908,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7036,
+      "query": "¿Dónde se estableció originalmente el sistema de encomienda en España? origen de la encomienda",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La encomienda tiene su remoto origen en el patrocinium romano; se vincula con la institución medieval del « señorío », que, en C...",
+          "url": "https://archive.org/download/documentosparala01figu/documentosparala01figu.pdf#77#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**ENCOMIENDAS DE NATIVOS AMERICANOS EN EL ARCHIVO GENERAL DE INDIAS**",
+          "url": "https://www.cultura.gob.es/eu/dam/jcr:fc6ceb97-bf96-457f-9ad7-90c7fbb9833e/encomiendas-maqueta-compressed.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Concesiones y Confirmaciones de Encomiendas en el Archivo General de Indias",
+          "url": "https://www.cultura.gob.es/eu/cultura/areas/archivos/mc/archivos/agi/consultas/profesionales/encomiendas.html"
+        },
+        {
+          "date": "2024-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Wikipedia, la enciclopedia libre - Encomienda",
+          "url": "https://es.m.wikipedia.org/wiki/Encomienda#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "hisn'is  (hisney)",
+          "url": "https://bibliotecadigital.jcyl.es/%20es/catalogo_imagenes/grupo.do?path=10630528#78#1"
+        },
+        {
+          "date": "2026-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Enciclopedia - Treccani",
+          "url": "https://www.treccani.it/enciclopedia/encomienda/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "cada reino podía reclamar al otro, con una línea de polo a polo situada 100 leguas al oeste de las Azores",
+          "url": "https://www.archive.org/download/LIBROLAREGIONDELALTOBENIENLAHISTORIADELOSMOSETENES/LIBRO%20LA%20REGION%20DEL%20ALTO%20BENI%20EN%20LA%20HISTORIA%20DE%20LOS%20MOSETENES.pdf#36#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El origen de la encomienda se remonta a Cristóbal Colón, quien la introduce en las Antillas como mano de obra —y también le da i...",
+          "url": "http://repositorio.uca.edu.sv/jspui/bitstream/11674/2337/1/El%20compadrazo.%20una%20estructura%20de%20poder%20en%20El%20Salvador.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "HISTORICA Vol",
+          "url": "https://revistas.pucp.edu.pe/index.php/historica/article/download/8006/8297/#7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "De aquellas instituciones, la más importante y conocida es la encomienda que apare- ce al tiempo que se inicia la carrera coloni...",
+          "url": "https://www.cervantesvirtual.com/descargaPdf/la-colonizacion-del-peru--una-perspectiva-espanola/#8#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 17847,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 17847,
+    "cache_read_input_tokens": 5848,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16007,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16007,
+        "cache_read_input_tokens": 3844,
+        "input_tokens": 2,
+        "output_tokens": 412,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 501,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

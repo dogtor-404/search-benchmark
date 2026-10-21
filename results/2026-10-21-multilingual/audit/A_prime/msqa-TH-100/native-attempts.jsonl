@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "วรรณคดีไทยประเภทฉันท์เรื่องแรก", "results": [], "status": "allowed", "tool_use_id": "toolu_01GurPhaVwwBSK67ac97mToz"}
+{"billable": false, "call": 2, "query": "\"ฉันท์เรื่องแรก\" ของไทย คำฉันท์", "results": [], "status": "allowed", "tool_use_id": "toolu_01L6JZLYphUPxYSnoCkDYT5M"}
+{"billable": false, "call": 3, "query": "คำฉันท์เรื่องแรกของไทย สมุทรโฆษคำฉันท์ เสือโคคำฉันท์", "results": [], "status": "allowed", "tool_use_id": "toolu_018QcrXH4a6qYn5KLBZKxVAA"}
+{"billable": false, "call": 4, "query": "เสือโคคำฉันท์ ฉันท์เรื่องแรกของไทย พระมหาราชครู", "results": [], "status": "allowed", "tool_use_id": "toolu_01LeoiFPV2o8U5ETLuRR6jwM"}
+{"billable": false, "call": 5, "query": "วรรณคดีประเภทฉันท์เรื่องแรกของไทย คือ", "results": [], "status": "allowed", "tool_use_id": "toolu_01AMYS9gWnGxJQryrfhYPck4"}

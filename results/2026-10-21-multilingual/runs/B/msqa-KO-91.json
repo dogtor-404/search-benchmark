@@ -1,0 +1,156 @@
+{
+  "answer": "**답: 늑백(勒帛)**을 띠고, 한국 연구에서는 **세조대(細條帶)**도 함께 언급합니다.\n\n- 『주자가례』와 『사례편람』은 관례 전 동자복을 이렇게 적습니다. \"將冠者 雙紒 四揆衫 勒帛 采履\". 즉 사규삼 위에 늑백(허리에 두르는 띠)을 맨다는 뜻입니다. 근거: 성신여대 논문 「儀禮服飾 再現」 https://repository.sungshin.ac.kr/bitstream/2025.oak/5010/2/%ef%a6%b6%e6%9b%b8%ec%97%90%20%20%eb%82%98%ed%83%80%eb%82%9c%20%e5%84%80%e7%a6%ae%e6%9c%8d%e9%a3%be%20%e5%86%8d%e7%8f%be.pdf\n- 같은 논문은 사규삼에 \"세조대를 띠고 복건을 썼다\"고도 씁니다. 근거 주소는 위와 같습니다.\n- 참고로 대대(大帶)와 조(條)는 사규삼이 아니라 그 뒤 초가에서 입는 심의에 매는 띠입니다. 근거: 한국전통지식포탈 https://koreantk.com/ktkp2014/life/life-view.view?artNo=0010201000617&tempLang=ko\n\n문헌상 정식 명칭은 늑백입니다. 질문이 한 단어를 요구한다면 \"늑백\"이 가장 근거가 분명합니다. 현대 복식 논문에서 흔히 쓰는 말은 \"세조대\"입니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.875,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13130,
+      "cacheReadInputTokens": 5868,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0610448,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 793,
+      "provider": "firstParty",
+      "thinkingTokens": 129,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-91",
+  "raw": "jsonl/B/msqa-KO-91.jsonl",
+  "reported_cost_usd": 0.0610448,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6847,
+      "query": "사규삼 관례 띠 고정 대대 조대",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『가례등록』에 기록된 관례 절차는 『사례편람』과 같으나 부마의 복식에 관련된 기록은 다르다",
+          "url": "https://ascf.amorepacific.co.kr/s3/hashDownload.do?hash_file_key=gtHKaK9qA2D9DPn_HcFWNw#17#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『사례편람』에 초출복으로 사규삼, 초가복으로 심의, 재가복으로 조삼 혹 은 청 도포, 삼가복으로 난삼을 입는다 하였고 여자 계례복 으로는 배자를 입는다 하였다",
+          "url": "https://repository.sungshin.ac.kr/bitstream/2025.oak/5010/2/%ef%a6%b6%e6%9b%b8%ec%97%90%20%20%eb%82%98%ed%83%80%eb%82%9c%20%e5%84%80%e7%a6%ae%e6%9c%8d%e9%a3%be%20%e5%86%8d%e7%8f%be.pdf#12#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "본 연구에서는 판례전의 복식인 초출복을 살펴보고, 판례복으로 성인이 되어가는 과정을 나타내는 초가·재가·삼가 복식을 살펴보도록 하겠다",
+          "url": "https://repository.sungshin.ac.kr/bitstream/2025.oak/5010/2/%ef%a6%b6%e6%9b%b8%ec%97%90%20%20%eb%82%98%ed%83%80%eb%82%9c%20%e5%84%80%e7%a6%ae%e6%9c%8d%e9%a3%be%20%e5%86%8d%e7%8f%be.pdf#12#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>【그림 13】 사규삼",
+          "url": "https://cha.go.kr/cmm/fms/BoardFileDown.do;jsessionid=DbORNPBeLyEIL2tS1T1gPhMDj8UUAwoXtfxsTkJldxdJIHUtvO0Kyj1656fovuz7.cha-was01_servlet_engine1?atchFileId=FILE_000000000046901&fileSn=0&dwldHistYn=N&bbsId=BBSMSTR_1019#14#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "-  길ㆍ소매 : 분흥 속고사(원형수자문ㆍ호로문 별문숙사, 19세기 말∼20세기 전기",
+          "url": "https://cha.go.kr/cmm/fms/BoardFileDown.do?atchFileId=FILE_000000000047059&bbsId=BBSMSTR_1019&dwldHistYn=N&fileSn=1#13#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "고 있으며, 도포와 유건을 사용했다",
+          "url": "http://koreascience.or.kr/article/JAKO201312061567626.pdf#6#4"
+        },
+        {
+          "date": "2008-11-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리 민족의 복장-관례복--홈",
+          "url": "https://hljxinwen.dbw.cn/system/2008/11/26/000090869.shtml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례복 [한국전통지식포탈-생활기술]",
+          "url": "https://koreantk.com/ktkp2014/life/life-view.view?artNo=0010201000617&tempLang=ko"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "두 후색으로 선 위에 금박법을 사용하여 길상도안과 길상문양",
+          "url": "http://clothing.or.kr/pdf_files/pdf_file/9-3%ec%9d%b4%ec%88%98%ed%98%9c,%ec%9d%b4%ec%9e%90%ec%97%b0.pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. 사규삼 : 소재는 원형안에 수(壽)자 문양이 배치된 수원문과 호로문이 시문된 분 홍색 숙고사 홀겹이다",
+          "url": "https://cha.go.kr/cmm/fms/BoardFileDown.do;jsessionid=DbORNPBeLyEIL2tS1T1gPhMDj8UUAwoXtfxsTkJldxdJIHUtvO0Kyj1656fovuz7.cha-was01_servlet_engine1?atchFileId=FILE_000000000046901&fileSn=0&dwldHistYn=N&bbsId=BBSMSTR_1019#14#11"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13130,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13130,
+    "cache_read_input_tokens": 5868,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11270,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11270,
+        "cache_read_input_tokens": 3864,
+        "input_tokens": 2,
+        "output_tokens": 589,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 793,
+    "output_tokens_details": {
+      "thinking_tokens": 129
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

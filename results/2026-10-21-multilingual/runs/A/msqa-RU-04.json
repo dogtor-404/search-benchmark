@@ -1,0 +1,127 @@
+{
+  "answer": "Первый съезд тверских земских врачей открылся **в Твери 7 июня 1871 года**. Дата у меня не вполне надёжная: один источник пишет «7 июня», а в другом выражение читается как «2 7 июня 1871 г.», похоже на опечатку. Ещё один источник, судя по сводке поиска, называет 7 июля. Страницу с датой целиком я не открывал, так что за «июнь» ручаюсь не полностью.\n\nТочно известно следующее:\n- Это был первый съезд земских врачей в России.\n- На нём было 22 врача, он шёл три дня.\n- Идея принадлежала Н. М. Павлову, старшему врачу губернской земской больницы.\n\nЧто тверской съезд стал образцом для других губерний, источники прямо не говорят. Они только подтверждают, что он был первым в стране.\n\nSources:\n- [145 лет назад состоялось открытие Первого съезда тверских земских врачей](http://gbuz-okb-tver.ru/news/145-let-nazad-sostoyalos-otkrytie-pervogo-s-ezda-tverskih-zemskih-vrachey)\n- [К истории земской медицины (elib.tverlib.ru)](https://elib.tverlib.ru/k_stanovleniyu_tverskoy_zemskoy_mediciny)\n- [Тверская губернская земская больница](http://xn----9sbemvxtn7g.xn--p1ai/struktura/muzey-istorii-meditsiny/history-subject/Tverskaya-gubernskaya-zemskaya-bolnitsa)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 37.222,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0465475,
+      "inputTokens": 47320,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3631,
+      "provider": "firstParty",
+      "thinkingTokens": 1205,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7736,
+      "cacheReadInputTokens": 27766,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0444706,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1073,
+      "provider": "firstParty",
+      "thinkingTokens": 50,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-04",
+  "raw": "jsonl/A/msqa-RU-04.jsonl",
+  "reported_cost_usd": 0.0910181,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "первый съезд тверских земских врачей открылся в Твери образец для врачебных съездов других губерний",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KabZ8wwdXd5XxcBZpxecnb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "первый съезд земских врачей Тверской губернии 1871 открылся числа Тверь Калязин? дата открытия съезда",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014UVEU3q8puoFZFC3yuNPWH"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "съезд тверских земских врачей 1871 Тверь \"открылся\" Овсянников Пастухов Корсаков первый врачебный съезд образец",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012Ki4o8aPMDBkLRewKfTF4u"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "145 лет назад состоялось открытие Первого съезда тверских земских врачей",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TwTHwFRHZi1bV2Cjcyxptb"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7736,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7736,
+    "cache_read_input_tokens": 27766,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1605,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1605,
+        "cache_read_input_tokens": 8582,
+        "input_tokens": 2,
+        "output_tokens": 542,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1073,
+    "output_tokens_details": {
+      "thinking_tokens": 50
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

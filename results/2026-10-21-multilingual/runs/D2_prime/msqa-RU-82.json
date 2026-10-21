@@ -1,0 +1,144 @@
+{
+  "answer": "**Волок Ламский**（也写作「Волок на Ламе」/「Ламьский волок」，即后来的 Волоколамск）。\n\n城市即今莫斯科州的**沃洛科拉姆斯克**，因地处拉马河（Лама，伏尔加水系）与莫斯科河支流之间拖船（волок）的陆上通道而得名。劳伦季编年史 1135 年首次记为「Волок」，1178 年记为「Ламьский волок」，后来固定为「Волок Ламский」。\n\n依据网址：\n- https://old.bigenc.ru/pdf/5700398 （《Большая российская энциклопедия》\"Волоколамск\"：1135 年记作 Волок，后为 Волок на Ламе、Волок (Ламский)）\n- https://geo_toponims.academic.ru/1222/ （Поспелов《Географические названия》：1135 年「Волок」，1178 年「Ламьский волок」，后为「Волок Ламьский」→ Волоколамск）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.798,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2688,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0505376,
+      "inputTokens": 9030,
+      "maxOutputTokens": 32000,
+      "outputTokens": 694,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-82",
+  "raw": "jsonl/D2_prime/msqa-RU-82.jsonl",
+  "reported_cost_usd": 0.0505376,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7337,
+      "query": "Волоколамск летописи старое название Волок Ламский волок между Волгой и западными реками",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВОЛОКОЛАМСК",
+          "url": "https://old.bigenc.ru/pdf/5700398#1#1#1"
+        },
+        {
+          "date": "2024-05-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "22 мая 2024 года: Город воинской славы – Волоколамск!",
+          "url": "https://rosavtotransport.ru/ru/press/news/2024/05/22/news_1774.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волоколамск | это... Что такое Волоколамск?",
+          "url": "https://geo_toponims.academic.ru/1222/%D0%92%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%BC%D1%81%D0%BA"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волоколамский городской округ",
+          "url": "https://petrovskij-r64.gosweb.gosuslugi.ru/o-munitsipalnom-rayone/pobratimy/volokolamskiy-gorodskoy-okrug/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "знакомый с местными преданиями, рассказывает одну из легенд об основании города",
+          "url": "http://www.spbiiran.nw.ru/wp-content/uploads/2015/05/1961.V.10.pdf#63#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Поскольку печати скрепляли грамоты, связанные с поземельными отношениями и судопроизводством, их можно интерпретировать как свид...",
+          "url": "https://www.iriran.ru/sites/default/files/2022-07/Nazarenko_2019.pdf#151#129"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Историческая справка о Волоколамске",
+          "url": "https://volok-grad.ru/index.php?option=com_content&view=article&id=11&Itemid=13"
+        },
+        {
+          "date": "2025-11-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волоколамск: город воинской славы - 15.11.2025",
+          "url": "https://xn--c1anggbdpdf.xn--p1ai/travel/244145/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "История",
+          "url": "https://volok-grad.ru/gorodskoe-poselenie/istoriya"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(1359) четвертой частью коломенской тампи[14]",
+          "url": "https://www.iriran.ru/sites/default/files/2022-07/Nazarenko_2019.pdf#151#130"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2688,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9030,
+    "iterations": [],
+    "output_tokens": 694,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

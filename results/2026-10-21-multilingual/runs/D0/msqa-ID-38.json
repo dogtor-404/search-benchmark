@@ -1,0 +1,62 @@
+{
+  "answer": "我不能上网，只能凭已有知识回答，所以对这个具体答案不是百分之百确定。\n\n- 中性的说法：**“Jokowers”**（乔科维的粉丝/支持者），也有 **“Jokowi Mania”**（简称 **Joman**）和志愿者组织 **“Projo”**（Pro-Jokowi）。\n- 如果问的是网络上的**贬义绰号**，最常见的是 **“cebong”**（蝌蚪），用来指乔科维的支持者；与之相对的是 **“kadrun”**，用来指反对阵营的伊斯兰保守派支持者。\n\n如果题目只有一个标准答案，我猜更可能是 **“cebong”**，但这只是推测，不敢确定。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.896,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.025008,
+      "inputTokens": 1972,
+      "maxOutputTokens": 32000,
+      "outputTokens": 856,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-38",
+  "raw": "jsonl/D0/msqa-ID-38.jsonl",
+  "reported_cost_usd": 0.025008,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1972,
+    "iterations": [],
+    "output_tokens": 856,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "answer": "**答案：Suku Kubu（Suku Anak Dalam / Orang Rimba）用传统工具「tero」捕捉软壳龟（labi-labi），tero 是一种类似标枪/鱼叉（tombak/kujur）的尖头长矛。**\n\n依据：印尼茂物农业大学（IPB）对 Bukit Duabelas 国家公园 Suku Anak Dalam 的研究明确指出，\"SAD 捕猎 labi-labi 时采用传统技法使用 tero（占 69%）\"。另有资料提到他们用「tombak」（长矛/标枪）寻找 biawak、kura-kura 和蛇。\n\n来源网址：\n- https://repository.ipb.ac.id/handle/123456789/121422 （Tsabita & Santosa, 2023，Studi Perburuan dan Pemanfaatan Labi-labi oleh Suku Anak Dalam）\n- https://repository.uinsaizu.ac.id/18667/1/skripsi%20saifullah.pdf （提到 tombak 用于捕捉 kura-kura）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 20.633,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 33024,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1367768,
+      "inputTokens": 25483,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1412,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-32",
+  "raw": "jsonl/D2_prime/msqa-ID-32.jsonl",
+  "reported_cost_usd": 0.1367768,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7451,
+      "query": "Suku Kubu alat tradisional menangkap kura-kura",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_merata sepanjang tahun serta aliran Sungai_",
+          "url": "https://ojs.unud.ac.id/index.php/blje/article/download/98/81#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebagai suatu kelompok suku bangsa, Orang Kubu atau Orang Rimba memiliki kebudayaan tersendiri",
+          "url": "https://files.osf.io/v1/resources/6vuw3/providers/osfstorage/5c4c115f0d1c9e00194b5359?action=download&direct&version=1#page=37#111#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "budi daya di lahan rawa, dengan membuat saluran-saluran (sebagai",
+          "url": "https://indonesia.wetlands.org/download/1279?tmstv=1718071008#39#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam yang disebut juga Orang Kubu",
+          "url": "https://repository.unp.ac.id/id/eprint/8654/1/B1_3_REKA_PERMATASARI_16180_126_2015.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam merupakan bagian dari kelompok",
+          "url": "http://repository.umi.ac.id/1345/1/BUKU%20ANTROPOLOGI%20SOS%20KES-1.pdf#24#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kepercayaan-kepercayaan tradisional sering diakulturasikan dengan ajaran",
+          "url": "https://journals.mindamas.com/index.php/sosiohumanika/article/download/454/452#36#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Kubu disebut juga Suku Anak Dalam atau Orang Rimba",
+          "url": "https://repository.unp.ac.id/id/eprint/7731/1/B1_2_SRI_YUNI_UTAMI_83541_1762_2012.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Kubu and the Outside World 511",
+          "url": "https://www.digi-hub.de/viewer/api/v1/records/1513673764894/files/images/00000525.tif/full.pdf?divID=LOG_0003#1#1"
+        },
+        {
+          "date": "2024-02-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bikin Kagum, Ternyata Ini Sejarah Suku Kubu di Indonesia",
+          "url": "https://pagaralampos.bacakoran.co/read/1977/bikin-kagum-ternyata-ini-sejarah-suku-kubu-di-indonesia/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kubus",
+          "url": "https://web.archive.org/web/20060913000000/http://en.wikipedia.org/wiki/Kubus"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6988,
+      "query": "Orang Rimba alat menangkap labi-labi kura-kura tangguk",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ketika hewan buruan melintas, penutup lubang akan runtuh sehingga hewan tersebut terperangkap di dalamnya",
+          "url": "https://warsi.or.id/wp-content/uploads/2026/09/Ensiklopedia-Orang-Rimba.pdf#27#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Nasional Berbak, Provinsi Jambi (Lubis, 2014)",
+          "url": "http://perhimpunanherpetologi.com/wp-content/uploads/2019/02/2015_Juli_Warta-Hepetofauna.pdf#8#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bilah-bilah dinding dibuat dari belahan-belahan bambu, panjang 83 cm, diikat secara tersusun pada sanglo yang terbiat dari rotan...",
+          "url": "https://repositori.kemdikbud.go.id/29801/1/KATALOG%20ALAT%20BERBURU%20DAN%20MENANGKAP%20IKAN%20PROPINSI%20SUMUT.pdf#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "IRD Multimedia",
+          "url": "https://multimedia.ird.fr/IRD/media/99390"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KARAKTERISTIK ALAT TANGKAP LABI-LABI (Amyda cartilaginea) DI SUNGAI KAHALA KABUPATEN KUTAI KARTANEGARA KALIMANTAN TIMUR",
+          "url": "http://ejournal-balitbang.kkp.go.id/index.php/btl/article/download/1162/1073#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "lembaga-lembaga sosial lainnya mereka selalu membuat hasil dari bantuan tersebut secara merata",
+          "url": "https://jurnal.alimspublishing.co.id/index.php/JISE/article/download/682/511/1962#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Orang Rimba spring pole snare traps",
+          "url": "https://bushguide101.com/tag/trapping/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lukah yang kecil dan biasanya tanpa handut dinamakan tangkalak",
+          "url": "https://snllb.ulm.ac.id/prosiding/index.php/snllb-lit/article/download/713/720#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/392695?page=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "umpan berupa dedaunan dibagian ujung kalak unak, ketika ikan masuk dan memakan umpan maka ikan tersebut tidak dapat keluar lagi ...",
+          "url": "https://jurnal.untan.ac.id/index.php/jpdpb/article/download/42429/75676586959#3#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7472,
+      "query": "Suku Anak Dalam menangkap kura-kura labi-labi alat",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sendiri namun bahannya dibeli di pasar dan dari penandah",
+          "url": "http://repo.unand.ac.id/21940/3/Prosiding%20BioETI%203%20-%202015%20%28Buku%202%29.pdf#109#54"
+        },
+        {
+          "date": "2023-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Studi Perburuan dan Pemanfaatan Labi-labi (Amyda cartilaginea) oleh Suku Anak Dalam di Taman Nasional Bukit Duabelas",
+          "url": "https://repository.ipb.ac.id/handle/123456789/121422?show=full"
+        },
+        {
+          "date": "2015-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Udara Tidak Sehat, Sekolah Diliburkan",
+          "url": "https://www.bungokab.go.id/post/read/857.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NILAI – NILAI KEARIFAN LOKAL SUKU ANAK DALAM (SAD) DALAM PEMANFAATAN HEWAN DIBUKIT DUA BELAS PROVINSI JAMBI",
+          "url": "https://proceeding.unpkediri.ac.id/index.php/hayati/article/download/9827/6356/36248#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 6.   | Hewan pengganggu manusia    | 6    |",
+          "url": "https://ejournal3.undip.ac.id/index.php/biologi/article/viewFile/19434/18433#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam yang disebut juga Orang Kubu",
+          "url": "https://repository.unp.ac.id/id/eprint/8654/1/B1_3_REKA_PERMATASARI_16180_126_2015.pdf#2#2"
+        },
+        {
+          "date": "2011-05-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam (Orang Rimba/Kubu) Di Jambi",
+          "url": "http://variety-indonesia.blogspot.com/2011/05/suku-anak-dalam-kubu.html?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam/Orang Rimba tidak punya tradisi untuk memelihara ternak seperti Orang Desa, Ada ungkapan yang terkenal di lingku...",
+          "url": "http://repository.uinfasbengkulu.ac.id/114/1/ABABIL%20PUTRA.pdf#16#11"
+        },
+        {
+          "date": "2011-11-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kehidupan Primitif Suku Anak Dalam di Jambi - Marketing.co.id - Kehidupan Primitif Suku Anak Dalam di Jambi",
+          "url": "https://marketing.co.id/kehidupan-primitif-suku-anak-dalam-di-jambi/?share=twitter#respond#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SCIENTIFIC REPOSITORY",
+          "url": "https://repository.ipb.ac.id/handle/123456789/105/discover?rpp=10&filtertype_0=dateIssued&filtertype_1=has_content_in_original_bundle&filtertype_2=dateIssued&filter_relational_operator_1=equals&filter_relational_operator_0=equals&filter_2=%5B2020+TO+2024%5D&filter_1=true&filter_relational_operator_2=equals&filter_0=2023&filtertype=subject&filter_relational_operator=equals&filter=Pemanfaatan"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7035,
+      "query": "Suku Anak Dalam tero alat tombak labi-labi berburu",
+      "results": [
+        {
+          "date": "2023-07-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Studi Perburuan dan Pemanfaatan Labi-labi (Amyda cartilaginea) oleh Suku Anak Dalam di Taman Nasional Bukit Duabelas",
+          "url": "https://repository.ipb.ac.id/handle/123456789/121422"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sendiri namun bahannya dibeli di pasar dan dari penandah",
+          "url": "http://repo.unand.ac.id/21940/3/Prosiding%20BioETI%203%20-%202015%20%28Buku%202%29.pdf#109#54"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam yang disebut juga Orang Kubu",
+          "url": "https://repository.unp.ac.id/id/eprint/8654/1/B1_3_REKA_PERMATASARI_16180_126_2015.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Beberapa keterangan dari buku sejarah menyebutkan bahwa Suku Anak Dalam",
+          "url": "https://repository.ub.ac.id/id/eprint/5141/1/EKYN%20PRANANTA%20GINTING.pdf#18#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "untuk memotong batang kayu yang menghalangi jalan untuk berburu yang",
+          "url": "https://repository.uinsaizu.ac.id/18667/1/skripsi%20saifullah.pdf#17#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "REPRESENTASI BUDAYA SUKU ANAK DALAM PADA KUMPULAN CERPEN NEGERI CINTA BATANGHARI",
+          "url": "https://vm36.upi.edu/index.php/RBSPs/article/download/8773/pdf#2#1"
+        },
+        {
+          "date": "2015-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Udara Tidak Sehat, Sekolah Diliburkan",
+          "url": "https://www.bungokab.go.id/post/read/857.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dahulu ketika areal hutan masih luas dengan berbagai fauna di dalamnya, kegiatan berburu menjadi matapencaharian yang penting ba...",
+          "url": "https://repositori.kemdikbud.go.id/28831/2/KEARIFAN%20LOKAL%20DALAM%20ARKEOLOGI.pdf#27#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NILAI – NILAI KEARIFAN LOKAL SUKU ANAK DALAM (SAD) DALAM PEMANFAATAN HEWAN DIBUKIT DUA BELAS PROVINSI JAMBI",
+          "url": "https://proceeding.unpkediri.ac.id/index.php/hayati/article/download/9827/6356/36248#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jika hewan yang didapat cukup banyak, mereka biasa menyimpan daging hewan buruan itu untuk hari-hari yang akan datang",
+          "url": "https://core.ac.uk/download/227160900.pdf#13#7"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 33024,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 25483,
+    "iterations": [],
+    "output_tokens": 1412,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

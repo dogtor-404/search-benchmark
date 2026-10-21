@@ -1,0 +1,74 @@
+{
+  "answer": "我不能确定，所以不给你一个可能是错的答案。\n\n我记得\"วัดประจำรัชกาล\"（王朝寺）是泰国历代国王各自对应的一座寺庙，第九世王时期常被提到的是曼谷的 Wat Bowonniwet Vihara（วัดบวรนิเวศวิหาร）。但第十世王（拉玛十世）的王朝寺具体是哪一座，我没有可靠的记忆，也不想凭印象编一个。\n\n要确认的话，建议查泰国皇室办公厅或宗教事务厅的公告，或泰国主流媒体的相关报道。你联网后也可以让我帮你搜。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.674,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1760,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.016500800000000003,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 930,
+      "provider": "firstParty",
+      "thinkingTokens": 700,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-96",
+  "raw": "jsonl/0/msqa-TH-96.jsonl",
+  "reported_cost_usd": 0.016500800000000003,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1760,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1760,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1760,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 930,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 930,
+    "output_tokens_details": {
+      "thinking_tokens": 700
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

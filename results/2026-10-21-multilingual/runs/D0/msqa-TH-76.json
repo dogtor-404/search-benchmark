@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道确切年份——没有可靠资料能说明南部（ภาคใต้）从哪一年开始举办บุญบั้งไฟ，凭记忆我也无法给出一个可信的起始时间。\n\n我知道的是：\n\n- บุญบั้งไฟ（火箭节）本质上是**东北部（อีสาน）和老挝**的传统，按农历六月（ราวพฤษภาคม–มิถุนายน）举行，祭祀พญาแถน求雨，与นิทานนางอั้ว–พญาคันคาก等传说相关。\n- 它并不是南部本土的仪式传统。南部出现的บุญบั้งไฟ，多见于两类情况：一是由移居南部的อีสาน人群体带入并在寺庙/社区延续；二是地方为旅游或节庆宣传而新办的活动。因此“开始时间”因地点而异，没有一个统一的起点。\n- 我隐约记得南部个别府/县有这类活动（例如某些寺庙或县的年度节庆），但具体是哪个地点、从哪一年开始，我没有可靠记忆，不能确定。\n\n如果你要查证，建议方向：当地寺庙或文化局的活动记录、地方志（หนังสือที่ระลึก/ประวัติวัด）、以及该活动自称“ครบรอบกี่ปี”的报道——用首次举办的周年数倒推。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.958,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032824,
+      "inputTokens": 1976,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1246,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/D0/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.032824,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1976,
+    "iterations": [],
+    "output_tokens": 1246,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

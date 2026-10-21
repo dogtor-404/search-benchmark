@@ -1,0 +1,223 @@
+{
+  "answer": "**Respuesta:** Tras ser elegido caudillo (princeps) de los astures en la asamblea de Cangas de Onís (hacia 718), la primera acción decisiva de Pelayo fue **negarse a seguir pagando los tributos a los musulmanes** —el *jaray* (impuesto territorial) y la *yizia* (impuesto personal)—, lo que equivalía a una declaración de independencia y rebelión de Asturias contra al-Andalus.\n\n**Fuentes:**\n- Biblioteca Virtual de Defensa: «Pelayo, el nuevo princeps, toma como primera y fundamental decisión el rechazo de los impuestos que debían pagar a los ocupantes musulmanes» — bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520\n- RADE (Álvarez Balbuena): «el acto de rebeldía de Pelayo y sus notables precisamente en Cangas de Onís en el 718» (negarse al jaray y la yizia) — rade.es/doc/001-ALVAREZ BALBUENA_origenes asturias.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.957,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 11392,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0782584,
+      "inputTokens": 15335,
+      "maxOutputTokens": 32000,
+      "outputTokens": 732,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-61",
+  "raw": "jsonl/D2_prime/msqa-ES-61.jsonl",
+  "reported_cost_usd": 0.0782584,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7405,
+      "query": "Pelayo primera acción tras asumir liderazgo en Asturias",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los orígenes de Asturias, y por ende de España, navegan entre el mito y la leyenda que más tarde se harán relato, relato que per...",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#9"
+        },
+        {
+          "date": "2004-06-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Don Pelayo - Wikipedia, la enciclopedia libre - Rebelión y reconquista de Gigia (actual Gijón)",
+          "url": "https://es.wikipedia.org/wiki/?title=Don_Pelayo&oldid=150642274#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "narca astur estuvo en Córdoba, tal vez á tratar tregua como Teodomiro, pero cambiaron de sesgo las cosas cuando el go- bierno de...",
+          "url": "https://archive.org/download/historiadellanes00cane/historiadellanes00cane.pdf#70#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "el 28 de mayo del año 722[9], segu­",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "E n el año 722 los musulmanes sufrieron su primer revés militar en España",
+          "url": "https://www.archive.org/download/ebiblio-165601-165700/ebiblio-165601-165700/165637%20-%20Esparza%20Jose%20Javier%20-%20Te%20Voy%20A%20Contar%20Tu%20Historia.pdf#14#96#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "24/ARGUTORIO",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/2378311.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "posterior en casi dos siglos al evento que supone reflejar",
+          "url": "http://zenodo.org/records/10396815/files/Asturias3.1.pdf?download=1#11#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sorprendidos los sarracenos con la novedad de haber elegido rey los españoles en Asturias y recelosos de que el valor de don Pel...",
+          "url": "https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/grupo.do?path=10120173&posicion=1#56#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sea lo que se fuere de este asunto, no debemos detenernos mas en él: no es fácil averiguar la verdad; y los historiadores y crít...",
+          "url": "https://riuma.uma.es/xmlui/bitstream/handle/10630/4144/Historia%20general_VI.pdf?isAllowed=y&sequence=5#58#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El protagonista de este episodio es Pelayo, que sería un noble de la facción de Rodrigo que no quiso colaborar con los invasores...",
+          "url": "https://www.mgh-bibliothek.de/dokumente/a/a143875.pdf#152#93"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8364,
+      "query": "Pelayo primera decisión rechazar tributo impuestos musulmanes jaray",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El protagonista de este episodio es Pelayo, que sería un noble de la facción de Rodrigo que no quiso colaborar con los invasores...",
+          "url": "https://www.mgh-bibliothek.de/dokumente/a/a143875.pdf#152#93"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Pelayo lo conocemos en la historia como el fundador de la monarquía en Asturias,",
+          "url": "https://www.rade.es/doc/001-ALVAREZ%20BALBUENA_origenes%20asturias.pdf#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de al-Andalus con el objetivo de realizar una",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/6866313.pdf#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "como el de Rodrigo, sino de escaramuzas y tanteos mutuos",
+          "url": "https://nailos.org/index.php/nailos/article/download/135/144/#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los caudillos Oppas y Toriso renegaron para ganar crédito con los árabes; y aconsejaron á Muza y Tarif, de quienes se hi-cieron ...",
+          "url": "https://www.google.hu/books/download/Historia_monumental_del_her%c3%b3ico_rey_Pel.pdf?hl=es&id=-ZUxAQAAMAAJ&output=pdf&sig=ACfU3U0Ej7I7KdD7DqCbq7y1Ndh88RO3PQ#98#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Diferencia entre revisiones de «Batalla de Covadonga» - - Don Pelayo, Príncipe de los Astures",
+          "url": "http://www.ecured.cu/index.php?title=Batalla_de_Covadonga&diff=prev&oldid=1950828#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Batalla de Covadonga - Anónimo",
+          "url": "http://www.ecured.cu/Batalla_de_Covadonga?oldid=1950828#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Batalla de Covadonga",
+          "url": "https://www.ecured.cu/index.php?title=Batalla_de_Covadonga&oldid=3430771#1"
+        },
+        {
+          "date": "2018-03-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Los musulmanes no querían conquistar Asturias, solo someternos a sus tributos» | El Comercio: Diario de Asturias - «Los musulmanes no querían conquistar Asturias, solo someternos a sus tributos»",
+          "url": "https://www.elcomercio.es/culturas/musulmanes-querian-conquistar-20180302004103-ntvo.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "18 Ibn Hayyan, m",
+          "url": "https://hispania.revistas.csic.es/index.php/hispania/article/download/201/204/205#6#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 11392,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 15335,
+    "iterations": [],
+    "output_tokens": 732,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：大约早上 8 点到 9 点。**\n\n这是印尼语、马来语里的传统时间说法。`sepenggalah` 本义是“一杆（galah）之高”，用来形容太阳升起的高度。印尼语《大词典》（KBBI）把谚语 **“sepenggalah matahari naik”** 直接释为“表示时间，**大约 08.00 或 09.00**”（alamat waktu, kira-kira pukul 08.00 atau 09.00）。\n\n参考网址：\n- https://kamuslengkap.id/kamus/kbbi/arti-kata/sepenggalah-matahari-naik/ （KBBI 释义：pukul 08.00 atau 09.00）\n- https://baru.kbbi.co.id/arti-kata/matahari （KBBI 词条，同一条释义）\n\n补充：马来西亚《Kamus Dewan》单收 `sepenggalah` 一词，释为“约早上 7 点至 8 点”（https://prpm.dbp.gov.my/Cari1?keyword=sepenggalah ），可见各地习惯略有差异，但通行理解是上午八九点。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.568,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.04914399999999999,
+      "inputTokens": 8708,
+      "maxOutputTokens": 32000,
+      "outputTokens": 690,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-70",
+  "raw": "jsonl/D2/msqa-ID-70.jsonl",
+  "reported_cost_usd": 0.04914399999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5798,
+      "query": "\"sepenggalah matahari naik\" pukul berapa",
+      "results": [
+        {
+          "date": "2016-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata sepenggalah matahari naik menurut Kamus KBBI - Kamus Lengkap Online - KamusLengkap.ID",
+          "url": "https://kamuslengkap.id/kamus/kbbi/arti-kata/sepenggalah-matahari-naik/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sepenggalah matahari naik, pb alamat waktu - peribahasa dan artinya",
+          "url": "https://jagokata.com/peribahasa/arti-sepenggalah+matahari+naik%2C+pb+alamat+waktu.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bahasa Rakyat",
+          "url": "https://bahasarakyat.com/words/?search_query=Mati+salai"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "masih pagi masa itu, sepenggalah matahari naik, rupa awan",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Si_Sabariah.pdf#14#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa arti \"matahari\" dalam bahasa Indonesia?",
+          "url": "https://wikilanguages.net/dic/indonesia.php?q=matahari"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Definisi matahari berayun",
+          "url": "http://kamusbahasaindonesia.org/matahari%20berayun/mirip"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?keyword=sepenggalah&d=73980&#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut kamus besar bahasa Indonsia Dhuha merupakan waktu menjelang tengah hari (kurang lebih pukul 10.00)",
+          "url": "https://digilib.iainkendari.ac.id/1000/3/BAB%20II.docx#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Kata \"matahari\" Menurut KBBI",
+          "url": "https://baru.kbbi.co.id/arti-kata/matahari"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "7",
+          "url": "https://etheses.iainkediri.ac.id/4668/3/932116417_bab2.pdf#3#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.5785,
+      "query": "arti \"sepenggalah\" matahari terbit waktu",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?keyword=sepenggalah&d=73980&#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gerbang Kata - Dewan Bahasa dan Pustaka",
+          "url": "http://ekamus.dbp.gov.my/Makna.aspx?kid=222006"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dhuha menurut bahasa waktu ketika matahari terbit hingga cahayanya memutih",
+          "url": "https://core.ac.uk/download/385964615.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "C. Salat Duha",
+          "url": "https://digilib.uinsgd.ac.id/91672/5/5_bab%202..pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sepenggalah",
+          "url": "http://kateglo.lostfocus.org/?mod=dictionary&action=view&phrase=sepenggalah"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sepenggalah - Wikikamus bahasa Indonesia",
+          "url": "https://id.wiktionary.org/wiki/sepenggalah"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata sepenggalah dalam Kamus bahasa Indonesia - Kamus KBBI Bahasa Indonesia Online - Kamus Bahasa Indonesia",
+          "url": "http://kamuslengkap.com/kamus/kbbi/arti-kata/sepenggalah"
+        },
+        {
+          "date": "2022-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tafsir Surat Ad-Dhuha Ayat 1 |Republika Online",
+          "url": "https://iqra.republika.co.id/berita/qjv0zj430/#commentSection"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "وَأَعْطَسْنِي لَيْبَلَّهَا وَأحَرَجُ عَمْتُهَا",
+          "url": "https://etd.umy.ac.id/id/eprint/15939/2/Bab%20I.pdf#7#4"
+        },
+        {
+          "date": "2016-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata sepenggalah menurut Kamus KBBI - Kamus Lengkap Online - KamusLengkap.ID",
+          "url": "https://kamuslengkap.id/kamus/kbbi/arti-kata/sepenggalah/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8708,
+    "iterations": [],
+    "output_tokens": 690,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

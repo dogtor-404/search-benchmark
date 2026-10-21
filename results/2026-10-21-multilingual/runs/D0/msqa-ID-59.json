@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道 “Andilau” 这个印尼语俚语的意思。\n\n在我的知识里没有这个词的可靠记录——它不像印尼语（或雅加达/Betawi 俚语）中常见的词，我也无法确认它是不是某个地区、某个网络社群或某个平台（比如 TikTok）上新造的流行语。离线状态下我不能联网核实，所以按你的要求直接说：**不知道**。\n\n只能给一个纯属猜测的方向，可信度很低：它有可能是 “andil lu”（“你的贡献/你出的力”，andil = 贡献，lu = 你，雅加达口语）连写或拼写变体。但这只是形式上的联想，不是有依据的释义。\n\n如果你能提供出处（比如原句、视频标题、地区），我或许能根据上下文再判断。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.261,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.025132,
+      "inputTokens": 1968,
+      "maxOutputTokens": 32000,
+      "outputTokens": 863,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-59",
+  "raw": "jsonl/D0/msqa-ID-59.jsonl",
+  "reported_cost_usd": 0.025132,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1968,
+    "iterations": [],
+    "output_tokens": 863,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

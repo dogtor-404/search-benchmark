@@ -1,0 +1,74 @@
+{
+  "answer": "**「quedarse en blanco」** 的意思是**脑子突然一片空白**：一时想不起本来知道的东西，或者不知道该说什么、做什么。常见于考试、面试、上台讲话等紧张的时候。\n\n例句：\n- *Me quedé en blanco en el examen.*（我考试时脑子一片空白。）\n- *Cuando me preguntó su nombre, me quedé en blanco.*（他问我他叫什么，我一下子想不起来了。）\n\n近义说法有 *tener la mente en blanco*、*quedarse con la mente en blanco*。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.951,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0199336,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 279,
+      "provider": "firstParty",
+      "thinkingTokens": 81,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-82",
+  "raw": "jsonl/0_prime/msqa-ES-82.jsonl",
+  "reported_cost_usd": 0.0199336,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 279,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 279,
+    "output_tokens_details": {
+      "thinking_tokens": 81
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**答え：** 吉田兼倶は**「神祇管領長上」**（「神祇長上」「神道長上」とも言う）と名乗り、神祇伯の白川家に対抗しました。この肩書きは平安時代の終わりからあると偽って権威づけました。また「宗源宣旨」という文書を出して全国の神社に位階や神号を与え、神職への支配を広げました。\n\n搜索用了 1 次。\n\nSources:\n- [コトバンク「吉田兼倶」](https://kotobank.jp/word/吉田兼倶)\n- [コトバンク「宗源宣旨」](https://kotobank.jp/word/%E5%AE%97%E6%BA%90%E5%AE%A3%E6%97%A8-89268)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 19.77,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118218,
+      "inputTokens": 13378,
+      "maxOutputTokens": 128000,
+      "outputTokens": 968,
+      "provider": "firstParty",
+      "thinkingTokens": 241,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3219,
+      "cacheReadInputTokens": 6734,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0350748,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 398,
+      "provider": "firstParty",
+      "thinkingTokens": 52,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/A_prime/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.046896600000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "吉田兼倶 神祇管領長上 自称",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012ZXyAgUzCXQfzJrBTdC61y"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3219,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3219,
+    "cache_read_input_tokens": 6734,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1387,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1387,
+        "cache_read_input_tokens": 4283,
+        "input_tokens": 2,
+        "output_tokens": 256,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 398,
+    "output_tokens_details": {
+      "thinking_tokens": 52
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

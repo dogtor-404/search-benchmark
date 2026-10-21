@@ -1,0 +1,100 @@
+{
+  "answer": "**คำตอบ:** วัดประจำรัชกาลที่ 10 คือ **วัดวชิรธรรมสาธิตวรวิหาร** หรือที่เรียกกันว่า **วัดทุ่งสาธิต** ตั้งอยู่ในกรุงเทพฯ\n\nผมค้นหาเพียง 1 ครั้ง และข้อมูลนี้มาจากบทความท่องเที่ยวของ TrueID เป็นหลัก ถ้าต้องการความแน่นอนสูง ควรตรวจกับสำนักพระราชวังหรือเว็บไซต์ของวัดโดยตรง\n\nSources:\n- [วัดวชิรธรรมสาธิตวรวิหาร วัดประจำรัชกาลที่ 10 ชมวัดสวยในกรุงเทพ](https://travel.trueid.net/detail/jZ7J2waNkdVP)\n- [วัดประจำรัชกาล 1-10 ไหว้พระ 10 วัด 10 รัชกาล ในกรุงเทพ](https://travel.trueid.net/detail/97mobVrwAKj)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.578,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0114871,
+      "inputTokens": 10291,
+      "maxOutputTokens": 128000,
+      "outputTokens": 916,
+      "provider": "firstParty",
+      "thinkingTokens": 165,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3294,
+      "cacheReadInputTokens": 6745,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.018758499999999997,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 490,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-96",
+  "raw": "jsonl/A/msqa-TH-96.jsonl",
+  "reported_cost_usd": 0.030245599999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "วัดประจำรัชกาลที่ 10",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013rz8Dpx3CKENBEpFA1nwNk"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3294,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3294,
+    "cache_read_input_tokens": 6745,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1451,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1451,
+        "cache_read_input_tokens": 4294,
+        "input_tokens": 2,
+        "output_tokens": 402,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 490,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

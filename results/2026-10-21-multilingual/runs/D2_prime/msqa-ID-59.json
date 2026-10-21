@@ -1,0 +1,144 @@
+{
+  "answer": "**Andilau** 是印尼语俚语（kata gaul），是 **\"antara dilema dan galau\"** 的缩写，意思是“夹在左右为难（dilema）和心烦意乱（galau）之间”。\n\n依据：\n- https://news.detik.com/berita/d-3116367/fahri-disindir-andilau-antara-dilema-dan-galau\n- https://kamusremajalengkap.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_360.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.374,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.025422399999999998,
+      "inputTokens": 4859,
+      "maxOutputTokens": 32000,
+      "outputTokens": 275,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-59",
+  "raw": "jsonl/D2_prime/msqa-ID-59.jsonl",
+  "reported_cost_usd": 0.025422399999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5786,
+      "query": "Andilau artinya kata gaul",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kata jargon mengandung suatu bahasa, dialek, atau tutur yang dianggap kurang sopan atau aneh",
+          "url": "https://journal.lppmunindra.ac.id/index.php/SAP/article/download/1007/939#3#2"
+        },
+        {
+          "date": "2022-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa Arti Babayo Bahasa Gaul yang Sedang Viral di TikTok, Ternyata Berasal dari Bahasa Minang - Laros Media - Halaman 2",
+          "url": "https://www.laros.id/fakta-menarik/pr-2393350708/apa-arti-babayo-bahasa-gaul-yang-sedang-viral-di-tiktok-ternyata-berasal-dari-bahasa-minang?page=2"
+        },
+        {
+          "date": "2017-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penjelasan tentang Arti Kata Gaul \"Andilau\"",
+          "url": "https://kamusremajalengkap.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_360.html#comment-form"
+        },
+        {
+          "date": "2017-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penjelasan tentang Arti Kata Gaul \"Andilau\"",
+          "url": "https://bookculinario.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_247.html?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jawaban TTS",
+          "url": "https://kuncitts.com/jawaban-tts/bahasa-gaul-antara-dilema-dan-gaul"
+        },
+        {
+          "date": "2022-08-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50 Contoh Bahasa Gaul Di Indonesia",
+          "url": "https://www.yayaazura.com/2022/08/50-contoh-bahasa-gaul-di-indonesia.html?showComment=1659629398391&m=1#c1752912058438142989"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata andilau - Kamus Besar Bahasa Indonesia (KBBI) Online",
+          "url": "https://dev.kbbi.web.id/andilau"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "bahasa",
+          "url": "https://apaan.wordpress.com/tag/bahasa/"
+        },
+        {
+          "date": "2016-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fahri Disindir 'Andilau', Antara Dilema dan Galau - Fahri Disindir 'Andilau', Antara Dilema dan Galau",
+          "url": "https://news.detik.com/berita/d-3116367/fahri-disindir-andilau-antara-dilema-dan-galau#1"
+        },
+        {
+          "date": "2012-06-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKHAWAT ANDILAU (ANtara DIlema dan gaLAU)",
+          "url": "https://pks-bandarlampung.blogspot.com/2012/06/akhawat-andilau-antara-dilema-dan-galau.html?m=1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 4859,
+    "iterations": [],
+    "output_tokens": 275,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

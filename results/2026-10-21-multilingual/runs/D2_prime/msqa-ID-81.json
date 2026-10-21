@@ -1,0 +1,302 @@
+{
+  "answer": "**答案：砍刀（parang）和斧子/锛（beliung），外加一根用来戳洞点种的木棍（tugal/nugal）。**\n\n据多个来源，Orang Mapur（Orang Lom）在山区的游耕（ladang berpindah）中采用简单技术，\"只用 parang 和 beliung 这两样工具\"；播种（nugal）时则用一根木棍戳入土中成穴再撒种。\n\n依据的网址：\n- http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html（\"peralatan parang dan beliung saja\"）\n- https://read.bookcreator.com/7JQC4sMns7Q9o23eDva6myHWTBx1/I_6BdTcZTOStWRexG3sbXQ/tihDRUdeTauUme1U3r6PBg（\"peralatan yang digunakan parang dan beliung\"）\n- https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636（\"menombakkan sebuah batang kayu ke dalam tanah\"／nugel）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.743,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 23296,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1537832,
+      "inputTokens": 28911,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1674,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-81",
+  "raw": "jsonl/D2_prime/msqa-ID-81.jsonl",
+  "reported_cost_usd": 0.1537832,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.697,
+      "query": "Orang Mapur ladang berpindah alat yang digunakan",
+      "results": [
+        {
+          "date": "2019-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sejarah Suku Mapur",
+          "url": "http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Alat tangkap lainnya yang dapat dibuat oleh nelayan di Desa Mapur adalah rompong",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB VI",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Bab5%20-%20Daftar%20Pustaka%20-%202017420141sc-p.pdf?isAllowed=y&sequence=3#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Desa Mapur merupakan Desa yang terletak di Kecamatan Riau Silip Kabupaten Bangka yang cukup representatif untuk menunjukkan baga...",
+          "url": "https://www.theprakarsa.org/en/download/30034/?tmstv=1776874290#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "wawancara dengan informan yang telah ditentukan",
+          "url": "https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 3    | Pertanian tanaman keras    | 2    | 1,6    |",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TEKTONIKA RUMAH ADAT ORANG MAPUR (LOM) BANGKA (OBJEK STUDI: MEMARONG AIR ABIK DAN UMA PANGGONG NEK ANYA)",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ada dua jenis bubu yang digunakan oleh nelayan: bubu karang (timbus) dan bubu laut (labuh)",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#17"
+        },
+        {
+          "date": "2026-05-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Adat Mapur: Menjaga Prinsip Hidup Bersahabat dengan Alam, Tetap Bertahan di Tengah Arus Modernitas",
+          "url": "https://babelaktual.com/adat-mapur-menjaga-prinsip-hidup-bersahabat-dengan-alam-tetap-bertahan-di-tengah-arus-modernitas/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gambar 4. 39 Komparasi Ruang Penyimpanan Paré",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7621,
+      "query": "Orang Mapur shifting cultivation tools Bangka",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TEKTONIKA RUMAH ADAT ORANG MAPUR (LOM) BANGKA (OBJEK STUDI: MEMARONG AIR ABIK DAN UMA PANGGONG NEK ANYA)",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#1"
+        },
+        {
+          "date": "2019-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sejarah Suku Mapur",
+          "url": "http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Desa Mapur merupakan Desa yang terletak di Kecamatan Riau Silip Kabupaten Bangka yang cukup representatif untuk menunjukkan baga...",
+          "url": "https://www.theprakarsa.org/en/download/30034/?tmstv=1776874290#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PEMBERDAYAAN MASYARAKAT ADAT MAPUR GUNA",
+          "url": "https://core.ac.uk/download/659313046.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Academy of Education Journal",
+          "url": "https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gambar 4. 39 Komparasi Ruang Penyimpanan Paré",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gebong Memarong Mapur Traditional Village has several cultural potentials that become the identity or characteristics of the Map...",
+          "url": "https://jurnal.stiepar.ac.id/index.php/tsj/article/download/367/224/1525#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "IDENTIFICATION AND DEVELOPMENT CULTURAL TOURISM OF GEBONG MEMARONG MAPUR TRADITIONAL VILLAGE USING SWOT ANALYSIS",
+          "url": "https://jurnal.stiepar.ac.id/index.php/tsj/article/download/367/224/1525#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "hutan dikuasai oleh perusahaan kelapa sawit, sejumlah tanaman tersebut mulai sulit",
+          "url": "https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SOLIDARITAS PEREMPUAN DALAM PENGELOLAAN HUTAN ADAT ORANG MAPUR DI DUSUN AIR ABIK DESA GUNUNG MUDA KECAMATAN BELINYU KABUPATEN BA...",
+          "url": "https://scripta.ubb.ac.id/index.php/scripta/id/article/download/361/99/1048#2#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6947,
+      "query": "Orang Lom Mapur berladang parang beliung tugal alat",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Desa Adat Suku Lom",
+          "url": "https://read.bookcreator.com/7JQC4sMns7Q9o23eDva6myHWTBx1/I_6BdTcZTOStWRexG3sbXQ/tihDRUdeTauUme1U3r6PBg"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dari hasil wawancara dengan tokoh masyarakat, khususnya dalam melakukan pengelolaan lahan dan hutan, masyarakat Lom memiliki pen...",
+          "url": "https://scispace.com/pdf/pengelolaan-hutan-berbasis-budaya-lokal-di-dusun-pejam-1d76sxd3tp.pdf#4#3"
+        },
+        {
+          "date": "2019-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sejarah Suku Mapur",
+          "url": "http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TEKTONIKA RUMAH ADAT ORANG MAPUR (LOM) BANGKA (OBJEK STUDI: MEMARONG AIR ABIK DAN UMA PANGGONG NEK ANYA)",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "b",
+          "url": "https://media.neliti.com/media/publications/130583-ID-orang-lom-masalah-sosial-dan-ancaman-kea.pdf?exp=1784341081&kid=1&sig=vpWCe_Bd5DWT1xU6Dp8qsz4BLB7clqebJYyiS1_4lv4#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AGAMA ADAT SUKU MAPUR BANGKA: Studi tentang Sistem Kepercayaan dan Budaya Orang Lom",
+          "url": "https://digilib.uin-suka.ac.id/20907/1/07.3.639_bab_i_sampai_bab_vi_daftar_pustaka.pdf#15#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB VI",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Bab5%20-%20Daftar%20Pustaka%20-%202017420141sc-p.pdf?isAllowed=y&sequence=3#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "wawancara dengan informan yang telah ditentukan",
+          "url": "https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Desa Mapur merupakan Desa yang terletak di Kecamatan Riau Silip Kabupaten Bangka yang cukup representatif untuk menunjukkan baga...",
+          "url": "https://www.theprakarsa.org/en/download/30034/?tmstv=1776874290#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "situs megalitik tersebut adalah : batu telapak kaki",
+          "url": "https://www.society.fisip.ubb.ac.id/index.php/society/issue/download/jurnal-society-volume-5-nomor-1-tahun-2017/full-issue-vol5-no1-2017#31#16"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23296,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 28911,
+    "iterations": [],
+    "output_tokens": 1674,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

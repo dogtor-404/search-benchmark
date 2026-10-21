@@ -1,0 +1,144 @@
+{
+  "answer": "**出典：『万葉集』巻第十一・2657番**（作者未詳、「寄物陳思」の歌）。\n\n- 原表記は「神名火尒紐呂寸立而雖忌人心者間守不敢物」で、読みは「かむなびに ひもろき立てて 斎へども 人の心は 守りあへぬもの」です。\n- 参考：\n  - コトバンク「神奈備」— 初出例として「万葉集 一一・二六五七」を挙げています: https://kotobank.jp/word/%E7%A5%9E%E5%A5%88%E5%82%99-466553\n  - 奈良県立万葉文化館 万葉百科（巻11-2657）: https://manyo-hyakka.pref.nara.jp/db/detail?cls=db_manyo&pkey=2657\n\n※「2665」と記すブログもありますが、これは誤りで、2657が正しいです。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.997,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0333424,
+      "inputTokens": 5654,
+      "maxOutputTokens": 32000,
+      "outputTokens": 512,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-55",
+  "raw": "jsonl/D2/msqa-JA-55.jsonl",
+  "reported_cost_usd": 0.0333424,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5878,
+      "query": "神奈備にひもろき立てて斎へども人の心は守りあへぬもの 出典",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神奈備(カムナビ)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E7%A5%9E%E5%A5%88%E5%82%99-466553"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "万葉百科 奈良県立万葉文化館",
+          "url": "https://manyo-hyakka.pref.nara.jp/db/detail?cls=db_manyo&pkey=2657"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "隠り - みる会図書館",
+          "url": "https://search.mirukai.org/search?query=%e9%9a%a0%e3%82%8a&content_id=20180807/%E5%AE%8C%E8%A8%B3%20%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%A4%E5%85%B8%20%E7%AC%AC%E4%BA%94%E5%B7%BB%20%E8%90%AC%E8%91%89%E9%9B%86%20%E3%88%A3&page=3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "万葉恋歌 - 神奈備に ひもろき立てて 斎へども",
+          "url": "https://ncode.syosetu.com/n1146fh/868/"
+        },
+        {
+          "date": "2013-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "まもりあへぬもの : neige7の一日一首",
+          "url": "https://neige7.livedoor.blog/archives/314586.html#comments"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道にみる自然と人との交わり",
+          "url": "https://core.ac.uk/download/640010726.pdf#4#1"
+        },
+        {
+          "date": "2024-12-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神なびにひもろき立てて斎へども･･･巻第11-2657～2658 - 大和の国のこころ、万葉のこころ",
+          "url": "https://bonjin5963.hatenablog.com/entry/2024/12/27/000000"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "で、「古来最も顕われているのは三輪の神奈備すなわち三輪山である",
+          "url": "http://www.keiwa-c.ac.jp/wp-content/uploads/2014/05/nenpo12-7.pdf#3#2"
+        },
+        {
+          "date": "2024-01-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【三郷町立野南】万葉集にも詠まれた神奈備神社と風の神様・龍田大社 : 勝手に堺市広報大使",
+          "url": "https://sojiismylife.work/archives/25501390.html"
+        },
+        {
+          "date": "2018-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "万葉集 現代語訳 巻十一相聞２６５５・２６５６・２６５７・２６５８ | 讃岐屋一蔵の古典翻訳ブログ",
+          "url": "https://sanukiya.exblog.jp/29038118/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5654,
+    "iterations": [],
+    "output_tokens": 512,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

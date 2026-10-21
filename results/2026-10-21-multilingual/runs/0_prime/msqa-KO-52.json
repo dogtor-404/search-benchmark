@@ -1,0 +1,74 @@
+{
+  "answer": "**소 뒷걸음질 치다 쥐 잡기**（牛往后退时踩到了老鼠）\n\n意思是本来没打算做的事，碰巧做成了，或者无意中歪打正着。意思相近的还有「장님 문고리 잡기」（瞎子摸到门把手），比喻侥幸碰对。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.037,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1776,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0207096,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 309,
+      "provider": "firstParty",
+      "thinkingTokens": 195,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-52",
+  "raw": "jsonl/0_prime/msqa-KO-52.jsonl",
+  "reported_cost_usd": 0.0207096,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1776,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1776,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1776,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1776,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 309,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 309,
+    "output_tokens_details": {
+      "thinking_tokens": 195
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

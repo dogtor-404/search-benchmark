@@ -1,0 +1,109 @@
+{
+  "answer": "**Ответ: прецедентный текст.**\n\nТак его определяет В. В. Красных: прецедентный текст — это законченный и самодостаточный продукт речемыслительной деятельности, (поли)предикативная единица, на которую носители языка неоднократно ссылаются. Слова «на который ссылаются многие» указывают именно на прецедентность.\n\nОговорка: в найденных страницах нет этой фразы дословно с подписью Красных. В них есть её статья о прецедентности и близкие формулировки. Само определение я привожу по памяти: это известная дефиниция из её работ «Виртуальная реальность или реальная виртуальность?» и «Этнопсихолингвистика и лингвокультурология».\n\nСделано 2 поиска из 5.\n\nИсточники:\n- [Красных, «Ярославский семиотический круг» (jsk_03_13krasnych.pdf)](https://rlc2019.philol.msu.ru/~slavphil/books/jsk_03_13krasnych.pdf)\n- [Захаренко и др., о прецедентных феноменах (МГУ)](https://www.philol.msu.ru/~slavphil/books/jsk_01_08zacharenko_et.pdf)\n- [Черных, РГПУ им. Герцена](https://lib.herzen.spb.ru/media/magazines/contents/1/38(82)2/chernykh_38_82_p170_173.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 28.07,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0230746,
+      "inputTokens": 20531,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2043,
+      "provider": "firstParty",
+      "thinkingTokens": 772,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4618,
+      "cacheReadInputTokens": 12263,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059620599999999996,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1010,
+      "provider": "firstParty",
+      "thinkingTokens": 327,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-95",
+  "raw": "jsonl/A_prime/msqa-RU-95.jsonl",
+  "reported_cost_usd": 0.0826952,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "текст законченный самодостаточный продукт речемыслительной деятельности определение",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016oaA1w3Hi2hKHxyTjYShyU"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "прецедентный текст Красных \"законченный и самодостаточный продукт речемыслительной деятельности\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0196wAWQ5cEYzkkk4mLeQ8KZ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4618,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4618,
+    "cache_read_input_tokens": 12263,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1563,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1563,
+        "cache_read_input_tokens": 5506,
+        "input_tokens": 2,
+        "output_tokens": 502,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1010,
+    "output_tokens_details": {
+      "thinking_tokens": 327
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "answer": "**Bahasa Bugis paling dekat hubungannya dengan:**\n1. **Bahasa Campalagian** — satu-satunya bahasa yang membentuk \"keluarga Bugis\" (cabang Bugis) bersamanya; disebut \"closely related to Bugis\".\n2. **Bahasa-bahasa Tamanik** (Taman/Embaloh di Kalimantan Barat) — menurut Adelaar & Himmelmann (2005) \"especially close to Buginese\".\n3. Lebih jauh: bahasa-bahasa Sulawesi Selatan lain (Makassar, Mandar, Toraja/Sa'dan) — masih serumpun dalam sub-kelompok Sulawesi Selatan (Austronesia/Melayu-Polinesia).\n\n**Sumber:**\n- https://en.wikipedia.org/wiki/ISO_639:cml (Campalagian \"closely related to Bugis\")\n- https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/South_Sulawesi_languages (Tamanic \"especially close to Buginese\")\n- https://www.taylorfrancis.com/chapters/mono/10.4324/9780203821121-30/makassar-anthony-jukes-alexander-adelaar-nikolaus-himmelmann (Makassar, Bugis, Mandar, Sa'dan dalam sub-kelompok Sulawesi Selatan)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.364,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 15104,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1049368,
+      "inputTokens": 19359,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1224,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/D2_prime/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.1049368,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7263,
+      "query": "Bahasa Bugis paling dekat hubungannya dengan bahasa apa",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PERTALIAN KEKERABATAN BAHASA-BAHASA TORAJA, BUGIS,",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=953320&val=14688&title=PERTALIAN%20KEKERABATAN%20BAHASA-BAHASA%20TORAJA%20BUGIS%20DAN%20MAKASSAR%20KAJIAN%20MORFOSINTAKSIS#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/7070601?page=1&jid=37544&jname=cakrawala+listra++jurnal+kajian+sastra+bahasa+dan+budaya+indonesia"
+        },
+        {
+          "date": "2025-08-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KEKERABATAN BAHASA BUGIS – KUTAI – SUNDA: ANALISIS LEKSIKOSTATISTIK DAN GLOTOKRONOLOGI",
+          "url": "https://eprints2.undip.ac.id/id/eprint/34679/#navPanel"
+        },
+        {
+          "date": "2025-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Relasi Kekerabatan Bahasa Bugis dengan Bahasa Bajo di Sulawesi Tenggara",
+          "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/5134652"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Die Voelker des oestlichen Asien : Studien und Reisen\" - sioned  him  to  swoon",
+          "url": "https://archive.org/stream/voelkerdesoestli05bast/voelkerdesoestli05bast_djvu.txt#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The Treasury of languages; a rudimentary dictionary of universal philology\" - the  S",
+          "url": "https://archive.org/stream/treasuryoflangua00bonwiala/treasuryoflangua00bonwiala_djvu.txt#33"
+        },
+        {
+          "date": "2021-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Buginesisch :: museum-digital:staatliche museen zu berlin",
+          "url": "https://smb.museum-digital.de/people/46802"
+        },
+        {
+          "date": "2007-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Buginesische Sprache – Wikipedia",
+          "url": "https://de.wikipedia.org/wiki/ISO_639:bug"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "29. Bugis",
+          "url": "https://www.degruyterbrill.com/de/unauthorizedDownload/10.1515/9783110884012.1.549?action=Downloading+PDF&countDenial=true&download=true&_x_output_type_b6db407c4_=embedded_pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Simpan CSV :: Kembali",
+          "url": "https://lontar.ui.ac.id/hasilcari?lokasi=lokal&method=similar&query=20407998&start=0"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6676,
+      "query": "Bugis language closest related languages classification Austronesian",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Language Family: Austronesian:",
+          "url": "http://pdb.simon.net.nz/family/austronesian"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Surveillance Sounds of Bugis as the Austronesian Language family",
+          "url": "https://eprints.unm.ac.id/20811/3/Turnitin%20Surveillance%20Sounds%20of%20Bugis%20as%20the%20Austronesian%20Language%20family.pdf#1#1"
+        },
+        {
+          "date": "2004-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makassar Anthony Jukes | 30 | The Austronesian Languages of Asia and M",
+          "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203821121-30/makassar-anthony-jukes-alexander-adelaar-nikolaus-himmelmann?context=ubx&refId=2981f9d4-4238-4a5d-b6f0-3d0bb80695bb"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The first two specimens in this table are written languages of Sumatra, the two next written languages of Java, and the last is ...",
+          "url": "https://books.google.com/books/download/The_Foreign_Quarterly_Review.pdf?id=M0cwAQAAMAAJ&output=pdf#169#66"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Surveillance Sounds of Bugis as the Austronesian Language family",
+          "url": "https://ask.orkg.org/item/475149332/Surveillance-Sounds-of-Bugis-as-the-Austronesian-Language-family"
+        },
+        {
+          "date": "2017-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[PDF] Surveillance Sounds of Bugis as the Austronesian Language family | Semantic Scholar",
+          "url": "https://www.semanticscholar.org/paper/Surveillance-Sounds-of-Bugis-as-the-Austronesian-Amir-Dalle/76f6f0c25f6bdbd50d9cfb4493a62f1c27324fda"
+        },
+        {
+          "date": "2017-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Surveillance Sounds of Bugis as the Austronesian Language family",
+          "url": "https://www.atlantis-press.com/proceedings/icest-17/25884921"
+        },
+        {
+          "date": "2021-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Surveillance Sounds of Bugis as the Austronesian Language family",
+          "url": "https://eprints.unm.ac.id/20811/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "hortensj-garden.org",
+          "url": "http://www.hortensj-garden.org/?tnc=1&tr=lsr&sea1=%3D%3DHesperonesian"
+        },
+        {
+          "date": "2018-11-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Syntactic Variation Of Buginese, A Language In Austronesian Great Family",
+          "url": "https://eprints.unm.ac.id/11419/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.5964,
+      "query": "Bugis language closest relative Campalagian South Sulawesi subgroup",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian in Indonesia",
+          "url": "https://m.joshuaproject.net/people_groups/11084/ID"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian in Indonesia - Campalagian in Indonesia",
+          "url": "https://joshuaproject.net/people_groups/print/11084/ID#1"
+        },
+        {
+          "date": "2015-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20151116010558/https://en.wikipedia.org/wiki/Campalagian_language"
+        },
+        {
+          "date": "2012-05-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lingue di Sulawesi meridionale - Wikipedia - Lingue di Sulawesi meridionale",
+          "url": "https://it.wikipedia.org/wiki/Lingue_sulawesi_meridionali#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language - Campalagian",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Campalagian_language#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Mandar subgroup is said to consist of the dialects Balanipa, Majene, Pamboang, Sendana, and Awo-Sumakuyu",
+          "url": "https://www.sil.org/system/files/reapdata/28/48/16/28481608661868145720185562935485070911/WILC_v05.pdf#17#9"
+        },
+        {
+          "date": "2013-02-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language - Wikipedia - Campalagian language",
+          "url": "https://en.wikipedia.org/wiki/ISO_639:cml#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tata bahasa Bugis",
+          "url": "https://books.google.co.id/books?id=1OIsAAAAIAAJ&q=dialek&hl=id&output=html_text&source=gbs_word_cloud_r&cad=4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language - Campalagian language",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Campalagian_language#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "hortensj-garden.org",
+          "url": "http://www.hortensj-garden.org/index.php?tr=lsr&nid=31-NBC-a"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7046,
+      "query": "Buginese language South Sulawesi subgroup classification closest relatives",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It had been known for some time that Laiolo was quite different from the other languages of South Sulawesi",
+          "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/01ee1d2f-2c02-46d1-b00d-2592fc762864/content#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PMP *siji ‘to winnow’ > Proto-South Sulawesi *sizi; Buginese sise",
+          "url": "https://press-files.anu.edu.au/downloads/press/p69411/pdf/ch0445.pdf#4#3"
+        },
+        {
+          "date": "2014-04-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "South Sulawesi languages",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20140814030217/http://en.wikipedia.org/wiki/South_Sulawesi_languages"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makassarese language",
+          "url": "https://en.wikipedia.org/api/rest_v1/page/pdf/Makassarese_language#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "South Sulawesi languages - South Sulawesi languages",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/South_Sulawesi_languages#1"
+        },
+        {
+          "date": "2004-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makassar Anthony Jukes | 30 | The Austronesian Languages of Asia and M",
+          "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203821121-30/makassar-anthony-jukes-alexander-adelaar-nikolaus-himmelmann?context=ubx&refId=2981f9d4-4238-4a5d-b6f0-3d0bb80695bb"
+        },
+        {
+          "date": "2011-02-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bugis - Bugis",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110224023558/http://en.wikipedia.org/wiki/Bugis#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Buginese in Malaysia - Buginese in Malaysia",
+          "url": "https://joshuaproject.net/people_groups/print/10985/MY#1"
+        },
+        {
+          "date": "2026-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Bahasa Bugis Sejarah, Aksara Lontara, dan Kosakata - Mengenal Bahasa Bugis: Sejarah, Aksara Lontara, dan Kosakata",
+          "url": "https://mediaindonesia.com/nusantara/851115/mengenal-bahasa-bugis-sejarah-aksara-lontara-dan-kosakata#1"
+        },
+        {
+          "date": "2009-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Reconstruction of Proto-South-Sulawesi",
+          "url": "https://www.persee.fr/doc/arch_0044-8613_1975_num_10_1_1250"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 15104,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 19359,
+    "iterations": [],
+    "output_tokens": 1224,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

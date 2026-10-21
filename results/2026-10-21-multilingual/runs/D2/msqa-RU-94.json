@@ -1,0 +1,302 @@
+{
+  "answer": "**答案：«Птичку жалко!»**（“小鸟真可怜！”，字面意思是“小鸟让人心疼”）\n\n这句话出自苏联喜剧《高加索女俘虏，或舒里克的新奇遇》（*Кавказская пленница, или Новые приключения Шурика*，1966 年，导演列昂尼德·盖代）。片中，舒里克（亚历山大·杰米亚年科 饰）在宴席上听完“一只小鸟想直飞太阳、结果烧断翅膀坠落”的说教故事后，一边假哭一边说出这句台词。如今，俄罗斯人用它来表示“有点可惜、有点心疼”，并常带戏剧化、假装同情、开玩笑的语气；维基词典把它释义为“关于表面上的怜悯、开玩笑的惋惜”的固定说法。\n\n依据：\n- https://ru.wiktionary.org/wiki/птичку_жалко （释义：“разг., шутл. о показной жалости, шутливом сожалении”；词源出自该片）\n- https://dslov.ru/pos/p1728.htm （引用原片台词与场景）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.976,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 17920,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.107664,
+      "inputTokens": 19600,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1284,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-94",
+  "raw": "jsonl/D2/msqa-RU-94.jsonl",
+  "reported_cost_usd": 0.107664,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8015,
+      "query": "фраза из советской комедии \"как жаль\" театрально притворное сочувствие",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Московский театр Мастерская П. Фоменко",
+          "url": "https://old-fomenko.theatre.ru/archive/pity/photo13.html"
+        },
+        {
+          "date": "2013-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Театр Моссовета: «Как жаль »",
+          "url": "https://mossoveta.ru/performance/pity/18860/"
+        },
+        {
+          "date": "2006-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мастерская Петра Фоменко: Как жаль",
+          "url": "https://www.fomenki.ru/actors/journeyman/maksakova/8754/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прошла премьера спектакля «Как жаль…» Петра Фоменко – сочиненной Маркесом истории о женщине, мужчине и приятных воспоминаниях.",
+          "url": "https://smotr.ru/2006/2006_fomenko_zhal.htm"
+        },
+        {
+          "date": "2006-11-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Театр Моссовета: К чертям собачьим",
+          "url": "https://mossoveta.ru/performance/pity/8310/"
+        },
+        {
+          "date": "2006-11-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Петр Фоменко поставил для Людмилы Максаковой «Как жаль»",
+          "url": "https://teatrfomenko.com/foma/8244/"
+        },
+        {
+          "date": "2006-11-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мастерская Петра Фоменко: Действительно: как жаль!",
+          "url": "https://teatr-fomenko.com/press/2006/8275/"
+        },
+        {
+          "date": "2003-10-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В театре \"Вечерний\" очередная премьера - 6 канал — Владимир",
+          "url": "https://6tv.ru/v-teatre-vechernij-ocherednaya-premera"
+        },
+        {
+          "date": "2006-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Театр Моссовета: Как жаль",
+          "url": "https://mossoveta.ru/performance/pity/8754/"
+        },
+        {
+          "date": "2006-11-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Новый спектакль Петра Фоменко заставил воскликнуть: как жаль!",
+          "url": "https://fomenki.ru/foma/8305/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7741,
+      "query": "\"немного жаль\" фраза из советской комедии шутка",
+      "results": [
+        {
+          "date": "2023-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#немного жаль on Coub",
+          "url": "https://coub.com/tags/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B6%D0%B0%D0%BB%D1%8C"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://wenda.so.com/q/1537114328214191?cqid=1901113869"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "来自@ЛюдмилаТягнибеда-й6и的评论",
+          "url": "https://www.youtube.com/live/iWn3S5x9PiA?lc=UgxeokfRWAgzBzbAeat4AaABAg"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Михаил Пляцковский (слова) Борис Савельев (музыка)",
+          "url": "https://92.63.66.171/vital/access/services/Download/vtls:000796100/SOURCE2?view=true#15#16#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Леонид Серебренников Валентина Толкунова – Старый вальс",
+          "url": "https://lazarev.ru/news/world/leonid-serebrennikov-valentina-tolkunova-staryij-vals/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Philipp Kirkorov - Немного жаль (Nemnogo zhal') (Engels vertaling #2)",
+          "url": "https://lyricstranslate.com/nl/nemnogo-zhal039-nemnogo-zhal-it%C2%B4s-little-pity.html"
+        },
+        {
+          "date": "2001-03-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ошибка в вопросе",
+          "url": "https://db.chgk.info/contact/question/otvtt01.2/1?destination=/tour/otvtt01"
+        },
+        {
+          "date": "2017-07-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птичку жалко!",
+          "url": "https://dslov.ru/pos/p1728.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дальстрой — посты на Fishki",
+          "url": "https://m.fishki.net/tag/dalystroj/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Телефонный турнир \"Кубок \"От Винта\" - 2001\". 2 тур. Вопрос 1",
+          "url": "https://www.db.chgk.info/question/otvtt01.2/1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7242,
+      "query": "\"Птичку жалко\" выражение притворное сочувствие шутка значение фразеологизм",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "птичку жалко — Викисловарь",
+          "url": "https://ru.wiktionary.org/wiki/%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D1%83_%D0%B6%D0%B0%D0%BB%D0%BA%D0%BE"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птичку жалко (фраза) - Птичку жалко — известная фраза из советской комедии «Кавказская пленница»",
+          "url": "https://neolurk.org/wiki/%D0%9F%D1%82%D0%B8%D1%87%D0%BA%D1%83_%D0%B6%D0%B0%D0%BB%D0%BA%D0%BE_(%D1%84%D1%80%D0%B0%D0%B7%D0%B0)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птичку жалко! - Птичку жалко",
+          "url": "http://cyclowiki.org/wiki/%D0%9F%D1%82%D0%B8%D1%87%D0%BA%D1%83_%D0%B6%D0%B0%D0%BB%D0%BA%D0%BE!#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птичку жалко: различия между версиями - Птичку жалко: различия между версиями",
+          "url": "https://posmotre.ch/index.php?diff=1589821&mobileaction=toggle_view_desktop#1"
+        },
+        {
+          "date": "1998-03-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ошибка в вопросе",
+          "url": "https://db.chgk.info/contact/question/vody04ne.2/12?destination=/tour/vody04ne.2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птичку жалко - Птичку жалко",
+          "url": "https://posmotreli.su/index.php?title=%D0%9F%D1%82%D0%B8%D1%87%D0%BA%D1%83_%D0%B6%D0%B0%D0%BB%D0%BA%D0%BE&oldid=197630#1"
+        },
+        {
+          "date": "2023-02-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Кто не знает, что такое мем? Кто с радостью не делится остроумными... | Интересный контент в группе RUS.TALK",
+          "url": "https://ok.ru/rus.talk/topic/154934704886688"
+        },
+        {
+          "date": "2021-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Как считаете, действительно чем становишься старше, тем становится больше жаЛьче братьев наших меньших? | Ответы Mail",
+          "url": "https://otvet.mail.ru/question/225104047"
+        },
+        {
+          "date": "2022-11-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сострадание к животным Помните фразу, «Птичку жалко», да-да,... | Интересный контент в группе Истории о животных🐾 - Сострадание к животным",
+          "url": "https://ok.ru:443/historiozhiv/topic/155985491280758#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний цикл чемпионата Харькова по ЧГК сезона 2003/04. Вторая лига. Второй этап. Вопрос 16",
+          "url": "https://db.chgk.info/question/har04v-2.2/16"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 17920,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 19600,
+    "iterations": [],
+    "output_tokens": 1284,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "answer": "**Bimbang Bebalai 是 Serawai 族的传统婚礼仪式（upacara perkawinan adat）。**\n\n- **性质**：Serawai 族最隆重、最完整的一种婚礼习俗，通常在一个村或一个乡专门搭建的“balai”（即 communal hall）里举行，全村一起出力（gotong royong）；一般会集中为 3–5 对新人办婚礼，并宰杀水牛来宴请宾客。\n- **族群与地区**：属于**苏门答腊明古鲁省（Bengkulu）Seluma 县**的 **Serawai 族**（suku bangsa Serawai）的文化传统。\n\n依据：\n- 印尼语维基百科 “Bimbang Bebalai”：https://id.wikipedia.org/wiki/Bimbang_Bebalai\n- Rois Leonard Arios，《Tradisi Bimbang Bebalai pada Etnis Serawai》，Handep 期刊：https://www.neliti.com/publications/395007/tradisi-bimbang-bebalai-pada-etnis-serawai-sebuah-analisis-fungsional-struktural\n- Budaya Indonesia 词条：https://budaya-indonesia.org/bimbang-bebalai/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.082,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0769408,
+      "inputTokens": 16640,
+      "maxOutputTokens": 32000,
+      "outputTokens": 496,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-72",
+  "raw": "jsonl/D2/msqa-ID-72.jsonl",
+  "reported_cost_usd": 0.0769408,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6948,
+      "query": "Bimbang Bebalai upacara suku",
+      "results": [
+        {
+          "date": "2019-02-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Bimbang_Bebalai"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Universitas Indonesia Library >> Artikel Jurnal",
+          "url": "https://lontar.ui.ac.id/file?file=pdf/abstrak/id_abstrak-9999920542698.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=653:\"bimbang+bebalai\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Simpan CSV :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=100:\"Rois+Leonard+Arios,+author\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdikbud.go.id/author/view/2748190"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebagai kelanjutan dari upacara mungga balai dan malam gegerit, pada esok harinya dilaksanakan pula satu acara yang dinamakan up...",
+          "url": "https://repositori.kemdikbud.go.id/13048/1/ARTI%20PERLAMBANG%20DAN%20FUNGSI%20TATA%20RIAS%20PENGANTIN%20DALAM%20MENANAMKAN%20NILAI-NILAI%20BUDAYA%20DAERAH%20BENGKULU.pdf#20#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Ritual",
+          "url": "https://budaya-indonesia.org/bimbang-bebalai/#collapse-iaci#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - masyarakat adat",
+          "url": "https://budaya-indonesia.org/cari?q=masyarakat%20adat&page=18&provinsi=4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "masyarakatarkat di desa atau dusun sebagai",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "malam harinya, maka tradisi seserahan",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6936,
+      "query": "\"Bimbang Bebalai\" tradisi",
+      "results": [
+        {
+          "date": "2019-02-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Bimbang_Bebalai"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Universitas Indonesia Library >> Artikel Jurnal",
+          "url": "https://lontar.ui.ac.id/file?file=pdf/abstrak/id_abstrak-9999920542698.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/2748190?jid=16786&jname=Handep:+Jurnal+Sejarah+dan+Budaya"
+        },
+        {
+          "date": "2020-12-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Bimbang Bebalai pada Etnis Serawai: sebuah Analisis Fungsional Struktural",
+          "url": "https://www.neliti.com/uk/publications/395007/tradisi-bimbang-bebalai-pada-etnis-serawai-sebuah-analisis-fungsional-struktural"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Simpan CSV :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=100:\"Rois+Leonard+Arios,+author\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=653:\"bimbang+bebalai\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Ritual",
+          "url": "https://budaya-indonesia.org/bimbang-bebalai/#collapse-iaci#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai",
+          "url": "https://versilama.budaya-indonesia.org/bimbang-bebalai"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TRADISI BIMBANG BEBALAI PADA",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "malam harinya, maka tradisi seserahan",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 16640,
+    "iterations": [],
+    "output_tokens": 496,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

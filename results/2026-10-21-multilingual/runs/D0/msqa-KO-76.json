@@ -1,0 +1,62 @@
+{
+  "answer": "계례(笄禮)는 여성의 성년례인데, 전통 가례(주자가례)에서 **주례(주인, 主人)는 보통 어머니를 비롯한 집안의 여성 어른**이 맡고, 실제로 비녀를 꽂는 **여빈(女賓)**은 따로 초빙한 여성 손님이 맡는 것으로 알려져 있습니다. 관례에서 아버지가 주인이 되고 남성 빈이 관을 씌우는 것과 대응되는 구조입니다.\n\n다만 이건 일반적인 전승 설명이고, 특정 향교·기관·행사의 계례에서 \"누가 주례를 봤는지\"처럼 **특정 인물이나 특정 사례**를 묻는 것이라면 저는 그건 모릅니다. 지역이나 행사마다 주례를 유림 어른이나 기관장이 맡기는 경우도 있어서, 문맥 없이는 단정할 수 없습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.36,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.062352000000000005,
+      "inputTokens": 1968,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2724,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-76",
+  "raw": "jsonl/D0/msqa-KO-76.jsonl",
+  "reported_cost_usd": 0.062352000000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1968,
+    "iterations": [],
+    "output_tokens": 2724,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

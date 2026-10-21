@@ -1,0 +1,144 @@
+{
+  "answer": "**«Quedarse en blanco»** 意思是“头脑一片空白”：一时想不起要说/要答的内容、无话可说，或没听懂所读所听的内容。相当于英语的 “my mind went blank”。\n\n- 依据：RAE《西班牙语词典》对同义拉丁词 **in albis** 的释义，即「en blanco（不理解所听或所读的内容）」：https://dle.rae.es/in%20albis\n- 例证（“No pude continuar el examen porque me quedé en blanco”）：https://tlcdenia.com/es/expresiones-con-los-colores-en-espanol/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.879,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0423384,
+      "inputTokens": 6798,
+      "maxOutputTokens": 32000,
+      "outputTokens": 733,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-82",
+  "raw": "jsonl/D2_prime/msqa-ES-82.jsonl",
+  "reported_cost_usd": 0.0423384,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.687,
+      "query": "quedarse en blanco significado expresión coloquial española",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "7. Lee el siguiente artículo sobre uno de los problemas que más afectan a los estudiantes en",
+          "url": "https://www.educacionfpydeportes.gob.es/portugal/pt_PT/dam/jcr:954660fd-4187-4a67-868f-8599cc1f3d4e/mona13julio.pdf#9#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Blanca",
+          "url": "https://archive.org/download/dli.ministry.11303/E06872_The_Combined_Spanish_Method_Of_Spanish_Grammer_text.pdf#75#52"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "para expresar la carencia de recursos económicos, tal como se ilustra en las expresiones estar sin blanco/no tener ni blanca, qu...",
+          "url": "https://digitum.um.es/digitum/bitstream/10201/135067/1/Duan-Junjun_TD_2023.pdf#100#73"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 9|avere la mente in bianco*|tener la mente en blanco||carencia de ideas o de comprensión|",
+          "url": "https://ru.atheneadigital.filos.unam.mx/jspui/bitstream/FFYL_UNAM/7621/4/2013_Lamberti_Ibarra_Italia%20150%20a%C3%B1os%20como%20naci%C3%B3n.pdf#83#81"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "in albis | Diccionario panhispánico de dudas",
+          "url": "https://www.rae.es/dpd/in%20albis"
+        },
+        {
+          "date": "2016-04-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Expresiones en español con los colores | TLCdénia escuela de español",
+          "url": "https://tlcdenia.com/es/expresiones-con-los-colores-en-espanol/?trk=article-ssr-frontend-pulse_little-text-block#respond"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Quedar en blanc",
+          "url": "https://pccd.dites.cat/p/Quedar_en_blanc"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "elefante_online",
+          "url": "https://www.gramaticas.marcoele.com/elefante/extras/cambio/cambio-quedarse/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "in albis | Diccionario de la lengua española",
+          "url": "https://dle.rae.es/in%20albis"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¿Cuál es la traducción de \"quedarse en blanco\" en Inglés?",
+          "url": "https://es.bab.la/diccionario/espanol-ingles/quedarse-en-blanco"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6798,
+    "iterations": [],
+    "output_tokens": 733,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

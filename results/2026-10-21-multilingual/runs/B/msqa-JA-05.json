@@ -1,0 +1,156 @@
+{
+  "answer": "**メカラブ族**（めからぶぞく）と呼ばれます。「メカ（家電製品）」と「ラブ（愛する）」に「族」を付けた言葉で、家電に名前を付けたり話しかけたりして、ペットのように可愛がる人を指します。2014年の流行語として紹介されています。\n\n依据的网址：\n- http://www.zokugo-dict.com/34me/meca_love.htm（俗語辞典。定義の文言がそのまま載っています）\n- https://ameblo.jp/pata-exma25/entry-11959256213.html（ブログ。メカラブ族が増えているという報道を紹介しています）\n\n検索は1回だけ使いました。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.068,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9715,
+      "cacheReadInputTokens": 5848,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0425228,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 307,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-05",
+  "raw": "jsonl/B/msqa-JA-05.jsonl",
+  "reported_cost_usd": 0.0425228,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7691,
+      "query": "家電製品をペットのように可愛がる人 呼び名",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "メカラブ族",
+          "url": "http://www.zokugo-dict.com/34me/meca_love.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "不法移民向けガイドブック",
+          "url": "https://dogdogfactory.blogspot.com/search?updated-max=2017-11-05T20:14:00%2B09:00&max-results=40&reverse-paginate=true&m=0"
+        },
+        {
+          "date": "2017-10-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ズゾゾゾゾゾゾゾォ",
+          "url": "https://dogdogfactory.blogspot.com/2017/10/blog-post20.html?m=0#comment-form"
+        },
+        {
+          "date": "2017-10-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『生ける屍の死』",
+          "url": "https://dogdogfactory.blogspot.com/search?m=0&max-results=5&reverse-paginate=true&updated-max=2017-10-26T01:50:00-07:00"
+        },
+        {
+          "date": "2014-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『もしもこんな売場があったら？～モノを大切にする時代の売り場作り（前編）』",
+          "url": "https://ameblo.jp/pata-exma25/entry-11959256213.html#cbox"
+        },
+        {
+          "date": "2025-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「愛車やPCに名前をつける人」に見る、狂気と慈愛の境界線｜ど真ん中の理系大学院生 - 「愛車やPCに名前をつける人」に見る、狂気と慈愛の境界線",
+          "url": "https://note.com/normal_rikei/n/n31bd2940592f#1"
+        },
+        {
+          "date": "2003-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "掃除ロボットにペットなみの愛情を注ぐユーザーたち",
+          "url": "https://wired.jp/2003/06/18/%E6%8E%83%E9%99%A4%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AB%E3%83%9A%E3%83%83%E3%83%88%E3%81%AA%E3%81%BF%E3%81%AE%E6%84%9B%E6%83%85%E3%82%92%E6%B3%A8%E3%81%90%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ローカルnews+板のスレッド | itest.5ch.io",
+          "url": "https://itest.5ch.io/kako/test/read.cgi/femnewsplus/1192338151/l-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人工知能に関するKuromakuのブックマーク (3)",
+          "url": "https://b.hatena.ne.jp/Kuromaku/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/"
+        },
+        {
+          "date": "2022-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "펫팸족, ‘생활가전’의 판도를 바꾸다",
+          "url": "https://m.edaily.co.kr/news/read?newsId=02535446632394192&mediaCodeNo=257"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9715,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9715,
+    "cache_read_input_tokens": 5848,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7875,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7875,
+        "cache_read_input_tokens": 3844,
+        "input_tokens": 2,
+        "output_tokens": 232,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 307,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

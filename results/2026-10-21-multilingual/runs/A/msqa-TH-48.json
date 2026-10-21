@@ -1,0 +1,136 @@
+{
+  "answer": "我搜了 5 次,上限已用完,但没有找到能直接回答这个问题的来源。\n\n**我没能确认的答案:** 没有任何来源说明,清迈女子不穿上衣、只用一块布斜披过肩并让布端垂在背后,在传统上算什么。\n\n**我的推测(未经证实):** 这种披法可能被视为一种有礼节的着装,用来表示尊敬,比如去寺院或见长辈、贵人时。这只是我对泰北兰纳(Lanna)服饰的一般印象,不是搜索结果支持的结论。\n\n**搜索中查到的相关内容:**\n- 兰纳人把这种披肩布叫 \"ผ้าสะหว้ายแล่ง\" 或 \"ผ้าเบี่ยงบ้าย\",斜披在肩上。来源:[Thansettakij](https://www.thansettakij.com/lifestyle/490676)\n- 清迈大学 ACCL 博物馆写到,拉玛五世时期的女子穿棉布长袖上衣,再披 \"สะหว้าย\"。这说明当时的女子常常是穿了上衣再披布。来源:[ACCL 博物馆](https://accl.cmu.ac.th/Museum/exhibition/room1)\n\n要确认答案,建议查兰纳服饰的专门文献,或向清迈的博物馆、文化机构求证。\n\nSources:\n- [Thansettakij: ผ้าสไบ](https://www.thansettakij.com/lifestyle/490676)\n- [ACCL 博物馆,清迈大学](https://accl.cmu.ac.th/Museum/exhibition/room1)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 57.004,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059134000000000006,
+      "inputTokens": 61805,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5907,
+      "provider": "firstParty",
+      "thinkingTokens": 1396,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9048,
+      "cacheReadInputTokens": 44023,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0578183,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1720,
+      "provider": "firstParty",
+      "thinkingTokens": 328,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-48",
+  "raw": "jsonl/A/msqa-TH-48.jsonl",
+  "reported_cost_usd": 0.1169523,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "สตรีเชียงใหม่ ห่มผ้าเฉวียงบ่า ปล่อยชายผ้าไปด้านหลัง ไม่สวมเสื้อ ถือว่า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BzuLfrNbmUCCv2ZEm95rQp"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "ผู้หญิงล้านนา ห่มผ้าสไบเฉียง เฉวียงบ่า ปล่อยชายไปข้างหลัง \"ผ้าแบบนี้\" เรียกว่า ถือเป็นการแต่งกายเต็มยศ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019iFatZitQpjK3eADN85Lib"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "สะหว้ายแหล่ง ผู้หญิงเชียงใหม่ ไม่สวมเสื้อ ห่มผ้าเฉวียงบ่า ปล่อยชายไปด้านหลัง ถือเป็นการแต่งกายเมื่อไปวัด",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01J2ZqYaZ7M759AS6s4irDWf"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "สตรีเชียงใหม่ ไม่สวมเสื้อ ห่มผ้าผืนเดียว เฉวียงบ่า ปล่อยชายไปข้างหลัง ถือว่าเป็นการแต่งกายสุภาพ เข้าเฝ้า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01D9GNT5g1sG3h986Er7LeMF"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "ผู้หญิงล้านนาโบราณ ไม่สวมเสื้อ ห่มสไบเฉวียงบ่า ปล่อยชายไปข้างหลัง ถือเป็นการแต่งกายแบบเต็มยศ หรือ แสดงความเคารพ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013G9Fs3riwMeSrNfMUy4qoX"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9048,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9048,
+    "cache_read_input_tokens": 44023,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1809,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1809,
+        "cache_read_input_tokens": 11642,
+        "input_tokens": 2,
+        "output_tokens": 759,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1720,
+    "output_tokens_details": {
+      "thinking_tokens": 328
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

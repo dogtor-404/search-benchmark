@@ -1,0 +1,62 @@
+{
+  "answer": "按泰国的传统做法，สักยันต์（刺符/刺经文）正式开始前的准备大致有这几项：\n\n1. **找好师父（อาจารย์ / เกจิอาจารย์）**：选一位有传承、有名望的师父或僧侣，因为刺符讲究“法脉”和祝福，师父是谁很关键。\n\n2. **净身、守戒**：事先清洁身体，并按师门要求守戒、戒口——常见的是暂时不饮酒、不吃某些食物（有些要求戒大蒜、腌制品等），保持身心清净。\n\n3. **准备供品**：带上敬师的供品，最基本的是**花、香、蜡烛（ดอกไม้ ธูป เทียน）**，有时还要准备白布、槟榔或礼金（กำนล）作为心意。\n\n4. **礼拜与发愿**：正式刺之前先向师父和祖师礼拜、说明来意，心里定下自己的愿望或约束（因为有些符咒被认为带有“禁忌”，需要当事人愿意遵守）。\n\n5. **师父备墨/调符**：师父会准备刺符用的墨汁（有的会混入草药、圣水或加持之物），这也是准备程序的一部分。\n\n说明一下：我现在不能上网，以上是根据我所了解的传统习俗整理的，具体到不同寺庙、师门会有差异，细节以当地师父的规矩为准。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.371,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.038624,
+      "inputTokens": 2041,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1523,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-40",
+  "raw": "jsonl/D0_prime/msqa-TH-40.jsonl",
+  "reported_cost_usd": 0.038624,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2041,
+    "iterations": [],
+    "output_tokens": 1523,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

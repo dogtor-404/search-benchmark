@@ -1,0 +1,118 @@
+{
+  "answer": "**答案：「ป้ายยา」**（字面意思是“抹药、涂药”）\n\n在泰语网络用语里，它指卖力地推荐某样东西，让对方被“种草”、想去试一试或买下来。推荐的对象可以是商品、地方或内容。泰文维基词典把它列为口语/俚语，释义是“劝说、诱导（如诱导购买商品）”。中文里对应的说法是“种草”。\n\n搜了 3 次。\n\n依据：\n- [ป้ายยา - วิกิพจนานุกรม](https://th.wiktionary.org/wiki/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2)\n- [ป้ายยา คืออะไร? วิธีพูดขายของแบบ “ป้ายยา” (Lemon8)](https://www.lemon8-app.com/@taladparuay/7604114486714319368?region=th)\n- [วัยรุ่นกับคำว่า ‘ป้ายยา’ หมายถึงอะไร (Lemon8)](https://www.lemon8-app.com/@nookeaw_04/7495244372309541393?region=th)\n- [ป้ายยา ภาษาจีนพูดยังไง? (tutustory)](https://tutustory.com/blog/zhongcao-anli-how-to-say-in-chinese/)\n- [Positioning：แบรนด์จะ 'ป้ายยา' อย่างไร](https://positioningmag.com/insight/85605)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 33.069,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.04549460000000001,
+      "inputTokens": 42166,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2556,
+      "provider": "firstParty",
+      "thinkingTokens": 623,
+      "webSearchRequests": 4
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 6544,
+      "cacheReadInputTokens": 19483,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0752806,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 950,
+      "provider": "firstParty",
+      "thinkingTokens": 106,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-60",
+  "raw": "jsonl/A_prime/msqa-TH-60.jsonl",
+  "reported_cost_usd": 0.1207752,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ป้ายยา ศัพท์วัยรุ่น ความหมาย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VXB2BPp23K69V2SVMsE1FQ"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "ป้ายยา แปลว่า คำแสลง ป้ายยาสินค้า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SVrf4Foac98bmYKxArQ2Zr"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"ป้ายยา\" คือ ศัพท์โซเชียล แนะนำ ติดใจ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019zRjxn7RyGGYAyqNcuA9yY"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6544,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6544,
+    "cache_read_input_tokens": 19483,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1997,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1997,
+        "cache_read_input_tokens": 6998,
+        "input_tokens": 2,
+        "output_tokens": 567,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 950,
+    "output_tokens_details": {
+      "thinking_tokens": 106
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "answer": "**«Именинник».** Так в ряде регионов называли последний сноп. Его жали молча, чтобы не потревожить дух поля, который переселялся в этот сноп. Затем сноп наряжали, обычно в сарафан или платки, и несли с поля на праздничный пир.\n\nЕсть и другие названия:\n- **«Дед», «коза», «перепёлка», «Божья борода».** Так называли пучок колосьев, который оставляли несжатым и «завивали» в бороду.\n- **«Дидух».** Это украинская форма: последний обжиночный сноп ставили в красный угол на Святой вечер.\n\nПервые два поиска ничего конкретного не дали. Ответ взят из третьего, по статьям русской Википедии об обжинках, жатве и Ярило. Я видел только пересказ результатов поиска, сами страницы не открывал.\n\nSources:\n- [Обжинки — Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%BD%D0%BA%D0%B8)\n- [Жатва в славянской традиции — Википедия](https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D1%82%D0%B2%D0%B0_%D0%B2_%D1%81%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%B8)\n- [Ярила — Википедия](https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%B8%D0%BB%D0%B0)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 34.821,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.035567600000000005,
+      "inputTokens": 39121,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3311,
+      "provider": "firstParty",
+      "thinkingTokens": 644,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7383,
+      "cacheReadInputTokens": 20214,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.042609400000000006,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1104,
+      "provider": "firstParty",
+      "thinkingTokens": 128,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-19",
+  "raw": "jsonl/A/msqa-RU-19.jsonl",
+  "reported_cost_usd": 0.07817700000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "последний сноп жали молча дух жита \"борода\" \"Илья\" \"дед\" обычай дожинки последний сноп название",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QY9JyiJyW3Xaf61WSVgcoy"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "последний сноп \"именинник\" жали молча дух хлеба обжинки сноп несли с поля",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013Zfwvss99QcZ1RDs2zawP4"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Обжинки последний сноп «дед» «именинник» «борода» «Спасова борода» жали молча дух хлебов Википедия",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013Y8uehsmd24JboUMtxQ3bF"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7383,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7383,
+    "cache_read_input_tokens": 20214,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2235,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2235,
+        "cache_read_input_tokens": 7599,
+        "input_tokens": 2,
+        "output_tokens": 608,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1104,
+    "output_tokens_details": {
+      "thinking_tokens": 128
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

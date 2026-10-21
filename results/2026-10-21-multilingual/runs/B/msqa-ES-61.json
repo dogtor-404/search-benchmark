@@ -1,0 +1,235 @@
+{
+  "answer": "**Respuesta:** Tras ser elegido caudillo o princeps de los astures (hacia el 718, en una asamblea en Cangas de Onís), la primera decisión importante de Pelayo fue **dejar de pagar los impuestos (el tributo) a los ocupantes musulmanes**. Equivalía a una declaración de independencia y desencadenó la rebelión, que acabó en la batalla de Covadonga (722).\n\nUna de las fuentes dice que, en esa misma asamblea, se acordó dejar de pagar el *jaray* y la *yizia*. Las fuentes de la época no son muy precisas, así que las fechas y los detalles son aproximados.\n\n**Fuentes:**\n- https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#9 (Biblioteca Virtual de Defensa: \"Pelayo, el nuevo princeps, toma como primera y fundamental decisión el rechazo de los impuestos…\")\n- http://www.ecured.cu/Batalla_de_Covadonga?oldid=1950828#1 (EcuRed: en la reunión se acordó dejar de pagar los impuestos territoriales)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.11,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 27501,
+      "cacheReadInputTokens": 5860,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.116428,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 583,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-61",
+  "raw": "jsonl/B/msqa-ES-61.jsonl",
+  "reported_cost_usd": 0.116428,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7144,
+      "query": "Pelayo primera acción tras ser elegido líder en Asturias",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los orígenes de Asturias, y por ende de España, navegan entre el mito y la leyenda que más tarde se harán relato, relato que per...",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "narca astur estuvo en Córdoba, tal vez á tratar tregua como Teodomiro, pero cambiaron de sesgo las cosas cuando el go- bierno de...",
+          "url": "https://archive.org/download/historiadellanes00cane/historiadellanes00cane.pdf#70#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "el 28 de mayo del año 722[9], segu­",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El protagonista de este episodio es Pelayo, que sería un noble de la facción de Rodrigo que no quiso colaborar con los invasores...",
+          "url": "https://www.mgh-bibliothek.de/dokumente/a/a143875.pdf#152#93"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PELAYO Y EL INICIO DEL REINO DE ASTURIAS    49",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/6399693.pdf#8#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tenie el rey don Rodrigo siempre la delantera, salió contra los moros, les freno la carrera: se encontraron en el campo que llam...",
+          "url": "https://uvadoc.uva.es:443/bitstream/handle/10324/66947/TFM_F_2023_076.pdf?sequence=1&isAllowed=y#21#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La historia de Pelayo antes de Covadonga iba seguida de su inmediata revuel- ta, su elección real por una asamblea de astures, y...",
+          "url": "https://servicios.mpr.es/VisorPublicaciones/visordocumentosicopo.aspx?NIPO=090221896&SUBNIPO=&IDPUBLICACION=030609022#118#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Refieren esta navegacion Josef en el Lib",
+          "url": "https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/grupo.do?registrardownload=0&posicion=1&path=10067131&config_rotacion=180#40#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "el islamismo",
+          "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/reconquista/RCH007.pdf#12#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sea lo que se fuere de este asunto, no debemos detenernos mas en él: no es fácil averiguar la verdad; y los historiadores y crít...",
+          "url": "https://riuma.uma.es/xmlui/bitstream/handle/10630/4144/Historia%20general_VI.pdf?isAllowed=y&sequence=5#58#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7026,
+      "query": "Pelayo rebelión Asturias batalla de Covadonga 722 primera acción",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "el 28 de mayo del año 722[9], segu­",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "E n el año 722 los musulmanes sufrieron su primer revés militar en España",
+          "url": "https://www.archive.org/download/ebiblio-165601-165700/ebiblio-165601-165700/165637%20-%20Esparza%20Jose%20Javier%20-%20Te%20Voy%20A%20Contar%20Tu%20Historia.pdf#14#96#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "18 _En el marco de la Guerra Astur-Cántabra entre 26 y 19 a",
+          "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/R/E/REVISTAS_PDF1187.pdf#32#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Diferencia entre revisiones de «Batalla de Covadonga» - - Don Pelayo, Príncipe de los Astures",
+          "url": "http://www.ecured.cu/index.php?title=Batalla_de_Covadonga&diff=prev&oldid=1950828#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los orígenes de Asturias, y por ende de España, navegan entre el mito y la leyenda que más tarde se harán relato, relato que per...",
+          "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=223520#30#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Batalla de Covadonga - Anónimo",
+          "url": "http://www.ecured.cu/Batalla_de_Covadonga?oldid=1950828#1"
+        },
+        {
+          "date": "2004-06-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Don Pelayo - Wikipedia, la enciclopedia libre - Rebelión y reconquista de Gigia (actual Gijón)",
+          "url": "https://es.wikipedia.org/wiki/?title=Don_Pelayo&oldid=150642274#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Batalla de Covadonga",
+          "url": "https://www.ecured.cu/index.php?title=Batalla_de_Covadonga&oldid=3430771#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El protagonista de este episodio es Pelayo, que sería un noble de la facción de Rodrigo que no quiso colaborar con los invasores...",
+          "url": "https://www.mgh-bibliothek.de/dokumente/a/a143875.pdf#152#93"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los islamitas",
+          "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/R/E/REVISTAS_PDF1187.pdf#32#19"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 27501,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27501,
+    "cache_read_input_tokens": 5860,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 25649,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 25649,
+        "cache_read_input_tokens": 3856,
+        "input_tokens": 2,
+        "output_tokens": 424,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 583,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

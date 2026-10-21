@@ -1,0 +1,223 @@
+{
+  "answer": "**Respuesta:** La **abasca** (también escrita *ahuasca*): un tejido basto y ordinario, hecho con la lana más gruesa de llama (o alpaca), sin teñir o en colores naturales y con decoración muy simple. Era la ropa de la gente plebeya / los *runas* en la sierra; en cambio, la nobleza y el Inca usaban el *cumbi*, fino y policromado. En las tierras altas el material típico era la fibra de camélido (no el algodón, propio de la costa).\n\nFuentes:\n- https://core.ac.uk/download/288876212.pdf (cita a Bernabé Cobo: «La ropa de abasca tejían de la lana más basta de las llamas… y della se vestían la gente plebeya»)\n- https://revistadeindias.revistas.csic.es/index.php/revistadeindias/article/download/1330/1613/2036 («Tela de abasca… de ella se servían los runa»)\n- https://www.clarin.com/viajes/tejidos-incaicos_0_ByeJlnYme.html («El tejido de abasca, hecho con lana de llama y alpaca, se utilizaba para confeccionar la ropa de los pobladores más humildes»)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.3,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1109744,
+      "inputTokens": 23537,
+      "maxOutputTokens": 32000,
+      "outputTokens": 817,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-34",
+  "raw": "jsonl/D2/msqa-ES-34.jsonl",
+  "reported_cost_usd": 0.1109744,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7215,
+      "query": "tejidos incas vestimenta clases bajas sierra andes tela típica",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10 CASTAÑEDA: 1981: 118.",
+          "url": "http://documentacion.cidap.gob.ec:8080/bitstream/cidap/451/2/Revista%2063-64%20completa.pdf#43#31"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No recibe tan bien el tinte el algodón como la lana; porque, puesto caso que cuando nuevo tiene los colores vi- vos, con el uso ...",
+          "url": "https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf#28#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "copiados en cerámica” (Milla, 2007)",
+          "url": "https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf?sequence=1&isAllowed=y#27#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "También se resalta su técnica de mejoramiento de especies agrícolas, conocían la influencia  de la temperatura del suelo que la ...",
+          "url": "https://red.minedu.gob.bo/profocom/download/eyJpdiI6Im0ySHZLTjZ5TVFoM3NCRGJDdjJGQXc9PSIsInZhbHVlIjoiWVdnY2pYMlBNQlFxd01TSnh5dDdqUT09IiwibWFjIjoiNGFjYjNkM2M4M2QyMWU2NDgxZmRkOGM4NDQ1YTk3YzM5MWE1OGQxZWU0MDFkMDkxZTE5ZWFmOTliZmM0ZTFjZSJ9#18#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los grupos humanos",
+          "url": "http://documentacion.cidap.gob.ec:8080/bitstream/cidap/451/2/Revista%2063-64%20completa.pdf#43#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Esta niña está envuelta con fajas y está acompañada de estatuillas que poseen la vestimenta Inca tradicional que incluye el uso ...",
+          "url": "https://dspace.uazuay.edu.ec/bitstream/datos/2591/1/09779.pdf#10#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Diferencia entre revisiones de «Incas» - La indumentaria incaica era la típica de todos los pueblos andinos y los de la costa",
+          "url": "http://www.ecured.cu/index.php?title=Incas&diff=prev&oldid=372748#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LA INFLUENCIA ECONOMICA Y POLITICA DE LAS ACLACUNA EN EL INCANATO *",
+          "url": "https://revistadeindias.revistas.csic.es/index.php/revistadeindias/article/download/1330/1613/2036#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Vestidos",
+          "url": "https://sisbib.unmsm.edu.pe/bibvirtualdata/libros/Historia/pachacamac/pdf/Cap21.pdf#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El vestido de hombre y el de mujer, tanto del tejido fino como del común, constaba",
+          "url": "https://core.ac.uk/download/288876212.pdf#26#16"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6515,
+      "query": "Inca textiles commoner clothing highlands fabric abascango",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In areas of the Andes where camelid fiber was not produced, the tax included other kinds of cloth",
+          "url": "https://www.archive.org/download/DACforCM_part_6/DACforCM_part_2/toweaveforsunanc0000ston.pdf#41#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "partir de fuentes de primera mano, como las visitas de la Sierra sur de los siglos XVI y",
+          "url": "https://core.ac.uk/download/288876212.pdf#26#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "INTRODUCTION",
+          "url": "https://museum.gwu.edu/sites/g/files/zaxdzs6286/files/2026-08/Weaving%20an%20Empire%20gallery%20guide.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Se ha escrito mucho sobre la importancia del tejido en los",
+          "url": "https://qhapaqnan.cultura.pe/sites/default/files/articulos/TextilesEIdentidadChimu.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Modern field observation confirms what these ancient fragments suggest, namely, that the consumption of meat had marked overtone...",
+          "url": "https://https-www-cambridge-org-443.webvpn.ynu.edu.cn/core/services/aop-cambridge-core/content/view/8429ECA4E76EDD7C639653030E74E6C0/9780511558146c3_p72-96_CBO.pdf/local-and-exotic-components-of-llajta-economy.pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El vestido de hombre y el de mujer, tanto del tejido fino como del común, constaba",
+          "url": "https://core.ac.uk/download/288876212.pdf#26#16"
+        },
+        {
+          "date": "2016-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los tejidos incaicos - Entre los testimonios de la cultura incaica, sus tejidos representan una antigua tradición asociada a la vida cotidiana",
+          "url": "https://www.clarin.com/viajes/tejidos-incaicos_0_ByeJlnYme.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Incas",
+          "url": "https://fgd.iuh.edu.vn/wp-content/uploads/2021/05/Ebook-2-FashionCostumeand-Culture.pdf#26#22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Vestimenta e identidad:",
+          "url": "http://proa.org/images-exhibiciones/exhibicion_archivo_esp_1519.pdf#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Según mi opinión, el quechquémitt y la lliclla son el mismo tipo de prenda, femenina en este caso, que nos remite a nuestros cha...",
+          "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1016&context=pctix#4#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 23537,
+    "iterations": [],
+    "output_tokens": 817,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

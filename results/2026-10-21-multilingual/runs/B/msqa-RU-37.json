@@ -1,0 +1,314 @@
+{
+  "answer": "**Косовик** (ещё его называют «свательный пирог»). Это полукруглый пирог «для зятя». Невеста пекла его, когда в дом приходили сваты.\n\nИсточники прямо называют его русским северным, только если принять за такой источник кулинарную книгу «Пироги. Большая книга рецептов» Л. Будного. Остальные страницы, где я нашёл название, региона не указывают. Одна из них вообще про Курск.\n\n- Название связано с формой полумесяца. Зятя в фольклоре сравнивали с новым месяцем, «косовичком». Невеста должна была раскатать тончайший блин-«сканец», а жених и сваты ей мешали: https://kniga-online.net/page-56-15869-leonid-budnyi-pirogi-bolshaya-kniga-receptov.html\n- В словаре вепсского и карельского языков (ВепКар) слово «kosuoi» переведено как «косовик (пирог для зятя)». Это людиковское наречие карельского языка, то есть северные края: https://topkar.krc.karelia.ru/ru/dict/lemma/30130?page=2719&search_dialect=5\n- Рецепт «Косовики — пироги для зятя» с тем же объяснением, что пекли, когда приходили сваты: https://cafemangalhouse.ru/vipechka/2981-2009-10-19-07-10-18.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.446,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 34471,
+      "cacheReadInputTokens": 33958,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1493818,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 809,
+      "provider": "firstParty",
+      "thinkingTokens": 68,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-37",
+  "raw": "jsonl/B/msqa-RU-37.jsonl",
+  "reported_cost_usd": 0.1493818,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.797,
+      "query": "полумесяцеобразный пирог сваты невеста печёт для жениха Русский Север сватальный пирог",
+      "results": [
+        {
+          "date": "2024-03-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Курском колледже культуры рассказали гостям о традиционной русской выпечке",
+          "url": "https://gtrkkursk.ru/news/51092-kurskom-kolledzhe-kultury-rasskazali-gostyam-tradicionnoy-russkoy-vypechke"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С рыбника начинался свадебный пир",
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/118408/%D0%94%D0%B8%D1%81%D1%81_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0_%D0%B8%D1%82%D0%BE%D0%B3.pdf#197#158"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пирог",
+          "url": "https://pstroganov.com/files/books/Slovar_svadba-ilovepdf-compressed.pdf#84#72"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Афанасьевской вол",
+          "url": "http://naukapravoslavie.ru/wp-content/uploads/2025/12/TS-43-mal.pdf#52#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Следует еще указать на коллективный, обще- ственный характер свадебного каравая, в приго- товлении которого принимает участие в...",
+          "url": "http://naukapravoslavie.ru/wp-content/uploads/2025/12/TS-43-mal.pdf#52#34"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тесто для пирогов затевается с особенным торжеством: квашня выносится из чулана на средину избы; стряпухи  становятся вокруг ква...",
+          "url": "https://rusneb.ru/local/tools/exalead/getFiles.php?book_id=001055_000090_363&name=001055_000090_363-%d0%9c%d0%be%d1%80%d0%b4%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f+%d1%81%d0%b2%d0%b0%d0%b4%d1%8c%d0%b1%d0%b0&doc_type=pdf#60#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "КАРАВАЙ",
+          "url": "https://elar.urfu.ru/bitstream/10995/148616/1/978-5-9631%e2%80%911286-1_2026.pdf#82#54"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "дам",
+          "url": "https://ImWerden.de/pdf/novy_mir_1962_12__ocr.pdf#90#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Русских названий свадебного хлеба больше в связи с большей территориальной разобщённостью населения: новогиб",
+          "url": "http://vesti.gsu.by/2017/vesti_gsu_2017_1.pdf#page=125#77#66"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Жених и бывшие с ним свахи, войдя в избу родителей невесты, не раздеваясь, чинно рассаживались на лавку, и одна из свах начинала...",
+          "url": "https://azbyka.ru/recept/wp-content/uploads/2022/06/severnaja_kuhnja_l_a_cheremuhina_1992.pdf#61#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.84,
+      "query": "Русский Север свадьба сваты пирог полумесяц \"зятю\" невеста пекла название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "9.97. Нету нам, нету от свата привету, от сваты при- гляду",
+          "url": "http://folktradition.ru/wp-content/uploads/2019/12/5-93066-032-8.pdf#441#356"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Бурцев Е. Народный быт Великого севера(17) - Во время венчания в церкви подстилали молодым под ноги камку или другую какую-либо материю, а сверх ея расстилали соболи или кун...",
+          "url": "https://www.booksite.ru/fulltext/bur/tsev/17.htm#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Поморская свадьба - Вслед за дружками вся родня собралась, разговоры, пересуды",
+          "url": "https://magazines.gorky.media/neva/2002/11/pomorskaya-svadba.html#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Балашов, Д. М. Русские свадебные песни Терского берега Белого моря / Д. М. Балашов, Ю. Е. Красовская ; Петрозавод. ин-т яз., лит. и истории Акад. наук СССР. - [Переизд.]. - Мурманск : Мурманский областной Центр творчества и досуга, [2002]. - 166, [2] с. : ноты. - Балашов, Д. М. Русские свадебные песни Терского берега Белого моря / Д. М. Балашов, Ю. Е. Красовская ; Петрозавод. ин-т яз., лит...",
+          "url": "http://kolanord.ru/html_public/col_avtory/BalashovDM/BalashovDM_Russkie-pesni_2002/143/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "áðàëè â äîì çÿòÿ",
+          "url": "https://www.pguas.ru/images/pdf/nauka/nauchnie_meropriyatiya/Nauka_yunyh_4/2022/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA_%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D1%8E%D0%BD%D1%8B%D1%85_2022.pdf#359#164"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>Сваты мои, сваточки</td><td>Сваты мои, сваточки</td></tr><tr><td>Любезные гостечки",
+          "url": "https://sergalexander.ucoz.ru/izdaniya/kraevedcheskij_almanakh_tom_2.pdf#59#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "рой крестьян",
+          "url": "https://gubkin-tomc.gubkin-kultura.ru/media/site_platform_media/2021/2/12/sbornik-folklornyih-materialov-traditsii-yamskoj-stepi.pdf#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "И. Шангига. Русские девушки(9) - Я послушаю тебя,",
+          "url": "https://www.booksite.ru/fulltext/girls/rus/san/9.htm#59#4"
+        },
+        {
+          "date": "2022-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Александр Бурцев - Народный быт Великого Севера. Том II » Страница 44 » Сказки для детей. Читать 📖 и слушать 🔉.",
+          "url": "https://detskieskazki.net/skazki/page-44-8930-aleksandr-burcev-narodnyi-byt-velikogo-severa-tom-ii.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "-  предплечье барана подавалось только зятю на свадьбе у невесты – шагайт",
+          "url": "https://www.philology.nsc.ru/journals/spj/pdf/2014_4/31_Araeva_Falomkina_Andronova.pdf#2#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7276,
+      "query": "косовик пирог полумесяц сваты невеста печёт зятю Русский Север Вологодская Архангельская",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С рыбника начинался свадебный пир",
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/118408/%D0%94%D0%B8%D1%81%D1%81_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0_%D0%B8%D1%82%D0%BE%D0%B3.pdf#197#158"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВепКар :: Леммы",
+          "url": "https://topkar.krc.karelia.ru/ru/dict/lemma/30130?page=2719&search_dialect=5"
+        },
+        {
+          "date": "2024-03-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Курском колледже культуры рассказали гостям о традиционной русской выпечке",
+          "url": "https://gtrkkursk.ru/news/51092-kurskom-kolledzhe-kultury-rasskazali-gostyam-tradicionnoy-russkoy-vypechke"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "VepKar :: Lemmas",
+          "url": "https://topkar.krc.karelia.ru/en/dict/lemma/30130?page=2719&search_dialect=5"
+        },
+        {
+          "date": "2009-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "cafemangalhouse - все о вкусной еде и том, что ее окружает",
+          "url": "https://cafemangalhouse.ru/vipechka/2981-2009-10-19-07-10-18.html"
+        },
+        {
+          "date": "2024-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пироги. Большая книга рецептов - Леонид Будный » Страница 56 » Книги онлайн - ❗ бесплатные ✨ на Kniga-online.net 📗 , литнет, loveread - Выпекать его в горячей духовке до готовности",
+          "url": "https://kniga-online.net/page-56-15869-leonid-budnyi-pirogi-bolshaya-kniga-receptov.html#1"
+        },
+        {
+          "date": "2015-02-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Викторина на выкупа невесты прикольная 2015 - 13 Февраля 2015",
+          "url": "https://zagadochki.ucoz.ru/news/viktorina_na_vykupa_nevesty_prikolnaja_2015/2015-02-13-820"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "начертания изучаемого знака",
+          "url": "https://old.herzen.spb.ru/img/files/lzarina//November_2014/SBORNIK_GEOGR.pdf#121#32"
+        },
+        {
+          "date": "2021-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Косовики с сахаром - пироги для зятя из сметанного теста",
+          "url": "https://imperiyavkusov.ru/kosoviki-s-saharom/"
+        },
+        {
+          "date": "2015-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Беспроигрышная лотерея на выкупа невесты смешная 2015 - 3 Февраля 2015",
+          "url": "https://zagadochki.ucoz.ru/news/besproigryshnaja_lotereja_na_vykupa_nevesty_smeshnaja_2015/2015-02-03-824"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 34471,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 34471,
+    "cache_read_input_tokens": 33958,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8391,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8391,
+        "cache_read_input_tokens": 28084,
+        "input_tokens": 2,
+        "output_tokens": 471,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 809,
+    "output_tokens_details": {
+      "thinking_tokens": 68
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

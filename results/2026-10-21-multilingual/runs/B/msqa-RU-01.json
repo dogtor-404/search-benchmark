@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** примерно 310–320 м. Чаще всего называют 317 м. Это свиток из 959 склеенных листов (в некоторых источниках 960).\n\nИсточники расходятся в оценке. Одни дают 317 м, другие около 309 м. Разница, видимо, из-за пересчёта старых мер: в оригинальных описаниях длина указана как 433 аршина 9 вершков (около 309 м) или 434 аршина.\n\nИсточники:\n- https://www.historyrussia.org/sobytiya/dokument-gosudarstvennoj-vazhnosti-sobornoe-ulozhenie-tsarya-alekseya-mikhajlovicha.html (Российское историческое общество): 317 м\n- https://ru.wikipedia.org/wiki/Столбцы_(документооборот): 317 м\n- http://dspace.bsuedu.ru/bitstream/123456789/21953/1/Karamzinskie%20chteniya_2017.pdf: 433 аршина 9 вершков, около 309 м",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.671,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6869,
+      "cacheReadInputTokens": 5861,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0323501,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 428,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-01",
+  "raw": "jsonl/B/msqa-RU-01.jsonl",
+  "reported_cost_usd": 0.0323501,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6995,
+      "query": "Соборное уложение 1649 года столбец длина свитка метров",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Документ государственной важности. Соборное уложение царя Алексея Михайловича - Новости и события Российского исторического общества",
+          "url": "https://www.historyrussia.org/sobytiya/dokument-gosudarstvennoj-vazhnosti-sobornoe-ulozhenie-tsarya-alekseya-mikhajlovicha.html?ysclid=lpb45lyvy8460556264#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Подлинник Уложения представляет собой свиток, склеенный из 959 столбцов- «ставов»",
+          "url": "https://sveden.pf.ncfu.ru/sveden/files/aik/12_Metod_IGiPR_40.03.01_2024(2).pdf#24#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Кроме этого, на отдельном листе находится 315 подписей",
+          "url": "http://dspace.bsuedu.ru/bitstream/123456789/21953/1/Karamzinskie%20chteniya_2017.pdf#55#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Соборное уложение 1649 года (фрагменты)",
+          "url": "https://portal-slovo.ru/history/41849.php#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Факторы развития русской палеографии XVI-XVII вв.",
+          "url": "http://tverpaleography.ru/files/Zanyatie_9_Paleograficheskie_istochniki_XVI-XVII_vv.pdf#1#1"
+        },
+        {
+          "date": "2010-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Столбцы (документооборот) — Википедия - Столбцы (документооборот)",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D1%8B_%28%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%29#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Урок \"Соборное уложение 1649 года\"",
+          "url": "https://imk2020.shpl.ru/moodle/pluginfile.php/151/mod_resource/content/1/2014_sobornul/dopmat.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Столбцы (документооборот) — Карта знаний",
+          "url": "https://Kartaslov.ru/%d0%ba%d0%b0%d1%80%d1%82%d0%b0-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b9/%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D1%8B+%28%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%29"
+        },
+        {
+          "date": "2025-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Соборное уложение - свод законов 1649 года",
+          "url": "https://belokalitvinskiy.ikro.ru/news/news_70279.html?wcag=N"
+        },
+        {
+          "date": "2023-02-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Столбцы (документооборот)",
+          "url": "https://xn--h1ajim.xn--p1ai/%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%86%D1%8B_(%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82)"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6869,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6869,
+    "cache_read_input_tokens": 5861,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5016,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5016,
+        "cache_read_input_tokens": 3857,
+        "input_tokens": 2,
+        "output_tokens": 351,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 428,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

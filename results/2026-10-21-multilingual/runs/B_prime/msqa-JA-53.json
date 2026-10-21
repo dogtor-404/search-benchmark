@@ -1,0 +1,156 @@
+{
+  "answer": "**答え：** 『後拾遺和歌集』の巻第十「哀傷」、歌番号536（新編国歌大観の番号）。哀傷巻の最初の歌です。\n\n作者は一条天皇の皇后定子です。定子が亡くなった後、御帳の帷の紐に結び付けてあった文が見つかり、そこに書かれていた辞世の歌3首のうちの1首です。\n\n**依拠したURL（検索は1回）：**\n- https://bridge.nihu.jp/integrated_searchresults_detail/13413001?word=nijl_21daisyuu_0000004488 （国文学研究資料館の二十一代集データベース。書名「後拾遺和歌集」、巻名「後拾遺和歌集第十」、部立「哀傷」、歌番号「00536」）\n- https://jpsearch.go.jp/en/item/nij04-nijl_nijl_nijl_21daisyuu_0000004488 （Japan Search に載っている同じデータ）\n- https://dictionary.sanseido-publ.co.jp/column/makura49 （哀傷巻が定子のこの歌から始まることの説明）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.842,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7437,
+      "cacheReadInputTokens": 5889,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0724298,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 587,
+      "provider": "firstParty",
+      "thinkingTokens": 97,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-53",
+  "raw": "jsonl/B_prime/msqa-JA-53.jsonl",
+  "reported_cost_usd": 0.0724298,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6583,
+      "query": "夜もすがら契りしことを忘れずは恋ひむ涙の色ぞゆかしき 後拾遺 哀傷 番号",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "［和歌原表記］夜もすから／契しことを／忘すは／こひむ涙の／＊いそくゆかしき／＊５いろそゆかしきイ",
+          "url": "https://bridge.nihu.jp/integrated_searchresults_detail/13413001?word=nijl_21daisyuu_0000004488"
+        },
+        {
+          "date": "2018-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "［和歌原表記］夜もすから／契しことを／忘すは／こひむ涙の／＊いそくゆかしき／＊５いろそゆかしきイ - Japan Search",
+          "url": "https://jpsearch.go.jp/en/item/nij04-nijl_nijl_nijl_21daisyuu_0000004488"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「光る君へ」和歌覚え書⑱ よもすがら…",
+          "url": "https://www.meijishoin.co.jp/news/n60113.html"
+        },
+        {
+          "date": "2011-04-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(49) 定子の遺詠 | 『枕草子日記的章段の研究』発刊に寄せて（赤間恵都子） | 三省堂 ことばのコラム",
+          "url": "https://dictionary.sanseido-publ.co.jp/column/makura49"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "後拾遺和歌集 (Goshui wakashu [Introduction]) :: :: University of Virginia Library - 10. 後拾遺和歌集第十",
+          "url": "https://xtf.lib.virginia.edu/xtf/view?docId=Japanese/uvaGenText/tei/Goshui.xml;chunk.id=d24740e8514;toc.id=d24740e9590;brand=default#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遺詠 - Weblio 英和・和英辞典",
+          "url": "https://ejje.weblio.jp/content/%E9%81%BA%E8%A9%A0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「夜もすがら」に関連した英語例文の一覧と使い方",
+          "url": "https://ejje.weblio.jp/small/sentence/content/%E5%A4%9C%E3%82%82%E3%81%99%E3%81%8C%E3%82%89?scpt=translate"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "よもすがら - Weblio 英和・和英辞典",
+          "url": "https://ejje.weblio.jp/content/%E3%82%88%E3%82%82%E3%81%99%E3%81%8C%E3%82%89"
+        },
+        {
+          "date": "2013-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ilyaさんのおぼえた日記 – 2013年8月26日(月)｜NHK語学講座で学ぶ！ゴガクル",
+          "url": "https://gogakuru.com/mypage_257758/diary/2013-08/26.html?m=1#diary"
+        },
+        {
+          "date": "2024-07-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "愛されすぎて…皇后定子はわずか24歳で崩御｢兄の伊周は冷たくなった妹を抱き号泣した｣という最期の瞬間 道長アゲの『栄花物語』では政治的敗者の悲劇として描かれた (4ページ目)",
+          "url": "https://president.jp/articles/-/83790?page=4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7437,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7437,
+    "cache_read_input_tokens": 5889,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5556,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5556,
+        "cache_read_input_tokens": 3885,
+        "input_tokens": 2,
+        "output_tokens": 386,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 587,
+    "output_tokens_details": {
+      "thinking_tokens": 97
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

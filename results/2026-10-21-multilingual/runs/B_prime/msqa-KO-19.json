@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** 화랑 정신的核心信条是**세속오계（世俗五戒，又称“花郎五戒”）**。公元600年前后，新罗僧人원광법사（圆光法师）把它传给귀산和추항两人，共五条：\n\n1. **사군이충（事君以忠）**：以忠事君\n2. **사친이효（事親以孝）**：以孝事亲\n3. **교우이신（交友以信）**：以信交友\n4. **임전무퇴（臨戰無退）**：临战不退\n5. **살생유택（殺生有擇）**：杀生有择，杀生要有选择\n\n五条里融合了儒家的忠孝思想、佛教的慈悲思想，以及新罗本土的“풍류（风流）”之道。有资料说，花郎最看重的是“忠”和“信”。\n\n**依据：**\n- 한국민족문화대백과사전（韩国民族文化大百科），“세속오계”词条：https://encykorea.aks.ac.kr/Article/E0029812\n- 우리역사넷（国史编纂委员会），“세속 오계”：https://contents.history.go.kr/mobile/tg/view.do?subjectCode=tg_age_20&tabId=01&levelId=tg_001_0750&ganada=&pageUnit=10\n- 디지털청도문화대전（数字清道文化大全），“세속 오계”：https://cheongdo.grandculture.net/cheongdo/search/GC05500410\n\n（共搜索 1 次。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.943,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 13818,
+      "cacheReadInputTokens": 5845,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.124589,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 643,
+      "provider": "firstParty",
+      "thinkingTokens": 66,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/B_prime/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.124589,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7708,
+      "query": "화랑도 세속오계 핵심 신조",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속오계 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0029812"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속 오계",
+          "url": "https://contents.history.go.kr/front/tg/print.do?treeId=&levelId=tg_001_0750&whereStr="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "최치원이 말한 ｢풍류｣는 ｢초세속적인 행동｣으로도 해석할 수 있으나, 혹시 단군의 아들 부루 (夫妻)와 같은 뜻인지도 모른다",
+          "url": "https://s-space.snu.ac.kr/bitstream/10371/66977/1/%ec%84%a0%eb%b9%84%eb%ac%b8%ed%99%94%ec%9d%98%20%ec%97%ad%ec%82%ac%ec%a0%81%20%ec%a0%84%ea%b0%9c%ec%99%80%20%eb%af%b8%eb%9e%98.pdf#8#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리역사넷",
+          "url": "https://contents.history.go.kr/mobile/tg/view.do?subjectCode=tg_age_20&tabId=01&levelId=tg_001_0750&ganada=&pageUnit=10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "⑤ 국민정신은 어떠하였는가?",
+          "url": "http://contents.history.go.kr/front/ta/view.do?levelId=ta_p61r_0050_0030_0050"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "층(事君以忠), 사천이효(事親以孝), 교우이신(交友以信), 임전무퇴(臨戰無退), 살생유택",
+          "url": "https://www.cku.ac.kr/bbs/history/1150/74710/download.do#6#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속 오계 - 디지털청도문화대전",
+          "url": "https://cheongdo.grandculture.net/cheongdo/search/GC05500410?keyword=%EC%B2%AD%EB%8F%84&collection=text&page=1&pageSize=10&facet=field%3A%EC%97%AD%EC%82%AC%2Ctimes%3A%EA%B3%A0%EB%8C%80%2Ccontents_type%3A%EA%B0%9C%EB%85%90%20%EC%9A%A9%EC%96%B4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "천도교중앙총부",
+          "url": "https://www.chondogyo.or.kr/bbs/board.php?bo_table=sub72&wr_id=569&sst=wr_hit&sod=desc&sop=and&page=46"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'계율' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ea%b3%84%ec%9c%a8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'임전무퇴' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ec%9e%84%ec%a0%84%eb%ac%b4%ed%87%b4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13818,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13818,
+    "cache_read_input_tokens": 5845,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11981,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11981,
+        "cache_read_input_tokens": 3841,
+        "input_tokens": 2,
+        "output_tokens": 505,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 643,
+    "output_tokens_details": {
+      "thinking_tokens": 66
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

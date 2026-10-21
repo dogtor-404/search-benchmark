@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** ชาวยวน（ไทยวน），也就是ล้านนา（兰纳）女性。中文是\"泰阮族／兰纳族\"妇女。\n\n**依据：** 《ศิลปวัฒนธรรม》（Silpa-Mag）的文章《\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน》里原话是：「\"ซิ่น\" ของสตรีชาวยวนหรือล้านนา อันเป็นอัตลักษณ์ในแทบภาคเหนือของประเทศไทย」。题目的措辞跟这句几乎一样，连 \"แทบ\" 这个错字都相同。\n- https://www.silpa-mag.com/culture/article_35746\n\n《มติชนสุดสัปดาห์》有一篇几乎相同的说法，写的是 \"สตรีชาวล้านนา\"：\n- https://www.matichon.co.th/weekly/column/article_690535\n\n只搜了 1 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.194,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 21044,
+      "cacheReadInputTokens": 5868,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.18138159999999998,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 592,
+      "provider": "firstParty",
+      "thinkingTokens": 148,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-46",
+  "raw": "jsonl/B_prime/msqa-TH-46.jsonl",
+  "reported_cost_usd": 0.18138159999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8514,
+      "query": "ซิ่น อัตลักษณ์ ภาคเหนือ สตรีชาว",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2023-07-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น - มติชนสุดสัปดาห์ - Skip to content",
+          "url": "https://www.matichon.co.th/weekly/column/article_690535#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ซิ่น Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%99"
+        },
+        {
+          "date": "2023-07-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ซีรีส์วิถีคน - วิถีคนล้านนา ต.ท่าผา อ.แม่แจ่ม จ.เชียงใหม่ | Thai PBS รายการไทยพีบีเอส",
+          "url": "https://www.thaipbs.or.th/program/TheConnect/episodes/95945"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สื่อบันเทิงไทยประเภท วรรณกรรม ละครโทรทัศน์ และภาพยนตร์ ได้สร้างตัวละครที่เป็นชาวเหนือแสดงให้ เห็นถึงลักษณะการแต่งกายของภาคเหนือ ...",
+          "url": "https://so04.tci-thaijo.org/index.php/larhcu/article/download/267821/183823#6#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เชียงใหม่ Archives - Page 8 of 8 - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/page/8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หัวชิ้น คือส่วนที่อยู่ติดกับเอว มักใช้ผ้าพื้นสีขาว สีแดงหรือสีด าต่อกับตัวชิ้น เพื่อให้ชิ้น ยาวพอดีกับความสูงของผู้นุ่ง และใช้เป...",
+          "url": "https://soc.mcu.ac.th/wp-content/uploads/2024/05/Proceeding-MCU-Congress-4-%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%a1-2.pdf#193#131"
+        },
+        {
+          "date": "2021-09-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่นในพระราชชายาเจ้าดารารัศมี ตอนที่ 4 - สำนักบริหารศิลปวัฒนธรรม จุฬาลงกรณ์มหาวิทยาลัย",
+          "url": "https://www.cuartculture.chula.ac.th/news/7850/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ระบบสารสนเทศศูนย์อนุรักษ์ผ้าไหม",
+          "url": "https://www.qsds.go.th/silkcotton/k_21.php"
+        },
+        {
+          "date": "2019-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ชมรมสานใจสายใยผ้าซิ่น อนุรักษ์เผยแพร่ผ้าทอไทย - (ภาพ : น",
+          "url": "https://www.thairath.co.th/newspaper/1673960#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 21044,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 21044,
+    "cache_read_input_tokens": 5868,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 19184,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 19184,
+        "cache_read_input_tokens": 3864,
+        "input_tokens": 2,
+        "output_tokens": 356,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 592,
+    "output_tokens_details": {
+      "thinking_tokens": 148
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

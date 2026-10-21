@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "家電製品をペットのように可愛がる人 呼ばれる", "results": [], "status": "allowed", "tool_use_id": "toolu_01YUHp2TjkNF6ite6KGQUSWd"}
+{"billable": false, "call": 2, "query": "\"家電をペットのように\" 人 俗語", "results": [], "status": "allowed", "tool_use_id": "toolu_01K7yHnvET7TR6KRUiKWeEVt"}
+{"billable": false, "call": 3, "query": "家電 ペットのように 愛着 名前をつける人 呼び名 ○○族", "results": [], "status": "allowed", "tool_use_id": "toolu_019ZoFTK16zn5kaH6MnXfVoN"}
+{"billable": false, "call": 4, "query": "把家电当成宠物一样宠爱的人 被称为", "results": [], "status": "allowed", "tool_use_id": "toolu_01LgvFriZSXDqvrq8BZTcf3c"}
+{"billable": false, "call": 5, "query": "家電を可愛がる人 \"家電萌え\" OR \"家電愛\" ペット扱い 呼称", "results": [], "status": "allowed", "tool_use_id": "toolu_01VQ3rE6nXCVwmXcjqce29cc"}

@@ -1,0 +1,62 @@
+{
+  "answer": "“Sepenggalah matahari naik” 不是精确的钟点，而是印尼语/马来语里的传统说法，字面是“太阳升高了一竿（galah）”，用一根撑船长竿的高度来形容太阳离地平线的高度。所以它是按日出后太阳的位置来估的，随纬度和季节变化。\n\n通常的理解是上午中段，大约 **9 点左右**（常见说法是“sekitar pukul sembilan pagi”，也有人宽泛地说 8:30–10:00）。在赤道附近日出约 6 点，太阳“一竿高”大致对应日出后两三个小时。\n\n我没有把握给出某个词典的准确定义（比如 KBBI 是否把它固定为 09.00）；它本质上是一个模糊的民间时间表达，不存在唯一正确的钟点。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.109,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.051188,
+      "inputTokens": 1977,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2164,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-70",
+  "raw": "jsonl/D0/msqa-ID-70.jsonl",
+  "reported_cost_usd": 0.051188,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1977,
+    "iterations": [],
+    "output_tokens": 2164,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

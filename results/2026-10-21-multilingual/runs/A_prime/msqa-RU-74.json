@@ -1,0 +1,109 @@
+{
+  "answer": "**Ответ: вяземский пряник** (из Вязьмы, уездного города Смоленской губернии).\n\nНасколько хорошо это подтверждено:\n- То, что Вязьма была уездным городом Смоленской губернии и что там пекли «вяземские пряники», подтверждено: об этом пишет БСЭ, есть и статья о Вяземском уезде.\n- Вяземские пряники в прошлом славились на всю страну и, по одной публикации, были самыми дорогими на Руси. Делали их в основном печатными, на патоке с вареньем.\n- Прямого подтверждения, что вяземский, тульский и ржевский пряники считались тремя главными праздничными сортами, в найденных источниках нет. Нет и указания именно на заварное тесто. Ответ выбран потому, что из смоленских пряников известен только вяземский. Сделано 2 поиска из 5.\n\nИсточники:\n- [БСЭ1, «Вязьма, город» (Викитека)](https://ru.wikisource.org/wiki/%D0%91%D0%A1%D0%AD1/%D0%92%D1%8F%D0%B7%D1%8C%D0%BC%D0%B0,_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)\n- [Vyazemsky Uyezd (Wikipedia)](https://en.wikipedia.org/wiki/Vyazemsky_Uyezd)\n- [Что привезти из Вязьмы (travelto.ru)](https://travelto.ru/blog/chto-privezti-iz-vyazmy/)\n- [ВкусВилл: всё о пряниках](https://vkusvill.ru/media/journal/vsye-o-pryanikakh-gde-kakie-i-zachem-pekut-chey-retsept-vkusnee.html)\n- [Алиса: чем отличаются пряники разных регионов](https://alice.yandex.ru/neurum/c/eda/q/chem_otlichayutsya_pryaniki_raznyh_regionov_2bbbf58d)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 29.74,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0232753,
+      "inputTokens": 21998,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2151,
+      "provider": "firstParty",
+      "thinkingTokens": 447,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4818,
+      "cacheReadInputTokens": 12465,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.061401,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1017,
+      "provider": "firstParty",
+      "thinkingTokens": 117,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-74",
+  "raw": "jsonl/A_prime/msqa-RU-74.jsonl",
+  "reported_cost_usd": 0.0846763,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "вяземский пряник заварной Смоленская губерния тульский ржевский",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LpNzMUSL6V5ZpYLpyu66Dr"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "вяземские пряники наряду с тульскими и ржевскими лучшие праздничные",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01R1fneWH8sm3izkX3QtifXe"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4818,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4818,
+    "cache_read_input_tokens": 12465,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1576,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1576,
+        "cache_read_input_tokens": 5693,
+        "input_tokens": 2,
+        "output_tokens": 742,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1017,
+    "output_tokens_details": {
+      "thinking_tokens": 117
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

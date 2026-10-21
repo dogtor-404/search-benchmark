@@ -1,0 +1,74 @@
+{
+  "answer": "**常见答案：《สมุทรโฆษคำฉันท์》（三穆陀高沙颂）**，阿瑜陀耶王朝那莱王时期的作品。开头部分由宫廷诗人 พระมหาราชครู 创作，后来由拉玛二世之子 สมเด็จพระมหาสมณเจ้า กรมพระปรมานุชิตชิโนรส 在曼谷王朝初期续写完成。\n\n不过这一点我不能完全确定，不同资料说法不一：\n\n- 也有资料说 **《เสือโคคำฉันท์》**（虎牛颂）是最早的“คำฉันท์”。它同样被认为出自那莱王时期的 พระมหาราชครู。\n- 如果按“最早使用 ฉันท์ 诗体的作品”来算，而不只看标题带“คำฉันท์”的作品，那么更早的 **《มหาชาติคำหลวง》**（戴莱洛迦纳王时期）里已经夹用了 ฉันท์。\n\n所以答案取决于判定标准和所用的教材。在泰国的考试或问答题里，最常见的标准答案是《สมุทรโฆษคำฉันท์》或《เสือโคคำฉันท์》，我无法上网核实究竟以哪个为准。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.172,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1765,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0339816,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 977,
+      "provider": "firstParty",
+      "thinkingTokens": 533,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-100",
+  "raw": "jsonl/0_prime/msqa-TH-100.jsonl",
+  "reported_cost_usd": 0.0339816,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1765,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1765,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1765,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 977,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 977,
+    "output_tokens_details": {
+      "thinking_tokens": 533
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

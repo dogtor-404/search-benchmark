@@ -1,0 +1,144 @@
+{
+  "answer": "**화랑 정신의 핵심 신조는 「세속오계(世俗五戒)」** — 원광법사가 정한 다섯 가지 계율입니다:\n\n1. **사군이충(事君以忠)** — 충성으로 임금을 섬긴다\n2. **사친이효(事親以孝)** — 효도로 부모를 섬긴다\n3. **교우이신(交友以信)** — 신의로 벗을 사귄다\n4. **임전무퇴(臨戰無退)** — 전쟁에서 물러서지 않는다\n5. **살생유택(殺生有擇)** — 생명을 죽일 때는 가려서 한다\n\n依据：한국민족문화대백과사전 「세속오계」 https://encykorea.aks.ac.kr/Article/E0029812",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.622,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0469464,
+      "inputTokens": 9260,
+      "maxOutputTokens": 32000,
+      "outputTokens": 471,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/D2_prime/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.0469464,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7211,
+      "query": "화랑 정신 세속오계 핵심 신조",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "⑤ 국민정신은 어떠하였는가?",
+          "url": "http://contents.history.go.kr/front/ta/view.do?levelId=ta_p61r_0050_0030_0050"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속오계 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0029812"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "⑤ 국민(國民) 정신(精神)은 어떠하였는가?",
+          "url": "http://contents.history.go.kr/front/ta/view.do?levelId=ta_p61_0050_0030_0050"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Study on Five Commandments of Hwarang Applied to Modern Leadership - HOME > 논문 > 논문 상세",
+          "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002111383#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속 오계",
+          "url": "https://contents.history.go.kr/front/tg/print.do?treeId=&levelId=tg_001_0750&whereStr="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑정신의 시대적 의미에 대한 고찰 - 향가(鄕歌)·불교와의 연관성을 중심으로 -",
+          "url": "https://m.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=0fc7bf360f1a678fc85d2949c297615a"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'계율' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ea%b3%84%ec%9c%a8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "층(事君以忠), 사천이효(事親以孝), 교우이신(交友以信), 임전무퇴(臨戰無退), 살생유택",
+          "url": "https://www.cku.ac.kr/bbs/history/1150/74710/download.do#6#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "한국유엔봉사단",
+          "url": "http://unv.or.kr/mp2/mp2_sub3?sub=03&ckattempt=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'임전무퇴' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ec%9e%84%ec%a0%84%eb%ac%b4%ed%87%b4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9260,
+    "iterations": [],
+    "output_tokens": 471,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

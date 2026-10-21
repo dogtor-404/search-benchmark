@@ -1,0 +1,62 @@
+{
+  "answer": "我无法确定 Orang Mapur 在游耕（ladang berpindah）中具体使用哪些工具，手头没有可靠来源确认这一点，所以不编造。\n\n一般印尼游耕农业常用的工具包括砍刀（parang）、斧头（kapak）、点播木棍（tugal）等，但这只是这类耕作制度的常见工具，不能等同于 Orang Mapur 族群实际使用的具体器物。需要确切的答案得查资料核实，而我现在无法上网。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.799,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.019692,
+      "inputTokens": 2038,
+      "maxOutputTokens": 32000,
+      "outputTokens": 577,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-81",
+  "raw": "jsonl/D0_prime/msqa-ID-81.jsonl",
+  "reported_cost_usd": 0.019692,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2038,
+    "iterations": [],
+    "output_tokens": 577,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

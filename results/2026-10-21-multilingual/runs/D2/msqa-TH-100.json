@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** 《เสือโคคำฉันท์》（又名《หลวิชัย–คาวี》，即“虎与牛”的禅体长诗）是泰国文学史上第一部通篇用“ฉันท์”（禅体/诗律）写成的作品，作者一般认为是阿瑜陀耶王朝的 พระมหาราชครู，题材取自《ปัญญาสชาดก》。\n\n（若按“ฉันท์ 诗律最早出现在哪部作品”来问，则是《มหาชาติคำหลวง》的“กัณฑ์มหาพน”篇；但若问“整部作品都用ฉันท์写成的第一部作品”，答案就是《เสือโคคำฉันท์》。）\n\n依据网址：\n- http://digital.nlt.go.th/dlib/files/original/a657c9a031385026557f73764193134a.pdf\n- https://elearning.mcu.ac.th/pluginfile.php/85504/mod_folder/content/0/หนังสือ-งานวิจัยและวรรณกรรมทางพระพุทธศาส.pdf\n- http://digitalschool.club/digitalschool/thai1_3_1/thai3_1/content04.php",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.327,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.092648,
+      "inputTokens": 17929,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1021,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-100",
+  "raw": "jsonl/D2/msqa-TH-100.jsonl",
+  "reported_cost_usd": 0.092648,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8465,
+      "query": "วรรณคดีไทยประเภทฉันท์เรื่องแรก",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หลวิชัย คาวี หรือ เสือโคกําฉันท์ เป็นวรรณคดีไทยเรื่องแรกที่ ประพันธ์ขึ้นในลักษณะของฉันท์ แต่งขึ้นเป็นภาษาไทยตลอด ทั้งเรื่อง มีกา...",
+          "url": "http://digital.nlt.go.th/dlib/files/original/a657c9a031385026557f73764193134a.pdf#21#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วรรณกรรมเรื่องเสือโคคำฉันท์ กล่าวไว้ว่า เสือโคคำฉันท์ เป็นวรรณคดีประเภทฉันท์ที่มีความ",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/85504/mod_folder/content/0/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B2%E0%B8%AA.pdf?forcedownload=1#88#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เป็นบทละครพูดที่แต่งด้วยคำประพันธ์ประเภทฉันท์เป็นเรื่องแรกของไทย พระบาทสมเด็จพระมงกุฎเกล้า เจ้าอยู่หัว ทรงคิดโครงเรื่องขึ้นเอง ไ...",
+          "url": "http://www.strisuksa.ac.th/app/sendplan/uploads/20251119054024_7_plan.pdf#43#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "บทที่ ๒",
+          "url": "http://ird01.stou.ac.th/researchlib/uploads/2557_035/%e0%b8%9a%e0%b8%97%e0%b8%97%e0%b8%b5%e0%b9%88%202.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สวนวิทยานิพนธเรื่อง พัฒนาการของฉันทในวรรณกรรมคําฉันท กําหนดขอบเขตของขอมูลกวาง กวา เรื่องกอน คือตั้งแตในสมัยอยุธยาตอนตน...",
+          "url": "https://elibrary.tsri.or.th/fullP/RTA5080015/RTA5080015_full.pdf#123#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำประพันธ์ข้างต้น แต่ละวรรคเป็นค่าครูลหุของฉันท์แต่ละคณะ รวม 8 คณะ คำที่สี่ของวรรคเป็น",
+          "url": "https://so04.tci-thaijo.org/index.php/jasu/article/download/243282/165310/840717#9#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สมัยธนบุรีพบวรรณคดีคำฉันท์ 2 เรื่อง คือ กฤษณาสอนน้องคำฉันท์ และอินทนาคำฉันท์ (ประคอง",
+          "url": "https://so02.tci-thaijo.org/index.php/JMBR_sothorn/issue/download/16934/4978#23#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. ประเภทฉันท์ ได้แก่ สมุทรโฆษคําฉันท์ หรือ ฉันท์สมุทรโฆษ เป็นยอดของฉันท์",
+          "url": "https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/7424/1/MatheeAnan.pdf#80#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วรรณคดีเรื่อง เสือโคคำฉันท์",
+          "url": "http://digitalschool.club/digitalschool/thai1_3_1/thai3_1/content04.php"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ร้อยกรองไทยมรดกไทยของคนไทย",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2018/02/00117_031_2558สารนิพนธ์เรื่อง-ร้อยกรองไทย_ผศ.ดร.สมชัย-ศรีนอก-ช.ศรีนอก-509-522.pdf#3#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8566,
+      "query": "ฉันท์ เรื่องแรกของวรรณคดีไทย",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หลวิชัย คาวี หรือ เสือโคกําฉันท์ เป็นวรรณคดีไทยเรื่องแรกที่ ประพันธ์ขึ้นในลักษณะของฉันท์ แต่งขึ้นเป็นภาษาไทยตลอด ทั้งเรื่อง มีกา...",
+          "url": "http://digital.nlt.go.th/dlib/files/original/a657c9a031385026557f73764193134a.pdf#21#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วรรณกรรมเรื่องเสือโคคำฉันท์ กล่าวไว้ว่า เสือโคคำฉันท์ เป็นวรรณคดีประเภทฉันท์ที่มีความ",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/85504/mod_folder/content/0/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B2%E0%B8%AA.pdf?forcedownload=1#88#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สวนวิทยานิพนธเรื่อง พัฒนาการของฉันทในวรรณกรรมคําฉันท กําหนดขอบเขตของขอมูลกวาง กวา เรื่องกอน คือตั้งแตในสมัยอยุธยาตอนตน...",
+          "url": "https://elibrary.tsri.or.th/fullP/RTA5080015/RTA5080015_full.pdf#123#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เป็นบทละครพูดที่แต่งด้วยคำประพันธ์ประเภทฉันท์เป็นเรื่องแรกของไทย พระบาทสมเด็จพระมงกุฎเกล้า เจ้าอยู่หัว ทรงคิดโครงเรื่องขึ้นเอง ไ...",
+          "url": "http://www.strisuksa.ac.th/app/sendplan/uploads/20251119054024_7_plan.pdf#43#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "นภาลัย สุวรรณธาดา (2541: 294-296) ได้กล่าวถึงที่มาของตำราฉันท์",
+          "url": "http://ithesis-ir.su.ac.th/dspace/bitstream/123456789/2243/1/57255307.pdf#33#10"
+        },
+        {
+          "date": "2018-11-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เนาวรัตน์ พงษ์ไพบูลย์ : เขื่องขลังพลังกวี - มติชนสุดสัปดาห์ - Skip to content",
+          "url": "https://www.matichon.co.th/weekly/column/article_145395#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. ประเภทฉันท์ ได้แก่ สมุทรโฆษคําฉันท์ หรือ ฉันท์สมุทรโฆษ เป็นยอดของฉันท์",
+          "url": "https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/7424/1/MatheeAnan.pdf#80#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สุมาลี วีระวงศ์ (2536) กล่าวว่า คนไทยเริ่มเรียนภาษาอังกฤษมาแต่สมัยรัชกาลที่ 3 กว่าที่อิทธิพล ของตะวันตกจะปรากฏให้เห็นในวรรณกรรมไ...",
+          "url": "https://so03.tci-thaijo.org/index.php/jhnu/article/download/212488/147812/673739#6#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "- ๑๐๑ -",
+          "url": "http://cuir.car.chula.ac.th/dspace/bitstream/123456789/70779/9/%e0%b8%99.%e0%b8%aa.%e0%b8%81%e0%b8%b8%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%9a%20%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%87_ch8_p.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำประพันธ์ข้างต้น แต่ละวรรคเป็นค่าครูลหุของฉันท์แต่ละคณะ รวม 8 คณะ คำที่สี่ของวรรคเป็น",
+          "url": "https://so04.tci-thaijo.org/index.php/jasu/article/download/243282/165310/840717#9#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 17929,
+    "iterations": [],
+    "output_tokens": 1021,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "answer": "5 次搜索已用完，答案如下。\n\n**答案：没查到一个确定的说法。最可能的是「隠れモテ（女子）」，其次是「地味モテ」。**\n\n- 「隠れモテ」：All About 的专栏用这个词，指外表不显眼、但靠稳重、诚实等内在吸引人的女性。另一篇 All About 文章也有「隠れファンが多い女性」这样的说法。\n- 「地味モテ」：有专栏用它指\"看上去朴素却受欢迎\"的女性，还说「地味なほうがモテる」（越朴素越受欢迎）。\n- 我也搜了「スルメ女子」，没找到定义。「さりげな女子」「愛され女子」这些词只是近义说法，不是\"乍看一般\"的固定叫法。\n\n所以这个答案把握不大。题目如果有一个固定的标准答案，我这 5 次搜索没能确认是哪个词。\n\n依据的网址：\n- [All About（地味なほうがモテる）](https://allabout.co.jp/gm/gc/496755/)\n- [All About（隠れモテ）](https://allabout.co.jp/gm/gc/491432/)\n- [モデルプレス：地味なのに何故かモテる](https://mdpr.jp/column/detail/1585523)\n- [モデルプレス：さりげな女子](https://mdpr.jp/column/detail/1584163)\n- [Smartlog](https://smartlog.jp/151783)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 56.851,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.057872400000000004,
+      "inputTokens": 57564,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4232,
+      "provider": "firstParty",
+      "thinkingTokens": 1227,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8079,
+      "cacheReadInputTokens": 35280,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.10223600000000002,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1525,
+      "provider": "firstParty",
+      "thinkingTokens": 524,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-08",
+  "raw": "jsonl/A_prime/msqa-JA-08.jsonl",
+  "reported_cost_usd": 0.16010840000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "一見大したことないけれどモテる女子 呼ばれる",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01D96AGW7C68Ef7vUG87GWoB"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"一見\" 地味なのにモテる女子 呼び名 「隠れモテ」 OR 「ステルス」 OR 「サイレント」",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VRyRbGLSpSmwtntgZ5hu6E"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "「地味モテ」女子 とは 意味",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KfrXcUdz11T9tRShqjfBGS"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "\"大したことない\" のにモテる女性 と呼ばれる 言葉",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LYgvxsmtJ8gWoSoHnt3vJL"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "「スルメ女子」 OR 「隠れモテ女子」 一見 地味 モテる とは",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01G7F1YNGrcC1uN43rNuHP4e"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8079,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8079,
+    "cache_read_input_tokens": 35280,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1502,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1502,
+        "cache_read_input_tokens": 9028,
+        "input_tokens": 2,
+        "output_tokens": 546,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1525,
+    "output_tokens_details": {
+      "thinking_tokens": 524
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

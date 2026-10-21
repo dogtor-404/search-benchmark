@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：“지슬”在济州方言里是“土豆（감자）”的意思。**\n\n- 济州方言中，**지슬（也作 지실）= 감자（土豆）**；而 **감저** 在济州话里指的是 **고구마（红薯）**，不要弄混。\n- 有说法认为它源自“地實”（地里长出的果实）。\n- 电影《지슬》（2013）的片名也取自这个词，影片讲述的是济州 4·3 事件。\n\n依据网址：\n- 济州特别自治道《제주어대사전》“지슬”词条：https://www.jeju.go.kr/jejueo/dictionary/search.htm?query=%EA%B0%90%EC%9E%90&cnt=false&qtype=word&page=1&id=1-21659-0\n- 济州学研究中心（对“감저”与“지슬”的区分）：http://jst.re.kr/digitalArchiveDetail.do?cid=210404&mid=RC00092262\n- 东亚日报《제주 지슬반지기밥》：https://www.donga.com/news/Opinion/article/all/20230914/121189644/1\n- 东亚日报关于电影《지슬》的报道：https://www.donga.com/news/Entertainment/article/all/20180403/89441186/2",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.399,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0621968,
+      "inputTokens": 12144,
+      "maxOutputTokens": 32000,
+      "outputTokens": 658,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/D2/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.0621968,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5811,
+      "query": "제주도 방언 지슬 뜻",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주어대사전",
+          "url": "https://www.jeju.go.kr/jejueo/dictionary/search.htm?query=%EA%B0%90%EC%9E%90&cnt=false&qtype=example&page=5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "103065 #2 올려사 헬거주게",
+          "url": "http://archive.jst.re.kr/upload/pdf/RC00088225.pdf#97#45"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주학연구센터, 제주학 아카이브",
+          "url": "http://jst.re.kr/digitalArchiveDetail.do?cid=210404&mid=RC00092262&menuName=%ea%b5%ac%ec%88%a0(%ec%9d%8c%ec%84%b1)"
+        },
+        {
+          "date": "2023-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[바람개비]제주 지슬반지기밥",
+          "url": "https://www.donga.com/news/Opinion/article/all/20230914/121189644/1"
+        },
+        {
+          "date": "2018-04-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이효리 “‘지슬’은 감자 방언…4·3 사건 때 감자로 끼니 때우던 아픔 녹아 있어”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20180403/89441186/2"
+        },
+        {
+          "date": "2018-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "빠르게 사라지는 제주방언, 도민들도 관심 낮아 - 창간 80주년 경향신문",
+          "url": "https://www.khan.co.kr/article/201810211452001#1"
+        },
+        {
+          "date": "2023-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "방문하고자 하는 언어의 홈페이지를 선택하세요.",
+          "url": "https://www.donga.com/news/Series/70040100000275?ymd=20230914&m="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<제주어> [KCTV] PICK[단축영업·탐나는전·제주어)",
+          "url": "http://jst.re.kr/budgetBoardView.do?ebSeq=3040&searchType=&searchWord=&curPage=25"
+        },
+        {
+          "date": "2012-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주4.3 재조명 '지슬', CGV 무비꼴라쥬상 수상",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=162273"
+        },
+        {
+          "date": "2013-03-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영화로운 그곳 - ‘지슬’ 동백동산 | 중앙일보",
+          "url": "https://www.joongang.co.kr/article/11075644"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6564,
+      "query": "\"지슬\" 제주어 감자",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "서지정보 내보내기 (Export)",
+          "url": "https://www.nculture.org/tag/cultureTagList.do?searchTag=%eb%86%8d%ed%8a%b9%ec%82%b0%eb%ac%bc"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주어대사전",
+          "url": "https://www.jeju.go.kr/jejueo/dictionary/search.htm?query=%EA%B0%90%EC%9E%90&cnt=false&qtype=word&page=1&id=1-21659-0"
+        },
+        {
+          "date": "2018-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "컬러푸드 '홍지슬' 제주 감자로 육성…내년부터 농가 보급 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20180201149900056"
+        },
+        {
+          "date": "2020-07-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속까지 빨간 감자 제주 '홍지슬', 가락시장서 우수평가 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20200722079300056"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "해외산업정보 < 해외산업동향 < 콘텐츠지식 < 콘텐츠진흥원",
+          "url": "https://kocca.kr/knowledge/abroad/indu/1807678_4396.html"
+        },
+        {
+          "date": "2013-03-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[새영화] 영상미로 담아낸 4·3 ‘지슬’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=2624357"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5.4. 특이 어휘",
+          "url": "https://www.jeju.go.kr/jedu/data/data.htm?category=3094&page=45&act=download&seq=1538745&no=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "103065 #2 올려사 헬거주게",
+          "url": "http://archive.jst.re.kr/upload/pdf/RC00088225.pdf#97#45"
+        },
+        {
+          "date": "2018-04-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이효리 “‘지슬’은 감자 방언…4·3 사건 때 감자로 끼니 때우던 아픔 녹아 있어”",
+          "url": "https://www.donga.com/news/List/article/all/20180403/89441186/2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주학연구센터, 제주학 아카이브",
+          "url": "http://jst.re.kr/digitalArchiveDetail.do?cid=210404&mid=RC00092262&menuName=%ea%b5%ac%ec%88%a0(%ec%9d%8c%ec%84%b1)"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12144,
+    "iterations": [],
+    "output_tokens": 658,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

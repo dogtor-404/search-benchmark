@@ -1,0 +1,62 @@
+{
+  "answer": "古代泰语里 **แพ้** 的原义是「赢、战胜」（**ชนะ** / to win, to defeat），和今天中部泰语「输、败」的意思正好相反。\n\n依据（凭我所知，未联网核查）：\n\n- 素可泰时期的兰甘亨碑文中，**แพ้** 用在「打败（敌人）」的意思上。\n- 现在老挝语和泰东北方言（伊桑语）里，**แพ้** 仍保留「赢」的用法，例如 **แพ้ศึก** 是「打胜仗」。\n- 也就是说，这个词本来表「赢」，是后来的中部泰语发生了词义反转，才变成今天「输、败」的意思。\n\n如果你需要，我可以把某条碑文原文或泰语史/方言的出处再帮你核对（但需你确认能联网或提供资料）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 31.106,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0812,
+      "inputTokens": 2040,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3652,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/D0_prime/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.0812,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2040,
+    "iterations": [],
+    "output_tokens": 3652,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

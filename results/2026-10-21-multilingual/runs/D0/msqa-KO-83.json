@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道“오다망”这个词的意思。\n\n我对这个韩语流行语没有可靠印象，无法确认它是近期新造的网络用语、某个词的缩写或变体，还是拼写有误（比如想写别的词）。凭现有知识硬猜容易误导，所以直说不知道。\n\n如果你能提供出处（哪个平台、上下文句子，或大致出现时间），我可以帮你一起推断；或者等能联网时再查。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.652,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.016368,
+      "inputTokens": 1972,
+      "maxOutputTokens": 32000,
+      "outputTokens": 424,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-83",
+  "raw": "jsonl/D0/msqa-KO-83.jsonl",
+  "reported_cost_usd": 0.016368,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1972,
+    "iterations": [],
+    "output_tokens": 424,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

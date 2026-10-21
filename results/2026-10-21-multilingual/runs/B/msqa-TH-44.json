@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** พัดพระพิธีธรรม ซึ่งใช้ในการสวดพระอภิธรรม\n\nบทความระบุว่าเป็นพัดหน้านางพื้นแพรปักไหมทอง ลักษณะเหมือนพัดเปรียญในรัชกาลที่ 5 มี 4 สี คือเหลือง แดง น้ำเงิน และเขียว รวมสี่เล่มเป็นหนึ่งสำรับ แต่ละสีตรงกับพัดเปรียญธรรมต่างชั้นกัน:\n- เหลือง: 6 ประโยค\n- แดง: 5 ประโยค\n- น้ำเงิน: 4 ประโยค\n- เขียว: 3 ประโยค\n\n**แหล่งที่มา:** https://www.silpa-mag.com/culture/article_3786 (ศิลปวัฒนธรรม, \"ความหมายของสีพัดพระพิธีธรรม และธรรมเนียมโบราณ\", พระศรีวชิรากร วัดชนะสงคราม)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.764,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 16140,
+      "cacheReadInputTokens": 5892,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.07014719999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 499,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-44",
+  "raw": "jsonl/B/msqa-TH-44.jsonl",
+  "reported_cost_usd": 0.07014719999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8448,
+      "query": "พัดหน้านางพื้นแพรปักไหมทอง ลักษณะเหมือนพัดเปรียญในรัชกาลที่ 5 สีต่างๆ",
+      "results": [
+        {
+          "date": "2025-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ความหมายของสีพัดพระพิธีธรรม และธรรมเนียมโบราณ",
+          "url": "https://www.silpa-mag.com/culture/article_3786"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัดพระพิธีธรรม Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1"
+        },
+        {
+          "date": "2026-06-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัดเปรียญ Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัดรองที่ระลึกในงานเฉลิมพระที่นั่งเวหาศน์จำรูญ ณ พระราชวังบางปะอิน",
+          "url": "https://finearts.go.th/museumstorage/view/50532-%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B9%E0%B8%8D-%E0%B8%93-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%AD%E0%B8%B4%E0%B8%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัดรองสĬำหรับถวายพระสงฆ์ ตัวพัดมีลักษณะเป็นพัดหน้านาง ทĬำด้วยผ้าไหมไทยสีดĬำ สĬำหรับทรง ประเคนพระสงฆ์ในวันพระราชทานเพลิงพระศพ และ...",
+          "url": "http://digital.nlt.go.th/dlib/files/original/27b51fb4793b30a7c95981e203a870f6.pdf#160#148"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "มำถึงพระรำชำคณะขั้นเทพ คอพัดจะเกะเป็นรูปเทพพนม สันพัฒนต์เป็นรูปบัวกลุ่มเหมือนกันหมด",
+          "url": "http://oldweb.mcu.ac.th/userfiles/file/library1/Thesis/1012554.pdf#46#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "และถ้าสอบได้เปรียญสูงขึ้นไปก็จะยิ่งมีชื่อเสียงมากขึ้นเช่นเปรียญ ๙ ซึ่งถือว่าเป็นชั้นสูงสุด ดังนั้น",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/00044-02_-2559สารนิพนธ์เรื่องธรรมคตินิยมในศิลปะและวัฒนธรรมไทย-พระครูสิริ-21-40.pdf#6#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "224 สมบัติ พลายนอย, พระบรมราชินีและเจาจอมมารดาแหงราชสํานักสยาม.2สมบัติ พลายนอย",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/4d0e9d32-2726-4ed6-bb4a-f83140c0ac25/MA_%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%9E%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A.pdf?attempt=2#63#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ พัดหน้านาง แปลว่าอะไร",
+          "url": "https://dict.longdo.com/search/%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%87"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ ''อัตลัด'' แปลว่าอะไร?",
+          "url": "https://dict.longdo.com/search/%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A5%E0%B8%B1%E0%B8%94"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 16140,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16140,
+    "cache_read_input_tokens": 5892,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14256,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14256,
+        "cache_read_input_tokens": 3888,
+        "input_tokens": 2,
+        "output_tokens": 381,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 499,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "**Respuesta:** En la **cárcel eclesiástica** (prisión episcopal).\n\nLa bula de Gregorio XIV (2 de mayo de 1591) disponía que, al solicitar la autoridad civil la entrega de un delincuente refugiado en sagrado, el obispo debía mandarlo poner en la **cárcel eclesiástica** y, solo después de examinar el asunto y comprobar que el delito estaba exceptuado del derecho de asilo, entregarlo a la autoridad civil.\n\n**Fuente:** https://www.stf.jus.br/bibliotecadigital/DominioPublico/44016/pdf/44016.pdf (p. 89 y ss.)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.052,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0651544,
+      "inputTokens": 12837,
+      "maxOutputTokens": 32000,
+      "outputTokens": 666,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-44",
+  "raw": "jsonl/D2_prime/msqa-ES-44.jsonl",
+  "reported_cost_usd": 0.0651544,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7403,
+      "query": "Gregorio XIV bula papal asilo sagrado delitos graves asilados permanecer",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "III — Dentro de la legislación canónica es muy importante la bula del papa Gregorio XIV, de fecha 2 de mayo de 1591, motivada “p...",
+          "url": "https://www.stf.jus.br/bibliotecadigital/DominioPublico/44016/pdf/44016.pdf#89#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "modifié la discipline des cas faisant exception au droit d'asile en indiquant huit crimes",
+          "url": "http://fhi.rg.mpg.de/media/zeitschrift/0207latini.pdf#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En este estado, evaluará el tribunal eclesiástico si los crímenes son o no de los exceptuados",
+          "url": "https://revistas.juridicas.unam.mx/index.php/historia-derecho/article/download/16182/16930#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "du clergé dans tout son coupable égoïsme",
+          "url": "https://archive.org/download/lgliseetltat02laur/lgliseetltat02laur.pdf#43#17"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "51 M",
+          "url": "http://fhi.rg.mpg.de/media/zeitschrift/0207latini.pdf#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En 1725, le Pape Benoît XIII, confirmant les dispo- sitions antérieures de Grégoire XIV, édicta les règles suivantes, dans sa co...",
+          "url": "https://www.archive.org/download/revuedessciences1896arrauoft/revuedessciences1896arrauoft.pdf#159#57"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los distintos pueblos godos que habían pasado a ocupar el espacio",
+          "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/conciliosNE/cpne011.pdf#8#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Nel 1591, la bolla Cum alias di Gregorio XIV[6] determinò fin da subito un inasprimento dei contrasti, fissando una disciplina m...",
+          "url": "https://www.storiadifirenze.org/pdf_ex_eprints/Annali_SdF_2_2007.pdf#86#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Es contundente Prospero Farinacei cuando afirma que el contenido de la bula gregoriana no puede extenderse a otros casos ni a ot...",
+          "url": "https://ruc.udc.es/dspace/bitstream/handle/2183/2492/AD-11-34.pdf?isAllowed=y&sequence=1#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(a) Fueron excluidos en la constitución de la Santidad de Gregorio XIV",
+          "url": "http://books.google.com/books/download/M%C3%A1ximas_sobre_recursos_de_fuerza_y_prot.pdf?id=ZQ6KV73d0IAC&output=pdf#113#34"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12837,
+    "iterations": [],
+    "output_tokens": 666,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

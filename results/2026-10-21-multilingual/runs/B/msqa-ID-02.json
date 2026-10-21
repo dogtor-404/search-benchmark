@@ -1,0 +1,156 @@
+{
+  "answer": "Tri Hita Karana (\"tiga penyebab kebahagiaan\") mengajarkan tiga unsur yang harus dijaga keharmonisannya:\n\n1. **Parahyangan** adalah hubungan yang harmonis antara manusia dan Tuhan (Hyang Widhi). Contohnya dengan upacara yadnya dan menghormati tempat suci.\n2. **Pawongan** adalah hubungan yang harmonis antara manusia dan sesama manusia.\n3. **Palemahan** adalah hubungan yang harmonis antara manusia dan alam atau lingkungan.\n\nSumber:\n- https://ceraken.baliprov.go.id/detail/tri-hita-karana-1675605680 (situs Pemerintah Provinsi Bali)\n- https://bimashindu.kemenag.go.id/dharma-wacana/harmonisasi-dalam-ajaran-tri-hita-karana-sFXZx (Kemenag, Bimas Hindu)\n- http://indonesia.go.id/kategori/budaya/8165/subak-sistem-irigasi-sarat-filosofi-dari-bali?lang=1\n\nSaya hanya memakai satu kali pencarian.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.736,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 12892,
+      "cacheReadInputTokens": 5867,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0571127,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 495,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/B/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0571127,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6697,
+      "query": "Tri Hita Karana tiga unsur parhyangan pawongan palemahan",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia.go.id - Subak, Sistem Irigasi Sarat Filosofi dari Bali",
+          "url": "http://indonesia.go.id/kategori/budaya/8165/subak-sistem-irigasi-sarat-filosofi-dari-bali?lang=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Harmonisasi dalam Ajaran Tri Hita Karana",
+          "url": "https://bimashindu.kemenag.go.id/dharma-wacana/harmonisasi-dalam-ajaran-tri-hita-karana-sFXZx"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PRINSIP TRI HITA KARANA DALAM KONTEKS HUKUM PERIKATAN INDONESIA",
+          "url": "https://hukumperdata.id/wp-content/uploads/2022/09/Prosiding2_auth20.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana",
+          "url": "https://ceraken.baliprov.go.id/detail/tri-hita-karana-1675605680"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lilik p-ISSN 2089-6573",
+          "url": "https://www.ejournal.iahntp.ac.id/index.php/bawiayah/article/download/631/337#4#1"
+        },
+        {
+          "date": "2019-10-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ESENSI TRI HITA KARANA PERSPEKTIF PENDIDIKAN AGAMA HINDU",
+          "url": "https://ejournal.iahntp.ac.id/index.php/bawiayah/article/view/373"
+        },
+        {
+          "date": "2021-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AKTUALISASI AJARAN TRI HITA KARANA PADA MASA PANDEMI COVID-19",
+          "url": "https://ejournal.iahntp.ac.id/index.php/bawiayah/article/view/631"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Prinsip Tri Hita Karana dalam Konteks Hukum Perikatan Indonesia - Hukum Perdata",
+          "url": "https://hukumperdata.id/proceeding/prinsip-tri-hita-karana-dalam-konteks-hukum-perikatan-indonesia/#tm-dialog-mobile"
+        },
+        {
+          "date": "2021-04-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/2120793"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pengembangan SMK Model Indigenous Wisdom Tri Hita Karana",
+          "url": "https://drpm.uny.ac.id/sites/drpm.uny.ac.id/files/ABSTRAK-STRANAS-PUTU-UNY.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12892,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12892,
+    "cache_read_input_tokens": 5867,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11033,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11033,
+        "cache_read_input_tokens": 3863,
+        "input_tokens": 2,
+        "output_tokens": 412,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 495,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

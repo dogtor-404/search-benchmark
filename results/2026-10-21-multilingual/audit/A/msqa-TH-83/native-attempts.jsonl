@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "การประชุมวางโครงการทำประวัติศาสตร์ของชาติไทย มติ ประวัติศาสตร์การเมืองแห่งชาติไทย แบ่งเป็น ๕ หมวด", "results": [], "status": "allowed", "tool_use_id": "toolu_01SNK1VS3JVZfUPKbbHCxorS"}
+{"billable": false, "call": 2, "query": "\"วางโครงการทำประวัติศาสตร์\" ชาติไทย ประชุม มติ แบ่งเป็น 5 หมวด การเมือง เศรษฐกิจ สังคม", "results": [], "status": "allowed", "tool_use_id": "toolu_01T7K7Kz7b2hEW2rNwuQAP8q"}
+{"billable": false, "call": 3, "query": "การประชุมวางโครงการทำประวัติศาสตร์สาสตร์ของชาติไทย ประวัติศาสตร์การเมืองแห่งชาติไทย ห้าหมวด", "results": [], "status": "allowed", "tool_use_id": "toolu_012fGobcJh7xtJF5tNr2akrc"}
+{"billable": false, "call": 4, "query": "Thai national history project meeting resolved political history divided into five categories \"ประวัติศาสตร์การเมือง\" หมวด การปกครอง การต่างประเทศ", "results": [], "status": "allowed", "tool_use_id": "toolu_01MHtF3VkF6Db1LuxZUd2amR"}

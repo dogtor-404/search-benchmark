@@ -1,0 +1,109 @@
+{
+  "answer": "**คำตอบ:** พระไตรปิฎกพิมพ์เป็นเล่มหนังสือด้วยอักษรไทย (ภาษาบาลี) เป็นครั้งแรกในรัชสมัยรัชกาลที่ 5 โดยเริ่มงานประมาณ พ.ศ. 2431 (ค.ศ. 1888) และพิมพ์เสร็จ **พ.ศ. 2436 (ค.ศ. 1893)**\n\n**ข้อที่แหล่งข้อมูลไม่ตรงกัน:**\n- ช่วงเวลาพิมพ์: แหล่งหนึ่งว่า พ.ศ. 2431–2436 อีกแหล่งว่า พ.ศ. 2431–2435\n- จำนวนเล่ม: มีทั้ง 39, 40 และ 45 เล่ม\n- ผมไม่พบแหล่งที่ยืนยันตัวเลข 1,000 ชุด จึงไม่ได้ใช้\n\nปีที่พิมพ์เสร็จ (พ.ศ. 2436) มาจากแหล่งเดียวที่ระบุไว้ชัด ผมไม่ได้เปิดอ่านต้นฉบับเต็มของแต่ละหน้าเพื่อตรวจซ้ำ\n\nSources:\n- [trueplookpanya – พระไตรปิฎก (60117)](https://www.trueplookpanya.com/knowledge/content/60117)\n- [trueplookpanya – พระไตรปิฎก (60146)](https://www.trueplookpanya.com/knowledge/content/60146)\n- [Silpa-mag](https://www.silpa-mag.com/?p=156998)\n- [วารสาร Fine Arts (tci-thaijo)](https://so02.tci-thaijo.org/index.php/fineartsJournal/article/download/77657/62280)\n- [วารสาร Dhammadhara (tci-thaijo)](https://so01.tci-thaijo.org/index.php/dhammadhara/article/download/167244/129461/530506)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 26.759,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0238069,
+      "inputTokens": 25064,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2601,
+      "provider": "firstParty",
+      "thinkingTokens": 716,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5143,
+      "cacheReadInputTokens": 12755,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0330495,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1119,
+      "provider": "firstParty",
+      "thinkingTokens": 87,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/A/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.0568564,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "พระไตรปิฎก ตีพิมพ์เป็นเล่มหนังสือ อักษรไทย ครั้งแรก พ.ศ. ร.5 ฉบับสยามรัฐ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013aMyKBhWazWwrYMJeJUcUZ"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "พระไตรปิฎกฉบับพิมพ์ครั้งแรก พ.ศ. ๒๔๓๖ รัชกาลที่ 5 อักษรไทย ๓๙ เล่ม ๑,๐๐๐ ชุด",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DAgXjVEbmWk9b2gijtAPXh"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5143,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5143,
+    "cache_read_input_tokens": 12755,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1629,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1629,
+        "cache_read_input_tokens": 5965,
+        "input_tokens": 2,
+        "output_tokens": 726,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1119,
+    "output_tokens_details": {
+      "thinking_tokens": 87
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

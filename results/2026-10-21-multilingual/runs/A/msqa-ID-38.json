@@ -1,0 +1,109 @@
+{
+  "answer": "**Jawaban singkat:** Sebutan yang paling dikenal untuk pendukung Jokowi adalah **\"Cebong\"**. Istilah ini populer di media sosial dan biasanya bernada ejekan. Lawannya adalah \"Kampret\", yang dipakai untuk kubu Prabowo atau pengkritik pemerintah. Sebutan resmi untuk kelompok relawannya adalah **Projo** (Pro-Jokowi), dan ada juga **Bara JP** (Barisan Relawan Jokowi Presiden).\n\n- Menurut analisis Drone Emprit (Ismail Fahmi), kata \"cebong\" pertama kali muncul di Twitter pada Mei 2015. Artinya istilah ini sudah ada sebelum Jokowi melepas katak di Istana Bogor pada Januari 2016. \"Kampret\" menyusul setelahnya, lalu \"kadrun\".\n- Menurut KBBI V, \"cebong\" berasal dari bahasa Jawa dan berarti berudu. \"Kampret\" berarti kelelawar kecil pemakan serangga.\n- Sumber yang saya temukan hanya mencakup Twitter dan terbit antara 2018 dan 2022.\n- Dalam pencarian pertama saya tidak menemukan istilah \"Jokowers\" atau \"Jokowi lovers\" di sumber mana pun.\n\nSources:\n- [Drone Emprit Ungkap Awal Mula Istilah 'Cebong', 'Kampret', dan 'Kadrun' (Kumparan)](https://kumparan.com/kumparannews/drone-emprit-ungkap-awal-mula-istilah-cebong-kampret-dan-kadrun-1xtsD5adNJp)\n- [7 Tahun Masih Bicara Cebong, Kampret, Kadrun dan Buzzer (RM.id)](https://rm.id/baca-berita/nasional/121118/7-tahun-masih-bicara-cebong-kampret-kadrun-dan-buzzerrp-hai-netizen-sudahlah-nggak-ada-gunanya)\n- [Komentari Serbuan 'Anak Kolam' (Bisnis.com)](https://kabar24.bisnis.com/read/20190614/15/933817/komentari-serbuan-anak-kolam-rocky-gerung-sebut-istilah-cacophony)\n- [Jokowi: Projo Bukan Relawan Kardus (CNN Indonesia)](https://www.cnnindonesia.com/nasional/20180916154803-32-330605/jokowi-projo-bukan-relawan-kardus/)\n- [Projo, Relasi Kuasa, dan Hegemoni Jokowi (detikNews)](https://news.detik.com/kolom/d-7001070/projo-relasi-kuasa-dan-hegemoni-jokowi)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 27.0,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.024356700000000002,
+      "inputTokens": 31427,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2428,
+      "provider": "firstParty",
+      "thinkingTokens": 767,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5181,
+      "cacheReadInputTokens": 12746,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0353506,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1334,
+      "provider": "firstParty",
+      "thinkingTokens": 125,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-38",
+  "raw": "jsonl/A/msqa-ID-38.jsonl",
+  "reported_cost_usd": 0.059707300000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "sebutan pendukung Joko Widodo Jokowi \"Jokowers\" OR \"Jokowi lovers\" OR \"Projo\" relawan",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01N6VewDkXhvf7BFGErvksje"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "sebutan cebong pendukung Jokowi asal usul istilah cebong kampret",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01M1E68huJ7qS8NLxVUTjHYT"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5181,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5181,
+    "cache_read_input_tokens": 12746,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1633,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1633,
+        "cache_read_input_tokens": 5999,
+        "input_tokens": 2,
+        "output_tokens": 988,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1334,
+    "output_tokens_details": {
+      "thinking_tokens": 125
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

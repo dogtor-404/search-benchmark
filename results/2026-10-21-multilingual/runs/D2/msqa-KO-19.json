@@ -1,0 +1,223 @@
+{
+  "answer": "신라 화랑의 핵심 신조는 원광법사가 귀산과 추항에게 가르친 **세속오계(世俗五戒)**입니다. 다섯 조항은 다음과 같습니다.\n\n1. **사군이충(事君以忠)** — 임금을 충성으로 섬긴다\n2. **사친이효(事親以孝)** — 부모를 효도로 섬긴다\n3. **교우이신(交友以信)** — 벗을 신의로 사귄다\n4. **임전무퇴(臨戰無退)** — 전쟁에서 물러서지 않는다\n5. **살생유택(殺生有擇)** — 살생은 가려서 한다\n\n근거 URL:\n- https://contents.history.go.kr/front/tg/print.do?treeId=&levelId=tg_001_0750&whereStr= (우리역사넷, 세속오계)\n- https://encykorea.aks.ac.kr/Article/E0029812 (한국민족문화대백과사전, 세속오계)\n- https://db.history.go.kr/item/compareViewer.do?levelId=sg_045_0090_0040 (삼국사기 원문)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.62,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07970640000000001,
+      "inputTokens": 17030,
+      "maxOutputTokens": 32000,
+      "outputTokens": 555,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/D2/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.07970640000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.701,
+      "query": "화랑 정신 핵심 신조",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑정신의 시대적 의미에 대한 고찰 - 향가(鄕歌)·불교와의 연관성을 중심으로 -",
+          "url": "https://m.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=0fc7bf360f1a678fc85d2949c297615a"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑의 정신이라고 하는 것은 원광법사가 교육하고 가르쳐 얻은 규율뿐만 아니라 화랑들이 쌓아온 업적과 경험이 밀접한 연관성을 가지고 있음을 파악할 수 있다",
+          "url": "https://donga.dcollection.net/common/orgView/000002141082#33#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "수업자 의도 하는 까닭을 알아보고, 특히 인권의 소중함을 강조하기 위하여 세화랑정신의 핵심",
+          "url": "http://ebook.gyo6.net/src/viewer/download.php?host=main&site=20171211_165737_109&no=1#4#3"
+        },
+        {
+          "date": "2021-02-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑정신의 시대적 의미에 대한 고찰 - 향가(鄕歌)·불교와의 연관성을 중심으로 - - 동아시아불교문화 - 동아시아불교문화학회 - KISS - 43.173.77.72",
+          "url": "https://kiss.kstudy.com/Detail/Ar?key=3880296#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑은 풍류를 즐겼는데, 그 풍류정신과 놀이를 청소년 인성교육과 조손 간의 세대통합의 기제로 활용할 수 있다",
+          "url": "https://gb.go.kr/Main/open_contents/section/archive/Filedownload.jsp?URL=https://gb.go.kr/MCMS/data/content/2022/12/MCMSF367121#11#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "홍익인간, 화랑도, 그리고 지구시민정신*",
+          "url": "https://kukhak.ube.ac.kr/index.php?act=procFileOutput&file_srl=765423&file_key=f650523484c011e363208331b915b28c#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘동인의식’에는 우리 동방의 군자국이 세계문화의 중심이 된다는 뜻을 암시하고 있다",
+          "url": "https://hanseo.dcollection.net/common/orgView/200000225595#19#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "국가기관의 공적인 현창의 기록인 이 전기에서 특징적인 것은 이들 심용사의 정신을 ‘화랑 정신’으로 공식화한다는 사실이다",
+          "url": "https://accesson.kr/pdfjs/web/viewer.html?file=%2Fksq%2Fassets%2Fpdf%2F40564%2Fjournal-29-4-179.pdf#navpanes=0&toolbar=0&statusbar=0&view=FitV&page=1#4#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "⑤ 국민정신은 어떠하였는가?",
+          "url": "http://contents.history.go.kr/front/ta/view.do?levelId=ta_p61r_0050_0030_0050"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "정각도량 - | Back |",
+          "url": "https://jeonggak.dongguk.edu/resources/site/jeonggak/resource/dr/dr_28/961228.htm#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6408,
+      "query": "Hwarang spirit five secular commandments 세속오계",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속 오계",
+          "url": "https://contents.history.go.kr/front/tg/print.do?treeId=&levelId=tg_001_0750&whereStr="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리역사넷",
+          "url": "https://contents.history.go.kr/mobile/tg/view.do?subjectCode=tg_age_20&tabId=01&levelId=tg_001_0750&ganada=&pageUnit=10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "세속오계 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0029812"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'계율' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ea%b3%84%ec%9c%a8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE HISTORICAL FORMATION OF THE 'RELIGIOUS-SECULAR' DICHOTOMY IN MODERN KOREA",
+          "url": "https://brill.com/display/book/edcoll/9789004251335/B9789004251335_014.xml?_x_output_type_b6db407c4_=embedded_pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'임전무퇴' 검색",
+          "url": "http://encykorea.aks.ac.kr/Article/Keyword/%ec%9e%84%ec%a0%84%eb%ac%b4%ed%87%b4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "한국사데이터베이스",
+          "url": "https://db.history.go.kr/item/compareViewer.do?levelId=sg_045_0090_0040"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "화랑도의 체육교육사상에 관한 연구 - KCI 후보",
+          "url": "https://kci.go.kr/kciportal/landing/article.kci?arti_id=ART000965029#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Study on Five Commandments of Hwarang Applied to Modern Leadership - HOME > 논문 > 논문 상세",
+          "url": "https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002111383#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "한국유엔봉사단",
+          "url": "http://unv.or.kr/mp2/mp2_sub3?sub=03&ckattempt=1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 17030,
+    "iterations": [],
+    "output_tokens": 555,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

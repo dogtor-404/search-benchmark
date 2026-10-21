@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** этот обряд назывался **«Столбы»**. Иногда его называют «поцелуйные столбы».\n\nНазвание идёт от того, что молодые стояли рядами, «столбами». Они надевали лучшие наряды, обычно те, в которых венчались, и вставали вдоль обеих сторон деревенской улицы. Прохожие кричали им «Порох на губах!» и так требовали, чтобы молодые поцеловались. Такое описание даёт С. В. Максимов в книге «Нечистая, неведомая и крестная сила».\n\nХватило одного поиска.\n\n**Источники:**\n- https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm (С. В. Максимов, «Нечистая, неведомая и крестная сила»; в выдаче ссылка пришла с многоточием в пути)\n- https://www.semenkovo.ru/ru/news/muzh-da-zhena-10-let\n- https://regnum.ru/news/2374095",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.898,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9334,
+      "cacheReadInputTokens": 5894,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0876268,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 588,
+      "provider": "firstParty",
+      "thinkingTokens": 155,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-28",
+  "raw": "jsonl/B_prime/msqa-RU-28.jsonl",
+  "reported_cost_usd": 0.0876268,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7435,
+      "query": "масленичный обряд молодожены выстраивались вдоль улицы целоваться всем желающим название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Омичей приглашают принять участие во флешмобе \"Поцелуйные столбы\"",
+          "url": "http://12-kanal.bonus-tv.ru/news/33066/"
+        },
+        {
+          "date": "2018-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "На Масленицу в Ярославле возродят русский обряд «столбы» - ИА REGNUM",
+          "url": "https://regnum.ru/news/2374095"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Какую вы узнали новую информацию",
+          "url": "http://educomm.iro.perm.ru/download/posts/master-klass-po-angliyskomu-yazyku#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С. В. Максимов. Нечистая, неведомая и крестная сила(9) - для них закупались сласти",
+          "url": "https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекция 4. Календарная обрядовая поэзия - Вторник называли «заигрыши»",
+          "url": "https://textbook.tou.edu.kz/books/220/4.html#2"
+        },
+        {
+          "date": "2026-02-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "谢肉节最浪漫的«轻佻»习俗：没有接吻的薄饼是不完整的",
+          "url": "https://nihaoeluosi.cn/lifestyle/245334-most-frivolous-shrovetide-maslenitsa-rite"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Городецком р-не парни ходили по дворам «смотреть молодых»",
+          "url": "https://inslav.ru/sites/default/files/zhs-1998-2.pdf#29#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "России свадьбы игрались осенью, от Покрова  до Никольского  поста",
+          "url": "http://elib.kspu.ru/get/16550#41#13"
+        },
+        {
+          "date": "2019-02-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Омских молодоженов приглашают на поцелуйный флешмоб",
+          "url": "http://omskregion.info/news/67375-omskix_molodojenov_priglashayut_na_potseluyny_fles/"
+        },
+        {
+          "date": "2019-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Муж да жена! 10 лет!",
+          "url": "https://www.semenkovo.ru/ru/news/muzh-da-zhena-10-let"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9334,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9334,
+    "cache_read_input_tokens": 5894,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7448,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7448,
+        "cache_read_input_tokens": 3890,
+        "input_tokens": 2,
+        "output_tokens": 344,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 588,
+    "output_tokens_details": {
+      "thinking_tokens": 155
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

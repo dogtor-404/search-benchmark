@@ -1,0 +1,235 @@
+{
+  "answer": "**Ответ:** в исследованиях этот орнамент называют **«шахматным» узором**. Название стоит в кавычках, потому что это описательный термин, а не имя особого мотива. Источник описывает его как пятнадцать заштрихованных сеткой клеток в ширину и восемь в высоту, в которых чередуются чёрный и красный цвета. Сверху идёт ряд заштрихованных ромбиков, снизу два ряда. Такие же «шахматные» узоры характерны и для оборота прялки. Автор источника называет это пинежской росписью, близкой к палащельской (мезенской).\n\nДругого, более специального названия я в найденных текстах не встретил. Узор описан у Ю. А. Арбата в разделе «Пинежская роспись» (Русская народная роспись по дереву, М., 1970, с. 29–32). В найденных источниках его пересказывают без отдельного термина.\n\n**Источники:**\n- https://studfile.net/preview/9787428/ (пересказ Арбата)\n- https://smittik.livejournal.com/81254.html («Пинежская роспись»)\n- https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf (здесь «шахматные» узоры трактуются как знаки земли и плодородия)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.204,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 18126,
+      "cacheReadInputTokens": 7734,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0796854,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 640,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-72",
+  "raw": "jsonl/B/msqa-RU-72.jsonl",
+  "reported_cost_usd": 0.0796854,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8302,
+      "query": "пинежская роспись прялки шахматный узор орнамент название Пинега",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Галина Николаевна Мёрзлая за ткацким станком в сарафане, сши- том своими руками по лекалам и технологии начала XIX в",
+          "url": "https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://eo.iea.ras.ru/wp-content/uploads/1983/05/eoarchive_1983_5_023_dmitrieva.pdf#4#1##4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В-третьих, во второй половине XIX в",
+          "url": "https://www.booksite.ru/folk/data/staroob.pdf#18#11"
+        },
+        {
+          "date": "2012-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пинежская роспись",
+          "url": "https://smittik.livejournal.com/81254.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "частей, свое соотношение формы",
+          "url": "https://mrsu.ru/ru/getfile.php?ID=109416#36#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "другие — у славившихся своим ис- кусством набойщиц с Мезени и Ваш- ки",
+          "url": "https://www.booksite.ru/fulltext/malenk/text.pdf#33#6"
+        },
+        {
+          "date": "2009-05-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мезенская прялка — Википедия - Мезенская прялка",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BB%D0%BA%D0%B0#1"
+        },
+        {
+          "date": "2015-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мезенская прялка",
+          "url": "https://russianarts.online/2000-mezenskaya-pryalka/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. https://dic",
+          "url": "https://spbspoprof.ru/userfiles/files/%d0%9a%d1%83%d0%bb%d1%8c%d1%82-%d0%b8%d1%81%d1%82-%d0%bd%d0%b0%d1%81%d0%bb%d0%b5%d0%b4%d0%b8%d0%b5-2018.pdf#17#12"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7171,
+      "query": "северодвинская роспись прялки Пинега \"шашечки\" OR \"шахматка\" OR \"шахматный\" орнамент",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": "2012-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пинежская роспись",
+          "url": "https://smittik.livejournal.com/81254.html"
+        },
+        {
+          "date": "2016-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Художественные изделия и сувениры.: методические материалы на Инфоурок - Северодвинские росписи - характеризуются, как крестьянское искусство",
+          "url": "https://infourok.ru/hudozhestvennie-izdeliya-i-suveniri-1270201.html#2"
+        },
+        {
+          "date": "2016-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Художественные изделия и сувениры. - Уралосибирская - живописные изображения на дереве, бересте известны ёще с языческой Руси 15- 17 веке расписывали свечные ящики, ...",
+          "url": "https://botana.biz/prepod/izo_mhk/omwu8qqj.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Задание 1. Разукрась ложку узорами в стиле хохломской росписи</center>",
+          "url": "https://zavuch.su/content/uploads/20260416/1776333189_26195c3d5b84354c08e0359665726d89.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Птицы в городeцкой росписи",
+          "url": "https://xn--d1auey.xn--p1ai:443/public/users/643/PDF/281120191106_1.pdf#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Для нанесения рисунка подойдут исключительно тонкие кисточки разных «калибров»",
+          "url": "https://nsportal.ru/sites/default/files/2023/01/24/russkie_narodnye_rospisi_prodolzhenie.docx#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "||Гжельская роспись История возникновения росписи «Гжель»",
+          "url": "https://xn--d1auey.xn--p1ai:443/public/users/643/PDF/281120191106_1.pdf#6#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|Тема 1.1 Постановка руки",
+          "url": "https://altag.ru/storage/pdf/d6f049aceb1f15f805ab2b1417fd5fd7.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Муниципальное автономное дошкольное общеобразовательное учреждение",
+          "url": "https://nsportal.ru/sites/default/files/2023/04/25/gzhel.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 18126,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 18126,
+    "cache_read_input_tokens": 7734,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18126,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18126,
+        "cache_read_input_tokens": 3867,
+        "input_tokens": 2,
+        "output_tokens": 467,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 640,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

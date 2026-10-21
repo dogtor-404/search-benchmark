@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "「大門の内，少し間を置いてまた扉を設く」清俗紀聞", "results": [], "status": "allowed", "tool_use_id": "toolu_01HkidZBb4cjAjzjsL14CP4s"}
+{"billable": false, "call": 2, "query": "JAANUS 清俗紀聞 大門の内 扉を設く 巻", "results": [], "status": "allowed", "tool_use_id": "toolu_014pKrmb2NYokgf3ajRUCmLj"}
+{"billable": false, "call": 3, "query": "清俗紀聞 巻二 居家 大門 儀門 扉 少し間を置いて", "results": [], "status": "allowed", "tool_use_id": "toolu_01Tf9LqR6mkr6f6pKQKEQcd5"}
+{"billable": false, "call": 4, "query": "清俗纪闻 居家 大门之内 稍隔 又设门扉 屏门", "results": [], "status": "allowed", "tool_use_id": "toolu_01XeeSgDSzypxi8rcoPHYPah"}
+{"billable": false, "call": 5, "query": "\"清俗紀聞\" 巻二 居家 門 扉 図 \"大門\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01LcJeyQnCR3d4L6FX2KAxH5"}

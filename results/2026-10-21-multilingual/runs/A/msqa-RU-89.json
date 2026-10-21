@@ -1,0 +1,100 @@
+{
+  "answer": "Вопрос не уточняет язык, поэтому я исходил из русского. Лучше всего подходят такие фразы:\n\n- **«Вряд ли»** или **«едва ли»** значат «скорее всего нет». Это самое привычное осторожное отрицание. Multitran даёт для английского *hardly* оба варианта с пометкой «probably not».\n- **«Не совсем»** смягчает отрицание, когда вы не согласны лишь отчасти. Например: «Не совсем так».\n- **«Не думаю»** или **«Боюсь, что нет»** тоже вежливо отказывают или возражают.\n\nЕсли вам нужен другой язык, скажите какой. В английском это, например, *I don't think so* или *not really*. Во французском Skyeng указывает *pas vraiment* как мягкое несогласие.\n\nПоиск дал мало материалов именно по русскому языку. Русские примеры выше основаны на моих знаниях, а источники подтверждают только слова «едва ли» и «вряд ли» и принцип градации несогласия. Я сделал один поиск из пяти возможных.\n\nSources:\n- [Multitran: hardly](https://www.multitran.com/m/s=hardly&l1=1&l2=2)\n- [Skyeng: как выражать согласие и несогласие на французском](https://skyeng.ru/articles-francuzskij/dlya-nachinayushchih-fr/kak-vyrazhat-soglasie-i-nesoglasie-na-frantsuzskom-bazovye-priemy/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.338,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115462,
+      "inputTokens": 11047,
+      "maxOutputTokens": 128000,
+      "outputTokens": 883,
+      "provider": "firstParty",
+      "thinkingTokens": 286,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3346,
+      "cacheReadInputTokens": 6746,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0218766,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 781,
+      "provider": "firstParty",
+      "thinkingTokens": 149,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-89",
+  "raw": "jsonl/A/msqa-RU-89.jsonl",
+  "reported_cost_usd": 0.0334228,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "осторожное отрицание фраза \"вряд ли\" \"не совсем\" \"едва ли\" как выразить мягкое несогласие",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012yiajbBR8MeFyfCHtP9Cew"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3346,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3346,
+    "cache_read_input_tokens": 6746,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1502,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1502,
+        "cache_read_input_tokens": 4295,
+        "input_tokens": 2,
+        "output_tokens": 518,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 781,
+    "output_tokens_details": {
+      "thinking_tokens": 149
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

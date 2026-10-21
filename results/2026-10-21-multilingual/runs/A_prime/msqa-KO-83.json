@@ -1,0 +1,109 @@
+{
+  "answer": "**답:** \"오다망\"은 **\"오늘 다이어트 망했다\"**를 줄인 말입니다. 다이어트를 하기로 해 놓고 그날 과식하거나 야식을 먹었을 때, 자기를 가볍게 놀리듯 쓰는 표현입니다. 예: \"치킨 시켜버렸다… 오다망ㅋㅋ\". SNS에서 음식 사진과 함께 자주 씁니다.\n\n질문 사이트 아하의 답변 하나는 이 말을 '오다'와 '망하다'를 합친 말로 보고 \"일이 잘 안 풀린다\"는 뜻으로 설명했습니다. 신조어 사전 두 곳은 모두 다이어트 뜻으로 설명하고 있어서, 다른 해석은 근거가 약해 보입니다.\n\n검색은 2번 했습니다.\n\nSources:\n- [오다망 뜻 - 신조어 사전 - 인스타공백닷컴](https://www.instablank.com/slang/241)\n- [오다망 뜻 - 별다줄사전 - 오늘의짤방](https://www.jjalbang.today/memedictview/556)\n- [신조어 오다망은 무슨뜻인지 궁금합니다 - 아하](https://www.a-ha.io/questions/48aab65c028e64e58479318839a11e57)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.305,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023361100000000003,
+      "inputTokens": 26976,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1327,
+      "provider": "firstParty",
+      "thinkingTokens": 328,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4140,
+      "cacheReadInputTokens": 12138,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0490516,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 674,
+      "provider": "firstParty",
+      "thinkingTokens": 43,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-83",
+  "raw": "jsonl/A_prime/msqa-KO-83.jsonl",
+  "reported_cost_usd": 0.07241270000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "오다망 뜻 신조어",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015AgNccMSWq9iTQKq1G2X7Z"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"오다망\" 뜻",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TVVzcCQeakZageETfdHePC"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4140,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4140,
+    "cache_read_input_tokens": 12138,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1186,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1186,
+        "cache_read_input_tokens": 5405,
+        "input_tokens": 2,
+        "output_tokens": 468,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 674,
+    "output_tokens_details": {
+      "thinking_tokens": 43
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

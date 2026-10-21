@@ -1,0 +1,100 @@
+{
+  "answer": "答案是“금강산도 식후경”（金剛山也要吃飽了再看）。意思是景色再美、事情再有趣，也要先吃饱了才有兴致。\n\n搜了 1 次。搜到的资料把它解释为“再美的景色也要先吃饭”“饿着肚子就没法好好欣赏风景”。题目里“흥이 난다”这几个字在资料里没有原样出现，题目那句话应该是这条俗语的释义。\n\n依据的网址：\n- [Korean proverb on eating – USC Digital Folklore Archives](https://folklore.usc.edu/korean-proverb-on-eating/)\n- [90 Day Korean](https://www.90daykorean.com/?p=67669)\n- [Ling App: koreanische Redewendungen](https://ling-app.com/de/blog/koreanische-redewendungen/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 20.035,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119964,
+      "inputTokens": 15914,
+      "maxOutputTokens": 128000,
+      "outputTokens": 810,
+      "provider": "firstParty",
+      "thinkingTokens": 288,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2950,
+      "cacheReadInputTokens": 6763,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0335286,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 428,
+      "provider": "firstParty",
+      "thinkingTokens": 24,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-28",
+  "raw": "jsonl/A_prime/msqa-KO-28.jsonl",
+  "reported_cost_usd": 0.045524999999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "금강산도 식후경 속담 뜻 아무리 재미있는 일이라도 배가 불러야 흥이 난다",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Ax5ZpRzL9YN7shrqrZBNFG"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2950,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2950,
+    "cache_read_input_tokens": 6763,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1089,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1089,
+        "cache_read_input_tokens": 4312,
+        "input_tokens": 2,
+        "output_tokens": 289,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 428,
+    "output_tokens_details": {
+      "thinking_tokens": 24
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

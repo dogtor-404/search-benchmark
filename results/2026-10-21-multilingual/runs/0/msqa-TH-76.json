@@ -1,0 +1,74 @@
+{
+  "answer": "我不知道泰国南部从什么时候开始举办“บุญบั้งไฟ”(祈雨火箭节),也没有听说过有可靠记载的起始年份。\n\n这个问题的前提可能有问题。据我所知:\n\n- บุญบั้งไฟ是泰国东北部(伊森)和老挝的传统节日,通常在雨季来临前的五、六月举行,用来祈雨、祈求丰收。\n- 泰国南部的传统节庆主要是别的,比如祭祖节(ประเพณีชิงเปรต)、万佛节的相关活动、水上游行等,没有这个节日的本地传统。\n- 南部若有类似活动,多半是来自东北的移民社区或某些府、地方机构近年自己办的,但我不知道具体是哪里、哪一年开始的。\n\n如果你是在某份资料里看到这个说法,可以告诉我具体来源或地点(比如哪个府、哪个县),我可以帮你判断它是否可信。我现在不能上网,所以无法替你核实。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.458,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1782,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0149088,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 762,
+      "provider": "firstParty",
+      "thinkingTokens": 410,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/0/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.0149088,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1782,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1782,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1782,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1782,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 762,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 762,
+    "output_tokens_details": {
+      "thinking_tokens": 410
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

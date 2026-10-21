@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：吉田兼倶自称「神祇管領長上」（しんぎかんれいちょうじょう），也就是神道界的首长。**\n\n他以此来对抗世袭神祇伯的白川家，主张自己才是神道的最高主宰。该称号其实是他伪造的“僭称”：他声称这个官职在平安时代末期就已存在，并借伪造系图、文书来给这一地位提供依据。随后他又以吉田神道（唯一神道）为基础，向全国神社颁发“宗源宣旨”和“神道裁许状”，由吉田家独占授予神阶、神号、神官职位的权力，从而建立起对全国神职的支配体制。\n\n依据：\n- 國學院大學デジタルミュージアム《神道事典》“Yoshida Kanetomo”：称他“arrogated to himself the title Head of Shinto (shintō chōjō)”，并分发宗源宣旨与神道裁许状 — https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9843\n- 國學院大學神道博物館「神道祭祀の発展」：明确写作「『神祇管領長上』を自称して神職支配を進め」 — https://museum.kokugakuin.ac.jp/shinto02/\n- コトバンク（世界大百科事典）「神祇管領長上」：兼倶自称神祇長上（神祇管領長上）以对抗白川家 — https://kotobank.jp/word/神祇管領長上-1342946\n- 井上智勝「『神祇管領長上』考」（CiNii/J-STAGE）：该称号是凌驾神祇伯的伪称、僭称 — https://cir.nii.ac.jp/crid/1390282680927161088",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.396,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0748264,
+      "inputTokens": 14550,
+      "maxOutputTokens": 32000,
+      "outputTokens": 807,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/D2/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.0748264,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6839,
+      "query": "吉田兼倶 神祇管領長上 自称 神職支配",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官 | CiNii Research",
+          "url": "https://cir.nii.ac.jp/crid/1390282680927161088"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "井上 智勝 (Tomokatsu Inoue) - 「神祇管領長上」考 : 室町期の吉田家と神祇官 - 論文",
+          "url": "https://researchmap.jp/read10300972/published_papers/5462293"
+        },
+        {
+          "date": "2017-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官",
+          "url": "https://www.jstage.jst.go.jp/article/rsjars/78/1/78_KJ00003724428/_article/-char/ja/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道［第２章］神道祭祀の発展と神祇信仰の多様化",
+          "url": "https://museum.kokugakuin.ac.jp/shinto02/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "多摩市立図書館-多摩市デジタルアーカイブ:「多摩市史」通史編1",
+          "url": "https://adeac.jp/lib-city-tama/texthtml/d100010/mp000010-100010/ht061110"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道栏［第２章］神道祭祀的发展与神祗信仰的多样化",
+          "url": "https://museum.kokugakuin.ac.jp/zh_cn/shinto02/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神祇管領長上(しんぎかんれいちょうじょう)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E7%A5%9E%E7%A5%87%E7%AE%A1%E9%A0%98%E9%95%B7%E4%B8%8A-1342946"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田家 について",
+          "url": "http://www.kotoba.ne.jp/word/10/吉田家"
+        },
+        {
+          "date": "2026-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田兼俱_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田家 とは - Japanese dictionary, Japanese Japanese dictionary Mazii",
+          "url": "https://mazii.net/mn-MN/search/japanese/jaja/%E5%90%89%E7%94%B0%E5%AE%B6"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6721,
+      "query": "Yoshida Kanetomo jingi kanrei chojo claimed title",
+      "results": [
+        {
+          "date": "2017-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官",
+          "url": "https://www.jstage.jst.go.jp/article/rsjars/78/1/78_KJ00003724428/_article/-char/en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tomokatsu Inoue - Investigation of the Validity of the Yoshida Family's Activity as the Shinto-in-Chief - Papers",
+          "url": "https://researchmap.jp/read10300972/published_papers/5462293?lang=en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yoshida Kanetomo’s privileged relation with Shintō was based on two factors: 1) his family’s long tradition as imperial court ri...",
+          "url": "https://era.library.ualberta.ca/items/26cddc34-6074-4223-8948-c7315d104c91/view/79aff36d-4270-4515-a77f-64a80b272d48/Lu_Yutao_202309_MA.pdf#22#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encyclopedia of Shinto詳細 | 國學院大學デジタルミュージアム",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9843"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "von allen Sünden und Verunreinigungen durch rituelle Waschung verspricht",
+          "url": "https://religion-in-japan.univie.ac.at/r/images/2/2a/Scheid_2001.pdf#72#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「began」に関連した英語例文の一覧と使い方(109ページ目)",
+          "url": "https://ejje.weblio.jp/small/sentence/content/began/109"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田兼俱(よしだかねとも)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1-1214003"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Die Folge dieser ersten Erfolge bei den kuge war, daß Kanetomo sich selbst einen neuen Amtstitel zulegte, der augenscheinlich se...",
+          "url": "https://www.austriaca.at/0xc1aa5576%200x002e7437.pdf#7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "宗源宣旨, or the Decree of the Utmost Origin (hereafter sōgen decree)",
+          "url": "https://nirc.nanzan-u.ac.jp/nfile/2785#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Translation of \"of Jingi\" in Japanese",
+          "url": "https://context.reverso.net/translation/english-japanese/of+Jingi"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14550,
+    "iterations": [],
+    "output_tokens": 807,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

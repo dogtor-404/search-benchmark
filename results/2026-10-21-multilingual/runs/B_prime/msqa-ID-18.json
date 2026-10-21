@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban: Bapak Moel Soeradi, BBA**\n\nSitus resmi SMP Negeri 14 Malang, di halaman sejarah sekolah, menyebutkan bahwa sekolah ini pindah ke Jl. Teluk Bayur No. 2 pada tahun 1986. Kepala sekolah pertamanya adalah Bpk. Moel Soeradi, BBA.\n\n- Sumber: https://mail.smpn14-mlg.sch.id/index.php?pilih=hal&id=36\n\nAda satu sumber yang isinya berbeda. Sebuah PDF di core.ac.uk (https://core.ac.uk/download/553779819.pdf) menyebutkan bahwa \"SMP Negeri 14 Malang\" berdiri berdasarkan SK tahun 1999. Menurut PDF itu, pada tahun pertama sekolah ini dikelola oleh SMPN 10 Malang dengan kepala sekolah Drs. Muchlis Ridwan. Tahun ini tidak cocok dengan tahun 1986 di situs resmi. Mungkin yang dimaksud sekolah lain, tetapi itu hanya dugaan saya dan tidak saya periksa lagi. Saya memakai keterangan dari situs resmi sekolah. Saya hanya melakukan 1 kali pencarian, dan jawaban ini berdasarkan cuplikan hasil pencarian. Halaman lengkapnya tidak saya buka.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.272,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8647,
+      "cacheReadInputTokens": 5846,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0855812,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 761,
+      "provider": "firstParty",
+      "thinkingTokens": 172,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-18",
+  "raw": "jsonl/B_prime/msqa-ID-18.jsonl",
+  "reported_cost_usd": 0.0855812,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7001,
+      "query": "kepala sekolah pertama SMP Negeri 14 Malang",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Website SMP Negeri 14 Malang Jawa Timur Indonesia",
+          "url": "https://mail.smpn14-mlg.sch.id/index.php?pilih=hal&id=36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "c) Guru memberikan penjelas­an secara utuh, tentang materi yang",
+          "url": "https://core.ac.uk/download/553779819.pdf#14#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pisah Kenal Kepala Sekolah",
+          "url": "https://mail.smpn14-mlg.sch.id/index.php?pilih=news&mod=yes&aksi=lihat&id=40"
+        },
+        {
+          "date": "2021-12-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kekosongan Kepala SMPN di Kota Malang Akhirnya Terisi - Suryamalang.com",
+          "url": "https://suryamalang.tribunnews.com/2021/12/22/kekosongan-kepala-smpn-di-kota-malang-akhirnya-terisi?page=all"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Majalah Esplas Perdana 2023",
+          "url": "http://www.smpn14-mlg.sch.id/index.php?pilih=news&mod=yes&aksi=lihat&id=171"
+        },
+        {
+          "date": "2017-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kepala SMP Ini Bergelar Doktor, Begini Curhatannya Soal Pendidikan - Suryamalang.com",
+          "url": "https://suryamalang.tribunnews.com/2017/04/09/kepala-smp-ini-bergelar-doktor-begini-curhatannya-soal-pendidikan"
+        },
+        {
+          "date": "2015-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Budi Santoso Jabat Kepsek SMPN 18 - MalangVoice",
+          "url": "http://malangvoice.com/budi-santoso-jabat-kepsek-smpn-18/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SMPN 8 MALANG Asah - Asih - Asuh",
+          "url": "https://sikarsa.um.ac.id/storage/data_cp/cp_igZiYw2aDE_160724_1721105946.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SMP Negeri Kota Malang",
+          "url": "http://repository.ulb.ac.id/2833/3/BAB%20II.pdf#7#7#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ANALISIS GAYA KEPEMIMPINAN KEPALA SEKOLAH UNTUK MENCAPAI PRESTASI KERJA GURU DI KOTA MALANG",
+          "url": "https://repository.ub.ac.id/id/eprint/115265/1/051201761.pdf#18#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8647,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8647,
+    "cache_read_input_tokens": 5846,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6809,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6809,
+        "cache_read_input_tokens": 3842,
+        "input_tokens": 2,
+        "output_tokens": 683,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 761,
+    "output_tokens_details": {
+      "thinking_tokens": 172
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** 是在拉玛五世（朱拉隆功）时期。印制从佛历 2431 年（1888 年）开始，佛历 2436 年（1893 年）完成，并在国王登基 25 周年庆典上庆祝。全套 39 册，印了 1,000 套，是泰国第一次用泰文字母把三藏印成书。\n\n如果只要一个年份：有一份资料的原句和题目几乎一样，它写的是\"佛历 2431 年首次印刷，佛历 2436 年完成并庆祝\"。也有不少资料直接把 2436 年（1893）当作首次印刷的年份。\n\n**依据：**\n- 摩诃朱拉隆功大学（MCU）教材，原句与题目几乎一致（\"……ในสมัยรัชกาลที่ ๕ เมื่อ พ.ศ. ๒๔๓๑ การตีพิมพ์เสร็จเรียบร้อยและมีการฉลองใน พ.ศ.๒๔๓๖\"）：https://elearning.mcu.ac.th/pluginfile.php/27533/mod_resource/content/1/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%206%20%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD28%E0%B8%81%E0%B8%9E2558%29.pdf\n- 泰国国家图书馆文献（2431 年开始，2436 年完成，39 册）：http://digital.nlt.go.th/dlib/files/original/01ae5b1e1019fa54d4c92aca64ffb54c.pdf\n- 农业大学（KU）期刊文章（\"the first printing of the Thai Tripitaka of 1893\"）：https://kukrdb.lib.ku.ac.th/journal/JTTC/search_detail/dowload_digital_file/200026/191192\n\n（只搜了 1 次。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.156,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14656,
+      "cacheReadInputTokens": 5892,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1428024,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1218,
+      "provider": "firstParty",
+      "thinkingTokens": 231,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/B_prime/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.1428024,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7891,
+      "query": "พระไตรปิฎก พิมพ์เป็นเล่มหนังสือ อักษรไทย ครั้งแรก รัชกาลที่ 5 ร.ศ. 112",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในสมัยรัชกาลที่ 5 พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว ในส่วนของพระไตรปิฎกได้ ทรงให้คัดลอกตัวขอมในคัมภีร์ใบลานเป็นตัวไทย  แล้วช...",
+          "url": "http://digital.nlt.go.th/dlib/files/original/01ae5b1e1019fa54d4c92aca64ffb54c.pdf#193#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระไตรปฎก ถือเปนหลักฐานทางวรรณกรรมที่เดนชัดที่แสดงใหเห็นวาเปนตนแบบของ วรรณกรรมศาสนาและวรรณคดีในยุคตอมา พระไตรปฎกจารึกไว...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/92881?Resolve_DOI=10.14457/KU.the.2012.326#53#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ปาทิกสภาจัดการพิมพ์พระไตรปีฎกให้สำเร็จทันในสมัยเมื่อเสด็จดำรงสิริราชสมบัติครบ ๒๕ ปี จะได้มี",
+          "url": "https://bri.mcu.ac.th/rsp/wp-content/uploads/elementor/forms/6646123c95e38.pdf#48#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในปีเดียวกันนี้มีพระบรมราชโองการ ‘โปรดเกล้าฯ จะให้มี อาจารย์สอนหนังสือไทยและสอนเลขทุกๆ พระอาราม’ เหตุ การนี้เป็นการเริ่มต้นการศึ...",
+          "url": "https://archive.org/download/Publications_Buddhist/buddhism_in_asia_text.pdf#58#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การพิมพ์พระไตรปฎก จนับ ร. ๕ ด้วยตัวอักษรไทย[๑]",
+          "url": "https://kukrdb.lib.ku.ac.th/journal/JTTC/search_detail/dowload_digital_file/200026/191192#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หลักฐานเรื่องนี้มีในหนังสือรายงานการสร้างพระไตรปิฎกสยามรัฐซึ่งพิมพ์ขึ้นในสมัย",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระไตรปิฏกศึกษา.pdf#73#37"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระไตรปิฎกถูกตีพิมพ์โดยใช้อักษรไทยเป็นครั้งแรกในรัชกาลที่ ๕ โดยแบ่งเนื้อหาเป็น ๓๙ เล่ม จัดพิมพ์แล้วเสร็จเมื่อ พ",
+          "url": "http://ithesis-ir.su.ac.th/dspace/bitstream/123456789/6270/1/660320019.pdf#11#49#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระพุทธศาสนาในประเทศ หรือ “ระบบหอไตร” เป็นการเก็บรักษาในสถาบันชั้นนําต่าง ๆ ในนานา",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/27533/mod_resource/content/1/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%206%20%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD28%E0%B8%81%E0%B8%9E2558%29.pdf#8#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ไตรปิฎกขึ้นอีก เรียกว่า ฉบับทองทีม[23] และเนื่องจากในรัชกาลที่ 5 นี มีการพิมพ์หนังสือ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/05a69435-33c2-4081-8685-bf38d25681ec/fulltext.pdf?attempt=2#71#71"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จึงมีรับสั่งให้อาราธนาพระสงฆ์มีสมเด็จพระมหาสมณเจ้า กรมพระยาวชิรญาณาโรรส เมื่อ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระวินัยปิฎก.pdf#56#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14656,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14656,
+    "cache_read_input_tokens": 5892,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12772,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12772,
+        "cache_read_input_tokens": 3888,
+        "input_tokens": 2,
+        "output_tokens": 1010,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1218,
+    "output_tokens_details": {
+      "thinking_tokens": 231
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

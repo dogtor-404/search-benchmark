@@ -1,0 +1,62 @@
+{
+  "answer": "按我的了解，这说的是兰纳（清迈）妇女传统的**斜披肩布**——泰语常叫 **“ห่มสไบ” / “ห่มผ้าเฉวียงบ่า”**。\n\n按古礼，兰纳妇女日常不穿上衣，只围筒裙（ผ้าซิ่น），另备一块披布；把布斜披过一肩、让布尾垂在身后，被视为一种**合乎礼仪、表示庄重和尊重**的着装方式，尤其是进寺院、见尊长或出席正式场合时的体面做法。\n\n如果题目要一个比较短的答案，可说：**ถือเป็นการห่มผ้า / ห่มสไบอย่างมีมารยาท หรือแสดงความเคารพ**（即“披布以示尊重/得体”）。\n\n不过我无法上网核对，这属于凭记忆作答；若题目要的是某个固定的专有名词，我不太确定标准答案的措辞。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 32.695,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.069064,
+      "inputTokens": 2086,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3036,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-48",
+  "raw": "jsonl/D0_prime/msqa-TH-48.jsonl",
+  "reported_cost_usd": 0.069064,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2086,
+    "iterations": [],
+    "output_tokens": 3036,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

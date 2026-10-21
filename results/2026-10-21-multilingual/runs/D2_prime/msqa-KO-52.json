@@ -1,0 +1,223 @@
+{
+  "answer": "答案是 **「가는 날이 장날이다」**（去的那天恰好是赶集日）。\n\n多个来源都把它的释义直接写作“뜻하지 않은 일이 우연하게도 잘 들어맞았을 때 쓰는 말”（用来形容无意中的事碰巧刚好凑上）。\n\n依据网址：\n- https://quizlet.com/842078692/속담-퀴즈-2-flash-cards/\n- https://www.giggleus.com/ko/tools/proverb-dictionary/ganeun-nari-jangnal",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.463,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 3200,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06377200000000001,
+      "inputTokens": 9968,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1163,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-52",
+  "raw": "jsonl/D2_prime/msqa-KO-52.jsonl",
+  "reported_cost_usd": 0.06377200000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.63,
+      "query": "뜻하지 않은 일이 우연하게도 잘 들어맞았을 때 속담",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "• 잠보(잠꾸리기) : 잠수이 ‘잠보’의 방언형은 ‘잠통이’, ‘잠충이’ 등이 쓰인다",
+          "url": "https://naju.mx.co.kr/download/ebook/X20LA38LHUVB.pdf#192#67"
+        },
+        {
+          "date": "2013-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "뜻하지 않은 일이 우연하게도 잘 들어 맞았을 때 쓰는 말.",
+          "url": "https://prezi.com/vrdzww-jqm14/presentation/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속담 퀴즈 2单词卡",
+          "url": "https://quizlet.com/842078692/%EC%86%8D%EB%8B%B4-%ED%80%B4%EC%A6%88-2-flash-cards/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속담모음 100",
+          "url": "https://read.bookcreator.com/WN3JoyqG7Mer0WotXVt3o0t4CYK2/QnaJkRs3T46uG2X-UzH4zw/OnhTUcDXSSKHYAFFpKW6RQ"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속담: 좋은 일은 맞지 않아도 나쁜 일은 잘 맞는다",
+          "url": "https://wordrow.kr/%EC%86%8D%EB%8B%B4/%EC%A2%8B%EC%9D%80%EC%9D%BC%EC%9D%80%EB%A7%9E%EC%A7%80%EC%95%8A%EC%95%84%EB%8F%84%EB%82%98%EC%81%9C%EC%9D%BC%EC%9D%80%EC%9E%98%EB%A7%9E%EB%8A%94%EB%8B%A4-%EC%A0%90%EC%9D%84%EC%B9%A0%EB%95%8C%EC%A2%8B%EC%9D%80%EC%9D%BC%EC%9D%80%EB%A7%9E%EC%A7%80%EC%95%84%EB%8B%88%ED%95%98%EB%8A%94%EB%8D%B0%EB%82%98%EC%81%9C%EC%9D%BC%EC%9D%80%EA%BC%AD%EB%93%A4%EC%96%B4%EB%A7%9E%EB%8A%94%EA%B2%83%EA%B0%99%EC%9D%B4%EB%8A%90%EA%BB%B4%EC%A7%84%EB%8B%A4%EB%8A%94%EB%A7%90./"
+        },
+        {
+          "date": "2005-06-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[김준영 교수의 재미있는 '익은말'] 될라면 벼락만 맞아도 부자 된다 / 벼락불에 볶은 콩 팔아먹듯 한다",
+          "url": "http://www.jjan.kr/article/20050619156140?site_preference=normal"
+        },
+        {
+          "date": "2024-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "뜻하지 않은 것에서 굉장한 것을 만나다",
+          "url": "https://m.kin.naver.com/mobile/qna/detail.naver?answerNo=2&d1id=8&dirId=814&docId=474123703&enc=utf8&kinsrch_src=m_tab_kin&qb=7LCw7Iuc66Oo65ah&rank=4&search_sort=0&section=kin.qna_ency_cafe&spq=0#answer2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "미리보기 | 산리오캐릭터즈 속담 사전 - 교보문고",
+          "url": "https://product.kyobobook.co.kr/book/preview/S000212429104?view=double&page=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "가는 날이 장날 뜻·유래·예문 - 속담·관용구 사전",
+          "url": "https://www.giggleus.com/ko/tools/proverb-dictionary/ganeun-nari-jangnal"
+        },
+        {
+          "date": "2022-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "때에 관한 속담: 728개",
+          "url": "https://wordrow.kr/%EC%86%8D%EB%8B%B4/%EB%95%8C%EC%97%90-%EA%B4%80%ED%95%9C-%EC%86%8D%EB%8B%B4/?%EC%AA%BD=3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.5806,
+      "query": "우연하게 잘 맞아떨어졌을 때 속담 호박이 넝쿨째",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리말샘",
+          "url": "https://opendict.korean.go.kr/m/dicInfo?sense_no=612837"
+        },
+        {
+          "date": "2025-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[속담으로 만나는 문화] \"호박이 넝쿨째로 굴러 떨어졌다\"",
+          "url": "https://www.chosun.com/kid/kid_english/kid_english-dongsan/2017/08/30/PG6MX7RIV2FHBWY3ODHU6AFWCQ/"
+        },
+        {
+          "date": "2012-08-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "넝쿨째 굴러온 당신",
+          "url": "http://world.kbs.co.kr/service/contents_view.htm?lang=k&menu_cate=learnkorean&id=&board_seq=229783&page=179&board_code=net_lang"
+        },
+        {
+          "date": "2018-10-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "뜻밖의 행운! 호박이 넝쿨째 굴러 들어오다",
+          "url": "https://ytn.co.kr/_ln/1222_201810122342298789"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속담: 호박이 넝쿨째로 굴러떨어졌다",
+          "url": "https://wordrow.kr/%ec%86%8d%eb%8b%b4/%ed%98%b8%eb%b0%95%ec%9d%b4%eb%84%9d%ec%bf%a8%ec%a7%b8%eb%a1%9c%ea%b5%b4%eb%9f%ac%eb%96%a8%ec%96%b4%ec%a1%8c%eb%8b%a4-%eb%9c%bb%eb%b0%96%ec%97%90%ec%a2%8b%ec%9d%80%eb%ac%bc%ea%b1%b4%ec%9d%84%ec%96%bb%ea%b1%b0%eb%82%98%ed%96%89%ec%9a%b4%ec%9d%84%eb%a7%8c%eb%82%ac%eb%8b%a4%eb%8a%94%eb%a7%90./"
+        },
+        {
+          "date": "2023-11-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "호박이 넝쿨째 굴러들어 온 날 - 전주일보",
+          "url": "http://www.jjilbo.co.kr/news/articleView.html?idxno=281523&replyAll=&reply_sc_order_by=C"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "호박이 굴렀다 뜻",
+          "url": "https://ko.ichacha.net/korean/%ed%98%b8%eb%b0%95%ec%9d%b4%20%ea%b5%b4%eb%a0%80%eb%8b%a4.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전북특별자치도",
+          "url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000013&menuCd=DOM_000000102010000000&paging=ok&startPage=200&dataSid=162049"
+        },
+        {
+          "date": "2019-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리 집에 넝쿨째 굴러 들어온 반려견 누리 | TU TIMES",
+          "url": "https://www.tu.ac.kr/newsweb/sub05_01.do?mode=view&articleNo=112537&article.offset=24&articleLimit=12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "게시물 보기 페이지",
+          "url": "https://www.jeonbuk.go.kr/board/view.jeonbuk?boardId=BBS_0000013&menuCd=DOM_000000103001003000&paging=ok&startPage=207&dataSid=162049"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 3200,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9968,
+    "iterations": [],
+    "output_tokens": 1163,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

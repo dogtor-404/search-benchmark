@@ -1,0 +1,100 @@
+{
+  "answer": "答案是**天照大御神**（あまてらすおおみかみ，也写作天照大神）。搜了 1 次。\n\n辞典里说她是高天原的主神，是伊奘诺尊的女儿，也是太阳神和皇室的祖神，供奉在伊势神宫内宫。别名有大日孁貴等。\n\nSources:\n- [コトバンク「天照大神」](https://kotobank.jp/word/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E-427080)\n- [コトバンク「高天原」](https://kotobank.jp/word/%E9%AB%98%E5%A4%A9%E5%8E%9F)\n- [ジャパンナレッジ](https://japanknowledge.com/introduction/keyword.html?i=631)\n- [關鍵評論網](https://www.thenewslens.com/article/111188)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.976,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115688,
+      "inputTokens": 12063,
+      "maxOutputTokens": 128000,
+      "outputTokens": 725,
+      "provider": "firstParty",
+      "thinkingTokens": 115,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3017,
+      "cacheReadInputTokens": 6746,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0337812,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 414,
+      "provider": "firstParty",
+      "thinkingTokens": 23,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-37",
+  "raw": "jsonl/A_prime/msqa-JA-37.jsonl",
+  "reported_cost_usd": 0.04535,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "天照大御神 太陽神 高天原 主神",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VYpNGrf9YZH1kva3SoVa18"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3017,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3017,
+    "cache_read_input_tokens": 6746,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1173,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1173,
+        "cache_read_input_tokens": 4295,
+        "input_tokens": 2,
+        "output_tokens": 302,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 414,
+    "output_tokens_details": {
+      "thinking_tokens": 23
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

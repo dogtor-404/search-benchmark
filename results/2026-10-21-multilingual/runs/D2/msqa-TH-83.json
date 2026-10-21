@@ -1,0 +1,144 @@
+{
+  "answer": "การประชุมฯ (พ.ศ. 2485) มีมติให้แบ่ง **ประวัติศาสตร์การเมืองของชาติไทยเป็น 5 ยุค/หมวด** ดังนี้\n\n1. ยุคก่อนสุโขทัย  \n2. ยุคกรุงสุโขทัย  \n3. ยุคกรุงศรีอยุธยา  \n4. ยุคกรุงธนบุรี  \n5. ยุคกรุงรัตนโกสินทร์  \n\nโดยที่ประชุมยังเห็นว่า สำหรับ “ประวัติศาสตร์เชิงซ้อน” ควรยุบรวมยุคกรุงธนบุรีเข้ากับยุคกรุงรัตนโกสินทร์\n\nอ้างอิง: [เอกสาร SAC Research](https://sac-research.sac.or.th/uploads/article//2024_20240216084934-1.pdf#2#2)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.341,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0732184,
+      "inputTokens": 13488,
+      "maxOutputTokens": 32000,
+      "outputTokens": 939,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-83",
+  "raw": "jsonl/D2/msqa-TH-83.jsonl",
+  "reported_cost_usd": 0.0732184,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8263,
+      "query": "\"การประชุมวางโครงการทำประวัติศาสตร์ของชาติไทย\" ประวัติศาสตร์การเมือง ห้าหมวด",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประวัติศาสตร์การเมืองสําเร็จแล้ว ยั้นต่อไปจึงค่อยเข้าสู่การเขียน “ประวัติศาสตร์เชิงช้อน",
+          "url": "https://sac-research.sac.or.th/uploads/article//2024_20240216084934-1.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๑. ชุมนุมเจ้าพระยาพิษณุโลก ซึ่งตั้งตนเป็นใหญ่อยู่ที่พิษณุโลกและมีอิทธิพลในแถบนั้น",
+          "url": "https://dltv.ac.th/utils/files/download/220049#190#134"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กลาวโดยสังเขป คณะกรรมการชําระประวัติศาสตรไทยไดรับการแตงตั้งขึ้นอยางเปนทางการจากรัฐบาล จอมพล ป",
+          "url": "https://www.tcijthai.com/uploads/ebooks/memoria-fulltext-Vol1.pdf#160#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "11.40 - 13.00 น",
+          "url": "https://kpi.ac.th/wp-content/uploads/2025/07/การเมืองการปกครองไทย-2550.pdf#112#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "นายกรัฐมนตรีในขณะนั้น ที่อนุมัติเงินตามโครงการเขียนประวัติศาสตร์ ระยะเวลา 5 ปี เป็นเงินปีละ 90,000 บาท",
+          "url": "https://elibrary.tsri.or.th/fullP/PDG59H0004/PDG59H0004_full.pdf#366#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|3|บรรยายและวิเคราะห์การเมือง และโครงสร้างอำนาจของรัฐ ไทยสมัยก่อนประวัติศาสตร์ และระบบไพร่|3 ชั่วโมง|อาจารย์ ดร",
+          "url": "http://pws.npru.ac.th/nipapan/data/files/%E0%B8%A1%E0%B8%84%E0%B8%AD%203%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%201%202560.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "a",
+          "url": "https://sulak-sivaraksa.net/wp-content/uploads/2020/05/สศิวรักษ์-ปริทัศน์รัฐไทย.pdf#46#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัฒนาการทางประวัติศาสตร์ไทย",
+          "url": "https://mooc.klw.ac.th/wp-content/uploads/2022/04/หน่วย4_พัฒนาการทางประวัติศาสตร์ไทยฯ.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. แผนการสอน",
+          "url": "http://ai.swu.ac.th/Portals/68/Documents/Academic/mokoor/mokoor34/57/PMT57/2_2557/T3_HI314_2_57.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รายวิชา ประวัติศาสตร์",
+          "url": "https://dltv.ac.th/utils/files/download/219085#3#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13488,
+    "iterations": [],
+    "output_tokens": 939,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

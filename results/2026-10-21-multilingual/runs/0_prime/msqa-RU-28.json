@@ -1,0 +1,74 @@
+{
+  "answer": "这个习俗一般叫 **«Целовальник»**（也写作 **«Целовник»**），俄罗斯北部一些地方（例如雅罗斯拉夫尔一带）有记载。谢肉节期间，新婚夫妇穿上最好的衣服，在村街两旁站成一排，当众亲吻，旁人也可以上前亲吻新人。\n\n有些地方的叫法和形式稍有不同，比如说新人“站柱子”（«стоять столбом»/«столбы»），意思差不多，是新人在村里人面前公开亮相。我的把握主要在 «Целовальник / Целовник» 这个名称上。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.733,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1803,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0263056,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 578,
+      "provider": "firstParty",
+      "thinkingTokens": 358,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-28",
+  "raw": "jsonl/0_prime/msqa-RU-28.jsonl",
+  "reported_cost_usd": 0.0263056,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1803,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1803,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1803,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1803,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 578,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 578,
+    "output_tokens_details": {
+      "thinking_tokens": 358
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

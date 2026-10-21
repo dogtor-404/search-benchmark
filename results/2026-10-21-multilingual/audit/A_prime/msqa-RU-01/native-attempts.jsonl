@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "Соборное уложение 1649 столбец свиток длина метров", "results": [], "status": "allowed", "tool_use_id": "toolu_01HRJ2j5N8psS9Kkoy7h7st1"}
+{"billable": false, "call": 2, "query": "свиток Соборного уложения длина 309 метров", "results": [], "status": "allowed", "tool_use_id": "toolu_01VDGqhHmtuybLnd2dzsjkvN"}

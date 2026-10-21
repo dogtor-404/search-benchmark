@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "первый съезд тверских земских врачей 1871 открылся", "results": [], "status": "allowed", "tool_use_id": "toolu_013iG8VhR3h46eZfmG9VaBjo"}
+{"billable": false, "call": 2, "query": "\"съезд\" тверских земских врачей \"сентября 1871\" Тверь", "results": [], "status": "allowed", "tool_use_id": "toolu_01We7LBcDXHTxa8cShbHGehk"}
+{"billable": false, "call": 3, "query": "первый губернский съезд земских врачей Тверской губернии 1871 год дата открытия образец для других губерний", "results": [], "status": "allowed", "tool_use_id": "toolu_01BHr9nxB5ivMtbrB2doFmVc"}
+{"billable": false, "call": 4, "query": "\"7 июня 1871\" съезд земских врачей Тверь", "results": [], "status": "allowed", "tool_use_id": "toolu_01TUnScByfGkPaKrkPLBpiBg"}

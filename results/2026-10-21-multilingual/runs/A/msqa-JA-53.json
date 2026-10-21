@@ -1,0 +1,127 @@
+{
+  "answer": "**答え:** 『後拾遺和歌集』巻十「哀傷」、歌番号 536。作者は一条天皇の中宮・藤原定子です。\n\n- 歌は「夜もすがら契りしことを忘れずは恋ひむ涙の色ぞゆかしき」です。一部の資料では「忘れずば」「こひむ涙のいろぞ床しき」と表記されています。\n- 定子の死後、御帳の紐に結ばれた文が見つかり、そこに書かれていた三首のうちの一首とされています。いわゆる辞世の歌です。\n- 巻名と歌番号の根拠は wakapoetry.net の英訳ページだけで、そこには「Goshūi-shū X:536」とあります。X は巻十、巻十が哀傷部にあたることは私が補いました。\n- 国歌大観などの原典では確認していません。確実にするなら、新編国歌大観か国文学研究資料館の和歌データベースで照合してください。\n\nSources:\n- [wakapoetry.net「Love IV: 13」(検索結果。GSIS X:536 の表記あり)](https://www.wakapoetry.net/love-iv-13/)\n- [令和和歌所「辞世の句・歌 その9」(藤原定子)](https://wakadokoro.com/learn/%E8%BE%9E%E4%B8%96%E3%81%AE%E6%AD%8C-%E3%81%9D%E3%81%AE%EF%BC%99%E3%80%8C%E5%A4%9C%E3%82%82%E3%81%99%E3%81%8C%E3%82%89%E5%A5%91%E3%82%8A%E3%81%97%E3%81%93%E3%81%A8%E3%82%92%E5%BF%98%E3%82%8C%E3%81%9A/)\n- [utanari 和歌データベース](http://utanari.com/?p=292)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 29.484,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0472654,
+      "inputTokens": 53109,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3909,
+      "provider": "firstParty",
+      "thinkingTokens": 2057,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7072,
+      "cacheReadInputTokens": 13455,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0424555,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1281,
+      "provider": "firstParty",
+      "thinkingTokens": 150,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-53",
+  "raw": "jsonl/A/msqa-JA-53.jsonl",
+  "reported_cost_usd": 0.08972089999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "「よもすがら ちぎりしことを わすれずは こひんなみだの いろぞゆかしき」 勅撰集 出典",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DqV1GHwQgq64ihiSmdrFx6"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "夜もすがら契りしことを忘れずは恋ひむ涙の色ぞゆかしき 新古今和歌集 恋",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MPTrkhG422uivmvdNi5LHK"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"契りしことを忘れずは\" \"涙の色ぞゆかしき\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01E1q3KVtRam5h66T39xhwdN"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "よもすがら ちぎりしことを わするなよ 忘れずは 恋ひむ涙の色 ゆかしき 和歌 作者 千載和歌集 OR 後拾遺和歌集 OR 金葉和歌集 OR 詞花和歌集",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014avLupGz5EjbH3oNbr4zwB"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7072,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7072,
+    "cache_read_input_tokens": 13455,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2855,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2855,
+        "cache_read_input_tokens": 6668,
+        "input_tokens": 2,
+        "output_tokens": 683,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1281,
+    "output_tokens_details": {
+      "thinking_tokens": 150
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

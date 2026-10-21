@@ -1,0 +1,100 @@
+{
+  "answer": "**Respuesta:** la tela típica era el **awasca** (también escrito *abasca*), un tejido de calidad media y uso diario, hecho de lana de llama. En las tierras altas se usaba más la lana de llama, alpaca o vicuña, y en la costa el algodón. El *qompi*, la tela más fina, se reservaba para la élite y los usos religiosos.\n\nUsé 1 de las 5 búsquedas. Una salvedad: el resumen de la búsqueda no cita una frase que diga literalmente \"awasca era la tela de las clases bajas de las tierras altas\". La respuesta une tres datos: el awasca era la tela común de uso diario, era de lana de llama, y esa lana era la fibra de las tierras altas.\n\nFuentes:\n- [Tejidos incas – World History Encyclopedia (es)](https://www.worldhistory.org/trans/es/2-791/tejidos-incas/)\n- [Inca Textiles – World History Encyclopedia (en)](https://www.worldhistory.org/article/791/inca-textiles/.md)\n- [Vestimenta incas – Lifeder](https://www.lifeder.com/vestimenta-incas/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 21.781,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120533,
+      "inputTokens": 12833,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1540,
+      "provider": "firstParty",
+      "thinkingTokens": 300,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3569,
+      "cacheReadInputTokens": 6760,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.042039999999999994,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 606,
+      "provider": "firstParty",
+      "thinkingTokens": 105,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-34",
+  "raw": "jsonl/A_prime/msqa-ES-34.jsonl",
+  "reported_cost_usd": 0.0540933,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "tejidos incas tela vestimenta clases bajas tierras altas awasca",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017mvg98dNS4gLv661fTBW9F"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3569,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3569,
+    "cache_read_input_tokens": 6760,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1711,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1711,
+        "cache_read_input_tokens": 4309,
+        "input_tokens": 2,
+        "output_tokens": 469,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 606,
+    "output_tokens_details": {
+      "thinking_tokens": 105
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

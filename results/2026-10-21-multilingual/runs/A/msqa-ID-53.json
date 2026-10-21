@@ -1,0 +1,109 @@
+{
+  "answer": "**Makna metaforisnya:** mendapat keuntungan dari berbagai arah sekaligus, atau untung di sana-sini. Bulan dan matahari sama-sama \"naik\", jadi rezeki datang dari banyak sisi.\n\nDasarnya adalah entri KBBI untuk kata *naik*. Di situ \"bulan naik, matahari naik\" ditandai sebagai peribahasa (*pb*) dengan arti \"mendapat untung di sana-sini\". Saya hanya melihat ringkasan hasil pencarian, bukan halaman KBBI-nya secara langsung. Penjelasan tentang bulan dan matahari yang mewakili banyak sisi adalah tafsiran saya, bukan kata-kata kamus.\n\nSources:\n- [KBBI: naik (typoonline.com)](https://typoonline.com/kbbi/naik)\n- [KBBI: naik, versi AMP (typoonline.com)](https://typoonline.com/amp/kbbi/naik)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 19.721,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023763,
+      "inputTokens": 29970,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1532,
+      "provider": "firstParty",
+      "thinkingTokens": 574,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4042,
+      "cacheReadInputTokens": 12186,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0236286,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 623,
+      "provider": "firstParty",
+      "thinkingTokens": 88,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-53",
+  "raw": "jsonl/A/msqa-ID-53.jsonl",
+  "reported_cost_usd": 0.047391600000000006,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "arti peribahasa \"bulan naik matahari naik\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QeWaRjZrkhqWDD4ibPXvm4"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"bulan naik\" \"matahari naik\" peribahasa kbbi mendapat untung",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Fh9fsqJHefpo8kMNPbxiKe"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4042,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4042,
+    "cache_read_input_tokens": 12186,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1052,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1052,
+        "cache_read_input_tokens": 5441,
+        "input_tokens": 2,
+        "output_tokens": 344,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 623,
+    "output_tokens_details": {
+      "thinking_tokens": 88
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

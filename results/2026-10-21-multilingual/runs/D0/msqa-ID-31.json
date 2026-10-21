@@ -1,0 +1,62 @@
+{
+  "answer": "据我所知，**titi** 是 Mentawai 人对传统纹身（tato）的称呼。在传统的 **Arat Sabulungan** 信仰里，titi 不只是装饰，它被认为有这些作用：\n\n- **为亡魂指路**：人死后，灵魂要前往祖先所在的灵界，纹身被看作照亮、指引这条路的“灯”或标记；没有 titi 的灵魂可能会迷路。\n- **身份标识**：让祖先/灵界认出亡魂，同时也标示此人的族群归属、勇气、成年与地位。\n- **护身**：某些图案被认为能抵御恶灵。\n\n不过我要说明：我对这些细节没有十足把握，尤其是 titi 在不同仪式语境里是否还指别的器物或精灵，我并不确定。如果你问的是某个特定仪式中的 titi（而非纹身），那我就不清楚了。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 32.015,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.118588,
+      "inputTokens": 1977,
+      "maxOutputTokens": 32000,
+      "outputTokens": 5534,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/D0/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.118588,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1977,
+    "iterations": [],
+    "output_tokens": 5534,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

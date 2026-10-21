@@ -1,0 +1,314 @@
+{
+  "answer": "**答案：《El tiempo principia en Xibalbá》**（英译本名为 *Time Commences in Xibalbá*）。这是 José Luis de León Díaz（笔名 Luis de Lión）去世后于 1985 年出版的小说。\n\n要说明一点：小说里没有直接叫 San Pascualito 的角色。主角之一叫 Pascual（Pascual Baeza），维基百科说这个人物代表 San Pascualito。所以题目里的“以 San Pascualito 为主角”，指的就是这个对应关系。\n\n依据：\n- 西班牙语维基百科（Wikiwand 镜像）的“San Pascualito”词条：“En la novela El tiempo principia en Xibalbá escrita por el autor guatemalteco Luis de Lión (José Luis de León Díaz), el personaje de Pascual representa a San Pascualito.” https://www.wikiwand.com/es/San_Pascualito\n- 英语维基百科（Wayback 存档）的“San Pascualito”词条也这样写：https://web.archive.org/web/20230301110403/https://en.wikipedia.org/wiki/San_Pascualito\n- EcuRed 上的作者条目，确认 José Luis de León Díaz 就是 Luis de Lión，这部小说是他的遗作：http://www.ecured.cu/index.php?title=Luis_de_Li%C3%B3n&direction=next&oldid=3070643\n- Google Books 上英译本的简介，主角是 Pascual：https://books.google.com/books?id=MjkcAKPphhMC\n\n这次共搜了 3 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.612,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 40512,
+      "cacheReadInputTokens": 49348,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.3537776,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 989,
+      "provider": "firstParty",
+      "thinkingTokens": 221,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-32",
+  "raw": "jsonl/B_prime/msqa-ES-32.jsonl",
+  "reported_cost_usd": 0.3537776,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6663,
+      "query": "José Luis de León Díaz novela San Pascualito",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Luis de Lión - Anónimo",
+          "url": "http://www.ecured.cu/index.php?title=Luis_de_Li%C3%B3n&direction=next&oldid=3070643#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Safe Creative: Work #2307194865841 - SAN PASCUALITO",
+          "url": "https://www.safecreative.org/work/2307194865841-san-pascualito?0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2 Sobresale en esta edición el extenso y detallado estudio preliminar realizado por el profesor Alarcón porque nos permite conoc...",
+          "url": "https://journals.openedition.org/bulletinhispanique/pdf/7573#96#92"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Estefanía, M",
+          "url": "https://servicios.mpr.es/VisorPublicaciones/visordocumentosicopo.aspx?NIPO=191240084&SUBNIPO=0001&IDPUBLICACION=000119125#1963#1708"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Trujillo Sáez, Fernando, autor Texto : sin mediación Flamenkoz : Un viaje legendario en busca del Nuevo Flamenco / Fernando Truj...",
+          "url": "https://servicios.mpr.es/VisorPublicaciones/visordocumentosicopo.aspx?NIPO=191240084&SUBNIPO=0001&IDPUBLICACION=000119125#1963#1657"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "93 (M/P) IBÁÑEZ, Carlos (1929-2006) Barakaldo cuentos, leyendas y sucedidos / Carlos Ibáñez López",
+          "url": "http://www.barakaldo.eus/portal/documents/3902806/3902871/ARTEAGABEITIA-HERRIKO+ATALA_SECCION+LOCAL-KATALOGOA.pdf#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lazarrillo de Tormes Texto (visual) : sin mediación El Lazarillo de Tormes / edición a cargo de J",
+          "url": "https://servicios.mpr.es/VisorPublicaciones/visordocumentosicopo.aspx?NIPO=824210189&SUBNIPO=0005&IDPUBLICACION=003982421#3366#2768"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "189, [2] p",
+          "url": "https://www.bnp.gob.pe/documentos/bibliografia-peruana/secciones/monografias-2018.pdf#1210#487"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de Pascualitos y Vallecillo",
+          "url": "http://web.seducoahuila.gob.mx/colegiocoahuilense/assets/img/revistas/revistascontenido/Revista%20104%20PDF.pdf#27#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LIBROS RELACIONADOS",
+          "url": "https://colombia.plateroeditorial.es/q/detalle?p2_id=65283"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7094,
+      "query": "Luis de Lión novela San Pascualito personaje",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "y un no poder dejar de ser indio ante los ladinos”",
+          "url": "http://recursosbiblio.url.edu.gt/tesiseortiz/2018/05/02/Alvizures-Luis.pdf#19#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Memoria e identidad o carnavalización de la",
+          "url": "https://www.revistas.ucr.ac.cr/index.php/intercambio/article/download/3065/2973/4831#3#3"
+        },
+        {
+          "date": "2012-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Time Commences in Xibalbá",
+          "url": "https://books.google.com/books?id=MjkcAKPphhMC&newbks=1&newbks_redir=0&hl=en"
+        },
+        {
+          "date": "2012-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "《Time Commences in Xibalbá》，作者：Luis de Lión - Google Play 图书",
+          "url": "https://play.google.com/store/books/details/Luis_de_Li%C3%B3n_Time_Commences_in_Xibalb%C3%A1?id=MjkcAKPphhMC"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "la gente se habría imaginado: que él había apagado a la Virgen de la Concepción sin",
+          "url": "https://raco.cat/index.php/mitologias/article/download/283850/371794#17#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wright State University Libraries / DunbarBks",
+          "url": "https://wsuol2.wright.edu:443/record=b3468138~S17"
+        },
+        {
+          "date": "2024-06-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Time Commences in Xibalbá (Sun Tracks)",
+          "url": "https://annas-archive.gd/md5/b92eee4ffc976d0dd4941db055a52fd8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Treinta y dos años después, en pleno período demo- crático, esta célebre novela fue reeditada por la Go- bernación del Estado Mi...",
+          "url": "https://bibliofep.fundacionempresaspolar.org/media/1378568/4danza-_cultura_e_identidad_10_momentos.pdf#38#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pasc",
+          "url": "https://archive.org/download/lasdosmadresdram00past/lasdosmadresdram00past.pdf#10#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "simbolismo sexual",
+          "url": "https://bop.unibe.ch/BHHD/article/download/10118/13101#28#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6864,
+      "query": "\"San Pascualito\" \"Luis de Lión\"",
+      "results": [
+        {
+          "date": "2009-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20230301110403/https://en.wikipedia.org/wiki/San_Pascualito#1"
+        },
+        {
+          "date": "2026-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Religion:San Pascualito - Anonymous",
+          "url": "https://handwiki.org/wiki/Religion:San_Pascualito#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - San Pascualito",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/San_Pascualito#1"
+        },
+        {
+          "date": "2024-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito of Religion Topics | Question AI - San Pascualito",
+          "url": "https://www.questionai.com/knowledge/kGDAYRPmoi-san-pascualito#1"
+        },
+        {
+          "date": "2025-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito facts for kids - San Pascualito facts for kids",
+          "url": "https://kids.kiddle.co/San_Pascualito#1"
+        },
+        {
+          "date": "2020-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito: o rei do cemitério - Morte Súbita inc.",
+          "url": "https://mortesubita.net/san-pascualito-o-rei-do-cemiterio/"
+        },
+        {
+          "date": "2017-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - Alchetron, The Free Social Encyclopedia - Alchetron",
+          "url": "https://alchetron.com/San-Pascualito#1"
+        },
+        {
+          "date": "2016-03-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - Wikipedia's San Pascualito as translated by GramTrans - San Pascualito",
+          "url": "https://epo.wikitrans.net/San_Pascualito#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - Wikiwand - Reading on Wikiwand",
+          "url": "https://www.wikiwand.com/es/San_Pascualito#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "San Pascualito - San Pascualito",
+          "url": "https://es-academic.com/dic.nsf/eswiki/1056375#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 40512,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 40512,
+    "cache_read_input_tokens": 49348,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14430,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14430,
+        "cache_read_input_tokens": 28086,
+        "input_tokens": 2,
+        "output_tokens": 614,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 989,
+    "output_tokens_details": {
+      "thinking_tokens": 221
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "answer": "**答案：Tiruk（提鲁克）。** 这是一种专门用来捉 labi-labi（鳖）或 kura-kura（龟）的矛。矛头是铁制的尖头，长约 30 厘米；矛杆用 tembrai 木做，长约一臂半，也就是 1.5 米左右。\n\n**依据：**\n- 印尼教育文化部仓库里的《Kearifan Lokal Masyarakat Adat Propinsi Jambi》（占碑省原住民的地方智慧）。书中写明 Suku Anak Dalam（也就是 Suku Kubu、Orang Rimba）用的 \"Tiruk, semacam tombak yang dikhususkan untuk menangkap labi-labi atau kura-kura\"，意思是 Tiruk 是一种专门捉鳖或龟的矛：https://repositori.kemdikbud.go.id/29813/1/KEARIFAN%20LOKAL%20MASYARAKAT%20ADAT%20PROPINSI%20JAMBI.pdf\n- 另一份写 Kubuan 村 Suku Anak Dalam 的民族志也提到了 tiruk，不过那里说的是用它叉鱼：https://core.ac.uk/download/227160900.pdf\n\n**补充：** 2024 年 WARSI 和 Liputan6 的报道写了另一种做法。Orang Rimba 在河岸挖开洞，直接伸手把淡水龟（他们叫 sebodo）掏出来，没有用工具：http://warsi.or.id/orang-rimba-sebodo-harga-diri-dan-cinta/\n\n这次一共搜了 4 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 23.327,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 48976,
+      "cacheReadInputTokens": 88512,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.4311904,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1082,
+      "provider": "firstParty",
+      "thinkingTokens": 191,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-32",
+  "raw": "jsonl/B_prime/msqa-ID-32.jsonl",
+  "reported_cost_usd": 0.4311904,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7149,
+      "query": "Suku Kubu alat tradisional menangkap kura-kura",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_merata sepanjang tahun serta aliran Sungai_",
+          "url": "https://ojs.unud.ac.id/index.php/blje/article/download/98/81#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebagai suatu kelompok suku bangsa, Orang Kubu atau Orang Rimba memiliki kebudayaan tersendiri",
+          "url": "https://files.osf.io/v1/resources/6vuw3/providers/osfstorage/5c4c115f0d1c9e00194b5359?action=download&direct&version=1#page=37#111#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "budi daya di lahan rawa, dengan membuat saluran-saluran (sebagai",
+          "url": "https://indonesia.wetlands.org/download/1279?tmstv=1718071008#39#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam yang disebut juga Orang Kubu",
+          "url": "https://repository.unp.ac.id/id/eprint/8654/1/B1_3_REKA_PERMATASARI_16180_126_2015.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam merupakan bagian dari kelompok",
+          "url": "http://repository.umi.ac.id/1345/1/BUKU%20ANTROPOLOGI%20SOS%20KES-1.pdf#24#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kepercayaan-kepercayaan tradisional sering diakulturasikan dengan ajaran",
+          "url": "https://journals.mindamas.com/index.php/sosiohumanika/article/download/454/452#36#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Kubu disebut juga Suku Anak Dalam atau Orang Rimba",
+          "url": "https://repository.unp.ac.id/id/eprint/7731/1/B1_2_SRI_YUNI_UTAMI_83541_1762_2012.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Kubu and the Outside World 511",
+          "url": "https://www.digi-hub.de/viewer/api/v1/records/1513673764894/files/images/00000525.tif/full.pdf?divID=LOG_0003#1#1"
+        },
+        {
+          "date": "2024-02-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bikin Kagum, Ternyata Ini Sejarah Suku Kubu di Indonesia",
+          "url": "https://pagaralampos.bacakoran.co/read/1977/bikin-kagum-ternyata-ini-sejarah-suku-kubu-di-indonesia/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kubus",
+          "url": "https://web.archive.org/web/20060913000000/http://en.wikipedia.org/wiki/Kubus"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6904,
+      "query": "Orang Rimba menangkap kura-kura menggunakan alat",
+      "results": [
+        {
+          "date": "2024-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Hewan Sebodo, Lambang Harga Diri dan Cinta Kasih Orang Rimba - Mengenal Hewan Sebodo, Lambang Harga Diri dan Cinta Kasih Orang Rimba",
+          "url": "https://www.liputan6.com/regional/read/5668603/mengenal-hewan-sebodo-lambang-harga-diri-dan-cinta-kasih-orang-rimba#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Orang Rimba, Sebodo, Harga Diri dan Cinta",
+          "url": "http://warsi.or.id/orang-rimba-sebodo-harga-diri-dan-cinta/#respond"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ketika hewan buruan melintas, penutup lubang akan runtuh sehingga hewan tersebut terperangkap di dalamnya",
+          "url": "https://warsi.or.id/wp-content/uploads/2026/09/Ensiklopedia-Orang-Rimba.pdf#27#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gambar 2.9 Laki-laki Rimba sedang membawa tembakan & Gambar 2.10 Wanita Rimba",
+          "url": "https://kc.umn.ac.id/id/eprint/35094/4/BAB_III.pdf#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Gambar 6. Peta Sebaran Ruang Berburu dan Meramu Rombong T",
+          "url": "http://scholar.unand.ac.id/104331/4/TESIS%20FULL.pdf#35#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sedangkan _louk_ _kecil_ (hewan",
+          "url": "https://mail.online-journal.unja.ac.id/BST/article/download/3403/8333/10597#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Anak Dalam/Orang Rimba tidak punya tradisi untuk memelihara ternak seperti Orang Desa, Ada ungkapan yang terkenal di lingku...",
+          "url": "http://repository.uinfasbengkulu.ac.id/114/1/ABABIL%20PUTRA.pdf#16#11"
+        },
+        {
+          "date": "2024-08-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebodo, Harga Diri dan Cinta, Makanan Kesukaan Perempuan Rimba dari Hasil Buruan - Metro Jambi",
+          "url": "https://www.metrojambi.com/daerah/134958276/sebodo-harga-diri-dan-cinta-makanan-kesukaan-perempuan-rimba-dari-hasil-buruan"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Kubu disebut juga Suku Anak Dalam atau Orang Rimba",
+          "url": "https://repository.unp.ac.id/id/eprint/7731/1/B1_2_SRI_YUNI_UTAMI_83541_1762_2012.pdf#2#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Melihat secara langsung bagaimana karakteristik Suku Anak Dalam (Orang Rimba), dan terlibat dalam aktivitas sehari-hari mereka d...",
+          "url": "https://journal.isi.ac.id/index.php/resital/article/download/489/83#2#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6882,
+      "query": "Kubu tribe Sumatra catch turtles tortoise tool",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Kubu and the Outside World 511",
+          "url": "https://www.digi-hub.de/viewer/api/v1/records/1513673764894/files/images/00000525.tif/full.pdf?divID=LOG_0003#1#1"
+        },
+        {
+          "date": "2024-01-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "クブ族 - Wikipedia",
+          "url": "https://ja.m.wikipedia.org/wiki/%E3%82%AF%E3%83%96%E6%97%8F"
+        },
+        {
+          "date": "2025-09-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "库布人",
+          "url": "https://baike.baidu.com/item/%E5%BA%93%E5%B8%83%E4%BA%BA"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "クブ(くぶ)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E3%81%8F%E3%81%B6-2809223"
+        },
+        {
+          "date": "2022-08-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "库布人 免费编辑 添加义项名",
+          "url": "https://upimg.baike.so.com/doc/8727089-9049835.html"
+        },
+        {
+          "date": "2016-01-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Kubu",
+          "url": "https://www.friendlyborders.org/news/the-kubu/"
+        },
+        {
+          "date": "2024-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "クブ族 について",
+          "url": "http://www.kotoba.ne.jp/word/クブ族"
+        },
+        {
+          "date": "2026-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kubu - Enciclopedia - Treccani - Salta al contenuto",
+          "url": "https://www.treccani.it/enciclopedia/kubu_%28Enciclopedia-Italiana%29/#1"
+        },
+        {
+          "date": "2006-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kubu — Wikipédia - Kubu",
+          "url": "https://fr.wikipedia.org/wiki/?title=Kubu&oldid=188668503#1"
+        },
+        {
+          "date": "2013-12-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bubu - Wikipedia bahasa Indonesia, ensiklopedia bebas - Anda juga bisa ikut ambil peran dalam penyebaran pengetahuan bebas",
+          "url": "https://id.wikipedia.org/wiki/Bubu#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.6506,
+      "query": "\"Suku Kubu\" kura-kura tombak OR serampang OR tiruk wikipedia",
+      "results": [
+        {
+          "date": "2017-04-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "All about Kubu ethnic - 文字记录",
+          "url": "https://prezi.com/fkm1k2xrkpll/all-about-kubu-ethnic/#1"
+        },
+        {
+          "date": "2023-07-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Melangun, Warga Suku Kubu Lewati Jalan Raya Sambil Mengemis",
+          "url": "https://radarmukomuko.disway.id/news/read/661833/tradisi-melangun-warga-suku-kubu-lewati-jalan-raya-sambil-mengemis/15"
+        },
+        {
+          "date": "2019-01-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sebutkan 34 nama suku dan senjata tradisional - Brainly.co.id - Di bawah ini dijelaskan 34 nama suku dan senjata tradisional yang ada di Indonesia",
+          "url": "https://brainly.co.id/tugas/21116522?source=aidnull#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jika hewan yang didapat cukup banyak, mereka biasa menyimpan daging hewan buruan itu untuk hari-hari yang akan datang",
+          "url": "https://core.ac.uk/download/227160900.pdf#13#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Kalau begitu, menanglah kamu, Pak Caru",
+          "url": "https://knova.um.edu.my/cgi/viewcontent.cgi?filename=0&article=8588&context=student_works_2010s&type=additional#58#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "binatang-binatang, masyarakat suku Anak Dalam mempunyai",
+          "url": "https://core.ac.uk/download/227160900.pdf#13#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Alat tradisional burus yang digunakan oleh masyarakat suku Dayak Simpakng",
+          "url": "https://jurnal.untan.ac.id/index.php/jlht/article/download/78404/75676603111#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "- 1 (satu) lembar selendang tenun sumba berwarna putih dengan motif garis- garis warna merah dan hitam dengan panjang sekitar 1 ...",
+          "url": "https://putusan3.mahkamahagung.go.id/direktori/download_file/c1a6e00d27028d3cd0b914bdea355a9b/pdf/0609577558f28c19458192371a2b0ed2#27#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pada tahun 1980 masih terlihat seorang Jenang di daerah Air Hitam, masih bertindak terhadap Orang Rimba di pedalaman hutan Bukit...",
+          "url": "https://repositori.kemdikbud.go.id/29813/1/KEARIFAN%20LOKAL%20MASYARAKAT%20ADAT%20PROPINSI%20JAMBI.pdf#9#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "komedinya",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Warisan_budaya_tak_benda_di_Propinsi_Bengkulu_dan_Sumatera_Selatan.pdf#41#27"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 48976,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 48976,
+    "cache_read_input_tokens": 88512,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13722,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13722,
+        "cache_read_input_tokens": 37258,
+        "input_tokens": 2,
+        "output_tokens": 587,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1082,
+    "output_tokens_details": {
+      "thinking_tokens": 191
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

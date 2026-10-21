@@ -1,0 +1,62 @@
+{
+  "answer": "“Seperti air di daun talas”（像芋头叶上的水）是印尼语里的明喻（perumpamaan，用 *seperti* 引导的比喻）。芋头叶表面有蜡质，水珠落上去会滚落、留不住，所以这个比喻重点在“**留不住**”，常用来形容以下几类人：\n\n1. **听不进劝告的人**——别人给的建议左耳进右耳出，建议在他身上“留不住”，照旧我行我素。\n2. **没有定见、容易动摇的人**——立场或态度像水珠一样随时滑走，不坚定（tidak tetap pendirian）。\n3. **留不住钱的人**——钱财到手很快就花光、散掉（这个用法在口语里也常见）。\n\n核心含义可以概括为：**“水过鸭背”式的人——好话、好处、钱财都留不住**。其中“听不进劝/不坚定”是最主要的用法。\n\n（凭已有知识回答，未联网核对；不同词典对这一比喻的释义侧重略有差异。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.648,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.021792,
+      "inputTokens": 1983,
+      "maxOutputTokens": 32000,
+      "outputTokens": 693,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/D0/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.021792,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1983,
+    "iterations": [],
+    "output_tokens": 693,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

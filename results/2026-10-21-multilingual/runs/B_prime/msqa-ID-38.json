@@ -1,0 +1,156 @@
+{
+  "answer": "**Cebong** (dari \"kecebong\", anak kodok). Julukan ini populer pada Pilpres 2014 dan 2019, berpasangan dengan \"Kampret\" untuk pendukung Prabowo.\n\n- Ada dua versi asal-usulnya. Versi pertama: Jokowi dikabarkan gemar memelihara kodok. Versi kedua: plesetan \"Jokodok\" dari Rizieq Shihab.\n- Sejak sekitar 2025–2026 muncul juga sebutan baru **\"Termul\"** (singkatan \"ternak Mulyono\"; Mulyono adalah nama kecil Jokowi). Istilah ini makin terkenal setelah dipakai Jusuf Kalla pada April 2026.\n- Kalau yang dimaksud kelompok relawannya, yang terbesar adalah **Projo**.\n- Satu artikel Kompas.tv menyebut \"Kampret\" untuk pendukung Jokowi. Itu kebalikan dari sumber-sumber lain, jadi kemungkinan besar salah tulis.\n\nSaya hanya mencari sekali dan membaca ringkasan hasil pencarian, tidak membuka halamannya.\n\nSumber:\n- https://www.jawapos.com/pemilihan/0128613/analis-media-di-medsos-kampret-lebih-nyinyir-ketimbang-cebong\n- https://www.alinea.id/tag/cebong\n- https://www.kompas.id/artikel/kubur-sebutan-cebong-dan-kampret\n- https://www.repelita.net/post/viral-apa-itu-termul-istilah-yang-dipopulerkan-jk-untuk-pendukung-setia-jokowi (Termul)\n- https://www.kompas.tv/nasional/131523/gatot-nurmantyo-imbau-hentikan-sebutan-kadrun-dan-kampret (artikel yang tidak cocok)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.659,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 12978,
+      "cacheReadInputTokens": 5849,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1216698,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 833,
+      "provider": "firstParty",
+      "thinkingTokens": 102,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-38",
+  "raw": "jsonl/B_prime/msqa-ID-38.jsonl",
+  "reported_cost_usd": 0.1216698,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6824,
+      "query": "sebutan pendukung Joko Widodo",
+      "results": [
+        {
+          "date": "2025-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bukan Cuma Projo, Ini 15 Organisasi Relawan Pendukung Jokowi - Advertisement",
+          "url": "https://www.inilah.com/daftar-organisasi-relawan-pendukung-jokowi#1"
+        },
+        {
+          "date": "2026-09-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gerindra Heran Jokowi Mau Dilabeli 'Cak Jancuk'",
+          "url": "https://www.rmoljatim.id/gerindra-heran-jokowi-mau-dilabeli-cak-jancuk-"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gatot Nurmantyo Imbau Hentikan Sebutan Kadrun dan Kampret - Gatot Nurmantyo Imbau Hentikan Sebutan Kadrun dan Kampret",
+          "url": "https://www.kompas.tv/nasional/131523/gatot-nurmantyo-imbau-hentikan-sebutan-kadrun-dan-kampret#1"
+        },
+        {
+          "date": "2018-11-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Analis Media: Di Medsos, 'Kampret' Lebih Nyinyir Ketimbang 'Cebong'",
+          "url": "https://www.jawapos.com/pemilihan/0128613/analis-media-di-medsos-kampret-lebih-nyinyir-ketimbang-cebong"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kumpulan berita terbaru tag Cebong",
+          "url": "https://www.alinea.id/tag/cebong"
+        },
+        {
+          "date": "2026-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[VIRAL] Apa Itu Termul? Istilah yang Dipopulerkan JK untuk Pendukung Setia Jokowi",
+          "url": "https://www.repelita.net/post/viral-apa-itu-termul-istilah-yang-dipopulerkan-jk-untuk-pendukung-setia-jokowi"
+        },
+        {
+          "date": "2026-04-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Melihat Reaksi Pendukung Jokowi Ketika Dipanggil Termul - Melihat Reaksi Pendukung Jokowi Ketika Dipanggil Termul",
+          "url": "https://olenka.id/melihat-reaksi-pendukung-jokowi-ketika-dipanggil-termul#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "maupun non verbal yang bertujuan mempengaruhi opini publik",
+          "url": "https://devjurnal.amikom.ac.id/index.php/pikma/article/download/391/147/1231#4#3"
+        },
+        {
+          "date": "2019-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kubur Sebutan Cebong dan Kampret",
+          "url": "https://www.kompas.id/artikel/kubur-sebutan-cebong-dan-kampret?open_from=Tagar_Page"
+        },
+        {
+          "date": "2019-02-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pendukung Jokowi Semarakkan Lokasi Debat Capres",
+          "url": "http://pilpres.tempo.co/read/1176650/pendukung-jokowi-semarakkan-lokasi-debat-capres"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12978,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12978,
+    "cache_read_input_tokens": 5849,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11137,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11137,
+        "cache_read_input_tokens": 3845,
+        "input_tokens": 2,
+        "output_tokens": 727,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 833,
+    "output_tokens_details": {
+      "thinking_tokens": 102
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

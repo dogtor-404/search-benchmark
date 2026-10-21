@@ -1,0 +1,62 @@
+{
+  "answer": "**Iki Palek**（达尼族 Dani 的断指仪式）最典型的场合是**哀悼亲人去世**：家中近亲（父母、兄弟姐妹、子女）去世后，亲属会切断自己的一节手指，以示悲痛和哀悼。通常用石斧或竹刀，切断的多为女性，但男性也有记录。\n\n- 它属于**丧葬/哀悼仪式**，不一定和某一次战争或庆典相关。\n- 同时被理解为：把“痛苦”通过身体表达出来、安抚亡者灵魂，有时也和驱邪/防止厄运的说法联系在一起。\n- 这一习俗今天已很少见，主要在偏远地区或被作为文化记录保留。\n\n需要说明：这些是常见的人类学/旅行记述，不同资料对切断哪根手指、男女差异、是否先绑绳止血等细节说法不完全一致；我无法上网核对具体版本。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.246,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018307999999999998,
+      "inputTokens": 1977,
+      "maxOutputTokens": 32000,
+      "outputTokens": 520,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/D0/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.018307999999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1977,
+    "iterations": [],
+    "output_tokens": 520,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：Bulian 仪式**（也写作 Belian 或 Bulean），由称为 kemantan 的巫医（dukun）主持。Talang Mamak 人认为生病是因为灵魂空着、被鬼神附了身，所以要在仪式上把灵魂召回病人体内，同时把恶灵赶走。Tari Rentak Bulian 这支舞就是从这个仪式来的。\n\n另外有一篇论文把 Talang Mamak 的治病仪式分成 Bulian、Balai Terbang、Balai Panjang、Malighai 几种，不过各个来源最常说的治病仪式是 Bulian。\n\n搜了 1 次。\n\n依据的网址：\n- [jom.unri.ac.id](https://jom.unri.ac.id/index.php/JOMFKIP/article/download/10846/10501)\n- [ejournal.uin-suska.ac.id](https://ejournal.uin-suska.ac.id/index.php/nusantara/article/view/24577)\n- [repository.uir.ac.id](https://repository.uir.ac.id/119/)\n- [repository.uir.ac.id（bab1.pdf）](https://repository.uir.ac.id/119/1/bab1.pdf)\n- [journal.isi-padangpanjang.ac.id](https://journal.isi-padangpanjang.ac.id/index.php/Bercadik/article/download/27/14)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 19.928,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0122973,
+      "inputTokens": 15718,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1451,
+      "provider": "firstParty",
+      "thinkingTokens": 98,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3876,
+      "cacheReadInputTokens": 6750,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.044273999999999994,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 595,
+      "provider": "firstParty",
+      "thinkingTokens": 29,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-33",
+  "raw": "jsonl/A_prime/msqa-ID-33.jsonl",
+  "reported_cost_usd": 0.0565713,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "upacara pengobatan Suku Talang Mamak",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BsjdkeMkwWTJDanwivrAEr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3876,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3876,
+    "cache_read_input_tokens": 6750,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2028,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2028,
+        "cache_read_input_tokens": 4299,
+        "input_tokens": 2,
+        "output_tokens": 476,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 595,
+    "output_tokens_details": {
+      "thinking_tokens": 29
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

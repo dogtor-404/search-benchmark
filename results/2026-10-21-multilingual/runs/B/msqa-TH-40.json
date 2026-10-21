@@ -1,0 +1,235 @@
+{
+  "answer": "**คำตอบสั้น ๆ:** ก่อนสักยันต์ต้องทำพิธี \"ยกครู\" (ขึ้นครู) ผู้ที่จะสักเตรียม **ดอกไม้ ธูป เทียน และเงินค่ายกครู** ใส่พานหรือขัน ไปถวายอาจารย์ผู้สักเพื่อฝากตัวเป็นศิษย์ ตามธรรมเนียมแต่ละสำนัก\n\n- **ค่ายกครู:** แต่ละสำนักกำหนดไม่เท่ากัน ที่วัดบางพระใช้ 24 บาท และบางแห่งใช้ 6 บาท\n- **ของเพิ่มตามสำนัก:** วัดบางพระให้เตรียมบุหรี่ 1 ซองด้วย หรือจะบูชาพานครูของวัดที่หน้ากุฎีในราคา 60 บาทก็ได้\n- **เรื่องที่ควรรู้ก่อนวันสัก:**\n  - นอนพักผ่อนให้พอ\n  - กินอาหารมาก่อน\n  - งดแอลกอฮอล์ทั้งคืนก่อนสักและวันสัก\n  - ใส่เสื้อผ้าที่เปิดตำแหน่งที่จะสักได้สะดวก\n  - ผู้มาสักไม่ควรร้องขอลายเอง เพราะอาจารย์จะเป็นผู้เลือกลายและตำแหน่งให้\n  - ต้องแจ้งอาจารย์ว่าจะสักแบบหมึกหรือแบบน้ำมัน\n- **ข้อควรระวัง:** รายการเครื่องบูชาต่างกันไปตามสำนัก ควรสอบถามสำนักที่จะไปสักล่วงหน้า\n- **ต่างจากพิธีรับยันต์เกราะเพชร:** ที่วัดท่าขนุนใช้เพียงธูป 3 ดอก เทียน 1 เล่ม ซึ่งเป็นพิธีเป่ายันต์ ไม่ใช่การสัก\n\n**แหล่งที่ใช้:**\n- https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf (วิทยานิพนธ์ มจร. ขั้นตอนพิธีสักทั่วไป)\n- https://lannajournal.com/conference/en/article/download/417/357/697 (ขั้นตอนที่วัดบางพระ)\n- https://highness-amulets.com/article-sak-yant-first-time (คำแนะนำการเตรียมตัวสักครั้งแรก)\n- https://sure.su.ac.th:443/xmlui/bitstream/id/228ded40-00d7-444a-bd2d-77efa75c6caf/Fulltext.pdf (เอกสารมหาวิทยาลัยศิลปากร ค่ายกครู 24 บาท)\n- https://www.watthakhanun.com/webboard/showpost.php?s=1407127a7bd2c91381c9539a56502c2a&p=211739&postcount=11 (วัดท่าขนุน พิธีรับยันต์เกราะเพชร)\n\nฉันค้นไป 2 ครั้ง จากสูงสุด 5 ครั้ง",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.953,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 40601,
+      "cacheReadInputTokens": 5871,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1769791,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1398,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-40",
+  "raw": "jsonl/B/msqa-TH-40.jsonl",
+  "reported_cost_usd": 0.1769791,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 1.0123,
+      "query": "ขั้นตอนการสักยันต์ ต้องเตรียมอะไรบ้าง ธูป เทียน ดอกไม้ ครู",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว - ปกิณกธรรม งานบวงสรวงไหว้ครูและเป่ายันต์เกราะเพชร (รอบเช้า) วัดท่าขนุน วันที่ ๗ กันยายน พ.ศ. ๒๕๖๗",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=6d1eb7c4ad303a690a27e7fc8d16de91&p=402639&postcount=8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(๒)ขนาด ๔ หนู มีความยาว ๗๕ เซนติเมตร",
+          "url": "https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf#36#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=1407127a7bd2c91381c9539a56502c2a&p=211739&postcount=11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หวกลูกศิษย์ที่ต้องกำรลงอักษระสักยันต์ จะต้องเป็นผู้ที่มีควำมเสื่อมใสใน",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/228ded40-00d7-444a-bd2d-77efa75c6caf/Fulltext.pdf?attempt=2#59#49"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว - เก็บตกงานบวงสรวงไหว้ครูและเป่ายันต์เกราะเพชร ช่วงเช้าวันเสาร์ที่ ๓๑ พฤษภาคม ๒๕๖๘",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=040f9a78b527dfebeca7893bff758850&p=416245&postcount=33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "โดยในช่วงเริ่มแรกหลวงพ่อเป็นท่านได้ก าหนดเครื่องบูชาครูไว้ประกอบด้วย ดอกไม้ ธูป เทียน บุหรี่ 1 ซอง เงิน 6 บาท ซึ่งผู้ที่จะมารับก...",
+          "url": "https://lannajournal.com/conference/en/article/download/417/357/697#4#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หมู่ผู้ศรัทธาในเครื่องรางของขลังว่า วันเสาร์ห้า ถือว่าเป็นวันดีที่สุด แต่ถ้าวันเสาร์ ขึ้น ๕ ค ่า เดือน",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/1308/4/Chapter2.pdf#24#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้ที่เข้าร่วมในพิธีไหว้ครูไม่ต้องมีคุณสมบัติก็เข้าได้ แต่ผู้ที่จะครอบนั้นต้องรู้ว่า จะเรียนอะไร ขั้นไหนและครอบอะไรแต่ก็ไม่ควรที...",
+          "url": "https://cuir2.car.chula.ac.th/dspace/bitstream/123456789/52392/1/5786736535.pdf#57#35"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขั้นตอนนี้ถือเป็นหัวใจสĬำคัญของการทĬำอันดี ก่อนจะเริ่มเขียนอันดีจะต้องเตรียมอุปกรณ์ สĬำหรับลงอันดี เวลาทĬำจะต้องตั้งจิตให้บริสุท...",
+          "url": "https://e-thesis.mcu.ac.th/storage/pa8gFBxPunvsmVcSW9TCVo4G1QXjoSfEbf4sH4ct.pdf#51#20"
+        },
+        {
+          "date": "2026-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เตรียมตัวสักยันต์ครั้งแรก ฉบับสมบูรณ์ ต้องรู้อะไรบ้าง | Highness Amulet",
+          "url": "https://highness-amulets.com/article-sak-yant-first-time"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8031,
+      "query": "สักยันต์ครั้งแรก เตรียมตัว ขันครู ค่าครู",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(๒)ขนาด ๔ หนู มีความยาว ๗๕ เซนติเมตร",
+          "url": "https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf#36#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ก่อนที่จะจักจะต้องมีการยกครูซึ่งภาษาไทลื้อเรียกว่า ค่าจ้าว เป็นเงินค่ายกครู หรือค่าคายซึ่งเปรียบเสมือนค่าแรงของ คนสักนั่นเอง เงิ...",
+          "url": "https://fund.pkru.ac.th/storage/download/612231360274390001744087?sector=files2021&bucket=publish_paper&ver=0&sk=33c1071a589ade2bf9c96b901fc26765#358#349"
+        },
+        {
+          "date": "2026-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เตรียมตัวสักยันต์ครั้งแรก ฉบับสมบูรณ์ ต้องรู้อะไรบ้าง | Highness Amulet",
+          "url": "https://highness-amulets.com/article-sak-yant-first-time"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หวกลูกศิษย์ที่ต้องกำรลงอักษระสักยันต์ จะต้องเป็นผู้ที่มีควำมเสื่อมใสใน",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/228ded40-00d7-444a-bd2d-77efa75c6caf/Fulltext.pdf?attempt=2#59#49"
+        },
+        {
+          "date": "2026-03-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sak Yant Bamboo Tattoo in Thailand: What to Know Before You Go… - ✧Your Thailand adventure starts here",
+          "url": "https://go2-thailand.com/blog/sak-yant-bamboo-tattoo-thailand-guide-2026/#1"
+        },
+        {
+          "date": "2026-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Your First Sak Yant: The Complete Guide to Getting Ready | Highness Amulet",
+          "url": "https://highness-amulets.com/en/article-sak-yant-first-time"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "75 บาท 100 บาท และ 250 บาท ตอ 1 ลายสัก",
+          "url": "https://thaiscience.info/Journals/Article/NRCT/10440251.pdf#7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เป็นการยกย่องบูชาคุณครูอาจารย์ เป็นพิธีศักดิ์สิทธิ์ที่บรรดาศิษย์ พร้อมใจกันมาชุมนุษ เป็นพิธีที่กระท า",
+          "url": "https://thaiscience.info/Journals/Article/NRCT/10440251.pdf#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คติการสักยันต์มีความเกี่ยวเนื่องกับความเชื่อในทางพุทธศาสนา ในคุณบารมีของ พระพุทธเจ้า พระสาวก และหลักธรรมค าสอนด้วยการยึดมั่นแล้ว...",
+          "url": "https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf#36#30"
+        },
+        {
+          "date": "2026-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "第一次做泰式经文刺青（Sak Yant）完全指南：你需要知道什么 | Highness Amulet",
+          "url": "https://highness-amulets.com/zh/article-sak-yant-first-time"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 40601,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 40601,
+    "cache_read_input_tokens": 5871,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 38738,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 38738,
+        "cache_read_input_tokens": 3867,
+        "input_tokens": 2,
+        "output_tokens": 1205,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1398,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

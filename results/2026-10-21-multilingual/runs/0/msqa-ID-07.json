@@ -1,0 +1,74 @@
+{
+  "answer": "**Merariq** 是萨萨克人(Sasak,龙目岛)婚俗中的“带走新娘/私奔式娶亲”程序。男方在征得女方本人同意后,通常在晚上把她悄悄带离家,先藏在男方亲属家中,而不是先由男方家长正式上门提亲。这在当地被视为勇气和尊重女方的表现。“Merariq”一词本身与“逃走、带走”的意思有关。\n\n大致流程如下,各地细节略有差异:\n\n1. **Midang**:男方先去女方家拜访、交往。\n2. **Merariq(带走)**:约定好后,男方把女子带走,安置在男方亲属处。\n3. **Nyelabar / Mesejati**:通常在几天内,男方派人向女方家和村中长者通报,告知女儿在哪里、与谁在一起。\n4. **Mbait wali / Selabar**:协商并请女方家长或监护人(wali)同意婚事。\n5. **Sorong serah(Aji Krama)**:双方商定聘礼和婚姻规矩,举行仪式。\n6. **Nyongkolan**:新郎新娘带着乐队和亲友队伍游行到女方家,是最热闹的环节。\n\n后面几个步骤的名称和顺序我记得不太确定,以上细节仅供参考。另外,merariq 在现实中也引起过争议,比如未经家长同意、涉及未成年人等问题。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.501,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1773,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0145228,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 727,
+      "provider": "firstParty",
+      "thinkingTokens": 236,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/0/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.0145228,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1773,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1773,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1773,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1773,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 727,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 727,
+    "output_tokens_details": {
+      "thinking_tokens": 236
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

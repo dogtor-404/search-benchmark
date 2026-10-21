@@ -1,0 +1,235 @@
+{
+  "answer": "**Jawaban:** Tarian Ma'bua diselenggarakan **sekali setiap 12 tahun**.\n\nSumber-sumber ini menyebut interval 12 tahun:\n- Budaya Indonesia, \"Ma'bua\": upacara besar dengan interval 12 tahun, imam memakai hiasan kepala kerbau dan menari di sekitar pohon suci. https://budaya-indonesia.org/Ma-bua\n- Budaya Indonesia, \"Bermacam suku Toraja\": tarian Ma'bua hanya bisa dilakukan 12 tahun sekali. https://budaya-indonesia.org/Bermacam-suku-Toraja\n- Skripsi UAJY tentang Ma'Bua' pada peresmian Tongkonan: upacara ini jarang diadakan, hanya 12 tahun sekali. https://repository.uajy.ac.id/id/eprint/18102/\n\nSatu sumber lain (artikel di York University, https://lobo.journals.yorku.ca/index.php/default/article/download/207/216/379) menyebut perayaan mabua kadang dilakukan setiap 2–3 tahun pada masa makmur. Selain itu, praktiknya bisa berbeda antar wilayah adat.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.742,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 22801,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0977875,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 599,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-55",
+  "raw": "jsonl/B/msqa-ID-55.jsonl",
+  "reported_cost_usd": 0.0977875,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7312,
+      "query": "tarian Ma'bua Toraja diselenggarakan berapa kali",
+      "results": [
+        {
+          "date": "2011-02-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toraja - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110302005315/http://en.wikipedia.org/wiki/Toraja#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ma'bua » Budaya Indonesia - Tarian",
+          "url": "https://budaya-indonesia.org/Ma-bua#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bermacam suku Toraja - Tarian",
+          "url": "https://budaya-indonesia.org/Bermacam-suku-Toraja#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - tahun baru islam",
+          "url": "https://budaya-indonesia.org/cari?q=tahun%20baru%20islam&page=17&provinsi=28#1"
+        },
+        {
+          "date": "2026-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia - Sulawesi - Tana Toraja - Funeral Ceremony - Man With Buffalo - 302d - In the ritual called Ma'Nene, that takes place each year in August, the bodies of the deceased are exhumed to be washed, groomed...",
+          "url": "https://www.flickr.com/photos/asienman/54102490568/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**SOYANAN KASENDEAN**",
+          "url": "https://eprints.unm.ac.id/19861/1/JURNAL.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut pendapat saya, pemerintah harus terus berusaha untuk mendidik para pemimpin di masyarakat Toraja agar secara bertahap me...",
+          "url": "https://lobo.journals.yorku.ca/index.php/default/article/download/207/216/379#20#9"
+        },
+        {
+          "date": "2026-05-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia - Sulawesi - Randau Batu - Toraja Funeral Ceremony - 224dd - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://www.flickr.com/photos/98403995@N08/48690217873/#2"
+        },
+        {
+          "date": "2011-04-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tarian Toraja",
+          "url": "http://kampoeng-heber.blogspot.com/2011/04/tarian-toraja.html?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**BAB V**",
+          "url": "http://repository.upi.edu/42850/6/S_STR_1504776_Chapter5.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6969,
+      "query": "Ma'bua' Toraja upacara dilaksanakan setiap tahun kali 12 tahun",
+      "results": [
+        {
+          "date": "2011-02-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toraja - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110302005315/http://en.wikipedia.org/wiki/Toraja#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ma'bua » Budaya Indonesia - Tarian",
+          "url": "https://budaya-indonesia.org/Ma-bua#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB II",
+          "url": "http://digilib-iakntoraja.ac.id/871/4/tiku_bab_2.pdf#2#1"
+        },
+        {
+          "date": "2020-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "toraja – Fadlybahari \"La Patikala\"",
+          "url": "https://fadlybahari.wordpress.com/tag/toraja/"
+        },
+        {
+          "date": "2018-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KOMUNIKASI RITUAL MASYARAKAT SUKU TORAJA PADA TRADISI UPACARA MA’ BUA’ DALAM PERESMIAN RUMAH ADAT TONGKONAN (Studi Deskriptif Kualitatif Makna Simbol-Simbol Komunikasi Ritual Masyarakat Suku Toraja Pada Tradisi Upacara Ma’ Bua’ Dalam Peresmian Rumah Adat Tongkonan)",
+          "url": "https://repository.uajy.ac.id/id/eprint/18102/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - tahun baru islam",
+          "url": "https://budaya-indonesia.org/cari?q=tahun%20baru%20islam&page=17&provinsi=28#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "pada upacara merok dan ma’bua’",
+          "url": "https://library.fes.de/pdf-files/bueros/indonesien/18275.pdf#71#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sulawesi selatan – Fadlybahari \"La Patikala\"",
+          "url": "https://fadlybahari.wordpress.com/tag/sulawesi-selatan/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut pendapat saya, pemerintah harus terus berusaha untuk mendidik para pemimpin di masyarakat Toraja agar secara bertahap me...",
+          "url": "https://lobo.journals.yorku.ca/index.php/default/article/download/207/216/379#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bongga, Herman",
+          "url": "http://digilib-iakntoraja.ac.id/1000/9/yuspin_lp.docx#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 22801,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 22801,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 20954,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 20954,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 432,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 599,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "answer": "**Jawaban:** Kepala sekolah pertama SMP Negeri 14 Malang adalah **Bpk. Moel Soeradi, BBA.**\n\nMenurut situs resmi sekolah, SMPN 14 Malang berdiri tahun 1985 sebagai filial SMPN 3 Malang. Pada 1986 sekolah pindah ke Jl. Teluk Bayur No. 2, dan saat itulah Moel Soeradi menjadi kepala sekolah pertama.\n\nAda catatan di sumber lain. Satu dokumen di core.ac.uk menyebut Drs. Muchlis Ridwan sebagai kepala sekolah dari SMPN 10 Malang, yang mengelola sekolah pada tahun pertama. Dokumen itu memakai tahun pendirian yang berbeda, yaitu SK Mendiknas 1999. Itu tampaknya merujuk pada hal lain, jadi saya memakai catatan sejarah dari situs sekolah sendiri.\n\nSumber:\n- https://mail.smpn14-mlg.sch.id/index.php?pilih=hal&id=36\n- https://core.ac.uk/download/553779819.pdf#14#10 (sebagai pembanding)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.153,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 16509,
+      "cacheReadInputTokens": 5850,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.072479,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 585,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-18",
+  "raw": "jsonl/B/msqa-ID-18.jsonl",
+  "reported_cost_usd": 0.072479,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7218,
+      "query": "kepala sekolah pertama SMP Negeri 14 Malang",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Website SMP Negeri 14 Malang Jawa Timur Indonesia",
+          "url": "https://mail.smpn14-mlg.sch.id/index.php?pilih=hal&id=36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "c) Guru memberikan penjelas­an secara utuh, tentang materi yang",
+          "url": "https://core.ac.uk/download/553779819.pdf#14#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pisah Kenal Kepala Sekolah",
+          "url": "https://mail.smpn14-mlg.sch.id/index.php?pilih=news&mod=yes&aksi=lihat&id=40"
+        },
+        {
+          "date": "2021-12-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kekosongan Kepala SMPN di Kota Malang Akhirnya Terisi - Suryamalang.com",
+          "url": "https://suryamalang.tribunnews.com/2021/12/22/kekosongan-kepala-smpn-di-kota-malang-akhirnya-terisi?page=all"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Majalah Esplas Perdana 2023",
+          "url": "http://www.smpn14-mlg.sch.id/index.php?pilih=news&mod=yes&aksi=lihat&id=171"
+        },
+        {
+          "date": "2017-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kepala SMP Ini Bergelar Doktor, Begini Curhatannya Soal Pendidikan - Suryamalang.com",
+          "url": "https://suryamalang.tribunnews.com/2017/04/09/kepala-smp-ini-bergelar-doktor-begini-curhatannya-soal-pendidikan"
+        },
+        {
+          "date": "2015-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Budi Santoso Jabat Kepsek SMPN 18 - MalangVoice",
+          "url": "http://malangvoice.com/budi-santoso-jabat-kepsek-smpn-18/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SMPN 8 MALANG Asah - Asih - Asuh",
+          "url": "https://sikarsa.um.ac.id/storage/data_cp/cp_igZiYw2aDE_160724_1721105946.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SMP Negeri Kota Malang",
+          "url": "http://repository.ulb.ac.id/2833/3/BAB%20II.pdf#7#7#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ANALISIS GAYA KEPEMIMPINAN KEPALA SEKOLAH UNTUK MENCAPAI PRESTASI KERJA GURU DI KOTA MALANG",
+          "url": "https://repository.ub.ac.id/id/eprint/115265/1/051201761.pdf#18#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7017,
+      "query": "sejarah SMPN 14 Malang berdiri kepala sekolah pertama",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Website SMP Negeri 14 Malang Jawa Timur Indonesia",
+          "url": "https://mail.smpn14-mlg.sch.id/index.php?pilih=hal&id=36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "c) Guru memberikan penjelas­an secara utuh, tentang materi yang",
+          "url": "https://core.ac.uk/download/553779819.pdf#14#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Untuk mewujudkan visi-visi kota Malang dalam upaya pembangunan periode 2013-2018, maka misi kota Malang antara lain:",
+          "url": "https://repository.ub.ac.id/id/eprint/119074/1/skripsi.pdf#34#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Prasarana pendidikan, peralatan pendidikan yang dimiliki oleh Sekolah  Menengah Pertama Negeri 14 Malang telah diupayakan tersta...",
+          "url": "https://repository.unisma.ac.id/bitstream/handle/123456789/4489/S1_FAI_21801011022_AHMAD%20LEOWALDI.pdf?sequence=1&isAllowed=y#13#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pisah Kenal Kepala Sekolah",
+          "url": "http://smpn14-mlg.sch.id/index.php?pilih=news&mod=yes&aksi=lihat&id=40"
+        },
+        {
+          "date": "2017-11-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Daftar SMP negeri di Kota Malang - Wikipedia bahasa Indonesia, ensiklopedia bebas - Anda juga bisa ikut ambil peran dalam penyebaran pengetahuan bebas",
+          "url": "https://id.wikipedia.org/wiki/Daftar_SMP_negeri_di_Kota_Malang#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Majalah Esplas Perdana 2023",
+          "url": "http://mail.smpn14-mlg.sch.id/?pilih=news&mod=yes&aksi=lihat&id=171"
+        },
+        {
+          "date": "2025-05-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Profil Sekolah SMP NEGERI 14 MALANG di Kec. Blimbing, Kota Malang Jawa Timur",
+          "url": "https://skulmu.com/jawa-timur/kota-malang/kec-blimbing/smp-negeri-14-malang"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SMP NEGERI 14 MALANG",
+          "url": "https://annibuku.com/sekolah/153392-smp-negeri-14-malang"
+        },
+        {
+          "date": "2021-12-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Daftar Lengkap SMP Negeri dan Swasta di Kecamatan Blimbing Kota Malang - About Malang - Halaman 2",
+          "url": "https://www.aboutmalang.com/edupolitan/pr-1422269019/daftar-lengkap-smp-negeri-dan-swasta-di-kecamatan-blimbing-kota-malang?page=2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 16509,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16509,
+    "cache_read_input_tokens": 5850,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14667,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14667,
+        "cache_read_input_tokens": 3846,
+        "input_tokens": 2,
+        "output_tokens": 427,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 585,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

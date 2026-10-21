@@ -1,0 +1,109 @@
+{
+  "answer": "**답: 바우.**\n\n풍양 조씨 종중의 주장에 따르면, 시조 조맹은 원래 성이 없었고 이름이 '바우'였습니다. 왕건을 도와 고려 건국에 공을 세운 뒤 조씨 성을 받았고, 이때 이름도 '맹(孟)'으로 고쳤다고 합니다.\n\n이 내용은 종중 측 주장입니다. 기사에 따르면 양주 조씨 세보의 기록은 풍양·한양 조씨 측이 부인하고 있어서, 역사적 사실로 확정된 것은 아닙니다. 한국민족문화대백과 원문은 찾지 못해 확인하지 못했습니다.\n\nSources:\n- [세계일보 기사](https://www.segye.com/newsView/20130430004546)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 21.985,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0234113,
+      "inputTokens": 26368,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1549,
+      "provider": "firstParty",
+      "thinkingTokens": 415,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3989,
+      "cacheReadInputTokens": 11998,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0227978,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 563,
+      "provider": "firstParty",
+      "thinkingTokens": 89,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-63",
+  "raw": "jsonl/A/msqa-KO-63.jsonl",
+  "reported_cost_usd": 0.0462091,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "풍양 조씨 시조 조맹 본명",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01H4ZT8wa6bHVpRLQdgA37vd"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "풍양조씨 시조 조맹 초명 개명 한국민족문화대백과",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01L2cDVUmffyetA11TsWDRcP"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3989,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3989,
+    "cache_read_input_tokens": 11998,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1185,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1185,
+        "cache_read_input_tokens": 5255,
+        "input_tokens": 2,
+        "output_tokens": 285,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 563,
+    "output_tokens_details": {
+      "thinking_tokens": 89
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "**布吉语（Bahasa Bugis）**属于南岛语系马来-波利尼西亚语族的**南苏拉威西语支**。按常见的分类（如 Ethnologue 和 Grimes & Friberg 的分类），与它关系最近的语言如下：\n\n1. **坎帕拉吉安语（Campalagian）**：关系最近。它和布吉语同属南苏拉威西语支下的“布吉语群”。\n2. **南苏拉威西语支的其他语言**：\n   - **望加锡语（Makassar）**：自成一个小语群，地理上与布吉语相邻，文化上也联系紧密。两者历史上都用 Lontara 文字书写。\n   - **马森伦普卢诸语（Massenrempulu）**：包括恩雷康语（Enrekang）、杜里语（Duri）、马伊瓦语（Maiwa）等。\n   - **北部语群**：包括曼达尔语（Mandar）、马马萨语（Mamasa）、托拉查-萨丹语（Toraja-Sa'dan）等。\n   - 塞科语（Seko）、勒莫朗语（Lemolang）等小语言。\n\n**简答**：最近的是坎帕拉吉安语，其次是同语支的望加锡语、曼达尔语、托拉查语和马森伦普卢诸语。\n\n（以上凭已有知识回答，没有上网查证。细节可能因分类体系不同而有出入。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.935,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1758,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.031585600000000005,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 860,
+      "provider": "firstParty",
+      "thinkingTokens": 367,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/0_prime/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.031585600000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1758,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1758,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1758,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1758,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 860,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 860,
+    "output_tokens_details": {
+      "thinking_tokens": 367
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

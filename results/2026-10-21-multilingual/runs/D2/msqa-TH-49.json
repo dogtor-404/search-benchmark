@@ -1,0 +1,223 @@
+{
+  "answer": "**คำตอบ: “มัดนม”** (มัดนม) — การนำผ้าห่มมาพันรอบหน้าอกของสตรีเชียงใหม่ ตามจารีตการแต่งกายท่อนบนแบบล้านนา (ส่วนการห่มเฉวียงบ่าเรียกว่า “สะหว้ายแหล้ง” หรือ “เบี่ยงบ้าย”)\n\nอ้างอิง:\n- https://www.silpa-mag.com/culture/article_35746 — ระบุว่า “หากนำผ้าห่มมาพันรอบหน้าอกจะเรียกว่า ‘มัดนม’”\n- https://twinchiangmai.wordpress.com/2021/12/28/ — ยืนยันบริบทการแต่งกายล้านนา (ผ้าสะหว้าย/ห่มผ้า)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.523,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.072132,
+      "inputTokens": 15000,
+      "maxOutputTokens": 32000,
+      "outputTokens": 581,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-49",
+  "raw": "jsonl/D2/msqa-TH-49.jsonl",
+  "reported_cost_usd": 0.072132,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7812,
+      "query": "สตรีเชียงใหม่ นำผ้าห่มมาพันรอบหน้าอก เรียกว่า",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99/"
+        },
+        {
+          "date": "2023-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - เป็นผ้านุ่งของผู้หญิง มีลักษณะที่ต่างกันไป",
+          "url": "https://toke-tong.com/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": "2021-12-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藍納人冬季保暖與坦胸事小、露腿事大",
+          "url": "https://twinchiangmai.wordpress.com/2021/12/28/%e8%97%8d%e7%b4%8d%e4%ba%ba%e5%86%ac%e5%ad%a3%e4%bf%9d%e6%9a%96%e8%88%87%e5%9d%a6%e8%83%b8%e4%ba%8b%e5%b0%8f%e3%80%81%e9%9c%b2%e8%85%bf%e4%ba%8b%e5%a4%a7/#more-10785"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตะแบงมาน คืออะไร แปลว่าอะไร มีความหมายอย่างไร ตัวอย่างประโยค",
+          "url": "https://www.sanook.com/dictionary/dict/all/search/ตะแบงมาน/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สตรีไทยในอดีต มีรูปแบบการแต่งกายทั่วไป ที่สอดคล้องกับสภาพภูมิอากาศของประเทศไทย ประกอบด้วย ผ้านุ่ง 1 ผืน และผ้าห่ม 1 ผืน จนเรียก ...",
+          "url": "http://www.heyzine.com/flip-book/aed26cf044.html?utm_source=chatgpt.com#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าทุ้ม (ผ้าตุ๊ม)",
+          "url": "https://accl.cmu.ac.th/Knowledge/details/2819"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พูด ตะแบงมาน",
+          "url": "https://th.ichacha.net/pronounce/%e0%b8%95%e0%b8%b0%e0%b9%81%e0%b8%9a%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b8%99.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้หญิงเชียงใหม่",
+          "url": "http://www.huglanna.com/index.php/topic,77.msg432.html?PHPSESSID=2sqn3ucmc9nhadck4lqtka7il0#msg432"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8277,
+      "query": "ผ้าห่มพันรอบอก สตรีล้านนา เรียกว่าอะไร",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2026-08-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(มีคลิป) ร้อยเรื่องเมืองล้านนา 2 ตอนที่ 9 : สีสันผ้าล้านนา",
+          "url": "https://www.chiangmainews.co.th/100lanna/3982217/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ทิ้งชายไปด้านหลัง ส่วนห่มแบบสะหร้ายแหล่ง หรือเบี่ยงบ้ายเป็นการห่มเฉียงแบบผ้าสไป[84]",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/18e073da-97db-4f0d-993c-ea25401835f6/fulltext.pdf?attempt=2#23#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v2/article/%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%99+%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88+%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%A7%E0%B8%99-m1eqyE#1"
+        },
+        {
+          "date": "2023-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - เป็นผ้านุ่งของผู้หญิง มีลักษณะที่ต่างกันไป",
+          "url": "https://toke-tong.com/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_2.1.1 ตัวกระโอม ท่าได้หลายวิธี อาจใช้สุ่มที่ครอบไก่ใหญ่ ๆ คลุมด้วยผ้าห่มจนเกือบมือ เปิดช่อง_",
+          "url": "https://repository.stou.ac.th/bitstream/handle/6625047444/2638/STOU%2055305Tcompressed6_10.pdf?sequence=2&isAllowed=y#116#111"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประเพณีล้านนา - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/category/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9e%e0%b8%93%e0%b8%b5%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%99%e0%b8%b2/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "problem caused by the structure of multiple systems that are related to each other",
+          "url": "https://soc.mcu.ac.th/wp-content/uploads/2023/06/%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87-Proceeding-MCU-Congress-4.pdf#45#17"
+        },
+        {
+          "date": "2003-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pha-hom – Wikipedia - Pha-hom",
+          "url": "https://de.m.wikipedia.org/wiki/Pha-hom#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 15000,
+    "iterations": [],
+    "output_tokens": 581,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

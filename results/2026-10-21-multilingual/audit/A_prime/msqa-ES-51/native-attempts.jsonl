@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "Portobelo 1596 Drake died dysentery three forts cannons", "results": [], "status": "allowed", "tool_use_id": "toolu_01DcaqDAt6L7aVaQiEPWDiyU"}
+{"billable": false, "call": 2, "query": "Portobelo \"tres fuertes\" cañones Drake 1596 disentería", "results": [], "status": "allowed", "tool_use_id": "toolu_01UWmUD9pUiPigdBcZBnYem7"}
+{"billable": false, "call": 3, "query": "Portobelo protegida por tres fuertes equipados con cañones Wikipedia", "results": [], "status": "allowed", "tool_use_id": "toolu_01C4DSWp8g3HUWx9ud72ZN2F"}
+{"billable": false, "call": 4, "query": "Portobelo \"three forts\" cannons Drake 1596 Morgan", "results": [], "status": "allowed", "tool_use_id": "toolu_01STrBxQ9t8u85HtznbW5R5B"}

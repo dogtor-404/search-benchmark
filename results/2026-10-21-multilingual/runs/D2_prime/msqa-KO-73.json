@@ -1,0 +1,144 @@
+{
+  "answer": "**1528년(중종 23년)**, 28세 때입니다.\n\n이황은 1527년 향시(진사시 초시)에 합격한 뒤, 다음해인 1528년 진사 회시(進士會試)에 2등으로 급제했습니다.\n\n依据：\n- https://www.home-learn.co.kr/newsroom/news/A/2308 — \"1527년 향시에서 진사시… 초시에 합격… 다음해 진사 회시에 급제\"\n- https://books.google.com.sg/books?id=yoV-zQEACAAJ — \"28세에 진사회시에 2등으로 합격\"\n- https://www2.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@35934 — \"1528년(중종 23)에 진사 시험을 통과\"",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.959,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.035935999999999996,
+      "inputTokens": 5676,
+      "maxOutputTokens": 32000,
+      "outputTokens": 636,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-73",
+  "raw": "jsonl/D2_prime/msqa-KO-73.jsonl",
+  "reported_cost_usd": 0.035935999999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6006,
+      "query": "이황 진사 회시 급제 연도",
+      "results": [
+        {
+          "date": "2024-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리나라 역사 속 위인들 | 주리 이퇴계 편 | 아이스크림 홈런",
+          "url": "https://www.home-learn.co.kr/newsroom/news/A/2308"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "옛문서생활사박물관",
+          "url": "https://life.ugyo.net/lifedoc/view.do?docCode=2195&currPage=1&&orderBy=ASC&searchClassCode1=1&searchClassCode2=0&searchDocFileType=0&searchPeriodCode=2&searchDocTypeCode=0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 디지털청송문화대전",
+          "url": "https://www.grandculture.net/cheongsong/index/GC06800657?category=%EC%A7%80%EB%AA%85%2F%EA%B8%B0%EA%B4%80%EB%AA%85&depth=2&name=A~Z%2C0~9&page=9&search=%EA%B1%B4%EC%A7%80%EC%82%B0"
+        },
+        {
+          "date": "2020-04-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "退溪李滉詩選",
+          "url": "https://books.google.com.sg/books?id=yoV-zQEACAAJ&newbks=1&newbks_redir=0&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "149 이황(1501-1570) : 진성(眞城) 이씨이고, 호가 퇴계(退溪)이다",
+          "url": "http://repository.jthink.kr/bitstream/2016.oak/838/1/%ec%b4%9d%ec%84%9c10_21BR06_21GI01_%eb%ac%b4%ec%84%b1%ec%84%9c%ec%9b%90%ec%9b%90%ec%a7%80%281884%29_%ed%95%98.pdf#32#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "師門手簡",
+          "url": "https://books.google.com/books?id=9yI5wAEACAAJ&newbks=1&newbks_redir=0&hl=ko"
+        },
+        {
+          "date": "2019-03-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전주향교 - 我國十八賢-9 문순공 이황(文純公 李滉, 1501 - 1570)",
+          "url": "https://www.jjhyanggyo.or.kr/introduction06/672?order_type=desc&page=1&listStyle=list&sort_index=title"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "아! 퇴계(退溪) (02) - 퇴계 이황의 출사와 관직",
+          "url": "http://www.andongkimc.com/andongkim7_08/4220?sst=wr_hit&sod=asc&sop=and&page=213"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "사문 수간",
+          "url": "https://books.google.com/books?id=MI3nswEACAAJ&newbks=1&newbks_redir=0&hl=ko"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 : 알라딘",
+          "url": "https://www2.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@35934"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5676,
+    "iterations": [],
+    "output_tokens": 636,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

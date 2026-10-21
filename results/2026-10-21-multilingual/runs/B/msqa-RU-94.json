@@ -1,0 +1,156 @@
+{
+  "answer": "**«Птичку жалко!»** — из «Кавказской пленницы» Леонида Гайдая (1966). Фразу произносит Шурик, когда они вспоминают тост про птичку. В быту её говорят в шутку, когда кому-то чуть-чуть жаль, и обычно нарочито жалостливым тоном.\n\nЯ нашёл фразу в списке крылатых выражений фильма на сайте leonid-gaidai.ru: https://leonid-gaidai.ru/index.php?r=6&m=5&s=10. Подтверждения именно такого употребления («немного жаль», притворное сочувствие) я не искал: это моё толкование, вывод из известной роли фразы.\n\nУверенность средняя. Поиск не показал, кто и в какой сцене произносит эту реплику, поэтому про Шурика и про сцену с тостом я пишу по памяти. Использовал один поиск из пяти.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.228,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13022,
+      "cacheReadInputTokens": 5887,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059284699999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 660,
+      "provider": "firstParty",
+      "thinkingTokens": 247,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-94",
+  "raw": "jsonl/B/msqa-RU-94.jsonl",
+  "reported_cost_usd": 0.059284699999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8429,
+      "query": "фраза из советской комедии притворное сочувствие «немного жаль» \"Очень жаль, очень жаль\" Жорж Милославский",
+      "results": [
+        {
+          "date": "2012-04-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "А какие ваши любимые фразы из советских комедий?",
+          "url": "https://sprashivalka.com/qa/other-household-issues/3924324-%D0%B0-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B2%D0%B0%D1%88%D0%B8-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B5-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-%D0%B8%D0%B7-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9"
+        },
+        {
+          "date": "2016-08-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лучшие цитаты из фильма «Ирония судьбы, или С лёгким паром!»",
+          "url": "https://www.vologda.kp.ru/daily/26120.4/3013516/"
+        },
+        {
+          "date": "2014-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "КИН-ДЗА-ДЗА! Самый тонкий и ироничный - Фантастическая комедия",
+          "url": "https://bashny.net/sleepingdog/2014/10/07/kin-dza-dza-istoriya-sozdaniya-filma.html#1"
+        },
+        {
+          "date": "2009-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Процитируйте запомнившуюся крылатую фразу из любой кинокомедиии ? - Юмор",
+          "url": "https://sprashivalka.com/qa/humor/402263-%D0%BF%D1%80%D0%BE%D1%86%D0%B8%D1%82%D0%B8%D1%80%D1%83%D0%B9%D1%82%D0%B5-%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D0%B2%D1%88%D1%83%D1%8E%D1%81%D1%8F-%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D1%83%D1%8E-%D1%84%D1%80%D0%B0%D0%B7%D1%83-%D0%B8%D0%B7-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9-%D0%BA%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B8%D0%B8#1"
+        },
+        {
+          "date": "2025-09-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сложный тест для любителей советских комедий! Узнаешь фильм времен СССР по одной лишь цитате?",
+          "url": "https://konstruktortestov.ru/test-76151"
+        },
+        {
+          "date": "2013-11-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лучшие фразы советского кино - CCCP - Медиаплатформа МирТесен",
+          "url": "https://cccp2.mirtesen.ru/blog/43583199264/Luchshie-frazyi-sovetskogo-kino?utm_referrer=mirtesen.ru"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Кино Леонида Гайдая :: Кавказская пленница, или новые приключения Шурика :: Крылатые фразы :: Гений комедии Леонид Гайдай",
+          "url": "https://leonid-gaidai.ru/index.php?r=6&m=5&s=10"
+        },
+        {
+          "date": "2022-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Так говорил Жорж Милославский: Цитаты героев Куравлева - Российская газета - Медиаплатформа МирТесен",
+          "url": "http://rg.mirtesen.ru/blog/43094291645/Tak-govoril-ZHorzh-Miloslavskiy-TSitatyi-geroev-Kuravleva?utm_referrer=mirtesen.ru"
+        },
+        {
+          "date": "2012-07-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Какие вы знаете крылатая фразы из советского кино? - Юмор",
+          "url": "https://sprashivalka.com/qa/humor/4105067-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B2%D1%8B-%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D0%B5-%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D0%B0%D1%8F-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-%D0%B8%D0%B7-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%B8%D0%BD%D0%BE#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Кавказская пленница, или Новые приключения Шурика. Цитаты из фильма. Кадры из фильма. Иллюстрации",
+          "url": "https://stuki-druki.com/kinofraza/Kavkazskaya_plennica.php"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13022,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13022,
+    "cache_read_input_tokens": 5887,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11143,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11143,
+        "cache_read_input_tokens": 3883,
+        "input_tokens": 2,
+        "output_tokens": 408,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 660,
+    "output_tokens_details": {
+      "thinking_tokens": 247
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

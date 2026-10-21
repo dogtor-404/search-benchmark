@@ -1,0 +1,74 @@
+{
+  "answer": "吉田兼倶(1435–1511)は、**「唯一神道(吉田神道・元本宗源神道)」の創始者**であり、自らを**神道の宗家・正統な継承者(卜部氏=吉田家が神道の本家)**と位置づけて神職支配を進めました。\n\n要点:\n\n- **唯一神道の立場**:神道を「万法の根本」とし、儒教・仏教はその枝葉・果実とする「根葉花実説」を唱えた。\n- **神職支配の手段**:自家を「日本最古の神道の宗家」と称し、全国の神社・神職に対して神道裁許状や神位(神階)の授与権、神主の位階・装束の許可などを行う権威を主張した。\n- **権威づけ**:神祇官の系譜(卜部氏)を根拠にし、斎場所大元宮を吉田神社に造って、全国の神々を祀る総社的な場とした。また「神祇管領長上」を称した。この称号は、神祇伯(白川家)に対抗して神道界全体を統べる地位を主張するものでした。偽作の文書や由緒を用いたとも言われます。\n\nご質問の答えとしては、特に**「神祇管領長上」(神祇道の統括者)を自称した**、というのが最も直接的です。ただし、細部の史料上の表現や称号の厳密な形については、記憶に頼っているため確実とは言えません。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.31,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1753,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119328,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 476,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/0/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.0119328,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1753,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1753,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1753,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1753,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 476,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 476,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "おしもん（おこしもん）は**愛知県（尾張・名古屋地域）**の郷土料理（郷土菓子）です。米粉を熱湯で練って木型で成型し蒸した雛祭りのお菓子で、名古屋地域では「おしもん」と呼ばれます。\n\n依据：農林水産省「おしもん/おこしもん 愛知県」 https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oshimon_aichi.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.85,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0338424,
+      "inputTokens": 6729,
+      "maxOutputTokens": 32000,
+      "outputTokens": 322,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-60",
+  "raw": "jsonl/D2_prime/msqa-JA-60.jsonl",
+  "reported_cost_usd": 0.0338424,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7239,
+      "query": "おしもん 郷土料理 どこの",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "全国各地の100年フード - 全国各地の100年フード",
+          "url": "https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_aichi.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "食育ネットあいち｜おしもん（おこしもん）",
+          "url": "https://www-pref-aichi-jp.cache.yimg.jp/shokuiku/shokuikunet/mind/recipe/recipe050.html"
+        },
+        {
+          "date": "2026-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "豊橋「にかけうどん」、名古屋「おしもん・おこしもん」…愛知の１００年フード 新たに２件",
+          "url": "https://www.yomiuri.co.jp/local/chubu/news/20260405-GYTNT00015/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No.354 ひな祭りの行事食 「おしもん（おこしもん）」を作ってみよう！",
+          "url": "https://www.pref.aichi.jp/shokuiku/shokuikunet/past_column/past202502.html"
+        },
+        {
+          "date": "2026-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「おしもん・おこしもん」（ＮＰＯ法人コンソーシアム有松提供） : 豊橋「にかけうどん」、名古屋「おしもん・おこしもん」…愛知の１００年フード 新たに２件：写真",
+          "url": "https://www.yomiuri.co.jp/pluralphoto/20260405-GYTNI00018/"
+        },
+        {
+          "date": "2008-03-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "尾張地方の「おこしもち」の由来について。節句の菓子で、米粉に着色し、魚形をしているものとのこと。 | レファレンス協同データベース",
+          "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000043122&page=ref_view&ldtl=1&dtltbs=1&mcmd=25&st=update&asc=desc&pg=27&state=2200000024&type=reference"
+        },
+        {
+          "date": "2026-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「にかけうどん」（豊橋観光コンベンション協会提供） : 豊橋「にかけうどん」、名古屋「おしもん・おこしもん」…愛知の１００年フード 新たに２件：写真",
+          "url": "https://www.yomiuri.co.jp/pluralphoto/20260405-GYTNI00016/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SDGsワークショップ",
+          "url": "https://www.town.oharu.aichi.jp/secure/1991/10_82.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "おしもん/おこしもん 愛知県",
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oshimon_aichi.html#:~:text=%E3%80%8C%E3%81%8A%E3%81%97%E3%82%82%E3%82%93%E3%80%8D%E3%81%AE%E7%94%B1%E6%9D%A5,%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%A4%9A%E3%81%84%E3%80%82"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "おこしもん（おこしもの）の作り方が知りたい。 | レファレンス協同データベース",
+          "url": "https://crd.ndl.go.jp/reference/entry/reference/show?dtltbs=1&mcmd=25&st=update&asc=desc&pg=5&fi=2_3&ndc1=596&ndc_lk=1&page=ref_view&ldtl=1&id=1000281680"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6729,
+    "iterations": [],
+    "output_tokens": 322,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

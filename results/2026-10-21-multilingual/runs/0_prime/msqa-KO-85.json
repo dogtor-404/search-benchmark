@@ -1,0 +1,74 @@
+{
+  "answer": "部队锅（부대찌개）出现在**朝鲜战争（1950–1953）之后的 1950 年代**，也就是大韩民国建国初期、战后物资匮乏的时期。\n\n- **起源**：当时驻韩美军基地（尤其是京畿道议政府一带）流出的火腿、香肠、午餐肉（SPAM）、焗豆等剩余物资，被当地人和泡菜、辣椒酱一起煮成汤锅。\n- **名称**：“부대”指军队部队，即美军部队。\n- **补充**：严格说它不算“传统”韩国料理，而是战后才出现的现代料理。至于最早由哪一家店、在哪一年做出来，说法不一，我无法确认具体年份。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.885,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1760,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0223816,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 399,
+      "provider": "firstParty",
+      "thinkingTokens": 146,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/0_prime/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.0223816,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1760,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1760,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1760,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 399,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 399,
+    "output_tokens_details": {
+      "thinking_tokens": 146
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

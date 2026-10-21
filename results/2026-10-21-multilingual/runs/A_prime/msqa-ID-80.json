@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 家里有人去世时（亲人过世的丧葬、哀悼期间）举行。做法是切掉手指（主要是女性），用来表达对死者的忠诚和失去亲人的哀痛，也被看作一种祈求，求这样的灾祸别再发生。死者是父母时切两节手指，是其他亲属时切一节。男性一般改为割耳垂（nasu paleg）。\n\n（搜了 1 次。）\n\n依据：\n- [Iki Palek, tradisi potong jari Suku Dani – GNFI](https://www.goodnewsfromindonesia.id/infographic/iki-palek-tradisi-potong-jari-suku-dani)\n- [Tradisi potong jari ala Suku Dani – GNFI](https://www.goodnewsfromindonesia.id/2021/05/30/tradisi-potong-jari-ala-suku-dani-mengerikan-tapi-penuh-makna)\n- [Tradisi potong jari Suku Dani – GNFI](https://www.goodnewsfromindonesia.id/2019/07/02/tradisi-potong-jari-suku-dani)\n- [Mengenal Suku Dani Papua... Potong Jari – Jatim Times](https://jatimtimes.com/amp/baca/298059/20231010/075300/privacy)\n- [ejournal.up45.ac.id](https://ejournal.up45.ac.id/index.php/JHCJ/article/download/1507/869)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.311,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120106,
+      "inputTokens": 14896,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1042,
+      "provider": "firstParty",
+      "thinkingTokens": 124,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3401,
+      "cacheReadInputTokens": 6752,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0411944,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 631,
+      "provider": "firstParty",
+      "thinkingTokens": 41,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/A_prime/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.053205,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Upacara Iki Palek suku Dani potong jari",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DmgsdQW9r57KwWPBfSzmdq"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3401,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3401,
+    "cache_read_input_tokens": 6752,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1551,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1551,
+        "cache_read_input_tokens": 4301,
+        "input_tokens": 2,
+        "output_tokens": 499,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 631,
+    "output_tokens_details": {
+      "thinking_tokens": 41
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

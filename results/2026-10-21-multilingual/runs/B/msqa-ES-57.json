@@ -1,0 +1,156 @@
+{
+  "answer": "**Respuesta:** Se refiere principalmente al **préstamo léxico**, es decir, a los extranjerismos o palabras que el español tomó de otras lenguas por contacto lingüístico. Los más conocidos son los arabismos, galicismos, italianismos, indigenismos y anglicismos. A estos se suman los cultismos tomados del latín y del griego. Estos préstamos forman el \"léxico adquirido\", que se añadió al léxico patrimonial heredado del latín. Las lenguas prerromanas y el germánico también aportaron palabras. En el caso del árabe, la influencia afectó sobre todo al vocabulario y dejó casi intactas la gramática y la pronunciación.\n\n**Fuentes:**\n- RAE, *Ortografía de la lengua española*, \"El latín como lengua de préstamo\": https://www.rae.es/ortograf%C3%ADa/el-lat%C3%ADn-como-lengua-de-pr%C3%A9stamo\n- Dworkin, *A History of the Spanish Lexicon* (OUP, 2012): https://books.google.com.sg/books?id=V4f8ZpJAhgIC\n- *The History of Spanish* (Cambridge), cap. 4, sobre el contacto lingüístico: https://www.cambridge.org/highereducation/books/the-history-of-spanish/ADEAED60593992C702FA4299EEDBB881/did-f-change-to-h-in-spanish-because-of-basque-four-moments-of-language-contact-in-the-history-of-spanish/71BE46B922C80F53DA4F0D1FF760FE2D\n\n(Hice una sola búsqueda.)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.47,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 16753,
+      "cacheReadInputTokens": 5863,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0740763,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 647,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-57",
+  "raw": "jsonl/B/msqa-ES-57.jsonl",
+  "reported_cost_usd": 0.0740763,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7483,
+      "query": "influencia de otras lenguas en la historia del español préstamo lingüístico",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El latín como lengua de préstamo | Ortografía de la lengua española",
+          "url": "https://www.rae.es/ortograf%C3%ADa/el-lat%C3%ADn-como-lengua-de-pr%C3%A9stamo?__cf_chl_f_tk=PJW_5her_eQxIt7ej9_BSK8.S2r.ZPkeNQsbMgAfAio-1783412373-1.0.1.1-WO3Yps78CV6DVaYwukSb3ApDWvGsgw2Q3W7hcHG.fTE"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Historia de la lengua y literatura castellana\" - Guardia,  Brañas,  mestas  de  Freznedo,  pozo,  peña",
+          "url": "https://archive.org/stream/historiadelaleng14ceja/historiadelaleng14ceja_djvu.txt#50"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A History of the Spanish Lexicon - A History of the Spanish Lexicon: A Linguistic Perspective",
+          "url": "https://books.google.com.sg/books?id=V4f8ZpJAhgIC&newbks=1&newbks_redir=0&hl=fil&redir_esc=y#1"
+        },
+        {
+          "date": "2018-12-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The History of Spanish | Cambridge Aspire website - Skip to main content Accessibility help",
+          "url": "https://www.cambridge.org/highereducation/books/the-history-of-spanish/ADEAED60593992C702FA4299EEDBB881/did-f-change-to-h-in-spanish-because-of-basque-four-moments-of-language-contact-in-the-history-of-spanish/71BE46B922C80F53DA4F0D1FF760FE2D#access-options#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Romancero judeo-español ..\" - voces  de  origen  castellano,  y  otras  veces  se  emplean  palabras  francesas  como",
+          "url": "https://archive.org/stream/romancerojudeoes00gilruoft/romancerojudeoes00gilruoft_djvu.txt#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Portugal)",
+          "url": "https://www.libreria.educacion.gob.es/ebook/182231/free_download/#13#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Revista de artes y letras\" - que  se  usan  ya  bastante  en  estos  países,  y  que  aparecen  en",
+          "url": "http://archive.org/stream/revistadeartesyl14sampuoft/revistadeartesyl14sampuoft_djvu.txt#23"
+        },
+        {
+          "date": "2017-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Español y portugués en contacto - Español y portugués en contacto: Préstamos léxicos e interferencias",
+          "url": "https://books.google.com.sg/books?id=UkpADwAAQBAJ&newbks=1&newbks_redir=0&redir_esc=y#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¿Nos hacemos un/una selfie con la/el tablet? Influencia croslingüística léxica, asignación de género gramatical y política lingüística en español - Servicios Personalizados",
+          "url": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-09342019000100077&lng=es&nrm=iso#1"
+        },
+        {
+          "date": "2017-11-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Español y portugués en contacto",
+          "url": "https://books.google.com.sg/books?id=VEpADwAAQBAJ&newbks=1&newbks_redir=0&hl=pt-PT&redir_esc=y"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 16753,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16753,
+    "cache_read_input_tokens": 5863,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14898,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14898,
+        "cache_read_input_tokens": 3859,
+        "input_tokens": 2,
+        "output_tokens": 567,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 647,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

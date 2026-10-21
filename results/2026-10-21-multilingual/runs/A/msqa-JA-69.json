@@ -1,0 +1,145 @@
+{
+  "answer": "**答え:「藤墓」(とうばか)である可能性が高いですが、文化庁の記述そのものでは確認できていません。**\n\n- 検索結果の要約には、三森山の山頂近くに複数のお堂と石塔群があり、その石塔群は「藤墓」と呼ばれる、とありました。ただし、私は元のページ本文を直接読んでいません。\n- 文化庁の国指定文化財等データベースと文化遺産オンラインでは、「庄内のモリ供養の習俗」の概要しか確認できませんでした。三森山の墓石群の名称は、私が見られた範囲では出てきませんでした。\n- 検索回数の上限(5回)に達したため、これ以上は確認できません。\n\n文化庁の記述に「藤墓」とあるか確かめるには、次の2つを直接見てください。\n- 国指定文化財等データベースの該当ページ\n- 山形県教育委員会の『庄内のモリ供養の習俗調査報告書』(2009年)\n\nSources:\n- [国指定文化財等データベース - 文化庁](https://kunishitei.bunka.go.jp/bsys/maindetails/312/739)\n- [庄内のモリ供養の習俗 - 文化遺産オンライン](https://bunka.nii.ac.jp/heritages/detail/189492)\n- [奈良文化財研究所 報告書](https://sitereports.nabunken.go.jp/en/article/2776/pdf_page)",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "query": "庄内のモリ供養の習俗 鶴岡市清水 三森山 藤墓 石塔群 モリ供養 解説",
+      "results": [],
+      "status": "budget_exhausted",
+      "tool_use_id": "toolu_01EBnwXm7kkT1ETqx1B7idKS"
+    }
+  ],
+  "elapsed_seconds": 55.444,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0582377,
+      "inputTokens": 60892,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4297,
+      "provider": "firstParty",
+      "thinkingTokens": 1454,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8909,
+      "cacheReadInputTokens": 47410,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.05505499999999999,
+      "inputTokens": 14,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1465,
+      "provider": "firstParty",
+      "thinkingTokens": 218,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-69",
+  "raw": "jsonl/A/msqa-JA-69.jsonl",
+  "reported_cost_usd": 0.11329270000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "庄内のモリ供養の習俗 文化庁 鶴岡市清水 三森山 墓石群",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016eWbtmEvCnZ9cdb4Qfx8qv"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "庄内のモリ供養の習俗 三森山 清水 墓石群 文化遺産オンライン",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01V3YSbnSTn3MdjMVmGBbpG9"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"モリ供養\" 庄内 三森山 供養碑群 OR 墓石群 OR 「千基塚」 OR 「森の墓」 鶴岡市清水 国指定 無形民俗文化財",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LmYHZYtJKbzDmVv3SeTb4n"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "庄内のモリ供養の習俗 三森山 藤墓 文化庁",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VvRRvz2UZFUquoGWsMr4gE"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "鶴岡市清水の三森山 モリ供養 山頂 墓石群 「藤墓」 OR 「とうばか」 OR 「千本塔婆」",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015oYy6uwEMhjNa4Vv1upnkZ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8909,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8909,
+    "cache_read_input_tokens": 47410,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 14,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 346,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 346,
+        "cache_read_input_tokens": 11014,
+        "input_tokens": 2,
+        "output_tokens": 494,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1465,
+    "output_tokens_details": {
+      "thinking_tokens": 218
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "answer": "**答案：tero。** Suku Kubu（也叫 Suku Anak Dalam / Orang Rimba）主要用一种叫 “tero” 的传统工具捉鳖，具体捉的是马来鳖 *Amyda cartilaginea*（labi-labi）。\n\n依据是 IPB 大学的一篇论文（Tsabita & Santosa, 2023），调查了 Bukit Duabelas 国家公园的 40 个人：\n- 69% 用 tero 这种传统方法捉鳖，63% 白天去捉。\n- 一般一周去一次（42%），一次多半捉到 2 只（50%）。\n- 鳖肉主要拿来吃（63%），最常见的做法是煮（60%）。\n\n有两点没查实：\n- 论文摘要没写 tero 长什么样、怎么用。它是陷阱、刺鳖用的棍子还是别的东西，我没找到出处，所以不下结论。\n- 另有资料说他们打猎用一种叫 kujur 的矛和砍刀，但那说的是一般打猎，没说用来捉鳖。\n\n这题一共搜了 4 次。\n\n网址：\n- [Studi Perburuan dan Pemanfaatan Labi-labi (Amyda cartilaginea) oleh Suku Anak Dalam di Taman Nasional Bukit Duabelas（IPB 论文库）](https://repository.ipb.ac.id/handle/123456789/121422)\n- [Suku Kubu - Wikipedia bahasa Indonesia](https://id.wikipedia.org/wiki/Suku_Anak_Dalam)\n- [Aktivitas Motorik Suku Anak Dalam Desa Bukit Suban（ResearchGate，kujur 的出处）](https://www.researchgate.net/publication/379520506_Aktivitas_Motorik_Suku_Anak_Dalam_Desa_Bukit_Suban_Kecamatan_Air_Hitam_Kabupaten_Sarolangun_Jambi)\n- [Britannica: Kubu](https://www.britannica.com/topic/Kubu)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 51.45,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0478102,
+      "inputTokens": 61432,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3334,
+      "provider": "firstParty",
+      "thinkingTokens": 1033,
+      "webSearchRequests": 4
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7129,
+      "cacheReadInputTokens": 27204,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0867528,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1212,
+      "provider": "firstParty",
+      "thinkingTokens": 92,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-32",
+  "raw": "jsonl/A_prime/msqa-ID-32.jsonl",
+  "reported_cost_usd": 0.13456300000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Suku Kubu alat tradisional menangkap kura-kura",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RTRBGs8B2j2KJJs54AFHxw"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Orang Rimba Suku Anak Dalam menangkap kura-kura labi-labi alat",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016izaa1b162KPArS3xVb8YZ"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Suku Anak Dalam berburu labi-labi kujur tombak alat tangkap Bukit Duabelas",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CfgV7xp1NDeJnmRSs4mYQp"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "\"tero\" labi-labi Suku Anak Dalam alat",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HXdiTQ4yHjQU6tbQmzTpHM"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7129,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7129,
+    "cache_read_input_tokens": 27204,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1251,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1251,
+        "cache_read_input_tokens": 8329,
+        "input_tokens": 2,
+        "output_tokens": 769,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1212,
+    "output_tokens_details": {
+      "thinking_tokens": 92
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

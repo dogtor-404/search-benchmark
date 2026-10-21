@@ -1,0 +1,156 @@
+{
+  "answer": "**答え:** 吉田兼倶は「神祇管領長上(じんぎかんれいちょうじょう)」を自称して、神職支配を進めました。1476年(文明8年)には、神祇伯を世襲していた白川家に対抗するため、「神祇管領勾当長上」と称したとされます。\n\nこの称号は、神祇伯(神祇官の長官)を超えて自分が神道の主宰者だと示すための偽称・僭称だったと、研究では評価されています。\n\n**依据的网址:**\n- 国学院大学博物館「神道［第2章］」:https://museum.kokugakuin.ac.jp/shinto02/\n - 「神祇管領長上を自称して神職支配を進め」と書かれています。\n- 吉田家(Wikipedia 由来の用語解説):http://www.kotoba.ne.jp/word/10/吉田家\n- 井上智勝「『神祇管領長上』考」(CiNii):https://cir.nii.ac.jp/crid/1390282680927161088\n - 偽称・僭称という評価はここによります。\n- 百度百科「吉田兼俱」:https://wapbaike.baidu.com/item/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1\n - 1476年の自称とその経緯はここによります。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.39,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10510,
+      "cacheReadInputTokens": 5844,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0478624,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 523,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/B/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.0478624,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6953,
+      "query": "吉田兼倶 自称 神職支配 唯一神道",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道栏［第２章］神道祭祀的发展与神祗信仰的多样化",
+          "url": "https://museum.kokugakuin.ac.jp/zh_cn/shinto02/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道［第２章］神道祭祀の発展と神祇信仰の多様化",
+          "url": "https://museum.kokugakuin.ac.jp/shinto02/"
+        },
+        {
+          "date": "2026-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田兼俱_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田家 について",
+          "url": "http://www.kotoba.ne.jp/word/10/吉田家"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官 | CiNii Research",
+          "url": "https://cir.nii.ac.jp/crid/1390282680927161088"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "井上 智勝 (Tomokatsu Inoue) - 「神祇管領長上」考 : 室町期の吉田家と神祇官 - 論文",
+          "url": "https://researchmap.jp/read10300972/published_papers/5462293"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "室町時代後期、吉田兼俱",
+          "url": "http://museum.kokugakuin.ac.jp/files/user/2018_yoshida.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田兼俱(よしだかねとも)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1-1214003"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田神道 | 時事用語事典 | 知を探究する教養メディア imidas（イミダス）",
+          "url": "https://imidas.jp/genre/detail/L-102-0103.html#:~:text=%E5%85%BC%E5%80%B6%E3%81%AF%E5%94%AF%E4%B8%80%E7%A5%9E%E9%81%93%EF%BC%88%E3%82%86%E3%81%84,%E3%81%86%E3%82%89%E3%81%B9%E3%81%97%E3%82%93%E3%81%A8%E3%81%86%EF%BC%89%E3%81%A8%E3%82%82%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%80%82"
+        },
+        {
+          "date": "2017-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官",
+          "url": "https://www.jstage.jst.go.jp/article/rsjars/78/1/78_KJ00003724428/_article/-char/ja/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10510,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10510,
+    "cache_read_input_tokens": 5844,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8674,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8674,
+        "cache_read_input_tokens": 3840,
+        "input_tokens": 2,
+        "output_tokens": 447,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 523,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

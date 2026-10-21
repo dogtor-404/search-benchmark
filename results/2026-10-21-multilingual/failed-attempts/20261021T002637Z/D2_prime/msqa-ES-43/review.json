@@ -1,0 +1,35 @@
+{
+  "group": "D2_prime",
+  "question_id": "msqa-ES-43",
+  "retry_number": 1,
+  "error_type": "URLError",
+  "reason_type": "SSLEOFError",
+  "reason": "第2次Search连接发生SSL意外断连，其余4次成功返回；按技术故障作废，不依据最终答案决定重跑，未确认网络端根因。",
+  "billable_searches_in_invalid_attempt": 4,
+  "model_usage_from_raw_final": {
+    "deepseek-v4-pro": {
+      "inputTokens": 19661,
+      "outputTokens": 9375,
+      "cacheReadInputTokens": 45312,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.2752064,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "provider": "firstParty",
+      "costBasis": "unknown"
+    }
+  },
+  "original_file_sha256": {
+    "jsonl/D2_prime/msqa-ES-43.jsonl": "468b3d61a8651f2e4a2ae4be648cbc58b34da2f6c14defc3b4a99aa799ac8402",
+    "runs/D2_prime/msqa-ES-43.json": "03f2ab6fcaa502e292eb2e8c564e132ab49eee9e7b38962b0a88a59a39fefe26",
+    "audit/D2_prime/msqa-ES-43/mcp-count.txt": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+    "audit/D2_prime/msqa-ES-43/dispatch.json": "3d321a16eb44d4df2f1e2a897372a05689b5a314e942674299e6e3b016f21628",
+    "audit/D2_prime/msqa-ES-43/stderr.txt": "c4055f0b246bb5ff8cb9777278807c2f5f27dcbbed8e2fde78a508c9edde62b7",
+    "audit/D2_prime/msqa-ES-43/search.jsonl": "112364195ac081912721596c01481835c099d2c7f2494aab7850435b4b2122ac"
+  },
+  "policy": "仅重跑此题一次；复用其余1167份有效作答，不改模型、题库、提示词、五次预算或盲评标准。",
+  "reviewer": "Codex日志核查，非人工"
+}

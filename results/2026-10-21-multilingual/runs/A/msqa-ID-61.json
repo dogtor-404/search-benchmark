@@ -1,0 +1,100 @@
+{
+  "answer": "**Jawaban singkat:** Majas perumpamaan \"seperti air di daun talas\" (biasanya ditulis \"bagai air di daun talas\") menggambarkan orang yang **tidak punya pendirian tetap**, yaitu plin-plan dan mudah berubah-ubah. Air di daun talas tidak menyatu dengan daunnya, jadi bergerak ke sana kemari.\n\nSatu contoh kalimat dari hasil pencarian memakainya untuk orang yang selalu memihak yang berkuasa, bahkan sampai mengkhianati saudaranya.\n\nSumber:\n- [Daun Talas yang Tiada Mengenal Basah (Mojok)](https://mojok.co/visual/nabati/daun-talas-yang-tiada-mengenal-basah/)\n- [130+ Contoh Peribahasa dan Artinya (Detik)](https://www.detik.com/sulsel/berita/d-7784405/130-contoh-peribahasa-dan-artinya-berisi-nasihat-hingga-semboyan-hidup)\n- [Contoh kalimat ungkapan dan peribahasa (Mamikos)](https://mamikos.com/info/contoh-kalimat-ungkapan-dan-peribahasa-pljr/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.715,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119331,
+      "inputTokens": 16071,
+      "maxOutputTokens": 128000,
+      "outputTokens": 652,
+      "provider": "firstParty",
+      "thinkingTokens": 174,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2972,
+      "cacheReadInputTokens": 6769,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0178829,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 531,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/A/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.029816,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "\"seperti air di daun talas\" perumpamaan arti orang yang",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01K6K4VahAzSat6aVusiUFUj"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2972,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2972,
+    "cache_read_input_tokens": 6769,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1105,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1105,
+        "cache_read_input_tokens": 4318,
+        "input_tokens": 2,
+        "output_tokens": 437,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 531,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

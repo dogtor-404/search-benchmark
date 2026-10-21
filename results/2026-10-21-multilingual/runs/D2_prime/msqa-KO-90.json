@@ -1,0 +1,223 @@
+{
+  "answer": "根据搜索结果，在传统 관례(冠礼)仪式中，由 **찬자(赞者, 보조자)와 시자(侍者)** 为 관례자(受礼者)梳头。\n\n一份成人礼程序文献明确写道：\"찬자와 시자는 빗을 가지고 판자와 게자 옆으로 나가셔서 무릎을 꿇고 앉아 머리를 빗겨 주시기 바랍니다\"（赞者和侍者拿着梳子到冠者、笄者身旁跪下为其梳头），并配有\"찬자와 시자가 판자와 게자의 머리를 빗겨주는 모습\"的图注。\n\n**答案：찬자(赞者)와 시자(侍者)가 관례자의 머리를 빗겨줍니다**（赞者即助手/帮忙的人，侍者即侍奉的人）。\n\n依据网址：\n- https://memory.library.kr/files/original/c8b9d1e9167153a6d9353aed11422ff5.pdf\n- http://korean.cri.cn/1/2006/04/13/1@58854.htm （提及\"찬자(거들어주는 사람)가 그의 머리를 빗어…\"）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.946,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.105768,
+      "inputTokens": 18224,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1618,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/D2_prime/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.105768,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6937,
+      "query": "관례 머리 빗겨주는 사람 성인례",
+      "results": [
+        {
+          "date": "2006-04-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "china radio international",
+          "url": "http://korean.cri.cn/1/2006/04/13/1@58854.htm"
+        },
+        {
+          "date": "2019-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이제 나도 어른이 된건가요?",
+          "url": "http://www.jnedu.kr/news/articleView.html?idxno=19192"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전체기사",
+          "url": "http://www.jnedu.kr/news/articleList.html?page=1800&total=35198&sc_section_code=&sc_sub_section_code=&sc_serial_code=&sc_area=A&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=%E3%85%97&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전체 < 기사목록",
+          "url": "http://www.jnedu.kr/news/articleList.html?page=20&total=390&box_idxno=&sc_section_code=&sc_sub_section_code=&sc_serial_code=&sc_area=A&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=%EC%9E%85%EC%8B%9C&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm"
+        },
+        {
+          "date": "2019-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전남 문향고, 성년의 날 맞아 성년식 행사",
+          "url": "http://www.veritas-a.com/news/articleView.html?idxno=154839"
+        },
+        {
+          "date": "2016-12-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례 - 디지털당진문화대전",
+          "url": "http://dangjin.grandculture.net/dangjin/dir/GC06401248?category=%ed%91%9c%ec%a0%9c%ec%96%b4&depth=3&name=%ec%9e%90&search=%ec%9e%90&type=titleKor"
+        },
+        {
+          "date": "2003-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "단체 성년의식… 담뱃불 추정 불/ 수능이후 高3교실 ‘두얼굴’",
+          "url": "https://en.seoul.co.kr/news/newsView.php?id=20031128010004"
+        },
+        {
+          "date": "2011-05-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "상투 틀고, 족두리 쓰고…“이젠 어른이에요”",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148712015"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>대항목</td><td>민간신앙 등 사회적 의식</td></tr><tr><td>중항목</td><td>의례</td></tr><tr><td>소항목</td><td>성인례</td></tr><tr><td>명칭</t...",
+          "url": "https://council.chuncheon.go.kr/basic/bbscttDownload.do?n=714&no=13254#35#31"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례 - 디지털고창문화대전",
+          "url": "https://gochang.grandculture.net/gochang/index/GC02801587?category=%EC%A7%80%EB%AA%85%2F%EA%B8%B0%EA%B4%80%EB%AA%85&depth=2&name=%EA%B0%80&page=25&search=%EA%B3%A0%EC%B0%BD"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6951,
+      "query": "한국 전통 성인례 관례 삼가례 절차 머리 빗겨주는 이",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/한문화/한복/한복사전/한복사전",
+          "url": "https://www.kculture.or.kr/brd/board/1077/L/menu/1067?brdType=R&thisPage=1&bbIdx=111&searchField=title&searchText=%ed%96%89%ec%a0%84"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/누리는 전통/한복/한복보기/성인 한복",
+          "url": "https://www.kculture.or.kr/brd/board/1074/L/CATEGORY/937/menu/908?brdType=R&thisPage=3&bbIdx=14171&searchField=&searchText="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. 관례(冠禮)",
+          "url": "https://www.sacheon.go.kr/portal/data/pdf/intro/02759_down01.pdf#294#203"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(사)한국예절문화원",
+          "url": "http://www.etiquette.or.kr/boad_eti/bd_news/1/egofiledown.asp?bd=4&ftype=0&fseq=133&key=201907153583080054019#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>대항목</td><td>민간신앙 등 사회적 의식</td></tr><tr><td>중항목</td><td>의례</td></tr><tr><td>소항목</td><td>성인례</td></tr><tr><td>명칭</t...",
+          "url": "https://council.chuncheon.go.kr/basic/bbscttDownload.do?n=714&no=13254#35#31"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "태안군지 - 관례",
+          "url": "https://www.taean.go.kr/html/kor/sub05/popup/pop_sub05_03_02_02_105.jsp"
+        },
+        {
+          "date": "2000-05-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "원주문화방송(주)",
+          "url": "http://www.wjmbc.co.kr/news/desk_board.html?srch_order=WRITE_Y&srch_by=asc&srch_k=&srch_t=&intPageSize=20&gnb=1&snb=1&pagecode=view&num_seq=3434"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례는 남·녀의 성인(成人)의식이나, 남자는 15~20세가 되면 주례(主",
+          "url": "https://memory.library.kr/files/original/c8b9d1e9167153a6d9353aed11422ff5.pdf#30#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>순서</td><td>관례 절차</td><td>주요 내용</td></tr><tr><td>1</td><td>陳設</td><td>관모류, 의복, 솔잔, 식기, 관세 등을 의해 공간에 진설</td></tr><t...",
+          "url": "https://www.ikcc.or.kr/getFile/;jsessionid=F21D7559FD7578984D398C1E47E49915?id=4025#20#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "계례는여자의성인식으로남자의관례에해당되는의례이다",
+          "url": "https://state.gwd.go.kr/egf/bp/common/front/225015/download#138#52"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 18224,
+    "iterations": [],
+    "output_tokens": 1618,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

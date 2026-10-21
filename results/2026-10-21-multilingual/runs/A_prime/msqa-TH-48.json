@@ -1,0 +1,118 @@
+{
+  "answer": "**答案：** 这种穿法叫 **“สะหว้ายแหล้ง”（sawai laeng）**，也叫 **“เบี่ยงบ้าย”（biang bai）**。意思是：按清迈传统，女性上身不穿上衣，只用一块披布（棉、丝或中国绸）斜搭在一侧肩上，布尾垂到背后。\n\n另外，如果把这块布绕在胸前缠住，而不是搭在肩上，就叫 **“มัดนม”**（mat nom）。\n\n搜索工具给的摘要里有一句话和题目原文几乎一样，这两个名称就出自那里。但摘要没写明是下面哪一个网址，我判断最可能是 Chiang Mai News 那篇写 เจ้าดารารัศมี 的文章，没有逐字核对过。\n\n依据（共搜了 3 次）：\n- [Chiang Mai News：พระราชชายา “เจ้าดารารัศมี” ผู้นำการอนุรักษ์ “แต่ง-หย้อง”](https://www.chiangmainews.co.th/news/chiangmai/3849989/)\n- [มาณพ มานะแซม：พัฒนาการเครื่องแต่งกายชาวล้านนา (ไทยวน)](https://so02.tci-thaijo.org/index.php/fineartsJournal/article/download/77704/62323/)\n- [Digitized Lanna：การใช้ผ้าและการแต่งกายของชาวล้านนาในอดีต](http://digitizedlanna.blogspot.com/2014/09/blog-post_98.html)\n- [ACCL 清迈大学兰纳古屋博物馆](https://accl.cmu.ac.th/Museum/exhibition/room1)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 48.22,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0363091,
+      "inputTokens": 36811,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5256,
+      "provider": "firstParty",
+      "thinkingTokens": 1408,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9198,
+      "cacheReadInputTokens": 22375,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.10257100000000001,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1224,
+      "provider": "firstParty",
+      "thinkingTokens": 206,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-48",
+  "raw": "jsonl/A_prime/msqa-TH-48.jsonl",
+  "reported_cost_usd": 0.1388801,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "สตรีเชียงใหม่ ห่มผ้าเฉวียงบ่า ปล่อยชายผ้าไปด้านหลัง ถือว่า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014PQr9vg4JaS4F84keEde7j"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "สตรีเชียงใหม่ไม่สวมเสื้อ ผ้าห่มหนึ่งผืน ห่มเฉวียงบ่า ถือว่าเป็นการแต่งกายที่สุภาพ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019j8RjCQm47ojR9ACzQHqjD"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"ห่มเฉวียงบ่า\" \"ชายผ้า\" ด้านหลัง สตรีล้านนา ไม่สวมเสื้อ ถือเป็น",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RPJayxtsmXjtpScp6uj5Qj"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9198,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9198,
+    "cache_read_input_tokens": 22375,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2281,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2281,
+        "cache_read_input_tokens": 9368,
+        "input_tokens": 2,
+        "output_tokens": 690,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1224,
+    "output_tokens_details": {
+      "thinking_tokens": 206
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

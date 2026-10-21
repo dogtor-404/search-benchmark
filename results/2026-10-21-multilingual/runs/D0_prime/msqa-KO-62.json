@@ -1,0 +1,62 @@
+{
+  "answer": "据我记忆：强陵端午祭（강릉단오제）中的迎神祭（영신제/迎神祭），是把从大关岭迎来的国师城隍、国师女城隍的神位接入江陵的迎神仪式，通常在端午本祭开始的第一天举行，也就是农历五月初三（음력 5월 3일）。\n\n不过我对具体日期的把握不是特别高（大约六成把握），如果你需要用于正式场合，建议以韩国文化财厅或江陵端午祭委员会的官方日程为准核对一下。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 40.97,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.107632,
+      "inputTokens": 2038,
+      "maxOutputTokens": 32000,
+      "outputTokens": 4974,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-62",
+  "raw": "jsonl/D0_prime/msqa-KO-62.jsonl",
+  "reported_cost_usd": 0.107632,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2038,
+    "iterations": [],
+    "output_tokens": 4974,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

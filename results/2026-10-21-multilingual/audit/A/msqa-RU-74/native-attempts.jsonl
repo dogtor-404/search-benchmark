@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "заварной пряник Смоленская губерния три главных сорта тульский ржевский", "results": [], "status": "allowed", "tool_use_id": "toolu_01RYJkkvBzxr42MkzKgbjGmN"}
+{"billable": false, "call": 2, "query": "вяземский пряник один из трёх сортов тульский ржевский смоленская губерния заварной", "results": [], "status": "allowed", "tool_use_id": "toolu_01KXKUCEPAQGSaRAk5KqZKav"}
+{"billable": false, "call": 3, "query": "\"тульские, ржевские\" пряники смоленские заварные праздничные сорта старинный Смоленской губернии", "results": [], "status": "allowed", "tool_use_id": "toolu_01ArQnr6BiaKTdQ7ceoPebGa"}
+{"billable": false, "call": 4, "query": "Вяземский пряник Википедия заварной тульский ржевский три сорта", "results": [], "status": "allowed", "tool_use_id": "toolu_012XNZenoNpatbgaRaCJ523x"}

@@ -1,0 +1,62 @@
+{
+  "answer": "叫 **“สไบ”**（sabai，泰文 **ผ้าสไบ**），中文一般译作“披巾 / 斜肩巾”。泰北（兰纳）妇女用它斜披过肩、绕到胸前裹住上身。\n\n如果指的是把布**整圈横向缠裹在胸部**的那种，也有称 **“ผ้ารัดอก”（裹胸布）** 的说法。我不完全确定你具体指的哪种缠法，但最常见的答案应是“สไบ”。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.766,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.04104,
+      "inputTokens": 2045,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1643,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-49",
+  "raw": "jsonl/D0_prime/msqa-TH-49.jsonl",
+  "reported_cost_usd": 0.04104,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2045,
+    "iterations": [],
+    "output_tokens": 1643,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

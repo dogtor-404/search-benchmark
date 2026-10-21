@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：从佛历 2522 年（公元 1979 年）开始。** 地点是那拉提瓦府苏吉林县普考通乡（ต.ภูเขาทอง อ.สุคิริน จ.นราธิวาส），这是泰国南部唯一一个办火箭节（บุญบั้งไฟ）的地方。\n\n1975 年（佛历 2518 年）起，东北部（伊桑）的居民按拉玛九世的御定计划搬进苏吉林自立垦殖区。1979 年，他们第一次在 Ban Ai Pacho（บ้านไอปาโจ）这个小社区办了火箭节，以后每年都办。\n\n不同来源的说法：\n- Matichon 和 MGR Online 两次报道都写的是 2522 年。\n- Thai PBS 的节目写的是 2520 年。\n- 各家报道的\"第几届\"对不太上：2016 年报道称第 34 届，2017 年称第 38 届，2024 年称第 45 届，所以起始年份可能差一两年。\n\n大多数来源写的是 2522 年，所以我取 2522 年。\n\n依据：\n- https://www.matichon.co.th/region/news_578628\n- https://mgronline.com/south/detail/9590000058625\n- https://mgronline.com/south/detail/9590000058159\n- https://www.thaipbs.or.th/program/NewsHour/watch/rnun8L （写的是 2520 年）\n\n（只搜了 1 次。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 36.871,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 18638,
+      "cacheReadInputTokens": 5869,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1661538,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 793,
+      "provider": "firstParty",
+      "thinkingTokens": 202,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/B_prime/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.1661538,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8762,
+      "query": "งานบุญบั้งไฟ ภาคใต้ เริ่มจัดครั้งแรก",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประเพณีบุญบั้งไฟ Archives - เทคโนโลยีชาวบ้าน",
+          "url": "https://www.khaosod.co.th/technologychaoban/tag/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%93%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9A%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%9F"
+        },
+        {
+          "date": "2017-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แห่งเดียวในภาคใต้ \"สุคิริน\" จัดบุญบั้งไฟอลังการต่อเนื่อง 38 ปี เหตุชาวอีสานตั้งรกราก",
+          "url": "https://www.matichon.co.th/region/news_578628"
+        },
+        {
+          "date": "2016-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้ว่าฯ นราฯ ชวนเที่ยวงาน “บุญบั้งไฟ” ที่สืบสานมา 34 ปี หนึ่งเดียวในปักษ์ใต้ 10-12 มิ.ย.นี้",
+          "url": "https://mgronline.com/south/detail/9590000058159"
+        },
+        {
+          "date": "2024-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ชั่วโมงข่าว เสาร์ - อาทิตย์ - ชมงาน “บุญบั้งไฟ” แห่งเดียวในชายแดนใต้ | Thai PBS รายการไทยพีบีเอส",
+          "url": "https://www.thaipbs.or.th/program/NewsHour/watch/rnun8L"
+        },
+        {
+          "date": "2024-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ชั่วโมงข่าว เสาร์ - อาทิตย์",
+          "url": "https://www.thaipbs.th/program/NewsHour/watch/rnun8L"
+        },
+        {
+          "date": "2024-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "บุญบั้งไฟ 1 เดียวที่ภาคใต้",
+          "url": "https://www.thairath.co.th/newspaper/2793198"
+        },
+        {
+          "date": "2024-06-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'บุญบั้งไฟ' 1 เดียวในภาคใต้ จัดใหญ่นราธิวาส ถิ่นกำเนิดจากฝีมือของคนอีสาน | เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/3515283/"
+        },
+        {
+          "date": "2016-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เปิดม่านแล้ว “งานบุญบั้งไฟ” แห่งเดียวในปักษ์ใต้ และเป็นมนต์เสน่ห์ของชายแดนใต้",
+          "url": "https://mgronline.com/south/detail/9590000058625"
+        },
+        {
+          "date": "2024-06-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(ชมคลิป) งานประเพณีบุญบั้งไฟ หนึ่งเดียวในภาคใต้ จ.นราธิวาส",
+          "url": "https://mgronline.com/south/detail/9670000049247"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เมื่อวันที่ 8 มิถุนายน 2562 กงสุลใหญ่ ณ เมืองโกตาบารู ไปร่วมงานฉลองบุญบั้งไฟ ณ ต.ภูเขาทอง อ.สุคิริน จ.นราธิวาส - สถานกงสุลใหญ่ ณ เมืองโกตาบารู",
+          "url": "https://kotabharu.thaiembassy.org/th/content/104433-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-8-%e0%b8%a1%e0%b8%b4%e0%b8%96%e0%b8%b8%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%99-2562-%e0%b8%81%e0%b8%87%e0%b8%aa%e0%b8%b8%e0%b8%a5%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-%e0%b8%93-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%81%e0%b8%95%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%a3%e0%b8%b9-%e0%b9%84%e0%b8%9b%e0%b8%a3%e0%b9%88%e0%b8%a7%e0%b8%a1%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%89%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9a%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%84%e0%b8%9f-%e0%b8%93-%e0%b8%95-%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%97%e0%b8%ad%e0%b8%87-%e0%b8%ad-%e0%b8%aa%e0%b8%b8%e0%b8%84%e0%b8%b4%e0%b8%a3%e0%b8%b4%e0%b8%99-%e0%b8%88-%e0%b8%99%e0%b8%a3%e0%b8%b2%e0%b8%98%e0%b8%b4%e0%b8%a7%e0%b8%b2%e0%b8%aa?cate=5d75baec15e39c25a8000e34"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 18638,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 18638,
+    "cache_read_input_tokens": 5869,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16777,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16777,
+        "cache_read_input_tokens": 3865,
+        "input_tokens": 2,
+        "output_tokens": 656,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 793,
+    "output_tokens_details": {
+      "thinking_tokens": 202
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

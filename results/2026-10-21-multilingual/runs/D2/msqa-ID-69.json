@@ -1,0 +1,223 @@
+{
+  "answer": "Suku Asmat mengenal tiga konsep dunia:\n\n1. **Amat ow capinmi** — alam kehidupan sekarang (dunia orang hidup)\n2. **Dampu ow capinmi** — alam persinggahan roh yang sudah meninggal (dunia orang mati/tempat penantian)\n3. **Safar/Safan** — surga, tempat para leluhur\n\nSumber:\n- https://regional.kompas.com/read/2021/10/02/082200178/suku-asmat-legenda-manusia-titisan-dewa-di-tanah-papua?page=2\n- https://e-conf.usd.ac.id/index.php/usdbsb/usdbsb2023/paper/view/2735/0",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.239,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0687104,
+      "inputTokens": 14966,
+      "maxOutputTokens": 32000,
+      "outputTokens": 418,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-69",
+  "raw": "jsonl/D2/msqa-ID-69.jsonl",
+  "reported_cost_usd": 0.0687104,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6817,
+      "query": "Suku Asmat tiga konsep dunia",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/8307572"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bangsa Asmat ini sangat berbakat dalam bercerita, berkhayal, mengukir, mengorganisasi, dan merayakan pesta-pesta: tetapi bahkan ...",
+          "url": "https://digilib.uns.ac.id/dokumen/download/13092/Mjc2ODA=/Ratu-Lembah-Baliem-novel-petualangan-di-Irian-karya-Ircham-Machfoedz-abstrak.pdf#14#10"
+        },
+        {
+          "date": "2021-11-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dikenal Sejak 1930, Suku Asmat di Papua Disebut Manusia Titisan Dewa - Tribun-papua.com",
+          "url": "https://papua.tribunnews.com/2021/11/15/dikenal-sejak-1930-suku-asmat-di-papua-disebut-manusia-titisan-dewa?page=2"
+        },
+        {
+          "date": "2023-10-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KEPERCAYAAN ANIMISME DAN PAHAM KETUHANAN FUMIRIPITS DALAM MITOLOGI SUKU ASMAT",
+          "url": "https://e-conf.usd.ac.id/index.php/usdbsb/usdbsb2023/paper/view/2735/0"
+        },
+        {
+          "date": "2021-10-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Sejarah Suku Asmat di Tanah Papua, Disebut Manusia Titisan Dewa yang Dikenal Tahun 1930 - Tribun-papua.com",
+          "url": "https://papua.tribunnews.com/2021/10/12/mengenal-sejarah-suku-asmat-di-tanah-papua-disebut-manusia-titisan-dewa-yang-dikenal-tahun-1930?page=2"
+        },
+        {
+          "date": "2021-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Asmat dan Legenda Patung Bernyawa - Kompas.com",
+          "url": "https://lipsus.kompas.com/kaleidoskop/read/2021/08/26/142909227/suku-asmat-dan-legenda-patung-bernyawa?page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "kadang sampai melebihi tinggi orang Asmat yang berdiri tegak",
+          "url": "https://repository.its.ac.id/71781/1/3412100111-undergraduate-theses.pdf#12#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Asmat: Spirits, Shields, Symmetry",
+          "url": "https://soar.wichita.edu/bitstream/handle/10057/475/grasp0633.pdf?sequence=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proue de pirogue",
+          "url": "https://collections.geneve.ch/meg/catalogue/en/musinfo_public.php?id=033680"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "bouclier",
+          "url": "https://collections.geneve.ch/meg/catalogue/en/musinfo_public.php?id=039753"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7608,
+      "query": "Asmat tiga dunia owek ow kapok",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/8307572"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bangsa Asmat ini sangat berbakat dalam bercerita, berkhayal, mengukir, mengorganisasi, dan merayakan pesta-pesta: tetapi bahkan ...",
+          "url": "https://digilib.uns.ac.id/dokumen/download/13092/Mjc2ODA=/Ratu-Lembah-Baliem-novel-petualangan-di-Irian-karya-Ircham-Machfoedz-abstrak.pdf#14#10"
+        },
+        {
+          "date": "2023-10-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KEPERCAYAAN ANIMISME DAN PAHAM KETUHANAN FUMIRIPITS DALAM MITOLOGI SUKU ASMAT",
+          "url": "https://e-conf.usd.ac.id/index.php/usdbsb/usdbsb2023/paper/view/2735/0"
+        },
+        {
+          "date": "2021-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Asmat, Legenda Manusia Titisan Dewa di Tanah Papua",
+          "url": "https://regional.kompas.com/read/2021/10/02/082200178/suku-asmat-legenda-manusia-titisan-dewa-di-tanah-papua?page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "simbolik dalam menjaga keharmonisan antara kehidupan manusia, alam sekitar, roh pencipta, dan roh",
+          "url": "https://blue-forests.org/wp-content/uploads/2022/08/Profil-Masyarakat-Adat-Asmat-di-Kampung-Yepem_layout_edit.pdf#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**BAB VI**",
+          "url": "https://siat.ung.ac.id/files/wisuda/2018-1-1-88201-311413142-bab5-03082018112125.pdf#1#1"
+        },
+        {
+          "date": "2010-12-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kehidupan Unik Suku Asmat | KASKUS - Entertainment",
+          "url": "https://m.kaskus.co.id/thread/000000000000000006227929/kehidupan-unik-suku-asmat?ref=postlist-246&med=more_like_this#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Proue de pirogue",
+          "url": "https://collections.geneve.ch/meg/catalogue/en/musinfo_public.php?id=033680"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Page 321 - THE MELANESIA DIASPORA FILE CETAK ISI 10022017 - Basic HTML Version",
+          "url": "https://online.flipbuilder.com/ddni/wffj/files/basic-html/page321.html#1"
+        },
+        {
+          "date": "2013-11-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Asmat - Suku Asmat",
+          "url": "https://www.slideshare.net/slideshow/suku-asmat/28334052#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14966,
+    "iterations": [],
+    "output_tokens": 418,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

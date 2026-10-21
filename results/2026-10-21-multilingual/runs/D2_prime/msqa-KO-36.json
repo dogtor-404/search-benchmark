@@ -1,0 +1,223 @@
+{
+  "answer": "**답:** 제주어 \"몽케다\"는 **행동이 굼뜨거나 느린 모습, 꾸물거리며 늑장을 부린다**는 뜻입니다. 표준어로는 \"뭉그적거리다\"(뭉개다)에 해당합니다.\n\n**근거:**\n- https://wordrow.kr/%ec%82%ac%ed%88%ac%eb%a6%ac/865478/%eb%aa%bd%ec%bc%80%eb%8b%a4/ (\"‘뭉그적거리다’의 방언 … 나아가지 못하고 제자리에서 조금 큰 동작으로 자꾸 게으르게 행동하다\")\n- https://www.news1.kr/local/jeju/6317248 (\"'몽케다'는 행동이 굼뜨거나 느린 모습을 표현하는 말\")",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.823,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0632664,
+      "inputTokens": 13290,
+      "maxOutputTokens": 32000,
+      "outputTokens": 481,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-36",
+  "raw": "jsonl/D2_prime/msqa-KO-36.jsonl",
+  "reported_cost_usd": 0.0632664,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6747,
+      "query": "제주도 방언 몽케다 뜻",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "뉴스 - 뉴스1제주",
+          "url": "https://jeju.news1.kr/news?idxno=34513"
+        },
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"느리게 살아도 괜찮아\"…제주어 '몽케다'의 유쾌한 변신",
+          "url": "https://www.news1.kr/local/jeju/6317248"
+        },
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'게으름'이 '쉼'이 되고 '고생'은 '위로'로…다시 읽는 제주어",
+          "url": "https://m.star.news1.kr/articles/?6315255"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "사투리 몽케다의 뜻과 활용",
+          "url": "https://wordrow.kr/%ec%82%ac%ed%88%ac%eb%a6%ac/865478/%eb%aa%bd%ec%bc%80%eb%8b%a4/"
+        },
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"느리게 살아도 괜찮아\"…제주어 '몽케다'의 유쾌한 변신",
+          "url": "https://v.daum.net/v/20261013070207745"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5학년2학기말듣60쪽제주도방언으로부탁해요.(내공은최대한) - 늘짝 거리다 : 늑장부리다",
+          "url": "https://kin.naver.com/qna/detail.naver?d1id=13&dirId=130101&docId=89870320&qb=64iI66y87Jew6riwIOuMgOyCrA==&enc=utf8#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "사단법인 제주어연구소",
+          "url": "http://jejueo999.kr/index.php/contents/qna?act=view&seq=1938&bd_bcid=qna&page=48"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "승미할머니: 몽케지 말앙 혼라",
+          "url": "https://org.jje.go.kr/ebook/catImage/1562/%EC%A0%9C%EC%A3%BC%EC%96%B4%EB%A1%9C%20%ED%95%98%EB%8A%94%20%EB%A7%90%ED%95%98%EA%B8%B0%20%EB%93%A3%EA%B8%B0%20%EC%93%B0%EA%B8%B0%20-%202008.pdf#22#7"
+        },
+        {
+          "date": "2011-05-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "제주도방언 - 엄블랑호다 >> 엄청나다",
+          "url": "https://kin.naver.com/qna/detail.naver?d1id=12&dirId=1214&docId=130803210&qb=7KCc7KO8IO2YuO2FlA==&enc=utf8&section=kin.qna_ency&rank=42&search_sort=1&spq=0#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1.1. 제주어의 정의",
+          "url": "https://www.jeju.go.kr/jedu/data/data.htm?category=3094&page=32&act=download&seq=1538668&no=1#1#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7128,
+      "query": "제주어 사전 몽케다",
+      "results": [
+        {
+          "date": "2026-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'게으름'이 '쉼'이 되고 '고생'은 '위로'로…다시 읽는 제주어",
+          "url": "https://www.news1.kr/local/jeju/6315255"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "뉴스 - 뉴스1제주",
+          "url": "https://jeju.news1.kr/news?idxno=34513"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "사투리 몽케다의 뜻과 활용",
+          "url": "https://wordrow.kr/%ec%82%ac%ed%88%ac%eb%a6%ac/865478/%eb%aa%bd%ec%bc%80%eb%8b%a4/"
+        },
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"느리게 살아도 괜찮아\"…제주어 '몽케다'의 유쾌한 변신",
+          "url": "https://www.news1.kr/local/jeju/6317248"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>질문에 시</td><td>언제<br/>어디서<br/>누구에게<br/>어떤 도움을<br/>준비를</td><td>언제 쓸고",
+          "url": "https://www.jje.go.kr/underedu/board/download.jje?boardId=BBS_0000493&orderBy=REGISTER_DATE+DESC&paging=ok&startPage=3&dataSid=1045353&command=update&fileSid=1098608#40#37"
+        },
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"느리게 살아도 괜찮아\"…제주어 '몽케다'의 유쾌한 변신",
+          "url": "https://v.daum.net/v/20261013070207745"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "개정 제주어사전",
+          "url": "https://www.jeju.go.kr/jejueo/community/data.htm?act=download&seq=2003079&no=1#219#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "승미할머니: 몽케지 말앙 혼라",
+          "url": "https://org.jje.go.kr/ebook/catImage/1562/%EC%A0%9C%EC%A3%BC%EC%96%B4%EB%A1%9C%20%ED%95%98%EB%8A%94%20%EB%A7%90%ED%95%98%EA%B8%B0%20%EB%93%A3%EA%B8%B0%20%EC%93%B0%EA%B8%B0%20-%202008.pdf#22#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "니다",
+          "url": "http://jst.re.kr/upload/pdf/RC00095270.pdf#16#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "사단법인 제주어연구소",
+          "url": "http://jejueo999.kr/index.php/contents/qna?act=view&seq=1938&bd_bcid=qna&page=48"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13290,
+    "iterations": [],
+    "output_tokens": 481,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

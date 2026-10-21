@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 部队锅（부대찌개）最早出现在**韩国战争（1950–1953）刚结束后的 1950 年代**。当时粮食短缺，人们把从驻韩美军基地流出来的火腿、香肠、午餐肉，和泡菜、辣椒酱一起煮，就有了这道菜。它主要是在议政府、松炭（平泽）、东豆川等美军基地附近发展起来的。\n\n我只搜了 1 次。几个来源都说是\"韩国战争刚结束后\"，但都没给出具体年份；有个说法是某家店从 1960 年代开始做，不过那来自个人博客，不太可靠。\n\n**依据的网址：**\n- [의정부 부대찌개거리 (ktriptips)](https://www.ktriptips.com/kor/tourspot/612807)\n- [위키트리：한국전쟁 때 태어난 '가난의 상징'](https://www.wikitree.co.kr/articles/1098498)\n- [세계일보](https://www.segye.com/newsView/20160211003061)\n- [Gwangju News: Budae Jjigae: Army Stew](https://gwangjunewsgic.com/food-drink/budae-jjigae-army-stew)\n- [CS Monitor: US troops brought South Korea democracy, hot dogs, and Spam](https://www.csmonitor.com/World/Global-News/2011/1109/US-troops-brought-South-Korea-democracy-hot-dogs-and-Spam)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.375,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011893,
+      "inputTokens": 13905,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1005,
+      "provider": "firstParty",
+      "thinkingTokens": 218,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3228,
+      "cacheReadInputTokens": 6745,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.040269,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 654,
+      "provider": "firstParty",
+      "thinkingTokens": 52,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/A_prime/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.052162,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "부대찌개 유래 한국전쟁 이후 등장 시기",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LPCDfPwLs7sSbLLstGJavi"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3228,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3228,
+    "cache_read_input_tokens": 6745,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1385,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1385,
+        "cache_read_input_tokens": 4294,
+        "input_tokens": 2,
+        "output_tokens": 506,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 654,
+    "output_tokens_details": {
+      "thinking_tokens": 52
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

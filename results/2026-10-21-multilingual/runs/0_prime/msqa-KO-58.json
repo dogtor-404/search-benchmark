@@ -1,0 +1,74 @@
+{
+  "answer": "**모에모에뀽**是日语「**萌え萌えキュン**」（moe moe kyun）的韩语音译。\n\n- **出处**：日本女仆咖啡店（秋叶原一带）。店员端上蛋包饭、饮料时，会双手比心，念「美味しくなあれ、萌え萌えキュン♡」（变好吃吧，萌萌～啾），意思是给食物“注入爱心”。\n  - 「萌え」：对可爱角色或事物产生的喜爱、心动。\n  - 「キュン」：拟态词，形容心头一紧、怦然心动。\n- **在韩国的用法**：作为网络流行语和综艺梗，用来故意装可爱、撒娇（애교）。通常一边念，一边用双手比心，从胸前往外“送”。很多时候是带点羞耻感的搞笑表演，比如偶像在节目里被要求做，或者朋友之间互相起哄。\n\n至于它在韩国具体是从哪个节目或哪个人开始火的，我不确定，不乱说。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.859,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.027253599999999996,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 645,
+      "provider": "firstParty",
+      "thinkingTokens": 289,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-58",
+  "raw": "jsonl/0_prime/msqa-KO-58.jsonl",
+  "reported_cost_usd": 0.027253599999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 645,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 645,
+    "output_tokens_details": {
+      "thinking_tokens": 289
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

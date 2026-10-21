@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban:** Orang Mapur memakai **parang dan beliung** saja dalam sistem ladang berpindah. Peralatan ini cukup karena lahan mereka luas.\n\n**Sumber:** http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html\n\nSumber ini blog. Pencarian lain menunjukkan bahwa Orang Mapur (Lom) di Pulau Bangka memang berladang berpindah (*berumé*). Contohnya repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf. Sumber itu tidak menyebut alatnya.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.35,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 15198,
+      "cacheReadInputTokens": 5854,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0646654,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 328,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-81",
+  "raw": "jsonl/B/msqa-ID-81.jsonl",
+  "reported_cost_usd": 0.0646654,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7088,
+      "query": "Orang Mapur ladang berpindah alat yang digunakan",
+      "results": [
+        {
+          "date": "2019-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sejarah Suku Mapur",
+          "url": "http://suku-dunia.blogspot.com/2019/07/sejarah-suku-mapur.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Alat tangkap lainnya yang dapat dibuat oleh nelayan di Desa Mapur adalah rompong",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Desa Mapur merupakan Desa yang terletak di Kecamatan Riau Silip Kabupaten Bangka yang cukup representatif untuk menunjukkan baga...",
+          "url": "https://www.theprakarsa.org/en/download/30034/?tmstv=1776874290#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 3    | Pertanian tanaman keras    | 2    | 1,6    |",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB VI",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Bab5%20-%20Daftar%20Pustaka%20-%202017420141sc-p.pdf?isAllowed=y&sequence=3#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "wawancara dengan informan yang telah ditentukan",
+          "url": "https://jurnal.ucy.ac.id/index.php/fkip/article/download/2142/1930/9636#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TEKTONIKA RUMAH ADAT ORANG MAPUR (LOM) BANGKA (OBJEK STUDI: MEMARONG AIR ABIK DAN UMA PANGGONG NEK ANYA)",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ada dua jenis bubu yang digunakan oleh nelayan: bubu karang (timbus) dan bubu laut (labuh)",
+          "url": "https://karya.brin.go.id/id/eprint/17157/1/Buku_Widayatun_Puslit%20Kependudukan_2007.pdf#26#17"
+        },
+        {
+          "date": "2026-05-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Adat Mapur: Menjaga Prinsip Hidup Bersahabat dengan Alam, Tetap Bertahan di Tengah Arus Modernitas",
+          "url": "https://babelaktual.com/adat-mapur-menjaga-prinsip-hidup-bersahabat-dengan-alam-tetap-bertahan-di-tengah-arus-modernitas/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gambar 4. 39 Komparasi Ruang Penyimpanan Paré",
+          "url": "https://repository.unpar.ac.id/bitstream/handle/123456789/15192/Cover%20-%20Bab1%20-%202017420141sc-p.pdf?sequence=1&isAllowed=y#3#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 15198,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15198,
+    "cache_read_input_tokens": 5854,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13352,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13352,
+        "cache_read_input_tokens": 3850,
+        "input_tokens": 2,
+        "output_tokens": 251,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 328,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

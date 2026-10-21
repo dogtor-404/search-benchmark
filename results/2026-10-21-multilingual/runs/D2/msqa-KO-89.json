@@ -1,0 +1,223 @@
+{
+  "answer": "**간단한 답:** 안중근은 **1897년 1월**에 천주교에 입교하여 세례를 받았습니다. 세례명은 **도마(토마스)**, 집전한 신부는 파리외방전교회의 프랑스인 **빌렘 신부(한국명 홍석구)**였고, 장소는 황해도 청계동(청계동 본당)이었습니다. 일부 자료는 구체적으로 **1897년 1월 11~12일**로 기록합니다(당시 만 17세).\n\n**근거:**\n- 조선일보 「대한국인 안중근」: \"1897년 1월 11~12일 … 안중근도 도마(Thomas)라는 세례명으로 영세를 받았다\" — http://hero1909.chosun.com/religion.html\n- 가톨릭신문: \"1897년 1월에 토마스 사도를 세례명으로 택해 세례를 받고 빌렘 신부와 함께 신앙을 전파\" — https://www1.catholictimes.org/article/article_view.php?aid=298510\n- 안중근의사기념관(중문): \"1897년 … 세례명 다묵(多默)\" — http://www.thomasahn.org/cn/kwa-803643\n\n검색은 2회 사용했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.112,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0679104,
+      "inputTokens": 13336,
+      "maxOutputTokens": 32000,
+      "outputTokens": 704,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-89",
+  "raw": "jsonl/D2/msqa-KO-89.jsonl",
+  "reported_cost_usd": 0.0679104,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6072,
+      "query": "안중근 천주교 입교 시기 세례 1897",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>그는 1897 년 아버지를 따라 천주교에 입교하여 프랑스 출신의 천주교 신부 조제프 빌렌(Joseph Wilhelm)에게서 세례를 받았습니다",
+          "url": "http://waks.aks.ac.kr/extdata/project/2021/AKS-2021-KDA-1250010/AKS-2021-KDA-1250010_TEXT/pdf/7%EA%B0%95%EC%A2%8C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81.pdf#127#118"
+        },
+        {
+          "date": "2019-09-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전자책 종합정보 - 안중근",
+          "url": "http://gb.go.kr:8085/Kyobo_T3/Content/ebook/ebook_View.asp?barcode=480D190824190&category_id=3303&detail_info_key=total&product_cd=001"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "대한국인 안중근",
+          "url": "http://hero1909.chosun.com/religion.html"
+        },
+        {
+          "date": "2009-12-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(동상)안중근 의사를 그리며",
+          "url": "http://www.nahf.or.kr/gnb03/snb04_02.do?mode=view&page=10&cid=38156&hcid=66104"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "동북아역사재단",
+          "url": "http://www.nahf.or.kr/web/portal/bbs/1999/38156?baCommSelec=false&baNotice=false&baOpenDay=true&baUse=true&bcId=1999&cp=11&pageSize=10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Re:가톨릭신문의 특집 기사 - 가톨릭정보",
+          "url": "https://maria.catholic.or.kr/bible/bbs/bbs_view.asp?num=7178&id=349715&ref=5050&menu=4772"
+        },
+        {
+          "date": "2019-02-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[3.1 운동 100주년] 안중근이 삶으로 드러낸 하느님 집안의 평화살이",
+          "url": "https://www.djcatholic.or.kr/home/pages/catholicnews.php?enter=v&idx=1205&page=52&s=&k="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "안중근의 인권 사상과 공동체 의식*",
+          "url": "https://home.catholic.or.kr/exGB/down.asp?type=2&menu=4817&id=163239&fileid=2#7#1"
+        },
+        {
+          "date": "2014-07-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "7억5000만원 유찰됐던 안중근의사 '경천' 천주교 품에 | 아주경제",
+          "url": "https://www5.ajunews.com/view/20140717090207194"
+        },
+        {
+          "date": "2018-09-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "가톨릭신문",
+          "url": "https://www1.catholictimes.org/article/article_view.php?aid=298510&params=page%3D149%26acid%3D9"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6801,
+      "query": "安重根 天主教 受洗 1897 多默",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "安重根义士纪念馆",
+          "url": "http://www.thomasahn.org/cn/kwa-803643"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "宗教（信仰）活动 > 안중근의사기념관",
+          "url": "http://thomasahn.org/kwa-803643"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "후쿠오카한국교육원",
+          "url": "http://fukuoka.kankoku.or.kr/bbs/board.php?bo_table=jp_notice&wr_id=38&sst=wr_hit&sod=desc&sop=and&page=6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "흘땅한 논문을 발표해주시고 “안중근의 가톨릭 신앙 -인권사상가의 축면을 중심으로",
+          "url": "https://419.mpva.go.kr/mpva/downloadBbsFile.do?atchmnflNo=71906#33#11"
+        },
+        {
+          "date": "2026-08-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "安重根",
+          "url": "https://baike.baidu.com/item/%E5%AE%89%E9%87%8D%E6%A0%B9/68610#1#1"
+        },
+        {
+          "date": "2000-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[시론] 지붕위에서의 외침 | 중앙일보 - [시론] 지붕위에서의 외침",
+          "url": "https://www.joongang.co.kr/article/3891295#1"
+        },
+        {
+          "date": "2026-08-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "安重根（朝鲜半岛近代独立运动家）_百度百科 - 搜词条",
+          "url": "https://wapbaike.baidu.com/item/%E5%AE%89%E9%87%8D%E6%A0%B9/68610?bk_tashuoStyle=topLeft&bk_share=weibo&bk_sharefr=lemma#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "昨年十月伊藤公が哈爾賓に於て、朝鮮人から狙撃された時、諸新聞は、加害者安應七は平壤出身の天主教徒であるとの電報を掲載した",
+          "url": "https://419.mpva.go.kr/mpva/downloadBbsFile.do?atchmnflNo=71906#33#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "어떠한 미래를 열어나갈 것인가란 문제와 직결되고 있다",
+          "url": "https://419.mpva.go.kr/mpva/downloadBbsFile.do?atchmnflNo=71906#33#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アン・ウンチルとは？ わかりやすく解説 - アン・ウンチルとは？ わかりやすく解説",
+          "url": "https://www.weblio.jp/content/%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%83%B3%E3%83%81%E3%83%AB#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13336,
+    "iterations": [],
+    "output_tokens": 704,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

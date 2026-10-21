@@ -1,0 +1,74 @@
+{
+  "answer": "凭记忆回答，不一定准确：\n\n**영신제（迎神祭）一般在农历五月初三举行**，也就是江陵端午祭正式开幕的头几天。它是在南大川端午祭坛迎接大关岭国师城隍神的仪式，之后依次是 조전제례（农历五月初五前后）、단오굿，最后是 송신제（送神祭，收尾）。\n\n农历四月十五日另有大关岭山神祭、国师城隍祭和 영신행차（迎神巡行），容易跟 영신제 混淆。我记得这两天的分工大致如此，但具体时间和哪个仪式归在哪一天，我没把握。\n\n今年（2026年）的具体公历日期我不知道，不敢报。建议查江陵端午祭委员会的官方日程。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.729,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1753,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0188128,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1164,
+      "provider": "firstParty",
+      "thinkingTokens": 894,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-62",
+  "raw": "jsonl/0/msqa-KO-62.jsonl",
+  "reported_cost_usd": 0.0188128,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1753,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1753,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1753,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1753,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 1164,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1164,
+    "output_tokens_details": {
+      "thinking_tokens": 894
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

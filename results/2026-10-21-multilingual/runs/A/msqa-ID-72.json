@@ -1,0 +1,109 @@
+{
+  "answer": "**Jawaban singkat:** Bimbang Bebalai (ditulis \"Bimbang Balai\" di sumber yang saya temukan) adalah upacara adat pernikahan di Bengkulu Selatan. Upacara ini berasal dari suku Serawai.\n\nHasil pencarian tidak menyebut suku itu secara langsung, jadi bagian ini adalah kesimpulan saya dari beberapa petunjuk:\n- Sebuah skripsi Universitas Sriwijaya membahas pergeseran adat Bimbang Balai di Desa Jerangalah, Kecamatan Manna, Bengkulu Selatan, pada 1990–2017. Hanya catatan skripsinya yang tampil di hasil pencarian, bukan isi lengkapnya.\n- Manna adalah wilayah suku Serawai. Dugaan ini berasal dari pengetahuan saya, bukan dari halaman yang saya buka.\n- Seorang anggota dewan adat (BMA) Seluma mengatakan Tari Pisau Dua biasa dibawakan pada acara Bimbang Adat (pernikahan). Tarian itu berasal dari masyarakat Serawai di Seluma.\n- Sebuah makalah menyebut \"bimbang\" sebagai tradisi adat Melayu Bengkulu untuk merayakan momen seperti pernikahan, pelantikan, dan pengangkatan kepala adat.\n\nSaya tidak menemukan sumber yang menyebut \"Bimbang Bebalai\" persis dengan ejaan itu, atau yang menyatakan \"Serawai\" langsung di samping nama upacaranya. Urutan ritual Bimbang Balai juga tidak saya temukan.\n\nSumber:\n- [Repositori Universitas Sriwijaya – Pergeseran Adat Bimbang Balai, Jerangalah, Manna](https://repository.unsri.ac.id/15312/)\n- [Islamic Value in Melayu's Bimbang Tradition](https://proceedings.radenfatah.ac.id/index.php/isah/article/view/504)\n- [Jurnal ISI Padangpanjang – Lagalaga](https://journal.isi-padangpanjang.ac.id/index.php/Lagalaga/article/download/852/539)\n- [Jurnal UNP Sendratasik](https://ejournal.unp.ac.id/index.php/sendratasik/article/download/114479/105532)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 25.06,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023911300000000003,
+      "inputTokens": 28943,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2034,
+      "provider": "firstParty",
+      "thinkingTokens": 733,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4372,
+      "cacheReadInputTokens": 12280,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.029708,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1098,
+      "provider": "firstParty",
+      "thinkingTokens": 67,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-72",
+  "raw": "jsonl/A/msqa-ID-72.jsonl",
+  "reported_cost_usd": 0.0536193,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Bimbang Bebalai upacara suku",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Bfu6VSvEAFxXDGgSBpdcbx"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Bimbang Balai adat Suku Serawai Bengkulu Selatan upacara pernikahan",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CqYrp3wJ9yoVNXu4EJzhjm"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4372,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4372,
+    "cache_read_input_tokens": 12280,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1290,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1290,
+        "cache_read_input_tokens": 5533,
+        "input_tokens": 2,
+        "output_tokens": 838,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1098,
+    "output_tokens_details": {
+      "thinking_tokens": 67
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

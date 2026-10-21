@@ -1,0 +1,469 @@
+{
+  "answer": "Кратко: в разных регионах последний (дожиночный) сноп — тот, что жали молча, веря, что в него переселяется дух поля/зерна, — называли **«козой»** (чаще всего), а также **«дедом», «бабой», «Божьей бородой», «перепёлкой», «именинником»**; иногда его наряжали куклой.\n\nОснования:\n- «Последний сноп жнут молча, чтобы не беспокоить дух поля, который переселяется в него… Иначе он ещё называется \"Божьей бородой\", \"козой\", \"дедом\", \"перепёлкой\"» — http://dndz.tv/article-8810.html\n- «Из последних колосьев жницы устраивали \"козу\"… Последний \"дожиночный\" сноп наряжали в сарафан и несли на пир» — https://vladmuseum.ru/ru/data/ex224/\n- О названиях дожиночного снопа «Дед», «Баба», «Мать Пшеницы», «Житная Царица», «Кумушка» и о том, что в нём видели вместилище полевого духа — https://www.slavtradition.com/nasledie/obryady/4805-zhatva-v-slavyanskoj-traditsii\n\nЕсли нужен один ответ: **«коза»** (в ряде мест — «дед»/«баба»).",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "Википедия дожинки последний сноп назывался \"коза\" \"дед\" \"ермак\" \"борода\"",
+      "results": [],
+      "status": "budget_exhausted"
+    }
+  ],
+  "elapsed_seconds": 21.273,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 56704,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.2198048,
+      "inputTokens": 39861,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2451,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-19",
+  "raw": "jsonl/D2/msqa-RU-19.jsonl",
+  "reported_cost_usd": 0.2198048,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.731,
+      "query": "последний сноп жали молча несли с поля вместилище духа злаков название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки",
+          "url": "https://vladmuseum.ru/ru/data/ex224/"
+        },
+        {
+          "date": "2026-09-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Уважаемые жители Енисейска! Братья – славяне, поздравляем со Спожинками!",
+          "url": "http://eniseisk.ru/news/9232/10168/10294.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "И з п о с л е д н и х к о л о с ь е в п л е л и венок жатвенный, завивали «бороду», свя- зывали последний сноп, изготовляли риту...",
+          "url": "https://biblio.imli.ru/images/abook/folklor/Slavyanskie_drevnosti._Etnolingvisticheskij_slovar._T.2._1999.pdf#288#230"
+        },
+        {
+          "date": "2020-08-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Арт&Факт",
+          "url": "https://tvermuzeum.ru/collection/artifacts/2020/8/28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "По окончании жатвы в конце загона оставляли несжатым последний сноп",
+          "url": "https://www.kunstkamera.ru/files/lib/salmin/salmin_03.pdf#53#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Земные урожаи зависятъ отъ деятельности стихійных ду- ховъ",
+          "url": "https://www.booksite.ru/fulltext/afanas3/text2.pdf#90#72"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "При широком распространении выраже- ния «на козе» и наименования участка поля «козой» у славянских народов, в том числе у русски...",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1/pdf#8#4"
+        },
+        {
+          "date": "2023-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Разработка урока по ИЗО: методические материалы на Инфоурок - Под конец жатвы оставался один не убранный уголок поля, только на один сноп",
+          "url": "https://infourok.ru/razrabotka-uroka-po-izo-6443509.html#material-umk#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Жатвенная обрядность русских Пермского края - Обжинками могли называть как весь комплекс обрядовых действий, сопровождающих",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Блоги",
+          "url": "https://www.slavcentr.kz/index.php/blogs-menu/blogs/a/4240-Spozhinki.html#comments"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7218,
+      "query": "\"последний сноп\" \"молча\" называли \"ермак\" дух злаков",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки",
+          "url": "https://vladmuseum.ru/ru/data/ex224/"
+        },
+        {
+          "date": "2020-08-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Арт&Факт",
+          "url": "https://tvermuzeum.ru/collection/artifacts/2020/8/28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "При широком распространении выраже- ния «на козе» и наименования участка поля «козой» у славянских народов, в том числе у русски...",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1/pdf#8#4"
+        },
+        {
+          "date": "2023-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Разработка урока по ИЗО: методические материалы на Инфоурок - Под конец жатвы оставался один не убранный уголок поля, только на один сноп",
+          "url": "https://infourok.ru/razrabotka-uroka-po-izo-6443509.html#material-umk#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Жатвенная обрядность русских Пермского края - Обжинками могли называть как весь комплекс обрядовых действий, сопровождающих",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1#3"
+        },
+        {
+          "date": "2026-09-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Уважаемые жители Енисейска! Братья – славяне, поздравляем со Спожинками!",
+          "url": "http://eniseisk.ru/news/9232/10168/10294.html"
+        },
+        {
+          "date": "2021-01-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "План-конспект урока по изобразительному искусству для 6 класса №10: методические материалы на Инфоурок - Его убирали самым последним и обязательно молча, чтобы не спугнуть духа поля",
+          "url": "https://infourok.ru/plan-konspekt-uroka-po-izobrazitelnomu-iskusstvu-dlya-6-klassa-10-4938018.html#material-umk#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Выступление фольклорного ансамбля \"Светлица\" на празднике \"Последнего снопа\" в этнографическом музее",
+          "url": "https://ethnocrimea.ru/ru/publish/vystuplenie-folklornogo-ansamblja-svetlitsa-na-prazdnike-poslednego-snopa-v-etnograficheskom-muzee.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Блоги",
+          "url": "https://www.slavcentr.kz/index.php/blogs-menu/blogs/a/4240-Spozhinki.html#comments"
+        },
+        {
+          "date": "2014-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Спожинки",
+          "url": "https://naturehacks.livejournal.com/31060.html"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.8318,
+      "query": "\"последний сноп\" называли \"козой\" \"ермаком\" \"дедом\" жатва дух зерна регионы",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Русские (31) - С особым почитанием русские с глубокой древности относились к земле",
+          "url": "https://www.booksite.ru/fulltext/rus/sian/31.htm#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Православные отмечают Успение Богородицы",
+          "url": "http://dndz.tv/article-8810.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "колоход",
+          "url": "https://www.kolohod.narod.ru/rechi/rechi_zhatva.html"
+        },
+        {
+          "date": "2026-08-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Праздник 28 августа 2026 года — Урожайная пора: история и народные обычаи - +13° Киев +14° Варшава +23° Вашингтон",
+          "url": "https://ua.news/ru/ukraine/sviato-28-serpnia-obzhinki-istoriia-sviata-ta-narodni-zvichayi#1"
+        },
+        {
+          "date": "2008-08-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Жатва в славянской традиции",
+          "url": "https://www.slavtradition.com/nasledie/obryady/4805-zhatva-v-slavyanskoj-traditsii"
+        },
+        {
+          "date": "2019-09-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЖАТВА В СЛАВЯНСКОЙ ТРАДИЦИИ | Интересный контент в группе Страна Друзей живёт! в ОК (Одноклассники) - ЖАТВА В СЛАВЯНСКОЙ ТРАДИЦИИ",
+          "url": "https://ok.ru/group/52445526294687/topic/69893919973535#1"
+        },
+        {
+          "date": "2014-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Славянский праздник урожая - Зажинки и Спожинки",
+          "url": "https://jerabuwka.livejournal.com/37522.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Джеймс Фрэзер \"Золотая ветвь\" - отрывок из книги",
+          "url": "https://mar4586.narod.ru/animals/mammals/goat.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "При широком распространении выраже- ния «на козе» и наименования участка поля «козой» у славянских народов, в том числе у русски...",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1/pdf#8#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "не работали на своих полях: «То по воскресеньям то по майне- ким правиникам: «Споконн день",
+          "url": "http://permsc.ru/images/%d0%98%d0%93%d0%98_%d0%a3%d1%80%d0%9e_%d0%a0%d0%90%d0%9d/%d0%98%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f/%d0%ad%d1%82%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/Chernykh_A_V_Russkiy_kalendar_v_Prikamye_Chast1_Vesna_leto_osen.pdf#82#71"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7221,
+      "query": "\"вместилище духа\" последний сноп жатва называли",
+      "results": [
+        {
+          "date": "2021-08-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 28 августа • С Успенья солнце засыпает. • До... | Интересный контент в группе УНИВЕРСАЛЬНАЯ копилочка - «Дожили, дожили, Госпожинки встретили, Каравая почали, Толокна проведали, Гостей угостили, Богу помолили",
+          "url": "https://ok.ru/group52365779533891/topic/153162508444483#2"
+        },
+        {
+          "date": "2022-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "🍃 НАРОДНЫЕ ПРИМЕТЫ НА 28 АВГУСТА 🍃 1. Теплая погода в этот... | Интересный контент в группе УНИВЕРСАЛЬНАЯ копилочка - Торжество начиналось прямо в поле, где специально до этого дня оставлялась небольшая хлебная делянка – ровно на один последний с...",
+          "url": "https://ok.ru/group52365779533891/topic/154226147173187#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вместилище духа. История трепанации в разных культурах",
+          "url": "https://istina.ipmnet.ru/publications/book/618665181/"
+        },
+        {
+          "date": "2020-08-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Иттарма - вместилище духа",
+          "url": "https://sibshaman.forum2x2.com/t1577-%D0%98%D1%82%D1%82%D0%B0%D1%80%D0%BC%D0%B0-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D0%B4%D1%83%D1%85%D0%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Карта словосочетания ВМЕСТИЛИЩЕ ДУХА",
+          "url": "https://kartaslov.ru/%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5+%D0%B4%D1%83%D1%85%D0%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "КАТАЛОГ КНИГ :: культура повседневности :: Вместилище духа. История треапанации в разных культурах",
+          "url": "https://wordorder.ru/catalog-ru/kulturologiya-mezhdisciplinarnye-issledovaniya/vmestilische-duha.-istoriya-treapanacii-v-raznyh-kulturah/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мария Медникова. Вместилище духа. История трепанации в разных культурах (fb2) - Вместилище духа. История трепанации в разных культурах [Мария Медникова] (fb2)",
+          "url": "https://coollib.net/b/657590-mariya-mednikova-vmestilische-duha-istoriya-trepanatsii-v-raznyih-kulturah#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Предложения со словосочетанием ВМЕСТИЛИЩЕ ДУХА - Предложения со словосочетанием «вместилище духа»",
+          "url": "https://Kartaslov.ru/%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D1%81%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC/%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5+%D0%B4%D1%83%D1%85%D0%B0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вместилище духа",
+          "url": "https://drako.games/entity/item/79878.html#cP=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вместилище духа: История трепанации в разных культурах",
+          "url": "https://bakubookcenter.az/tarix-15/vmestilishche-duxa-istoriya-trepanatsii-v-raznyx-kulturax-72434"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.7086,
+      "query": "последний сноп \"ермак\" название дожинки",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "проса и других зерновых культур, а также заготовка семян на будущий сезон",
+          "url": "http://cbs-kurgan.com/uploads/userfiles/elektronnaya_biblioteka/Семейно-бытовая%20обрядность%20белорусов%20Зауралья.pdf#62#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Коми готовятся отметить праздник сбора урожая",
+          "url": "http://www.severinform.ru/?page=newsfull&date=13-09-2009&newsid=99460"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки — Мегаэнциклопедия Кирилла и Мефодия — статья",
+          "url": "https://megabook.ru/article/%d0%94%d0%be%d0%b6%d0%b8%d0%bd%d0%ba%d0%b8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сноп в дом, тороканы вон",
+          "url": "https://xn--80adde1afcudb3d.xn--p1ai/fund/snop-v-dom-torokany-von_15506/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки",
+          "url": "https://vladmuseum.ru/ru/data/ex224/"
+        },
+        {
+          "date": "2009-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Белорусы Коми отметят праздник сбора урожая",
+          "url": "http://rss.komiinform.ru/news/58722#to-comms"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки",
+          "url": "http://bse.info-spravka.ru/bse/id_26375"
+        },
+        {
+          "date": "2020-09-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Медиа-гид заинтересовался мордовской культурой",
+          "url": "https://rcrkoo.ru/archives/7758"
+        },
+        {
+          "date": "2016-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народный праздник \"Дожинки\" отметят в Нижнем Новгороде на Щелоковском хуторе 25 сентября",
+          "url": "https://nta-pfo.ru/news/culture/2016/news_555254/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Сценарий внеклассное мероприятие «Осень – сноп последний косим»**",
+          "url": "http://zavsch-kp.ru/data/documents/Osen-snop-posledniy-kosim.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 56704,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 39861,
+    "iterations": [],
+    "output_tokens": 2451,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

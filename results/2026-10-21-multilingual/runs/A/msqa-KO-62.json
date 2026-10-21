@@ -1,0 +1,109 @@
+{
+  "answer": "**답: 음력 5월 3일입니다.** 강릉단오제 영신제는 이날 영신행차와 함께 열리고, 신목을 남대천 굿당에 모십니다.\n\n- 2026년 기준으로는 양력 6월 17일(수) 무렵으로 보입니다. 이 날짜는 제가 추정한 값입니다. 같은 일정표에서 6월 17일에 문굿이 있고, 조전제는 6월 18일입니다. 영신제의 양력 날짜와 시각이 직접 적힌 자료는 찾지 못했습니다.\n- 2026 강릉단오제는 6월 15일부터 22일까지 8일간 열렸고, 지금은 이미 끝났습니다.\n- 정확한 시각은 강릉단오제위원회(033-651-1593)에 확인하시기 바랍니다.\n\nSources:\n- [강릉단오제위원회 프로그램 안내](https://www.danojefestival.or.kr/kor/gdfestival/program_view.html?sd_idx=3)\n- [강릉단오제위원회 프로그램 안내 (sd_idx=4)](https://www.danojefestival.or.kr/kor/gdfestival/program_view.html?sd_idx=4)\n- [텔트립: 2026 강릉단오제 안내](https://www.telltrip.com/festival/gangneung-danoje-2026-festival-announced/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 28.65,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0241214,
+      "inputTokens": 27879,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2667,
+      "provider": "firstParty",
+      "thinkingTokens": 1032,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4711,
+      "cacheReadInputTokens": 12207,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.028846700000000003,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 877,
+      "provider": "firstParty",
+      "thinkingTokens": 200,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-62",
+  "raw": "jsonl/A/msqa-KO-62.jsonl",
+  "reported_cost_usd": 0.052968100000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "강릉단오제 영신제 일정 언제",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_018uNjwRdERXuAR7gv94Cgsj"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "강릉단오제 영신제 음력 5월 3일 영신행차 조전제 2026 일정표",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014ky7cK8BTKLouYkdWJe21E"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4711,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4711,
+    "cache_read_input_tokens": 12207,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1693,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1693,
+        "cache_read_input_tokens": 5469,
+        "input_tokens": 2,
+        "output_tokens": 483,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 877,
+    "output_tokens_details": {
+      "thinking_tokens": 200
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

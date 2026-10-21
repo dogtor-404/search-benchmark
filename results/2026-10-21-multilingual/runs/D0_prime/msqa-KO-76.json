@@ -1,0 +1,62 @@
+{
+  "answer": "계례(笄禮)의 주례(主禮)는 전통적으로 **어머니(母親)**입니다.\n\n계례는 여자의 성년례(成年禮)로, 어머니가 주례를 맡아 딸의 머리를 올려 비녀를 꽂아 주는 의식입니다. 남자의 관례(冠禮)와 달리 여성의 의식이므로 여성이 주관했으며, 어머니가 여의치 않으면 덕망 있는 여성 어른(친족 중의 여성 장자)이 대신했습니다.\n\n이상은 제가 알고 있는 지식을 바탕으로 한 답변이며, 인터넷 검색 없이 기억으로 답한 것입니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.116,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.045672,
+      "inputTokens": 2033,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1877,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-76",
+  "raw": "jsonl/D0_prime/msqa-KO-76.jsonl",
+  "reported_cost_usd": 0.045672,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2033,
+    "iterations": [],
+    "output_tokens": 1877,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

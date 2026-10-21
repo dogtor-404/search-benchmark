@@ -1,0 +1,7 @@
+{
+  "finished_at": "2026-10-21T00:23:56.248167+00:00",
+  "run_sha256": "03f2ab6fcaa502e292eb2e8c564e132ab49eee9e7b38962b0a88a59a39fefe26",
+  "started_at": "2026-10-21T00:22:42.113175+00:00",
+  "status": "failed",
+  "workers": 4
+}

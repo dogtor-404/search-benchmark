@@ -1,0 +1,156 @@
+{
+  "answer": "用了 1 次搜索。\n\n**答案：awasca（也写作 ahuasca、awasqa、abasca）**，是一种粗而厚的家常布。在安第斯高地，它用骆驼科动物的羊毛织成，通常说的是美洲驼毛。另一种布叫 cumbi（qompi），是精细的高级布料，只给贵族和国家用。\n\n依据：\n- https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf ：引用 Murra 的说法，西班牙人把印加布料简单分成两类：家常的 *ahuasca* 和用专门织机织的精细 *cumbi*。\n- http://museo.umss.edu.bo/wp-content/uploads/2024/04/Arqueoantropologica-N8-2023.pdf ：给 ahuasca 的定义是\"tejido corriente y grueso\"（普通的粗布）。\n- https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf （Cobo 的《Historia del Nuevo Mundo》）：只有海岸一带的人穿棉布，高地（Sierra）的人穿毛料衣服。\n- https://fido.palermo.edu/servicios_dyc/proyectograduacion/archivos/1685.pdf ：好的纤维（骆马毛）留给贵族，粗的分给平民。\n\n说明：这几处摘要都说平民穿粗毛布，但没有一处直接写明\"美洲驼毛\"。上面那份巴勒莫大学的资料说分给平民的是原驼毛。\"用美洲驼毛\"是常见的说法，我这次没有找到来源证实。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.818,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 15375,
+      "cacheReadInputTokens": 5866,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1414492,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 863,
+      "provider": "firstParty",
+      "thinkingTokens": 185,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-34",
+  "raw": "jsonl/B_prime/msqa-ES-34.jsonl",
+  "reported_cost_usd": 0.1414492,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6844,
+      "query": "tejidos incas awasca tela clases bajas tierras altas lana de llama",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "copiados en cerámica” (Milla, 2007)",
+          "url": "https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf?sequence=1&isAllowed=y#27#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Todos los habitantes del Tahuantinsuyo, desde el más humilde campesino que cumplía con la prestación de servicios a su curaca, h...",
+          "url": "https://bibliotecadigital.ciren.cl/server/api/core/bitstreams/f9866de6-15aa-434a-9cdd-63814ec742c0/content#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No recibe tan bien el tinte el algodón como la lana; porque, puesto caso que cuando nuevo tiene los colores vi- vos, con el uso ...",
+          "url": "https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf#28#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TRES MILENIOS DE TEXTILES + 4",
+          "url": "http://www.musef.org.bo/opac-tmpl/css/es/musef/archivos/Textiles.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dniowym wybrzeżu Peru (Wheeler i in",
+          "url": "https://wz.iz.edu.pl/files/WZ_2021_1-2_art07.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En cuanto a las fibras de origen animal, aprovechaban una mayor variedad, pero las más utilizadas, y sobre todo en la sierra, fu...",
+          "url": "https://fido.palermo.edu/servicios_dyc/proyectograduacion/archivos/1685.pdf#13#6"
+        },
+        {
+          "date": "2024-11-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AWASQA",
+          "url": "https://oamonitor.ireland.openaire.eu/national/search/project?projectId=anr_________::5740d5d2b71ff9df357d4d0dcf91ae09"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "al principio, al centro y al final, con tres consonantes que al urdir a textura",
+          "url": "https://revistas.udenar.edu.co/index.php/rawasca/article/download/2500/2827#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "221 De grande qualité, le cumpi était un type de tissu réservé à l’élite incaïque pour la confection de vêtements,",
+          "url": "https://serval.unil.ch/resource/serval:BIB_61191E671028.P002/REF.pdf#129#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "-  Yten tengo una cama de red",
+          "url": "http://museo.umss.edu.bo/wp-content/uploads/2024/04/Arqueoantropologica-N8-2023.pdf#57#33"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 15375,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15375,
+    "cache_read_input_tokens": 5866,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13517,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13517,
+        "cache_read_input_tokens": 3862,
+        "input_tokens": 2,
+        "output_tokens": 720,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 863,
+    "output_tokens_details": {
+      "thinking_tokens": 185
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

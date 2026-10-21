@@ -1,0 +1,100 @@
+{
+  "answer": "**答え:女性語(女言葉・女ことば、ローマ字では joseigo)**\n\n女性語は、主に女性が使う語彙や言い回しのことです。男性が使うと不自然に聞こえるとされます。検索結果では、室町時代の女房詞(女房言葉)に丁寧な表現が多かったとされています。ただし「男性語より柔らかく丁寧」という点を直接述べた資料は、今回の検索では見つかりませんでした。\n\nSources:\n- [Gender differences in spoken Japanese (Wikipedia 保存ページ)](https://static.hlt.bme.hu/semantics/external/pages/kínaiul_való_olvasás/en.wikipedia.org/wiki/Gender_differences_in_spoken_Japanese.html)\n- [Japanese Language Wiki: Gender Differences in Spoken Japanese](https://japanese.fandom.com/wiki/Gender_Differences_in_Spoken_Japanese)\n- [female language (Japanese with Anime)](https://www.japanesewithanime.com/2019/06/female-language.html?m=1)\n- [名古屋大学 博士論文要旨](https://www.lang.nagoya-u.ac.jp/bugai/kokugen/nichigen/achievment/pdf/doctor/17.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.374,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119442,
+      "inputTokens": 12182,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1452,
+      "provider": "firstParty",
+      "thinkingTokens": 513,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3297,
+      "cacheReadInputTokens": 6766,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0193626,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 549,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-36",
+  "raw": "jsonl/A/msqa-JA-36.jsonl",
+  "reported_cost_usd": 0.031306799999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "女性語 日本語 女性が伝統的に使う 男性語より柔らかく丁寧",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NHiRCAACb6a1uwr6ZmicNG"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3297,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3297,
+    "cache_read_input_tokens": 6766,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1433,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1433,
+        "cache_read_input_tokens": 4315,
+        "input_tokens": 2,
+        "output_tokens": 446,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 549,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

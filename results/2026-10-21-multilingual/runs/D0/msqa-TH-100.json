@@ -1,0 +1,62 @@
+{
+  "answer": "**《มหาชาติคำหลวง》（Mahachat Kham Luang，玛哈差故事“御译”）**——这是泰语文学中最早使用**ฉันท์（禅体）**格律的作品，大约成书于阿瑜陀耶王朝**波隆摩戴洛迦纳王（Borommatrailokkanat）**在位期间，即 15 世纪后半期（约 พ.ศ. 2025 前后）。\n\n补充说明：\n\n- ฉันท์ 是泰语从梵语、巴利语诗律中借入的格律，此前泰语诗歌主要用โคลง、กาพย์、ร่าย等。\n- 《มหาชาติคำหลวง》是集体编纂的，其中各“กัณฑ์”（章节）用了多种格律，ฉันท์即出现在这部作品里，所以教科书通常把它作为“泰国第一部ฉันท์体文学作品”的答案。\n- 更具体的“哪一กัณฑ์最先用ฉันท์”，以及“第一部通篇用ฉันท์的独立作品”，我不敢确定，凭记忆说不准；若需要精确到章节，应当查证。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.267,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.031580000000000004,
+      "inputTokens": 1970,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1185,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-100",
+  "raw": "jsonl/D0/msqa-TH-100.jsonl",
+  "reported_cost_usd": 0.031580000000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1970,
+    "iterations": [],
+    "output_tokens": 1185,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

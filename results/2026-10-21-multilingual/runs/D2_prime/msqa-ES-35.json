@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：1797 年**（最终完工，包括开挖壕沟/护城河和修筑隐蔽通道）。\n\n依据：\n\n- 维基百科「Murallas de La Habana」：Construction 标注为 **1674–1797** — https://es.wikipedia.org/wiki/Murallas_de_La_Habana\n- Juventud Rebelde《Defensas habaneras (III y final)》:「Tardaron exactamente 123 años en construirse, desde el 3 de febrero de 1674 hasta **1797**」— https://www.juventudrebelde.cu/index.php/columnas/lecturas/2024-12-07/defensas-habaneras-iii-y-final\n- Granma《Trabajan en la recuperación de la Muralla》: 建造总过程「culmina en **1797**, cuando se hacen algunos fosos」— https://www.granma.cu/la-habana-en-sus-500/2018-08-24/trabajan-en-la-recuperacion-de-la-muralla-un-legado-de-la-habana-24-08-2018-12-08-59\n\n说明：虽然陆地城墙在 1690 年代后期就已闭合、到 1740 年闭合了全城，但整个城防工程（连同壕沟、隐蔽通道等）的**最终完工**是在 **1797 年**。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.591,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06914239999999999,
+      "inputTokens": 13719,
+      "maxOutputTokens": 32000,
+      "outputTokens": 689,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-35",
+  "raw": "jsonl/D2_prime/msqa-ES-35.jsonl",
+  "reported_cost_usd": 0.06914239999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8189,
+      "query": "Muralla de La Habana construcción 1674 terminada definitivamente fecha",
+      "results": [
+        {
+          "date": "2018-08-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Trabajan en la recuperación de la Muralla, un legado de La Habana",
+          "url": "https://www.granma.cu/la-habana-en-sus-500/2018-08-24/trabajan-en-la-recuperacion-de-la-muralla-un-legado-de-la-habana-24-08-2018-12-08-59"
+        },
+        {
+          "date": "2026-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Murallas de La Habana - Wikipedia, la enciclopedia libre - Murallas de La Habana",
+          "url": "https://es.wikipedia.org/wiki/Murallas_de_La_Habana#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Habana Vieja - Obra del ingeniero Marco Lucio, es un perfecto cilindro de mampostería en tres niveles con aspilleras en el perímetro de su nive...",
+          "url": "http://www.ecured.cu/index.php?title=Habana_Vieja&oldid=106049#3"
+        },
+        {
+          "date": "2019-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "De cuando La Habana fue amurallada - Cubaperiodistas",
+          "url": "https://www.cubaperiodistas.cu/2019/01/de-cuando-la-habana-fue-amurallada/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "falta de fondos",
+          "url": "https://repositorio.unphu.edu.do:443/bitstream/handle/123456789/5610/Historia%20de%20la%20construcci%c3%b3n%20%281%29.pdf?sequence=4&isAllowed=y#166#6"
+        },
+        {
+          "date": "2022-12-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Las Murallas",
+          "url": "http://www.cubadebate.cu/especiales/2022/12/31/las-murallas/print/"
+        },
+        {
+          "date": "2018-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Muralha de mar, um legado de Havana",
+          "url": "https://pt.granma.cu/cuba/2018-08-23/muralha-de-mar-um-legado-de-havana"
+        },
+        {
+          "date": "2024-12-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Defensas habaneras (III y final) - Juventud Rebelde - Diario de la Juventud Cubana",
+          "url": "https://www.juventudrebelde.cu/index.php/columnas/lecturas/2024-12-07/defensas-habaneras-iii-y-final#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "23",
+          "url": "https://coleccionesdigitales.ohc.cu/download/files/original/708bb02ec39cbe68fcc0a4d49e565a60fd876e40.pdf#2#1"
+        },
+        {
+          "date": "2017-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cómo se derribaron las murallas - Juventud Rebelde - Diario de la Juventud Cubana",
+          "url": "https://juventudrebelde.cu/index.php/columnas/lecturas/2017-12-23/como-se-derribaron-las-murallas#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6975,
+      "query": "Havana city wall construction finished date 1674 muralla",
+      "results": [
+        {
+          "date": "2026-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Havana City Walls",
+          "url": "https://www.wikidata.org/wiki/Q138638873"
+        },
+        {
+          "date": "2018-08-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Trabajan en la recuperación de la Muralla, un legado de La Habana",
+          "url": "https://www.granma.cu/la-habana-en-sus-500/2018-08-24/trabajan-en-la-recuperacion-de-la-muralla-un-legado-de-la-habana-24-08-2018-12-08-59"
+        },
+        {
+          "date": "2018-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Muralha de mar, um legado de Havana",
+          "url": "https://pt.granma.cu/cuba/2018-08-23/muralha-de-mar-um-legado-de-havana"
+        },
+        {
+          "date": "2026-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Murallas de La Habana - Wikipedia, la enciclopedia libre - Murallas de La Habana",
+          "url": "https://es.wikipedia.org/wiki/Murallas_de_La_Habana#1"
+        },
+        {
+          "date": "2003-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La Habana - Wikipedia, la enciclopedia libre - Durante la colonia se trajeron las grandes riquezas de la América Española que conectaban a través de La Habana como un punto de...",
+          "url": "https://es.wikipedia.org/wiki/?title=La_Habana&oldid=133088553#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "falta de fondos",
+          "url": "https://repositorio.unphu.edu.do:443/bitstream/handle/123456789/5610/Historia%20de%20la%20construcci%c3%b3n%20%281%29.pdf?sequence=4&isAllowed=y#166#6"
+        },
+        {
+          "date": "2018-08-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Trabajan en la recuperación de la Muralla, un legado de La Habana - Trabajan en la recuperación de la Muralla, un legado de La Habana",
+          "url": "https://misiones.cubaminrex.cu/es/articulo/trabajan-en-la-recuperacion-de-la-muralla-un-legado-de-la-habana#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Habana Vieja - Obra del ingeniero Marco Lucio, es un perfecto cilindro de mampostería en tres niveles con aspilleras en el perímetro de su nive...",
+          "url": "http://www.ecured.cu/index.php?title=Habana_Vieja&oldid=106049#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Habana Vieja - - Las murallas de tierra y de mar de La Habana (1674 ca",
+          "url": "http://www.ecured.cu/index.php?title=Habana_Vieja&oldid=1412866#2"
+        },
+        {
+          "date": "2019-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "De cuando La Habana fue amurallada - Cubaperiodistas",
+          "url": "https://www.cubaperiodistas.cu/2019/01/de-cuando-la-habana-fue-amurallada/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13719,
+    "iterations": [],
+    "output_tokens": 689,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

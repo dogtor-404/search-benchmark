@@ -1,0 +1,74 @@
+{
+  "answer": "我不能确定，只能给出一个推测：**トックリコロガシ**（徳利転がし）。\n\n我不记得有资料明确把西三河的这个婚约仪式叫这个名字，这个答案主要是从“喝完把徳利转倒”的动作推出来的。各地对订婚酒还有别的叫法，比如“キメザケ”（決め酒）、“タルイレ”（樽入れ）一类，但我同样不能确认西三河用的是哪个。如果要当标准答案用，请查爱知县的民俗资料（比如《愛知県史 別編 民俗》里三河部分讲婚姻习俗的章节）再核对。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.254,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1814,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0231336,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 415,
+      "provider": "firstParty",
+      "thinkingTokens": 193,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-78",
+  "raw": "jsonl/0_prime/msqa-JA-78.jsonl",
+  "reported_cost_usd": 0.0231336,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1814,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1814,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1814,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1814,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 415,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 415,
+    "output_tokens_details": {
+      "thinking_tokens": 193
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

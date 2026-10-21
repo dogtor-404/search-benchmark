@@ -1,0 +1,469 @@
+{
+  "answer": "答案：**イキミタマ（生き御霊）**。\n\n在日语里，出嫁的子女带着做菜用的食材回娘家，亲手做饭给仍然健在的父母吃，这种孝亲做法就称为“生き御霊”，也就是双亲在世时进行的“生前供养”；据说它也是后来“お盆の里帰り”（盂兰盆节回娘家）这一习俗的由来。\n\n依据网址：https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/hakubutsukan/1042540/1042555/1042749.html （茅ヶ崎市官方サイト「イキミタマって何のこと？」）",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "嫁いだ娘 正月 実家 食材 持参 料理 両親 食べさせる 風習 名前",
+      "results": [],
+      "status": "budget_exhausted"
+    }
+  ],
+  "elapsed_seconds": 20.281,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 66176,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.2423472,
+      "inputTokens": 46848,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2086,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-54",
+  "raw": "jsonl/D2/msqa-JA-54.jsonl",
+  "reported_cost_usd": 0.2423472,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7622,
+      "query": "お嫁に出た子どもたちが料理の材料を持って里帰り 親に料理を作る 何と言う",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "母の想いは、時代を越えて。",
+          "url": "https://www.city.iwaki.lg.jp/www/contents/1459400926950/files/008.pdf#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "七塚町ではチョウハイと呼ばれる里帰りが行われていた",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登半島における嫁の里帰り慣行",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#1"
+        },
+        {
+          "date": "2019-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "俺「素麺、嫌いなの？」子供「父の素麺は普通に好きだけど、母の素麺は嫌い」 : 男性様｜気団・生活2chまとめブログ",
+          "url": "https://danseisama.com/archives/18590332.html"
+        },
+        {
+          "date": "2019-08-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『卒業生の里帰り』",
+          "url": "https://ameblo.jp/noguchiryouri/entry-12506333824.html?frm=theme"
+        },
+        {
+          "date": "2025-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「まあ、仕方ないか」と思えた娘の家での話｜ぽんずママ",
+          "url": "https://note.com/ponz_mama_60/n/n4aefc483fc49"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>4月8日 (5月8日の地区が多い)</td><td>5月5日</td></tr><tr><td>花祭り 釈迦の誕生日</td><td>端午の節句・ショウブの節句 6月中旬や6月5日に行う地区もある</td></tr><tr><...",
+          "url": "http://takamori-tokinoeki.com/pdf/nenchugyoji.pdf#15#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "サギジュー（提重）とは婿方が嫁の実家へ持って行くお重である",
+          "url": "https://www.tohoku-gakuin.ac.jp/research/journal/bk2021/pdf/history64_01.pdf#37#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "独立した子供が帰ってくる時 - フリートーク（料理・健康）",
+          "url": "https://www.toku-chi.com/pages/bbs/topic_detail.htm?id=9969052&listCount=50&page=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10 中国の一部の地域では、出産規定人数を出産した女性は輪卵管結紮手術を行うことが義務づけられてい",
+          "url": "https://kanazawa-u.repo.nii.ac.jp/record/34591/files/21510257kadai-HORIE-M-120-151.pdf#6#7#6"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7987,
+      "query": "嫁いだ娘 実家 食材 持参 料理 食べさせる 風習 言葉",
+      "results": [
+        {
+          "date": "2017-08-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "嫁実家に行くと山盛りのご飯と料理を出される。嫁が「夫はあまりご飯食べない」って義父母に言ったら・・・",
+          "url": "https://oniyomech.livedoor.biz/archives/50519163.html"
+        },
+        {
+          "date": "2019-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "自分の実家に帰った時…そこに住んでる嫁は皆の食事を用意するのは|ママスタコミュニティ",
+          "url": "https://mamastar.jp/bbs/topic/3420364?startCommentNo=1&sortType=old"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "K家は1年目までやったという",
+          "url": "https://k-rain.repo.nii.ac.jp/record/1606/files/higashiajia_04_011.pdf#4#3"
+        },
+        {
+          "date": "2013-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "お義母さんが「嫁は婚家で食事なんてするものではない」とおっしゃったので",
+          "url": "https://oniyomech.livedoor.biz/archives/30736192.html"
+        },
+        {
+          "date": "2026-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【ブチ切れ】結婚生活が落ち着いてきたので、ウトメを夕食に招待した。野菜やら肉を持参していてお土産かと思ったら… : 鬼女梅‐育児・ママ友・義実家・生活まとめ‐",
+          "url": "https://kijoume.blog.jp/archives/46385218.html"
+        },
+        {
+          "date": "2019-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "自分の実家に帰った時…そこに住んでる嫁は皆の食事を用意するのは|ママの交流掲示板|ママスタコミュニティ",
+          "url": "https://mamastar.jp/bbs/topic/3420364?startCommentNo=16&sortType=new"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1、过年嫁出去的女儿回“家”，会把“家吃穷，因此只能在初二或者初三回“家”，但是其中的含意是嫁去的女儿已经是别人家的媳妇了，过年婆家一定有很多人来拜年，媳妇要帮忙奉茶服侍，因此初一不可以回“家”",
+          "url": "https://soar-ir.repo.nii.ac.jp/record/19681/files/Humanities_52_07.pdf#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「老+ 夫姓+ 儿」は実家の一世代上か、同世代の年長者が嫁いていった娘に使う呼称である",
+          "url": "https://ypir.lib.yamaguchi-u.ac.jp/yp/1000/files/165950#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30）-n日本語訳：いちばん良いのは遠方になんか嫁がないことで、結婚前夫は一カ月に一度実家に帰ろうと言っていたけど、実際には結婚後実家に帰る回数はだんだん少なくなり、夫が頻繁に実家に帰りたがらないのは理由の一つでしたなく、経済状況が良くないと私自身までもが...",
+          "url": "https://soar-ir.repo.nii.ac.jp/record/19681/files/Humanities_52_07.pdf#5#5"
+        },
+        {
+          "date": "2025-09-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "嫁の実家に行くと朝から山盛りのご飯と料理を出される。嫁が「俺さんはあまり食べれないって言ってるのに」と言っても「男なのにだらしない」と叱られ、残した分も持たされ : 鬼女梅‐育児・ママ友・義実家・生活まとめ‐ - 嫁の実家に行くと朝から山盛りのご飯と料理を出される。嫁が「俺さんはあまり食べれないって言ってるのに」と言っても「男なのにだらしない」と叱られ、残した分も持たされ",
+          "url": "https://kijoume.blog.jp/archives/45124800.html#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7244,
+      "query": "\"材料を持って\" 里帰り 親に料理 \"何と言う\" 嫁",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "L: この時は(はい), 韓国の草もあるし(うん, うん, うん), 韓国の花もあるし(はい), いらんな[色んな] ものが田んぼの**にあった, あ, これ韓国もある, 今食べるのもので(うん, うん), 喜んで(うん), 山 へ走ったり(ふーん), 山...",
+          "url": "https://mmsrv.ninjal.ac.jp/judan_db/bunsan/4nenme/d010.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ードニゾ ナカヨー クラシトクレヤス",
+          "url": "https://ir.lib.hiroshima-u.ac.jp/18851/files/20671#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "七塚町ではチョウハイと呼ばれる里帰りが行われていた",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "能登半島における嫁の里帰り慣行",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "お悩み相談室 | ピジョンインフォ",
+          "url": "https://pigeon.info/soudan/soudan.cgi?mmd_question_id=14828&order=2&order=1#ans"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "奥会津一山間農村の嫁の里帰り慣行に関する考察",
+          "url": "https://core.ac.uk/download/291351689.pdf#3#1"
+        },
+        {
+          "date": "2025-05-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "里帰り出産した場合、お礼は必要？ 相場や品物の渡し方を解説 | HugKum（はぐくむ）",
+          "url": "https://hugkum.sho.jp/118291#i-2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "息 取 県 岩 美 郡 岩 美 町",
+          "url": "https://ir.lib.hiroshima-u.ac.jp/18856/files/20712#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "サギジュー（提重）とは婿方が嫁の実家へ持って行くお重である",
+          "url": "https://www.tohoku-gakuin.ac.jp/research/journal/bk2021/pdf/history64_01.pdf#37#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "回って",
+          "url": "https://repository.ninjal.ac.jp/record/2286/files/kksrc_010-01.pdf#43#40"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7241,
+      "query": "嫁に出た娘 食材を持って帰省 親に手料理 振る舞う 習慣 名称",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 薄洗い | 伊島，山口などでは婚礼の翌日（婚礼が数日続いた場合は最後の日）に手伝ってくれた近所や親戚を酒肴でもてなした",
+          "url": "https://library.bunmori.tokushima.jp/digital/webkiyou/60/151-156.pdf#2#2"
+        },
+        {
+          "date": "2016-08-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "集う幸せ☆日本のお盆",
+          "url": "https://www.koshi-shakyo.or.jp/konomiblog/2016/08/17/post_304/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "七塚町ではチョウハイと呼ばれる里帰りが行われていた",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#2"
+        },
+        {
+          "date": "2019-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "自分の実家に帰った時…そこに住んでる嫁は皆の食事を用意するのは|ママスタコミュニティ",
+          "url": "https://mamastar.jp/bbs/topic/3420364?startCommentNo=1&sortType=old"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "サギジュー（提重）とは婿方が嫁の実家へ持って行くお重である",
+          "url": "https://www.tohoku-gakuin.ac.jp/research/journal/bk2021/pdf/history64_01.pdf#37#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「風俗志」にみえる贈答習俗についてみると，近代の農村社会においては，吉事，凶事，また嫁 （婿入りした場合は婚）の実家との関係も含めて，多くの贈答の機会があり，餅や赤飯，季節の野 菜や素麺，刺し蛸や飛魚の干物などおよそ決まったものが贈られ，もらった方の返礼も...",
+          "url": "https://rekihaku.repo.nii.ac.jp/record/2000437/files/kenkyuhokoku_255_09.pdf#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "K家は1年目までやったという",
+          "url": "https://k-rain.repo.nii.ac.jp/record/1606/files/higashiajia_04_011.pdf#4#3"
+        },
+        {
+          "date": "2019-12-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【お悩み解決掲示板】義理の実家に帰省する時に手料理を持ち寄る風習があるようです。お正月やお盆に義理の姉や、旦那...",
+          "url": "https://onayamifree.com/viewthread/2962358/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "金川中の生徒が手料理を母に振る舞う",
+          "url": "https://www.joho.tagawa.fukuoka.jp/kiji0033223/3_3223_1_up_1B7ZPXN8.pdf#1#1"
+        },
+        {
+          "date": "2025-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "帰省の時、私たちが持参した果物とかオードブルの余りを弟家族が持って帰るのがいや|ママスタコミュニティ",
+          "url": "https://mamastar.jp/bbs/topic/4574034?sortType=old&startCommentNo=197&page=1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.7363,
+      "query": "\"材料を持って里帰り\" 料理 親",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "イキミタマって何のこと？｜茅ヶ崎市",
+          "url": "https://www.city.chigasaki.kanagawa.jp/bunka_rekishi/hakubutsukan/1042540/1042555/1042749.html"
+        },
+        {
+          "date": "2003-08-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "たまには親孝行したい - OKWAVE",
+          "url": "https://Okwave.jp/qa/q617452/a1930600.html"
+        },
+        {
+          "date": "2010-04-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "お土産を持って帰りました : Mikageマダムの夕食レシピ - ・・・時間と気持ちにゆとりがある時のメニュー・・・",
+          "url": "http://blog.livedoor.jp/mikage_madam/archives/18455206.html#comments#1"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "里帰り | 日日是好日",
+          "url": "https://ameblo.jp/pikipiki2839/entry-12982025714.html"
+        },
+        {
+          "date": "2026-05-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "五条まあさっちん『帰省したツインズにお惣菜持って帰らせるマザー』",
+          "url": "https://ameblo.jp/narumori/entry-12965441400.html"
+        },
+        {
+          "date": "2021-12-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "旦那さんの実家に帰省する際、料理を持参するか悩んでいます。ちらし寿司ケーキとローストビーフを考えていますが、他に良い料理の提案はありますか。 | ママリ | ママ向け情報アプリ",
+          "url": "https://qa.mamari.jp/question/14540015"
+        },
+        {
+          "date": "2024-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8月の遠距離介護の帰省 今回の食事と冷凍作り置き",
+          "url": "https://tokidokikaigo.com/8%e6%9c%88%e3%81%ae%e9%81%a0%e8%b7%9d%e9%9b%a2%e4%bb%8b%e8%ad%b7%e3%81%ae%e5%b8%b0%e7%9c%81%e3%80%80%e4%bb%8a%e5%9b%9e%e3%81%ae%e5%b8%b0%e7%9c%81%e3%81%94%e9%a3%af%e3%81%a8%e5%86%b7%e5%87%8d%e4%bd%9c/1358/#toc1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "七塚町ではチョウハイと呼ばれる里帰りが行われていた",
+          "url": "https://libir.josai.ac.jp:443/il/user_contents/02/G0000284repository/pdf/JOS-KJ00000589061.pdf#2#2"
+        },
+        {
+          "date": "2024-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハレの日料理★★★ by stacy001さん | レシピブログ - 料理ブログのレシピ満載！",
+          "url": "https://s.recipe-blog.jp/profile/4946/blog/13998452"
+        },
+        {
+          "date": "2026-01-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "実家へ届けるお料理作り#実家#作り置き#ひじきの煮物#かぶと金柑のなます#グリルチキン#ほうれん草の梅あえ#れんこんのきんぴら - 木漏れ日の散歩道",
+          "url": "https://komorebi-promenade.com/entry/20260127"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 66176,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 46848,
+    "iterations": [],
+    "output_tokens": 2086,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

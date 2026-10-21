@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 在中世纪的西班牙，基督教王国在“收复失地运动”（Reconquista）中夺回摩尔人控制的领土后，最早在这些地方建立了委托监护制（encomienda）。圣地亚哥、卡拉特拉瓦、阿尔坎塔拉等军事骑士团把收复的土地、收入和居民交给骑士（comendador）管理，骑士则负责守卫边境、组织移民定居。后来，这种制度被搬到了美洲殖民地。\n\n这次搜了 1 次。\n\n**依据：**\n- [Wikipedia – Encomienda](https://Www.Wikipedia.org/wiki/Encomienda)\n- [Hispanopedia – Encomendero](https://es.hispanopedia.com/wiki/Encomendero)\n- [World History Encyclopedia – Encomienda](https://www.worldhistory.org/trans/es/1-20877/encomienda/)\n- [Revista de la Facultad de Derecho de México (UNAM)](https://journals.unam.mx/index.php/rfdm/article/download/85706/79044/279568)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.645,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117916,
+      "inputTokens": 11956,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1192,
+      "provider": "firstParty",
+      "thinkingTokens": 303,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3354,
+      "cacheReadInputTokens": 6738,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.04303559999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 742,
+      "provider": "firstParty",
+      "thinkingTokens": 271,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-56",
+  "raw": "jsonl/A_prime/msqa-ES-56.jsonl",
+  "reported_cost_usd": 0.0548272,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "encomienda origen España Reconquista órdenes militares",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RgPP8ivbtFzamgiTbaVg9C"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3354,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3354,
+    "cache_read_input_tokens": 6738,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1518,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1518,
+        "cache_read_input_tokens": 4287,
+        "input_tokens": 2,
+        "output_tokens": 510,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 742,
+    "output_tokens_details": {
+      "thinking_tokens": 271
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** วัดวชิรธรรมสาธิตวรวิหาร (เดิมชื่อวัดทุ่งสาธิต) ตั้งอยู่ที่เขตพระโขนง กรุงเทพฯ\n\nข้อนี้เป็นการเรียกกันอย่างไม่เป็นทางการ เพราะยังไม่มีการประกาศวัดประจำรัชกาลที่ 10 อย่างเป็นทางการ ผู้คนเรียกวัดนี้เช่นนั้นเพราะรัชกาลที่ 9 โปรดเกล้าฯ ให้พระองค์ (ขณะทรงเป็นเจ้าฟ้าวชิราลงกรณ) ทรงรับวัดไว้ในพระอุปถัมภ์เมื่อ 9 กันยายน 2508 และพระราชทานนามวัดใหม่ พระองค์ทรงมีพระมหากรุณาต่อวัดนี้ต่อเนื่องมาจนเสด็จขึ้นครองราชย์\n\nบทความของ Komchadluek อ้างวิกิพีเดียว่าวัดประจำรัชกาลมักยึดตามที่บรรจุพระบรมราชสรีรางคาร ซึ่งรัชกาลที่ 10 ยังไม่มี จึงเป็นเรื่องที่ยังไม่ตายตัว\n\n**แหล่งอ้างอิง:**\n- Thai PBS NOW: https://www.thaipbs.or.th/now/content/3690\n- สำนักงานปลัดสำนักนายกรัฐมนตรี (ops.go.th) ซึ่งระบุว่าประชาชนขนานนามวัดนี้เป็นวัดประจำรัชกาลที่ ๑๐ อย่างไม่เป็นทางการ: https://www.ops.go.th/en/539-celebration-on-the-auspicious-of-his-majesty-the-king-s/documentary-honor/10285-2024-05-16-02-52-04\n- MGR Online: https://mgronline.com/travel/detail/9620000044990\n- Komchadluek: https://www.komchadluek.net/scoop/492115\n\nใช้การค้นหาไป 1 ครั้งจากที่อนุญาต 5 ครั้ง",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.06,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 15321,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0708571,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 898,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-96",
+  "raw": "jsonl/B/msqa-TH-96.jsonl",
+  "reported_cost_usd": 0.0708571,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8332,
+      "query": "วัดประจำรัชกาลที่ 10 วัดประจำรัชกาล",
+      "results": [
+        {
+          "date": "2026-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เที่ยววัด-ไหว้พระ-รับพร กับวัดประจำรัชกาล 10 รัชกาล | Thai PBS NOW",
+          "url": "https://www.thaipbs.or.th/now/content/3690"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดประจำรัชกาล",
+          "url": "https://bangriang.go.th/news/detail/397163/success"
+        },
+        {
+          "date": "2021-11-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เปิดประวัติ \"วัดประจำรัชกาล\" 1-10 แห่งราชวงศ์จักรี ศูนย์รวมจิตใจของคนไทย",
+          "url": "https://www.komchadluek.net/scoop/492115"
+        },
+        {
+          "date": "2019-05-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วิจิตรตระการตา \"วัดวชิรธรรมสาธิตวรวิหาร\" วัดในรัชกาลที่ ๑๐ - xs",
+          "url": "https://mgronline.com/travel/detail/9620000044990#1"
+        },
+        {
+          "date": "2021-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉玛一世到十世王在位期间的专属皇家佛寺",
+          "url": "https://th.hujiang.com/new/p1351858/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "องค์การบริหารส่วนตำบลจะโหนง จ.สงขลา (อบต.จะโหนง)",
+          "url": "http://chanong.go.th/news/detail/397163/#top"
+        },
+        {
+          "date": "2024-05-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“๗๒ พรรษา ธรรมราชา มหาวชิราลงกรณ” ตอนที่ ๕",
+          "url": "https://www.ops.go.th/en/539-celebration-on-the-auspicious-of-his-majesty-the-king-s/documentary-honor/10285-2024-05-16-02-52-04"
+        },
+        {
+          "date": "2024-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รายการสารคดีเฉลิมพระเกียรติ “๗๒ พรรษา ธรรมราชา มหาวชิราลงกรณ”",
+          "url": "https://www.royaloffice.th/14/05/2024/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5-%e0%b8%98%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%b2-ep5/"
+        },
+        {
+          "date": "2021-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉玛一世到十世王在位期间的专属皇家佛寺 - 拉玛一世到十世王在位期间的专属皇家佛寺",
+          "url": "https://m.hujiang.com/th/p1351858/#1"
+        },
+        {
+          "date": "2017-01-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดประจำรัชกาล โดย ผศ.ดร.สมหมาย จันทร์เรือง - หน้าแรก คอลัมนิสต์ วัดประจำรัชกา",
+          "url": "https://www.matichon.co.th/columnists/news_420457#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 15321,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15321,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13478,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13478,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 813,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 898,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

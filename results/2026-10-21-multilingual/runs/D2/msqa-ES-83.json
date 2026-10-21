@@ -1,0 +1,144 @@
+{
+  "answer": "**Respuesta:** Entre los jóvenes españoles, **“molar”** es un verbo coloquial que significa **“gustar”, “resultar agradable o estupendo”**; se usa como sinónimo informal de *gustar*: «Me mola mucho esa chaqueta», «Este bar mola», «¡Cómo molan tus pantalones!». Expresa, por tanto, **agrado o aprobación entusiasta hacia algo** (un plan, una idea, una cosa), y aplicado a una persona puede indicar **atracción o interés romántico**. Es una palabra muy informal, propia del registro juvenil; se intensifica con *mazo* o *mogollón* («mola mazo», «mola mogollón»). La RAE la recoge como coloquial, con posible origen en el caló.\n\n**Fuentes:**\n- https://dle.rae.es/molar — DLE (RAE): «coloq. Gustar, resultar agradable o estupendo».\n- https://www.fundeu.es/consulta/mola-mazo-1048/ — FundéuRAE: *molar* = ‘gustar, resultar agradable o estupendo’; *mazo* = ‘mucho’.\n- https://www.enforex.com/espanol/blog/jerga-espanola/ — uso juvenil: algo que gusta mucho, atractivo o interesante.\n- https://blog.duolingo.com/de/slang-woerter-aus-spanien/ — uso en Madrid y matiz de interés romántico cuando se aplica a una persona.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.531,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0361408,
+      "inputTokens": 6435,
+      "maxOutputTokens": 32000,
+      "outputTokens": 497,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-83",
+  "raw": "jsonl/D2/msqa-ES-83.jsonl",
+  "reported_cost_usd": 0.0361408,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7127,
+      "query": "verbo molar significado jerga juvenil español",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "molar | Diccionario de la lengua española",
+          "url": "https://dle.rae.es/molar"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Las conversaciones de wasap: ¿Un nuevo género entre lo oral y lo escrito? - (7) M: Ala",
+          "url": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-09342020000300568#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "del asunto",
+          "url": "https://is.muni.cz/th/jmg0f/Diplomova_prace_bez_priloh.pdf#17#4"
+        },
+        {
+          "date": "2008-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "mola mazo | FundéuRAE",
+          "url": "https://www.fundeu.es/consulta/mola-mazo-1048/"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jerga española común | Enforex",
+          "url": "https://www.enforex.com/espanol/blog/jerga-espanola/"
+        },
+        {
+          "date": "2024-12-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8 Slang-Wörter aus Spanien",
+          "url": "https://blog.duolingo.com/de/slang-woerter-aus-spanien/"
+        },
+        {
+          "date": "2021-11-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Palabra de la semana: \"molar\".",
+          "url": "https://www.inmsol.com/es/spanish-week-word/molar/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "registrado por el Diccionario de la Lengua Española de la RAE como adverbio coloquial con el significado de ‘con abundancia’):",
+          "url": "https://dehesa.unex.es/bitstream/10662/22026/1/0211-4364_93_89.pdf#4#4"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish slang words and phrases | Enforex",
+          "url": "https://www.enforex.com/blog/spanish-slang/"
+        },
+        {
+          "date": "2023-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Slang och vardagliga uttryck på spanska",
+          "url": "https://inhispania.com/sv/slang-colloquial-expressions-spanish/?nonamp=1%2F"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6435,
+    "iterations": [],
+    "output_tokens": 497,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

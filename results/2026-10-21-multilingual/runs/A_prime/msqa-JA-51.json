@@ -1,0 +1,109 @@
+{
+  "answer": "**答え：『後拾遺和歌集』巻第十二・恋二・669番。** 作者は藤原義孝で、小倉百人一首では50番の歌です。\n\n- **出典と歌番号**：Seraiの解説に、この歌はもともと『後拾遺和歌集』恋二の669番に収められていたと書かれています。\n- **巻の番号**：「恋二」が巻第十二だというのは、『後拾遺和歌集』の巻の並び（巻第十一が恋一、巻第十二が恋二）から私が補ったものです。検索結果の中にはこの番号を直接書いた記述はありませんでした。\n- **補足**：この歌は、女性のもとから帰った翌朝に贈った後朝（きぬぎぬ）の歌として説明されています。ただ、詞書の原文（「女のもとより帰りてつかはしける」）は、今回の検索では確認できていません。\n\n搜索は2回使いました（上限5回）。\n\n依拠したURL：\n- [serai.jp（恋二・669の記述）](https://serai.jp/hobby/1197134)\n- [嵯峨嵐山文華館 小倉百人一首50番（出典：後拾遺集）](https://www.samac.jp/search/poems_detail.php?id=50)\n- [マイナビニュース（作者 藤原義孝・百人一首50番）](https://news.mynavi.jp/article/20240109-2859430/)\n- [やまとうた 藤原義孝](https://www.asahi-net.or.jp/~SG2H-YMST/yamatouta/sennin/yositaka.html)\n- [文化遺産オンライン（後拾遺和歌集）](https://online.bunka.go.jp/heritages/detail/186452)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 31.779,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023431900000000002,
+      "inputTokens": 24054,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2053,
+      "provider": "firstParty",
+      "thinkingTokens": 840,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4365,
+      "cacheReadInputTokens": 12361,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0562362,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 941,
+      "provider": "firstParty",
+      "thinkingTokens": 133,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-51",
+  "raw": "jsonl/A_prime/msqa-JA-51.jsonl",
+  "reported_cost_usd": 0.0796681,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "君がため惜しからざりし命さへ 後拾遺和歌集 恋二 669 藤原義孝",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ET8ztMaPmTYBWFTUvFmDD9"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "後拾遺和歌集 巻第十二 恋二 669 女のもとより帰りてつかはしける 藤原義孝",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FTXDcKow5gdYpYL9kCbjvQ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4365,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4365,
+    "cache_read_input_tokens": 12361,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1240,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1240,
+        "cache_read_input_tokens": 5576,
+        "input_tokens": 2,
+        "output_tokens": 677,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 941,
+    "output_tokens_details": {
+      "thinking_tokens": 133
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

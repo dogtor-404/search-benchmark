@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** 通常简称为 **«Алапаевские мученики»**（阿拉帕耶夫斯克殉道者；也作 «Алапаевские страстотерпцы»），事件本身称 **«Алапаевское убийство»**（阿拉帕耶夫斯克惨案）。\n\n1918 年 7 月 18 日夜，在乌拉尔地区阿拉帕耶夫斯克附近的 **Нижняя Селимская 矿坑**（Межная 河畔）被处决/抛入矿井的主要是：伊丽莎白·费奥多罗芙娜大公夫人、谢尔盖·米哈伊洛维奇大公、约翰/康斯坦丁/伊戈尔·康斯坦丁诺维奇三位公爵、弗拉基米尔·帕莱公爵，以及修女瓦尔瓦拉和秘书列梅兹等。\n\n依据：\n- http://eparchia.patriarchia.ru/db/print/4964123.html\n- https://iz.ru/806578/georgii-oltarzhevskii/zazhivo-pogrebennye-chto-stalo-s-chlenami-tcarskoi-semi-na-urale\n- https://cp96.ru/servicies/item/66\n- https://monsvelisavetialap.ru/svyatyni-alapayevska/svyataya-shakhta-mesto-ubiyeniya/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.644,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2944,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1110848,
+      "inputTokens": 18979,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1729,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/D2/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.1110848,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8024,
+      "query": "расстрел членов императорской семьи шахтный ствол Урал 1918 Алапаевск",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Владимир Соловьев: Чтобы установить подлинность останков членов императорской семьи, мы исследовали кровь мужа английской королевы | Программы - Владимир Соловьев: Чтобы установить подлинность останков членов императорской семьи, мы исследовали кровь мужа английской короле...",
+          "url": "https://otr-online.ru/programmy/bolshoe-intervyu/vladimir-solovev-chtobi-15210.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Версия для печати / В день памяти преподобномучениц великой княгини Елисаветы и инокини Варвары Литургию на месте их убийства в городе Алапаевске возглавил митрополит Астанайский Александр / Новости / Епархии / Патриархия.ru",
+          "url": "http://eparchia.patriarchia.ru/db/print/4964123.html"
+        },
+        {
+          "date": "2021-08-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Как первый директор нижнетагильского завода связан с семьей Николая II - изменить размер шрифта: 1.0x",
+          "url": "https://rg.ru/2021/08/25/reg-urfo/kak-pervyj-direktor-nizhnetagilskogo-zavoda-sviazan-s-semej-nikolaia-i.html#1"
+        },
+        {
+          "date": "2009-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Царская семья прошла курс реабилитации - Царская семья прошла курс реабилитации",
+          "url": "https://www.kommersant.ru/doc/1185117#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В деле № 21 представлены различные акты предварительного след- ствия: протоколы, постановления, переписка",
+          "url": "http://permgaspi.ru/images/vkma/romanov3.pdf#53#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "то время стал проблемой для чекистов – он заявил, что не уедет из Алапаевска,",
+          "url": "https://dspace.susu.ru/xmlui/bitstream/handle/00001.74/54171/2023_451_kolikovaaa.pdf?sequence=1&isAllowed=y#15#5"
+        },
+        {
+          "date": "2009-04-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Право.ru: законодательство, судебная система, новости и аналитика. Все о юридическом рынке.",
+          "url": "https://pravo.ru/news/view/9863/"
+        },
+        {
+          "date": "2018-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Заживо погребенные: что стало с членами царской семьи на Урале - Реклама",
+          "url": "https://iz.ru/806578/georgii-oltarzhevskii/zazhivo-pogrebennye-chto-stalo-s-chlenami-tcarskoi-semi-na-urale#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Грани.ру • RIMA — архив российских независимых медиа",
+          "url": "https://rima.media/sources/grani?start_dt=2018-07-18&end_dt=2018-07-18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Объект культурного наследия регионального значения «Место, где 18 июля 1918 г. были казнены Великие князья Романовы» по адресу: Свердловская область, Алапаевский район, 65-й км автодороги г. Нижняя Салда – г. Алапаевск (достопримечательное место)",
+          "url": "https://cp96.ru/servicies/item/66"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.77,
+      "query": "Алапаевские мученики шахта Межная 1918 краткое название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Среди узников Напольной школы царили любовь, смирение и прощение",
+          "url": "https://xn----7sbbfrtj7bkdk8b3heh.xn--p1ai/upload/iblock/c4b/c4bdaca7d0a0a0943a5d097b92c9c3bb.pdf#11#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мощи святой Елисаветы принесены в Россию (комментарий в цифрах и фактах)",
+          "url": "https://sedmitza.ru/text/400056.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Преподобномученица инокиня Варвара (Яковлева), Алапаевская",
+          "url": "https://new.monasterium.ru/monastyri/svyatie/prepodobnomuchenitsa-inokinya-varvara-yakovleva/?from_monastery=5375"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Святая Шахта — место убиения алапаевских мучеников",
+          "url": "https://monsvelisavetialap.ru/svyatyni-alapayevska/svyataya-shakhta-mesto-ubiyeniya/"
+        },
+        {
+          "date": "2022-07-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В годовщину гибели великой княгини Елисаветы и инокини Варвары в Алапаевске молитвенно почтили их память",
+          "url": "https://www.blagovest-info.ru/index.php?ss=2&s=3&id=100634"
+        },
+        {
+          "date": "2025-05-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Урок памяти прошел в МБОУ",
+          "url": "https://alapaevsk-eparchy.ru/novosti/696-urok-pamyati-proshel-v-mbou-sosh-2-g-artemovskij"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Объект культурного наследия регионального значения «Место, где 18 июля 1918 г. были казнены Великие князья Романовы» по адресу: Свердловская область, Алапаевский район, 65-й км автодороги г. Нижняя Салда – г. Алапаевск (достопримечательное место)",
+          "url": "https://cp96.ru/servicies/item/66"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Москве установлен Поклонный крест в память алапаевских мучеников",
+          "url": "https://sedmitza.ru/text/361689.html"
+        },
+        {
+          "date": "2021-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сонм архипастырей совершил Литургию в монастыре Новомучеников и исповедников Церкви Русской в Алапаевске",
+          "url": "https://monasterium.ru/doklady/novosti-eparkhialnykh-monastyrej/sonm-arkhipastyrey-sovershil-liturgiyu-v-monastyre-novomuchenikov-i-ispovednikov-tserkvi-russkoy-v-alapaevske/"
+        },
+        {
+          "date": "2017-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сонм архиереев совершил Божественную литургию в месте мученического подвига святой Елисаветы Феодоровны в Алапаевске - Екатеринбургская епархия",
+          "url": "https://ekaterinburg-eparhia.ru/news/2017/07/18/15819/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2944,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 18979,
+    "iterations": [],
+    "output_tokens": 1729,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

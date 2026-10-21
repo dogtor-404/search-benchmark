@@ -1,0 +1,235 @@
+{
+  "answer": "**答案:1552年(명종 7년,52세)。** 그해 여름 성균관대사성에 제수되어 취임했다.\n\n1543년에 받은 것은 대사성이 아니라 성균관 사성(司成)이다. 일부 자료는 이를 대사성으로 적어서 혼동이 있다. 1558년 10월에도 통훈대부 성균관대사성 지제교로 다시 임명됐다. 이 일은 첫 임명과 구분해야 한다.\n\n근거:\n- 디지털영주문화대전: https://yeongju.grandculture.net/yeongju/index/GC07400709\n- 維基大典(李滉),\"明宗七年夏,進成均館大司成\": https://zh-classical.wikipedia.org/wiki/%E6%9D%8E%E6%BB%89\n- 디지털청송문화대전(1543년은 사성): https://cheongsong.grandculture.net/cheongsong/index/GC06800657\n- 유교넷 고문서(1558년 재임명 교지): https://www.ugyo.net/yk/gms/gmsView.jsp?CLSS=B027&sSrchType=CLSSCODE&sSrchValu=&B_SUJI_ID=KSAC_M_B027000051\n\n검색 결과에는 월·일이 나오지 않았다. 확인한 것은 1552년 여름까지다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.525,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 12195,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0554331,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 606,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-88",
+  "raw": "jsonl/B/msqa-KO-88.jsonl",
+  "reported_cost_usd": 0.0554331,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7023,
+      "query": "이황 성균관대사성 취임 연도",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "聖學十圖: 지혜의 샘",
+          "url": "https://books.google.com.sg/books?id=VeQXAAAACAAJ&newbks=1&newbks_redir=0&hl=ja&redir_esc=y"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 디지털영주문화대전",
+          "url": "https://yeongju.grandculture.net/yeongju/index/GC07400709?category=%EC%84%9C%EB%AA%85%2F%EC%9E%91%ED%92%88%EB%AA%85&depth=2&name=%EA%B0%80&page=4&search=%EA%B2%BD%ED%98%84%EB%A1%9D%ED%8E%B8%EC%A0%95%EB%B3%84%EB%A1%9D"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 디지털청송문화대전",
+          "url": "https://cheongsong.grandculture.net/cheongsong/index/GC06800657?category=%EC%9D%B8%EB%AA%85&depth=2&name=A~Z%2C0~9&page=93&search=%EC%9D%B4%EC%A0%95%EB%B0%B1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "성학 십도",
+          "url": "https://books.google.com/books?id=I2zAMgEACAAJ&newbks=1&newbks_redir=0&hl=zh-CN"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Books",
+          "url": "http://www.google.no/books/edition/%E8%81%96%E5%AD%B8%E5%8D%81%E5%9C%96/VeQXAAAACAAJ?hl=no&sa=X&ved=2ahUKEwjQycmc5JmJAxWfxzgGHUseBrsQiqUDegQIDBAC"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Books",
+          "url": "https://www.google.es/books/edition/%E8%81%96%E5%AD%B8%E5%8D%81%E5%9C%96/VeQXAAAACAAJ?hl=tr&sa=X&ved=2ahUKEwiaiePo2L6JAxULzTgGHU1yIPIQiqUDegQIDxAC"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "유교넷 고문서 상세보기",
+          "url": "https://www.ugyo.net/yk/gms/gmsView.jsp?CLSS=B027&sSrchType=CLSSCODE&sSrchValu=&B_SUJI_ID=KSAC_M_B027000051&B_BOOK_ID=KSAC_T_B027000051_001&B_KWON_ID=001&B_DOC_ID=KSAC_T_B027000051_001_001&sActnType=suji&sSrchType=CLSSCODE&sSrchValu=&iPage=6"
+        },
+        {
+          "date": "2013-01-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "퇴계 17대 종손 이치억씨 유학박사 되다 - 에스프레스(S-PRESS)",
+          "url": "https://www.spressnews.com/news/articleView.html?idxno=12417"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "26.01.20. (한겨례) 옛 호남문헌 등 ‘10만점’ 모았지만…둘 곳 없는 셋방살이",
+          "url": "https://www.hiks.or.kr/MediaRreport/1/read/2357"
+        },
+        {
+          "date": "2005-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 위키백과, 우리 모두의 백과사전 - 1554년 5월 형조참의에 임명되어 상경하였고, 6월 병조참의를 거쳐 그해 12월 첨지중추부사로 전임되고 고향으로 내려갔다",
+          "url": "https://ko.wikipedia.org/wiki/%ec%9d%b4%ed%99%a9?oldid=12348076#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6064,
+      "query": "退溪 李滉 成均館大司成 除授 年",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": ":::::규장각한국학연구원:::::",
+          "url": "http://kyujanggak.snu.ac.kr/home/MOK/CONVIEW.jsp?type=MOK&ptype=list&subtype=sb&lclass=zb&mclass=&sclass=&ntype=sj&cn=GK03570_00"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "성학 십도",
+          "url": "https://books.google.com/books?id=I2zAMgEACAAJ&newbks=1&newbks_redir=0&hl=zh-CN"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/전통백과/선현의 표준영정/분야별 표준영정",
+          "url": "https://kculture.or.kr/brd/board/275/L/menu/473?brdType=R&thisPage=4&bbIdx=8498&searchField=&searchText=&recordCnt=10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Books",
+          "url": "https://www.google.com.sg/books/edition/%E8%81%96%E5%AD%B8%E5%8D%81%E5%9C%96/VeQXAAAACAAJ?hl=ko&sa=X&ved=2ahUKEwi01dSajuGFAxWMxTgGHTmhCqsQiqUDegQIBxAC"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "諺解與詮釋:李滉《論語釋義》謭論-文献详情-维普官网",
+          "url": "https://www.cqvip.com/doc/journal/7201011792?sign=988ff941f82908fd3379de2d7fc6a00fa9d520696d947072ab65b9d401c2ffdc&expireTime=1799394647171&resourceId=7201011792&type=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "李退渓とは？ わかりやすく解説",
+          "url": "https://www.weblio.jp:443/content/%E6%9D%8E%E9%80%80%E6%B8%93"
+        },
+        {
+          "date": "2014-07-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "李滉 - 維基大典",
+          "url": "https://zh-classical.wikipedia.org/wiki/%E6%9D%8E%E6%BB%89"
+        },
+        {
+          "date": "2026-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "李滉 - 朝鲜李朝唯心主义哲学家",
+          "url": "https://baike.baidu.com/item/%e6%9d%8e%e6%bb%89/3494027?_x_tr_sch=http#1"
+        },
+        {
+          "date": "2023-11-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "李滉 - Wikipedia",
+          "url": "https://ja.m.wikipedia.org/wiki/%E3%82%A4%E3%83%BB%E3%83%86%E3%82%B2"
+        },
+        {
+          "date": "2005-02-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "李滉 - 維基百科，自由的百科全書",
+          "url": "https://zh.m.wikipedia.org/zh-hant/%E6%9D%8E%E6%BB%89"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12195,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12195,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10352,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10352,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 465,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 606,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** เชื่อกันว่าภาพกากเริ่มปรากฏตั้งแต่**สมัยอยุธยาตอนต้น** โดยพบในจิตรกรรมที่เกี่ยวกับพุทธศาสนา\n\n**แหล่งที่มา:**\n- ศิลปวัฒนธรรม: \"ภาพกาก งานจิตรกรรมฝาผนัง ที่ไกลจากคำว่า 'กาก'\" https://www.silpa-mag.com/art/article_158656 บทความนี้เขียนไว้ตรงๆ ว่า \"เชื่อว่าเริ่มเผยให้เห็นในสมัยอยุธยาตอนต้น ในจิตรกรรมที่เกี่ยวเนื่องกับพุทธศาสนา\" ถ้อยคำในบทความแทบตรงกับคำถาม จึงน่าจะเป็นต้นทางของคำถามนี้\n- งานวิจัยใน TCI ที่ศึกษา \"ตัวกาก\" ในจิตรกรรมฝาผนังสมัยอยุธยาตอนต้น (พระที่นั่งพุทไธสวรรย์ วัดราชสิทธาราม วัดดุสิตาราม) https://so07.tci-thaijo.org/index.php/decorativeartsJournal/issue/download/367/336 การกำหนดอายุจิตรกรรมเหล่านี้ว่าเป็น \"อยุธยาตอนต้น\" เป็นการจัดยุคของผู้เขียนงานวิจัยเอง\n\nใช้การค้นหาไป 1 ครั้ง",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.011,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 18192,
+      "cacheReadInputTokens": 5924,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1612968,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 728,
+      "provider": "firstParty",
+      "thinkingTokens": 50,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/B_prime/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.1612968,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8043,
+      "query": "ภาพกาก จิตรกรรมฝาผนัง เริ่มปรากฏ สมัย",
+      "results": [
+        {
+          "date": "2025-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพกาก งานจิตรกรรมฝาผนัง ที่ไกลจากคำว่า “กาก”",
+          "url": "https://www.silpa-mag.com/art/article_158656"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แวดวงจํากัด หรือทําได้เฉพาะชุมชนที่มีชาวคริสต์ตั้งอยู่ ไม่เช่นนั้น เหตุการณ์นี้อาจเป็นที่จดจําอย่าง",
+          "url": "https://buuir.buu.ac.th/jspui/bitstream/1234567890/10563/1/52810096.pdf#92#57"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ทั้งหมดที่กล่าวมาปรากฏในจิตรกรรมฝาผนังวัดพุทธสีมาและวัดศรีมหาโพธิ์ อย่างไรก็ดี แนวคิดการ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/8f8f6694-e43e-42a0-93e2-2f374081f2ea/DR_%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C_%E0%B8%AD%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5.pdf?attempt=2#82#44"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพที่ 63 ภาพกาก จิตรกรรมฝาผนัง วัดวิหารเบิก จ",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/964092a7-392b-4c70-9e40-49e6123c0d7c/fulltext.pdf?attempt=2#12#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ข่างเมืองเพชรบุรีนิยมเขียนบอกชื่อตนว่าเป็นผู้เขียนภาพ 2 แบบ คือ การเขียนรวมกับข้อความประวัติ",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/0f140d2b-ef4b-4745-acc4-b19d120cad77/RS_Duangkamon_Boonkaewsuk.pdf?attempt=2#48#40"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การวิจัยสร้างสรรค์ เรื่องภายใต้ใบหน้าด้วากานี้เป็นการตีความ จากภาพจิตรกรรมฝาผนังในสมัยอยุธยาตอนต้น ได้แก่ พระที่นั่ง พุทไธสวรรย์...",
+          "url": "https://so07.tci-thaijo.org/index.php/decorativeartsJournal/issue/download/367/336#40#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในดานความสมจริงอยางหนึ่งที่เริ่มจะมีขึ้นในสมัยรัชกาลที่ 3 ซึ่งในจิตรกรรมกอนหนานี้ เชน",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/5be1c971-13c0-4c4e-bfc5-0895a755ebcf/MA_Nuttawut_Laocharoenbundit.pdf?attempt=2#20#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพเชิงสวงาสเหลานี้ ไดรับการวาดมาอยางตอเนื่อง ในฐานะภาพกากบนฝาผนัง ดวยเหตุผลและแนวคิดที่ไดนําเสนอมาขางตน การวาดภาพเหลา...",
+          "url": "http://dept.npru.ac.th/hm1/data/files/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%209%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%201%20%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%A1%20-%20%E0%B8%A1%E0%B8%B4%E0%B8%96%E0%B8%B8%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%202562.pdf#34#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การศึกษาสภาพวิถีชีวิตและวัฒนธรรมของชาวล้านนา จากจิตรกรรมฝาผนังประเภทภาพกาก",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/34737f29-2434-4425-8008-cf3eaf42e0d9/fulltext.pdf?attempt=2#13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เอกลักษณ์เฉพาะตน อย่างไรก็ตามการติดต่อสังสรรค์ระหว่างกลุ่มระหว่างชุมชนทางสังคม เศรษฐกิจ",
+          "url": "https://rsujournals.rsu.ac.th/index.php/jla/article/download/251/173/#7#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 18192,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 18192,
+    "cache_read_input_tokens": 5924,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16276,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16276,
+        "cache_read_input_tokens": 3920,
+        "input_tokens": 2,
+        "output_tokens": 585,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 728,
+    "output_tokens_details": {
+      "thinking_tokens": 50
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

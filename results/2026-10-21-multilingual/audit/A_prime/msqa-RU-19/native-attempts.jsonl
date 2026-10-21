@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "последний сноп жали молча называли именинник дух хлеба", "results": [], "status": "allowed", "tool_use_id": "toolu_013vKw9HQAsQ6nFFMeMxSM9t"}
+{"billable": false, "call": 2, "query": "\"последний сноп\" \"молча\" \"именинник\" OR \"именинным\" жатва обряд", "results": [], "status": "allowed", "tool_use_id": "toolu_01TrBnW1imm13FCNp6Zfgo1h"}
+{"billable": false, "call": 3, "query": "Последний сноп википедия называли именинник дожиночный сноп жали молча", "results": [], "status": "allowed", "tool_use_id": "toolu_0197M3LnpVdyNk8dFzUamdbN"}

@@ -1,0 +1,62 @@
+{
+  "answer": "**ลายกอน**（Lai Kon，读作“赖贡”）——也就是大菱形／斜方格纹，有时也直接叫 **ลายข้าวหลามตัด**（菱形纹）。\n\n这是泰北（兰纳）织锦 ซิ่นตีนจก 上最典型的主纹之一，常见于楠府（น่าน）一带的筒裙裙脚；当地织工把由小菱形拼成的大菱形块称作“กอน”，与 ลายนาค、ลายขันธ์、ลายขอ 等并列。\n\n说明：这是凭记忆离线回答，未查证；若需确切出处（如楠府织锦的纹样分类文献），建议联网核实。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.304,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032168,
+      "inputTokens": 1992,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1210,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-51",
+  "raw": "jsonl/D0/msqa-TH-51.jsonl",
+  "reported_cost_usd": 0.032168,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1992,
+    "iterations": [],
+    "output_tokens": 1210,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

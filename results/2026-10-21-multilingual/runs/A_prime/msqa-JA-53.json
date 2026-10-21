@@ -1,0 +1,109 @@
+{
+  "answer": "**答え：『後拾遺和歌集』巻第十・哀傷・536番**（作者は一条院皇后宮＝藤原定子）\n\nwakapoetry.net では、この歌の出典が「GSIS X: 536」と書かれています。GSIS は後拾遺集、X は巻十（哀傷）の略です。詞書は「一条院の御時、皇后宮がお亡くなりになった後、御帳の帷子の紐に結び付けられた文が見つかり、その中の三首のうちの一首」という内容で、哀傷部の歌であることと合っています。ただ、日本語の原典データベース（新編国歌大観など）で番号を直接確かめることはしていません。番号の裏付けは、このサイトの表記と私自身の知識によるものです。\n\nSources:\n- [wakapoetry.net – Tag Archives: tears](https://www.wakapoetry.net/tag/tears/page/11/)\n- [wakapoetry.net – Tag Archives: namida](https://www.wakapoetry.net/tag/namida/page/11/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 28.324,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0237037,
+      "inputTokens": 26862,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2035,
+      "provider": "firstParty",
+      "thinkingTokens": 1094,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4004,
+      "cacheReadInputTokens": 12102,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.048896400000000007,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 721,
+      "provider": "firstParty",
+      "thinkingTokens": 147,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-53",
+  "raw": "jsonl/A_prime/msqa-JA-53.jsonl",
+  "reported_cost_usd": 0.0726001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "夜もすがら契りしことを忘れずは恋ひむ涙の色ぞゆかしき 後拾遺 哀傷",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01R13eCF4Cs15Ar6e2g3TTJX"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"恋ひむ涙の色ぞゆかしき\" 後拾遺 536",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Uqq5A9qerPYhXJn81qR6R7"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4004,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4004,
+    "cache_read_input_tokens": 12102,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1136,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1136,
+        "cache_read_input_tokens": 5319,
+        "input_tokens": 2,
+        "output_tokens": 420,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 721,
+    "output_tokens_details": {
+      "thinking_tokens": 147
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

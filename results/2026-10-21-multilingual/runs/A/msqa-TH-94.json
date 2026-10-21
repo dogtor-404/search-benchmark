@@ -1,0 +1,100 @@
+{
+  "answer": "**คำตอบสั้น ๆ:** ในสมัยโบราณ \"แพ้\" แปลว่า **\"ชนะ\"** ซึ่งตรงข้ามกับความหมายปัจจุบัน\n\n- ราชบัณฑิตยสถาน (ฉบับ พ.ศ. 2554) ระบุว่า \"แพ้\" ในความหมายโบราณเป็นคำกริยาแปลว่า \"ชนะ\" มีตัวอย่างจากจารึกสยามว่า \"แพ้พระอาทิตย์\" หมายถึงงามเหนือกว่าพระอาทิตย์\n- ภาษาไทยน่าจะยืมคำว่า \"ชนะ\" มาจากภาษาเขมรโบราณ จากนั้น \"แพ้\" ก็ค่อย ๆ ถูกใช้ในความหมายตรงข้าม\n- ความหมาย \"ชนะ\" ยังเหลืออยู่ในภาษาถิ่น เช่น คำเมืองและไทยลื้อ และพบในสมัยสุโขทัยด้วย\n\n**ข้อจำกัด:** ข้อมูลทั้งหมดมาจากบทความ Blockdit เพียงแหล่งเดียว ซึ่งอ้างพจนานุกรมราชบัณฑิตฯ อีกทอดหนึ่ง ผมยังไม่ได้เปิดตรวจพจนานุกรมต้นฉบับ ส่วนเรื่องภาษาถิ่นและสุโขทัยมีเพียงข้อความสั้น ๆ ในผลค้นหา ถ้าจะนำไปอ้างอิงจริงควรตรวจสอบเพิ่ม\n\nSources:\n- [Blockdit](https://www.blockdit.com/posts/6118b37f1f553f0c7fc4863f)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.523,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118107,
+      "inputTokens": 11957,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1230,
+      "provider": "firstParty",
+      "thinkingTokens": 304,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3323,
+      "cacheReadInputTokens": 6754,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0215054,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 753,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/A/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.0333161,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "คำว่า \"แพ้\" ความหมายเดิม สมัยโบราณ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01L7VR6EgUdiBAuA6zkQUsG6"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3323,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3323,
+    "cache_read_input_tokens": 6754,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1471,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1471,
+        "cache_read_input_tokens": 4303,
+        "input_tokens": 2,
+        "output_tokens": 653,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 753,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

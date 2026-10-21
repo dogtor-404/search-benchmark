@@ -1,0 +1,460 @@
+{
+  "answer": "**答案：「шахматный узор」（棋盘纹/方格纹）。**\n\n研究（源自 Ю. А. Арбат《Русская народная роспись по дереву》, 1970）中把皮涅加河（Пинега）沿岸村庄（如 Покшеньга/Лохново）直杆纺车上的这种红黑相间的方格纹称为「шахматный узор」——十五个斜纹网格格子在宽、八个在高，红黑交替。\n\n依据网址：\n- https://studfile.net/preview/9787428/ （引用 Арбат 原文：“пинежские мастера применяют один «шахматный» узор…”）\n- https://www.litfund.ru/auction/625/42/#description （“Пинежские мастера заменили… орнаменты символизировавшим плодородие «шахматным» узором”）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 43.766,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 80384,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.2747888,
+      "inputTokens": 43293,
+      "maxOutputTokens": 32000,
+      "outputTokens": 4277,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-72",
+  "raw": "jsonl/D2_prime/msqa-RU-72.jsonl",
+  "reported_cost_usd": 0.2747888,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8046,
+      "query": "Пинежская роспись прялка шахматный узор орнамент",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Галина Николаевна Мёрзлая за ткацким станком в сарафане, сши- том своими руками по лекалам и технологии начала XIX в",
+          "url": "https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": "2012-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пинежская роспись",
+          "url": "https://smittik.livejournal.com/81254.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "фундаментальных женских символов",
+          "url": "https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf#18#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Т. А. БЕРНШТАМ",
+          "url": "https://eo.iea.ras.ru/wp-content/uploads/1965/03/eoarchive_1965_3_124_bernshtam.pdf#3#2#1#1"
+        },
+        {
+          "date": "2025-11-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lot 652 — Русский Север. Свадебная прялка в пинежской росписи. Архангельская губерния, руб. XIX-XX вв. Дерево, сурик, сажа, роспись, олифа",
+          "url": "https://bid.northauction.ru/auction/347-119/lot-652-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%b5%d0%b2%d0%b5%d1%80/"
+        },
+        {
+          "date": "2015-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мезенская прялка",
+          "url": "https://russianarts.online/2000-mezenskaya-pryalka/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Пинежская роспись] Именная прялка мезенского типа «Покшеньга». ... | Аукционы",
+          "url": "https://www.litfund.ru/auction/625/42/#description"
+        },
+        {
+          "date": "2020-05-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Архангельской области открыли Дом пинежской прялки",
+          "url": "https://www.news29.ru/novosti/obschestvo/V_Arhangelskoj_oblasti_otkryli_Dom_pinezhskoj_prjalki/87156/print"
+        },
+        {
+          "date": "2020-05-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Архангельской области открыли Дом пинежской прялки",
+          "url": "https://www.slavtradition.com/svodki-smi/novosti/6459-v-arkhangel-skoj-oblasti-otkryli-dom-pinezhskoj-pryalki"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6976,
+      "query": "пинежская роспись орнамент \"шахматка\" или \"шашечки\" прялки термин",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Муниципальное бюджетное учреждение дополнительного образования «ДЕТСКО – ЮНОШЕСКИЙ ЦЕНТР «ПИЛИГРИМ» имени 37 гвардейского Свирск...",
+          "url": "http://dod-piligrim.ru/wp-content/uploads/Gzhelskaya-rospis-lektsiya.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Теория: Учить детей распознавать ряд современных и нетрадиционных материалов и определять как они могут быть эффективно обработа...",
+          "url": "https://raduga-koelga.ucoz.ru/Programma/deti_i_narodnoe_tvorchestvo.pdf#10#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "||01|28|9-00 – 10-45|Практич еское занятие|2|Тема: Гжельская роспись",
+          "url": "https://cwr.do.am/_ld/5/545____.pdf#12#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Гжель – это традиционный русский промысел, особый вид росписи по керамике, появился в селе Гжель Московской области",
+          "url": "https://dspace.tltsu.ru/bitstream/123456789/21776/1/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%95.%20%D0%92._%20%D0%9F%D0%9F%D0%9E%D0%B1%D0%B4-1601%D0%B0.pdf#14#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Гжель – традиционная роспись",
+          "url": "http://95.dou.spb.ru/images/%d0%9c%d0%b8%d0%bd%d0%b8-%d0%bc%d1%83%d0%b7%d0%b5%d0%b9/%d0%93%d0%b6%d0%b5%d0%bb%d1%8c_compressed.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Гжель – традиционная роспись на керамике, получившая известность, благодаря насыщенным кобальтовым оттенкам, яркой майолике и уд...",
+          "url": "https://deti-kemerovo.ru/wp-content/uploads/2020/05/gjelskaia_rospis_MDA.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Программа всероссийского дистанционного практического семинара «Культурный код орнамента»**",
+          "url": "http://nko28.ru/wp-content/uploads/2024/01/programma-seminara-kulturnyj-kod-ornamenta-15.01.24-15.01.25.pdf#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "антропоморфные элементы символического, оберегового характера",
+          "url": "https://libr.msu.by/bitstream/123456789/8157/1/1698s.pdf#18#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "знание видов народных промыслов (дымковская игрушка, городецкая роспись, гжель, русская матрешка); знание характерных особенност...",
+          "url": "https://journal.tltsu.ru/rus/index.php/VNSPP/article/download/9215/8906#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7872,
+      "query": "северная роспись прялка \"шахматный узор\" называют исследователи Пинега",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Декоративно-прикладное творчество и народные промыслы от Древней Руси до XVIII в - Теория и история народного декоративно-прикладного творчества - Декоративно-прикладное творчество и народные промыслы от Древней Руси до XVIII в",
+          "url": "https://vuzdoc.ru/134649/kultura/dekorativno_prikladnoe_tvorchestvo_narodnye_promysly_drevney_rusi_xviii#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Более самобытно по форме и рисунку узора другое произведение – подписная прялка 1754 года из собрания Российского музея этнограф...",
+          "url": "http://kenozero.ru/upload/iblock/8e5/8e590b40931c2b2086b398e8732263f8.pdf#103#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://eo.iea.ras.ru/wp-content/uploads/1983/05/eoarchive_1983_5_023_dmitrieva.pdf#4#1##4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Галина Николаевна Мёрзлая за ткацким станком в сарафане, сши- том своими руками по лекалам и технологии начала XIX в",
+          "url": "https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Рic.5. Construction of traditional wooden distaffs from Udora",
+          "url": "https://izvestia.komisc.ru/Archive/i31.pdf#50#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "При всей, казалось бы, сюжетной ясности росписи мезенских прялок производят необычное впечатление",
+          "url": "https://territory.syktsu.ru/etnokulturnoe-nasledie/biblioteka/4.pdf#19#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В",
+          "url": "https://library.atu.edu.kz/files/40891.pdf#15#44#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В пучужской росписи имеются свои особенности и отличия, которых мастера строго придерживались",
+          "url": "http://www2.bigpi.biysk.ru/library/files/Fond_El_Resursov/Obshchestvenny`e%20i%20gumanitarny`e%20nauki/Iskusstvovedenie/Kosogorova%20L.%20V.,%20Neretina%20L.%20V.%20Osnovy`%20dekorativno-pricladnogo%20iskusstva-Kosogorova-Neretina.pdf#44#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Северная Двина, Пинега, Мезень, Печора",
+          "url": "https://libarch.nmu.org.ua/bitstream/handle/GenofondUA/65175/d42da00f84ee260138142129a21caaf5.pdf?sequence=1&isAllowed=y#22#5"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7424,
+      "query": "\"шахматный\" узор прялка Пинега Покшеньга исследователи называют орнамент",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": "2012-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пинежская роспись",
+          "url": "https://smittik.livejournal.com/81254.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Покшеньга: Усть-Покшеньга, Кобелёво, Красное,Кротово,Лохново",
+          "url": "https://www.sanatatur.ru/forum/viewtopic.php?f=119&t=12047&sid=1f1e2b600d2831328100c6e741d66daa&start=55"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Фрагменты росписи палащельских прялок",
+          "url": "https://www.booksite.ru/folk/data/dmitrijeva.pdf#10#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Подобное расположение орнамента, очень типичное для финно-угорских народов Поволжья, известно и у тверских карел, а вот у русски...",
+          "url": "https://www.booksite.ru/fulltext/rusnaris/text.pdf#38#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. “Пиня козяль” – лопатообразная прялка, обрамленная на вершине лопасти 3–7 фигурными главками",
+          "url": "https://cyberleninka.ru/article/n/nesuschestvuyuschaya-traditsiya-rospis-po-derevu-udorskih-komi-staroobryadtsev/pdf#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Галина Николаевна Мёрзлая за ткацким станком в сарафане, сши- том своими руками по лекалам и технологии начала XIX в",
+          "url": "https://www.xn--80akahgvf5ajn1b2c.xn--p1ai/wp-content/uploads/2020/09/zhurnal_CHMR_05_new.pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Среди предметов с мезенской росписью выделяются палашельские прялки, изготовлявшиеся в с",
+          "url": "https://www.booksite.ru/etnogr/1988/1988_1.pdf#61#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://eo.iea.ras.ru/wp-content/uploads/1983/05/eoarchive_1983_5_023_dmitrieva.pdf#4#1##4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "НАРОДНОЕ ИСКУССТВО РУССКИХ МЕЗЕНИ [в связи с этнической историей края] *",
+          "url": "https://eo.iea.ras.ru/wp-content/uploads/1983/05/eoarchive_1983_5_023_dmitrieva.pdf#4#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.8045,
+      "query": "Пинега прялка орнамент \"шахматка\" OR \"в шашку\" OR \"шашечный\" роспись Покшеньга Арбат",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "На внешней стороне прялок узор более устойчив, чем на внутренней",
+          "url": "https://www.booksite.ru/folk/data/narodn.pdf#9#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последовательность росписи прялки. - Что общего в мезенских и пинежских прялках",
+          "url": "https://studfile.net/preview/9787428/#2"
+        },
+        {
+          "date": "2012-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пинежская роспись",
+          "url": "https://smittik.livejournal.com/81254.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "569. \"Сто локот на пришвицу",
+          "url": "https://rounb.ru/uploads/new/2025/new092025.pdf#60#45"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[Пинежская роспись] Именная прялка мезенского типа «Покшеньга». ... | Аукционы",
+          "url": "https://www.litfund.ru/auction/625/42/#description"
+        },
+        {
+          "date": "2015-11-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Исследовательская работа на тему \"Русская прялка\": методические материалы на Инфоурок - Орнамент включает в себя «бёрда», волнистые линии, завитки, ромбики, крестики, точки, чёрточки (Приложение 5)",
+          "url": "https://infourok.ru/issledovatelskaya-rabota-na-temu-russkaya-pryalka-556586.html#2"
+        },
+        {
+          "date": "2021-11-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "От маминой прялки",
+          "url": "https://onega.bezformata.com/listnews/ot-maminoy-pryalki/99563517/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Река Пинега",
+          "url": "https://pinezhye.ru:443/data/new-file/proekt_PKR_trans_pinega.docx#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Покшеньга: Усть-Покшеньга, Кобелёво, Красное,Кротово,Лохново",
+          "url": "https://www.sanatatur.ru/forum/viewtopic.php?f=119&t=12047&sid=1f1e2b600d2831328100c6e741d66daa&start=55"
+        },
+        {
+          "date": "2009-05-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мезенская прялка — Википедия - Мезенская прялка",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BB%D0%BA%D0%B0#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 80384,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 43293,
+    "iterations": [],
+    "output_tokens": 4277,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

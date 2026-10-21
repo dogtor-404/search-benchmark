@@ -1,0 +1,109 @@
+{
+  "answer": "答えは見つかりませんでした。「遠山かぶの粕汁」の発祥地を書いた資料は、2回検索しても出てきませんでした。\n\n- 長野県の観光資料に「遠山郷」(飯田市南信濃)が出てきます。ただ、遠山かぶも粕汁の由来も書かれていません。\n- 粕汁そのものについては、岩手県の資料に「造り酒屋があり酒粕を使った料理が身近だった」という説明があります。栄養相談の資料は兵庫県の郷土料理として紹介しています。どちらも遠山とは関係ない記述です。\n- 「遠山かぶ」という名前から遠山郷が産地かもしれません。でもこれは推測で、確認できていません。発祥地だと断定できる根拠もありません。\n\n飯田市や遠山郷観光協会の公式情報で確かめるのが確実です。\n\nSources:\n- [長野県 南信州の観光資料](https://www.pref.nagano.lg.jp/nambuken/jigyo/modeljigyo/kaigi/documents/kankou.pdf)\n- [岩手県の資料](https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/007/824/248.pdf)\n- [杏林大学病院 栄養相談資料](https://www.kyorin-u.ac.jp/hospital/clinic/introduction_nourishment/pdf/2310.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 20.601,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0231742,
+      "inputTokens": 24772,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1394,
+      "provider": "firstParty",
+      "thinkingTokens": 340,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4172,
+      "cacheReadInputTokens": 12117,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0247817,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 687,
+      "provider": "firstParty",
+      "thinkingTokens": 11,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-87",
+  "raw": "jsonl/A/msqa-JA-87.jsonl",
+  "reported_cost_usd": 0.047955899999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "遠山かぶ 粕汁 発祥",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LiD6epkkARt4oojtjrmd3a"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "遠山かぶ 粕汁 遠山郷 郷土料理 飯田市",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PSAd2Cx594nrY7cwsLTYvH"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4172,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4172,
+    "cache_read_input_tokens": 12117,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1242,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1242,
+        "cache_read_input_tokens": 5381,
+        "input_tokens": 2,
+        "output_tokens": 488,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 687,
+    "output_tokens_details": {
+      "thinking_tokens": 11
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

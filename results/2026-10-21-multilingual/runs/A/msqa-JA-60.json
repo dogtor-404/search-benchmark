@@ -1,0 +1,100 @@
+{
+  "answer": "おしもんは**愛知県(尾張・名古屋地域)**の郷土菓子です。米粉を熱湯で練って木型に入れて抜き、色粉で彩って蒸したもので、主に桃の節句にお雛様へお供えします。周辺地域では「おこしもん」とも呼ばれます。文化庁の「100年フード」に「尾張なごやの郷土料理 おしもん・おこしもん」として認定されています。\n\n検索結果の要約には認定の時期について「令和7年度の認定」と「令和8年2月27日に認定」という2つの記述がありました。どちらが正しいかは確認していません。\n\nSources:\n- [文化庁 100年フード 愛知県の事例一覧](https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_aichi.html)\n- [農林水産省 東海農政局 kaihou-101.pdf](https://www.maff.go.jp/tokai/keiei/shokuhin/bunka/attach/pdf/kaihou-101.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.447,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0115847,
+      "inputTokens": 11662,
+      "maxOutputTokens": 128000,
+      "outputTokens": 837,
+      "provider": "firstParty",
+      "thinkingTokens": 74,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1373,
+      "cacheReadInputTokens": 8556,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.010835599999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 448,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-60",
+  "raw": "jsonl/A/msqa-JA-60.jsonl",
+  "reported_cost_usd": 0.022420299999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "おしもん 郷土料理",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PNGifgUBiYouniqreSHL1F"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1373,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1373,
+    "cache_read_input_tokens": 8556,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1373,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1373,
+        "cache_read_input_tokens": 4278,
+        "input_tokens": 2,
+        "output_tokens": 367,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 448,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

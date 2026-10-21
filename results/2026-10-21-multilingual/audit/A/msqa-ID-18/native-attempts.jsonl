@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "kepala sekolah pertama SMP Negeri 14 Malang sejarah", "results": [], "status": "allowed", "tool_use_id": "toolu_01LKdRJYd3LRsG55p5rAvzZk"}
+{"billable": false, "call": 2, "query": "SMPN 14 Malang profil sejarah berdiri kepala sekolah dari masa ke masa", "results": [], "status": "allowed", "tool_use_id": "toolu_01AP6XQbDWe1G7yoUtiddg6i"}
+{"billable": false, "call": 3, "query": "\"SMP Negeri 14 Malang\" kepala sekolah pertama", "results": [], "status": "allowed", "tool_use_id": "toolu_01X44NK3htGFYqkhGJDfRwgn"}

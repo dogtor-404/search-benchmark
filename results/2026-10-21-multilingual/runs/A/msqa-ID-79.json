@@ -1,0 +1,109 @@
+{
+  "answer": "**Jawaban:** Dalam bahasa Bugis umum, \"ke atas\" atau \"naik\" adalah **menre** (atau **manai**).\n\nSumbernya satu artikel jurnal Badan Bahasa. Menurut ringkasan hasil pencarian, artikel itu menyebut bahwa bahasa Bugis umum memakai *menre* atau *manai* untuk \"ke atas/naik\". Bahasa Bugis tinggi dalam I La Galigo memakai *manerru*. Saya hanya melihat ringkasan itu, bukan teks artikelnya. Saya juga belum membuka kamus untuk memastikan lemanya, jadi ejaan dan pemakaiannya sebaiknya dicek lagi. Untuk itu bisa dipakai Kamus Bugis–Indonesia terbitan Kemdikbud (link kedua di bawah).\n\nSumber:\n- [Artikel jurnal Badan Bahasa (Kandai)](https://ojs.badanbahasa.kemdikbud.go.id/jurnal/index.php/kandai/article/download/320/139)\n- [Kamus Bahasa Bugis–Indonesia (Kemdikbud)](https://luk.staff.ugm.ac.id/bahasa/2017-KemdikbudKamusBahasaBugis-Indonesia.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.333,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0237288,
+      "inputTokens": 27293,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1999,
+      "provider": "firstParty",
+      "thinkingTokens": 626,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4399,
+      "cacheReadInputTokens": 6753,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0250493,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 677,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-79",
+  "raw": "jsonl/A/msqa-ID-79.jsonl",
+  "reported_cost_usd": 0.0487781,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "bahasa Bugis kata \"naik\" \"ke atas\" kamus Bugis Indonesia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HFzJiMB1u1i6ZzwuUShJyn"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Bugis language \"up\" \"above\" word nai / mallempa / \"ri laleng\" \"ri ase'\" Bugis dictionary",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015m1biejdwm4Cw5WZFtZB83"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4399,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4399,
+    "cache_read_input_tokens": 6753,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2548,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2548,
+        "cache_read_input_tokens": 4302,
+        "input_tokens": 2,
+        "output_tokens": 464,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 677,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

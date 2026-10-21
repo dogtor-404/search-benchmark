@@ -1,0 +1,118 @@
+{
+  "answer": "**«Маргоски».** Так в южных районах Курской области называют весенний женский праздник, приуроченный ко Дню жён-мироносиц. Его сравнивают с православным «8 марта».\n\n- Другие названия этого праздника: «маргошенье» (или «маргосье»), «Маргоронося», «Ромонося». В старину его ещё звали «бабьей братчиной» или «бабьей неделей», потому что праздновали только женщины.\n- Дата не совпала с вашей формулировкой. По источникам, жён-мироносиц отмечают в третье воскресенье после Пасхи, а не во второе. Вероятно, в вопросе имелась в виду местная традиция или неточность.\n- Курскую статью на culture.ru целиком открыть не удалось. Название «маргоски» я взял из заголовка этой статьи и из выдачи поиска.\n\nSources:\n- [Весенний праздник «Маргоски» в южных районах Курской области — culture.ru](https://www.culture.ru/objects/2885/vesennii-prazdnik-margoski-v-yuzhnykh-raionakh-kurskoi-oblasti)\n- [День жён-мироносиц — Википедия](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B6%D1%91%D0%BD-%D0%BC%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D1%86)\n- [Неделя святых Жен Мироносиц — Русская вера](https://ruvera.ru/nedelya_jen_mironosic)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 32.821,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0347556,
+      "inputTokens": 34536,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2604,
+      "provider": "firstParty",
+      "thinkingTokens": 1047,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5929,
+      "cacheReadInputTokens": 18994,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0367314,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1110,
+      "provider": "firstParty",
+      "thinkingTokens": 211,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-29",
+  "raw": "jsonl/A/msqa-RU-29.jsonl",
+  "reported_cost_usd": 0.07148700000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Курская область старинный женский праздник второе воскресенье после Пасхи православный 8 марта",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JHjsSGkgpdjcnA5WnH1Vc1"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "курский праздник \"Бабий праздник\" OR \"Бабьи святки\" OR \"Бабья неделя\" второе воскресенье после Пасхи Курская область женский",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Eyccwzjq9kFnZvfAdgEg9Q"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Курская область забытый женский праздник православный 8 марта Жены-мироносицы народное название курские",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0121VUwAirK2oTG8kuQ6sXUX"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5929,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5929,
+    "cache_read_input_tokens": 18994,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1633,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1633,
+        "cache_read_input_tokens": 6747,
+        "input_tokens": 2,
+        "output_tokens": 565,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1110,
+    "output_tokens_details": {
+      "thinking_tokens": 211
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

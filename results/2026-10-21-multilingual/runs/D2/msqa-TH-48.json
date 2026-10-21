@@ -1,0 +1,381 @@
+{
+  "answer": "**答案：** 这种做法是兰纳（ล้านนา）女子披搭披肩布的一种方式，称为 **“สะหว้ายแหล้ง”（Sawailang）**，也叫 **“เบี่ยงบ้าย”（Biang Bai）**；也就是说，把布斜披在一侧肩上（ห่มเฉียงแบบสไบ / ห่มเฉวียงบ่า），让布尾垂到身后，这是清迈／泰阮（ไทยวน）女性按传统穿着上衣的样式。\n\n**依据网址：**\n- https://www.silpa-mag.com/culture/article_35746（原文：“…จะนำมาห่มเฉวียงบ่าข้างใดข้างหนึ่งแล้วปล่อยชายผ้าให้ตกไปด้านหลัง เรียก ‘สะหว้ายแหล้ง’ หรือ ‘เบี่ยงบ้าย’”）\n- https://cmhop.org/product/วัดเวียงต้าทิศตะวันตก-15/（称这种披法为“ห่มเฉียงแบบสไบหรือคล้องทิ้งชายไปด้านหลังเรียกว่า ‘สะหว้ายแหล้ง’ หรือ ‘เบี่ยงบ้าย’”）\n- http://www.huglanna.com/index.php/topic,77.msg432.html（“ใช้ห่มเฉียงแบบสไบเรียกว่าสะหว้ายแหล้งหรือเบี่ยงบ้าย”）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.251,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 22144,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1703088,
+      "inputTokens": 32255,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1843,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-48",
+  "raw": "jsonl/D2/msqa-TH-48.jsonl",
+  "reported_cost_usd": 0.1703088,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7738,
+      "query": "สตรีเชียงใหม่ จารีต ไม่สวมเสื้อ ผ้าห่มผืนหนึ่ง ห่มเฉวียงบ่า ปล่อยชายผ้าตกไปด้านหลัง",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/m1eqyE#1"
+        },
+        {
+          "date": "2023-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - เป็นผ้านุ่งของผู้หญิง มีลักษณะที่ต่างกันไป",
+          "url": "https://toke-tong.com/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าเบี่ยง :  ผ้าทอที่แสดงออกซึ่งความเคารพ ในวัฒนธรรมชาวอีสาน",
+          "url": "https://sacit.or.th/uploads/items/attachments/b4a721cfb62f5d19ec61575114d8a2d1/_620e732b36a3096cfec763ac1027c5ae.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การนุ่มห่มผ้าต้องให้เป็นปริมณฑล กล่าวคือไม่ปล่อยผ้าให้เลื่อยหน้าเลื่อยหลัง นุ่มห่ม",
+          "url": "https://buatwatpa.com/wp-content/uploads/2021/02/%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%A8%E0%B8%B5%E0%B8%A5.pdf#90#61"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สนง.ส่งเสริมพระกรรมฐาน",
+          "url": "https://www.madchima.org/forum/index.php?PHPSESSID=o06di0nsm2n4c99hi73d4vjpj4&action=printpage;topic=27193.0"
+        },
+        {
+          "date": "2011-09-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "นิตยสาร - - 8. สาวเชียงใหม่ 14 สาวเชียงใหม่ 15 เช่น งานปีใหม่ งานปอย เป็นต้น ต่างๆจะไม่สวมเสื้อ การเปลือยอก ทรงผม ในสมัยนั้นถือว่าเป็นเรื่...",
+          "url": "https://www.slideshare.net/slideshow/ss-9132880/9132880#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การห่มให้เรียบร้อย หมายถึง การห่มผ้าให้เป็นปริมณฑลโดยกระท ามุมทั้งสองให้เสมอกัน ส่วนการห่มแบบคฤหัสถ์อย่างใดอย่างหนึ่งโดยประการอื...",
+          "url": "https://e-thesis.mcu.ac.th/storage/zEgOjDiiIgmQgdNbxqlWUgVRk4ExvnIiJcTtu7Gy.pdf#64#42"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7902,
+      "query": "\"ห่มเฉวียงบ่า\" เชียงใหม่ สตรี ไม่สวมเสื้อ ชายผ้าตกด้านหลัง ถือว่า",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/m1eqyE#1"
+        },
+        {
+          "date": "2023-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - เป็นผ้านุ่งของผู้หญิง มีลักษณะที่ต่างกันไป",
+          "url": "https://toke-tong.com/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประเพณีล้านนา - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/category/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9e%e0%b8%93%e0%b8%b5%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%99%e0%b8%b2/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จากแรงจูงใจที่เป็นเหตุให้บุคคลต่าง ๆ แสดงความนอบน้อม เคารพ กราบไหว้ สักการะ บูชาบุคคลหรือสิ่งที่ควรแก่เคารพบูชาทั้งที่เกิดจากควา...",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/3215/1/Essences-of-Namo-in-the-Theravada-Buddhist-Scriptures.pdf#119#48"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดปฏิบัติในการครองจิรของพระสงฆ์มหานิกาย หรือพระสงฆ์ฝ่ายเถรวาทลัทธิลังกา วงศ์ในประเทศไทยก่อนที่จะมีค าสั่งของสมเด็จ พระมหาสมณเจ้...",
+          "url": "http://oldweb.mcu.ac.th/userfiles/file/library1/Thesis/902554.pdf#27#21"
+        },
+        {
+          "date": "2015-05-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อุ่งเขาตะกุด",
+          "url": "http://takruit.blogspot.com/2015/05/?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "มหานิกาย - - ประธานสหภาพพระธรรมทูตไทยในยุโรป พระธรรมพุทธิวงศ์ (สวัสดิ์ อตฺถโชโต) เจ้าอาวาสวัดพุทธาราม ประเทศเนเธอร์แลนด์",
+          "url": "https://wikimore.private.coffee/wiki/th/wiki/%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a2?__goaway_challenge=js-refresh&__goaway_id=0129e9a06412fd052a378522b3157041#2"
+        },
+        {
+          "date": "2015-05-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รูปแบบการห่มจีวร",
+          "url": "http://takruit.blogspot.com/2015/05/blog-post.html#comment-form"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7569,
+      "query": "\"สะหว้ายแหล้ง\" \"เบี่ยงบ้าย\" ถือว่า",
+      "results": [
+        {
+          "date": "2021-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดเวียงต้าทิศตะวันตก",
+          "url": "https://cmhop.org/product/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%a8%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b8%81-15/"
+        },
+        {
+          "date": "2021-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดเวียงต้า ทิศตะวันตก (แถวบนช่องที่ 1) 1.1.2",
+          "url": "https://cmhop.org/product/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%a8%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b8%81-6/#content"
+        },
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2021-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดเวียงต้าทิศเหนือ",
+          "url": "https://cmhop.org/product/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%a8%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad-23/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้หญิงเชียงใหม่",
+          "url": "http://www.huglanna.com/index.php/topic,77.msg432.html?PHPSESSID=2sqn3ucmc9nhadck4lqtka7il0#msg432"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาณาจักรล้านนา ฮักล้านนา",
+          "url": "http://www.huglanna.com/index.php?PHPSESSID=ce0vj4vis9ssgftn48rb8g3ub7&action=printpage;topic=77.0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ถ้าใช้แต่งในพิธีการอาจใช้ผ้าที่มีลักษณะพิเศษออกไปซึ่งเป็นประโยชน์ทั้งในการประดับและการใช้งาน",
+          "url": "https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/6098/3/RuttanawadeePapang.pdf#123#40"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หรือไปฟิงอยู่กับเหงือกไม้ คือ ส่วนที่ตัดเหลื่อมกัน ซึ่งไม้ที่กล่าวมานี้ห้ามนĞำมาปลูกเรือนสร้างบ้าน",
+          "url": "https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/6098/3/RuttanawadeePapang.pdf#123#39"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.8114,
+      "query": "สตรีเชียงใหม่ เปลือยอก ห่มผ้าเฉวียงบ่า ปล่อยชายด้านหลัง ถือเป็น วัฒนธรรม การแต่งกาย",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v2/article/%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%99+%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88+%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%A7%E0%B8%99-m1eqyE#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "และในอดีตมักจะนิยมนุ่งผ้าซื่นยาวมาก ส่วนที่เป็นหัวชื่นจึงมักพันเหน็บอยู่ตรงเกือบได้ทรวงอก[32]",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/aff44bff-e34f-4153-9e5a-e7f5021b7fb8/fulltext.pdf?attempt=2#47#42"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PUBLISHING SCIENCES IN USA, 1995, NO",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/13cc5f84-9dcf-455b-83cd-c1ead3ca66e0/MA_%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C_%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3.pdf?attempt=2#42#35"
+        },
+        {
+          "date": "2026-10-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motorradfahrer entblößt sich vor Touristin in Thailand",
+          "url": "https://www.wochenblitz.com/motorradfahrer-entbloesst-sich-vor-touristin-in-thailand/"
+        },
+        {
+          "date": "2023-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - เป็นผ้านุ่งของผู้หญิง มีลักษณะที่ต่างกันไป",
+          "url": "https://toke-tong.com/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": "2016-01-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Post-trip Reflections - University Scholars Programme",
+          "url": "https://blogs.ntu.edu.sg/fad2016/2016/01/23/post-trip-reflections-3/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่น คืออะไร - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประเพณีล้านนา - Toke-Tong โตกตอง อาหารเหนือ ร้านอาหารเชียงราย",
+          "url": "https://toke-tong.com/category/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9e%e0%b8%93%e0%b8%b5%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%99%e0%b8%b2/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประติมาตรรมนุ่นปั้นเพศกลับวิจิตรซึ่งรายละเอียด",
+          "url": "https://accl.cmu.ac.th/EN/public/download/rompayom2012-2.pdf#16#11"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 22144,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 32255,
+    "iterations": [],
+    "output_tokens": 1843,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

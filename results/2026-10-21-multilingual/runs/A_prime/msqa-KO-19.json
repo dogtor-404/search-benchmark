@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 화랑 정신的核心信条一般指**세속오계（世俗五戒）**。它是新罗真平王时期的僧人圆光法师（원광）应贵山、箒项的请求传授的，后来成了花郎徒的生活信条，一共五条：\n\n1. **사군이충（事君以忠）**：以忠事君\n2. **사친이효（事親以孝）**：以孝事亲\n3. **교우이신（交友以信）**：以信交友\n4. **임전무퇴（臨戰無退）**：临战不退\n5. **살생유택（殺生有擇）**：杀生有择\n\n另外，学界对它的来源有争议。有观点认为世俗五戒更偏儒家价值，在当时是新罗社会普遍遵守的德目，并不是花郎独有的精神。\n\n本题共搜索 1 次。\n\nSources:\n- [금곡사지 원광법사 부도탑 (한국학중앙연구원 디지털인문학)](https://dh.aks.ac.kr/~heritage/wiki/index.php/%EA%B8%88%EA%B3%A1%EC%82%AC%EC%A7%80_%EC%9B%90%EA%B4%91%EB%B2%95%EC%82%AC_%EB%B6%80%EB%8F%84%ED%83%91)\n- [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0029812)\n- [아주경제：원광법사 세속오계는 화랑정신이 아니다](https://www.ajunews.com/view/20180124141608429)\n- [경북매일](https://kbmaeil.com/article/201908290259286)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.983,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012287300000000001,
+      "inputTokens": 14728,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1629,
+      "provider": "firstParty",
+      "thinkingTokens": 227,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3851,
+      "cacheReadInputTokens": 6739,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0469718,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 740,
+      "provider": "firstParty",
+      "thinkingTokens": 67,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/A_prime/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.0592591,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "화랑도 세속오계 원광 사군이충 사친이효 교우이신 임전무퇴 살생유택",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Rp9gPchJr3phvCecSk4ips"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3851,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3851,
+    "cache_read_input_tokens": 6739,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2014,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2014,
+        "cache_read_input_tokens": 4288,
+        "input_tokens": 2,
+        "output_tokens": 562,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 740,
+    "output_tokens_details": {
+      "thinking_tokens": 67
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

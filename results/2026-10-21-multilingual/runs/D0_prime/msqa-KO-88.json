@@ -1,0 +1,62 @@
+{
+  "answer": "1552 年（朝鲜明宗七年，壬子年）农历十月，李滉（退溪）受命出任成均馆大司成并赴任。此前他被多次任命但一直辞让，到这一年十月才真正到任；据说儒生们对他十分敬重，纷纷起立行礼。次年（1553 年）他便辞官南归。具体日子我按记忆为“十月”，无法上网核对更精确的日期。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.15,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.04688,
+      "inputTokens": 2045,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1935,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-88",
+  "raw": "jsonl/D0_prime/msqa-KO-88.jsonl",
+  "reported_cost_usd": 0.04688,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2045,
+    "iterations": [],
+    "output_tokens": 1935,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

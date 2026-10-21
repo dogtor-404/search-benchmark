@@ -1,0 +1,136 @@
+{
+  "answer": "Agoté las 5 búsquedas y no encontré la frase exacta de la pregunta. Doy la respuesta más probable, pero no está confirmada.\n\n**Respuesta probable:** desde la **Baja Edad Media**. Las leyes de Castilla de 1370 y 1387 hicieron que los laicos fueran juzgados por tribunales reales (civiles) y no eclesiásticos. Un decreto de **1500**, en la época de los Reyes Católicos, confirmó que esa competencia correspondía a los corregidores y tribunales civiles.\n\nNinguna fuente que encontré menciona expresamente que los acusados se recluyeran en cárceles civiles \"para evitar su fuga\". Esa parte de la pregunta queda sin confirmar. Si la pregunta busca una fecha concreta y no un periodo, la alternativa es 1500.\n\nFuentes:\n- [Brujería en España – Wikipedia](https://es.wikipedia.org/wiki/Brujer%C3%ADa_en_Espa%C3%B1a)\n- [Caza de brujas – Wikipedia](https://es.wikipedia.org/wiki/Caza_de_brujas)\n- [La Inquisición y el problema de las brujas en 1526 – Cervantes Virtual](https://www.cervantesvirtual.com/descargaPdf/la-inquisicion-y-el-problema-de-las-brujas-en-1526/)\n- [TFG \"El Tribunal de la Inquisición\" – UVaDOC](https://uvadoc.uva.es/bitstream/handle/10324/68173/TFG-D_%2001755.pdf?sequence=1&isAllowed=y)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 57.717,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059567300000000004,
+      "inputTokens": 69823,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5170,
+      "provider": "firstParty",
+      "thinkingTokens": 1313,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9753,
+      "cacheReadInputTokens": 38694,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.12199079999999998,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1809,
+      "provider": "firstParty",
+      "thinkingTokens": 724,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-53",
+  "raw": "jsonl/A_prime/msqa-ES-53.jsonl",
+  "reported_cost_usd": 0.1815581,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "jueces pasaron a ser laicos acusados recluidos en cárceles civiles para evitar su fuga España",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01GP4J1GLN1sESNnqHaQt9uJ"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"jueces pasaron a ser laicos\" cárceles civiles",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Ropopx36GUnLoZMZX5JaGc"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Inquisición España jueces laicos acusados cárceles civiles evitar fuga periodo",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016grvr3FSYo3sKWgJpRMotY"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "brujería España \"jueces\" \"laicos\" \"cárceles civiles\" siglo",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016eHr8Pyn7wAuidtPUpUk4k"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "\"Brujería en España\" jueces laicos acusados encerrados en cárceles civiles para evitar su fuga",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019GaKxTLAkcQeN5VyB9bvjs"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9753,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9753,
+    "cache_read_input_tokens": 38694,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1650,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1650,
+        "cache_read_input_tokens": 10554,
+        "input_tokens": 2,
+        "output_tokens": 810,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1809,
+    "output_tokens_details": {
+      "thinking_tokens": 724
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

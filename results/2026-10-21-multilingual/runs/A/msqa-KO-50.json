@@ -1,0 +1,100 @@
+{
+  "answer": "**\"꾸웨액\"은 \"후회해?\"라는 뜻의 신조어입니다.** 2022년 12월 말 트위터에서 퍼지기 시작했습니다. \"나 만나는 거 꾸웨액?\"은 \"나 만나는 거 후회해?\"라는 뜻입니다. 정확한 어원과 최근 사용 현황은 검색 결과에서 확인하지 못했습니다.\n\nSources:\n- [Trend A Word #184](https://maily.so/trendaword/posts/3371484c)\n- [maily.so/trendaword](https://maily.so/trendaword/posts/92zeepnnzep)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.934,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116182,
+      "inputTokens": 12162,
+      "maxOutputTokens": 128000,
+      "outputTokens": 804,
+      "provider": "firstParty",
+      "thinkingTokens": 122,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3132,
+      "cacheReadInputTokens": 6740,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.01625,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 304,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-50",
+  "raw": "jsonl/A/msqa-KO-50.jsonl",
+  "reported_cost_usd": 0.0278682,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "꾸웨액 유행어 뜻",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_018SgGVeCqp3SJvSDdd91G29"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3132,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3132,
+    "cache_read_input_tokens": 6740,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1294,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1294,
+        "cache_read_input_tokens": 4289,
+        "input_tokens": 2,
+        "output_tokens": 219,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 304,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

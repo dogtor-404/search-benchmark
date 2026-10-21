@@ -1,0 +1,118 @@
+{
+  "answer": "**答案：在济州方言里，“지슬”的意思是马铃薯（土豆），标准韩语叫“감자”。** 一共搜了 3 次。\n\n- 头两次用韩语搜，结果里没有直接写出“지슬=감자”，只查到吴蔑（오멸）导演的电影《지슬》讲的是济州 4·3 事件，台词全用济州方言。\n- 第 3 次用英语搜，英文维基百科的 *Jiseul* 词条说片名就是济州话“土豆”的意思。KoreanClass101 的一课里也说“지실”在济州方言里是土豆。不同来源写法不一样，有“지슬”和“지실”两种。\n\n来源：\n- [Jiseul – Wikipedia](https://en.wikipedia.org/wiki/Jiseul)\n- [KoreanClass101 – How Many Varieties of Korean Are There?](https://www.koreanclass101.com/lesson/korean-teachers-answer-your-questions-5-how-many-dialects-of-korean-are-there)\n- [首尔新闻：采访电影《지슬》导演吴蔑](https://m.seoul.co.kr/news/2013/02/21/20130221023001)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 35.888,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0349816,
+      "inputTokens": 37961,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2371,
+      "provider": "firstParty",
+      "thinkingTokens": 517,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5787,
+      "cacheReadInputTokens": 19818,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0654316,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 757,
+      "provider": "firstParty",
+      "thinkingTokens": 80,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/A_prime/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.10041319999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "제주도 방언 지슬 뜻 감자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SUiMj7XedTQsDGQNDMNncn"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "영화 지슬 제목 뜻 제주어 감자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PwY5DYNsoHAgkn5Lmyjgf3"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Jiseul Jeju dialect for potato",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012yT6HzTWxUfnP6mhDYfYWz"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5787,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5787,
+    "cache_read_input_tokens": 19818,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1109,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1109,
+        "cache_read_input_tokens": 7129,
+        "input_tokens": 2,
+        "output_tokens": 460,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 757,
+    "output_tokens_details": {
+      "thinking_tokens": 80
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

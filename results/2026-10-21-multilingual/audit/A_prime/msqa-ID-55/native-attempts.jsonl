@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "tarian Ma'bua Toraja diselenggarakan berapa tahun sekali", "results": [], "status": "allowed", "tool_use_id": "toolu_018kTwCmSET9ocZY8WhhGyVy"}
+{"billable": false, "call": 2, "query": "Ma'bua dance Toraja held once every 12 years", "results": [], "status": "allowed", "tool_use_id": "toolu_01PqnjKBhidsSfefsd1eYKQx"}
+{"billable": false, "call": 3, "query": "tarian Ma'bua Toraja hanya diadakan 12 tahun sekali", "results": [], "status": "allowed", "tool_use_id": "toolu_01LFcbxcg5CS77xTMHTgq1tK"}
+{"billable": false, "call": 4, "query": "Toraja Ma'bua' dance \"12 years\" wikipedia", "results": [], "status": "allowed", "tool_use_id": "toolu_01K651oiZhFrvpLstXNP1CxQ"}

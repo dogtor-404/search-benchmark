@@ -1,0 +1,62 @@
+{
+  "answer": "「모에모에뀽」是日语 **「萌え萌えキュン」（もえもえきゅん，moe moe kyun）** 的韩语音译。\n\n意思拆开看：\n\n- **萌え（모에 / moe）**：对角色、事物产生“好可爱、好喜欢”的萌系感情。\n- **キュン（뀽 / kyun）**：心跳漏一拍、心动的拟声词（心口“咚”一下）。\n\n合起来大致是：**“好萌好萌，心动不已～”**。它常被当作一句可爱的“咒语”，配合双手比心、眨眼等动作使用。\n\n背景：这句话在秋叶原女仆咖啡店文化里很常见——女仆给蛋包饭等餐点“施法”时念这句，意思是让食物变得更好吃、更可爱。后来通过动画、网络传播开，成了御宅族和日韩网络上的流行语，在韩国也常被当作撒娇（애교）用语使用。\n\n至于它最初具体由哪部作品带火，我记得不够确定，就不乱说了；能确定的是它与女仆咖啡店和“萌”文化密切相关。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.147,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.033524,
+      "inputTokens": 1976,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1281,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-58",
+  "raw": "jsonl/D0/msqa-KO-58.jsonl",
+  "reported_cost_usd": 0.033524,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1976,
+    "iterations": [],
+    "output_tokens": 1281,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

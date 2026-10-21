@@ -1,0 +1,100 @@
+{
+  "answer": "**답변:** 화랑의 핵심 신조는 원광법사가 귀산·추항에게 준 **세속오계(世俗五戒)**라는 것이 통설입니다. 다섯 가지는 다음과 같습니다.\n- 사군이충: 임금을 충성으로 섬긴다.\n- 사친이효: 부모를 효로 섬긴다.\n- 교우이신: 벗을 믿음으로 사귄다.\n- 임전무퇴: 전장에서 물러서지 않는다.\n- 살생유택: 살생을 가려서 한다.\n\n다만 세속오계를 화랑정신 그 자체로 볼 수 있는지에는 학자마다 견해가 다릅니다. 화랑도가 원광의 가르침보다 먼저 있었다고 보는 자료도 있고, 원광이 새로 만든 것이 아니라 이미 있던 것을 전했다고 보는 자료도 있습니다.\n\n검색은 1번만 했고, 위 내용은 검색 결과의 요약문을 근거로 한 것입니다. 개별 기사 본문은 열어 보지 않았습니다.\n\nSources:\n- [아주스페셜-화랑④ 원광법사 세속오계는 화랑정신이 아니다](https://www.ajunews.com/view/20180124141608429)\n- [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0029812)\n- [금곡사지 원광법사 부도탑](https://dh.aks.ac.kr/~heritage/wiki/index.php/%EA%B8%88%EA%B3%A1%EC%82%AC%EC%A7%80_%EC%9B%90%EA%B4%91%EB%B2%95%EC%82%AC_%EB%B6%80%EB%8F%84%ED%83%91)\n- [세속 오계 (위키)](https://wiki.onul.works/w/%EC%84%B8%EC%86%8D_%EC%98%A4%EA%B3%84)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.079,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011984700000000001,
+      "inputTokens": 13682,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1233,
+      "provider": "firstParty",
+      "thinkingTokens": 409,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3331,
+      "cacheReadInputTokens": 6743,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0218163,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 781,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/A/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.033801,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "화랑 세속오계 핵심 신조 원광법사",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FsTNgZMvEs8oyoXNVRkfNB"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3331,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3331,
+    "cache_read_input_tokens": 6743,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1490,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1490,
+        "cache_read_input_tokens": 4292,
+        "input_tokens": 2,
+        "output_tokens": 690,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 781,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

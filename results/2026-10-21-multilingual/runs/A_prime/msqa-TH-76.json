@@ -1,0 +1,136 @@
+{
+  "answer": "我用完了 5 次搜索，下面是结果。\n\n**答案：** 大约从**佛历 2520 年（公元 1977 年）前后**开始。泰国南部唯一的火箭节（บุญบั้งไฟ）在陶公府（Narathiwat）苏吉林县（Sukhirin）的普考通区（Phukhao Thong）。从东北部（伊善）迁来的移民是按\"自建村落（นิคมสร้างตนเอง）\"分地政策来这里定居的，大约 1975 年（佛历 2518 年）前后开始落户，1977 年前后起在社区里小规模办这个节，后来规模越办越大，现在每年 6 月第二周举行，也是府里推广旅游的活动。\n\n**可信度：** Thai PBS The Active 的报道写的是\"佛历 2520 年前后起步时在社区里小规模办\"，没有给出确切年份。从\"第 46 届\"往回推算，结果和这个时间对得上。但我没有确认\"第 46 届\"是哪一年，所以这个推算没有核实。2014 年（佛历 2557 年）的一则新闻说当时\"已办了近 30 年\"，按这个说法起点要晚一些，和前面的说法不完全一致。\n\n依据的网址：\n- [Thai PBS The Active：‘บุญบั้งไฟสุคิริน’（佛历 2520 年前后起步）](https://theactive.thaipbs.or.th/news/local-20240609)\n- [Thai PBS The Active：‘สุคิริน’ หม่องนี่...มีคนอีสาน（伊善移民 2518 年起定居）](https://theactive.thaipbs.or.th/view/bun-bang-fai-tradition-at-the-southern-border)\n- [LINE Today：นราธิวาส จัดงานบุญบั้งไฟสุคิรินปีที่ 46](https://today.line.me/th/v3/article/3Nl86no)\n- [MGR Online：บุญบั้งไฟสุคิริน หนึ่งเดียวในภาคใต้（2014 年，\"近 30 年\"）](https://mgronline.com/south/detail/9570000066185)\n- [Wikipedia：Rocket Festival（提到苏吉林县）](https://en.wikipedia.org/wiki/Rocket_Festival)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 61.718,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0592516,
+      "inputTokens": 61391,
+      "maxOutputTokens": 128000,
+      "outputTokens": 6225,
+      "provider": "firstParty",
+      "thinkingTokens": 1163,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 10704,
+      "cacheReadInputTokens": 39811,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1314822,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1892,
+      "provider": "firstParty",
+      "thinkingTokens": 534,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/A_prime/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.1907338,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "บุญบั้งไฟ ภาคใต้ เริ่มจัดตั้งแต่",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AZLTbrP9TrmU1D8mza7P3h"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "งานบุญบั้งไฟ ภาคใต้ ครั้งแรก ประวัติ วิกิพีเดีย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TrZW1Qh3d5EHcYv7dNuMDs"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Rocket Festival Bun Bang Fai southern Thailand since",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QC8w9eR5oagJdKyRVQ3u5D"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "บุญบั้งไฟ สุคิริน นราธิวาส เริ่มจัด",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JYvsktTqmdjABdYVHTBRzU"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "ประเพณีบุญบั้งไฟ อำเภอสุคิริน จังหวัดนราธิวาส ชาวอีสาน อพยพ ตั้งแต่ปี พ.ศ.",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016wFkbfQnqhKNhiSGF9oDxS"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10704,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10704,
+    "cache_read_input_tokens": 39811,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2611,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2611,
+        "cache_read_input_tokens": 10544,
+        "input_tokens": 2,
+        "output_tokens": 869,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1892,
+    "output_tokens_details": {
+      "thinking_tokens": 534
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

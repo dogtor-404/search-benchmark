@@ -1,0 +1,235 @@
+{
+  "answer": "**Jawaban:** Dalam rumpun bahasa Sulawesi Selatan, bahasa Bugis paling dekat dengan **bahasa Campalagian** dan **bahasa-bahasa Tamanik di Kalimantan Barat**, yaitu **bahasa Embaloh** dan **bahasa Taman**. Keempatnya masuk dalam satu subkelompok. Bahasa Makassar termasuk subkelompok lain.\n\n**Sumber:**\n- Wikipedia (Buginese language): \"Within the South Sulawesi subgroup, it is most closely related to Campalagian and the Tamanic outlier in West Kalimantan.\" Saya membacanya lewat salinan Kiwix: https://browse.library.kiwix.org/content/wikipedia_en_top_maxi/Buginese_language\n- Wikipedia Indonesia (Rumpun bahasa Sulawesi Selatan): menurut halaman ini, bahasa Embaloh dan Taman \"serumpun dengan bahasa Bugis dan bahasa Campalagian\". Saya membacanya lewat Wikiwand: https://www.wikiwand.com/id/Rumpun_bahasa_Sulawesi_Selatan\n- Sumber pendukung: https://kkssnunukan.wordpress.com/2016/10/13/sekilas-perbedaan-suku-bugis-dan-suku-makassar/\n\nSaya mencari 2 kali. Isi di atas berasal dari ringkasan hasil pencarian, bukan dari halaman yang saya buka penuh.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.613,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 23460,
+      "cacheReadInputTokens": 21642,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.20893240000000002,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 845,
+      "provider": "firstParty",
+      "thinkingTokens": 130,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/B_prime/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.20893240000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7867,
+      "query": "Bahasa Bugis berkerabat dekat dengan bahasa",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LEKSIKOSTATISTIK BAHASA BUGIS DAN BAHASA TORAJA (Lexicostatistic of Bugis Language and Toraja Language)",
+          "url": "https://scholar.google.fr/scholar?oi=bibs&cluster=803926132005456989&btnI=1&hl=fr&_x_output_type_b6db407c4_=embedded_pdf#5#1"
+        },
+        {
+          "date": "2025-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Relasi Kekerabatan Bahasa Bugis dengan Bahasa Bajo di Sulawesi Tenggara",
+          "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/5134652"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdiktisaintek.go.id/author/view/7070601?page=1&jid=37544&jname=cakrawala+listra++jurnal+kajian+sastra+bahasa+dan+budaya+indonesia"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdikbud.go.id/author/view/7070560"
+        },
+        {
+          "date": "2021-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Buginesisch :: museum-digital:staatliche museen zu berlin",
+          "url": "https://smb.museum-digital.de/people/46802"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Subihah[1], Atika Puji Lestiyani[2], Muldawati[3], Asep Muhyidin[4]",
+          "url": "https://jurnal.pbsi.uniba-bpn.ac.id/index.php/BASATAKA/article/download/418/219/1590#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Cakrawala Listra: Jurnal Kajian Sastra, Bahasa, dan Budaya Indonesia**",
+          "url": "http://journal.fib.uho.ac.id/index.php/cakrawalalistra/article/download/1413/1065/4835#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The Treasury of languages; a rudimentary dictionary of universal philology\" - the  S",
+          "url": "https://archive.org/stream/treasuryoflangua00bonwiala/treasuryoflangua00bonwiala_djvu.txt#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**ABSTRACT**",
+          "url": "https://repository.unja.ac.id/68362/4/ABSTRAK.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It is acknowledged that the Buginese and Makassaese are indeed two different languages",
+          "url": "https://prodi.unhas.ac.id/storage/uploads/files/658/_Jurnal_internasional_bereputasi__Luaran_Penelitian_DPRPS_dalam_bentuk_publikasi_artikel_dalam_3_tahun_saat_TS__2__compress.pdf#237#845#237"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6212,
+      "query": "Bahasa Bugis Wikipedia rumpun Sulawesi Selatan kerabat terdekat Campalagian",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian in Indonesia - Campalagian in Indonesia",
+          "url": "https://joshuaproject.net/index.php/people_groups/11084/ID#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian in Indonesia",
+          "url": "https://m.joshuaproject.net/people_groups/11084/ID"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language - Campalagian",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/A/Campalagian_language#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language - Campalagian language",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Campalagian_language#1"
+        },
+        {
+          "date": "2015-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Campalagian language",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20151116010558/https://en.wikipedia.org/wiki/Campalagian_language"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bugis in Indonesia - Bugis in Indonesia",
+          "url": "https://joshuaproject.net/people_groups/print/10985/ID#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tata bahasa Bugis",
+          "url": "https://books.google.co.id/books?id=1OIsAAAAIAAJ&q=dialek&hl=id&output=html_text&source=gbs_word_cloud_r&cad=4"
+        },
+        {
+          "date": "2020-09-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Buginese language - Buginese language",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_top_maxi/Buginese_language#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rumpun bahasa Sulawesi Selatan - Wikiwand - Rumpun bahasa Sulawesi Selatan",
+          "url": "https://www.wikiwand.com/id/Rumpun_bahasa_Sulawesi_Selatan#1"
+        },
+        {
+          "date": "2016-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sekilas Perbedaan Suku Bugis dan Suku Makassar",
+          "url": "https://kkssnunukan.wordpress.com/2016/10/13/sekilas-perbedaan-suku-bugis-dan-suku-makassar/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 23460,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 23460,
+    "cache_read_input_tokens": 21642,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9671,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9671,
+        "cache_read_input_tokens": 15793,
+        "input_tokens": 2,
+        "output_tokens": 544,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 845,
+    "output_tokens_details": {
+      "thinking_tokens": 130
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

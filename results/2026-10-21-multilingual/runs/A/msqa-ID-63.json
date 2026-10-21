@@ -1,0 +1,109 @@
+{
+  "answer": "Saya tidak menemukan sumber yang menyatakan secara langsung di mana suku Yali biasanya memelihara babi.\n\nYang bisa saya pastikan dari hasil pencarian:\n- Suku Yali tinggal di Papua Pegunungan, di wilayah Yalimo, Yahukimo, dan sekitarnya. Rumah mereka bundar dan bertiang, dengan rumah perempuan dan rumah laki-laki yang terpisah.\n- Babi adalah sumber daya yang terkait status dan kekayaan. Babi terutama disembelih untuk pesta seperti pernikahan. Di Dataran Tinggi Papua Nugini secara umum, perempuan yang biasanya mengurus babi, tetapi sumber ini tidak khusus membahas suku Yali.\n- Satu sumber menyebut babi Yali dipelihara secara ekstensif. Tafsiran saya, babi dilepas di sekitar kebun dan hutan, bukan dikandangkan. Itu belum dipastikan untuk Yali. Di Lembah Baliem, babi suku Dani memang dibiarkan berkeliaran di jalan dan kebun, tetapi itu bukan suku Yali.\n- Saya tidak menemukan sumber yang menjelaskan kandang babi suku Yali, atau apakah babi tidur di dalam rumah perempuan.\n\nUntuk jawaban pasti, Anda bisa merujuk ke studi etnografi Yali, misalnya Sorokowski dkk. (2013) tentang babi dan kekayaan pada suku Yali.\n\nSources:\n- [Yali people – Wikipedia](https://en.wikipedia.org/wiki/Yali_people)\n- [Why pigs are important in Papua? (Sorokowski dkk.)](https://digilab.uwr.edu.pl/en/dlibra/publication/102767/why-pigs-are-important-in-papua-wealth-height-and-reproductive-success-among-the-yali-tribe-of-west-papua-sorokowski-piotr-sorokowska-agnieszka-danel)\n- [Babi miliki banyak makna di Papua – ANTARA](https://www.antaranews.com/berita/150900/babi-miliki-banyak-makna-di-papua)\n- [Mengapa babi jadi hewan yang disakralkan di Papua – GNFI](https://www.goodnewsfromindonesia.id/2021/08/16/bisa-dihargai-rp30-juta-mengapa-babi-jadi-hewan-yang-disakralkan-di-papua)\n- [Pig Men and Women, Big Men and Women](https://katalog.dhi-paris.fr/vufind/Record/JST031832393)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 25.384,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0237143,
+      "inputTokens": 27743,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1880,
+      "provider": "firstParty",
+      "thinkingTokens": 320,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4601,
+      "cacheReadInputTokens": 12535,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0313595,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1169,
+      "provider": "firstParty",
+      "thinkingTokens": 44,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-63",
+  "raw": "jsonl/A/msqa-ID-63.jsonl",
+  "reported_cost_usd": 0.055073800000000006,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "suku Yali Papua memelihara babi di mana kandang babi",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FSHrwufbVYhoBKJMHiCvRD"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Yali people pigs kept in house women's section pig stall Yalimo",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016bKdDsyKYrog6rMHnznV61"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4601,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4601,
+    "cache_read_input_tokens": 12535,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1253,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1253,
+        "cache_read_input_tokens": 5799,
+        "input_tokens": 2,
+        "output_tokens": 937,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1169,
+    "output_tokens_details": {
+      "thinking_tokens": 44
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

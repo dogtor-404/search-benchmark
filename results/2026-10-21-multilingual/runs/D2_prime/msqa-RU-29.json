@@ -1,0 +1,144 @@
+{
+  "answer": "**Маргоски** — так в Курской области (особенно в южных районах) называется старинный женский праздник, который отмечают во второе воскресенье после Пасхи, на неделю Жён-Мироносиц.\n\n依据：\n- https://odnt46.ru/2022/05/20/vesennij-prazdnik-narodnogo-kalendarya-margoski/\n- https://www.culture.ru/objects/2885/vesennii-prazdnik-margoski-v-yuzhnykh-raionakh-kurskoi-oblasti\n- https://www.bolshoyvopros.ru/questions/3894065-kak-nazyvalsja-vesennij-zhenskij-prazdnik-v-juzhnyh-rajonah-kurskoj-oblasti.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.188,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0458744,
+      "inputTokens": 9832,
+      "maxOutputTokens": 32000,
+      "outputTokens": 303,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-29",
+  "raw": "jsonl/D2_prime/msqa-RU-29.jsonl",
+  "reported_cost_usd": 0.0458744,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.739,
+      "query": "Курская область старинный женский праздник второе воскресенье после Пасхи православное 8 марта",
+      "results": [
+        {
+          "date": "2022-05-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник народного календаря «Маргоски» - Курский областной Дом народного творчества",
+          "url": "https://odnt46.ru/2022/05/20/vesennij-prazdnik-narodnogo-kalendarya-margoski/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Программа «Маргоски» — описание, программа мероприятия, дата, время. Адрес места проведения — . Афиша",
+          "url": "https://welcomekursk.ru/events/37286/programma-margoski"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник «Маргоски» в южных районах Курской области - Южные районы Курской области — Суджанский, Беловский, Большесолдатский, Обоянский — являются частью локальной традиции курско-бе...",
+          "url": "https://www.culture.ru/objects/2885/vesennii-prazdnik-margoski-v-yuzhnykh-raionakh-kurskoi-oblasti#1"
+        },
+        {
+          "date": "2021-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Как назывался весенний женский праздник в южных районах Курской области?",
+          "url": "https://www.bolshoyvopros.ru/questions/3894065-kak-nazyvalsja-vesennij-zhenskij-prazdnik-v-juzhnyh-rajonah-kurskoj-oblasti.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЖЕНСКИЙ ПРАЗДНИК | это... Что такое ЖЕНСКИЙ ПРАЗДНИК? - ЖЕНСКИЙ ПРАЗДНИК",
+          "url": "https://dic.academic.ru/dic.nsf/russian_history/10098/%D0%96%D0%95%D0%9D%D0%A1%D0%9A%D0%98%D0%99#1"
+        },
+        {
+          "date": "2022-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Курск 8 мая ждет очередной теплый день без осадков",
+          "url": "https://gi-kursk.ru/news/society/41867/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник «Маргоски» — описание, программа мероприятия, дата, время. Адрес места проведения — . Афиша",
+          "url": "https://welcomekursk.ru/events/25460/vesennii-prazdnik-margoski"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "пространства» [1]",
+          "url": "https://kkk46.ru/files/Sbornik_materialov_NPK_27_yanvarya_2021.pdf#54#51"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td rowspan=\"9\"></td><td>Яичница – первое, что упоминают жители курских сел, говоря о</td><td>None</td></tr><tr><td>N...",
+          "url": "https://museum-vrn.ru/files/2020/trudy_vokm_vypusk_3.pdf#134#122"
+        },
+        {
+          "date": "2022-05-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Курск 8 мая ждет очередной теплый день без осадков - Лента новостей Курска",
+          "url": "https://kursk-news.net/society/2022/05/08/182093.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 9832,
+    "iterations": [],
+    "output_tokens": 303,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

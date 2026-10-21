@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "ขนม \"แดกงา\" เปลี่ยนชื่อใหม่ ให้สุภาพ เพราะพริ้ง", "results": [], "status": "allowed", "tool_use_id": "toolu_01PUcZjDEvQZMiNZjZPx3oRJ"}
+{"billable": false, "call": 2, "query": "ขนมแดกงา ชื่อใหม่ เรียกว่า ขนมงา", "results": [], "status": "allowed", "tool_use_id": "toolu_01FmssmaLtth6DsVfhkeQT7K"}
+{"billable": false, "call": 3, "query": "\"แดกงา\" ขนม เปลี่ยนชื่อเป็น \"ขนมหมกงา\" OR \"ขนมรสงา\" OR \"ข้าวเหนียวหน้างา\" ชื่อสุภาพ", "results": [], "status": "allowed", "tool_use_id": "toolu_01UaMLKt2dKFhJSNiLvgeEJ3"}
+{"billable": false, "call": 4, "query": "ขนมแดกงา ปัจจุบันคนขายเรียกชื่อใหม่ให้เพราะ สุภาพ ว่า", "results": [], "status": "allowed", "tool_use_id": "toolu_01F2m1idyyERGG2Nr4dza3bC"}

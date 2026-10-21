@@ -1,0 +1,74 @@
+{
+  "answer": "**古义是“赢、战胜”（相当于现代泰语的 ชนะ），和现在“输”的意思正好相反。**\n\n常引用的例子是素可泰时期的兰甘亨碑文：\n\n> ตนกูพุ่งช้างขุนสามชน ตัวชื่อมาสเมือง**แพ้** ขุนสามชนพ่ายหนี\n\n意思是：我（兰甘亨）骑着名叫“马斯勐”的象冲向坤三春的象，**打败了**对方，坤三春溃逃。这里的 แพ้ 是“战胜”。碑文里表示“败、溃”的词是 พ่าย。\n\n后来 แพ้ 的意思转成了“输、败”，也引申出“对……过敏、受不了”（如 แพ้อาหาร）。\n\n我对“古义是战胜”这一点比较确定。词义具体在什么时候、怎么反转过来的，我说不准。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.88,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1765,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0261416,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 585,
+      "provider": "firstParty",
+      "thinkingTokens": 266,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/0_prime/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.0261416,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1765,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1765,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1765,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 585,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 585,
+    "output_tokens_details": {
+      "thinking_tokens": 266
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

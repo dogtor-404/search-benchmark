@@ -1,0 +1,62 @@
+{
+  "answer": "**Водская пятина** (Водская пятина).\n\nОна охватывала северо-западные земли Новгородской республики — бассейны нижнего Волхова, Невы, Луги и Нарвы, южное побережье Финского залива (Ижорская земля), с городами Ям, Копорье, Ивангород.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.473,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.025384,
+      "inputTokens": 1986,
+      "maxOutputTokens": 32000,
+      "outputTokens": 872,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-24",
+  "raw": "jsonl/D0/msqa-RU-24.jsonl",
+  "reported_cost_usd": 0.025384,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1986,
+    "iterations": [],
+    "output_tokens": 872,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

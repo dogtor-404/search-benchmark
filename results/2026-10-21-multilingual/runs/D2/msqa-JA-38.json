@@ -1,0 +1,144 @@
+{
+  "answer": "**正式名称：紫雲山 頂法寺（しうんざん ちょうほうじ）**\n\n「六角堂」是通称，因为本堂的屋顶呈六角形。它位于京都市中心，以结缘、求财等功效闻名，也是一处著名的能量景点（パワースポット）。\n\n参考：\n- 京都府観光連盟公式サイト：https://www.kyoto-kankou.or.jp/info_search/35\n- ことりっぷ：https://co-trip.jp/article/280722?page=1",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.904,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0484568,
+      "inputTokens": 10489,
+      "maxOutputTokens": 32000,
+      "outputTokens": 302,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-38",
+  "raw": "jsonl/D2/msqa-JA-38.jsonl",
+  "reported_cost_usd": 0.0484568,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7976,
+      "query": "京都 六角堂 正式名称 パワースポット",
+      "results": [
+        {
+          "date": "2020-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "恋も幸せもほっこり祈る♡スタバでお茶も忘れずに♪京都「六角堂」 | icotto（イコット）",
+          "url": "https://icotto.jp/presses/18165?lid=related_press_2"
+        },
+        {
+          "date": "2018-08-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "京都の名所「六角堂」がきれいに見下ろせる！ヒミツにしたい絶景スポット ｜ ことりっぷ",
+          "url": "https://co-trip.jp/article/280722?page=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "京都のへそでお願い事 - 紫雲山頂法寺（六角堂）の口コミ - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/spt_26104ag2130015318/kuchikomi/0002057982/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "紫雲山頂法寺（六角堂）",
+          "url": "https://japantravel.navitime.com/zh-tw/area/jp/spot/02301-1301378/"
+        },
+        {
+          "date": "2026-07-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "京都市中京区 六角堂 | 【公式】高野山の納骨と永代供養 持明院「はすの会」",
+          "url": "https://www.hasunokai.jp/2026/07/29/%e4%ba%ac%e9%83%bd%e5%b8%82%e4%b8%ad%e4%ba%ac%e5%8c%ba%e3%80%80%e5%85%ad%e8%a7%92%e5%a0%82/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "六角堂（紫雲山頂法寺） | スポット一覧 | 京都府観光連盟公式サイト",
+          "url": "https://www.kyoto-kankou.or.jp/info_search/35"
+        },
+        {
+          "date": "2021-02-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "京都の中心地点、聖徳太子創建『六角堂（頂法寺）』の楽しみ方",
+          "url": "https://travel.navitime.com/ja/area/jp/guide/KYO20210205050055/"
+        },
+        {
+          "date": "2026-02-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "六角堂 - 六角堂",
+          "url": "https://baike.baidu.com/item/%E5%85%AD%E8%A7%92%E5%A0%82#1"
+        },
+        {
+          "date": "2020-01-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "女性を見守る神さまにお願い！縁結び＆運気UPを祈願する京都さんぽ｜るるぶ&more. - おでかけ 更新日：2020.01.11",
+          "url": "https://rurubu.jp/andmore/article/9742?utm_campaign=rss&utm_term=9700?utm_content=9742#1"
+        },
+        {
+          "date": "2025-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "おすすめスポット【六角堂（頂法寺）】/東急バケーションズ京都のブログ - 宿泊予約は＜じゃらん＞",
+          "url": "https://www.jalan.net/yad352374/blog/entry0006527372.html?screenId=UWW3001&dateUndecided=1&adultNum=2&afCd=31&rootCd=04&distCd=01&smlCd=262302&roomCrack=200000&"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10489,
+    "iterations": [],
+    "output_tokens": 302,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

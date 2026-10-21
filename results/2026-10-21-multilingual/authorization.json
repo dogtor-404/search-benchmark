@@ -1,0 +1,12 @@
+{
+  "authorized_at": "2026-10-21T06:54:19.793943+08:00",
+  "new_answer_records": 1200,
+  "pilot_answer_reused": false,
+  "pilot_completion_sha256": "a2551b733c230d6139ac8f5d30f17917f4f21aca66180343d6c0c83f4ce34314",
+  "pilot_report_sha256": "5a04907d74eb552661f1d27612f3ca195b160f0da2680447d63ef773a586fced",
+  "planned_grade_records": 3600,
+  "question_sha256": "dc584590c1ff973bc011ece981c8fdbbea002aeb178d6f56a08a685b3060ff0a",
+  "scope": "第二轮十组120题全量作答、三位AI盲判与独立报告；不公开",
+  "user_message": "开始",
+  "workers": 4
+}

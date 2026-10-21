@@ -1,0 +1,62 @@
+{
+  "answer": "**Вяземский пряник**（维亚济马蜜糖饼/姜饼）。\n\n它是一种**заварной**（用烫面/熬糖浆“烫熟”面团）的古老甜点，产自斯摩棱斯克省的维亚济马（Вязьма）。历史上与**图拉蜜糖饼**（тульский）和**勒热夫蜜糖饼**（ржевский）并称俄国三大节庆蜜糖饼品种。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.456,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.021915999999999998,
+      "inputTokens": 2009,
+      "maxOutputTokens": 32000,
+      "outputTokens": 694,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-74",
+  "raw": "jsonl/D0/msqa-RU-74.jsonl",
+  "reported_cost_usd": 0.021915999999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2009,
+    "iterations": [],
+    "output_tokens": 694,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

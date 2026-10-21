@@ -1,0 +1,145 @@
+{
+  "answer": "Я не нашёл название этого обряда ни в одном источнике. Я использовал все 5 разрешённых поисков, так что искать дальше не могу.\n\nСам обычай источники подтверждают, но его названия в них нет. На Масленицу молодожёнов, то есть пары, поженившиеся после прошлой Масленицы, чествовали особыми обрядами. Одним из них было ритуальное целование на виду у всех: молодых ставили вдоль улицы или у ворот и заставляли целоваться. По одному из пересказов в выдаче, это описано на странице «Родной Ладоги». Саму страницу я целиком не открывал, поэтому не проверил, что она говорит об этом дословно.\n\nЗвучавшие по ходу поиска варианты «Поцелуйный обряд», «Целовник» и «Смотрины» я ничем не подтвердил. В ответ их ставить нельзя. «Смотрины» вообще, скорее всего, ошибка, потому что так называют другой обряд, свадебный.\n\nДальше стоит читать статью Е. В. Тихомировой «На Масленицу молодых масловали…». Она целиком посвящена масленичным обрядам чествования молодожёнов, и название искомого обряда могло быть там. Статья указана в списке источников.\n\nSources:\n- [Масленица — Родная Ладога](https://rodnayaladoga.ru/rubriki/nasledie/maslenitsa)\n- [Е. В. Тихомирова. «На Масленицу молодых масловали…»](https://opentextnn.ru/old/museum/nn/aetnolog/rite/index.html@id=4265)\n- [Как развлекались на Масленицу — Культура.РФ](https://www.culture.ru/materials/254134/kak-razvlekalis-na-maslenicu)\n- [Масленица в славянской мифологии — bibliotekar.ru](https://bibliotekar.ru/2-9-3-slavyanskaya-mifologiya/164.htm)\n- [Масленица. Обряды и традиции — Страна контрастов](https://stranakontrastov.ru/kultura-i-traditsii/15-traditsii/77-maslenitsa-obryady-i-traditsii.html)",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "query": "Масленица молодожёны \"Целовник\" OR \"Поцелуи\" OR \"Показ молодых\" вдоль улицы в лучших нарядах всенародно показывали любовь",
+      "results": [],
+      "status": "budget_exhausted",
+      "tool_use_id": "toolu_01RozDqTCoo22gKnJYR8EXQf"
+    }
+  ],
+  "elapsed_seconds": 56.923,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.05785800000000001,
+      "inputTokens": 54535,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4809,
+      "provider": "firstParty",
+      "thinkingTokens": 1523,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9321,
+      "cacheReadInputTokens": 38771,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0600351,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1885,
+      "provider": "firstParty",
+      "thinkingTokens": 440,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-28",
+  "raw": "jsonl/A/msqa-RU-28.jsonl",
+  "reported_cost_usd": 0.1178931,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "масленичный обряд молодожёны в лучших нарядах выстраивались вдоль улицы целовались все желающие",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LSxPuQF7LdmyuCBDyKv6ub"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Масленица обряд \"Поцелуйный\" OR \"целовник\" OR \"Целованье\" молодожёны выстраивались рядами вдоль улицы целоваться",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016pf2oS62JFCvPY2Gezr2zK"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Масленица \"Поцелуйный обряд\" молодые в лучших нарядах стояли рядами вдоль деревни целовали всех",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011MtCT4wXPdzrzdeb8AdcJS"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "rodnayaladoga Масленица молодые в лучших нарядах выстраивались вдоль улицы просили поцеловаться обряд назывался",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ETCzLiW9WQ3ktHNdQyba4N"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "\"Поцелуйный обряд\" Масленица",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CEr3H3ZvzMB5iyXwBWErUQ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9321,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9321,
+    "cache_read_input_tokens": 38771,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1579,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1579,
+        "cache_read_input_tokens": 10193,
+        "input_tokens": 2,
+        "output_tokens": 877,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1885,
+    "output_tokens_details": {
+      "thinking_tokens": 440
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

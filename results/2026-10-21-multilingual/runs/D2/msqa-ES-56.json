@@ -1,0 +1,302 @@
+{
+  "answer": "**Respuesta breve:** El sistema de encomienda se estableció originalmente en la **Península Ibérica, en los territorios reconquistados a los musulmanes durante la Reconquista**, y su forma castellana se desarrolló sobre todo en **Castilla** (también en Aragón). Allí el rey o un señor encomendaba tierras, rentas o poblaciones a un caballero o conquistador —el *comendador* / *encomendero*— como recompensa por sus servicios militares y de repoblación, a cambio de protección y defensa. Desde ahí se trasplantó a América en 1503 (La Española).\n\n**Fuentes:**\n- https://es.wikipedia.org/wiki/Encomienda#1 — \"En Castilla y Aragón, durante la Edad Media...\"; la encomienda tuvo un papel relevante \"durante la etapa de reconquista del territorio español\".\n- https://es.wikipedia.org/wiki/Comendador_militar — \"Cada vez que un territorio era tomado a los musulmanes, quedaba encomendado de por vida a su conquistador\".\n- https://www.treccani.it/enciclopedia/encomienda/ — institución española \"vigente fin dal Medioevo nei territori iberici riconquistati ai Mori\".",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.594,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 25856,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.17487519999999998,
+      "inputTokens": 35161,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1453,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-56",
+  "raw": "jsonl/D2/msqa-ES-56.jsonl",
+  "reported_cost_usd": 0.17487519999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8493,
+      "query": "origen sistema de encomienda en España dónde se estableció originalmente",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La encomienda tiene su remoto origen en el patrocinium romano; se vincula con la institución medieval del « señorío », que, en C...",
+          "url": "https://archive.org/download/documentosparala01figu/documentosparala01figu.pdf#77#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los conquistadores encontraron en Yucatán que los mismos caciques mayas, nobles y señores principales, no cultivaban personalmen...",
+          "url": "https://archive.org/download/historiadeldescu00moli/historiadeldescu00moli.pdf#115#94"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**ENCOMIENDAS DE NATIVOS AMERICANOS EN EL ARCHIVO GENERAL DE INDIAS**",
+          "url": "https://www.cultura.gob.es/eu/dam/jcr:fc6ceb97-bf96-457f-9ad7-90c7fbb9833e/encomiendas-maqueta-compressed.pdf#2#1"
+        },
+        {
+          "date": "2008-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉丁美洲研究所",
+          "url": "http://ilas.cssn.cn/sjk/gnwlmyjcgsjk/200811/t20081107_2294656.shtml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Concesiones y Confirmaciones de Encomiendas en el Archivo General de Indias",
+          "url": "https://www.cultura.gob.es/eu/cultura/areas/archivos/mc/archivos/agi/consultas/profesionales/encomiendas.html"
+        },
+        {
+          "date": "2026-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Enciclopedia - Treccani",
+          "url": "https://www.treccani.it/enciclopedia/encomienda/#1"
+        },
+        {
+          "date": "2021-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EL ORIGEN DE LAS ENCOMIENDAS DE INDIOS - Esteban Mira Caballos",
+          "url": "https://estebanmiracaballos.com/2021/03/14/el-origen-de-las-encomiendas-de-indios/?fbclid=IwAR3cLVl-XXIH2Dd-Ud85nB5p8MCLegPsTnollbDNh1Tuv8JP8KjttVFJK7E"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "De aquellas instituciones, la más importante y conocida es la encomienda que apare- ce al tiempo que se inicia la carrera coloni...",
+          "url": "https://www.cervantesvirtual.com/descargaPdf/la-colonizacion-del-peru--una-perspectiva-espanola/#8#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>Encomienda antillana (encomienda/ repartimiento)</td><td>1492-1513. Inicia en las Antillas con Cristóbal Colón (1...",
+          "url": "https://repositorio.uchile.cl/bitstream/handle/2250/209106/La-encomienda-de-servicio-personal-en-America.pdf?sequence=1&isAllowed=y#9#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "hisn'is  (hisney)",
+          "url": "https://bibliotecadigital.jcyl.es/%20es/catalogo_imagenes/grupo.do?path=10630528#78#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7692,
+      "query": "encomienda system Spain origin Reconquista established",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La encomienda tiene su remoto origen en el patrocinium romano; se vincula con la institución medieval del « señorío », que, en C...",
+          "url": "https://archive.org/download/documentosparala01figu/documentosparala01figu.pdf#77#6"
+        },
+        {
+          "date": "2026-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Enciclopedia - Treccani",
+          "url": "https://www.treccani.it/enciclopedia/encomienda/#1"
+        },
+        {
+          "date": "2013-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Settlers (Chapter 3) - Ambivalent Conquests - Hostname: page-component-8678677fb7-mbzpl Total loading time: 0 Render date: 2026-09-27T19:08:31.660Z Has data issue: false hasC...",
+          "url": "https://www.cambridge.org/core/books/abs/ambivalent-conquests/settlers/4434F8000C571645BBC050EB33433107#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En cuanto a orgánica militar, el proceso indicado se inició con unas características arcaizantes: la hueste conquistadora tenía ...",
+          "url": "https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/grupo.do?path=10120485&posicion=1&texto_busqueda#103#20"
+        },
+        {
+          "date": "2010-01-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Economic and social background of the territorial occupation (Chapter 2) - Economic Development of Latin America - Hostname: page-component-cb9f654ff-k7rjm Total loading time: 0 Render date: 2025-08-16T09:27:12.658Z Has data issue: false hasCo...",
+          "url": "https://https-www-cambridge-org-443.webvpn.ynu.edu.cn/core/books/abs/economic-development-of-latin-america/economic-and-social-background-of-the-territorial-occupation/8C6F6FF67E17A54F6BD71344B5912852#1"
+        },
+        {
+          "date": "2007-03-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Comendador militar - Wikipedia, la enciclopedia libre",
+          "url": "https://es.wikipedia.org/wiki/Comendador_militar"
+        },
+        {
+          "date": "2003-10-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Wikipedia, la enciclopedia libre - Encomienda",
+          "url": "https://es.wikipedia.org/wiki/Encomienda#1"
+        },
+        {
+          "date": "2021-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EL ORIGEN DE LAS ENCOMIENDAS DE INDIOS - Esteban Mira Caballos",
+          "url": "https://estebanmiracaballos.com/2021/03/14/el-origen-de-las-encomiendas-de-indios/?fbclid=IwAR3cLVl-XXIH2Dd-Ud85nB5p8MCLegPsTnollbDNh1Tuv8JP8KjttVFJK7E"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "13 The *encomienda* had its precedent in the *repartimientos* granted during the *Reconquista*, a crucial historical period in t...",
+          "url": "https://cdn.openbookpublishers.com/resources/10.11647/obp.0052/8.Ramos.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "espacios evidentemente estratégicos como fue el caso del estrecho de Gibraltar y",
+          "url": "http://bibliotecavirtual.dgb.umich.mx:8083/xmlui/bitstream/handle/DGB_UMICH/14282/FH-L-2022-0699.pdf?sequence=1&isAllowed=y#24#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.8034,
+      "query": "\"encomienda\" \"se estableció\" originalmente España Reconquista Castilla primeros repartimientos",
+      "results": [
+        {
+          "date": "2021-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EL ORIGEN DE LAS ENCOMIENDAS DE INDIOS - Esteban Mira Caballos",
+          "url": "https://estebanmiracaballos.com/2021/03/14/el-origen-de-las-encomiendas-de-indios/?fbclid=IwAR3cLVl-XXIH2Dd-Ud85nB5p8MCLegPsTnollbDNh1Tuv8JP8KjttVFJK7E"
+        },
+        {
+          "date": "2024-11-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encomienda - Wikipedia, la enciclopedia libre - Encomienda",
+          "url": "https://es.wikipedia.org/wiki/Encomienda_(explotaci%C3%B3n)#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\(^1\\) Ricardo Levene, Investigaciones acerca de la Historia Económica del Virreynato del Plata, vol",
+          "url": "https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004525.pdf#39#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Existe una gran confusión a la hora de explicar la implantación de los repartimientos y las encomiendas en la América hispana",
+          "url": "https://ign.gob.do/wp-content/uploads/2025/06/Tomo-I-Hist.-Dom.-Academia-Hist.pdf#153#64"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Las encomiendas americanas se autorizaron en una época muy distinta a la de la reconquista y, por lo tanto, lo único que pueden ...",
+          "url": "https://repositoriouba.sisbi.uba.ar/gsdl/collect/piih/index/assoc/ihaya_pi/ih_077-i.dir/ihaya_piih_077.pdf#38#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Documento sin título - Dijimos que hay muchos investigadores que afirman que en España sólo habían existido tempranamente algunas instituciones feudale...",
+          "url": "https://www.scielo.org.ar/img/revistas/efphi/v12n1/html/v12n1a05.htm#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Dijimos que hay muchos investigadores que afirman que en España sólo habían existido tempranamente algunas instituciones feudale...",
+          "url": "https://www.scielo.org.ar/scieloOrg/php/articleXML.php?pid=S1851-94902010000100005&lang=es#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "De la encomienda, la recaudación y algo más",
+          "url": "https://revistas.unam.mx/index.php/rfdm/article/download/85706/79044/279568#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "mientras que la encomienda, la mita/naboria y la hacienda serán las instituciones fundamentales de la",
+          "url": "https://ru.dgb.unam.mx/bitstream/20.500.14330/TES01000841498/3/0841498.pdf#77#17"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "- Donaciones efectuadas en el reinado de Sancho IV: 2",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/28943/FLA_329_2_2V1.pdf?sequence=1#17#37#17"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 25856,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 35161,
+    "iterations": [],
+    "output_tokens": 1453,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

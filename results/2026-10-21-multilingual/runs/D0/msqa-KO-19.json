@@ -1,0 +1,62 @@
+{
+  "answer": "韩国「花郎」（화랑）精神的核心信条，通常指新罗花郎道所奉行的**世俗五戒**（세속오계）：\n\n1. **事君以忠**（사군이충）——事君以忠\n2. **事親以孝**（사친이효）——事亲以孝\n3. **交友以信**（교우이신）——交友以信\n4. **臨戰無退**（임전무퇴）——临战无退\n5. **殺生有擇**（살생유택）——杀生有择（不滥杀生灵）\n\n这五条据《三国史记》记载，是高僧**圆光法师**（원광법사）应花郎**贵山**（귀산）与**项杭**（추항）之请而授，作为花郎修身处世的准则。\n\n此外，崔致远把花郎精神更上位的概括为**风流道**（풍류도），认为它融合了儒、佛、仙三教之理；但若问“核心信条”，一般指的就是上述世俗五戒。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.02,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.022503999999999996,
+      "inputTokens": 1976,
+      "maxOutputTokens": 32000,
+      "outputTokens": 730,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/D0/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.022503999999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1976,
+    "iterations": [],
+    "output_tokens": 730,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

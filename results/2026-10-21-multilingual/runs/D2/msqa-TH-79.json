@@ -1,0 +1,144 @@
+{
+  "answer": "**答案：รักดีหามจั่ว รักชั่วหามเสา**（字面意思：“爱做好事就扛屋脊，爱做坏事就扛柱子”）\n\n根据《皇家学术院泰语词典》（พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ. 2554）的解释，这条泰语俗语的含义正是你问的那句：\n\n> ใฝ่ดีจะมีความสุขความเจริญ ใฝ่ชั่วจะได้รับความลำบาก\n> （向善者会得到幸福与兴旺，向恶者会遭遇困苦。）\n\n依据网址：\n- 泰国文化杂志 Silpa-Mag 专文：https://www.silpa-mag.com/culture/article_132343\n- Longdo 词典（引用了皇家学术院词典第 2554 版）：https://dict.longdo.com/search/*%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2*",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.573,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.049187999999999996,
+      "inputTokens": 8784,
+      "maxOutputTokens": 32000,
+      "outputTokens": 677,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-79",
+  "raw": "jsonl/D2/msqa-TH-79.jsonl",
+  "reported_cost_usd": 0.049187999999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7744,
+      "query": "สำนวนไทย \"ใฝ่ดีจะมีความสุขความเจริญ\" \"ใฝ่ชั่วจะได้รับความลำบาก\"",
+      "results": [
+        {
+          "date": "2026-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วหามเสา สำนวนไทยนี้มาจากไหน?",
+          "url": "https://www.silpa-mag.com/culture/article_132343?utm_source=linetoday&utm_medium=footer_click"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ *รักดีหามจั่ว รักชั่วหามเสา* แปลว่าอะไร",
+          "url": "https://dict.longdo.com/search/*%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2*"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ ''-รักดีหามจั่ว รักชั่วหาม...'' แปลว่าอะไร?",
+          "url": "https://dict.longdo.com/search/-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7+%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=%2A%E0%B9%83%E0%B8%9D%E0%B9%88%E0%B8%94%E0%B8%B5%2A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาษิต :ธันย์ชนก",
+          "url": "http://phuketdata.net/index2.php?option=com_content&task=view&id=2454&pop=1&page=0&Itemid=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สำนวน สุภาษิต คำพังเพย | Baamboozle",
+          "url": "https://www.baamboozle.com/index.php/game/615670"
+        },
+        {
+          "date": "2025-05-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วหามเสา สำนวนไทยนี้มาจากไหน เกี่ยวอะไรกับ “จั่ว” และ “เสา” | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/yzgRLxQ#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สนง.ส่งเสริมพระกรรมฐาน",
+          "url": "https://madchima.org/forum/index.php?action=printpage;topic=34131.0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้เขียน หัวข้อ: รักดีหามจั่ว รักชั่วหามเสา สำนวนไทยนี้มาจากไหน เกี่ยวอะไรกับ “จั่ว” และ “เสา” (อ่าน 732 ครั้ง)",
+          "url": "https://www.madchima.org/forum/index.php?PHPSESSID=fceuvg2vumko6eqd8emdilf7k6&topic=34131.msg149728#msg149728"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วก็โทรมาเลย😂คำสั่ง PromptAi | แกลเลอรีที่โพสต์โดย Annfield 😘 | Lemon8 - Lemon8ชุมชนไลฟ์สไตล์",
+          "url": "https://www.lemon8-app.com/@annfield14/7689008174209057301?region=th#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8784,
+    "iterations": [],
+    "output_tokens": 677,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

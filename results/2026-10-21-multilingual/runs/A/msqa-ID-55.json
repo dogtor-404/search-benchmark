@@ -1,0 +1,109 @@
+{
+  "answer": "**Jawaban singkat:** Sekali setiap 12 tahun, menurut satu sumber populer. Angka ini belum dipastikan oleh sumber akademis atau resmi.\n\n- Artikel NowJakarta menyebut tarian Ma'bua' dilakukan oleh seorang imam yang memakai kepala kerbau dan menari mengelilingi pohon suci. Artikel itu juga menyebut ritual ini hanya berlangsung setiap 12 tahun.\n- Sumber lain hanya menyebut Ma'bua sebagai upacara Rambu Tuka' (syukuran, peresmian rumah tongkonan) yang \"sering diadakan\". Sumber itu tidak memberi angka atau jadwal pasti.\n- Dua pencarian saya tidak menemukan kajian akademis atau sumber resmi, misalnya Dinas Pariwisata Tana Toraja, yang membenarkan interval 12 tahun.\n\nSources:\n- [NowJakarta](https://www.nowjakarta.co.id/?p=7568)\n- [Jurnal UNM (Pa'gellu / Ma'bua)](https://journal.unm.ac.id/index.php/PJAHSS/article/download/1584/991/4546)\n- [Good News from Indonesia – Rambu Solo](https://www.goodnewsfromindonesia.id/2025/05/15/upacara-rambu-solo-masyarakat-toraja-tradisi-kematian-perayaan-kehidupan)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.931,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0241463,
+      "inputTokens": 31968,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1899,
+      "provider": "firstParty",
+      "thinkingTokens": 443,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4711,
+      "cacheReadInputTokens": 6749,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0267069,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 718,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-55",
+  "raw": "jsonl/A/msqa-ID-55.jsonl",
+  "reported_cost_usd": 0.050853199999999994,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Ma'bua' Toraja upacara dilaksanakan setiap tahun atau 12 tahun sekali",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016D9DJhnfKHgfDmDamv8F7g"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Tarian Ma'bua Toraja diselenggarakan berapa kali",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ToUa19e8DTG4Jp3eoFv6s4"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4711,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4711,
+    "cache_read_input_tokens": 6749,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2864,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2864,
+        "cache_read_input_tokens": 4298,
+        "input_tokens": 2,
+        "output_tokens": 515,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 718,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

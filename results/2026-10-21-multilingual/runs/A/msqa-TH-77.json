@@ -1,0 +1,136 @@
+{
+  "answer": "我已经用完 5 次搜索,所以先把结果告诉你:我没有找到哪个来源明确写着\"อีสานแบ่งบายศรีสู่ขวัญเป็น 3 ประเภท\",因此答不出这 3 类具体是什么。\n\n搜索中能查到的相关内容有:\n- 在อีสาน,บายศรี 的方言叫\"พาขวัญ\"或\"พานพาขวัญ\",用于为人、动物和物品做 ทำขวัญ。来源:[ศูนย์สารนิเทศอีสานสิรินธร](https://isancenter.msu.ac.th/?p=1287)\n- 通用的分类里有\"บายศรีต้น\"和\"บายศรีปากชาม\"。另一种按使用者分的说法是,王室的บายศรี有 3 种:บายศรีต้น、บายศรีแก้ว(ทอง/เงิน)、บายศรีตองรองทองขาว。这些是泰国通用或王室的分类,不是อีสานเฉพาะ的 3 类,不能当作你问题的答案。来源:[เล่าเรื่องล้านนา – จุฬาฯ](https://www.cuartculture.chula.ac.th/news/12447/)、[ชนิดของบายศรี – สารานุกรมไทยฯ](https://technology.thai.net/sub/book/book.php?book=38&chap=2&page=t38-2-infodetail10.html)\n- 另有一篇研究อีสานลุ่มน้ำโขง的บายศรี信仰,但我看到的摘要里没有分类。来源:[บายศรี: ภูมิปัญญาและความเชื่อของชาวอีสานลุ่มน้ำโขง](https://so05.tci-thaijo.org/index.php/parichartjournal/article/view/276445)\n\n如果你手上有这个问题的出处,例如某篇论文或教材,把它给我,我可以对照核实。我也可以继续查,不过要超出你定的 5 次上限,需要你同意。\n\nSources:\n- [ศูนย์สารนิเทศอีสานสิรินธร – บายศรี](https://isancenter.msu.ac.th/?p=1287)\n- [สำนักบริหารศิลปวัฒนธรรม จุฬาฯ – ประเภทของบายศรี](https://www.cuartculture.chula.ac.th/news/12447/)\n- [สารานุกรมไทยสำหรับเยาวชนฯ – ชนิดของบายศรี](https://technology.thai.net/sub/book/book.php?book=38&chap=2&page=t38-2-infodetail10.html)\n- [บายศรี: ภูมิปัญญาและความเชื่อของชาวอีสานลุ่มน้ำโขง](https://so05.tci-thaijo.org/index.php/parichartjournal/article/view/276445)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 54.38,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0590038,
+      "inputTokens": 62713,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5465,
+      "provider": "firstParty",
+      "thinkingTokens": 904,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10589,
+      "cacheReadInputTokens": 40418,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0643718,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1795,
+      "provider": "firstParty",
+      "thinkingTokens": 100,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-77",
+  "raw": "jsonl/A/msqa-TH-77.jsonl",
+  "reported_cost_usd": 0.1233756,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "บายศรีสู่ขวัญ ภาคอีสาน แยกเป็น 3 ประเภท",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012sKMhMQ7oFhBRajpqbpJqb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "บายศรีอีสาน 3 ประเภท บายศรีปากชาม บายศรีใหญ่ บายศรีสู่ขวัญ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01S4yxafYfrixCGmbovfKEWT"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "บายศรีสู่ขวัญอีสาน แบ่งเป็น 3 ประเภท บายศรีแก้ว บายศรีต้น บายศรีปากชาม",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0141Es5N7PvqUaCnF5CKdboS"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "บายศรีภาคอีสาน พาขวัญ แบ่งเป็น 3 ประเภท บายศรีสู่ขวัญ ศูนย์สารนิเทศอีสานสิรินธร",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BB8awWewsd6vhbWvCqhH3w"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "บายศรีสู่ขวัญภาคอีสาน 3 ประเภท \"บายศรีใหญ่\" \"บายศรีกลาง\" OR \"บายศรีเล็ก\" OR \"บายศรีปากชาม\" พาขวัญ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VcPpg4fuc9YD8FCi3dgN7N"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10589,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10589,
+    "cache_read_input_tokens": 40418,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1584,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1584,
+        "cache_read_input_tokens": 11456,
+        "input_tokens": 2,
+        "output_tokens": 1053,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1795,
+    "output_tokens_details": {
+      "thinking_tokens": 100
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

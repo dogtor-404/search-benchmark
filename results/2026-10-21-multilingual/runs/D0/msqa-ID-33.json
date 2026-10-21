@@ -1,0 +1,62 @@
+{
+  "answer": "据我所知，Suku Talang Mamak（廖内省的塔朗玛马克族）用来治病的仪式叫 **Balian（也写作 Belian）**，由被称为 *dukun/belian* 的巫师主持。\n\n不过我要说明：我对这个族群的具体仪式名称把握不算高，以上是凭记忆给出的最佳答案；不能上网核实，所以我无法保证拼写和细节完全准确。如果答案必须是确切的官方名称，建议再查证一下。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 19.58,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07160799999999999,
+      "inputTokens": 1977,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3185,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-33",
+  "raw": "jsonl/D0/msqa-ID-33.jsonl",
+  "reported_cost_usd": 0.07160799999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1977,
+    "iterations": [],
+    "output_tokens": 3185,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

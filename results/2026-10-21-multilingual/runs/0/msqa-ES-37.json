@@ -1,0 +1,74 @@
+{
+  "answer": "在 Umbanda 内部，\"Macumba\" 一般不是指它自己的宗教名称，而是指两样东西，同时也是一个有争议的词。\n\n1. **词源和本义**：它来自班图语（刚果–安哥拉一带）。一般认为它最初指一种打击乐器，类似 reco-reco（刮奏乐器），后来延伸为用鼓和歌唱进行的仪式。词根的具体含义有不同说法，我对确切词源没有把握。\n\n2. **宗教意义**：它指 20 世纪初前后，里约热内卢一带以班图传统为主的非裔巴西民间宗教实践。这些实践混合了非洲祭祀、天主教、印第安人信仰和卡denc主义（Kardecismo，即招魂术），被视为 Umbanda 形成的前身或母体之一。\n\n3. **Umbanda 信徒的态度**：许多 Umbanda 信徒不愿用这个词，因为它在社会上被污名化，常被外界当作\"黑巫术\"\"下咒\"的同义词（如 *fazer macumba*）。信徒强调 Umbanda 以行善、慈悲和灵媒服务为本，所以常把 Macumba 与 Umbanda 区分开。不过也有人把它当作自己根源的一部分，并为这个词正名。\n\n以上只凭我的已有知识回答，没有联网核实。词源细节和各支派的具体用法，各家说法不一，我不能保证准确。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.05,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1770,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0180808,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1084,
+      "provider": "firstParty",
+      "thinkingTokens": 585,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-37",
+  "raw": "jsonl/0/msqa-ES-37.jsonl",
+  "reported_cost_usd": 0.0180808,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1770,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1770,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1770,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1770,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 1084,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1084,
+    "output_tokens_details": {
+      "thinking_tokens": 585
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

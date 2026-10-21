@@ -1,0 +1,62 @@
+{
+  "answer": "就我所知，泰语 **แพ้** 的本义是「**抵不住、被压倒**」（`ทนไม่ได้` / `ถูกเอาชนะ`），而不是今天最常用的「比赛输了」。\n\n- 「输、败」是这层意思在战争、竞争语境里的引申：被对方压倒 → 打不过。\n- `แพ้ยา`、`แพ้อาหาร`、`แพ้ท้อง`（药物过敏、食物过敏、孕吐）保留的正是「身体承受不住、起不良反应」这一层，离本义更近。\n- 皇家学术院词典也是先列 `สู้ไม่ได้`（打不过），再列 `ทนไม่ได้`（受不住）。\n\n不过要说明：如果你听到的是某个具体说法——比如「แพ้ 古义是 ตาย（死）、ป่วย（病）或 ยอม（屈服）」——那我没有可靠依据，不能确认。没有资料在手，我只能给出上面这个词义结构上的判断。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 27.992,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.100156,
+      "inputTokens": 1974,
+      "maxOutputTokens": 32000,
+      "outputTokens": 4613,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/D0/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.100156,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1974,
+    "iterations": [],
+    "output_tokens": 4613,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

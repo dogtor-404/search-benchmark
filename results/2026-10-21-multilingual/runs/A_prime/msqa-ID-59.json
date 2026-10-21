@@ -1,0 +1,118 @@
+{
+  "answer": "\"Andilau\" 在印尼语俚语（bahasa gaul）里是 **\"antara dilema dan galau\"** 的缩写，意思是\"在两难和郁闷之间\"，指人纠结、拿不定主意、心里烦乱的状态。一共搜了 3 次。\n\n- 有三个网页给出了这个解释：一个俚语词典博客、一个网络缩写列表，还有 Liputan6 的流行俚语盘点。\n- 正式词典 KBBI 也收了 \"andilau\"，但只有一个无关的名词义项：一种高大的乔木，用于造林。\n- 有一份搜索摘要说，Wikikamus 的俚语附录把它解释为\"几乎没区别、差不多\"。这个说法和上面三个来源都不一致，可能是摘要搞错了，我没有去核实。\n\n依据网址：\n- [kamusgaulkeren.blogspot.com：Penjelasan tentang Arti Kata Gaul \"Andilau\"](https://kamusgaulkeren.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_505.html)\n- [Liputan6：Kata Gaul Populer di Indonesia](https://www.liputan6.com/feeds/read/5955374/kata-gaul-populer-di-indonesiaini-istilah-kekiniannya)\n- [pondokjeruk.com：Daftar Singkatan Gaul dan Istilah Gaul Komplit](https://www.pondokjeruk.com/2017/10/daftar-singkatan-gaul-dan-istilah-gaul.html)\n- [KBBI Online：andilau](https://kbbi.web.id/andilau)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 32.523,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0352984,
+      "inputTokens": 43584,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1880,
+      "provider": "firstParty",
+      "thinkingTokens": 568,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 5297,
+      "cacheReadInputTokens": 18385,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.064365,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 914,
+      "provider": "firstParty",
+      "thinkingTokens": 85,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-59",
+  "raw": "jsonl/A_prime/msqa-ID-59.jsonl",
+  "reported_cost_usd": 0.09966340000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "arti kata gaul Andilau",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AKjB9GuHXx4pEFMHd2GfAr"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"andilau\" antara dilema dan galau",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016firpFq7uv9M7mqwpMpsQ4"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "andilau singkatan bahasa gaul artinya",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ExFKNm7afR7FkLyDXhJHjr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5297,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5297,
+    "cache_read_input_tokens": 18385,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1316,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1316,
+        "cache_read_input_tokens": 6432,
+        "input_tokens": 2,
+        "output_tokens": 631,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 914,
+    "output_tokens_details": {
+      "thinking_tokens": 85
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "answer": "**答え：藤墓（ふじばか）と呼ばれる石塔群**\n\n3回目の検索結果に Weblio の「庄内のモリ供養の習俗」の項目がありました。そこの説明は、三森山の尾根上には堂宇が点在し、「藤墓【ふじばか】と呼ばれる石塔群などが点在」している、というものです。この文言は文化庁の文化遺産オンラインの解説と同じものと思われますが、文化庁のページ自体は検索結果に出てこず、原文とは照合できていません。搜索は5回までのうち4回使いました。\n\n依拠した網址：\n- [庄内のモリ供養の習俗とは何？ Weblio辞書](https://www.weblio.jp/content/%E5%BA%84%E5%86%85%E3%81%AE%E3%83%A2%E3%83%AA%E4%BE%9B%E9%A4%8A%E3%81%AE%E7%BF%92%E4%BF%97)（「藤墓」の記述）\n- [三森山のモリ供養 - 地域文化資産ポータル](https://bunkashisan.ne.jp/bunkashisan/06_yamagata/7243.html)（行事の場所と内容の確認用）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 43.11,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0464879,
+      "inputTokens": 48249,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3326,
+      "provider": "firstParty",
+      "thinkingTokens": 916,
+      "webSearchRequests": 4
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 6989,
+      "cacheReadInputTokens": 26734,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0797788,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 924,
+      "provider": "firstParty",
+      "thinkingTokens": 116,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-69",
+  "raw": "jsonl/A_prime/msqa-JA-69.jsonl",
+  "reported_cost_usd": 0.1262667,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "庄内のモリ供養の習俗 文化庁 三森山 墓石群",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01YJfCaZirFUAjnRNydAMpuK"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"庄内のモリ供養の習俗\" 三森山 文化遺産オンライン",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AyS6UpnDijkejS8rUAdEFY"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "三森山 モリ供養 墓石群 鶴岡市清水",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013rRha3ApvZGnH3nadKaTP1"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "庄内のモリ供養の習俗 三森山 \"藤墓\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MHYzbwujJqbRrcNUKqrHXr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6989,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6989,
+    "cache_read_input_tokens": 26734,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1259,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1259,
+        "cache_read_input_tokens": 8181,
+        "input_tokens": 2,
+        "output_tokens": 469,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 924,
+    "output_tokens_details": {
+      "thinking_tokens": 116
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

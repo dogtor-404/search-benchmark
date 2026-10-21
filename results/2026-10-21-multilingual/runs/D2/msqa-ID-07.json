@@ -1,0 +1,144 @@
+{
+  "answer": "**答案：** **Merariq（萨萨克族的“抢婚/私奔”婚俗）** 指的是萨萨克族男子在结婚前把选中的姑娘从她父母的监护下“带走/私奔”这一程序，也就是 **kawin lari / kawin culik（私奔婚、抢婚）**，它是整场婚礼流程的第一步，并不是婚礼本身。通常男女双方会事先约定时间，由男方在夜里把女方悄悄带离娘家，之后才进行 *selabar*（男方家向女方家报信）、*bait wali*（请来监护人）、*akad nikah*（伊斯兰教婚约）、*sorong serah*（彩礼交接）、*nyongkolan*（迎亲游行）等环节。\n\n依据：\n- Kompas：Tradisi Merariq 是萨萨克族文化遗产，“kawin lari”，男方将女方带离其家，双方事先约定；之后进入 selabar、bait wali、sorong serah、nyongkolan 等阶段 — https://www.kompas.com/tren/copy/2025/05/27/110000565/pernikahan-anak-di-lombok-disorot-begini-asal-usul-tradisi-kawin-culik\n- Badilag（最高法院宗教法庭机构）：Merariq 是“mencuri gadis dari pengawasan walinya”（把女孩从其监护人监管下带走），作为通往婚姻的系列程序 — https://badilag.mahkamahagung.go.id/artikel/merariq-dalam-perspektif-adat-dan-hukum-nasional-menjaga-kearifan-lokal-dan-perlindungan-hak-perempuan-oleh-indri-annisa-hasanah-s-h-7-9\n- Kompas 另一篇引述萨萨克习俗委员会：确切说是女方同意后“悄悄离开家”，并非绑架 — https://regional.kompas.com/read/2025/05/26/174804778/begini-aturan-tradisi-merariq-bukan-menculik-tanpa-persetujuan-perempuan",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.19,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0675928,
+      "inputTokens": 13433,
+      "maxOutputTokens": 32000,
+      "outputTokens": 670,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/D2/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.0675928,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7025,
+      "query": "Merariq adat kawin Suku Sasak Lombok",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MERARIQ DALAM PERSPEKTIF ADAT DAN HUKUM NASIONAL: MENJAGA KEARIFAN LOKAL DAN PERLINDUNGAN HAK PEREMPUAN OLEH: INDRI ANNISA HASAN...",
+          "url": "https://cloud.badilag.net/s/XYnYNCxLdgbgqik/download/INDRI%20ANNISA%20HASANAH_MERARIQ%20DALAM%20PERSPEKTIF%20ADAT%20DAN%20HUKUM%20NASIONAL%20MENJAGA%20KEARIFAN%20LOKAL%20DAN%20PERLINDUNGAN%20HAK%20PEREMPUAN.pdf#3#1"
+        },
+        {
+          "date": "2026-09-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Merariq Dalam Perspektif Adat Dan Hukum Nasional: Menjaga Kearifan Lokal Dan Perlindungan Hak Perempuan | Oleh: Indri Annisa Hasanah, S.H. (7/9)",
+          "url": "https://badilag.mahkamahagung.go.id/artikel/merariq-dalam-perspektif-adat-dan-hukum-nasional-menjaga-kearifan-lokal-dan-perlindungan-hak-perempuan-oleh-indri-annisa-hasanah-s-h-7-9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "adat adalah pembacaan _istiğlıfar, pernyataan tobat dengan bahasa Sasak,_",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=1706880&title=AKULTURASI%20NILAI-NILAI%20ISLAM%20DALAM%20TRADISI%20MERARIQ%20MELALUI%20POLA%20KOMUNIKASI%20TOKOH%20AGAMA%20DI%20LOMBOK%20TIMUR&val=18539#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ISSN 1979-5572 (print) | ISSN 2541-6480 (online)",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=1706880&title=AKULTURASI%20NILAI-NILAI%20ISLAM%20DALAM%20TRADISI%20MERARIQ%20MELALUI%20POLA%20KOMUNIKASI%20TOKOH%20AGAMA%20DI%20LOMBOK%20TIMUR&val=18539#7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Artikel Hukum tentang Existence Of Marriage In The Sasak Tribe In Lombok (merariq) Within The Estuary Of Legal Pluralism Tahun 2014",
+          "url": "https://jdih.perpusnas.go.id/detail-artikel-hukum/123148"
+        },
+        {
+          "date": "2025-05-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Begini Aturan Tradisi Merariq, Bukan Menculik Tanpa Persetujuan Perempuan",
+          "url": "https://regional.kompas.com/read/2025/05/26/174804778/begini-aturan-tradisi-merariq-bukan-menculik-tanpa-persetujuan-perempuan?page=all#page2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Eksistensi merariq dalam budaya Sasak disini sesungguhnya merujuk pada pengertian keberadaan.204 Dalam konteks ini, keberadaan b...",
+          "url": "https://dspace.uii.ac.id/bitstream/handle/123456789/39212/18933008.pdf?sequence=1&isAllowed=y&__cf_chl_tk=WCQh5I_uyoAWb_SVFQnr1Vmsb_mAQx0PPZ1KXbi3Y3U-1766222774-1.0.1.1-.kVyIjGEZ0r4pR6DL_4l1h1kntjk5xVmAzsDzjG6R2U#31#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. Pengertian Tradisi Merariq",
+          "url": "https://etheses.uinmataram.ac.id/5378/1/Kilan%20Agisna%20Kusuma%20200303161.pdf#22#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "One of the traditions that is still preserved by the Sasak people in Lombok is the *Merariq* (elopement) tradition",
+          "url": "https://ojs.rewangrencang.com/index.php/JHLG/issue/download/28/29#14#2"
+        },
+        {
+          "date": "2025-05-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pernikahan Anak di Lombok Disorot, Begini Asal-usul Tradisi Kawin Culik - Salin Artikel",
+          "url": "https://www.kompas.com/tren/copy/2025/05/27/110000565/pernikahan-anak-di-lombok-disorot-begini-asal-usul-tradisi-kawin-culik#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13433,
+    "iterations": [],
+    "output_tokens": 670,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

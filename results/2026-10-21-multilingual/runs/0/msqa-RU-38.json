@@ -1,0 +1,74 @@
+{
+  "answer": "**паче чаяния**（устар.）意思是“出乎意料、超出预期”。\n\n- паче 是古语，意为“更、超过”，чаяние 是“期望、预期”，合起来字面是“超过期望”。\n- 例句：*«Паче чаяния, он согласился.»*（出乎意料，他竟然同意了。）\n\n这条凭我已有的知识回答，没有联网查证。词典里这个短语有时还带“与预期相反”的意思，用法接近 вопреки ожиданию。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.606,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1765,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011440800000000001,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 422,
+      "provider": "firstParty",
+      "thinkingTokens": 249,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-38",
+  "raw": "jsonl/0/msqa-RU-38.jsonl",
+  "reported_cost_usd": 0.011440800000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1765,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1765,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1765,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 422,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 422,
+    "output_tokens_details": {
+      "thinking_tokens": 249
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

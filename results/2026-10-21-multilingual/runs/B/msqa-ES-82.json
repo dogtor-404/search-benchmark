@@ -1,0 +1,156 @@
+{
+  "answer": "**«Quedarse en blanco»** quiere decir que a alguien se le va la memoria o las ideas de golpe y no sabe qué decir ni qué hacer. Suele pasar por nervios, estrés o presión, por ejemplo en un examen, una entrevista o una exposición oral. En inglés se traduce como *to go blank* o *to draw a blank*.\n\nEjemplo: «Cuando en la entrevista me preguntaron que cómo me vendería a mí mismo, me quedé en blanco».\n\nEn algunos países (Costa Rica, Panamá, Cuba) también puede significar quedarse sin dinero. Lo da la entrada del diccionario Tureng, sin más detalle. Hay además la variante «pasar la noche en blanco», que es no dormir.\n\nFuentes:\n- https://www.gramaticas.marcoele.com/elefante/extras/cambio/cambio-quedarse/ («sin capacidad para recordar»)\n- https://tesoro.pr/lema/quedar-en-blanco?letra=q («quedarse momentáneamente sin memoria, en el vacío, por un susto, preocupación, tensión…»)\n- https://diccionario.reverso.net/espanol-ingles/quedarse+en+blanco (ejemplos de uso)\n- https://tureng.com/en/spanish-english/quedarse%20en (el sentido de quedarse sin dinero)\n- https://www.educacionfpydeportes.gob.es/portugal/pt_PT/dam/jcr:954660fd-4187-4a67-868f-8599cc1f3d4e/mona13julio.pdf («pasar la noche en blanco»)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.903,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8840,
+      "cacheReadInputTokens": 5849,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.042252899999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 630,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-82",
+  "raw": "jsonl/B/msqa-ES-82.jsonl",
+  "reported_cost_usd": 0.042252899999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7786,
+      "query": "quedarse en blanco significado expresión",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "7. Lee el siguiente artículo sobre uno de los problemas que más afectan a los estudiantes en",
+          "url": "https://www.educacionfpydeportes.gob.es/portugal/pt_PT/dam/jcr:954660fd-4187-4a67-868f-8599cc1f3d4e/mona13julio.pdf#9#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "para expresar la carencia de recursos económicos, tal como se ilustra en las expresiones estar sin blanco/no tener ni blanca, qu...",
+          "url": "https://digitum.um.es/digitum/bitstream/10201/135067/1/Duan-Junjun_TD_2023.pdf#100#73"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "| 9|avere la mente in bianco*|tener la mente en blanco||carencia de ideas o de comprensión|",
+          "url": "https://ru.atheneadigital.filos.unam.mx/jspui/bitstream/FFYL_UNAM/7621/4/2013_Lamberti_Ibarra_Italia%20150%20a%C3%B1os%20como%20naci%C3%B3n.pdf#83#81"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Traducción de QUEDARSE EN BLANCO al inglés | Diccionario de español-inglés | Reverso",
+          "url": "https://diccionario.reverso.net/espanol-ingles/quedarse+en+blanco"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Online Language Dictionaries",
+          "url": "https://jann.wordreference.com/enes/reverse/clam%20up"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "quedar en blanco.",
+          "url": "https://tesoro.pr/lema/quedar-en-blanco?letra=q"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¡Mira la traducción de \"quedarse en blanco\" en inglés.com! - quedarse en blanco",
+          "url": "https://www.ingles.com/traductor/quedarse%20en%20blanco#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "in albis | Diccionario panhispánico de dudas",
+          "url": "https://www.rae.es/dpd/in%20albis"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "elefante_online",
+          "url": "https://www.gramaticas.marcoele.com/elefante/extras/cambio/cambio-quedarse/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "quedarse en",
+          "url": "https://tureng.com/en/spanish-english/quedarse%20en"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8840,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8840,
+    "cache_read_input_tokens": 5849,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 6999,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 6999,
+        "cache_read_input_tokens": 3845,
+        "input_tokens": 2,
+        "output_tokens": 562,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 630,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

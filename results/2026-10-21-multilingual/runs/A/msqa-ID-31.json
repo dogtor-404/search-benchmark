@@ -1,0 +1,100 @@
+{
+  "answer": "**简短答案:** titi 是门塔威人的传统纹身。它主要有两个作用:\n\n- **身份与地位的标识:** 它是部族的身份象征,某些纹样还标示部族的地界。它也表示一个人的性别、年龄和职务。动物纹样代表狩猎本领。肩部的星形纹和 sibalubalu 纹样表示这人是 sikerei,也就是巫医和精神领袖。\n- **信仰与精神作用:** 门塔威人信奉 Arat Sabulungan,相信万物有灵。纹身因此被看作神圣的,带有魔法和精神意义。纹样取自树叶、动物、太阳等自然事物,象征人与自然的和谐。\n\n搜索结果还提到,titi 已被列为非物质文化遗产。受外来文化和宗教影响,这一传统正在被人放弃。\n\n我只搜了一次,结果多是综述性文章,没有查到更细的仪式资料。\n\nSources:\n- [Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\" (RRI)](https://rri.co.id/bukittinggi/budaya/2482445/tato-mentawai-simbol-keselarasan-alam-dan-identitas-leluhur)\n- [Upaya Sinuruk Mattaoi dalam Melestarikan Budaya dan Tradisi Mentawai](https://greennetwork.id/gna-knowledge-hub/upaya-sinuruk-mattaoi-dalam-melestarikan-budaya-dan-tradisi-mentawai/)\n- [Jurnal Titik Imaji (UBM)](https://journal.ubm.ac.id/index.php/titik-imaji/article/download/2530/1937)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.115,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012247899999999999,
+      "inputTokens": 16454,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1205,
+      "provider": "firstParty",
+      "thinkingTokens": 247,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3632,
+      "cacheReadInputTokens": 6757,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0253917,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1018,
+      "provider": "firstParty",
+      "thinkingTokens": 322,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/A/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.037639599999999995,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "titi suku Mentawai kepercayaan tradisional fungsi titi",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016W6bBYsJwznvPfjBvRMSLF"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3632,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3632,
+    "cache_read_input_tokens": 6757,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1777,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1777,
+        "cache_read_input_tokens": 4306,
+        "input_tokens": 2,
+        "output_tokens": 922,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1018,
+    "output_tokens_details": {
+      "thinking_tokens": 322
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

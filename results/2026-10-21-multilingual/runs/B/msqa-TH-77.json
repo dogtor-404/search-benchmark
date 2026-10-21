@@ -1,0 +1,156 @@
+{
+  "answer": "ในภาคอีสาน บายศรีแบ่งเป็น 3 ประเภท คือ\n\n1. **พาขวัญ** (เรียกอีกอย่างว่า พานบายศรี หรือ บาศรี)\n2. **พาบายศรี**\n3. **หมากเบ็ง** (ขันหมากเบ็ง)\n\nข้อมูลนี้มาจากเอกสาร \"ภูมิปัญญาท้องถิ่นการทำพานบายศรีสู่ขวัญ\" ซึ่งระบุว่าภาคอีสานแยกบายศรีเป็น ๓ ประเภท คือ ๑. พาขวัญ ๒. พาบายศรี ๓. หมากเบ็ง\n\nอีกแหล่งหนึ่งอธิบายหมวดหมู่ต่างออกไปเล็กน้อย โดยจำแนกเป็น \"บาศรี/พาขวัญ/พานบายศรี\" กับ \"ขันหมากเบ็ง\" เป็นหลัก ส่วนอีกแหล่งแบ่งเป็น \"บายศรีใหญ่\" กับ \"บายศรีเล็ก (ขันหมากเบ็ง)\" ดังนั้นการแบ่งเป็น 3 ประเภทตามข้างต้นมาจากแหล่งแรกแหล่งเดียว\n\n**แหล่งอ้างอิง**\n- https://khuangnai.go.th/upload/documents_file/documents_file_189_17_53_302.pdf (แหล่งหลักของคำตอบ)\n- https://www.saranukromthai.or.th/oldchild/2101 (พาขวัญ/บาศรี และขันหมากเบ็ง)\n- https://buuir.buu.ac.th/xmlui/bitstream/handle/1234567890/6577/Fulltext.pdf?sequence=1&isAllowed=y (บายศรีใหญ่ และขันหมากเบ็ง)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.595,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 19952,
+      "cacheReadInputTokens": 5900,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.088226,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 782,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-77",
+  "raw": "jsonl/B/msqa-TH-77.jsonl",
+  "reported_cost_usd": 0.088226,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8661,
+      "query": "บายศรีสู่ขวัญ ภาคอีสาน แบ่งเป็น 3 ประเภท",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภูมิปัญญาท้องถิ่นการทำพานบายศรีสู่ขวัญ",
+          "url": "https://khuangnai.go.th/upload/documents_file/documents_file_189_17_53_302.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mahachulalongkornrajavidyalaya University",
+          "url": "http://buddhism.mcu.ac.th/site/thesiscontent_desc.php?ct=1&t_id=1876"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เหลานั้นมาสรางสรรคผลงานเปนสื่อ แสดงออกถึง ความเชื่อ ความศรัทธา ความเปนอยู และความ",
+          "url": "https://e-thesis.mcu.ac.th/storage/lD72g0cE5ZlxQPoji8D7Pj95uIixElEc9Hs5RKsn.pdf#37#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "บายศรี ภูมิปัญญาที่สร้างสรรค์จากความเชื่อและศรัทธา",
+          "url": "https://www.culture.go.th/culture_th/ewt_news.php?nid=5092&filename=in"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "มูลนิธิโครงการสารานุกรมไทยสำหรับเยาวชน",
+          "url": "https://www.saranukromthai.or.th/oldchild/2101"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แตกต่างตรงที่ต้องเพิ่มรูปเทียนให้ เท่ากับอายุของผู้ป่วย ให้สวดเวลากลางคืนประมาณ ๓-๔ หุ่น[๘๙]",
+          "url": "http://khonkaen.mcu.ac.th/userfiles/file/thesis/Buddhist-Studies/2555_Buddhist-Studies/55-02-2-043.pdf#55#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "3-4 ศอก ตั้งเอาทางปลายขึ้น เพื่อป้องกันการสัมจีนนํ้าดื้นกล้วยขนาด 1 ศอก อีก 23 ท่อน",
+          "url": "https://atpf-th.org/back/webroot/uploads/pdf/pdf_Magazines_4bc1be91460f.pdf#21#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "และเก็บได้ไม่นาน เมื่อเย็บบายศรีแล้ว จึงน าไปประกอบลงในโดก พาน หรือขัน ช้อนกันเป็นชั้นๆ แล้วประดับ ด้วยดอกไม้มงคล เช่น ดอกรัก ดอ...",
+          "url": "https://www.laophonkhor.go.th/public/list/data/detail/id/3639/menu/1171/page/1?_x_output_type_b6db407c4_=embedded_pdf#12#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. บายศรีใหญ่ หรือบาศรี มีผู้ให้ความหมายไว้หลายประเด็น บางด าราเขียนไว้ว่า “บาย”",
+          "url": "https://buuir.buu.ac.th/xmlui/bitstream/handle/1234567890/6577/Fulltext.pdf?sequence=1&isAllowed=y#100#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "มณีรัตน์ จันทนะผะลิน อาจารย์ประจ าภาควิชาคหกรรมศาสตร์ สถาบันราชภัฏสวน",
+          "url": "http://khonkaen.mcu.ac.th/userfiles/file/thesis/Buddhist-Studies/2555_Buddhist-Studies/55-02-2-043.pdf#55#10"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 19952,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 19952,
+    "cache_read_input_tokens": 5900,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18060,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18060,
+        "cache_read_input_tokens": 3896,
+        "input_tokens": 2,
+        "output_tokens": 687,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 782,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

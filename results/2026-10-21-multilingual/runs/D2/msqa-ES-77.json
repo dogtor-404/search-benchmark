@@ -1,0 +1,381 @@
+{
+  "answer": "**Respuesta:** Por una **«ley de estados sociales»**, que Vasconcelos identifica como tres: el **material o del apetito** (impera la ley del más fuerte), el **intelectual o racional** (la vida se somete a la ley, surgen la política y el derecho) y el **estético o de la voluntad** (plenitud espiritual mediante el amor). Como el proceso es cíclico, una civilización puede avanzar o retroceder entre esos estados; lo que decide la decadencia o la regeneración es el grado de **mestizaje** con otras razas.\n\n**Fuente:** Wikipedia, «La raza cósmica» — https://es.wikipedia.org/wiki/La_raza_cósmica\n\n(La formulación aparece literalmente en la sección sobre el uso de la expresión; el texto de Vasconcelos que la sustenta es «Nueva ley de los tres estados», recogido en *La raza cósmica* / *Indología*.)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.935,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 30592,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.2370024,
+      "inputTokens": 51941,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1156,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-77",
+  "raw": "jsonl/D2/msqa-ES-77.jsonl",
+  "reported_cost_usd": 0.2370024,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8183,
+      "query": "Vasconcelos historia cultural proceso cíclico regido por",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "con aquello de lo que la alegoría nos explica",
+          "url": "http://bdigital2.ula.ve:8080/xmlui/bitstream/handle/654321/10196/CRESPO_MIGUEL.pdf?sequence=1&isAllowed=y#33#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "O gráfico acima ilustra a qualidade ambígua que a história assume para Vasconcelos",
+          "url": "http://sbthh.org.br/wp-content/uploads/2020/03/7-SNHH-Completp.pdf#178#121"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La teoría de la formación de la sociedad",
+          "url": "https://colmich.repositorioinstitucional.mx/jspui/bitstream/1016/144/1/JacintoZavalaAgustin1991.pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los años veinte, Vasconcelos plantea la idea en la que humanidad es sólo un puente: su",
+          "url": "http://saber.ucv.ve/ojs/index.php/rev_ped/article/download/10135/9935#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encielopedia de la filosofía mexicana",
+          "url": "https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Vasconcelos_Jose.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Vasconcelos se afana por descubrir el orden del Cosmos, y encuentra que el Universo es una escala en espiral",
+          "url": "https://repositorio.umsa.bo/xmlui/bitstream/handle/123456789/26880/FIL-15.PDF?isAllowed=y&sequence=1#11#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El pueblo sujeto al darwinismo social tiene dos soluciones: renunciar a la vida y someterse al evolucionismo darwinista, o sacud...",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/d8199141-68d9-4ff0-8ee6-9dc3ef970ba5/content#24#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Su plan educativo se inspiró en propuestas de revolucionarios soviéticos, tales como Anatoli Lunachersky y Máximo Gorki, quienes...",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/58f77e33-8200-445d-a660-b0102fedd487/content#51#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sin embargo, para Vasconcelos, las civilizaciones florecen y decaen, van y vienen",
+          "url": "https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/download/1736/3312/7841#7#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En La raza cósmica, Vasconcelos propuso el seguimiento para toda nación de tres estados de desarrollo social: 1) el material o g...",
+          "url": "http://www.publicaciones.cucsh.udg.mx/kiosko/2021/vasconcelismo%20en%20el%20teatro%202021.pdf#21#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8043,
+      "query": "José Vasconcelos ciclos culturales ley que rige la historia",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Journal of Mexican Philosophy | Volume 1, Issue 1 (2022): 54-63",
+          "url": "https://www.journalofmexicanphilosophy.org/_files/ugd/018f6b_e8cdc331fb3e47c9a34f4dcb0d776486.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Uso la palabra revulsión para indicar un cambio de sentido de la",
+          "url": "https://core.ac.uk/download/9507180.pdf#72#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "elaboración de la Constitución de 1917.",
+          "url": "https://core.ac.uk/download/47247537.pdf#17#7"
+        },
+        {
+          "date": "2016-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Untitled - Centro de Investigaciones sobre América Latina y el - J",
+          "url": "https://studylib.es/doc/8389689/#22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "que permita a los sectores populares disponer de tiempo y de libertad para aprovechar las oportunidades culturales (libros, fest...",
+          "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/248b_01/248b_01_04_01_vasconcelos_rector.pdf#17#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "3) El tercer problema común a las culturas latinoamericanas es el racial",
+          "url": "https://colmich.repositorioinstitucional.mx/jspui/bitstream/1016/143/1/JacintoZavalaAgustin2002.pdf#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "José Vasconcelos se aventura en la reflexión filosófica con la escritura de Pitágoras una teoría del ritmo (1916) y Prometeo Ven...",
+          "url": "https://dialnet.unirioja.es/descarga/libro/993953.pdf#34#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\\(^8\\) VASCONCELOS",
+          "url": "https://repositorio.umsa.bo/xmlui/bitstream/handle/123456789/26880/FIL-15.PDF?isAllowed=y&sequence=1#11#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Durante el porfiriato las comunidades indígenas sufrieron el despojo agrario y muchas de estas comunidades afrontaron políticas ...",
+          "url": "http://riaa.uaem.mx/xmlui/bitstream/handle/20.500.12055/2389/ROSRRB08T.pdf?sequence=1&isAllowed=y#45#35"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de acción político frente a la circunstancia que se presenta en su interpretación de lo real",
+          "url": "https://rei.iteso.mx/server/api/core/bitstreams/5cb131bd-a2e4-44f2-a171-43c3678c3cac/content#25#13"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.8094,
+      "query": "\"historia cultural\" \"proceso cíclico\" Vasconcelos",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A grandes rasgos, este es el panorama en el conocimiento social, hay que apuntar que existe también un ámbito de continuidad en ...",
+          "url": "https://www.revistadelauniversidad.mx/downloads/0cecfc86-9078-47ca-8603-353e0462640c/rum-482-MAR.1991-482.pdf#20#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "la trama es satírica es de mayor crudeza, pues no es leído como un aprendizaje,",
+          "url": "https://www.repositorioinstitucionaluacm.mx/jspui/bitstream/123456789/458/3/MARCO%20ANTONIO%20CARRANZA%20RIOS_HSC.pdf#13#13"
+        },
+        {
+          "date": "2008-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La raza cósmica - Wikipedia, la enciclopedia libre - La raza cósmica",
+          "url": "https://es.wikipedia.org/wiki/?title=La_raza_c%C3%B3smica&oldid=147399269#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "tomar la posta de la marcha civilizatoria que había encallado en Europa",
+          "url": "https://biblat.unam.mx/hevila/Nuevasociedad/2020/no288/12.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "con aquello de lo que la alegoría nos explica",
+          "url": "http://bdigital2.ula.ve:8080/xmlui/bitstream/handle/654321/10196/CRESPO_MIGUEL.pdf?sequence=1&isAllowed=y#33#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los años veinte, Vasconcelos plantea la idea en la que humanidad es sólo un puente: su",
+          "url": "http://saber.ucv.ve/ojs/index.php/rev_ped/article/download/10135/9935#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "O gráfico acima ilustra a qualidade ambígua que a história assume para Vasconcelos",
+          "url": "http://sbthh.org.br/wp-content/uploads/2020/03/7-SNHH-Completp.pdf#178#121"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encielopedia de la filosofía mexicana",
+          "url": "https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Vasconcelos_Jose.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dirección de lo absoluto, al mismo tiempo que en su conciencia",
+          "url": "https://colmich.repositorioinstitucional.mx/jspui/bitstream/1016/144/1/JacintoZavalaAgustin1991.pdf#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Vasconcelos tocó una cuerda original al proclamar mesiánicamente que una nueva era en la historia de la humanidad estaba despunt...",
+          "url": "https://cvc.cervantes.es/literatura/aih/pdf/12/aih_12_6_005.pdf#4#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.76,
+      "query": "Vasconcelos \"proceso cíclico\" regido ley de los tres estados historia cultura",
+      "results": [
+        {
+          "date": "2008-01-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La raza cósmica - Wikipedia, la enciclopedia libre - La raza cósmica",
+          "url": "https://es.wikipedia.org/wiki/?title=La_raza_c%C3%B3smica&oldid=147399269#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Journal of Mexican Philosophy | Volume 1, Issue 1 (2022): 54-63",
+          "url": "https://www.journalofmexicanphilosophy.org/_files/ugd/018f6b_e8cdc331fb3e47c9a34f4dcb0d776486.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "atrasados",
+          "url": "http://publicaciones.umich.mx/revistas/devenires/ojs/issue/download/4/4completo#44#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tal humanidade futura haveria de se consumar justamente a partir da mistura biológica e espiritual que se processava na América ...",
+          "url": "https://www.scielo.br/j/eh/a/NdVrpdcyPMNTW4JrVjQJV5r/?format=pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "forma simbolizara la ley de los tres estados: el material, el intelectual",
+          "url": "https://www.bdtd.uerj.br:8443/bitstream/1/10751/1/Disert_Dafne%20G%20Solis.pdf#23#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encielopedia de la filosofía mexicana",
+          "url": "https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Nueva_ley_de_los_tres_estados-Vasconcelos_Jose.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Documents of Latin American and Latino Art",
+          "url": "https://icaa.mfah.org/s/en/item?Search=&property%5B0%5D%5Bproperty%5D=196&property%5B0%5D%5Btype%5D=eq&property%5B0%5D%5Btext%5D=Esther%20Acevedo%20:%20Direcci%C3%B3n%20de%20Estudios%20Hist%C3%B3ricos,%20INAH%20/%20CURARE%20A.%20C.&page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El primer estado, material o guerrero, es un estado de razón débil en el que impera la materia y no hay más ley que la violencia...",
+          "url": "https://ru.dgb.unam.mx/bitstreams/deb048f5-4557-4eba-a0a4-b609b52842d8/download#25#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The Mexican mural renaissance, 1920-1925\" - . . .  yet  this  state  is  still  not  supreme.  Higher  than  the  fatalities  of \nlogic  and  all  material  and  moral  int",
+          "url": "https://archive.org/stream/mexica00char/mexica00char_djvu.txt#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ellos, o en todos a la vez, según la circunstancia, método o necesidad que impere en el",
+          "url": "http://bibliotecavirtual.dgb.umich.mx:8083/xmlui/bitstream/handle/DGB_UMICH/12326/FFSR-L-2013-0381.pdf?sequence=1&isAllowed=y#13#13"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 30592,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 51941,
+    "iterations": [],
+    "output_tokens": 1156,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

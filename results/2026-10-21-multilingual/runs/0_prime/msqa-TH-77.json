@@ -1,0 +1,74 @@
+{
+  "answer": "**我不确定。** 我印象里最常见的说法是按大小和用途分成三类：\n\n1. **บายศรีใหญ่（บายศรีหลวง，大型）**：层数多、规模大，用在重要仪式或为高位人士招魂。\n2. **บายศรีกลาง（中型）**：用在一般的仪式。\n3. **บายศรีเล็ก / บายศรีน้อย（小型）**：比如放在碗口上的 บายศรีปากชาม，用在家庭里的小型 สู่ขวัญ。\n\n不过我不能肯定这就是题目要的那个出处。也有资料按造型或用途来分，比如用 พาขวัญ、ขันบายศรี 这类名称。所以这个答案仅供参考，最好对照原始资料再确认。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.687,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1805,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0333016,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 927,
+      "provider": "firstParty",
+      "thinkingTokens": 657,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-77",
+  "raw": "jsonl/0_prime/msqa-TH-77.jsonl",
+  "reported_cost_usd": 0.0333016,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1805,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1805,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1805,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1805,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 927,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 927,
+    "output_tokens_details": {
+      "thinking_tokens": 657
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

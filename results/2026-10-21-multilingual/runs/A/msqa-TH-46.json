@@ -1,0 +1,100 @@
+{
+  "answer": "**คำตอบ:** ซิ่นเป็นอัตลักษณ์ของสตรี**ชาวไทยวน (ยวน หรือคนเมือง)** ในล้านนา เช่น เชียงใหม่\n\nบทความของศิลปวัฒนธรรมเรื่อง \"ซิ่นแห่งนครเชียงใหม่\" เป็นแหล่งหลักของคำตอบนี้ บทความอธิบายว่าสตรีชาวยวนในเชียงใหม่นิยมนุ่งซิ่นตา ซิ่นก่าน และซิ่นตีนจก\n\nผลค้นหาไม่ได้พูดถึงสตรีกลุ่มอื่นในภาคเหนือเลย (เช่น ไทลื้อ) ผมจึงยืนยันได้แค่กลุ่มไทยวน\n\nแหล่งข้อมูลอื่นที่ผมเปิดดูเป็นแค่รายการผลค้นหา ยังไม่ได้อ่านเนื้อหา\n\nSources:\n- [“ซิ่น” แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน](https://www.silpa-mag.com/?p=35746)\n- [อัตลักษณ์คนไทยวน เรื่องเล่าจากย่ามและผ้าซิ่น](https://www.silpa-mag.com/?p=19466)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.149,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118663,
+      "inputTokens": 11468,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1439,
+      "provider": "firstParty",
+      "thinkingTokens": 202,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4391,
+      "cacheReadInputTokens": 6766,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0246386,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 639,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-46",
+  "raw": "jsonl/A/msqa-TH-46.jsonl",
+  "reported_cost_usd": 0.0365049,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ซิ่น ผ้าซิ่น อัตลักษณ์ภาคเหนือ สตรีชาติพันธุ์ ไทยวน ล้านนา",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PmdvFYzc268eXX1ypTGjKs"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4391,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4391,
+    "cache_read_input_tokens": 6766,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2527,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2527,
+        "cache_read_input_tokens": 4315,
+        "input_tokens": 2,
+        "output_tokens": 508,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 639,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

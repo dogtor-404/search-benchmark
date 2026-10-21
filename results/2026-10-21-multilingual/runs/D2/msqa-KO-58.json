@@ -1,0 +1,223 @@
+{
+  "answer": "**答案**\n\n“모에모에뀽”（もえもえきゅん，罗马字 **moe moe kyun**）是源自日本女仆咖啡厅的可爱咒语（萌系口癖），没有严格的字面意思，大致可以理解为“好萌好萌，心动不已/啾～”，说的时候通常双手比心，用来给食物“施魔法”。\n\n- **萌え（moe）**：源自御宅用语，表示对被角色或对象触发的强烈喜爱、保护欲。叠用“萌え萌え”起强调作用。\n- **キュン（kyun）**：拟声/拟态词，形容心动、胸口一紧的感觉，类似中文的“怦然心动”“心都化了”。\n- 完整台词常是 **“おいしくな～れ、萌え萌えキュン”**（오이시쿠나레 모에모에큥），即“变好吃吧～萌え萌え啾！”，是女仆把餐点端上来时对食物念的“咒语”。\n\n在韩国，这个梗主要通过主播 **케인（Kane）** 模仿《轻音少女》（K-On!）中秋山澪的桥段，以及以“田中상”形象活动的搞笑艺人金庆旭而流行。需注意，它最初与动漫、女仆咖啡厅的亚文化相关，并非规范日语。\n\n**依据网址**\n1. 首尔新闻（2023-01-22）：https://m.seoul.co.kr/news/society/accident/2023/01/22/20230122500052\n2. Newsis《'모에모에 큥'이 무슨 뜻인가요?》：https://mobile.newsis.com/view.html?ar_id=NISX20230322_0002235696\n3. HuffPost Korea：https://www.huffingtonpost.kr/article/206255\n4. 日文释义（HiNative）：https://ja.hinative.com/questions/20774526\n5. pixiv 百科“萌え萌えキューン!”：https://dic.pixiv.net/a/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%88%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%B3!",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.375,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06961039999999999,
+      "inputTokens": 12876,
+      "maxOutputTokens": 32000,
+      "outputTokens": 881,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-58",
+  "raw": "jsonl/D2/msqa-KO-58.jsonl",
+  "reported_cost_usd": 0.06961039999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6784,
+      "query": "모에모에뀽 뜻",
+      "results": [
+        {
+          "date": "2026-01-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "서울신문 검색",
+          "url": "https://www.seoul.co.kr:8888/index.php?keyword=%ec%9c%a0%ed%96%89%ec%96%b4&page=8"
+        },
+        {
+          "date": "2023-01-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“모에모에큥” 설 인사로 일본어 밈 올린 천안시 논란",
+          "url": "https://m.seoul.co.kr/news/society/accident/2023/01/22/20230122500052"
+        },
+        {
+          "date": "2023-10-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "모에모에뀽 풀대사",
+          "url": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080401&docId=457086048&qb=66qo7JeQ&enc=utf8"
+        },
+        {
+          "date": "2022-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "블라블라: 모에모에뀽이 뭐야",
+          "url": "https://www.teamblind.com/kr/post/%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%eb%80%bd%ec%9d%b4-%eb%ad%90%ec%95%bc-YuphtR5K"
+        },
+        {
+          "date": "2023-01-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“모에모에큥” 설 인사로 공식 SNS에 일본어 밈 올린 천안시, 사과문을 올렸으나 논란이 계속되는 이유는 따로 있었다",
+          "url": "https://www.huffingtonpost.kr/article/206255"
+        },
+        {
+          "date": "2023-03-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'모에모에 큥'이 무슨 뜻인가요?",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20230322_0002235696"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "케인(인터넷 방송인)/밈(r17 Blame) - 289 |  이 소스를 이용하여 [[https://youtu",
+          "url": "https://www.alphawiki.org/blame/%EC%BC%80%EC%9D%B8(%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%A9%EC%86%A1%EC%9D%B8)/%EB%B0%88?uuid=c5f2f1c2-7f14-49be-ab2e-ff0ad7319114#8"
+        },
+        {
+          "date": "2023-01-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "오이시쿠나레 모에모에큥 뜻",
+          "url": "http://kjh123ok.tistory.com/387"
+        },
+        {
+          "date": "2026-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "モエモエクッ - モエモエクッ",
+          "url": "https://ja.namu.wiki/w/%EB%AA%A8%EC%97%90%EB%AA%A8%EC%97%90%20%ED%81%A5?from=%EB%AA%A8%EC%97%90%EB%AA%A8%EC%97%90%20%EB%80%BD#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "모에모에(일본어?)가 뭐죠?",
+          "url": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110804&docId=59031956&enc=utf8&qb=66qo7JeQ"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6593,
+      "query": "萌え萌えキュン 意味",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "キュンキュンとは？ わかりやすく解説",
+          "url": "https://www.weblio.jp:443/content/%E3%82%AD%E3%83%A5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%B3"
+        },
+        {
+          "date": "2023-08-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "萌え萌えキュン を英語で教えて!",
+          "url": "https://nativecamp.net/heync/question/65480"
+        },
+        {
+          "date": "2015-07-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "萌え萌えキューン! (もえもえきゅーん)の編集履歴",
+          "url": "https://dic.pixiv.net/history/view/1450596"
+        },
+        {
+          "date": "2006-01-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "キュンキュン - Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%B3"
+        },
+        {
+          "date": "2024-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "萌え萌えキュン♡とは (モエモエキュンとは) [単語記事] - ニコニコ大百科",
+          "url": "https://dic.nicovideo.jp/r/a/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%88%E3%82%AD%E3%83%A5%E3%83%B3%E2%99%A1/3093398"
+        },
+        {
+          "date": "2024-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "萌え萌えキューン!",
+          "url": "https://dic.pixiv.net/history/view/6349399"
+        },
+        {
+          "date": "2025-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【萌え萌えキュン】とはどういう意味ですか？ - 日本語に関する質問",
+          "url": "https://ja.hinative.com/questions/9465339"
+        },
+        {
+          "date": "2010-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "萌え萌えキューン！ - OKWAVE",
+          "url": "https://okwave.jp/qa/q6261645/a17774865.html"
+        },
+        {
+          "date": "2025-12-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【moe moe kyun】とはどういう意味ですか？ - 日本語に関する質問",
+          "url": "https://ja.hinative.com/questions/20774526"
+        },
+        {
+          "date": "2011-03-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「萌え萌え」と「キュンキュン」の違いを教えてください。 - IS（インフィニティ・ストラトス）というアニメの登場人物、シャルロットをみて、... - Yahoo!知恵袋",
+          "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1458952509"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12876,
+    "iterations": [],
+    "output_tokens": 881,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

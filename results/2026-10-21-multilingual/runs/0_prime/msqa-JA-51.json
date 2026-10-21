@@ -1,0 +1,74 @@
+{
+  "answer": "**答案：《後拾遺和歌集》巻第十二・恋二，歌番号 669**\n\n- 作者：藤原義孝\n- 詞書：「女のもとより帰りてつかはしける」（从女子处回来后寄给她的歌）\n- 后来收入《小倉百人一首》第 50 首。百人一首只是后世的选集，不是原出典。\n\n说明：以上凭记忆回答，没有上网核对。勅撰集名（後拾遺集）和部立（恋二）我比较有把握。歌番号 669 用的是新編国歌大観的编号，换用别的底本或注释本，编号可能不一样。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.764,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1800,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023661599999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 447,
+      "provider": "firstParty",
+      "thinkingTokens": 232,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-51",
+  "raw": "jsonl/0_prime/msqa-JA-51.jsonl",
+  "reported_cost_usd": 0.023661599999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1800,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1800,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1800,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1800,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 447,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 447,
+    "output_tokens_details": {
+      "thinking_tokens": 232
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

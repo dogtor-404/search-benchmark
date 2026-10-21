@@ -1,0 +1,156 @@
+{
+  "answer": "**答案:** Iki Palek 是在家人或亲近的人去世时举行的丧葬哀悼仪式。丧亲的人(多为女性,也有男性)会切掉一节手指,用来表达悲痛和忠诚。被切掉的手指数量,对应去世的亲人数量。\n\n这个仪式也寄托着一种信念:手指象征家庭的和谐、团结与力量,切指是为了让亡者的灵魂得到安宁。如今这一习俗已大多消失,只在老一辈人身上还能看到切指的痕迹。\n\n依据的网址:\n- https://id.wikipedia.org/wiki/Iki_Palek\n- https://www.suaramerdeka.com/gaya-hidup/0415118238/tradisi-iki-palek-ritual-mengharukan-suku-dani-dalam-menghormati-kematian\n- https://www.inews.id/regional/papua/tradisi-potong-jari-suku-dani-papua/all\n- http://devel.mediaindonesia.com/weekend/621964/mengenal-tradisi-potong-jari-suku-dani-papua\n\n我只搜了 1 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.549,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 14993,
+      "cacheReadInputTokens": 5862,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0651462,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 458,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/B/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.0651462,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.673,
+      "query": "Upacara Iki Palek suku Dani",
+      "results": [
+        {
+          "date": "2024-06-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fakta Unik Suku Dani Papua - RRI.co.id - Fakta Unik Suku Dani Papua",
+          "url": "https://rri.co.id/bukittinggi/features/795067/faq.html#1"
+        },
+        {
+          "date": "2025-05-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Iki Palek, Ritual Mengharukan Suku Dani dalam Menghormati Kematian - Suara Merdeka",
+          "url": "https://www.suaramerdeka.com/gaya-hidup/0415118238/tradisi-iki-palek-ritual-mengharukan-suku-dani-dalam-menghormati-kematian"
+        },
+        {
+          "date": "2025-12-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Potong Jari Suku Dani, Ritual Duka yang Penuh Makna - Tribun Video",
+          "url": "https://video.tribunnews.com/news/892140/tradisi-potong-jari-suku-dani-ritual-duka-yang-penuh-makna?jxrecoid=84a7400b-bed5-4159-81cb-97a4044f9fef~mix_tribunnews&source=widgetArtikelRekomendasi&engine=JXA"
+        },
+        {
+          "date": "2022-09-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Potong Jari Suku Dani Papua, Ada yang Gunakan Kapak hingga Digigit Sampai Putus - Mode Gelap",
+          "url": "https://www.inews.id/regional/papua/tradisi-potong-jari-suku-dani-papua/all#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "BAB V",
+          "url": "http://digilib-iakntoraja.ac.id/5273/6/jalviers_bab_5.pdf#1#1"
+        },
+        {
+          "date": "2020-02-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Iki Palek - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Iki_Palek"
+        },
+        {
+          "date": "2023-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Tradisi Potong Jari Suku Dani Papua",
+          "url": "http://devel.mediaindonesia.com/weekend/621964/mengenal-tradisi-potong-jari-suku-dani-papua"
+        },
+        {
+          "date": "2023-06-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tradisi Potong Jari di Suku Dani Papua menjadi Identitas Kuat Sebuah Budaya meskipun Sempat jadi Kontroversi - Harian Haluan",
+          "url": "https://www.harianhaluan.com/lifestyle/109137816/tradisi-potong-jari-di-suku-dani-papua-menjadi-identitas-kuat-sebuah-budaya-meskipun-sempat-jadi-kontroversi"
+        },
+        {
+          "date": "2020-09-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gigit jari tangan hingga putus",
+          "url": "https://www.kosmo.com.my/2020/09/13/gigit-jari-tangan-hingga-putus/"
+        },
+        {
+          "date": "2018-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menangis Saja Tak Cukup, Mereka Akan Potong Jari untuk Ungkapan Perpisahan - Tribunjogja.com - Menangis Saja Tak Cukup, Mereka Akan Potong Jari untuk Ungkapan Perpisahan",
+          "url": "https://jogja.tribunnews.com/2018/10/19/menangis-saja-tak-cukup-mereka-akan-potong-jari-untuk-ungkapan-perpisahan#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14993,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14993,
+    "cache_read_input_tokens": 5862,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13139,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13139,
+        "cache_read_input_tokens": 3858,
+        "input_tokens": 2,
+        "output_tokens": 388,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 458,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

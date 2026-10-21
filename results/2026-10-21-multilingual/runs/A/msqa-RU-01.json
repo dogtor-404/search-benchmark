@@ -1,0 +1,109 @@
+{
+  "answer": "**Ответ: около 300 м. Весь свиток Соборного уложения 1649 года склеен из 959 «столбцов» (узких листов) и по одним данным имеет длину около 309 м.**\n\n- Одно из найденных описаний даёт 309 м. Это подлинник из 959 столбцов, который хранится в РГАДА.\n- Другой источник называет около 230 м при том же числе столбцов. Какая цифра верна, я не проверил.\n- Источники не показывают, какая именно страница дала каждую цифру, поэтому ссылки ниже даны на найденные страницы целиком.\n- Размеры свитка подробно разбирает работа Волчкова, Морозова и Эскина «Свиток Соборного Уложения 1649 г.: новое исследование». Я её не открывал.\n\nSources:\n- [Sobornoye Ulozheniye (Wikipedia)](https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye)\n- [Уложение Алексея Михайловича, ДВФУ (PDF)](https://www.dvfu.ru/library/exhibitions-online/2020%20Уложение%20Алексея%20Михайловича.pdf)\n- [Соборное уложение 1649 года, dic.academic.ru](https://dic.academic.ru/dic.nsf/russian_history/11379/%D0%A1%D0%9E%D0%91%D0%9E%D0%A0%D0%9D%D0%9E%D0%95)\n- [Sobornoye Ulozhenie of Alexis of Russia promulgated (prlib.ru)](https://prlib.ru/en/history/619014)\n- [Роль Соборного уложения в развитии российского права (science.vvsu.ru)](https://science.vvsu.ru/files/27134176-D25D-4191-B59F-4D93CE57CE3E)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.997,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.022973800000000003,
+      "inputTokens": 21928,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1562,
+      "provider": "firstParty",
+      "thinkingTokens": 411,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4237,
+      "cacheReadInputTokens": 12118,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0273918,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 922,
+      "provider": "firstParty",
+      "thinkingTokens": 96,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-01",
+  "raw": "jsonl/A/msqa-RU-01.jsonl",
+  "reported_cost_usd": 0.05036560000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Соборное уложение 1649 года столбец длина свитка метров",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XrzLVvK58siYDVsHZe4P1D"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Соборное уложение 1649 столбец длиной 309 метров свиток 959 листов",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01S6rEPjqy5oKv16ynGn1eAA"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4237,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4237,
+    "cache_read_input_tokens": 12118,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1325,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1325,
+        "cache_read_input_tokens": 5363,
+        "input_tokens": 2,
+        "output_tokens": 728,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 922,
+    "output_tokens_details": {
+      "thinking_tokens": 96
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

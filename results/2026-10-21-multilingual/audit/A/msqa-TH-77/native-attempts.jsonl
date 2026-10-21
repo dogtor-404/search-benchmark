@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "บายศรีสู่ขวัญ ภาคอีสาน แยกเป็น 3 ประเภท", "results": [], "status": "allowed", "tool_use_id": "toolu_012sKMhMQ7oFhBRajpqbpJqb"}
+{"billable": false, "call": 2, "query": "บายศรีอีสาน 3 ประเภท บายศรีปากชาม บายศรีใหญ่ บายศรีสู่ขวัญ", "results": [], "status": "allowed", "tool_use_id": "toolu_01S4yxafYfrixCGmbovfKEWT"}
+{"billable": false, "call": 3, "query": "บายศรีสู่ขวัญอีสาน แบ่งเป็น 3 ประเภท บายศรีแก้ว บายศรีต้น บายศรีปากชาม", "results": [], "status": "allowed", "tool_use_id": "toolu_0141Es5N7PvqUaCnF5CKdboS"}
+{"billable": false, "call": 4, "query": "บายศรีภาคอีสาน พาขวัญ แบ่งเป็น 3 ประเภท บายศรีสู่ขวัญ ศูนย์สารนิเทศอีสานสิรินธร", "results": [], "status": "allowed", "tool_use_id": "toolu_01BB8awWewsd6vhbWvCqhH3w"}
+{"billable": false, "call": 5, "query": "บายศรีสู่ขวัญภาคอีสาน 3 ประเภท \"บายศรีใหญ่\" \"บายศรีกลาง\" OR \"บายศรีเล็ก\" OR \"บายศรีปากชาม\" พาขวัญ", "results": [], "status": "allowed", "tool_use_id": "toolu_01VcPpg4fuc9YD8FCi3dgN7N"}

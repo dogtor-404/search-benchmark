@@ -1,0 +1,302 @@
+{
+  "answer": "**山形県**（庄内地方）です。ハタハタを茹でて醤油や大根おろしで食べる郷土料理で、農林水産省の「郷土料理」データベースでも「ハタハタの湯上げ」は**山形県**として登録されています（レシピ提供元：つるおかおうち御膳）。\n\n- 農林水産省 郷土料理データベース「ハタハタの湯上げ 山形県」：https://warp.ndl.go.jp/info:ndljp/pid/12702277/www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hatahatanoyuage_yamagata.html\n- 山形県「おいしい山形」ハタハタ：https://yamagata.nmai.org/crops/umaimono/marine/hatahata.html\n\n補足：秋田県（由利本荘市など）でも「ハタハタ湯上げ」として食べられており、秋田県の郷土料理として紹介されることもあります。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.9,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 15360,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.08560000000000001,
+      "inputTokens": 16257,
+      "maxOutputTokens": 32000,
+      "outputTokens": 875,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-58",
+  "raw": "jsonl/D2/msqa-JA-58.jsonl",
+  "reported_cost_usd": 0.08560000000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.684,
+      "query": "ハタハタの湯上げ 郷土料理 県",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "庄内地方の郷土料理を一品料理でご提供 | ブログ | 休暇村庄内羽黒【公式】",
+          "url": "https://qkamura.or.jp/haguro/blog/detail/?id=17958"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ｜水産物｜山形のうまいもの｜おいしい山形ホームページ",
+          "url": "https://yamagata.nmai.org/crops/umaimono/marine/hatahata.html"
+        },
+        {
+          "date": "2017-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の文化を舌で感じて。地元食材を生かした郷土料理",
+          "url": "https://erecipe.woman.excite.co.jp/article/Letronc_5391/?page=2"
+        },
+        {
+          "date": "2011-11-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "県内 ご当地味覚",
+          "url": "https://www.yamagata-np.jp/feature/mikaku/kj_20111129.php"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "第14問 ハタハタに無いもの | もっと知る-クイズライブラリー | 食の都 庄内|山形県庄内のおいしい食材と産地と観光スポット",
+          "url": "https://syokunomiyakoshounai.com/alacarte/quiz/b-014.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ湯上げ | レシピ一覧 | つるおかおうち御膳",
+          "url": "https://www.creative-tsuruoka.jp/ouchigozen/recipe_all/098.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "庄内エリア（南）の郷土料理スポット一覧",
+          "url": "https://travel.navitime.com/ja/area/jp/destinations/A01060005/spot/?categoryCode=0305022"
+        },
+        {
+          "date": "2023-03-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタの湯上げ 山形県",
+          "url": "https://warp.ndl.go.jp/info:ndljp/pid/12702277/www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hatahatanoyuage_yamagata.html"
+        },
+        {
+          "date": "2003-11-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ - Wikipedia - また山形県の庄内地方では12月9日に大黒様のお歳夜という、伝統的な行事が行われ、各家庭で大黒様にお供え物を上げる",
+          "url": "https://ja.wikipedia.org/?curid=27203#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「いな舟」(鶴岡市-郷土料理-〒997-0034)の地図/アクセス/地点情報 - NAVITIME",
+          "url": "https://www.navitime.co.jp/poi?spot=02301-t2989"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6911,
+      "query": "ハタハタ 湯上げ 秋田県 郷土料理",
+      "results": [
+        {
+          "date": "2017-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の文化を舌で感じて。地元食材を生かした郷土料理",
+          "url": "https://erecipe.woman.excite.co.jp/article/Letronc_5391/?page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の味覚！骨抜き子持ちハタハタ 醤油漬け焼き（大）（ブリコ入り 2尾×3パック 小分け） | 秋田県にかほ市 | JRE MALLふるさと納税",
+          "url": "https://furusato.jreast.co.jp/furusato/products/detail/F009/F009-335851"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の味覚！骨抜き子持ちハタハタ 醤油漬け焼き（大）（ブリコ入り 2尾×3パック 小分け）",
+          "url": "https://furusato.jal.co.jp/goods/detail/06e1f56ab55e2d090d3730effe95abdb"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の味覚！骨抜き子持ちハタハタ 醤油漬け焼き（大）（ブリコ入り 2尾×2パック 小分け）｜マイナビふるさと納税",
+          "url": "https://furusato.mynavi.jp/products/detail/6f4e78625c56c4b00ff3c1b06fa0a6d0/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[№5685-1852]骨抜き子持ちハタハタ 醤油漬け焼き（大）2尾×2パック",
+          "url": "https://furusato.montbell.jp/products/index.php?code=1008136"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "骨抜き ブリコ入り ハタハタ 醤油漬け焼き 2尾×2袋[No.5685-1852] | 秋田県にかほ市 | ふるさと納税サイト「さとふる」 - 初めての方でも簡単",
+          "url": "https://www.satofull.jp/products/detail.php?product_id=3105186&query_id=aGfh6cstYXrZR3yk#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ (旧ページ)",
+          "url": "https://www.zukan-bouz.com/suzuki/wanigisuamoku/hatahata.php"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタは、古くから秋田県沿岸部で盛んに捕獲されてきた",
+          "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000080881_00/04%E7%AC%AC%EF%BC%93%E7%AB%A0%E7%89%B9%E8%89%B2%E3%81%82%E3%82%8B%E9%83%B7%E5%9C%9F%E9%A3%9F.pdf#16#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の味覚！骨抜き子持ちハタハタ 醤油漬け焼き（大）（ブリコ入り 2尾×5パック 小分け） - ふるさとパレット～東急グループのふるさと納税～",
+          "url": "https://tokyu-furusato.jp/goods/detail/ca303e4a1a4f51bd45b135fe77b9932f"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "秋田の冬の味覚の代名詞！名物“鰰(ハタハタ)”",
+          "url": "https://www.akita-yulala.jp/selection/5000011053"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7027,
+      "query": "農林水産省 郷土料理 ハタハタの湯上げ 山形県 庄内",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ｜水産物｜山形のうまいもの｜おいしい山形ホームページ",
+          "url": "https://yamagata.nmai.org/crops/umaimono/marine/hatahata.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "この「どんがら汁」を味わう食文化のフェスティバル「寒鰻まつり」が庄内地方各地で開催されており、毎年多くの人たちで賑わっています",
+          "url": "https://www.mext.go.jp/content/20260727-mxt_koktou01-100014744_7.pdf#3#2"
+        },
+        {
+          "date": "2023-03-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタの湯上げ 山形県",
+          "url": "https://warp.ndl.go.jp/info:ndljp/pid/12702277/www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hatahatanoyuage_yamagata.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鯉の子付け、鯉の白子焼、鯉の子醤油漬、鯉の白子ポン酢、寒鯉汁（どんがら",
+          "url": "https://omu.repo.nii.ac.jp/record/844/files/2016990085.pdf#36#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "◆ 鶴岡市避難者支援だより ◆ No.202",
+          "url": "https://yuinet.beans-fukushima.or.jp/wp-content/uploads/2015/11/tsuruoka_hinan202.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "山形県の家庭料理 主菜の特徴",
+          "url": "https://www.jstage.jst.go.jp/article/ajscs/30/0/30_211/_pdf/-char/en#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>ぜんまい煮</center>",
+          "url": "https://www.mext.go.jp/content/20260727-mxt_koktou01-100014744_8.pdf#4#4"
+        },
+        {
+          "date": "2011-11-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "県内 ご当地味覚",
+          "url": "https://www.yamagata-np.jp/feature/mikaku/kj_20111129.php"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "庄内浜おいしいお魚ガイド",
+          "url": "https://www.pref.yamagata.jp/documents/6287/osakanaguide.pdf#1#1"
+        },
+        {
+          "date": "2003-11-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ハタハタ - Wikipedia - また山形県の庄内地方では12月9日に大黒様のお歳夜という、伝統的な行事が行われ、各家庭で大黒様にお供え物を上げる",
+          "url": "https://ja.wikipedia.org/?curid=27203#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 15360,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 16257,
+    "iterations": [],
+    "output_tokens": 875,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

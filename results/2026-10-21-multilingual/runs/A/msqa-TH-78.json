@@ -1,0 +1,118 @@
+{
+  "answer": "**ค้นไม่พบคำไทยโบราณที่ยืนยันได้ว่าแปลว่า \"ผีเรือน\" โดยเฉพาะ** ผมค้น 3 ครั้งแล้ว ไม่มีแหล่งไหนให้คำศัพท์โบราณคำเดียวที่ตรงกับความหมายนี้\n\nสิ่งที่ผลค้นหาบอกได้:\n- \"ผีเรือน\" เป็นคำที่ใช้กันอยู่แล้ว หมายถึงผีประจำบ้านหรือผีบรรพบุรุษที่คอยดูแลลูกหลาน บทความหนึ่งว่า ผีเรือนในความเชื่อล้านนาเกี่ยวกับ \"ผีกะ\" เป็นผีในตระกูล \"ผีเมง\" ที่ดูแลลูกหลาน แต่ถ้าถูกละเลยก็อาจให้โทษได้\n- คำที่มักมาคู่กันคือ \"ผีบ้านผีเรือน\" และ \"ผีเหย้าผีเรือน\" \"เหย้า\" เป็นคำเก่าที่แปลว่าเรือนหรือบ้าน แต่ผมไม่พบแหล่งที่ยืนยันว่า \"ผีเหย้า\" เป็นศัพท์โบราณที่แปลว่าผีเรือนโดยตรง ข้อนี้เป็นความรู้ทั่วไปของผมเอง ไม่ได้มาจากผลค้นหา\n\nถ้าคำถามมีตัวเลือกให้เลือก หรือมาจากโจทย์ที่กำหนดคำไว้ ส่งตัวเลือกมาได้ แล้วผมจะช่วยตรวจให้\n\nSources:\n- [Thairath – ไหว้ผีบ้านผีเรือน](https://www.thairath.co.th/lifestyle/life/967928)\n- [Silpa-mag – ผีกะ/ผีเรือน](https://www.silpa-mag.com/culture/article_125717)\n- [วารสาร TCI-Thaijo – คำเรียกผี](https://so03.tci-thaijo.org/index.php/jmbr/article/download/271840/187924/1244842)\n- [Thairath – วัฒนธรรม](https://www.thairath.co.th/lifestyle/culture/2947731)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 37.243,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.035170599999999996,
+      "inputTokens": 34701,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3401,
+      "provider": "firstParty",
+      "thinkingTokens": 752,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6714,
+      "cacheReadInputTokens": 20225,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0442245,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1533,
+      "provider": "firstParty",
+      "thinkingTokens": 356,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-78",
+  "raw": "jsonl/A/msqa-TH-78.jsonl",
+  "reported_cost_usd": 0.07939510000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ผีเรือน คำไทยโบราณ ความหมาย \"ผีเรือน\" ภาษาไทยโบราณ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VHwS7y63VHrsfBVjz4HEoF"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"ผีเรือน\" หมายถึง ศัพท์โบราณ พจนานุกรม \"ผีเรือน\" คือ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XSuxnWNfyPgqB1ZLfgkXss"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "ผีเหย้าผีเรือน เหย้า ความหมาย ผีเรือน",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FSJvFx79GWuVBcsGvYJLbc"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6714,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6714,
+    "cache_read_input_tokens": 20225,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1668,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1668,
+        "cache_read_input_tokens": 7497,
+        "input_tokens": 2,
+        "output_tokens": 839,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1533,
+    "output_tokens_details": {
+      "thinking_tokens": 356
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,6 @@
+{"billable": false, "call": 1, "query": "神奈備にひもろき立てて斎へども人の心は守りあへぬもの 万葉集 巻 歌番号", "results": [], "status": "allowed", "tool_use_id": "toolu_01JYiMdSzAcQP9DLkBqB8Pj4"}
+{"billable": false, "call": 2, "query": "\"ひもろき立てて\" \"人の心は守りあへぬもの\" 万葉集", "results": [], "status": "allowed", "tool_use_id": "toolu_01M7bb3Sy3PsPqwB2vjb1xNb"}
+{"billable": false, "call": 3, "query": "神奈備に ひもろぎ立てて 斎へども 人の心は 守りあへぬもの 出典 作者", "results": [], "status": "allowed", "tool_use_id": "toolu_01SjTddJEXJeS5XJvrHgyrJH"}
+{"billable": false, "call": 4, "query": "万葉集 \"神奈備に\" \"神籬立てて\" 祈れども 人の心 守りあへぬ", "results": [], "status": "allowed", "tool_use_id": "toolu_015eu3vmLAstj1EEzqAV38pU"}
+{"billable": false, "call": 5, "query": "かむなびに ひもろきたてて いはへども 人のこころは まもりあへぬもの 万葉集 巻十一 2657", "results": [], "status": "allowed", "tool_use_id": "toolu_01GF917bEL3WdqsSd25yDACV"}
+{"billable": false, "call": null, "query": "万葉集 神南備 神籬立てて 斎へども 人の心は 守りあへぬもの 巻十一 歌", "results": [], "status": "budget_exhausted", "tool_use_id": "toolu_01HuBC32BxGaiDAt2evRk3H8"}

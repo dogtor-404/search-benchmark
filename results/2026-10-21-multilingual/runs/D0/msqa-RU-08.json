@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道可靠答案，不硬猜。\n\n我了解的阿巴舍沃（Абашево）陶玩具：以动物造型的哨子（свистульки）为主，常见的有公羊、山羊、马、鹿、鸟、熊等，彩绘鲜艳、身形拉长。但我没有可靠依据说明其中哪一种动物被明确定义为“坚持不懈、达成目标”的象征，也不知道它有什么专门的名称。\n\n凭“公羊/山羊脾气倔”这类联想作答会误导，所以这一条我答不上来。如果这是某处博物馆解说或地方志里的说法，给出处的话我可以按文本判断；离线状态下我无法确认这种说法是否存在。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.082,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.08176,
+      "inputTokens": 2015,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3685,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-08",
+  "raw": "jsonl/D0/msqa-RU-08.jsonl",
+  "reported_cost_usd": 0.08176,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2015,
+    "iterations": [],
+    "output_tokens": 3685,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

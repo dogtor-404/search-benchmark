@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "скопцы отмечали день наказания Кондратия Селиванова дата", "results": [], "status": "allowed", "tool_use_id": "toolu_01Xpj1NEv1GPRXKhLWp4TWwq"}
+{"billable": false, "call": 2, "query": "скопцы праздновали день наказания Селиванова кнутом \"сентября\" OR \"августа\" OR \"июня\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01BbDiStaxgf6mXHUnvDu8q7"}
+{"billable": false, "call": 3, "query": "Селиванов Кондратий Иванович Википедия наказан кнутом скопцы отмечали этот день", "results": [], "status": "allowed", "tool_use_id": "toolu_01GZrmAMCEuuqpoQrWHQbuQr"}
+{"billable": false, "call": 4, "query": "Kondraty Selivanov knouted Skoptsy commemorate day of his punishment date", "results": [], "status": "allowed", "tool_use_id": "toolu_015pF8ukDn484LCoXSnGdzYY"}

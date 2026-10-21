@@ -1,0 +1,136 @@
+{
+  "answer": "**答案：「生盆（しょうぼん）」，又叫「生身魂／生き見玉（いきみたま）」，是盂兰盆节期间款待还健在的父母的习俗。**\n\n这个答案没有完全核实。5 次搜索已经用完，搜到的辞书只把「生盆」解释为“盂兰盆节期间给健在的父母送礼物、送食物并招待他们”，别名「いきみたま」。题目里说的“出嫁的孩子带着食材回娘家、给父母做饭”这个具体做法，没有找到原文对应，可能是某个地方的说法，或者另有专门的叫法。\n\n依据：\n- [JLect「生盆（しょうぼん）」词条](https://jlect.com/entry/1642/shoubon)：主要依据，给出了释义和别名「いきみたま」。\n- [kotobank「盆」](https://kotobank.jp/jeword/%E7%9B%86)：辅助参考。\n- [東洋大学论文（嫁回娘家的习俗，提到「センダクガエリ」等叫法）](https://toyo.repo.nii.ac.jp/record/6725/files/daigakuinkiyou50_017-031.pdf)：讲的是回娘家，但说的不是做饭给父母吃，和题目对不上。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 51.29,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.058143299999999995,
+      "inputTokens": 61458,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3995,
+      "provider": "firstParty",
+      "thinkingTokens": 1476,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7909,
+      "cacheReadInputTokens": 34800,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09558,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1265,
+      "provider": "firstParty",
+      "thinkingTokens": 294,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-54",
+  "raw": "jsonl/A_prime/msqa-JA-54.jsonl",
+  "reported_cost_usd": 0.1537233,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "嫁いだ娘 材料を持って里帰り 健在な親に料理を作って食べさせる 風習 何という",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0156FNJ4EoNTQv7bVQE7t967"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "生見玉 お盆 嫁いだ娘 料理 親に食べさせる",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01N5xKac9zs45cTztQVdC4NK"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "生盆 生身魂 嫁いだ子どもたちが 材料を持って 親に ご馳走",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019Fpq8jm413cMSHp84PKAR3"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "八千代 お嫁に出た子どもたちが 料理の材料を持って 里帰り 健在な親",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SiVLGrucbeDvQ7XFjJ2jmw"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "\"生き盆\" 嫁いだ 娘 材料 持って 里帰り 両親 料理",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019qwtsPwZUBH6q2rq15sUDx"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7909,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7909,
+    "cache_read_input_tokens": 34800,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1447,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1447,
+        "cache_read_input_tokens": 8913,
+        "input_tokens": 2,
+        "output_tokens": 490,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1265,
+    "output_tokens_details": {
+      "thinking_tokens": 294
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

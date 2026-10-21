@@ -1,0 +1,62 @@
+{
+  "answer": "**ป้ายยา**（bpai-yaa）\n\n- 字面意思：由 **ป้าย**（涂抹、上药）和 **ยา**（药）组成，所以字面意思是「涂药」\n- 实际用法：青少年网络俚语里表示「安利」或「强力种草」，也就是极力推荐某个产品、场所、剧集、艺人或内容，推荐到对方心动、入坑甚至上瘾\n- 常见搭配：\n  - **ป้ายยาละคร**：安利一部剧\n  - **ป้ายยาเพลง**：安利一首歌\n  - **ป้ายยาร้านอาหาร**：安利一家餐厅\n  - **โดนป้ายยา**：被安利了、被种草了（「中招」）\n\n另外补充一点：**ติด** 本身就有「上瘾、着迷」的意思，所以这类句子常出现「ป้ายยาจนติด」这种说法。\n\n其他和 `ยา` 相关的俚语，比如 **ยาดี**（好东西、厉害），意思偏向「很棒」，不带「推荐到对方上瘾」这层含义，所以这里的答案应是 **ป้ายยา**。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.365,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.031696,
+      "inputTokens": 2014,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1182,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-60",
+  "raw": "jsonl/D0/msqa-TH-60.jsonl",
+  "reported_cost_usd": 0.031696,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2014,
+    "iterations": [],
+    "output_tokens": 1182,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "**Jawaban singkat：** Titi（tato tradisional Mentawai）dalam kepercayaan Arat Sabulungan berfungsi sebagai **identitas spiritual / \"pakaian abadi\" bagi roh**. Orang Mentawai percaya bahwa tanpa titi di tubuhnya, roh leluhur tidak akan mengenali mereka saat meninggal dunia, sehingga titi menjadi penanda agar roh dikenali dan diterima di alam baka. Selain itu titi juga diyakini sebagai pancaran roh kehidupan, pengikat jiwa pada tubuh, dan pelindung (tameng) dari pengaruh buruk.\n\n**Sumber：**\n- https://rri.co.id/mataram/budaya/2808405/tato-tradisional-mentawai-seni-merajah-tubuh-tertua-di-dunia\n- https://id.wikipedia.org/wiki/Arat_Sabulungan\n- https://opera.liputan6.com/news/read/5410801/titi-tato-mentawai-yang-dijadikan-sebagai-identitas-diri",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.867,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.054590400000000004,
+      "inputTokens": 11086,
+      "maxOutputTokens": 32000,
+      "outputTokens": 488,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/D2_prime/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.054590400000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6928,
+      "query": "suku Mentawai titi fungsi kepercayaan tradisional",
+      "results": [
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia - RRI.co.id - Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia",
+          "url": "https://rri.co.id/mataram/budaya/2808405/tato-tradisional-mentawai-seni-merajah-tubuh-tertua-di-dunia#1"
+        },
+        {
+          "date": "2026-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\" - RRI.co.id - Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\"",
+          "url": "https://rri.co.id/bukittinggi/budaya/2482445/tato-mentawai-simbol-keselarasan-alam-dan-identitas-leluhur#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ADY ROSA  MAC ADITIAWARMAN  TATO  MASYARAKAT ADAT  MENTAWAI DAN DAYAK",
+          "url": "https://zenodo.org/records/2541233/files/1-Book%20Manuscript-7-1-10-20190115.pdf?download=1#23#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Atraksi Pembuatan Tato tradisional Mentawai/Titi Mentawai",
+          "url": "https://jadesta.kemenpar.go.id/atraksi/pembuatan_tato_tradisional_mentawaititi_mentawai"
+        },
+        {
+          "date": "2019-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arat Sabulungan - Wikipedia bahasa Indonesia, ensiklopedia bebas - Tradisi lain yang lekat dengan kepercayaan Arat Sabulungan adalah tato",
+          "url": "https://id.wikipedia.org/wiki/Arat_Sabulungan#2"
+        },
+        {
+          "date": "2026-02-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bukan Sekadar Tato! Rahasia Sakral Rajah Tubuh Suku Mentawai Ini Bikin Dunia Takjub, Tiap Garis Punya Nyawa dan Doa",
+          "url": "https://radarbonang.jawapos.com/budaya/2602100003/bukan-sekadar-tato-rahasia-sakral-rajah-tubuh-suku-mentawai-ini-bikin-dunia-takjub-tiap-garis-punya-nyawa-dan-doa"
+        },
+        {
+          "date": "2025-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jejak Titi Mentawai, Tradisi Tato Tubuh yang Lahir dari Alam Indonesia - Tribunnews.com - ✖",
+          "url": "https://m.tribunnews.com/travel/7770377/jejak-titi-mentawai-tradisi-tato-tubuh-yang-lahir-dari-alam-indonesia#1"
+        },
+        {
+          "date": "2023-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Titi, Tato Mentawai yang Dijadikan Sebagai Identitas Diri - Titi, Tato Mentawai yang Dijadikan Sebagai Identitas Diri",
+          "url": "https://opera.liputan6.com/news/read/5410801/titi-tato-mentawai-yang-dijadikan-sebagai-identitas-diri?utm_campaign=Share_Top#1"
+        },
+        {
+          "date": "2023-08-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Tradisi Titi, Budaya Tato Tradisional khas Suku Mentawai yang masih Bertahan hingga di Zaman Modern - Harian Haluan - Halaman 2",
+          "url": "https://www.harianhaluan.com/news/109859927/mengenal-tradisi-titi-budaya-tato-tradisional-khas-suku-mentawai-yang-masih-bertahan-hingga-di-zaman-modern?page=2"
+        },
+        {
+          "date": "2023-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mentawai Tattoo Revival",
+          "url": "https://filmdokumenter.id/films/mentawai-tattoo-revival/#brx-content"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 11086,
+    "iterations": [],
+    "output_tokens": 488,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

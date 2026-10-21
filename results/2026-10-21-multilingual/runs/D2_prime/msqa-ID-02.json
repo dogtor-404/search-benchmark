@@ -1,0 +1,144 @@
+{
+  "answer": "**Jawaban:** Tiga unsur Tri Hita Karana adalah:\n\n1. **Parahyangan** — hubungan harmonis manusia dengan Tuhan (Sang Hyang Widhi Wasa)\n2. **Pawongan** — hubungan harmonis manusia dengan sesama manusia\n3. **Palemahan** — hubungan harmonis manusia dengan alam/lingkungan\n\n**Sumber:** https://bimashindu.kemenag.go.id/index.php/dharma-wacana/pandemi-covid-dan-implementasi-ajaran-tri-hita-karana-CxaMx",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.955,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0383544,
+      "inputTokens": 8102,
+      "maxOutputTokens": 32000,
+      "outputTokens": 273,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/D2_prime/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0383544,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7083,
+      "query": "Tri Hita Karana tiga unsur penting dijaga",
+      "results": [
+        {
+          "date": "2013-10-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Presiden Yudhoyono buka konferensi internasional Tri Hita Karana - Presiden Yudhoyono buka konferensi internasional Tri Hita Karana",
+          "url": "https://www.antaranews.com/berita/399176/presiden-yudhoyono-buka-konferensi-internasional-tri-hita-karana?utm_source=antaranews&utm_medium=desktop&utm_campaign=related_news#1"
+        },
+        {
+          "date": "2025-09-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menjaga Keharmonisan Alam melalui Implementasi Ekoteologi dalam Konsep Tri Hita Karana",
+          "url": "https://bimashindu.kemenag.go.id/berita-pusat/menjaga-keharmonisan-alam-melalui-implementasi-ekoteologi-dalam-konsep-tri-hita-karana-d8aNi"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pandemi Covid dan Implementasi Ajaran Tri Hita Karana",
+          "url": "https://bimashindu.kemenag.go.id/index.php/dharma-wacana/pandemi-covid-dan-implementasi-ajaran-tri-hita-karana-CxaMx"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Agamaku Hindu, Apa yang Harus Aku Lakukan dalam Bingkai Tri Hita Karana",
+          "url": "https://bimashindu.kemenag.go.id/index.php/opini/agamaku-hindu-apa-yang-harus-aku-lakukan-dalam-bingkai-tri-hita-karana-ZsH6E"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana",
+          "url": "https://ceraken.baliprov.go.id/detail/tri-hita-karana-1675605680"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penerapan  Philosophi  Tri  Hita  Karana  Dalam  Perspektif Masyarakat Global",
+          "url": "https://ejournal.undiksha.ac.id/index.php/IGSJ/article/download/90554/32585/274985?__cf_chl_tk=JfvzeoT6EKPRegjjh_6O1N9OMMGejc9PzPBioMUvRHs-1780229644-1.0.1.1-GPkCb4fyyRht46lCPSnHX9l2FUceWTU9LNCNZWx3a0I#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_Ketiga, I Ketut Wiana dalam buku berjudul_ _Tri Hita Karana Menurut Konsep Hindu_",
+          "url": "https://repository.ukdw.ac.id/1727/1/57150001_bab1_bab5_daftarpustaka.pdf#10#7"
+        },
+        {
+          "date": "2025-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penyuluh Agama Hindu Kemenag Mesuji Sampaikan Dharma Wacana Bertema Tri Hita Karana",
+          "url": "https://www.kemenagmesuji.org/2025/10/07/penyuluh-agama-hindu-kemenag-mesuji-sampaikan-dharma-wacana-bertema-tri-hita-karana/#respond"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PRINSIP TRI HITA KARANA DALAM KONTEKS HUKUM PERIKATAN INDONESIA",
+          "url": "https://hukumperdata.id/wp-content/uploads/2022/09/Prosiding2_auth20.pdf#2#1"
+        },
+        {
+          "date": "2022-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Semangat ‘Tri Hita Karana’ Pulih Bersama Usai Pandemi - Generasi Sehat, Masa Depan Hebat",
+          "url": "https://kemkes.go.id/eng/semangat-tri-hita-karana-pulih-bersama-usai-pandemi#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8102,
+    "iterations": [],
+    "output_tokens": 273,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

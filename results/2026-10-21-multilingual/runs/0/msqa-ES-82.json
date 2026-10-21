@@ -1,0 +1,74 @@
+{
+  "answer": "「quedarse en blanco」的意思是**脑子突然一片空白**：因为紧张、慌乱、疲劳或惊讶，一下子想不起本来知道的东西，或者不知道该说什么、做什么。\n\n**例句**\n- *En el examen me quedé en blanco y no recordé ni mi nombre.* 考试时我脑子一片空白，连自己的名字都想不起来。\n- *Al ver al público, se quedó en blanco y olvidó el discurso.* 一看到观众，他就脑子空白，忘了演讲稿。\n\n**相关说法**\n- **dejar algo en blanco**：把某处留空，比如考试中某道题没答。\n- **pasar la noche en blanco**：彻夜未眠。这是另一个固定搭配，意思和「quedarse en blanco」不同。\n- **tener la mente en blanco**：脑子里什么都没有。和「quedarse en blanco」相近，但更强调一种状态，不强调突然发生。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.473,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1758,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0128928,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 570,
+      "provider": "firstParty",
+      "thinkingTokens": 238,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-82",
+  "raw": "jsonl/0/msqa-ES-82.jsonl",
+  "reported_cost_usd": 0.0128928,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1758,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1758,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1758,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1758,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 570,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 570,
+    "output_tokens_details": {
+      "thinking_tokens": 238
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

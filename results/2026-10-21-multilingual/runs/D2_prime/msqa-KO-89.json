@@ -1,0 +1,223 @@
+{
+  "answer": "안중근은 **1897년 1월**(19세 때)에 천주교에 입교했습니다. 아버지 안태훈(베드로)의 인도로 프랑스 출신 빌렘(홍석구) 신부에게서 '토마스(도마)'라는 세례명으로 세례를 받았습니다. (일부 자료는 1897년 1월 11~12일, 또는 1월 중순으로 적시합니다.)\n\n依据网址：\n- https://www.yna.co.kr/view/AKR20100326089200005 （연합뉴스：정진석 추기경 \"1897년 빌렘 신부님으로부터 토마스라는 세례명으로 영세\"）\n- https://maria.catholic.or.kr/bible/bbs/bbs_view.asp?num=7146&id=349715&ref=5050&menu=4772 （가톨릭정보：1897년 빌렘 신부에게 세례）\n- http://hero1909.chosun.com/religion.html （1897년 1월 11~12일 영세）\n- https://catholictimes.org/article/200910210269417 （가톨릭신문 연보：1897년 1월 중순 세례）\n\n참고로 일부 자료(KBS 등)에는 1895년으로 기재된 경우도 있으나, 천주교계와 다수 사료는 1897년 1월로 기록하고 있습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.577,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 8448,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0617416,
+      "inputTokens": 11083,
+      "maxOutputTokens": 32000,
+      "outputTokens": 786,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-89",
+  "raw": "jsonl/D2_prime/msqa-KO-89.jsonl",
+  "reported_cost_usd": 0.0617416,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6195,
+      "query": "안중근 천주교 입교 시기 세례",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>그는 1897 년 아버지를 따라 천주교에 입교하여 프랑스 출신의 천주교 신부 조제프 빌렌(Joseph Wilhelm)에게서 세례를 받았습니다",
+          "url": "http://waks.aks.ac.kr/extdata/project/2021/AKS-2021-KDA-1250010/AKS-2021-KDA-1250010_TEXT/pdf/7%EA%B0%95%EC%A2%8C_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81.pdf#127#118"
+        },
+        {
+          "date": "2011-10-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "천주교 서울대교구, 안중근 의사 시복 추진",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=2380686"
+        },
+        {
+          "date": "2019-09-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전자책 종합정보 - 안중근",
+          "url": "http://gb.go.kr:8085/Kyobo_T3/Content/ebook/ebook_View.asp?barcode=480D190824190&category_id=3303&detail_info_key=total&product_cd=001"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "GoodNews 가톨릭정보",
+          "url": "https://maria.catholic.or.kr/bible/bbs/bbs_view.asp?num=7146&id=349715&ref=5050&menu=4772"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "미리보기 | 안중근 자서전: 동양평화론 수록 - 교보문고",
+          "url": "https://product.kyobobook.co.kr/book/preview/S000213800537?view=double&page=1"
+        },
+        {
+          "date": "2010-03-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "정추기경 \"안중근 독립운동은 신앙의 연장선\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20100326089200005"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "대한국인 안중근",
+          "url": "http://hero1909.chosun.com/religion.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "도산아카데미 역사기록 백과사전",
+          "url": "http://dosanwiki.kr/wiki/sub03.html?kw=&sagK=WL&start=48"
+        },
+        {
+          "date": "2020-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[종교화제] 안중근의사 시성추진 - 통일기도주간",
+          "url": "https://www.chosun.com/site/data/html_dir/1997/08/01/1997080170354.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "금성출판사 :: 티칭백과",
+          "url": "https://thub.kumsung.co.kr/web/smart/detail.do?headwordId=4544&findCategory=B002005&findBookId=31"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.682,
+      "query": "안중근 세례 1897년 1월 빌렘 신부 토마스",
+      "results": [
+        {
+          "date": "2010-03-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "정추기경 \"안중근 독립운동은 신앙의 연장선\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20100326089200005"
+        },
+        {
+          "date": "2010-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "가톨릭, ‘토마스’ 안중근 의사에 100년만에 ‘참회’ - 가톨릭, ‘토마스’ 안중근 의사에 100년만에 ‘참회’",
+          "url": "https://www.hani.co.kr/arti/well/mind/938059.html#1"
+        },
+        {
+          "date": "2010-03-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "가톨릭 ‘안중근 껴안기’…“친일 반성이 먼저”",
+          "url": "http://herstory.hani.co.kr/arti/well/news/938952.html"
+        },
+        {
+          "date": "2010-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "가톨릭, ‘토마스’ 안중근 의사에 100년만에 ‘참회’",
+          "url": "http://auth.hani.co.kr/arti/well/mind/938059.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[3.1 운동 100주년] 안중근이 삶으로 드러낸 하느님 집안의 평화살이 > 공지사항",
+          "url": "http://www.jcatholic.or.kr/bbs/board.php?theme=&bo_table=notice&wr_id=1646&theme=main"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "대한국인 안중근",
+          "url": "http://hero1909.chosun.com/religion.html"
+        },
+        {
+          "date": "2024-03-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[열린세상] 청년 안중근과 빌렘 신부",
+          "url": "https://m.seoul.co.kr/news/editOpinion/world-stories/2024/03/27/20240327026001?cp=seoul"
+        },
+        {
+          "date": "2017-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "안중근과 빌렘 - 한국학논총 - 국민대학교 한국학연구소 - KISS - 닫기",
+          "url": "https://kiss.kstudy.com/Detail/Ar?key=3831078#1"
+        },
+        {
+          "date": "2026-01-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "서울신문 검색",
+          "url": "https://www.seoul.co.kr:8888/index.php?keyword=%ec%86%90%ea%b0%80%eb%9d%bd&page=50"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[안중근 의사 의거 100주년] 안중근 의사의 삶과 신앙",
+          "url": "https://catholictimes.org/article/200910210269417"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 8448,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 11083,
+    "iterations": [],
+    "output_tokens": 786,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

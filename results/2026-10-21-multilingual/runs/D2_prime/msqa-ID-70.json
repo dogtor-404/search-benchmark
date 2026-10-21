@@ -1,0 +1,144 @@
+{
+  "answer": "**Kira-kira pukul 08.00–09.00.**\n\nKBBI 把 “sepenggalah matahari naik” 解释为表示时间的用语（peribahasa），即「太阳升起约一竿高」，大约在上午 8 点到 9 点。\n\n依据：\n- KBBI（kamuslengkap.id / baru.kbbi.co.id）：`sepenggalah matahari naik — alamat waktu, kira-kira pukul 08.00 atau 09.00`\n  - https://kamuslengkap.id/kamus/kbbi/arti-kata/sepenggalah-matahari-naik/\n  - https://baru.kbbi.co.id/arti-kata/matahari\n\n补充：马来语的 Kamus Dewan 对 “sepenggalah” 的说法是太阳约一竿高、大约早上 7–8 点（https://prpm.dbp.gov.my/Cari1?keyword=sepenggalah）。两者略有差异，若按题干所用的印尼语词组（KBBI 原句），答案是 **约 08.00 或 09.00**。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.601,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0411928,
+      "inputTokens": 6628,
+      "maxOutputTokens": 32000,
+      "outputTokens": 711,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-70",
+  "raw": "jsonl/D2_prime/msqa-ID-70.jsonl",
+  "reported_cost_usd": 0.0411928,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6681,
+      "query": "sepenggalah matahari naik pukul berapa",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?keyword=sepenggalah&d=73980&#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut kamus besar bahasa Indonsia Dhuha merupakan waktu menjelang tengah hari (kurang lebih pukul 10.00)",
+          "url": "https://digilib.iainkendari.ac.id/1000/3/BAB%20II.docx#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Kata \"matahari\" Menurut KBBI",
+          "url": "https://baru.kbbi.co.id/arti-kata/matahari"
+        },
+        {
+          "date": "2016-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata sepenggalah matahari naik menurut Kamus KBBI - Kamus Lengkap Online - KamusLengkap.ID",
+          "url": "https://kamuslengkap.id/kamus/kbbi/arti-kata/sepenggalah-matahari-naik/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "7",
+          "url": "https://etheses.iainkediri.ac.id/4668/3/932116417_bab2.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "C. Salat Duha",
+          "url": "https://digilib.uinsgd.ac.id/91672/5/5_bab%202..pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dhuha menurut bahasa waktu ketika matahari terbit hingga cahayanya memutih",
+          "url": "https://core.ac.uk/download/385964615.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "وَأَعْطَسْنِي لَيْبَلَّهَا وَأحَرَجُ عَمْتُهَا",
+          "url": "https://etd.umy.ac.id/id/eprint/15939/2/Bab%20I.pdf#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sepenggalah",
+          "url": "http://kateglo.lostfocus.org/?mod=dictionary&action=view&phrase=sepenggalah"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "belajar mengajar di kelas, kegiatan ekstrakurikuler di",
+          "url": "https://eprints.walisongo.ac.id/id/eprint/12299/1/skripsi_Iip%20Latifah_1403036097.pdf#15#6"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6628,
+    "iterations": [],
+    "output_tokens": 711,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

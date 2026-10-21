@@ -1,0 +1,62 @@
+{
+  "answer": "**字面意思（有把握）**：「통모짜핫도그」= 통（整块/整根）+ 모짜（모차렐라，马苏里拉）+ 핫도그（热狗/韩式玉米热狗）。指里面夹着**整块马苏里拉芝士**的韩式热狗，是 명랑핫도그 等连锁店的常见单品，和普通只夹芝士条的“치즈핫도그”相对。\n\n**作为“流行语”的用法（没把握）**：我只知道它是孩子们之间流传的玩梗式感叹词/口头禅，多半源自短视频或儿歌，具体出处和确切的语感我不能确认，不想编。这条建议你联网查一下（搜“통모짜핫도그 유행어 유래”）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.545,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032984,
+      "inputTokens": 1976,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1254,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-56",
+  "raw": "jsonl/D0/msqa-KO-56.jsonl",
+  "reported_cost_usd": 0.032984,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1976,
+    "iterations": [],
+    "output_tokens": 1254,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

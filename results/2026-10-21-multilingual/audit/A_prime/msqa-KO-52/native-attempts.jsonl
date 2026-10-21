@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "뜻하지 않은 일이 우연하게도 잘 들어맞았을 때 속담", "results": [], "status": "allowed", "tool_use_id": "toolu_01JBwoshTgX8w6tEKHHpjuSo"}
+{"billable": false, "call": 2, "query": "\"소 뒷걸음질 치다 쥐 잡기\" 뜻 우연히", "results": [], "status": "allowed", "tool_use_id": "toolu_01RPqpVW6WN8BBQ5svN9WWSP"}
+{"billable": false, "call": 3, "query": "\"가는 날이 장날\" 뜻하지 않은 일 공교롭게 속담 뜻", "results": [], "status": "allowed", "tool_use_id": "toolu_013P4RKAEu9R727xNzAZWcLo"}

@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "peribahasa \"bulan naik matahari naik\" arti", "results": [], "status": "allowed", "tool_use_id": "toolu_01MKcwDXBUjfujSWQEt7A4SN"}
+{"billable": false, "call": 2, "query": "\"bulan naik, matahari naik\" KBBI pb", "results": [], "status": "allowed", "tool_use_id": "toolu_011d5JX2XMtLkmgmwKrG2txg"}

@@ -1,0 +1,109 @@
+{
+  "answer": "**答案：豊玉姫命（とよたまひめのみこと）。** 豊玉姫は海神の娘で、主祭神ウガヤフキアエズの母です。伝承では、出産のために海宮（竜宮）から亀に乗って鵜戸へ来ました。その亀が石になったのが亀石とされています。\n\nただ、確認できた範囲には限りがあります。搜索结果里没有一页原文写着“亀が石と化した”这一句，鵜戸神宮的官方网站也没有查到。“豊玉姫出产时从竜宮乘来的”这一点，有好几个网页都写了。国土交通省的资料里另有一种说法，说骑着大龟来访的是养育ウガヤフキアエズ的姨母（玉依姫），但多数资料都说是豊玉姫。共搜索 2 次。\n\n依据：\n- [ジョルダン 初詣スポット（鵜戸神宮）](https://sp.jorudan.co.jp/newyear/spot_47732.html)\n- [ニコニコ大百科「鵜戸神宮」](https://dic.nicovideo.jp/a/%E9%B5%9C%E6%88%B8%E7%A5%9E%E5%AE%AE)\n- [GLTJP 鵜戸神宮](https://www.gltjp.com/ja/directory/item/11580/)\n- [国土交通省 多言語解説文（PDF）](https://www.mlit.go.jp/tagengo-db/common/001558211.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 30.685,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023556900000000002,
+      "inputTokens": 25999,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1914,
+      "provider": "firstParty",
+      "thinkingTokens": 531,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4305,
+      "cacheReadInputTokens": 12267,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.053097399999999996,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 809,
+      "provider": "firstParty",
+      "thinkingTokens": 83,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-21",
+  "raw": "jsonl/A_prime/msqa-JA-21.jsonl",
+  "reported_cost_usd": 0.07665430000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "鵜戸神宮 亀石 豊玉姫 亀 石と化した",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EhwD8QReixhxR6PZ3uxr5B"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "鵜戸神宮 霊石亀石 豊玉姫命 海宮より来訪 乗って来た亀が石と化した",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WMPv7v1PEV5ewRPC6D4Zwz"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4305,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4305,
+    "cache_read_input_tokens": 12267,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1256,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1256,
+        "cache_read_input_tokens": 5500,
+        "input_tokens": 2,
+        "output_tokens": 511,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 809,
+    "output_tokens_details": {
+      "thinking_tokens": 83
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

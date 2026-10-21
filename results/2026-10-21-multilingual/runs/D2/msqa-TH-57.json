@@ -1,0 +1,477 @@
+{
+  "answer": "**คำตอบ: ในภาษาเขมร ละโว้ถูกเรียกว่า “Lvo” (ល្វោ) — ในจารึกเขียนเป็น “สฺรุกลฺโว” (sruk Lvo) แปลว่า “แคว้น/ดินแดนลโว”**\n\nหลักฐาน:\n- จารึกภาษาเขมรที่พบที่ลพบุรีเมื่อปลายคริสต์ศตวรรษที่ 10 ระบุชื่อ “Lvo” และนักวิชาการระบุว่า Lvo ในจารึกเขมร = Lavo = ละโว้/ลพบุรี ([Indian Colony of Siam, Punjab Oriental Series](https://dn790002.ca.archive.org/0/items/ThePunjabOrientalSeriesSanskritNoXIIITheIndianColonyOfSiam/The-Punjab-Oriental-Series%28Sanskrit%20No-%20XIII%29-The-Indian-colony-of-siam.pdf))\n- “จารึกกัมพูชาโบราณเรียกชาว Lo-hu ว่า Lvo ซึ่งต้องตรงกับ Lavo” ([Digital Silk Road / Pelliot](https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en))\n- วิกิพีเดียไทยรวบรวมชื่อเรียกในจารึกเขมรว่า “สฺรุกลฺโว” (จารึกศาลเจ้าเมืองลพบุรี K.412) และ “ลโวทยปุระ” (Lavodayapura) ([อาณาจักรละโว้](https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90))\n\nสรุปสั้น ๆ: ชื่อเขมรคือ **Lvo (ល្វោ)** หรือ **Sruk Lvo**; ส่วนชื่อทางการแบบสันสกฤตที่ปรากฏในจารึกเขมรภายหลังคือ **Lavodayapura (លវោទយបុរៈ)**.",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "\"ละโว้\" \"สวามิภักดิ์\" เขมร \"ลโว\"",
+      "results": [],
+      "status": "budget_exhausted"
+    },
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "Lavodayapura Khmer name 10th century Lavo submitted Khmer",
+      "results": [],
+      "status": "budget_exhausted"
+    }
+  ],
+  "elapsed_seconds": 26.445,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 97408,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.25255760000000005,
+      "inputTokens": 40469,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3560,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-57",
+  "raw": "jsonl/D2/msqa-TH-57.jsonl",
+  "reported_cost_usd": 0.25255760000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 7,
+  "search_budget_denials": 2,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6549,
+      "query": "Lavo 10th century submitted to Khmer called in Khmer language Lavo",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "768    274. LOCHAC",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/images/PDF/0172.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Institute of Informatics - Digital Silk Road Project Digital Archive of Toyo Bunko Rare Books",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Around the tenth century, the city- states of Dvaravati merged into the mandalas of: Lavo (modern Lopburi) and Suvarnabhumi (mod...",
+          "url": "https://en.wikipedia.org/api/rest_v1/page/pdf/History_of_Thailand#10#1#11#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国立情報学研究所 - ディジタル・シルクロード・プロジェクト 『東洋文庫所蔵』貴重書デジタルアーカイブ",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.ja"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It is evident from the foregoing narrative that Lavô must have been reconquered and well-nigh entirely destroyed by the Khmērs i...",
+          "url": "https://ia800109.us.archive.org/4/items/in.ernet.dli.2015.530463/2015.530463.imperial-and_text.pdf#68#17"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE SIMILARITY BETWEEN THE SIMALESE, THE BURMESE, THE LAVO",
+          "url": "https://shodhganga.inflibnet.ac.in/bitstream/10603/338672/10/10%20chapter%205.pdf#1#1"
+        },
+        {
+          "date": "2013-11-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Lavo Kingdom",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20131114015258/http://en.wikipedia.org/wiki/Lavo_Kingdom#1"
+        },
+        {
+          "date": "2009-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Wikipedia - Lavo Kingdom",
+          "url": "https://en.wikipedia.org/wiki/Lavo_Kingdom?oldid=752784911#1"
+        },
+        {
+          "date": "2026-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉沃王国",
+          "url": "https://baike.baidu.com/item/%e6%8b%89%e6%b2%83%e7%8e%8b%e5%9b%bd/54558217"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Sundaradeśanā[h] | After 996–1005 | From Tchai Pappe Mahanacon at Phraek Si Racha",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Lavo_Kingdom#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.9245,
+      "query": "ลวปุระ ละโว้ สวามิภักดิ์ เขมร ชื่อภาษาเขมร",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เมืองลพบุรีนี้ เป็นพระมหานครโบราณราชธานีใหญ่ของ เก่าสืบมา ด้วยเรื่องความมีอยู่ในพงศาวดารารามัญอ้างชื่อว่าเมือง ละโว้ และว่าสมเด็...",
+          "url": "https://www.finearts.go.th/storage/contents/2021/09/file/fmkwnAJA2kr2SF2r9RVvzYMgCAYnr21wYg8Mri2U.pdf#39#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/handle/123456789/14826/MA_Ngampan_Thepta.pdf?sequence=1&isAllowed=y#73#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ศิลปะลพบุรี เป็นภาษาที่ใช้เรียงกานศิลปะเขมรในประเทศไทยมานานแล้ว จน กลายเป็นวัฒนธรรมทางภาษาที่ใช้ต่อเนื่องกันมาจนถึงทุกวันนี้ แต่...",
+          "url": "http://www.mcuir.mcu.ac.th:8080/jspui/bitstream/123456789/851/1/2560-054%20%e0%b8%a7%e0%b8%b1%e0%b8%8a%e0%b8%a3%e0%b8%b0%20%e0%b8%81%e0%b8%a7%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8a%e0%b8%a2%e0%b9%8c.pdf#57#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประวัติศาสตร์และวัฒนธรรมของดินแดนที่เป็นจังหวัดลพบุรีและจังหวัดใกล้เคียง  ซึ่งตั้งอยู่ที่ภาคกลาง ตอนเหนืออาจก าหนดได้  3 สมัย คื...",
+          "url": "https://so03.tci-thaijo.org/index.php/JMND/issue/download/17663/5042#136#47"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระราชลัญจกรมังกรคาบแก้ว ตราประจำโบราณคดีสโมสร สโมสรที่เกิดขึ้นพร้อมกับกระแส การศึกษาประวัติศาสตร์ปลายสมัยรัชกาลที่ ๕ ที่เริ่มให...",
+          "url": "https://www.finearts.go.th/storage/contents/2021/09/file/fmkwnAJA2kr2SF2r9RVvzYMgCAYnr21wYg8Mri2U.pdf#39#22"
+        },
+        {
+          "date": "2024-10-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ลพบุรี เป็นของไทยตั้งแต่เมื่อใด?",
+          "url": "https://www.silpa-mag.com/history/article_89008"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สถาบัติยกระทร์ที่แต่งถึงอิทธิพลศิลปะยงรที่เก่าที่สุดทางภาคกลางของประเทศไทย และระยะนี่ล่วงมา",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/50d830db-4b41-43d4-a281-ce0c99e3100e/fulltext.pdf?attempt=2#14#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาณาจักรหริภุญชัยตั้งขึ้นราวพุทธศตวรรษที่ 13 - 17 บริเวณที่ราบลุ่มแม่น ้าปิงและ แม่น ้าวัง มีเมือง ล าปาง (เขลางค์นคร) เป็นหน้าด...",
+          "url": "https://ssrudlp.ssru.ac.th/data-file/teacher_work/file/89dbd8853a372e4535747a22b60b8b0c.pdf#8#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การชĞำระให้ถูกต้อง รวมทั้งยังไม่มีสรรพนามเรียกให้เป็นเอกภาพเดียวกัน ส่วนความหมายของงานศิลปะ",
+          "url": "http://www.mcuir.mcu.ac.th:8080/jspui/bitstream/123456789/574/1/2562-021%e0%b8%a1%e0%b8%b2%e0%b8%99%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%20%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b0%e0%b8%aa%e0%b8%b1%e0%b8%81.pdf#62#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หลังจากพุทธศตวรรษที่ ๑๖ เป็นต้นมา อาณาจักรขอมได้ขยายอิทธิพลเข้ามายังบริเวณนี้ อิทธิพลศิลปวัฒนธรรมของขอมได้แพร่เข้ามาในดินแดนประเ...",
+          "url": "https://www.senate.go.th/v2/files/commissionreport/3667118.PDF#34#11"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.6503,
+      "query": "\"Lvo\" Khmer inscription Lavo Lopburi name",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "768    274. LOCHAC",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/images/PDF/0172.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Institute of Informatics - Digital Silk Road Project Digital Archive of Toyo Bunko Rare Books",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ces deux états de Sien et de Lo-hou, que la nature de leur sol nous pousse à chercher l’un sur la haute, l’autre sur la basse Me...",
+          "url": "https://cisark.mcfa.gov.kh/Documentation/BEFEO%20004-2.PDF#128#32"
+        },
+        {
+          "date": "2020-03-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lopburi - Lopburi",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_fr_all_maxi/A/Lopburi#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1.2.2. Tribhuvanādityavarman et Lavodaya",
+          "url": "https://theses.hal.science/tel-04714730v1/file/ROCHE%E2%80%882023_TH_Vol.%E2%80%881.pdf#137#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo的解释和发音 「法语助手」法汉-汉法词典 为您提供权威的法语单词解释_真人发音_用法_例句",
+          "url": "http://www.esdict.cn/mdicts/fr/Lavo.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "9. Also Lavo, Lvo, Lopburi, Lophburi, Lophaburi or Lavapura (Navapura)",
+          "url": "https://ia601402.us.archive.org/14/items/in.ernet.dli.2015.149949/2015.149949.The-Tai-And-The-Tai-Kingdoms.pdf#114#42"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lopburi",
+          "url": "http://www.godic.net/mdicts/fr/Lopburi.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "http://dict.eudic.net/mdicts/fr/Lavo.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In the past, the area of Lopburi Province used to be the location of an ancient city for many times, whose original name is Lavo...",
+          "url": "https://www.iferp.in/thailand/assets/img/1st%20ICTEMR%20Book.pdf#248#56"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.8601,
+      "query": "ละโว้ ชื่อในจารึกเขมร \"ลว\" หรือ \"ลโว\" สวามิภักดิ์เขมร ศตวรรษที่ 10",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตารางที่ 3 ตารางแสดงจำรึกที่มีอายุอยู่ในช่วงปลาย (กำหนดอายุราวพุทธศตวรรษที่ 15-16) (ต่อ)",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/handle/123456789/14826/MA_Ngampan_Thepta.pdf?sequence=1&isAllowed=y#73#41"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในกลุ่มรัฐทวารวดีหลายแห่ง โดยเฉพาะในพื้นที่รอบเขตอ าเภอเทพสถิต ถ้าเป็นในเขตจังหวัด ลพบุรีประกอบด้วยเมืองโบราณในรัฐทวารวดีที่ส าค...",
+          "url": "https://elibrary.tsri.or.th/fullP/RDG55H0002/RDG55H0002V03/RDG55H0002V3_full.pdf#115#90"
+        },
+        {
+          "date": "2017-02-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาณาจักรละโว้",
+          "url": "https://44504newwy.wordpress.com/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%A7%E0%B9%89/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จากหลักฐานศิลาจารึกในประเทศไทย มีเพียงหลักเดียวเท่านั้นที่ปรากฏพระ นามของพระนางจามเทวีได้แก่ ศิลาจารึกวัดพระธาตุดอยน้อย จารึกขึ้...",
+          "url": "https://www.elibrarycub.com/Sample_ebook/S_37041.pdf#39#15"
+        },
+        {
+          "date": "2022-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ลพบุรีสมัยพระนารายณ์: ร่องรอยการพัฒนาในอดีตและมรดกทางวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/history/article_45648"
+        },
+        {
+          "date": "2020-07-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "T11 Prezi _04_10_11_28_31 - 文字记录",
+          "url": "https://prezi.com/p/fghancp1ve1z/t11-prezi-0410112831/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ASEAN “มอง” ไทย - หรือทฤษฎีสุดท้ายที่พระเจ้าอู่ทองอาจเป็นชาวเสียนเมืองละโว้ เพราะในเอกสารของทูตต้าหยวนได้เขียนชี้ชัดว่า \"เมืองละโว้ (หลัวหู) ในสมั...",
+          "url": "https://www.facebook.com/absd8Dqyp2ESAAEN1NGOMDAYA02CLMVt01XCT435213LNM42/posts/pfbid02DpWqJjgqKRQZ8WCuqMKv87nJ6L2NsSGAHW21u8eQD6QZUrBFuxXTX1j6HBpspikml#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาณาจักรละโว้ - Wikiwand - อาณาจักรละโว้",
+          "url": "https://www.wikiwand.com/th/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%A7%E0%B9%89#1"
+        },
+        {
+          "date": "2006-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาณาจักรละโว้ - วิกิพีเดีย",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สีหราช (พระดำหนักเย็น) ที่สร้างขึ้นริมทะเลขุนศรเท่านั้น",
+          "url": "http://ithesis-ir.su.ac.th/dspace/bitstream/123456789/5047/1/620320001.pdf#83#38"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.6566,
+      "query": "\"Lavo\" \"10th century\" Khmer \"Lvo\" vassal kingdom",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2 Memoires sur les coutumes du Cambodge, translated by P",
+          "url": "https://ia801502.us.archive.org/27/items/in.ernet.dli.2015.33109/2015.33109.Indian-Historical-Quarterly--Vol-1_text.pdf#84#109#84"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "THE",
+          "url": "https://dn790002.ca.archive.org/0/items/ThePunjabOrientalSeriesSanskritNoXIIITheIndianColonyOfSiam/The-Punjab-Oriental-Series%28Sanskrit%20No-%20XIII%29-The-Indian-colony-of-siam.pdf#18#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "768    274. LOCHAC",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/images/PDF/0172.pdf#1#1"
+        },
+        {
+          "date": "2013-11-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Lavo Kingdom",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20131114015258/http://en.wikipedia.org/wiki/Lavo_Kingdom#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Institute of Informatics - Digital Silk Road Project Digital Archive of Toyo Bunko Rare Books",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Lavo Kingdom",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Lavo_Kingdom#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo的解释和发音 「法语助手」法汉-汉法词典 为您提供权威的法语单词解释_真人发音_用法_例句",
+          "url": "http://www.godic.net/mdicts/fr/Lavo.html"
+        },
+        {
+          "date": "2009-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Wikipedia - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20231121203111/https://en.wikipedia.org/wiki/Lavo_kingdom#1"
+        },
+        {
+          "date": "2013-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - The Wayback Machine - https://web",
+          "url": "https://web.archive.org/web/20140511051459/http://en.wikipedia.org/wiki/Lavo_Kingdom#1"
+        },
+        {
+          "date": "2025-10-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "History of Lopburi facts for kids - History of Lopburi facts for kids",
+          "url": "https://kids.kiddle.co/History_of_Lopburi#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 97408,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 40469,
+    "iterations": [],
+    "output_tokens": 3560,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

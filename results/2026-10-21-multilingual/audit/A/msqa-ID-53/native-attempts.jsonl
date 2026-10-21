@@ -1,0 +1,2 @@
+{"billable": false, "call": 1, "query": "arti peribahasa \"bulan naik matahari naik\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01QeWaRjZrkhqWDD4ibPXvm4"}
+{"billable": false, "call": 2, "query": "\"bulan naik\" \"matahari naik\" peribahasa kbbi mendapat untung", "results": [], "status": "allowed", "tool_use_id": "toolu_01Fh9fsqJHefpo8kMNPbxiKe"}

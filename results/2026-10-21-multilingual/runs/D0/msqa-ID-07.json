@@ -1,0 +1,62 @@
+{
+  "answer": "**Merariq（也写作 *merarik*）指的是「抢婚／私奔」这一道程序**——即 Sasak 族传统婚姻中的**「带新娘私奔」**：男方（通常事先与女方私下约定好）在夜里把准新娘从她家带到男方家或男方亲戚家藏起来，以此作为婚姻的**第一步**、也是对外的宣告。\n\n几点补充：\n\n- 词源上来自 *lariq*（跑），所以常译作 *kawin lari*（私奔婚）。关键点是：这通常**不是真正的暴力绑架**，多数情况下女方是知情的、甚至配合的，只是形式上要「跑」。\n- 它在 adat（习惯法）里为婚姻提供合法性起点，之后还要走后续程序：男方家族派人去女方家**议亲／通报**（*besejan*、*nyelabar* 之类）、商定并支付彩礼（*pisuke* 等）与 customary fine、举行宗教上的 akad、最后是 **nyongkolan**（把新娘带回娘家一带的游行庆典）。\n- 广义上，有些人也用 *merariq* 泛指整套 Sasak 婚俗；但狭义、也是更常见的用法，就是指开头那道**「把新娘带走／私奔」**的程序。\n\n以上是根据既有知识作答，未联网核对。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.505,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.022696,
+      "inputTokens": 1984,
+      "maxOutputTokens": 32000,
+      "outputTokens": 738,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/D0/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.022696,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1984,
+    "iterations": [],
+    "output_tokens": 738,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

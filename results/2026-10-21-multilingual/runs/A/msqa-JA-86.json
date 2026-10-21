@@ -1,0 +1,118 @@
+{
+  "answer": "答えは **蔵満（ぞうまん）** です。\n\n『今昔物語集』巻十七第十七話によると、蔵満は東大寺の僧でした。登昭という人相見に「仏道を学べば高貴な身になるが、寿命は短く四十歳までは生きられない」と告げられます。蔵満は嘆いて東大寺を離れ、笠置の岩窟に入って厳しい修行をしました。毎日六回の行道と念仏を行い、一日一食を守り、毎朝地蔵菩薩の名号を百八回唱えたと伝えられています。その後は九十歳まで病なく過ごし、西に向かって合掌して亡くなったとされます。\n\nこの話は検索結果の要約で確認したものです。原文は直接開いていません。\n\nSources:\n- [巻十七第十七話 東大寺の僧が生き返った話（hon-yak.net）](https://hon-yak.net/17-17/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 33.853,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0352031,
+      "inputTokens": 38756,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2655,
+      "provider": "firstParty",
+      "thinkingTokens": 864,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5858,
+      "cacheReadInputTokens": 18875,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.033895499999999995,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 856,
+      "provider": "firstParty",
+      "thinkingTokens": 215,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-86",
+  "raw": "jsonl/A/msqa-JA-86.jsonl",
+  "reported_cost_usd": 0.0690986,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "相術師 四十歳まで生きられない 東大寺 笠置 洞窟 修行",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Bu57yio3PoXLCv8fy39cgz"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "相人 四十歳まで生きられない 東大寺 出て 笠置 窟 籠る 僧",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017Jnaku9ttHia7yAnZZGAUN"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "東大寺の僧 人相見に四十歳までの命と言われ 笠置の窟に移り 厳しい修行 遁世",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013bKRAR3mkTETn3xQkR1bHr"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5858,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5858,
+    "cache_read_input_tokens": 18875,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1648,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1648,
+        "cache_read_input_tokens": 6661,
+        "input_tokens": 2,
+        "output_tokens": 316,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 856,
+    "output_tokens_details": {
+      "thinking_tokens": 215
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

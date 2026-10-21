@@ -1,0 +1,136 @@
+{
+  "answer": "**答案：用“ทาน”（吃，客气说法）替换“แดก”（吃，粗俗说法），把“แดกงา”改叫“ขนมทานงา”。**\n\n有一点要说明：这个答案还没完全核实。只有第 4 次搜索的结果摘要说，ศิลปวัฒนธรรม 那篇文章里写了现在有卖家改叫“ขนมทานงา”，好让名字听着文雅些，摘要还引了跟题目一样的那句话。不过那次的搜索词里本来就带着“ทานงา”，摘要可能被搜索词带偏了。第 5 次我直接搜那句原话，没有找到原文，所以我没亲眼看到那段话。5 次搜索的额度已经用完。\n\n另外查到这种点心还有别的叫法：ข้าวเหนียวแดกงา、ข้าวตำงา、ขนมข้าวปุก、ข้าวโปง。但这些是不同地区的旧称，不是卖家为了好听新起的名字。\n\n来源：\n- [ศิลปวัฒนธรรม：ขนมแดกงา ชื่อไม่น่ากิน…กับการเปลี่ยนชื่อให้ไพเราะ](https://www.silpa-mag.com/culture/article_3886)（另一个网址：https://www.silpa-mag.com/?p=3886）\n- [วิกิพีเดีย：ข้าวแดกงา](https://th.wikipedia.org/wiki/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2)\n- [ศิลปวัฒนธรรม：ข้าวเหนียวแดกงา (กวาญย์คะเปียง)](https://www.silpa-mag.com/culture/article_37545)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 59.58,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0585527,
+      "inputTokens": 60022,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5101,
+      "provider": "firstParty",
+      "thinkingTokens": 1402,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9933,
+      "cacheReadInputTokens": 40041,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.11888019999999999,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1568,
+      "provider": "firstParty",
+      "thinkingTokens": 309,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-54",
+  "raw": "jsonl/A_prime/msqa-TH-54.jsonl",
+  "reported_cost_usd": 0.1774329,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ขนม แดกงา เปลี่ยนชื่อ สุภาพ เรียกว่า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TQPVAjfzf2DBNRQgr8QCvb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"แดกงา\" ชื่อใหม่ \"ทานงา\" OR \"ข้าวเหนียวงา\" แม่ค้า เรียกให้สุภาพ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016oy4n13qiY9nhPHgK6qEbB"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "ขนมแดกงา ปัจจุบัน เรียกว่า \"ขนมทานงา\" OR \"ข้าวเหนียวตำงา\" OR \"ข้าวหนุกงา\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TsqB6vE2JjwBE7TpYXPzAQ"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "แดกงา ชื่อไม่สุภาพ แม่ค้า เปลี่ยนเป็น \"ทานงา\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NTTQPoNb7PujyMk4L4SmDP"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "\"เรียกชื่อเสียใหม่ให้ดูเพราะพริ้งสุภาพ\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JSP8eVLRNu7kmzHXjCG7ev"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9933,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9933,
+    "cache_read_input_tokens": 40041,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1397,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1397,
+        "cache_read_input_tokens": 10987,
+        "input_tokens": 2,
+        "output_tokens": 687,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1568,
+    "output_tokens_details": {
+      "thinking_tokens": 309
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

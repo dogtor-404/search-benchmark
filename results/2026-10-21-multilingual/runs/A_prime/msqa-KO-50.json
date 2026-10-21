@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：**「꾸웨액」是「후회해」（\"后悔吗？/ 后悔了\"）的变形说法，是 2022 年底到 2023 年在韩国推特（现 X）上流行起来的网络用语。\n\n- 据 Trend A Word 的解释，这个词就是「후회해」的意思。它源自 2022 年 12 月 29 日的一条推文，年底时推特用户纷纷模仿，于是流行开来。\n- 常用来反问对方，比如「나 만나는 거 꾸웨액?」（跟我交往，后悔吗？）；也用来惋惜自己过去做的事，比如「2022년 뒹굴거리고 놀기만 한 거 꾸웨액?」（2022 年光顾着躺着玩，后悔吗？）。\n\n**局限：** 这些说法都来自 Trend A Word 这一家的文章，没有找到词典或新闻媒体的交叉印证。搜索结果里还说这个词和 NewJeans 无关，但给出的链接里看不出这句话出自哪篇，所以没有采用。共搜索 1 次。\n\n**依据网址：**\n- [Trend A Word #184：저번 주에 휴재한거 꾸웨액?](https://maily.so/trendaword/posts/3371484c)\n- [Trend A Word（maily.so）](https://maily.so/trendaword/posts/92zeepnnzep)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.958,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011677400000000001,
+      "inputTokens": 12219,
+      "maxOutputTokens": 128000,
+      "outputTokens": 911,
+      "provider": "firstParty",
+      "thinkingTokens": 257,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3100,
+      "cacheReadInputTokens": 6736,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.039843199999999995,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 684,
+      "provider": "firstParty",
+      "thinkingTokens": 123,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-50",
+  "raw": "jsonl/A_prime/msqa-KO-50.jsonl",
+  "reported_cost_usd": 0.0515206,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "꾸웨액 유행어 뜻",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015eRC3EanHDTU5tFK4mvVgs"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3100,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3100,
+    "cache_read_input_tokens": 6736,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1266,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1266,
+        "cache_read_input_tokens": 4285,
+        "input_tokens": 2,
+        "output_tokens": 599,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 684,
+    "output_tokens_details": {
+      "thinking_tokens": 123
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

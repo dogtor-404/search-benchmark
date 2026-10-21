@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ: «деревенские святцы».**\n\nНа Вселенские бабьи именины (день Веры, Надежды, Любови и матери их Софии) молодёжь собиралась на вечеринки под этим названием. Парни и девушки присматривали там себе пару. Влюблённые девушки шептали заговоры, чтобы любовь «в огне не горела, в воде не тонула».\n\nНазвание «деревенские святцы» есть в газетной статье «У женщин сегодня праздник — Вселенские бабьи именины!» (Миасский рабочий, 2016). Фразу про заговоры «в огне не горела, в воде не тонула» я нашёл в материале «Народный праздник 30 сентября» на mk-mari.ru. Оба источника — популярные публикации, не научные работы. Только в первом из них, судя по найденным отрывкам, названы именно «деревенские святцы».\n\nИсточники:\n- https://miasskiy.ru/20160930-u-zhenshhin-segodnya-prazdnik-vselenskie-babi-imeniny#1\n- https://www.mk-mari.ru/social/2026/09/29/vselenskie-babi-imeniny-30-sentyabrya-kak-prazdnuyutsya-i-chego-nelzya-delat.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.791,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13614,
+      "cacheReadInputTokens": 5869,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.060340899999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 529,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-31",
+  "raw": "jsonl/B/msqa-RU-31.jsonl",
+  "reported_cost_usd": 0.060340899999999996,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8122,
+      "query": "30 сентября Вера, Надежда, Любовь, София на Руси девичьи сборы посиделки заговоры на любовь",
+      "results": [
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народный праздник 30 сентября: что можно и что категорически нельзя делать",
+          "url": "https://www.mk-mari.ru/social/2026/09/29/vselenskie-babi-imeniny-30-sentyabrya-kak-prazdnuyutsya-i-chego-nelzya-delat.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30 сентября в Народном календаре",
+          "url": "https://xn--90aevhf.xn--p1ai/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C/%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C/30-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F"
+        },
+        {
+          "date": "2022-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вселенские бабьи именины |",
+          "url": "https://libmoskal6.ru/%d0%b2%d1%81%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b5-%d0%b1%d0%b0%d0%b1%d1%8c%d0%b8-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b8%d0%bd%d1%8b/#content"
+        },
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вера, Надежда, Любовь и София 2026: традиции и поздравления - Плакать, чтобы жить: о чём в день Веры, Надежды и Любови рыдают женщины",
+          "url": "https://78.ru/articles/2026-09-30/plakat-chtobi-zhit-o-chem-v-den-veri-nadezhdi-i-lyubovi-ridayut-zhenshini#1"
+        },
+        {
+          "date": "2025-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вселенские бабьи именины - ставропольцев познакомили с традициями и приметами 30 сентября",
+          "url": "https://kavkaz.mk.ru/social/2025/09/30/vselenskie-babi-imeniny-stavropolcev-poznakomili-s-tradiciyami-i-primetami-30-sentyabrya.html"
+        },
+        {
+          "date": "2017-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды, Любви в музее – Управление культуры Красноармейского муниципального округа",
+          "url": "https://xn----7sbbaa3a2accedrloydeomsc0r.xn--p1ai/novosti/den-veryi-nadezhdyi-lyubvi-v-muzee.html"
+        },
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды, Любови и матери их Софии в 2026 году: традиции, молитвы и именины - «Вер и Надежд может быть несколько в церковном календаре, поэтому обычно открывают церковный календарь, и нужно просто найти бли...",
+          "url": "https://www.mk.ru/social/2026/09/29/den-very-nadezhdy-lyubovi-i-materi-ikh-sofii-v-2026-godu-tradicii-molitvy-i-imeniny.html?from=article_mstpp#2"
+        },
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Что можно и нельзя делать 30 сентября",
+          "url": "https://xn--b1ats.xn--80asehdb/feed/kultura/chto-strogo-zapreschaetsya-delat-30-sentyabrya-daby-izbezhat-razlada-v-seme-8596500360.html"
+        },
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Серпухове девушки могут погадать на суженого",
+          "url": "https://serp.mk.ru/social/2026/09/30/v-serpukhove-devushki-mogut-pogadat-na-suzhenogo.html"
+        },
+        {
+          "date": "2016-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "У женщин сегодня праздник — Вселенские бабьи именины! - Миасский Рабочий - Миасс - 30.09.2016 - Customise Consent Preferences",
+          "url": "https://miasskiy.ru/20160930-u-zhenshhin-segodnya-prazdnik-vselenskie-babi-imeniny#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13614,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13614,
+    "cache_read_input_tokens": 5869,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11753,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11753,
+        "cache_read_input_tokens": 3865,
+        "input_tokens": 2,
+        "output_tokens": 431,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 529,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

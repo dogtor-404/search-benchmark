@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "คำโบราณ หมายถึง ผีเรือน", "results": [], "status": "allowed", "tool_use_id": "toolu_01A4nJMXqYrePdZDXCJ6sYz4"}
+{"billable": false, "call": 2, "query": "\"ผีเรือน\" คำโบราณ ราชบัณฑิต ผีเหย้า OR ผีเย้า OR ผีเสื้อเรือน", "results": [], "status": "allowed", "tool_use_id": "toolu_01LgRD7EUauA6rt8RyE2eLK4"}
+{"billable": false, "call": 3, "query": "\"(โบ) ผีเรือน\" OR \"ผีเรือน (โบ)\" พจนานุกรม", "results": [], "status": "allowed", "tool_use_id": "toolu_01E84wvYxN1ZQ2NPPjGm8KV3"}
+{"billable": false, "call": 4, "query": "\"เสื้อเรือน\" ผีเรือน ความหมาย", "results": [], "status": "allowed", "tool_use_id": "toolu_015L3FbJtWu6iubok8kAx7qp"}
+{"billable": false, "call": 5, "query": "ผีเสื้อ คำโบราณ หมายถึง ผีเรือน ผีบรรพบุรุษ", "results": [], "status": "allowed", "tool_use_id": "toolu_01N7KCpmj2DUeVZmr5viTZMd"}

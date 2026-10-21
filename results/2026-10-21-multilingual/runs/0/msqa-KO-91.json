@@ -1,0 +1,74 @@
+{
+  "answer": "확실하지는 않지만, 제가 기억하기로는 **조대(絛帶, 실띠)**입니다. 관례에서 사규삼을 입고 허리에 조대를 두른다고 알고 있습니다. 다만 문헌에 따라 대대(大帶)나 세조대(細條帶)로 적힌 것도 같아서 정확히 어느 쪽인지는 단정하기 어렵습니다. 인터넷을 쓸 수 없어 확인하지 못했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.97,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1777,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.013918799999999999,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 665,
+      "provider": "firstParty",
+      "thinkingTokens": 491,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-91",
+  "raw": "jsonl/0/msqa-KO-91.jsonl",
+  "reported_cost_usd": 0.013918799999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1777,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1777,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1777,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1777,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 665,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 665,
+    "output_tokens_details": {
+      "thinking_tokens": 491
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

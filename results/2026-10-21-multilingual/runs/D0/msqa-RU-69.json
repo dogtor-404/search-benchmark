@@ -1,0 +1,62 @@
+{
+  "answer": "**下诺夫哥罗德集市**（Нижегородская ярмарка），旧称**马卡里耶夫集市**（Макарьевская ярмарка）。它位于奥卡河注入伏尔加河处的下诺夫哥罗德，是19世纪俄国（也是欧洲）规模最大的年度集市。1816年马卡里耶夫镇失火后，集市于1817年迁至下诺夫哥罗德，此后通常以“下诺夫哥罗德集市”之名闻名。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.967,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.01858,
+      "inputTokens": 1990,
+      "maxOutputTokens": 32000,
+      "outputTokens": 531,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-69",
+  "raw": "jsonl/D0/msqa-RU-69.jsonl",
+  "reported_cost_usd": 0.01858,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1990,
+    "iterations": [],
+    "output_tokens": 531,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

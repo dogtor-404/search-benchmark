@@ -1,0 +1,144 @@
+{
+  "answer": "**答案：豊玉姫命（トヨタマヒメ）**。\n\n传说丰玉姬为了生下御祭神“鸬鹚草葺不合尊”（ウガヤフキアエズ），从海神宫（綿津見の宮）乘大龟来到鵜戸神宮。她所乘的这只龟后来变成了石头，也就是“亀石”。另一种说法是：丰玉姬回海底后，不知情的龟一直等待，最终石化。\n\n依据：\n- 鵜戸神宮官网「亀石と運玉」：https://www.udojingu.or.jp/history/亀石と運玉/\n- 日南市官网「亀石」：https://www.city.nichinan.lg.jp/museum/mishiteibunnkazai/minnzoku_geinou_shuuzoku/3/3938.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.254,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032496,
+      "inputTokens": 5321,
+      "maxOutputTokens": 32000,
+      "outputTokens": 535,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-21",
+  "raw": "jsonl/D2/msqa-JA-21.jsonl",
+  "reported_cost_usd": 0.032496,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6187,
+      "query": "鵜戸神宮 亀石 誰が来訪 亀が石と化した",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石と運玉",
+          "url": "https://www.udojingu.or.jp/history/%e4%ba%80%e7%9f%b3%e3%81%a8%e9%81%8b%e7%8e%89/"
+        },
+        {
+          "date": "2024-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "海岸の洞窟に建つ珍しい神社⛩️ | Trip.com 日南",
+          "url": "https://jp.trip.com/moments/detail/nichinan-57412-122093414/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮：運玉",
+          "url": "https://www.mlit.go.jp/tagengo-db/common/001543327.docx#1#1"
+        },
+        {
+          "date": "2023-11-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石|日南市ホームページ",
+          "url": "https://www.city.nichinan.lg.jp/museum/mishiteibunnkazai/minnzoku_geinou_shuuzoku/3/3938.html"
+        },
+        {
+          "date": "2022-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "霧島神宮・鵜戸神社へ行ってきました。 ... / はるさんのモーメント | YAMAP / ヤマップ",
+          "url": "https://yamap.com/moments/555664"
+        },
+        {
+          "date": "2025-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石 | 鵜戸神宮 - 神社ファン",
+          "url": "https://jinjafan.jp/4500056/spots/1521/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮｜国内の観光",
+          "url": "https://m.utravelnote.com/japan/see/udojinguu"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "洞窟に鎮座する神宮です。",
+          "url": "https://4travel.jp/dm_shisetsu_tips/11182340"
+        },
+        {
+          "date": "2022-08-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮 - Nazuna公式サイト | 旅館・一棟貸切の宿",
+          "url": "https://www.nazuna.co/story/udojingu/"
+        },
+        {
+          "date": "2012-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "宮崎県 鵜戸神宮 その３ - september2019の日記",
+          "url": "https://september2019.hatenadiary.jp/entry/37667458"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5321,
+    "iterations": [],
+    "output_tokens": 535,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

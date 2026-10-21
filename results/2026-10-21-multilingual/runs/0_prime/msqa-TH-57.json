@@ -1,0 +1,74 @@
+{
+  "answer": "根据我记得的资料，答案是 **Lavodayapura（ลโวทยปุระ，“罗涡之城”）**。高棉碑铭里也常写作 **Lavapura（ลวปุระ）**。\n\n这是凭记忆回答的，没有查证。具体对应哪个年份和哪块碑铭，我不确定。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.569,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1803,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0265856,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 592,
+      "provider": "firstParty",
+      "thinkingTokens": 476,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-57",
+  "raw": "jsonl/0_prime/msqa-TH-57.jsonl",
+  "reported_cost_usd": 0.0265856,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1803,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1803,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1803,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1803,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 592,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 592,
+    "output_tokens_details": {
+      "thinking_tokens": 476
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

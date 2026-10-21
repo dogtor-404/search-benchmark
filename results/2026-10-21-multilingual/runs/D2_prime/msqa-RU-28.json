@@ -1,0 +1,144 @@
+{
+  "answer": "答案：**«столбы»**（也叫「поцелуйные столбы」）。\n\n依据网址：https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm#4 （С. В. Максимов《Нечистая, неведомая и крестная сила》中记载，年轻夫妇穿上最好的衣服，分列街道两旁成排「столбами」，当众展示爱情、按路人要求接吻，路人喊「Порох на губах!」）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.112,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0397624,
+      "inputTokens": 8169,
+      "maxOutputTokens": 32000,
+      "outputTokens": 330,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-28",
+  "raw": "jsonl/D2_prime/msqa-RU-28.jsonl",
+  "reported_cost_usd": 0.0397624,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.763,
+      "query": "масленичный обряд молодые супруги выстраивались рядами вдоль улицы целоваться показывали любовь",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С. В. Максимов. Нечистая, неведомая и крестная сила(9) - для них закупались сласти",
+          "url": "https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm#4"
+        },
+        {
+          "date": "2018-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "На Масленицу в Ярославле возродят русский обряд «столбы» - ИА REGNUM",
+          "url": "https://regnum.ru/news/2374095"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Какую вы узнали новую информацию",
+          "url": "http://educomm.iro.perm.ru/download/posts/master-klass-po-angliyskomu-yazyku#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В пределах европейской территории России можно го- ворить о двух типах масленичной обрядности — северном и среднерусско-поволжск...",
+          "url": "https://www.booksite.ru/fulltext/nosova/text.pdf#30#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекция 4. Календарная обрядовая поэзия - Вторник называли «заигрыши»",
+          "url": "https://textbook.tou.edu.kz/books/220/4.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Городецком р-не парни ходили по дворам «смотреть молодых»",
+          "url": "https://inslav.ru/sites/default/files/zhs-1998-2.pdf#29#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В отдельных местах Вологодской губернии во второй половине XIX в",
+          "url": "https://booksite.ru/etnogr/1969/1969_5.pdf#69#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "России свадьбы игрались осенью, от Покрова  до Никольского  поста",
+          "url": "http://elib.kspu.ru/get/16550#41#13"
+        },
+        {
+          "date": "2019-02-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "На один день в Омске выстроятся \"поцелуйные столбы\" - Свободное время",
+          "url": "https://omskzdes.ru/culture/61716.html"
+        },
+        {
+          "date": "2025-02-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "What is the most frivolous Shrovetide (Maslenitsa) rite?",
+          "url": "https://www.gw2ru.com/lifestyle/231793-most-frivolous-shrovetide-maslenitsa-rite"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8169,
+    "iterations": [],
+    "output_tokens": 330,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

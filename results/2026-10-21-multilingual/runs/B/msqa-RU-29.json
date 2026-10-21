@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ: «Маргоски»** (в народе также «Маргосье», «Братчина женщин», «бабий праздник»). Его отмечали во второе воскресенье после Пасхи, в день святых жён-мироносиц, в основном в южных районах Курской области.\n\nИсточники:\n- https://odnt46.ru/2022/05/20/vesennij-prazdnik-narodnogo-kalendarya-margoski/ (Курский областной Дом народного творчества)\n- https://www.culture.ru/objects/2885/vesennii-prazdnik-margoski-v-yuzhnykh-raionakh-kurskoi-oblasti\n- https://welcomekursk.ru/events/25460/vesennii-prazdnik-margoski (в тексте он назван «православным Женским днём»)\n\nИспользовал один поиск из пяти.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.018,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 12510,
+      "cacheReadInputTokens": 5876,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0550556,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 442,
+      "provider": "firstParty",
+      "thinkingTokens": 68,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-29",
+  "raw": "jsonl/B/msqa-RU-29.jsonl",
+  "reported_cost_usd": 0.0550556,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8222,
+      "query": "Курская область старинный забытый женский праздник второе воскресенье после Пасхи православный 8 марта",
+      "results": [
+        {
+          "date": "2022-05-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник народного календаря «Маргоски» - Курский областной Дом народного творчества",
+          "url": "https://odnt46.ru/2022/05/20/vesennij-prazdnik-narodnogo-kalendarya-margoski/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник «Маргоски» в южных районах Курской области - Южные районы Курской области — Суджанский, Беловский, Большесолдатский, Обоянский — являются частью локальной традиции курско-бе...",
+          "url": "https://www.culture.ru/objects/2885/vesennii-prazdnik-margoski-v-yuzhnykh-raionakh-kurskoi-oblasti#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Программа «Маргоски» — описание, программа мероприятия, дата, время. Адрес места проведения — . Афиша",
+          "url": "https://welcomekursk.ru/events/37286/programma-margoski"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЖЕНСКИЙ ПРАЗДНИК | это... Что такое ЖЕНСКИЙ ПРАЗДНИК? - ЖЕНСКИЙ ПРАЗДНИК",
+          "url": "https://dic.academic.ru/dic.nsf/russian_history/10098/%D0%96%D0%95%D0%9D%D0%A1%D0%9A%D0%98%D0%99#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Большой Каменец Большесолдатский район Курской области - В некоторых селах празднование Маргосок принимало массовый характер, в нем участвовало почти всё население",
+          "url": "http://forum.genoua.name/viewtopic.php?pid=205576#p205576#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Весенний праздник «Маргоски» — описание, программа мероприятия, дата, время. Адрес места проведения — . Афиша",
+          "url": "https://welcomekursk.ru/events/25460/vesennii-prazdnik-margoski"
+        },
+        {
+          "date": "2021-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Как назывался весенний женский праздник в южных районах Курской области?",
+          "url": "https://www.bolshoyvopros.ru/questions/3894065-kak-nazyvalsja-vesennij-zhenskij-prazdnik-v-juzhnyh-rajonah-kurskoj-oblasti.html"
+        },
+        {
+          "date": "2022-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Курск 8 мая ждет очередной теплый день без осадков",
+          "url": "https://gi-kursk.ru/news/society/41867/"
+        },
+        {
+          "date": "2024-09-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЕСЕННИЙ ПРАЗДНИК «МАРГОСКИ» В ЮЖНЫХ РАЙОНАХ КУРСКОЙ ОБЛАСТИ Южные... | Интересный контент в группе Родноверие Славян - ВЕСЕННИЙ ПРАЗДНИК «МАРГОСКИ» В ЮЖНЫХ РАЙОНАХ КУРСКОЙ ОБЛАСТИ",
+          "url": "https://ok.ru:443/rodnoverie/topic/159942785265775?st.layer.lg.ftid=0&st.layer.lg.fp=0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "пространства» [1]",
+          "url": "https://kkk46.ru/files/Sbornik_materialov_NPK_27_yanvarya_2021.pdf#54#51"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12510,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12510,
+    "cache_read_input_tokens": 5876,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10642,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10642,
+        "cache_read_input_tokens": 3872,
+        "input_tokens": 2,
+        "output_tokens": 283,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 442,
+    "output_tokens_details": {
+      "thinking_tokens": 68
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "answer": "**女性語（じょせいご）**，也叫 **女言葉（おんなことば）**。\n\n指日本女性传统上使用的、比男性语更柔和更礼貌的词汇和表达方式，典型特征包括：\n\n- 终助词：`わ`、`のよ`、`のね`、`かしら`、`てよ`\n- 更常用敬语体 `です・ます`，以及 `お〜` 美化语\n- 委婉、避免断言的表达方式\n\n补充：现代日语中这种性别差异正在弱化，语言学界也常用「女性語」这一中性术语，而「女言葉」带有一定通俗/历史色彩。相关概念还有「男性語（だんせいご）」。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.484,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.016628,
+      "inputTokens": 1987,
+      "maxOutputTokens": 32000,
+      "outputTokens": 434,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-36",
+  "raw": "jsonl/D0/msqa-JA-36.jsonl",
+  "reported_cost_usd": 0.016628,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1987,
+    "iterations": [],
+    "output_tokens": 434,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

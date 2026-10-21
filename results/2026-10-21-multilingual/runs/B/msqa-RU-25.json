@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** Выговская пустынь, она же Выго-Лексинское общежительство или Выгорецкая обитель. Её основали в октябре 1694 года на реке Выг, на северо-восточном берегу Онежского озера. Основателями называют Даниила Викулина и братьев Денисовых. Это был крупнейший центр старообрядцев-беспоповцев, с которого началось поморское согласие.\n\n**Источники:**\n- https://pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be%d0%bc.html (Православная энциклопедия)\n- https://sobory.ru/article/?object=57938\n- https://site.kizhi.karelia.ru/info/about/pressrelease/2020/12121.html (музей «Кижи»: «Выгорецкая обитель – крупный старообрядческий центр, созданный в 1694 году на реке Выг»)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.222,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 14806,
+      "cacheReadInputTokens": 5849,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0650169,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 520,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-25",
+  "raw": "jsonl/B/msqa-RU-25.jsonl",
+  "reported_cost_usd": 0.0650169,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8446,
+      "query": "крупный старообрядческий центр основан в 1694 году",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - Материал из Православной Энциклопедии под редакцией Патриарха Московского и всея Руси Кирилла",
+          "url": "https://pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be%d0%bc.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d0%ab%d0%93%d0%9e%d0%9b%d0%95%d0%9a%d0%a1%d0%98%d0%9d%d0%a1%d0%9a%d0%9e%d0%95%20%d0%9e%d0%91%d0%a9%d0%95%d0%96%d0%98%d0%a2%d0%95%d0%9b%d0%ac%d0%a1%d0%a2%d0%92%d0%9e.html#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%b5.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Рубрика: Главная новость",
+          "url": "https://pskov-eparhia.ru/archives/category/main-new/page/378"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекса, урочище, Лексинская Крестовоздвиженская старообрядческая женская пустынь",
+          "url": "https://sobory.ru/article/?object=57938"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Настоятель единоверческой общины Псковской епархии выступил в краеведческой библиотеке с лекцией «Центры русской веры»",
+          "url": "https://pskov-eparhia.ru/archives/47881"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Выговское старообрядческое общежительство: проблема соотношения регионального и общерусского | Рябининские чтения – 2007| Электронная библиотека",
+          "url": "https://site.kizhi.karelia.ru/library/ryabinin-2007/497.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Историко-культурная территория «Выгореция» Пограничный знак «Варашев камень» (респ. Карелия)",
+          "url": "https://petersmonuments.ru/europe/memorials/istoriko-kulturnaya-territoriya-vygoretsiya-pogranichnyy-znak-varashev-kamen-resp-kareliya//#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "НОВОСТИ МУЗЕЯ «КИЖИ» пресс-релизы, объявления",
+          "url": "https://site.kizhi.karelia.ru/info/about/pressrelease/2020/12121.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Статья - Журнал Проблемы современной экономики - ЕВРАЗИЙСКИЙ МЕЖДУНАРОДНЫЙ НАУЧНО-АНАЛИТИЧЕСКИЙ ЖУРНАЛ | English",
+          "url": "https://www.m-economy.ru/art.php?nArtId=273#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14806,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14806,
+    "cache_read_input_tokens": 5849,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12965,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12965,
+        "cache_read_input_tokens": 3845,
+        "input_tokens": 2,
+        "output_tokens": 446,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 520,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

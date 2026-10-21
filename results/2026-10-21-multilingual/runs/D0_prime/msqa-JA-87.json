@@ -1,0 +1,62 @@
+{
+  "answer": "遠山かぶの粕汁の発祥地は、**長野県南部の遠山郷（とおやまごう、現在の飯田市遠山郷地域）**です。\n\n遠山かぶは天竜川上流域の遠山郷で栽培されてきた伝統野菜で、そのかぶを使った「遠山かぶの粕汁」はこの地域の郷土料理として知られています。旧遠山村を中心とした地域、現在の行政区画では長野県飯田市に含まれるエリアです。\n\n（オフライン環境のため、ここまでの回答は記憶に基づくものです。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.798,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.022699999999999998,
+      "inputTokens": 2035,
+      "maxOutputTokens": 32000,
+      "outputTokens": 728,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-87",
+  "raw": "jsonl/D0_prime/msqa-JA-87.jsonl",
+  "reported_cost_usd": 0.022699999999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2035,
+    "iterations": [],
+    "output_tokens": 728,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

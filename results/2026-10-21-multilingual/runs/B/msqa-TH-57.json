@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** ในภาษาเขมร (จารึกเขมรโบราณ) Lavo ถูกเรียกว่า **\"Lvo\" (ល្វོ / ល្វ៉ោ)** ส่วนชื่อเต็มในภาษาสันสกฤตคือ Lavapura หรือ Lavopura\n\nผลค้นหาไม่ได้ระบุปีที่ Lavo ยอมสวามิภักดิ์ต่อเขมรตรงกับคำถามเลย แหล่งข้อมูลให้ปีต่างกัน ได้แก่ ค.ศ. 1022 ในรัชสมัยพระเจ้าสูริยวรมันที่ 1 และกลางศตวรรษที่ 11 ฉะนั้นชื่อ \"Lvo\" ที่ผมตอบนี้อิงจากจารึกที่พบที่ลพบุรี ไม่ได้อิงจากการยืนยันว่าเหตุการณ์นั้นเกิดในศตวรรษที่ 10 พอดี\n\n**แหล่งที่มา:**\n- https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en (Pelliot: จารึกกัมพูชาโบราณเรียกชาวลวปุรีว่า \"Lvo\")\n- http://ahs.wildapricot.org/Resources/Documents/Map%20Matters%2025.pdf (จารึกที่พบในลพบุรีเรียกเมืองนั้นว่า Lvo และระบุการรวมเข้ากับกัมพูชาในปี 1022)\n- https://en.wikipedia.org/wiki/Lavo_Kingdom",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.784,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 11303,
+      "cacheReadInputTokens": 5898,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0528798,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 707,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-57",
+  "raw": "jsonl/B/msqa-TH-57.jsonl",
+  "reported_cost_usd": 0.0528798,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.675,
+      "query": "Lavo Khmer Empire 10th century submitted Khmer name Lavo called \"Lavapura\" OR \"Lvo\"",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "9. Also Lavo, Lvo, Lopburi, Lophburi, Lophaburi or Lavapura (Navapura)",
+          "url": "https://ia601402.us.archive.org/14/items/in.ernet.dli.2015.149949/2015.149949.The-Tai-And-The-Tai-Kingdoms.pdf#114#42"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>SS Great Britain - a part of Australia's Maritime Heritage</td></tr><tr><td>One of my last excursions before leav...",
+          "url": "http://ahs.wildapricot.org/Resources/Documents/Map%20Matters%2025.pdf#4#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "768    274. LOCHAC",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/images/PDF/0172.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Institute of Informatics - Digital Silk Road Project Digital Archive of Toyo Bunko Rare Books",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国立情報学研究所 - ディジタル・シルクロード・プロジェクト 『東洋文庫所蔵』貴重書デジタルアーカイブ",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.ja"
+        },
+        {
+          "date": "2009-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Wikipedia - Following Angkorian 9-year civil wars, Tambralinga lost Lavo to Angkor's Suryavarman I, who marched the troops to destroy severa...",
+          "url": "https://en.wikipedia.org/wiki/Lavo_Kingdom#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Regno di Lavo - Regno di Lavo",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_it_all_maxi/Regno_di_Lavo#1"
+        },
+        {
+          "date": "2020-11-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lopburi: the historical centre of the region",
+          "url": "https://www.lorap-ismeo.eu/lopburi-the-historical-centre-of-the-region/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The earliest conflict between Tai people and the preexisting ethnics was recorded in the mid- 4th century when the ruler of Sing...",
+          "url": "http://en.wikipedia.org/api/rest_v1/page/pdf/Thailand#18#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "evidences from some large remaining monuments of Khmer architecture",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/1a37d4fa-9986-4365-844c-0c8cdcfbf9dd/DR_%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%93%E0%B8%B2_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3.pdf?attempt=2#53#18"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11303,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11303,
+    "cache_read_input_tokens": 5898,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 9413,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 9413,
+        "cache_read_input_tokens": 3894,
+        "input_tokens": 2,
+        "output_tokens": 609,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 707,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 愛知县的乡土料理。名古屋一带叫「おしもん」，周边地区多叫「おこしもん」。做法是把米粉用热水揉成团，压进木模定型，上色后蒸熟，主要在桃之节句（女儿节）供在雏人偶前。文化厅把它认定为「100年フード」，按搜索结果的说法，是令和7年度「伝統の100年フード部門」。\n\n共搜索 1 次。\n\nSources:\n- [文化庁「100年フード」愛知県の一覧](https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/jirei/list_aichi.html)\n- [農林水産省 関東農政局 資料（web2020-1.pdf）](https://www.maff.go.jp/kanto/syo_an/seikatsu/shokuiku/ibento/attach/pdf/web2020-1.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.086,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0114702,
+      "inputTokens": 11332,
+      "maxOutputTokens": 128000,
+      "outputTokens": 674,
+      "provider": "firstParty",
+      "thinkingTokens": 167,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4143,
+      "cacheReadInputTokens": 5671,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.043174199999999996,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 444,
+      "provider": "firstParty",
+      "thinkingTokens": 45,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-60",
+  "raw": "jsonl/A_prime/msqa-JA-60.jsonl",
+  "reported_cost_usd": 0.0546444,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "おしもん 郷土料理",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Y36kqUTYHEaVDASMRoKF1W"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4143,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4143,
+    "cache_read_input_tokens": 5671,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1266,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1266,
+        "cache_read_input_tokens": 4274,
+        "input_tokens": 2,
+        "output_tokens": 317,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 444,
+    "output_tokens_details": {
+      "thinking_tokens": 45
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

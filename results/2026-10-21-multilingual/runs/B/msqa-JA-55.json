@@ -1,0 +1,156 @@
+{
+  "answer": "**答え:『万葉集』巻第11・2657番歌**(作者未詳、寄物陳思の歌)\n\n原文は「神名火尒紐呂寸立而雖忌人心者間守不敢物」です。\n\nほとんどの資料が2657番としています。ただし、個人ブログ1件(neige7の一日一首)だけは2665番としています。これは誤記か番号の違いだと思われます。\n\n根拠のURL:\n- 万葉百科(奈良県立万葉文化館): https://manyo-hyakka.pref.nara.jp/db/detail?cls=db_manyo&pkey=2657\n- コトバンク「神奈備」: https://kotobank.jp/word/%E7%A5%9E%E5%A5%88%E5%82%99-466553\n- 大和の国のこころ、万葉のこころ: https://bonjin5963.hatenablog.com/entry/2024/12/27/000000",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.202,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6269,
+      "cacheReadInputTokens": 5882,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.029622199999999998,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 395,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-55",
+  "raw": "jsonl/B/msqa-JA-55.jsonl",
+  "reported_cost_usd": 0.029622199999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6103,
+      "query": "神奈備にひもろき立てて斎へども人の心は守りあへぬもの 出典",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神奈備(カムナビ)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E7%A5%9E%E5%A5%88%E5%82%99-466553"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "万葉百科 奈良県立万葉文化館",
+          "url": "https://manyo-hyakka.pref.nara.jp/db/detail?cls=db_manyo&pkey=2657"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "隠り - みる会図書館",
+          "url": "https://search.mirukai.org/search?query=%e9%9a%a0%e3%82%8a&content_id=20180807/%E5%AE%8C%E8%A8%B3%20%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%A4%E5%85%B8%20%E7%AC%AC%E4%BA%94%E5%B7%BB%20%E8%90%AC%E8%91%89%E9%9B%86%20%E3%88%A3&page=3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "万葉恋歌 - 神奈備に ひもろき立てて 斎へども",
+          "url": "https://ncode.syosetu.com/n1146fh/868/"
+        },
+        {
+          "date": "2013-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "まもりあへぬもの : neige7の一日一首",
+          "url": "https://neige7.livedoor.blog/archives/314586.html#comments"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道にみる自然と人との交わり",
+          "url": "https://core.ac.uk/download/640010726.pdf#4#1"
+        },
+        {
+          "date": "2024-12-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神なびにひもろき立てて斎へども･･･巻第11-2657～2658 - 大和の国のこころ、万葉のこころ",
+          "url": "https://bonjin5963.hatenablog.com/entry/2024/12/27/000000"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "で、「古来最も顕われているのは三輪の神奈備すなわち三輪山である",
+          "url": "http://www.keiwa-c.ac.jp/wp-content/uploads/2014/05/nenpo12-7.pdf#3#2"
+        },
+        {
+          "date": "2024-01-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【三郷町立野南】万葉集にも詠まれた神奈備神社と風の神様・龍田大社 : 勝手に堺市広報大使",
+          "url": "https://sojiismylife.work/archives/25501390.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>93</td><td>自然礼賛</td><td>十<br/>三</td><td>3227</td><td>葦原の 瑞穂の国に 手向すと 天降りまし<br/>けむ 五百万 千万神の 神代より 言ひ継<br/>ぎ来たる 神奈備の ...",
+          "url": "https://nara-wu.repo.nii.ac.jp/record/2002556/files/ThsisK519.pdf#13#35#13"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6269,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6269,
+    "cache_read_input_tokens": 5882,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4395,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4395,
+        "cache_read_input_tokens": 3878,
+        "input_tokens": 2,
+        "output_tokens": 309,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 395,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "answer": "**짧은 답:** 검색으로는 확실한 근거를 찾지 못했습니다. 제가 아는 바로는 전통 관례에서 관례자의 머리를 빗겨 상투를 틀어 주는 사람은 **찬자(贊者, 빈을 돕는 보조자)** 로 알려져 있습니다. 이 부분은 검색 결과로 검증하지 못했습니다.\n\n**검색에서 확인된 것**\n- 관을 씌우는 사람은 **빈(賓, 빈객)** 입니다. 삼가례에서 찬자가 앞서 쓴 관을 벗기면 빈객이 다음 관을 씌워 줍니다. 찬자는 빈을 돕는 역할입니다.\n- 초례(술 의례)에서도 관례자가 술잔을 맛본 뒤 찬자에게 건넵니다.\n- 빗질 단계를 직접 설명하는 자료는 나오지 않았습니다. 이재의 『사례편람』 원문이나 한국고전번역원 번역본에서 확인하시는 것이 좋습니다.\n\n**출처**\n- [한국민족문화대백과사전 – 관례](https://encykorea.aks.ac.kr/Article/E0004809)\n- [이화여대 학술자료 – 왕자 관례](https://dspace.ewha.ac.kr/handle/2015.oak/248810)\n- [관례 절차 논문 (KoreaScience)](https://koreascience.kr/article/JAKO200411922635462.pdf)\n- [상주향교 관례 행사 기사](https://kbmaeil.com/article/202405210394365)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 30.934,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0239797,
+      "inputTokens": 27727,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2414,
+      "provider": "firstParty",
+      "thinkingTokens": 792,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4993,
+      "cacheReadInputTokens": 12297,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0320937,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1088,
+      "provider": "firstParty",
+      "thinkingTokens": 304,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/A/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.056073399999999995,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "관례 전통 성인례 관례자 머리 빗어주는 사람 빈(賓) 찬자 계관",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0118r7x2zMz5JNdRfgQSqY6L"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "관례 절차 \"빗질\" 관례자 머리 빗기고 상투 찬자 빈 사례편람",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01W3HMWN3dHFHi4r5vgKz97K"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4993,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4993,
+    "cache_read_input_tokens": 12297,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1906,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1906,
+        "cache_read_input_tokens": 5538,
+        "input_tokens": 2,
+        "output_tokens": 564,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1088,
+    "output_tokens_details": {
+      "thinking_tokens": 304
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

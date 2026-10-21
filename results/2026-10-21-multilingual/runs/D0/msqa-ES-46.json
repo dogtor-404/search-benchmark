@@ -1,0 +1,62 @@
+{
+  "answer": "按我对西哥特法（《审判书》/ *Liber Iudiciorum*）的了解，教会施加的是**宗教性、教会性的制裁**，核心是**公开补赎（penitencia pública）**，而不是世俗的体刑或罚金。也就是说：世俗当局把刑罚改为罚金（*multa* / *compositio*），教会则以宗教权力强制当事人履行补赎；对于**侵犯教堂庇护权**的人，教会还会处以**绝罚（excomunión）**。\n\n所以，如果题目只要一个答案，我倾向于 **“penitencia”（补赎）**；*excomunión* 更多是针对破坏庇护权者的强制制裁。不过我不能百分百确定教材原文用的是哪一个词，这一点我不敢打包票。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 32.9,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.12216,
+      "inputTokens": 2015,
+      "maxOutputTokens": 32000,
+      "outputTokens": 5705,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-46",
+  "raw": "jsonl/D0/msqa-ES-46.jsonl",
+  "reported_cost_usd": 0.12216,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2015,
+    "iterations": [],
+    "output_tokens": 5705,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

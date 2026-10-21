@@ -1,0 +1,74 @@
+{
+  "answer": "答案是 **“ป้ายยา”**（读音约 pâai-yaa）。\n\n- **字面意思**：ป้าย 是“涂、抹”，ยา 是“药”，合起来就是“抹药、上药”。\n- **俚语用法**：指卖力地给别人安利某样东西，比如商品、餐厅、景点、剧、歌，推荐到对方心动、“中毒”，忍不住去买、去试、去看。\n- **常见搭配**：\n  - **โดนป้ายยา**：被安利了、被种草了\n  - **ป้ายยาเก่ง**：很会安利\n  - **ยาแรง**：安利力度很强，很难不入坑\n\n它的意思跟中文的“安利”“种草”很接近。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.123,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1865,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0220216,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 339,
+      "provider": "firstParty",
+      "thinkingTokens": 86,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-60",
+  "raw": "jsonl/0_prime/msqa-TH-60.jsonl",
+  "reported_cost_usd": 0.0220216,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1865,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1865,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1865,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1865,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 339,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 339,
+    "output_tokens_details": {
+      "thinking_tokens": 86
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：** 在古泰语里，“แพ้”原来的意思是 **“ชนะ”（赢、胜过）**，正好和现在“输”的意思相反。\n\n**依据：**\n- Blockdit 的文章引用了泰国皇家学术院 2554 年（2011）版词典，说“แพ้”的古义（ไทยเดิม）是“ชนะ”。文章还举了暹罗碑铭里的例子：“อนนเรืองใสงามหนักหนา แพ้พระอาทิตย์”，意思是光彩比太阳还美、胜过太阳。\n- 同一篇文章说，后来泰语借进了古高棉语的“ชนะ”，“แพ้”就慢慢变成了“输”的意思。有些地方的方言里，“แพ้”至今还是“赢”的意思。\n\n**提醒：** 这个说法来自一篇 Blockdit 文章，它转引了词典，但我没有直接查到词典原文。这次只搜了 1 次。\n\n来源：\n- [Blockdit](https://www.blockdit.com/posts/6118b37f1f553f0c7fc4863f)\n- [GL Learn Thai](https://gl-learnthai.beehiiv.com/p/careful-don-t-mix-up-this-thai-word-and-its-two-meanings)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 21.683,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011856,
+      "inputTokens": 12260,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1260,
+      "provider": "firstParty",
+      "thinkingTokens": 243,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3752,
+      "cacheReadInputTokens": 6750,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.048782,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 870,
+      "provider": "firstParty",
+      "thinkingTokens": 321,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/A_prime/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.060638,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "คำว่า แพ้ ในสมัยโบราณ ความหมายเดิม",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FndhkHZyFuLTQ3bLSKRBZ1"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3752,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3752,
+    "cache_read_input_tokens": 6750,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1904,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1904,
+        "cache_read_input_tokens": 4299,
+        "input_tokens": 2,
+        "output_tokens": 447,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 870,
+    "output_tokens_details": {
+      "thinking_tokens": 321
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

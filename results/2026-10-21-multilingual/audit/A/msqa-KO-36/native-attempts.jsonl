@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "제주도 방언 \"몽케다\" 뜻", "results": [], "status": "allowed", "tool_use_id": "toolu_01FATm8W8xNEF4kieAGEj5iT"}
+{"billable": false, "call": 2, "query": "제주어 몽케다 몽케영 뭉개다 제주어사전", "results": [], "status": "allowed", "tool_use_id": "toolu_01J8Jj7bKC4oUAhWduPFgeaz"}
+{"billable": false, "call": 3, "query": "\"몽케다\" 제주", "results": [], "status": "allowed", "tool_use_id": "toolu_015RRAX2zVYbspucKw1q3wyw"}

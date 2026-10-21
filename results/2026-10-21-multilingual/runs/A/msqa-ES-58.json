@@ -1,0 +1,127 @@
+{
+  "answer": "**1489.** Es la respuesta más probable, pero la apoya una sola fuente que no pude abrir.\n\n- Una de las fuentes devueltas por la búsqueda dice que en 1489 se añadió a los estatutos una cláusula restrictiva a favor de los \"verdaderos cristianos\". Tras una fuerte disputa interna, quedaron excluidos los conversos y sus descendientes. No pude identificar cuál de los resultados contiene esa cita, y en ninguno vi el texto original.\n- Una búsqueda anterior dio una fecha distinta: hacia 1480, el colegio excluyó a quienes habían huido de Sevilla por no ser cristianos viejos. Eso sería la prohibición más limitada que luego se habría ampliado. Es una referencia secundaria y no la pude contrastar.\n- Otro artículo, de la Universidad de Bolonia, sitúa una polémica interna sobre la limpieza de sangre en la segunda edición de los estatutos (c. 1496–1499). No fija el año de la ampliación, así que no confirma ni contradice 1489.\n\nPara confirmarlo habría que consultar a Baltasar Cuart Moner, \"Colegiales mayores y limpieza de sangre durante la Edad Moderna: el estatuto de S. Clemente de Bolonia (ss. XV-XIX)\". No pude leerlo.\n\nSources:\n- [Estatutos de limpieza de sangre](https://es.hispanopedia.com/wiki/Estatutos_de_limpieza_de_sangre)\n- [El Real Colegio Mayor de San Clemente de los Españoles de Bolonia y la monarquía hispánica](https://revistas.uam.es/librosdelacorte/article/view/ldc2018.10.17.009)\n- [Un apunte histórico sobre el Real Colegio de España en Bolonia – Nueva Revista](https://www.nuevarevista.net/un-apunte-historico-sobre-el-real-colegio-de-espana-en-bolonia/)\n- [Collegio di Spagna – Wikipedia](https://en.wikipedia.org/wiki/Collegio_di_Spagna)\n- [Artículo de la Universidad de Bolonia (teca.unibo.it)](https://teca.unibo.it/article/download/14906/14510/58432)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 44.833,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.047479400000000005,
+      "inputTokens": 53359,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4287,
+      "provider": "firstParty",
+      "thinkingTokens": 1304,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7757,
+      "cacheReadInputTokens": 28270,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.047735,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1386,
+      "provider": "firstParty",
+      "thinkingTokens": 129,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-58",
+  "raw": "jsonl/A/msqa-ES-58.jsonl",
+  "reported_cost_usd": 0.0952144,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Colegio de San Clemente Bolonia Real Colegio de España estatutos prohibición conversos limpieza de sangre año",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AodCTyNmGzc8gjfXNXy3qg"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Royal College of Spain Bologna San Clemente statutes conversos prohibition extended to all conversos year",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QG2iTt8vdvUt78veQXkjaA"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"San Clemente\" Bologna Spanish college 1488 OR 1519 OR 1500 conversos banned all descendants Jewish converts college statute",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HQJfVxgbkEJshK8J3KduQD"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "Colegio Mayor de San Clemente Bolonia 1480 prohibió conversos de Sevilla, ampliada a todos los conversos en",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01YY1SPtQa2xF4nGeECBZb3W"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7757,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7757,
+    "cache_read_input_tokens": 28270,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1732,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1732,
+        "cache_read_input_tokens": 8476,
+        "input_tokens": 2,
+        "output_tokens": 794,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1386,
+    "output_tokens_details": {
+      "thinking_tokens": 129
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

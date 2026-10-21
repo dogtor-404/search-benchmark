@@ -1,0 +1,74 @@
+{
+  "answer": "Tri Hita Karana 的三个要素是：\n\n1. **Parhyangan**：人与神（Sang Hyang Widhi Wasa）的和谐关系，体现在信仰、祭祀和寺庙礼仪上。\n2. **Pawongan**：人与人之间的和谐关系，包括家庭、社群和社会。\n3. **Palemahan**：人与自然环境的和谐关系，包括土地、水和生态。\n\n\"Tri Hita Karana\"来自梵语，意思大致是\"幸福安乐的三个成因\"。巴厘岛的社会组织、农业灌溉制度 subak 和建筑空间布局，都以它为指导原则。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.187,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1776,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117748,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 451,
+      "provider": "firstParty",
+      "thinkingTokens": 223,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/0/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0117748,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1776,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1776,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1776,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1776,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 451,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 451,
+    "output_tokens_details": {
+      "thinking_tokens": 223
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

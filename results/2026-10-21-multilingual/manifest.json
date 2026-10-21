@@ -1,0 +1,249 @@
+{
+  "all_groups": [
+    "0",
+    "A",
+    "B",
+    "D0",
+    "D2",
+    "0_prime",
+    "A_prime",
+    "B_prime",
+    "D0_prime",
+    "D2_prime"
+  ],
+  "claude_code_version": "2.1.302 (Claude Code)",
+  "config": {
+    "baseline_prompt": "不能上网，凭你知道的回答；不知道就说不知道。",
+    "groups": {
+      "0": {
+        "model": "claude-sonnet-5-5",
+        "provider": "claude",
+        "search": "none"
+      },
+      "0_prime": {
+        "model": "claude-opus-5-5",
+        "provider": "claude",
+        "search": "none"
+      },
+      "A": {
+        "model": "claude-sonnet-5-5",
+        "provider": "claude",
+        "search": "claude"
+      },
+      "A_prime": {
+        "model": "claude-opus-5-5",
+        "provider": "claude",
+        "search": "claude"
+      },
+      "B": {
+        "model": "claude-sonnet-5-5",
+        "provider": "claude",
+        "search": "deepseek"
+      },
+      "B_prime": {
+        "model": "claude-opus-5-5",
+        "provider": "claude",
+        "search": "deepseek"
+      },
+      "D0": {
+        "model": "deepseek-flash",
+        "provider": "deepseek",
+        "search": "none"
+      },
+      "D0_prime": {
+        "model": "deepseek-v4-pro",
+        "provider": "deepseek",
+        "search": "none"
+      },
+      "D2": {
+        "model": "deepseek-flash",
+        "provider": "deepseek",
+        "search": "deepseek"
+      },
+      "D2_prime": {
+        "model": "deepseek-v4-pro",
+        "provider": "deepseek",
+        "search": "deepseek"
+      }
+    },
+    "judges": {
+      "claude": "claude-sonnet-5-5",
+      "deepseek": "deepseek-v4-pro"
+    },
+    "knowledge_cutoffs": {
+      "claude-opus-5-5": "2026-06-30",
+      "claude-sonnet-5-5": "2026-06-30",
+      "deepseek-flash": null,
+      "deepseek-v4-pro": null
+    },
+    "model_versions": {
+      "claude-opus-5-5": "claude-opus-5-5 (2026-09-22)",
+      "claude-sonnet-5-5": "claude-sonnet-5-5 (2026-09-28)",
+      "deepseek-flash": "DeepSeek-V4.1-Flash-1017",
+      "deepseek-v4-pro": "DeepSeek-V4-Pro-0813 (待运行前确认服务端路由)"
+    },
+    "search_price_usd": 0.00075,
+    "search_prompt": "用搜索回答下面的问题。给出简短的答案和你依据的网址。最多搜 5 次。",
+    "seed": 20261020,
+    "version_sources": {
+      "claude-opus-5-5": [
+        "https://platform.claude.com/docs/en/models/opus-5-5/overview"
+      ],
+      "claude-sonnet-5-5": [
+        "https://platform.claude.com/docs/en/models/sonnet-5-5/overview"
+      ],
+      "deepseek-flash": [
+        "https://api-docs.deepseek.com/updates/"
+      ],
+      "deepseek-v4-pro": [
+        "https://api-docs.deepseek.com/news/news260813/",
+        "https://api-docs.deepseek.com/updates/"
+      ]
+    }
+  },
+  "config_sha256": "3d1f622d893498745700767f6eaaf1f36c257a8b5ff5dd13bc78f5dab9953257",
+  "fetch_allowed": false,
+  "max_search_calls": 5,
+  "phase": "full",
+  "pilot_records_reused": false,
+  "python_version": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "question_file": "questions/multilingual.jsonl",
+  "question_ids": [
+    "msqa-JA-60",
+    "msqa-JA-86",
+    "msqa-JA-53",
+    "msqa-JA-05",
+    "msqa-JA-69",
+    "msqa-JA-37",
+    "msqa-JA-54",
+    "msqa-JA-64",
+    "msqa-JA-88",
+    "msqa-JA-84",
+    "msqa-JA-85",
+    "msqa-JA-38",
+    "msqa-JA-36",
+    "msqa-JA-21",
+    "msqa-JA-51",
+    "msqa-JA-55",
+    "msqa-JA-78",
+    "msqa-JA-08",
+    "msqa-JA-87",
+    "msqa-JA-58",
+    "msqa-KO-56",
+    "msqa-KO-73",
+    "msqa-KO-62",
+    "msqa-KO-63",
+    "msqa-KO-90",
+    "msqa-KO-35",
+    "msqa-KO-83",
+    "msqa-KO-76",
+    "msqa-KO-36",
+    "msqa-KO-85",
+    "msqa-KO-75",
+    "msqa-KO-28",
+    "msqa-KO-50",
+    "msqa-KO-91",
+    "msqa-KO-78",
+    "msqa-KO-52",
+    "msqa-KO-58",
+    "msqa-KO-89",
+    "msqa-KO-88",
+    "msqa-KO-19",
+    "msqa-TH-48",
+    "msqa-TH-60",
+    "msqa-TH-40",
+    "msqa-TH-94",
+    "msqa-TH-78",
+    "msqa-TH-54",
+    "msqa-TH-51",
+    "msqa-TH-57",
+    "msqa-TH-77",
+    "msqa-TH-96",
+    "msqa-TH-44",
+    "msqa-TH-85",
+    "msqa-TH-100",
+    "msqa-TH-83",
+    "msqa-TH-46",
+    "msqa-TH-79",
+    "msqa-TH-80",
+    "msqa-TH-49",
+    "msqa-TH-08",
+    "msqa-TH-76",
+    "msqa-ID-69",
+    "msqa-ID-72",
+    "msqa-ID-53",
+    "msqa-ID-33",
+    "msqa-ID-32",
+    "msqa-ID-70",
+    "msqa-ID-48",
+    "msqa-ID-38",
+    "msqa-ID-18",
+    "msqa-ID-80",
+    "msqa-ID-82",
+    "msqa-ID-63",
+    "msqa-ID-02",
+    "msqa-ID-79",
+    "msqa-ID-61",
+    "msqa-ID-07",
+    "msqa-ID-31",
+    "msqa-ID-55",
+    "msqa-ID-59",
+    "msqa-ID-81",
+    "msqa-RU-72",
+    "msqa-RU-08",
+    "msqa-RU-23",
+    "msqa-RU-94",
+    "msqa-RU-29",
+    "msqa-RU-25",
+    "msqa-RU-01",
+    "msqa-RU-24",
+    "msqa-RU-31",
+    "msqa-RU-74",
+    "msqa-RU-95",
+    "msqa-RU-28",
+    "msqa-RU-69",
+    "msqa-RU-73",
+    "msqa-RU-38",
+    "msqa-RU-37",
+    "msqa-RU-89",
+    "msqa-RU-04",
+    "msqa-RU-19",
+    "msqa-RU-82",
+    "msqa-ES-35",
+    "msqa-ES-77",
+    "msqa-ES-51",
+    "msqa-ES-34",
+    "msqa-ES-71",
+    "msqa-ES-58",
+    "msqa-ES-44",
+    "msqa-ES-53",
+    "msqa-ES-67",
+    "msqa-ES-56",
+    "msqa-ES-73",
+    "msqa-ES-82",
+    "msqa-ES-37",
+    "msqa-ES-57",
+    "msqa-ES-80",
+    "msqa-ES-46",
+    "msqa-ES-32",
+    "msqa-ES-43",
+    "msqa-ES-83",
+    "msqa-ES-61"
+  ],
+  "question_sha256": "dc584590c1ff973bc011ece981c8fdbbea002aeb178d6f56a08a685b3060ff0a",
+  "round": "multilingual",
+  "search_prompt_unchanged": true,
+  "seed": 20261021,
+  "started_at": "2026-10-20T22:54:16.651259+00:00",
+  "tool_sha256": {
+    "bench.py": "bec17561f680dc12a9cdddad260fa1e2d7e517b2f82094e9edaffcdeb9dfa749",
+    "common.py": "457fcf3190f2316999d0cee428af9dad2bb0aaaea4ed9bc342f281b795a45b16",
+    "deepseek-search.json": "94ad00724d9069f452e48286e23c2f47b29c02dcc01d9558b05d1e5c3f3cdb38",
+    "deepseek_search.py": "5f600d0188c9ebb2f85ab8c2694f62b39de9769878497ff480f4047eaea756f9",
+    "empty-mcp.json": "e93fc8db2b1bd77107fe6c758bca9545fa864cf7cce8ab93a7b2b93a1d566a7b",
+    "multilingual.py": "aa65daaa941db9c996627e2defed0a12ba4851a833f298bdc3fca0a44f56cb69",
+    "native-search-settings.json": "55fc981d414e51c0a822d0dcd790155e9354de7631b521c1cf2d8525f429e9ec",
+    "search_budget.py": "b670e8966ac349a19d3c60049c7023934c1a00316bf15d0bd84b6ce0f69b7f04"
+  },
+  "workers": 4
+}

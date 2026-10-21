@@ -1,0 +1,100 @@
+{
+  "answer": "Tiga unsur Tri Hita Karana, yaitu tiga penyebab kebahagiaan, adalah:\n\n1. **Parhyangan**: hubungan harmonis manusia dengan Tuhan. Wujudnya antara lain ibadah dan upacara keagamaan (yadnya).\n2. **Pawongan**: hubungan harmonis manusia dengan sesama. Wujudnya antara lain tolong-menolong dan kebersamaan, dengan dasar konsep Tat Twam Asi.\n3. **Palemahan**: hubungan harmonis manusia dengan lingkungan alam. Wujudnya antara lain menjaga keseimbangan ekosistem dan kelestarian alam.\n\nKeseimbangan ketiganya dalam pikiran, perbuatan, dan ucapan dianggap sebagai jalan menuju kebahagiaan dan kesejahteraan.\n\nCatatan: ejaan pertama bervariasi antar sumber (Parhyangan, Parahyangan, Prahyangan). Beberapa abstrak juga menukar istilah, misalnya memakai \"Palemahan\" untuk hubungan dengan sesama. Saya mengikuti definisi umum yang paling konsisten antar sumber. Saya hanya membaca ringkasan hasil pencarian, bukan membuka setiap artikel.\n\nSources:\n- [Widyanatya (UNHI)](https://ejournal.unhi.ac.id/index.php/widyanatya/article/view/5826/2683)\n- [Kawistara (UGM)](https://journal.ugm.ac.id/kawistara/article/download/89093/40105)\n- [Sphatika (UHN Sugriwa)](https://ojs.uhnsugriwa.ac.id/index.php/Sphatika/article/download/3150/2242/13534)\n- [Panggung (ISBI)](https://jurnal.isbi.ac.id/index.php/panggung/article/view/1712/1984)\n- [Garuda Kemdikbud](https://garuda.kemdikbud.go.id/documents/detail/1731111)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.267,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012035,
+      "inputTokens": 15500,
+      "maxOutputTokens": 128000,
+      "outputTokens": 970,
+      "provider": "firstParty",
+      "thinkingTokens": 119,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3319,
+      "cacheReadInputTokens": 6761,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0221101,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 815,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/A/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0341451,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Tri Hita Karana tiga unsur parhyangan pawongan palemahan",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TYwyeJ67Woigaj5kZdnPM8"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3319,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3319,
+    "cache_read_input_tokens": 6761,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1460,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1460,
+        "cache_read_input_tokens": 4310,
+        "input_tokens": 2,
+        "output_tokens": 716,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 815,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

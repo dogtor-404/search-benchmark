@@ -1,0 +1,100 @@
+{
+  "answer": "**Respuesta corta:** es sobre todo el **préstamo lingüístico**, es decir, la entrada de palabras de otras lenguas en el español. Ocurrió por contacto de lenguas, que se clasifica en tres tipos:\n- **Sustrato:** lenguas prerromanas como el ibero, el celta o el vasco.\n- **Superestrato:** sobre todo el árabe, y también el germánico.\n- **Adstrato:** lenguas vecinas que influyen entre sí.\n\nLa pregunta es ambigua. Si busca un término técnico, la respuesta más probable es \"préstamo léxico\" o \"contacto lingüístico (sustrato/superestrato/adstrato)\". Hice una sola búsqueda de las 5 permitidas.\n\nFuentes:\n- [RAE – TDHLE: adstrato](https://www.rae.es/tdhle/adstrato)\n- [Rowan – Adaptaciones quechuas (Lapesa: sustrato/superestrato/adstrato)](https://users.rowan.edu/~manley/docs/adaptacionesquechuasarticle.pdf)\n- [Revista UCR – elementos no latinos del español](https://revistas.ucr.ac.cr/index.php/filyling/article/download/15036/14302/27372)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.099,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118368,
+      "inputTokens": 13378,
+      "maxOutputTokens": 128000,
+      "outputTokens": 998,
+      "provider": "firstParty",
+      "thinkingTokens": 127,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3321,
+      "cacheReadInputTokens": 6753,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.040874600000000004,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 647,
+      "provider": "firstParty",
+      "thinkingTokens": 105,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-57",
+  "raw": "jsonl/A_prime/msqa-ES-57.jsonl",
+  "reported_cost_usd": 0.052711400000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "influencia de otras lenguas en la historia del español sustrato superestrato adstrato préstamos",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01YEJfP62aiYWKzyb1EkiFWc"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3321,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3321,
+    "cache_read_input_tokens": 6753,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1470,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1470,
+        "cache_read_input_tokens": 4302,
+        "input_tokens": 2,
+        "output_tokens": 438,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 647,
+    "output_tokens_details": {
+      "thinking_tokens": 105
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

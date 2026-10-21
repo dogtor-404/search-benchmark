@@ -1,0 +1,62 @@
+{
+  "answer": "大约 **30 万人**（约 300,000 人）。\n\n这是指阿拉贡王国（Reino de Aragón）在波旁王朝到来、实行财政改革之前的情况。当时阿拉贡总人口估计只有 40 万上下，却有约 30 万人凭借“infanzón”（相当于卡斯蒂利亚的 hidalgo，低等贵族）头衔免缴捐税，导致王室在阿拉贡几乎收不上税。不同史料的估计有出入（有的写 20 多万，常见的说法是约 30 万），题目问“aproximadamente”，一般对应的是 **300,000** 这个数字。\n\n需要说明：这是凭我的记忆回答的，具体数字可能会因史料不同而有出入。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 25.54,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.063096,
+      "inputTokens": 2074,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2740,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-73",
+  "raw": "jsonl/D0_prime/msqa-ES-73.jsonl",
+  "reported_cost_usd": 0.063096,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2074,
+    "iterations": [],
+    "output_tokens": 2740,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

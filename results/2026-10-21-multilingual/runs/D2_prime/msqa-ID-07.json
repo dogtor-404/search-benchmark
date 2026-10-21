@@ -1,0 +1,144 @@
+{
+  "answer": "**Merariq** 指 Sasak 族婚礼中的“**kawin lari**”（抢婚/私奔）程序：即男子在正式婚礼（伊斯兰 akad nikah）之前，把要娶的女子带走（“拐走/私奔”）——通常先将女子带到男方家或一处叫 *bale penyeboqan* 的地方安置，再进入后续的谈判、聘礼、正式婚仪等环节。\n\n依据网址：\n- https://cloud.badilag.net/s/XYnYNCxLdgbgqik/download/INDRI%20ANNISA%20HASANAH_MERARIQ%20DALAM%20PERSPEKTIF%20ADAT%20DAN%20HUKUM%20NASIONAL%20MENJAGA%20KEARIFAN%20LOKAL%20DAN%20PERLINDUNGAN%20HAK%20PEREMPUAN.pdf\n- http://download.garuda.kemdikbud.go.id/article.php?article=3242818&val=28400&title=Tradisi%20Kawin%20Lari%20Merariq%20pada%20Suku%20Bangsa%20Sasak%20di%20Desa%20Wanasaba%20Lombok%20Timur",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.211,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07510639999999999,
+      "inputTokens": 14795,
+      "maxOutputTokens": 32000,
+      "outputTokens": 772,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/D2_prime/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.07510639999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7182,
+      "query": "Merariq adat kawin Suku Sasak Lombok artinya",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MERARIQ DALAM PERSPEKTIF ADAT DAN HUKUM NASIONAL: MENJAGA KEARIFAN LOKAL DAN PERLINDUNGAN HAK PEREMPUAN OLEH: INDRI ANNISA HASAN...",
+          "url": "https://cloud.badilag.net/s/XYnYNCxLdgbgqik/download/INDRI%20ANNISA%20HASANAH_MERARIQ%20DALAM%20PERSPEKTIF%20ADAT%20DAN%20HUKUM%20NASIONAL%20MENJAGA%20KEARIFAN%20LOKAL%20DAN%20PERLINDUNGAN%20HAK%20PEREMPUAN.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DOI: https://doi",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=3242818&val=28400&title=Tradisi%20Kawin%20Lari%20Merariq%20pada%20Suku%20Bangsa%20Sasak%20di%20Desa%20Wanasaba%20Lombok%20Timur#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "adat adalah pembacaan _istiğlıfar, pernyataan tobat dengan bahasa Sasak,_",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=1706880&title=AKULTURASI%20NILAI-NILAI%20ISLAM%20DALAM%20TRADISI%20MERARIQ%20MELALUI%20POLA%20KOMUNIKASI%20TOKOH%20AGAMA%20DI%20LOMBOK%20TIMUR&val=18539#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ISSN 1979-5572 (print) | ISSN 2541-6480 (online)",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=1706880&title=AKULTURASI%20NILAI-NILAI%20ISLAM%20DALAM%20TRADISI%20MERARIQ%20MELALUI%20POLA%20KOMUNIKASI%20TOKOH%20AGAMA%20DI%20LOMBOK%20TIMUR&val=18539#7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Eksistensi merariq dalam budaya Sasak disini sesungguhnya merujuk pada pengertian keberadaan.204 Dalam konteks ini, keberadaan b...",
+          "url": "https://dspace.uii.ac.id/bitstream/handle/123456789/39212/18933008.pdf?sequence=1&isAllowed=y&__cf_chl_tk=WCQh5I_uyoAWb_SVFQnr1Vmsb_mAQx0PPZ1KXbi3Y3U-1766222774-1.0.1.1-.kVyIjGEZ0r4pR6DL_4l1h1kntjk5xVmAzsDzjG6R2U#31#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "One of the traditions that is still preserved by the Sasak people in Lombok is the *Merariq* (elopement) tradition",
+          "url": "https://ojs.rewangrencang.com/index.php/JHLG/issue/download/28/29#14#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "b. Pergeseran Makna Tradisi Merariq di Lombok",
+          "url": "https://dspace.uii.ac.id/bitstream/handle/123456789/51510/Ringkasan%20Disertasi_Ulya%20Sofiana.pdf?sequence=2&isAllowed=y&__cf_chl_tk=xbT7T1pipVmbqKunJ196.k_gmT.x.H0ItlWWVzq3kts-1766809219-1.0.1.1-fxhB6FA3O6mEGRuspo133UOqW5XmBwOuwSFCtvNX5zU#13#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "12 Ismuha, Hubungan Hukum Adat dengan Hukum Islam di Indonesia (Bandingan terhadap",
+          "url": "https://ojs.rewangrencang.com/index.php/JHLG/issue/download/28/29#14#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TRADISI MERARIQ (KAWIN LARI) PADA MASYARAKAT SASAK LOMBOK DALAM PERSPEKTIF HUKUM ISLAM",
+          "url": "http://repositori.uin-alauddin.ac.id/1567/1/Hudalinnas.pdf#8#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Perkawinan adalah peristiwa penting dalam kehidupan masyarakat Bangsawan Suku Sasak di Lombok",
+          "url": "http://repository.unhas.ac.id/id/eprint/48802/2/K011201058-1-2.pdf#2#3#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14795,
+    "iterations": [],
+    "output_tokens": 772,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

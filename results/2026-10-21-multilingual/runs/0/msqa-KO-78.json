@@ -1,0 +1,74 @@
+{
+  "answer": "**매듭(매듭공예)**일 가능성이 가장 높다고 봅니다. 신석기 시대에 끈을 묶고 매듭을 지어 돌도끼나 칼 같은 도구를 허리에 매달아 운반했고, 이것이 한국 전통 매듭공예의 기원으로 설명되는 것으로 기억합니다.\n\n다만 확실하지 않습니다. 이 설명의 출처를 직접 확인하지 못했고, 지금은 인터넷을 쓸 수 없어 검증도 못 했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.531,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1813,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.013682799999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 627,
+      "provider": "firstParty",
+      "thinkingTokens": 433,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-78",
+  "raw": "jsonl/0/msqa-KO-78.jsonl",
+  "reported_cost_usd": 0.013682799999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1813,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1813,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1813,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1813,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 627,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 627,
+    "output_tokens_details": {
+      "thinking_tokens": 433
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

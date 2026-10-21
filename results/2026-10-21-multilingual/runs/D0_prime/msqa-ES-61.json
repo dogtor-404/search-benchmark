@@ -1,0 +1,62 @@
+{
+  "answer": "根据史书（如《阿方索三世编年史》）的记载，佩拉约（Pelayo）在阿斯图里亚斯被推举为首领后，第一件主要的事是**拒绝向驻守希洪的穆斯林总督穆努萨（Munuza）继续纳贡/臣服，并退入山区组织抵抗**，由此最终引发了约 722 年的科瓦东加战役（Batalla de Covadonga）。取胜后，他才在坎加斯-德奥尼斯（Cangas de Onís）设立都城，被拥立为国王。\n\n严格说，同时代史料并没有逐条记录他“头一个具体行动”，以上是后世编年史的传统叙述。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.521,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.040744,
+      "inputTokens": 2046,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1628,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-61",
+  "raw": "jsonl/D0_prime/msqa-ES-61.jsonl",
+  "reported_cost_usd": 0.040744,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2046,
+    "iterations": [],
+    "output_tokens": 1628,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

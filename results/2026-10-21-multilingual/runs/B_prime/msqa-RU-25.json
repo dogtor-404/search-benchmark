@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** Выговская пустынь, она же Выго-Лексинское (Выголексинское) общежительство, иначе Выгореция. Это центр старообрядцев-беспоповцев, от которого пошло поморское согласие. Его основали в октябре 1694 года Даниил Викулин и Андрей Денисов на реке Выг, к северо-востоку от Онежского озера.\n\n**Источники:**\n- https://pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be%d0%bc.html (Православная энциклопедия)\n- https://old.bigenc.ru/pdf/2336363 (Большая российская энциклопедия)\n- https://www.hermitagemuseum.org/research/publications/publication_16 (Эрмитаж)\n\nПоиск сделан 1 раз.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.079,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14957,
+      "cacheReadInputTokens": 5845,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.131681,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 542,
+      "provider": "firstParty",
+      "thinkingTokens": 43,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-25",
+  "raw": "jsonl/B_prime/msqa-RU-25.jsonl",
+  "reported_cost_usd": 0.131681,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8603,
+      "query": "старообрядческий центр основан в 1694 году Выговская пустынь",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Большая российская энциклопедия",
+          "url": "https://old.bigenc.ru/pdf/2336363#1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - Материал из Православной Энциклопедии под редакцией Патриарха Московского и всея Руси Кирилла",
+          "url": "https://pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be%d0%bc.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d0%ab%d0%93%d0%9e%d0%9b%d0%95%d0%9a%d0%a1%d0%98%d0%9d%d0%a1%d0%9a%d0%9e%d0%95%20%d0%9e%d0%91%d0%a9%d0%95%d0%96%d0%98%d0%a2%d0%95%d0%9b%d0%ac%d0%a1%d0%a2%d0%92%d0%9e.html#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%b5.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Государственный Эрмитаж - Цветовая палитра",
+          "url": "https://www.hermitagemuseum.org/research/publications/publication_16#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "образовать хлебный запас, что позволило ему принимать к себе новых",
+          "url": "https://iriran.ru/sites/default/files/Staricin_diss.pdf#115#46"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекса, урочище, Лексинская Крестовоздвиженская старообрядческая женская пустынь",
+          "url": "https://sobory.ru/article/?object=57938"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Иванов день: от Купалы к Предтече (комментарий в цифрах и фактах) - - 6 июля 2006",
+          "url": "https://sedmitza.ru/text/406278.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Из истории старообрядчества в Олонецкой губернии",
+          "url": "http://www.rkna.ru/projects/mosaic/viewdoc.phtml?lng=&id=1220"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Историко-культурная территория «Выгореция» Пограничный знак «Варашев камень» (респ. Карелия)",
+          "url": "https://petersmonuments.ru/europe/memorials/istoriko-kulturnaya-territoriya-vygoretsiya-pogranichnyy-znak-varashev-kamen-resp-kareliya//#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14957,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14957,
+    "cache_read_input_tokens": 5845,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13120,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13120,
+        "cache_read_input_tokens": 3841,
+        "input_tokens": 2,
+        "output_tokens": 419,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 542,
+    "output_tokens_details": {
+      "thinking_tokens": 43
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "answer": "ที่ประชุมมีมติให้ประวัติศาสตร์การเมืองแห่งชาติไทยแบ่งเป็น 5 ยุค ดังนี้:\n\n1. ยุคก่อนสุโขทัย\n2. ยุคกรุงสุโขทัย\n3. ยุคกรุงศรีอยุธยา\n4. ยุคกรุงธนบุรี\n5. ยุคกรุงรัตนโกสินทร์\n\nข้อความนี้มาจากผลการค้นหาครั้งเดียว ซึ่งเป็นบทความที่อ้างเอกสารของสำนักหอจดหมายเหตุแห่งชาติ (สจช.) ผมไม่ได้เปิดอ่านต้นฉบับเต็ม และในเอกสารที่ได้มา ตัวอักษรบางส่วนเพี้ยนจากการสแกน\n\nที่มา: https://sac-research.sac.or.th/uploads/article//2024_20240216084934-1.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.423,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 23370,
+      "cacheReadInputTokens": 5937,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09894170000000001,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 486,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-83",
+  "raw": "jsonl/B/msqa-TH-83.jsonl",
+  "reported_cost_usd": 0.09894170000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8381,
+      "query": "การประชุมวางโครงการทำประวัติศาสตร์ของชาติไทย มติ ประวัติศาสตร์การเมืองแห่งชาติไทย แบ่งเป็นห้าหมวด",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประวัติศาสตร์การเมืองสําเร็จแล้ว ยั้นต่อไปจึงค่อยเข้าสู่การเขียน “ประวัติศาสตร์เชิงช้อน",
+          "url": "https://sac-research.sac.or.th/uploads/article//2024_20240216084934-1.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กลาวโดยสังเขป คณะกรรมการชําระประวัติศาสตรไทยไดรับการแตงตั้งขึ้นอยางเปนทางการจากรัฐบาล จอมพล ป",
+          "url": "https://www.tcijthai.com/uploads/ebooks/memoria-fulltext-Vol1.pdf#160#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๑. ชุมนุมเจ้าพระยาพิษณุโลก ซึ่งตั้งตนเป็นใหญ่อยู่ที่พิษณุโลกและมีอิทธิพลในแถบนั้น",
+          "url": "https://dltv.ac.th/utils/files/download/220049#190#134"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เราจะต่อต้านผลดีจการได้อย่างไร ฯลฯ",
+          "url": "https://www.openbase.in.th/files/pridibook191.pdf#47#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พัฒนาการทางประวัติศาสตร์ไทย",
+          "url": "https://mooc.klw.ac.th/wp-content/uploads/2022/04/หน่วย4_พัฒนาการทางประวัติศาสตร์ไทยฯ.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "นายกรัฐมนตรีในขณะนั้น ที่อนุมัติเงินตามโครงการเขียนประวัติศาสตร์ ระยะเวลา 5 ปี เป็นเงินปีละ 90,000 บาท",
+          "url": "https://elibrary.tsri.or.th/fullP/PDG59H0004/PDG59H0004_full.pdf#366#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|3|บรรยายและวิเคราะห์การเมือง และโครงสร้างอำนาจของรัฐ ไทยสมัยก่อนประวัติศาสตร์ และระบบไพร่|3 ชั่วโมง|อาจารย์ ดร",
+          "url": "http://pws.npru.ac.th/nipapan/data/files/%E0%B8%A1%E0%B8%84%E0%B8%AD%203%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%201%202560.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กรรมการฯ ที่ยากจะแยกออกจากรัฐไทยก็คือ การแต่งตั้งคณะกรรมการสืบค้นประวัติศาสตร์ไทยเกี่ยวกับจีนใน เอกสารภาษาจีนขึ้นในวันที่ 23 มิถ...",
+          "url": "https://www.tcijthai.com/uploads/ebooks/memoria-fulltext-Vol1.pdf#160#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วิชาการเมืองและการปกครองไทย",
+          "url": "https://ssrudlp.ssru.ac.th/data-file/teacher_work/file/38385b2240500b8d2be1819f8753ef3b.pdf#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. แผนการสอน",
+          "url": "http://ai.swu.ac.th/Portals/68/Documents/Academic/mokoor/mokoor34/57/PMT57/2_2557/T3_HI314_2_57.pdf#3#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 23370,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 23370,
+    "cache_read_input_tokens": 5937,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 21441,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 21441,
+        "cache_read_input_tokens": 3933,
+        "input_tokens": 2,
+        "output_tokens": 355,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 486,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

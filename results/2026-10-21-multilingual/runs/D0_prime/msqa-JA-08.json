@@ -1,0 +1,62 @@
+{
+  "answer": "我拿不太准，没有百分之百把握。按我的理解，最接近的说法是 **「魔性の女」**（魔性之女，femme fatale）——指那种乍一看并不特别惊艳，却莫名让男性着迷、很有异性缘的女性。\n\n如果这是一道有标准答案的题，我不能保证一定是这个；另一种日常些的说法可能是「隠れ美人」（不起眼但其实是美人）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 56.718,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.13656800000000002,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 6420,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-08",
+  "raw": "jsonl/D0_prime/msqa-JA-08.jsonl",
+  "reported_cost_usd": 0.13656800000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 6420,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

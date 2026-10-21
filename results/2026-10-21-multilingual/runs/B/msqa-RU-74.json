@@ -1,0 +1,156 @@
+{
+  "answer": "**Вяземский пряник** (заварной печатный пряник из Вязьмы Смоленской губернии).\n\nИсточник пишет, что в дореволюционной России тремя главными рецептами праздничного пряника считались тульский, ржевский и вяземский. Вяземские пряники при этом описаны как печатные и заварные.\n\nИсточники:\n- https://livingheritage.ru/brand/smolenskaya-oblast/vyazemskij-pryanik\n- https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/vyazemskiy-pryanik-4260",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.743,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13139,
+      "cacheReadInputTokens": 5882,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0574322,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 428,
+      "provider": "firstParty",
+      "thinkingTokens": 132,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-74",
+  "raw": "jsonl/B/msqa-RU-74.jsonl",
+  "reported_cost_usd": 0.0574322,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8286,
+      "query": "заварное сладкое Смоленская губерния наряду с тульским и ржевским три главных праздничных сорта",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Город воинской славы Вязьма - часть 4. Особенности разных лет",
+          "url": "https://turbinatravels.com/pdf/65870#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вяземский пряник",
+          "url": "https://xn--80aabjhkiabkj9b0amel2g.xn--p1ai/post/vyazemskiy-pryanik-4260"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Наступало время Великого поста",
+          "url": "http://rzhevnews.ru/wp-content/uploads/2025/12/51.pdf#8#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Смоленские конфекты» — это, по сути, засахаренные кусочки фруктов, которые напоминают сухое варенье, но за ними стоит целая ист...",
+          "url": "https://mgusit.mossport.ru/upload/Journal/%E2%84%962(80)-2024.pdf#35#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "блюдами и напитками) и погружение туриста в среду коренного населения [См",
+          "url": "http://scipro.ru/conf/proceedings_10122019.pdf#45#45"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вяземский пряник",
+          "url": "https://livingheritage.ru/brand/smolenskaya-oblast/vyazemskij-pryanik"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Самовар был необходим в любом доме",
+          "url": "https://malitikov.ru/wp-content/uploads/2021/01/nauka-i-zhizn-1995-03.pdf#52#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тверская губерния являлась одним из центров пряничного производства",
+          "url": "https://ruservices.rgutspubl.org/index.php/1/article/download/192/188/230#4#2"
+        },
+        {
+          "date": "2009-09-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тульский пряник — Википедия - Тульский пряник",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D1%8F%D0%BD%D0%B8%D0%BA#1"
+        },
+        {
+          "date": "2020-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тульский пряник: народный промысел - Тульский пряник: народный промысел",
+          "url": "https://vk.ru/@-192831971-tulskii-pryanik-narodnyi-promysel#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13139,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13139,
+    "cache_read_input_tokens": 5882,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 11265,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 11265,
+        "cache_read_input_tokens": 3878,
+        "input_tokens": 2,
+        "output_tokens": 203,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 428,
+    "output_tokens_details": {
+      "thinking_tokens": 132
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**答え:天照大神(あまてらすおおみかみ)**\n\n日本神話の太陽の女神です。高天原を治める主神で、伊弉諾尊(イザナギ)の娘とされます。皇室の祖神でもあり、伊勢神宮内宮に祀られています。出生の経緯は、古事記と日本書紀で記述が違います。\n\n検索は1回だけ行いました。\n\nSources:\n- [intojapanwaraku.com](https://intojapanwaraku.com/rock/culture-rock/212844/)\n- [yokai.jp(高天原)](https://yokai.jp/en/place/takamagahara)\n- [japanknowledge.com](https://japanknowledge.com/introduction/keyword.html?i=631)\n- [The News Lens](https://www.thenewslens.com/article/111188)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.562,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0114644,
+      "inputTokens": 11469,
+      "maxOutputTokens": 128000,
+      "outputTokens": 635,
+      "provider": "firstParty",
+      "thinkingTokens": 114,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2875,
+      "cacheReadInputTokens": 6750,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.015843,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 366,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-37",
+  "raw": "jsonl/A/msqa-JA-37.jsonl",
+  "reported_cost_usd": 0.0273074,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "天照大神 太陽の女神 高天原 主神",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0149MiDcrL2ydrnQDBuM1EWa"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2875,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2875,
+    "cache_read_input_tokens": 6750,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1027,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1027,
+        "cache_read_input_tokens": 4299,
+        "input_tokens": 2,
+        "output_tokens": 277,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 366,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

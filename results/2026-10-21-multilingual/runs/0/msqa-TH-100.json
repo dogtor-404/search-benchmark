@@ -1,0 +1,74 @@
+{
+  "answer": "通常认为是《สมุทรโฆษคำฉันท์》(Samutthakote Kham Chan，《海之声》)，一般公认是泰国文学中第一部以“ฉันท์”体写成的作品，出自大城（阿瑜陀耶）时期。\n\n作者和成书年代我记得不够确切，只记得是几位作者先后续写，前半部分被认为出自较早的朝代，后半部分由后人续完，具体是谁、在哪位国王时期，我不确定，不在此妄说。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.63,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1769,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.015496800000000002,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 826,
+      "provider": "firstParty",
+      "thinkingTokens": 650,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-100",
+  "raw": "jsonl/0/msqa-TH-100.jsonl",
+  "reported_cost_usd": 0.015496800000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1769,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1769,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1769,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1769,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 826,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 826,
+    "output_tokens_details": {
+      "thinking_tokens": 650
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

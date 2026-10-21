@@ -1,0 +1,235 @@
+{
+  "answer": "**คำตอบ: \"ด้ำ\"** (ในพจนานุกรมสะกด ด้ำ ๒) หมายถึงผีเรือนหรือผีบรรพบุรุษ\n\n- พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ. ๒๕๕๔ ระบุว่า \"ด้ำ ๒ น. ผีเรือน, ผีบรรพบุรุษ\" (อ้างจากพจนานุกรม Longdo)\n- วิทยานิพนธ์ที่อ้างพจนานุกรมราชบัณฑิตยสถาน พ.ศ. ๒๕๔๒ บอกว่าในจารึกสุโขทัยคำนี้ใช้เรียกบรรพบุรุษที่ตายไปแล้ว คู่กับคำว่า \"เสื้อ\" และในจารึกอีสานโบราณก็พบคำนี้ด้วย\n\nข้อสังเกต: ผลค้นหาพิมพ์ตัวสะกดในวิทยานิพนธ์เพี้ยนเป็น \"ดิ๋า\" และ \"ด๎า\" เพราะการสแกน/OCR ผิด ส่วนรูปสะกดในพจนานุกรมคือ \"ด้ำ\" ผมจึงยึดรูปนี้\n\nแหล่งที่มา:\n- https://dict.longdo.com/mobile.php?search=%2A%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%2A\n- http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/snamcn/Wirawan_Sompongjaroen/Fulltext.pdf#36#14",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.773,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 24381,
+      "cacheReadInputTokens": 5857,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1063877,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 827,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-78",
+  "raw": "jsonl/B/msqa-TH-78.jsonl",
+  "reported_cost_usd": 0.1063877,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7531,
+      "query": "คำไทยโบราณ ความหมาย ผีเรือน",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผี (๒ มิถุนายน ๒๕๕๒) - สำนักงานราชบัณฑิตยสภา",
+          "url": "http://legacy.orst.go.th/?knowledges=%e0%b8%9c%e0%b8%b5-%e0%b9%92-%e0%b8%a1%e0%b8%b4%e0%b8%96%e0%b8%b8%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%99-%e0%b9%92%e0%b9%95%e0%b9%95%e0%b9%92"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การนับถือผีของคนไทยในอดีตนั้นมีลําดับขั้นที่มี ความซับซ้อนอย่างมาก เริ่มต้นด้วยการนับถือ “ผีเรือน” ถือกันว่าเป็นผีบรรพชนที่คอยคุ...",
+          "url": "https://www.finearts.go.th/storage/contents/2022/02/file/sIVo0Fd8n6exqp0uM70jKBtM9BV6J3Aw52egl4gL.pdf#154#149"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ครอบครัวและวงศ์ตระกูลเสียชีวิตไปแล้ว พวกเขาเปลี่ยนสถานภาพเป็น “วิญญาณศักดิ์สิทธิ์” ซึ่ง",
+          "url": "http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/snamcn/Wirawan_Sompongjaroen/Fulltext.pdf#36#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=%2A%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%2A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การงดเว้นไม่จัดทําพิธีเสนอเรือนนั้น อาจทําให้ผีเรือนของตนอดอยากและใน ที่สุดผีเรือนอาจก่อความเดือดร้อนให้แก่คนและคนที่อยู่ในครอบค...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/259375?Resolve_DOI=10.14457/NSRU.res.2008.3#18#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=-%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ความหมายของคำว่า “ผี” ดังนี้",
+          "url": "https://opac01.stou.ac.th/multim/thesis/2556/138443/fulltext.pdf#98#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "4) พิธีเจือูผีขึ้นเรือน เป็นพิธีที่เจือูวิญญาณผีเรือนจากป่าซ้ำ หลังจากเสร็จพิธีศพ ให้นำ",
+          "url": "https://cuir.car.chula.ac.th/xmlui/bitstream/handle/123456789/51170/5386802935.pdf?sequence=1&isAllowed=y#14#38#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=household%20god"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๒.๔.๑ ความหมายของคําวา “ผี”",
+          "url": "https://e-thesis.mcu.ac.th/storage/B9yGPeKjTJMHX8bV7Bklm1Fl4PK1mUPPoHJgFH2B.pdf#54#17"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7476,
+      "query": "ผีเรือน ภาษาไทยโบราณ เรียกว่า \"กระสือ\" OR \"ผีเรือน\" ราชบัณฑิตยสถาน",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จากตัวอย่างพบว่า ในอดีตไม่ว่าคนอีสานหรือคนในภูมิภาคอื่นของไทยเราล้วนมีความเชื่อ ที่มาจากค่านิยมว่าต้องให้ลูกหลานเป็นเจ้าเป็นนายจ...",
+          "url": "http://202.28.34.124/dspace/bitstream/123456789/2302/1/61010180005.pdf#38#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จากตัวอย่างจะเห็นว่า ‘ผีเรือน’ phi:ˈhuʌan³ ‘เจ้าที่เจ้าทาง’ cav⁸thi:⁴caw⁸thaːŋ³ และ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/2808e025-2b46-4413-bcb0-23c737c7d712/MA_%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2_%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B9%8C.pdf?attempt=3#39#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "บ้าน และหากปฏิบัติไม่ดีก็อาจเกิดทุกข์ภัยแก่คนในบ้านได้ เพราะฉะนั้นเหตุร้ายบางประการที่ เกิดขึ้นกับครอบครัวหรือคนในครอบครัวส่วนหน...",
+          "url": "https://www.tci-thaijo.org/index.php/jla_ubu/article/download/94523/73910/235053#8#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผีขั้นสูง ได้แก่ จำพวก เทพ หรือ เทวดา ประกอบไปด้วย ฝีแถนหรือผีฟ้า 2) ผีขั้นกลาง ซึ่งแบ่งได้",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/2808e025-2b46-4413-bcb0-23c737c7d712/MA_%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2_%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B9%8C.pdf?attempt=3#39#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สาระน่ารู้เรื่อง สารพัด ผี",
+          "url": "https://www.finearts.go.th/nlttrang/view/36983-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผี (๘ สิงหาคม ๒๕๕๖) - สำนักงานราชบัณฑิตยสภา",
+          "url": "http://legacy.orst.go.th/?knowledges=%e0%b8%9c%e0%b8%b5-%e0%b9%98-%e0%b8%aa%e0%b8%b4%e0%b8%87%e0%b8%ab%e0%b8%b2%e0%b8%84%e0%b8%a1-%e0%b9%92%e0%b9%95%e0%b9%95%e0%b9%96"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "iChaCha พจนานุกรม",
+          "url": "https://th.ichacha.net/browse.aspx?w=12&p=112&l=th"
+        },
+        {
+          "date": "2023-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เรื่องผีสางนางไม้เทวดาไอ้ไข่พญานาคผีบ้านผีเรือนผีโพง กระสือกระหัง",
+          "url": "https://pantip.com/topic/42284382/%7Burl%7D"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อยู่ตาล",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/2808e025-2b46-4413-bcb0-23c737c7d712/MA_%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2_%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B9%8C.pdf?attempt=3#39#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผี",
+          "url": "https://thai.en-academic.com/7988/%25E0%25B8%259C%25E0%25B8%25B5"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 24381,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24381,
+    "cache_read_input_tokens": 5857,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 22532,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 22532,
+        "cache_read_input_tokens": 3853,
+        "input_tokens": 2,
+        "output_tokens": 637,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 827,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

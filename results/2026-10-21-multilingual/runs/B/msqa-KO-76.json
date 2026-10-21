@@ -1,0 +1,235 @@
+{
+  "answer": "**答案:** 계례(笄禮)의 주례는 여자 어른이 맡습니다. 친척 중에서 어질고 예법을 아는 부인을 주례(빈, 賓)로 청합니다. 어머니(주부)는 의식의 주인으로서 집안 쪽을 주관합니다.\n\n- 주례(빈)는 계례 사흘 전에 청하고(戒賓), 하루 전에 다시 청합니다(宿賓). 당일에는 주례가 계례자에게 비녀를 꽂아 주고 자(字)를 지어 줍니다.\n- 『사례편람』에 따르면 혼인이 정해지지 않았어도 15세가 되면 계례를 행합니다.\n\n**근거 (모두 위 검색 결과에 있던 내용입니다. 페이지를 따로 열어 보지는 않았습니다.)**\n- 한국민족문화대백과사전 \"계례\": https://encykorea.aks.ac.kr/Article/E0003083\n- 조선가례 내용 상세보기(계빈/숙빈): https://form.ugyo.net/sitemenu/view.do?menuCode=2117\n- 중국 쪽 설명으로, 笄礼는 덕망 있는 여성 어른을 정빈(正宾)으로 청하고 부모가 주인이 됩니다: https://zh.wikipedia.org/wiki/%E7%AC%84%E7%A6%AE\n\n검색은 2번 사용했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.785,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 16564,
+      "cacheReadInputTokens": 5837,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.07415770000000001,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 731,
+      "provider": "firstParty",
+      "thinkingTokens": 69,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-76",
+  "raw": "jsonl/B/msqa-KO-76.jsonl",
+  "reported_cost_usd": 0.07415770000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7305,
+      "query": "계례 주례 누구 합니까 계례 절차 빈",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "조선가례 내용 상세보기",
+          "url": "https://form.ugyo.net/sitemenu/view.do?menuCode=2117"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "계례 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0003083"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. 관례(冠禮)",
+          "url": "https://www.sacheon.go.kr/portal/data/pdf/intro/02759_down01.pdf#294#203"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>정답재(精淡齋)_1F 전동음식제원실 ‘정성과 자연을 담아내는 공간’</center>",
+          "url": "https://lll.namdong.go.kr/dong/bbs/bbsMsgFileDown.do?bcd=dong_notice&msg_seq=88113&fileno=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "검순하고·교양있고·예의바른",
+          "url": "https://memory.library.kr/files/original/9684bb55bbb56b95e78f045f480fa2ff.pdf#17#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "두르고 채리(彩履)를 신는다",
+          "url": "https://oak.chosun.ac.kr/bitstream/2020.oak/18492/2/%ec%a1%b0%ec%84%a0%ec%8b%9c%eb%8c%80%20%e2%80%a2%20%ec%b2%ad%eb%8c%80%20%ea%b6%81%ec%a4%91%20%ec%97%ac%ec%84%b1%20%eb%b3%b5%ec%8b%9d%20%eb%ac%b8%ec%96%91%ec%9d%98%20%ec%a1%b0%ed%98%95%ec%9a%94%ec%86%8c%20%eb%b9%84%ea%b5%90%20%ec%97%b0%ea%b5%ac.pdf#60#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "주제어 - 한국학진흥사업성과포털 [한국학중앙연구원]",
+          "url": "http://waks.aks.ac.kr/subject.aspx?dataID=31459"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "다음은 『사례편람(四禮便覽)』, 『중보사례편람(增補四禮便覽)』에 의한",
+          "url": "https://repository.sungshin.ac.kr/bitstream/2025.oak/3697/2/%eb%b6%80%eb%aa%a8%eb%8c%80%ec%83%81%20%ea%b0%80%ec%a1%b1%ec%a4%91%ec%8b%ac%ec%9d%98%20%ea%b0%9c%eb%b3%84%20%ec%84%b1%eb%85%84%eb%a1%80%20%ea%b5%90%ec%9c%a1%ec%bd%98%ed%85%90%ec%b8%a0%20%ea%b0%9c%eb%b0%9c.pdf#13#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례는 남·녀의 성인(成人)의식이나, 남자는 15~20세가 되면 주례(主",
+          "url": "https://memory.library.kr/files/original/c8b9d1e9167153a6d9353aed11422ff5.pdf#30#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "여자 나이 15세가 되면 비록 혼인을 정하지 않았더라도 계례를 치른다고 되어 있으나 일반적 으로는 혼약이 성립된 뒤에 계례가 행하여진 것 같다",
+          "url": "https://naju.mx.co.kr/download/ebook/X20LA38LHUVB.pdf#192#32"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6209,
+      "query": "笄礼 主持 主人 正宾 女子成年礼 谁主持",
+      "results": [
+        {
+          "date": "2014-05-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "绾青汉风社与东北人艺术团联合举办女子成年筓礼仪式",
+          "url": "https://news.hebust.edu.cn/yxdt/51296.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "清华礼学研究中心“周代女子笄礼”亮相2019国际妇女节",
+          "url": "https://www.tsinghua.edu.cn/info/1181/35857.htm"
+        },
+        {
+          "date": "2006-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人大女生孔子像前行笄礼",
+          "url": "http://news.sina.com.cn/s/2006-04-05/23468622814s.shtml?from=wap"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "少儿音频详情",
+          "url": "https://www.ahswhg.cn/ximalaya-detail.html?resId=36149"
+        },
+        {
+          "date": "2006-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "人大女生行笄礼 希望推广汉服传承中华文化",
+          "url": "https://news.sina.com.cn/c/2006-04-07/09058637703s.shtml"
+        },
+        {
+          "date": "2021-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "第30章 古代女子及笄流程",
+          "url": "https://book.qq.com/book-read/38430406/30"
+        },
+        {
+          "date": "2019-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“周代女子笄礼”亮相2019国际妇女节",
+          "url": "https://www.rwxy.tsinghua.edu.cn/info/1161/6855.htm"
+        },
+        {
+          "date": "2006-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "孔子像前举行成人仪式",
+          "url": "https://news.sina.com.cn/o/2006-04-21/08398753252s.shtml"
+        },
+        {
+          "date": "2026-02-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "笄礼 - 汉民族女孩成人礼",
+          "url": "https://baike.baidu.com/item/%E7%AC%84%E7%A4%BC?fromtitle=%E5%8A%A0%E7%AC%84%E7%A4%BC&fromid=23165957#1"
+        },
+        {
+          "date": "2007-01-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "笄礼 - 维基百科，自由的百科全书 - 笄礼 编辑",
+          "url": "https://zh.wikipedia.org/wiki/%E7%AC%84%E7%A6%AE#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 16564,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16564,
+    "cache_read_input_tokens": 5837,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14735,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14735,
+        "cache_read_input_tokens": 3833,
+        "input_tokens": 2,
+        "output_tokens": 507,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 731,
+    "output_tokens_details": {
+      "thinking_tokens": 69
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

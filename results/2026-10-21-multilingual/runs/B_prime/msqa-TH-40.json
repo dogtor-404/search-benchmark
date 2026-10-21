@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** ก่อนสักยันต์ ผู้รับการสักต้องเตรียม**เครื่องยกครู (พานครู)** ไปถวายอาจารย์ผู้สักเพื่อฝากตัวเป็นศิษย์ ได้แก่ **ดอกไม้ ธูป เทียน และเงินค่ายกครู** ที่วัดบางพระจะมี**บุหรี่ 1 ซอง**ด้วย ค่ายกครูที่วัดบางพระ (นครปฐม) คือ **24 บาท** หรือจะบูชาพานครูสำเร็จที่วัดเตรียมไว้หน้ากุฏิในราคา 60 บาท แล้วใส่ค่าครูไม่ต่ำกว่า 24 บาทก็ได้ สมัยหลวงพ่อเปิ่นค่าครูคือ 6 บาท จำนวนเงินกับเครื่องบูชาต่างกันไปตามแต่ละสำนัก\n\n**ขั้นตอนเริ่มต้นโดยย่อ**\n1. นำพานครูไปถวายอาจารย์ (พิธียกครู) และรับคำสัตย์ว่าจะประพฤติตนในทางดี ไม่ผิดศีล\n2. อาจารย์เป็นผู้เลือกลายและตำแหน่งให้ ตามธรรมเนียมแล้วผู้สักไม่ควรขอลายเอง ครั้งแรกมักเริ่มด้วยยันต์ครู ให้แจ้งด้วยว่าจะสักหมึกหรือสักน้ำมัน\n3. อาจารย์เสกเหล็กและหมึก แล้วลงมือสักพร้อมบริกรรมคาถา\n\n**แหล่งอ้างอิง**\n- https://lannajournal.com/conference/en/article/download/417/357/697 (ขั้นตอนสักยันต์ที่วัดบางพระ: ดอกไม้ ธูปเทียน บุหรี่ 1 ซอง ค่ายกครู 24 บาท)\n- https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf (พิธียกครู: ดอกไม้ ธูป เทียน และเงินค่ายกครู)\n- https://sure.su.ac.th:443/xmlui/bitstream/id/228ded40-00d7-444a-bd2d-77efa75c6caf/Fulltext.pdf?attempt=2 (ดอกไม้ ธูปเทียน และเงินค่ายกครู 24 บาท)\n\nใช้การค้นหาไป 1 ครั้ง",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.612,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 22465,
+      "cacheReadInputTokens": 5867,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.2045294,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1181,
+      "provider": "firstParty",
+      "thinkingTokens": 109,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-40",
+  "raw": "jsonl/B_prime/msqa-TH-40.jsonl",
+  "reported_cost_usd": 0.2045294,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8459,
+      "query": "ขั้นตอนการสักยันต์ เตรียม ขันครู ดอกไม้ ธูป เทียน",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว - ปกิณกธรรม งานบวงสรวงไหว้ครูและเป่ายันต์เกราะเพชร (รอบเช้า) วัดท่าขนุน วันที่ ๗ กันยายน พ.ศ. ๒๕๖๗",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=6d1eb7c4ad303a690a27e7fc8d16de91&p=402639&postcount=8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(๒)ขนาด ๔ หนู มีความยาว ๗๕ เซนติเมตร",
+          "url": "https://e-thesis.mcu.ac.th/storage/gX2YwerQI7k5Ox4SrzYwm1yPyHqCVwn6RIrcLUf8.pdf#36#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=1407127a7bd2c91381c9539a56502c2a&p=211739&postcount=11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พิธีกรรมฟ้อนผีเจ้านาย ร่างทรงและลูกศิษย์ต้องมาช่วยกันจัดเตรียมขันครู บายศรี เครื่องสังเวย และดอกไม้ธูปเทียน สําหรับบูชาครูองค์เท...",
+          "url": "http://research.culture.go.th/medias/nt172.pdf#104#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ส าหรับผู้ใช้เลขยันต์ยุคใหม่ ซึ่งสามารถแสดงคู่มือดังกล่าวตามรายละเอียด ดังนี้",
+          "url": "https://e-thesis.mcu.ac.th/storage/MO7CpAhSTPR4lcyAUlMg3Eeg8E2bf1vdgPVt4PUD.pdf#36#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หวกลูกศิษย์ที่ต้องกำรลงอักษระสักยันต์ จะต้องเป็นผู้ที่มีควำมเสื่อมใสใน",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/228ded40-00d7-444a-bd2d-77efa75c6caf/Fulltext.pdf?attempt=2#59#49"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "โดยในช่วงเริ่มแรกหลวงพ่อเป็นท่านได้ก าหนดเครื่องบูชาครูไว้ประกอบด้วย ดอกไม้ ธูป เทียน บุหรี่ 1 ซอง เงิน 6 บาท ซึ่งผู้ที่จะมารับก...",
+          "url": "https://lannajournal.com/conference/en/article/download/417/357/697#4#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในการประกอบพิธีกรรมทุกครั้งนั้น จะต้องเตรียมเครื่องบูชา ซึ่งเครื่องบูชานั้นจะแตกต่าง กันออกไปทั้งนี้ขึ้นอยู่กับครูมม้วดคนแรกที่ป...",
+          "url": "http://cuir.car.chula.ac.th/dspace/bitstream/123456789/54868/1/5486811635.pdf#45#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หมู่ผู้ศรัทธาในเครื่องรางของขลังว่า วันเสาร์ห้า ถือว่าเป็นวันดีที่สุด แต่ถ้าวันเสาร์ ขึ้น ๕ ค ่า เดือน",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/1308/4/Chapter2.pdf#24#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผู้ที่เข้าร่วมในพิธีไหว้ครูไม่ต้องมีคุณสมบัติก็เข้าได้ แต่ผู้ที่จะครอบนั้นต้องรู้ว่า จะเรียนอะไร ขั้นไหนและครอบอะไรแต่ก็ไม่ควรที...",
+          "url": "https://cuir2.car.chula.ac.th/dspace/bitstream/123456789/52392/1/5786736535.pdf#57#35"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 22465,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 22465,
+    "cache_read_input_tokens": 5867,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 20606,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 20606,
+        "cache_read_input_tokens": 3863,
+        "input_tokens": 2,
+        "output_tokens": 974,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1181,
+    "output_tokens_details": {
+      "thinking_tokens": 109
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

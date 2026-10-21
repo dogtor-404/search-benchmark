@@ -1,0 +1,235 @@
+{
+  "answer": "**山形県米沢市**です。遠山かぶは米沢市を発祥とする伝統野菜で、名前は米沢市の遠山地区に由来します。粕汁の主な伝承地域も米沢市です。\n\n出典は農林水産省「うちの郷土料理」の記述です。次の転載ページで確認しました。\n- https://foodrink.work/main/detail.php?id=6482\n- https://meibutsu.jp/meibutsu/toyamakabukasujiru-yamagata\n- https://yamagata-okitama-shoku.net/images/pdf/dentoupanfu.pdf（山形おきたま伝統野菜のパンフレット）\n\n農水省の元ページは検索結果に URL が載っていただけで、開いていません。\n\n補足として、これらの資料によると、遠山かぶは1600年に上杉家が米沢へ持ち込んだ野菜とされます。1800年ごろに上杉鷹山が遠山での栽培を奨励し、広まったと伝えられています。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.484,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 18400,
+      "cacheReadInputTokens": 5842,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0789722,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 478,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-87",
+  "raw": "jsonl/B/msqa-JA-87.jsonl",
+  "reported_cost_usd": 0.0789722,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6816,
+      "query": "遠山かぶの粕汁 発祥",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶ」の名は、米沢市遠山地区の地名に由来します",
+          "url": "https://yamagata-okitama-shoku.net/images/pdf/dentoupanfu.pdf#5#5"
+        },
+        {
+          "date": "2024-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『＜ 郷土料理 ＞ 山形 遠山かぶの粕汁』",
+          "url": "https://ameblo.jp/okome-only-komeya/entry-12919556564.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁とは？山形県のご当地の料理・グルメの一つになります。【No.6482】遠山かぶの粕汁に関する詳細な解説や知識などの情報を画像付きの図鑑形式で掲載しています。 | FOODRINK WORK 飲食グルメWEB図鑑",
+          "url": "https://foodrink.work/main/detail.php?id=6482"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁｜山形県のご当地グルメ・由来・食べ方",
+          "url": "https://meibutsu.jp/meibutsu/toyamakabukasujiru-yamagata"
+        },
+        {
+          "date": "2026-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶの粕汁」とは？",
+          "url": "https://rdish.reload.co.jp/dishes/toyama-kabu-no-kasujiru-yamagata/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "米沢の伝統野菜「遠山蕪」：やまがた食材ネット／事業者",
+          "url": "http://tukiyama.jp/shokuzai/biz/?p=log&l=263654&c="
+        },
+        {
+          "date": "2012-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "やまがた食材ネット／食品事業者 ※新着順 mobile",
+          "url": "http://c.samidare.jp/shokuzai/biz/m/?p=log&l=263654"
+        },
+        {
+          "date": "2022-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2022年6月 : 食品食材探訪記 自分図鑑 no2 since2021",
+          "url": "https://aine2021.livedoor.blog/archives/2022-06.html?p=37"
+        },
+        {
+          "date": "2021-09-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『＜伝統野菜＞ 山形 遠山かぶ』",
+          "url": "https://ameblo.jp/okome-only-komeya/entry-12919154694.html"
+        },
+        {
+          "date": "2024-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "日本各地の特産食材をおいしく食べよう！「山形県 かす汁」 - たべる・そだつ・いきるを応援！こどもみーる kodomo meal",
+          "url": "https://kodomo-meal.jp/%e6%97%a5%e6%9c%ac%e5%90%84%e5%9c%b0%e3%81%ae%e7%89%b9%e7%94%a3%e9%a3%9f%e6%9d%90%e3%82%92%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e9%a3%9f%e3%81%b9%e3%82%88%e3%81%86%ef%bc%81%e3%80%8c%e5%b1%b1%e5%bd%a2-2/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6794,
+      "query": "遠山かぶ 粕汁 郷土料理",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶ」の名は、米沢市遠山地区の地名に由来します",
+          "url": "https://yamagata-okitama-shoku.net/images/pdf/dentoupanfu.pdf#5#5"
+        },
+        {
+          "date": "2009-01-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "米沢観光コンベンション協会",
+          "url": "https://staff.yonezawa.info/note.php?p=log&lid=125808"
+        },
+        {
+          "date": "2009-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "記事詳細ページ",
+          "url": "https://yukidourou.yonezawa-matsuri.jp/log/?l=125929"
+        },
+        {
+          "date": "2024-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『＜ 郷土料理 ＞ 山形 遠山かぶの粕汁』",
+          "url": "https://ameblo.jp/okome-only-komeya/entry-12919556564.html"
+        },
+        {
+          "date": "2026-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶの粕汁」とは？",
+          "url": "https://rdish.reload.co.jp/dishes/toyama-kabu-no-kasujiru-yamagata/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "記事詳細ページ",
+          "url": "https://oki-tama.jp/log/?l=263654"
+        },
+        {
+          "date": "2022-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2022年6月 : 食品食材探訪記 自分図鑑 no2 since2021",
+          "url": "https://aine2021.livedoor.blog/archives/2022-06.html?p=37"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁｜山形県のご当地グルメ・由来・食べ方",
+          "url": "https://meibutsu.jp/meibutsu/toyamakabukasujiru-yamagata"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁とは？山形県のご当地の料理・グルメの一つになります。【No.6482】遠山かぶの粕汁に関する詳細な解説や知識などの情報を画像付きの図鑑形式で掲載しています。 | FOODRINK WORK 飲食グルメWEB図鑑",
+          "url": "https://foodrink.work/main/detail.php?id=6482"
+        },
+        {
+          "date": "2026-08-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁 レシピ | チャリム",
+          "url": "https://charim.soundedfun.dev/ja/recipe/kasujiru"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 18400,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 18400,
+    "cache_read_input_tokens": 5842,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 16566,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 16566,
+        "cache_read_input_tokens": 3838,
+        "input_tokens": 2,
+        "output_tokens": 338,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 478,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

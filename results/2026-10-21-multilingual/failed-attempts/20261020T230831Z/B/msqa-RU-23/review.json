@@ -1,0 +1,19 @@
+{
+  "billable_searches_in_invalid_attempt": 1,
+  "error_type": "URLError",
+  "group": "B",
+  "original_file_sha256": {
+    "audit/B/msqa-RU-23/dispatch.json": "447f491419f11547db26a2461c5c9cd55d7113c33be33ae64e94f239a2106657",
+    "audit/B/msqa-RU-23/mcp-count.txt": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+    "audit/B/msqa-RU-23/search.jsonl": "6f1890a7f09e5b7ff88930e19dc608593485914c588d89f17f720ad59d4d4d3d",
+    "audit/B/msqa-RU-23/stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "jsonl/B/msqa-RU-23.jsonl": "20fc29061674cfe2cb37e272d99b5890e40879718ad31069fd1b0103f5c35eaf",
+    "runs/B/msqa-RU-23.json": "6b67d75493b56ac8ac998c595dc9cef041614904781a6dec6c5a7780672cfacb"
+  },
+  "policy": "仅重跑此题一次；其余233份有效结果逐条校验后复用，模型/题库/提示词/搜索预算不变。",
+  "question_id": "msqa-RU-23",
+  "reason": "首个Search请求SSL意外断连，随后另一请求成功；整次作答按技术故障无效保留，不根据最终答案决定是否重跑。未确认网络端根因。",
+  "reason_type": "SSLEOFError",
+  "retry_number": 1,
+  "reviewer": "Codex日志核查，非人工"
+}

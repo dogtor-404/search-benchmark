@@ -1,0 +1,223 @@
+{
+  "answer": "**答：羊毛（lana，来自羊驼类动物，主要是美洲驼/llama），织成粗布「awasqa/ahuasca」。**\n\n在安第斯高地，普通百姓（下层阶级）的衣物用骆驼科动物的毛纤维织成的粗呢，即 awasqa；而棉花是沿海低地居民的衣料，细布 cumbi/qompi 则留给贵族。\n\n依据：\n- 「para la clase baja o gente del pueblo usaban tejidos burdos y comunes llamados ahuesca que provenían de la fibra animal de la llama」— https://dspace.uazuay.edu.ec/bitstream/datos/2591/1/09779.pdf\n- 「la lana en las tierras altas y el algodón en la costa」— http://www.ecured.cu/index.php?title=Incas&diff=prev&oldid=372748\n- Bernabé Cobo：「los de la Sierra… hacen sus ropas de lana」（沿海者穿棉，山区者穿毛）— https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.211,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.09782640000000001,
+      "inputTokens": 20515,
+      "maxOutputTokens": 32000,
+      "outputTokens": 764,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-34",
+  "raw": "jsonl/D2_prime/msqa-ES-34.jsonl",
+  "reported_cost_usd": 0.09782640000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7291,
+      "query": "Inca textiles lower classes highlands typical fabric clothing",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "costumes in Inca times",
+          "url": "https://www.investigacion.patrimoniocultural.gob.cl/sites/www.investigacion.patrimoniocultural.gob.cl/files/2025-01/libro_mostny_vf_baja.pdf#49#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"Los animales domesticos de la America precolombiana\" - Copiamos aquí, como pertinente a la materia de que trata-",
+          "url": "https://archive.org/stream/losanimalesdomes00latc/losanimalesdomes00latc_djvu.txt#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Modern field observation confirms what these ancient fragments suggest, namely, that the consumption of meat had marked overtone...",
+          "url": "https://https-www-cambridge-org-443.webvpn.ynu.edu.cn/core/services/aop-cambridge-core/content/view/8429ECA4E76EDD7C639653030E74E6C0/9780511558146c3_p72-96_CBO.pdf/local-and-exotic-components-of-llajta-economy.pdf#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Incans showed more concern for the fibers and woven goods that would",
+          "url": "https://minds.wisconsin.edu/bitstream/1793/75764/11/The%20Spanish%20Unraveling%20Of%20the%20Incan%20Empire%20The%20Importance%20of%20Fibers%20and%20Textiles%20of%20the%20Past%20by%20Rhonda%20R.%20Dass.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "INTRODUCTION",
+          "url": "https://museum.gwu.edu/sites/g/files/zaxdzs6286/files/2026-08/Weaving%20an%20Empire%20gallery%20guide.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "copiados en cerámica” (Milla, 2007)",
+          "url": "https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf?sequence=1&isAllowed=y#27#4"
+        },
+        {
+          "date": "2023-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Inka Unku: Imperial or provincial? State-local relations - To identify the state-imposed aesthetic in the production of the CV unku, we looked at the typologies proposed by John Rowe [7] ...",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280511#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El vestido de hombre y el de mujer, tanto del tejido fino como del común, constaba",
+          "url": "https://core.ac.uk/download/288876212.pdf#26#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La inclusión de túnicas militares a escala reducida probablemente creó una declaración de poder imperial, evidenciando gráficame...",
+          "url": "https://proa.org/images-exhibiciones/exhibicion_archivo_2_esp_1519.pdf#22#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "writings of some Spaniards who did not use the _qompi-’awasqa nomenclature_",
+          "url": "https://www.redalyc.org/pdf/2470/247018471004.pdf#4#5#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7032,
+      "query": "tejidos incas vestimenta clases bajas tela típica tierras altas Andes",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Diferencia entre revisiones de «Incas» - La indumentaria incaica era la típica de todos los pueblos andinos y los de la costa",
+          "url": "http://www.ecured.cu/index.php?title=Incas&diff=prev&oldid=372748#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Se ha escrito mucho sobre la importancia del tejido en los",
+          "url": "https://qhapaqnan.cultura.pe/sites/default/files/articulos/TextilesEIdentidadChimu.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No recibe tan bien el tinte el algodón como la lana; porque, puesto caso que cuando nuevo tiene los colores vi- vos, con el uso ...",
+          "url": "https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf#28#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Esta niña está envuelta con fajas y está acompañada de estatuillas que poseen la vestimenta Inca tradicional que incluye el uso ...",
+          "url": "https://dspace.uazuay.edu.ec/bitstream/datos/2591/1/09779.pdf#10#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "También se resalta su técnica de mejoramiento de especies agrícolas, conocían la influencia  de la temperatura del suelo que la ...",
+          "url": "https://red.minedu.gob.bo/profocom/download/eyJpdiI6Im0ySHZLTjZ5TVFoM3NCRGJDdjJGQXc9PSIsInZhbHVlIjoiWVdnY2pYMlBNQlFxd01TSnh5dDdqUT09IiwibWFjIjoiNGFjYjNkM2M4M2QyMWU2NDgxZmRkOGM4NDQ1YTk3YzM5MWE1OGQxZWU0MDFkMDkxZTE5ZWFmOTliZmM0ZTFjZSJ9#18#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los grupos humanos",
+          "url": "http://documentacion.cidap.gob.ec:8080/bitstream/cidap/451/2/Revista%2063-64%20completa.pdf#43#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los textiles eran muy apreciados dentro del imperio inca, en parte porque eran algo fáciles de transporte—y se fabricaban amplia...",
+          "url": "https://espanol.libretexts.org/@api/deki/pages/93822/pdf/25.3%253A%2bLos%2bIncas.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La inclusión de túnicas militares a escala reducida probablemente creó una declaración de poder imperial, evidenciando gráficame...",
+          "url": "https://proa.org/images-exhibiciones/exhibicion_archivo_2_esp_1519.pdf#22#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "copiados en cerámica” (Milla, 2007)",
+          "url": "https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf?sequence=1&isAllowed=y#27#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de uso de fibras debido al clima lluvioso que no permite conservar los",
+          "url": "https://repositorio.untrm.edu.pe/bitstream/handle/20.500.14077/712/FACEA_111.pdf?sequence=1&isAllowed=y#8#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 20515,
+    "iterations": [],
+    "output_tokens": 764,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

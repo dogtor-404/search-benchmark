@@ -1,0 +1,62 @@
+{
+  "answer": "按照项目要求用中文回复。\n\n我对这个术语不是百分之百确定，但据我所知：\n\n**“ภาพกาก”（kāk 图，即壁画中填补空白的附属/插科打诨式小图）**，是指泰国传统寺庙壁画中，画师在佛本生故事、宗教主图之间的空隙里，补写进去的日常生活、民俗或诙谐幽默的小场景（“กาก”有“残渣、剩余、边角料”之意，即“填空的杂图”）。\n\n一般泰国美术史教材里，把这类 **ภาพกาก 的出现归在“รัตนโกสินทร์（曼谷/拉达纳哥信王朝）时期”**，尤其是到拉玛三世（Rama III，1824–1851）前后，壁画里大量画入市井生活、商贩百工、幽默场面，成为特点。素可泰、阿瑜陀耶时期存世壁画本来就少，普遍认为这类“填空小图”是到了拉达纳哥信时期才明显兴盛起来。\n\n如果题目选项是素可泰 / 阿瑜陀耶 / 吞武里 / 拉达纳哥信，我会选 **拉达纳哥信（รัตนโกสินทร์）时期**。\n\n不过我不能上网查证，以上只是凭记忆，建议你用可靠教材或原文出处再核对一下。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.614,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.045276,
+      "inputTokens": 2064,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1851,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/D0_prime/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.045276,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2064,
+    "iterations": [],
+    "output_tokens": 1851,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "부대찌개는 전통 음식이라기보다 전후에 생긴 음식이에요. 한국전쟁(1950–1953) 이후인 1950년대 후반~1960년대 무렵에 등장한 것으로 알려져 있습니다.\n\n- **배경**: 전쟁 직후 식량이 부족하던 시기에, 미군 부대에서 나온 햄, 소시지, 베이컨, 통조림 콩 같은 식재료를 김치, 고추장, 두부, 라면 등 한국식 재료와 함께 끓여 먹은 것이 시작입니다.\n- **이름**: '부대'는 군 부대를 뜻하고, '부대고기', '존슨탕'(미국 대통령 린든 존슨에서 따온 별칭) 등으로도 불렸습니다.\n- **발상지 주장**: 서울 용산·이태원 일대, 경기도 의정부(의정부 부대찌개거리), 평택 등 미군 기지 주변이 대표적으로 거론되는데, 어느 곳이 최초인지는 확실하지 않습니다.\n\n정확한 최초 시점이나 최초로 만든 사람은 확실히 알지 못합니다. 위 내용은 제가 알고 있는 일반적인 설명입니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.809,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1764,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116268,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 441,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/0/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.0116268,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1764,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1764,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1764,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1764,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 441,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 441,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

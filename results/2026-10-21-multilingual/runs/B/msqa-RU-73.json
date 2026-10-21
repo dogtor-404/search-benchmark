@@ -1,0 +1,156 @@
+{
+  "answer": "**Алапаевская трагедия**. В церковной традиции также говорят «алапаевские мученики» или «алапаевские узники».\n\nТак называют убийство в ночь на 18 июля 1918 года. Это произошло через сутки после расстрела царской семьи в Екатеринбурге. Великую княгиню Елизавету Фёдоровну, великого князя Сергея Михайловича, князей Иоанна, Константина и Игоря Константиновичей, князя Владимира Палея и их спутников сбросили в шахту Нижняя Селимская близ Алапаевска.\n\nИсточники:\n- https://www.prlib.ru/history/1973788#1 (Президентская библиотека: «Убийство членов императорского дома Романовых под Алапаевском»)\n- https://vestarchive.ru/2013-3/2631-svidetelstva-alapaevskoi-tragedii-1918-g-v-fondah-krasnoiarskogo-kraevedcheskogo-myzeia.pdf (название «Алапаевская трагедия 1918 г.»)\n- http://eparchia.patriarchia.ru/db/print/4964123.html (Патриархия.ru: «Алапаевские страдальцы»)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.874,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 14804,
+      "cacheReadInputTokens": 5871,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.06597109999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 616,
+      "provider": "firstParty",
+      "thinkingTokens": 116,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/B/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.06597109999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.848,
+      "query": "убийство членов императорской семьи в шахте Алапаевск 1918 Алапаевская трагедия",
+      "results": [
+        {
+          "date": "2024-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Убийство членов императорского дома Романовых под Алапаевском - Убийство членов императорского дома Романовых под Алапаевском",
+          "url": "https://www.prlib.ru/history/1973788#1"
+        },
+        {
+          "date": "2026-07-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Алапаевске завершились \"Царские дни\"",
+          "url": "https://rg.ru/2026/07/19/reg-urfo/v-alapaevske-zavershilis-carskie-dni.html?mt_sub3=555&smartmedia_traffic=1&utm_campaign=smartmedia_cpc&utm_partner_id=555&utm_referrer=https%3A%2F%2Fsmartmedia.mail.ru&utm_source=smartmedia_mail_ru"
+        },
+        {
+          "date": "2025-07-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Алапаевске открыли выставку \"Путь к святости\"",
+          "url": "https://rg.ru/2025/07/17/reg-urfo/v-alapaevske-otkryli-vystavku-put-k-sviatosti.html?utm_source=rtravel#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лыкова Л. А., Мощанский А. Б. Как было раскрыто алапаевское преступление",
+          "url": "https://www.permgaspi.ru/deyatelnost/doklady-romanovskie-chteniya-2022/deyatelnost/pod-skipetrom-romanovyh-k-300-letiyu-provozglasheniya-rossii-imperiej/deyatelnost/doklady-romanovskie-chteniya-2022/pod-skipetrom-romanovyh-k-300-letiyu-provozglasheniya-rossii-imperiej/lykova-l-a-moschanskij-a-b-kak-bylo-raskryto-alapaevskoe-prestuplenie.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В деле № 21 представлены различные акты предварительного след- ствия: протоколы, постановления, переписка",
+          "url": "http://permgaspi.ru/images/vkma/romanov3.pdf#53#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "СВИДЕТЕЛЬСТВА АЛАПАЕВСКОЙ ТРАГЕДИИ 1918 Г. В ФОНДАХ КРАСНОЯРСКОГО КРАЕВЕДЧЕСКОГО МУЗЕЯ",
+          "url": "https://vestarchive.ru/2013-3/2631-svidetelstva-alapaevskoi-tragedii-1918-g-v-fondah-krasnoiarskogo-kraevedcheskogo-myzeia.pdf"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мощи святой Елисаветы принесены в Россию (комментарий в цифрах и фактах)",
+          "url": "https://sedmitza.ru/text/400056.html"
+        },
+        {
+          "date": "2021-05-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тайна старинной фотографии: что стало со следователями по делу убийства Романовых в Алапаевске",
+          "url": "https://www.ural.kp.ru/daily/27282/4418552/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "стырь Новомучеников и исповедни- ков Церкви Русской близ Алапаевска (Каменская епархия), построенный рядом с Нижне-Селимской шах...",
+          "url": "http://jmp.ru/archiv/2018_08.pdf#page=51#19#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Версия для печати / В день памяти преподобномучениц великой княгини Елисаветы и инокини Варвары Литургию на месте их убийства в городе Алапаевске возглавил митрополит Астанайский Александр / Новости / Епархии / Патриархия.ru",
+          "url": "http://eparchia.patriarchia.ru/db/print/4964123.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14804,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14804,
+    "cache_read_input_tokens": 5871,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12941,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12941,
+        "cache_read_input_tokens": 3867,
+        "input_tokens": 2,
+        "output_tokens": 409,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 616,
+    "output_tokens_details": {
+      "thinking_tokens": 116
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "화랑 정신的核心信条是**世俗五戒(세속오계)**,也叫花郎五戒,是新罗高僧圆光法师(원광법사)传授的。一般认为是在真平王时期(约600年前后),他把这五条教给了求教的年轻人贵山(귀산)和箒项(추항)。\n\n1. **事君以忠(사군이충)**:对君主、国家尽忠。\n2. **事亲以孝(사친이효)**:对父母尽孝。\n3. **交友以信(교우이신)**:与朋友交往讲信义。\n4. **临战无退(임전무퇴)**:临阵不退,勇敢作战。\n5. **杀生有择(살생유택)**:杀生要有所选择,不滥杀,体现佛教的慈悲。\n\n此外,崔致远在《鸾郎碑序》里把花郎的精神源头称为**风流道(풍류도)**,说它兼容儒、释、道三教的精华。这一点我记得大致如此,具体原文措辞我不敢保证准确。\n\n世俗五戒的出处是《三国史记》中贵山传的记载,我对大意有把握,但没法联网核对原文细节。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.162,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1758,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0145028,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 731,
+      "provider": "firstParty",
+      "thinkingTokens": 332,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/0/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.0145028,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1758,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1758,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1758,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1758,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 731,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 731,
+    "output_tokens_details": {
+      "thinking_tokens": 332
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

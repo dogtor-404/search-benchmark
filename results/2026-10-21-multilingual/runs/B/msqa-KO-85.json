@@ -1,0 +1,235 @@
+{
+  "answer": "**답: 현대, 6·25 전쟁(1950~53) 직후인 1950년대 말~1960년대입니다.** 조선시대 같은 전통 시대의 음식이 아닙니다.\n\n- 한국민족문화대백과사전은 6·25 전쟁 뒤 궁핍한 시기에 미군 부대의 햄·소시지로 만들기 시작했다고 설명합니다. 경기도 의정부에서 1960년대에 시작됐고, 1960년에 포장마차를 연 허기숙 씨가 원조로 꼽힙니다.\n- 디지털양주문화대전은 연원을 1950년 6·25 전쟁으로 봅니다.\n- 문헌마다 시점이 조금씩 다릅니다. 독립기념관 글은 이름과 대중화가 1970~80년대 이후라고 하고, 음식 자체는 1960년대에 생겼다고 봅니다.\n\n근거 URL:\n- https://encykorea.aks.ac.kr/Article/E0079968\n- https://www.grandculture.net/yangju/search/GC04301420\n- https://www.bbc.com/travel/article/20200609-how-a-south-korean-comfort-food-went-global\n- https://www.i815.or.kr/upload/kr/magazine/magazine/24/post-250.html\n\n검색은 2번 했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.029,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 29416,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1245075,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 625,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/B/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.1245075,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7146,
+      "query": "부대찌개 기원 유래 언제 등장 6.25 전쟁 이후",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "부대찌개 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0079968"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "부대찌개(部隊찌개)",
+          "url": "http://encykorea.aks.ac.kr/Article/E0079968"
+        },
+        {
+          "date": "2019-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[똑! 기자 꿀! 정보] 쌀쌀해지면 딱! ‘부대찌개’…지역 따라 입맛 따라",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=4306552&ref=A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "서지정보 내보내기 (Export)",
+          "url": "https://www.nculture.org/tag/cultureTagList.do?searchTag=%ec%86%8c%ec%9a%b8%ed%91%b8%eb%93%9c"
+        },
+        {
+          "date": "2021-11-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[김광회 독자마당] 6·25전쟁과 부대찌개",
+          "url": "https://kookbang.dema.mil.kr/newsWeb/20211118/1/BBSMSTR_000000010057/view.do"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "독립기념관 [Vol.12] 전쟁과 부대찌개",
+          "url": "https://www.i815.or.kr/upload/kr/magazine/magazine/24/post-250.html"
+        },
+        {
+          "date": "2001-10-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "［여적］부대찌개 - 창간 80주년 경향신문",
+          "url": "https://www.khan.co.kr/article/200110042002441#1"
+        },
+        {
+          "date": "2018-10-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "영남일보 - 사람과 지역의 가치를 생각합니다.",
+          "url": "https://www.yeongnam.com/web/view.php?key=20181010.010300815550001"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "부대찌개 - 디지털양주문화대전",
+          "url": "https://www.grandculture.net/yangju/search/GC04301420?collection=text&facet=times%3a%ea%b7%bc%eb%8c%80%2f%ea%b0%9c%ed%95%ad%ea%b8%b0%2cfield%3a%ec%83%9d%ed%99%9c%c2%b7%eb%af%bc%ec%86%8d%2ctimes%3a%ed%98%84%eb%8c%80%2f%ed%98%84%eb%8c%80&keyword=%ec%96%91%ec%a3%bc&page=1&pageSize=10"
+        },
+        {
+          "date": "2012-10-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[지지대] 부대찌개- ‘情’",
+          "url": "https://www.kyeonggi.com/article/201210040475334"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6547,
+      "query": "Budae-jjigae origin history Korean War 1950s Uijeongbu",
+      "results": [
+        {
+          "date": "2015-12-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Eat your way across Korea -- army base stew",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=131279"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "K-LOCAL FOOD TRIP 33",
+          "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?callmode=normal&catimage=&eclang=ko&Dir=927&um=s&start=30"
+        },
+        {
+          "date": "2020-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "How a South Korean comfort food went global",
+          "url": "https://www.bbc.com/travel/article/20200609-how-a-south-korean-comfort-food-went-global#1"
+        },
+        {
+          "date": "2025-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Budaejjigae: The West meets Korea in a Pot- VISITKOREA - - Search",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221258#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Delicious K-Food in K-Drama",
+          "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?callmode=normal&catimage=&eclang=ko&Dir=833&um=s&start=36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "부대찌개 - 한국민족문화대백과사전",
+          "url": "https://encykorea.aks.ac.kr/Article/E0079968"
+        },
+        {
+          "date": "2024-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Uijeongbu carries on culinary legacy as birthplace to Korea's comfort food, 'budae jjigae' - The Korea Times - Uijeongbu carries on culinary legacy as birthplace to Korea's comfort food, 'budae jjigae'",
+          "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20241114/uijeongbu-carries-on-culinary-legacy-as-birthplace-to-koreas-comfort-food-budae-jjigae?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id#1"
+        },
+        {
+          "date": "2012-06-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Uijeongbu restaurant owners take pride in ‘army base’ stew - Uijeongbu restaurant owners take pride in ‘army base’ stew",
+          "url": "https://www.koreaherald.com/article/10366489#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "부대찌개(部隊찌개)",
+          "url": "http://encykorea.aks.ac.kr/Article/E0079968"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Budae-jjigae - Budae-jjigae | encyclopedia article by TheFreeDictionary",
+          "url": "https://wwwencyclopedia.thefreedictionary.com/Budae-jjigae#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 29416,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 29416,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 27569,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 27569,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 463,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 625,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

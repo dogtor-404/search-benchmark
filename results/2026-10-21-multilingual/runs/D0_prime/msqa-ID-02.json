@@ -1,0 +1,62 @@
+{
+  "answer": "Tri Hita Karana（三项福祉/三因和谐）是巴厘岛印度教哲学中维持和谐、幸福生活的三个核心要素，分别是：\n\n1. **Parahyangan（帕拉希扬根）** — 人与神/灵性世界之间的和谐关系（对神明的虔诚与供奉）。\n2. **Pawongan（帕翁甘）** — 人与人之间的和谐关系（社会、群体中的和睦相处）。\n3. **Palemahan（帕莱马汉）** — 人与自然环境之间的和谐关系（保卫、维护大地与居所）。\n\n三者缺一不可，共同构成巴厘人生活（如村落、寺庙布局）和习俗的基础。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.204,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.014315999999999999,
+      "inputTokens": 2044,
+      "maxOutputTokens": 32000,
+      "outputTokens": 307,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/D0_prime/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.014315999999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2044,
+    "iterations": [],
+    "output_tokens": 307,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

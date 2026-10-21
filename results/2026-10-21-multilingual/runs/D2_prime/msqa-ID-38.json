@@ -1,0 +1,144 @@
+{
+  "answer": "**Cebong**（或 **Cebonger**）——这是印度尼西亚对佐科·维多多（Joko Widodo）支持者的专门称呼，在 2014 和 2019 年总统大选期间流行开来。其对立面是称呼普拉博沃支持者的「Kampret」。\n\n依据网址：https://id.wikipedia.org/wiki/Cebong_(julukan)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.966,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0403624,
+      "inputTokens": 8669,
+      "maxOutputTokens": 32000,
+      "outputTokens": 260,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-38",
+  "raw": "jsonl/D2_prime/msqa-ID-38.jsonl",
+  "reported_cost_usd": 0.0403624,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7519,
+      "query": "sebutan khusus pendukung Joko Widodo di Indonesia",
+      "results": [
+        {
+          "date": "2025-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bukan Cuma Projo, Ini 15 Organisasi Relawan Pendukung Jokowi - Advertisement",
+          "url": "https://www.inilah.com/daftar-organisasi-relawan-pendukung-jokowi#1"
+        },
+        {
+          "date": "2026-09-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gerindra Heran Jokowi Mau Dilabeli 'Cak Jancuk'",
+          "url": "https://www.rmoljatim.id/gerindra-heran-jokowi-mau-dilabeli-cak-jancuk-"
+        },
+        {
+          "date": "2026-09-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jusuf Kalla Singgung Istilah \\'Termul’, Siapa yang Dimaksud?",
+          "url": "https://www.tagar.id/jusuf-kalla-singgung-istilah-termul-siapa-yang-dimaksud"
+        },
+        {
+          "date": "2020-12-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Gatot Nurmantyo Imbau Hentikan Sebutan Kadrun dan Kampret - Gatot Nurmantyo Imbau Hentikan Sebutan Kadrun dan Kampret",
+          "url": "https://www.kompas.tv/nasional/131523/gatot-nurmantyo-imbau-hentikan-sebutan-kadrun-dan-kampret#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tag: dukungan alumni jatim",
+          "url": "https://pemilu.antaranews.com/tag/dukungan-alumni-jatim"
+        },
+        {
+          "date": "2026-04-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Melihat Reaksi Pendukung Jokowi Ketika Dipanggil Termul - Melihat Reaksi Pendukung Jokowi Ketika Dipanggil Termul",
+          "url": "https://olenka.id/melihat-reaksi-pendukung-jokowi-ketika-dipanggil-termul#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "maupun non verbal yang bertujuan mempengaruhi opini publik",
+          "url": "https://devjurnal.amikom.ac.id/index.php/pikma/article/download/391/147/1231#4#3"
+        },
+        {
+          "date": "2018-11-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Senyum Khas Jokowi Memberi Inspirasi Bagi Relawan",
+          "url": "https://www.jawapos.com/berita-sekitar-anda/0123009/senyum-khas-jokowi-memberi-inspirasi-bagi-relawan"
+        },
+        {
+          "date": "2019-02-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jokowi Diberi Gelar 'Cak' dan 'Jancuk' oleh Pendukung, Apa Maksudnya?",
+          "url": "https://news.detik.com/berita/d-4411649/jokowi-diberi-gelar-cak-dan-jancuk-oleh-pendukung-apa-maksudnya?page=komentar"
+        },
+        {
+          "date": "2019-05-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Cebong (julukan) - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Cebong_(julukan)"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8669,
+    "iterations": [],
+    "output_tokens": 260,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

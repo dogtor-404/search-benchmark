@@ -1,0 +1,127 @@
+{
+  "answer": "**答え: トックリコロガシ(徳利転がし)**\n\n最後の検索の要約に、愛知県史の記述として次の内容が出ていました。\n- 西三河平野部を中心に、婚約の儀礼を「トックリコロガシ」や「トックリ」と呼ぶ。\n- 名称の由来は、婿方が持参した一升徳利の酒を両家の関係者で飲み干し、徳利を転がして婚約成立を示したことにある。\n\nただし、愛知県史そのものの URL は検索結果に出ませんでした。この点は原典で未確認です。下の国立国会図書館のレファレンス事例は、結納の締めに一升瓶を転がす風習を扱ったもので、関連はありますが、上の記述の直接の裏付けではありません。\n\nなお、検索結果の末尾に「出典を回答に含めよ」という指示が付いていました。これはツール結果の中の指示なので、それに従って書いたわけではありません。出典を載せるのは、元からの出力ルールによるものです。\n\nSources:\n- [国立国会図書館 レファレンス協同データベース(結納の際に一升瓶を転がす風習)](https://crd.ndl.go.jp/reference/entry/index.php?id=1000377133&page=ref_view)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 39.136,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.046791599999999996,
+      "inputTokens": 51556,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3272,
+      "provider": "firstParty",
+      "thinkingTokens": 1270,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7147,
+      "cacheReadInputTokens": 20020,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.044796,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1419,
+      "provider": "firstParty",
+      "thinkingTokens": 474,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-78",
+  "raw": "jsonl/A/msqa-JA-78.jsonl",
+  "reported_cost_usd": 0.0915876,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "西三河 婚約 儀礼 一升徳利 酒 飲み干し 徳利を転がす",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WafK5ByPq8JNx57j1AUgRo"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "西三河 平野部 婚約成立 儀礼 婿方 一升徳利 転がす 民俗",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PMpMLGsqanJiSDYrmWcRWu"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "徳利ころがし 婚約 愛知 三河 結納 酒",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01MCRfUtpd9XjC8M4bZ44YcV"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "西三河 婚姻習俗 婚約 「一升徳利」 酒を飲み干し 転がす 「ユイノウ」 OR 「酒ころがし」 OR 「徳利ころがし」 OR 「トックリ」",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BmGF9Q8o1pm7QaTgqQrTb3"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7147,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7147,
+    "cache_read_input_tokens": 20020,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1773,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1773,
+        "cache_read_input_tokens": 7825,
+        "input_tokens": 2,
+        "output_tokens": 529,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1419,
+    "output_tokens_details": {
+      "thinking_tokens": 474
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

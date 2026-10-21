@@ -1,0 +1,136 @@
+{
+  "answer": "**답: 주머니(주머니류, 허리에 차는 주머니)일 가능성이 높습니다. 다만 검색으로는 확인하지 못했습니다.**\n\n검색 4번에서 신석기 시대에 돌도끼·칼·조리 도구를 허리에 묶어 운반했다는 자료는 나오지 않았습니다. 주머니라는 답은 제 추정입니다.\n\n확인된 것은 다음과 같습니다.\n- 한복에는 주머니(포켓)가 없어서, 한국 사람들은 허리에 끈으로 다는 주머니에 소지품을 넣어 다녔습니다. 이 사실은 박물관 자료에서 확인했습니다. 그 자료가 다루는 것은 조선 후기(약 1850~1900년)의 귀주머니 같은 자수 주머니입니다. 신석기 시대 유물은 아닙니다.\n- 신석기 석기를 사냥, 어로, 채집, 조리, 가공 도구로 나누어 보는 연구는 있습니다. 이 연구에도 운반 방식은 없습니다.\n\n질문이 뜻하는 수공예품이 주머니가 아니라 다른 것(예: 망태, 허리띠)일 수 있습니다. 정확한 답이 필요하면 질문의 출처 문서를 알려 주세요. 그 문서를 기준으로 다시 찾아보겠습니다.\n\nSources:\n- [V&A – Korean pouch (O22293)](https://collections.vam.ac.uk/item/O22293)\n- [V&A – Pouch (O1724848)](https://collections.vam.ac.uk/item/O1724848/pouch-pouch/)\n- [수장고에서 찾아낸 유물이야기 <34> 부산 산상 돌도끼와 숫돌](https://v.daum.net/v/20221227030220300)\n- [UBC MOA – Waist Bag N3.36](https://www.rrncommunity.org/items/30432/print)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 47.365,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.058933200000000005,
+      "inputTokens": 67587,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4349,
+      "provider": "firstParty",
+      "thinkingTokens": 1022,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8531,
+      "cacheReadInputTokens": 29473,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0520913,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1500,
+      "provider": "firstParty",
+      "thinkingTokens": 250,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-78",
+  "raw": "jsonl/A/msqa-KO-78.jsonl",
+  "reported_cost_usd": 0.1110245,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "신석기 시대 돌도끼 칼 사냥 조리 도구 허리에 묶어 운반 수공예품",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016YBPh4PJ1hatEHwXDW1rSU"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "신석기 시대 허리에 차는 도구 주머니 돌도끼 칼 운반 한국 전통 공예 기원 쌈지 OR 주머니 OR 망태",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01GUsMDbzFg5fK4R4nUFhaWA"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "주머니 기원 신석기 시대 돌도끼 칼 사냥 조리 도구 허리에 묶어 한국 수공예",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011dxKrHbak7cxrMZi98L8R2"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "Korean pouch origin Neolithic tied to waist carry stone axe knives hunting cooking tools",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RCeAkbKNhNnS2kme47bBzG"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "Jumeoni Korean pouch history Neolithic stone axes knives waist",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AxpgE1qYfcBfyJ96nHmtAt"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8531,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8531,
+    "cache_read_input_tokens": 29473,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1203,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1203,
+        "cache_read_input_tokens": 9779,
+        "input_tokens": 2,
+        "output_tokens": 685,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1500,
+    "output_tokens_details": {
+      "thinking_tokens": 250
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "answer": "**答案：ผีเสื้อ**（也简称“เสื้อ”）。5 次搜索已用完，这个答案只是部分得到证实，我没能直接查到皇家学术院词典的词条。\n\n- 《ศิลปวัฒนธรรม》的文章说，有些典籍把家庭或家宅的祖灵叫作“ผีเสื้อ”，也就是家族世代供奉的灵。文中还提到，这个词在兰甘亨第一碑铭和《三界经》（ไตรภูมิพระร่วง）里都出现过。“เสื้อเมือง”指守护城邑的祖灵，按同样的构词，守护家宅的就是 ผีเสื้อ。\n- 没有找到哪个来源直接写着“ผีเสื้อ = ผีเรือน”的释义。我也搜了“เสื้อเรือน”“ผีเหย้า”，都没有找到相关依据。\n\n依据的网址：\n- [“ผีเสื้อ” ผีบรรพบุรุษเก่าแก่ ที่มาของชื่อ “แมลงผีเสื้อ” – ศิลปวัฒนธรรม](https://www.silpa-mag.com/?p=105690)\n- [“ผี” เป็นอะไรได้บ้าง? ค้นความหมายอันหลายหลากของผี จากเอกสารโบราณ – ศิลปวัฒนธรรม](https://www.silpa-mag.com/?p=140646)\n- [ศิลปวัฒนธรรม：ผีเสื้อ 标签页](https://www.silpa-mag.com/tag/%e0%b8%9c%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%b7%e0%b9%89%e0%b8%ad)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 63.303,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0587591,
+      "inputTokens": 56826,
+      "maxOutputTokens": 128000,
+      "outputTokens": 6153,
+      "provider": "firstParty",
+      "thinkingTokens": 1504,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 10737,
+      "cacheReadInputTokens": 40498,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1351036,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2053,
+      "provider": "firstParty",
+      "thinkingTokens": 893,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-78",
+  "raw": "jsonl/A_prime/msqa-TH-78.jsonl",
+  "reported_cost_usd": 0.1938627,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "คำโบราณ หมายถึง ผีเรือน",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01A4nJMXqYrePdZDXCJ6sYz4"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"ผีเรือน\" คำโบราณ ราชบัณฑิต ผีเหย้า OR ผีเย้า OR ผีเสื้อเรือน",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LgRD7EUauA6rt8RyE2eLK4"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"(โบ) ผีเรือน\" OR \"ผีเรือน (โบ)\" พจนานุกรม",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01E84wvYxN1ZQ2NPPjGm8KV3"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "\"เสื้อเรือน\" ผีเรือน ความหมาย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015L3FbJtWu6iubok8kAx7qp"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "ผีเสื้อ คำโบราณ หมายถึง ผีเรือน ผีบรรพบุรุษ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01N7KCpmj2DUeVZmr5viTZMd"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10737,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10737,
+    "cache_read_input_tokens": 40498,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1971,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1971,
+        "cache_read_input_tokens": 11217,
+        "input_tokens": 2,
+        "output_tokens": 662,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 2053,
+    "output_tokens_details": {
+      "thinking_tokens": 893
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

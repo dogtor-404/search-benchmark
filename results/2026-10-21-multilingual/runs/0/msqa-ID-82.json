@@ -1,0 +1,74 @@
+{
+  "answer": "布吉语(Basa Ugi)属于南岛语系马来-波利尼西亚语支下的**南苏拉威西语群**,和下面这些语言关系最近:\n\n- **Campalagian(Campalagiang)**:一些分类里认为它和布吉语最近,甚至把两者归在同一个小分支。这一点我不是很确定。\n- **Mandar(曼达语)**:同属南苏拉威西语群,关系较近,但不能互通。\n- **Makassar(望加锡语)**:布吉语最常被拿来对比的邻居,两者长期接触,词汇互相借用不少,但不能互通。\n- **Toraja-Sa'dan(托拉查语)**和 **Massenrempulu 一带的语言(如 Enrekang、Duri)**:同属南苏拉威西语群,但关系比 Mandar 更远一些。\n\n布吉语和马来语、印尼语同属马来-波利尼西亚语支,但亲缘较远,不是近亲,不能互通。\n\n具体的内部分支结构,不同学者的分类不完全一致,我记不清细节,不敢给出确定的树状图。需要精确分类的话,得查 Glottolog 或相关语言学文献。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.598,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1762,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0172788,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1007,
+      "provider": "firstParty",
+      "thinkingTokens": 596,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/0/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.0172788,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1762,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1762,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1762,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1762,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 1007,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1007,
+    "output_tokens_details": {
+      "thinking_tokens": 596
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

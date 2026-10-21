@@ -1,0 +1,74 @@
+{
+  "answer": "퇴계 이황은 **1548년(명종 3년, 48세)**에 충청도 단양군수로 임명되었습니다. 같은 해 풍기군수로 옮기기 전까지 짧게 재직했습니다. 단양 재임 중 단양팔경을 명명하고 정비한 것으로 알려져 있습니다.\n\n다만 정확한 월(月)까지는 확실하지 않습니다. 연도는 1548년으로 알고 있습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.406,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0088068,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 163,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-75",
+  "raw": "jsonl/0/msqa-KO-75.jsonl",
+  "reported_cost_usd": 0.0088068,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 163,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 163,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

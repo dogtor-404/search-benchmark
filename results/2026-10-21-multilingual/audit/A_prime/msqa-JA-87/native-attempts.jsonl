@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "遠山かぶ 粕汁 発祥", "results": [], "status": "allowed", "tool_use_id": "toolu_01Kr8bGtbsGNn89Jb48d8Ugr"}
+{"billable": false, "call": 2, "query": "遠山かぶ 伝統野菜 粕汁", "results": [], "status": "allowed", "tool_use_id": "toolu_01L1EYLFzvCuJvAwfR9Mm6R7"}
+{"billable": false, "call": 3, "query": "\"遠山かぶ\"", "results": [], "status": "allowed", "tool_use_id": "toolu_013bLc78GuDXC7wU3FTkNt4n"}
+{"billable": false, "call": 4, "query": "遠山かぶの粕汁 山形県 農林水産省 うちの郷土料理 発祥", "results": [], "status": "allowed", "tool_use_id": "toolu_01LH3fxgS1WWDn2JvKXyLGfe"}
+{"billable": false, "call": 5, "query": "遠山かぶの粕汁 米沢市 遠山地区 歴史 由来", "results": [], "status": "allowed", "tool_use_id": "toolu_014ChqaB8BiBLPD9td9Nb131"}

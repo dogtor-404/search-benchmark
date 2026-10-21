@@ -1,0 +1,144 @@
+{
+  "answer": "이황(퇴계)은 **1548년(명종 3년) 1월**에 충청도 단양군수가 되었습니다. 구체적으로는 1548년 1월 24일 단양에 부임했으며, 그해 10월 21일 풍기군수로 옮겨가기까지 약 9개월간 재임했습니다.\n\n출처:\n- https://journal.kci.go.kr/insewtdgu/archive/articlePdf?artiId=ART003050910\n- https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003050910",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.41,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0321304,
+      "inputTokens": 5866,
+      "maxOutputTokens": 32000,
+      "outputTokens": 409,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-75",
+  "raw": "jsonl/D2_prime/msqa-KO-75.jsonl",
+  "reported_cost_usd": 0.0321304,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6361,
+      "query": "이황 단양군수 부임 시기",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "단양 1548 -단양군수 퇴계 이황을 논함- - KCI 등재",
+          "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003050910#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "동국대학교 동사사상연구소",
+          "url": "https://journal.kci.go.kr/insewtdgu/archive/articlePdf?artiId=ART003050910#6#1"
+        },
+        {
+          "date": "2016-06-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "'퇴계와 두향의 애절한 사랑'…단양 장회나루에 스토리텔링 공원 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20160624187400064"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "실록｣ 1546년(명종 1) 4월 26일)",
+          "url": "https://journal.kci.go.kr/insewtdgu/archive/articlePdf?artiId=ART003050910#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 디지털영주문화대전",
+          "url": "https://yeongju.grandculture.net/yeongju/toc/GC07400709"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "이황 - 디지털청송문화대전",
+          "url": "https://cheongsong.grandculture.net/cheongsong/index/GC06800657?category=%EC%9D%B8%EB%AA%85&depth=2&name=A~Z%2C0~9&page=123&search=%ED%97%88%EC%B0%AC"
+        },
+        {
+          "date": "2017-04-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "단양에 ‘퇴계·관기의 사랑’ 담은 공원 만들었다 - 창간 80주년 경향신문",
+          "url": "https://www.khan.co.kr/article/201704252139005#1"
+        },
+        {
+          "date": "2018-05-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "470년 전 단양군수 퇴계 이황의 '산수 유람'",
+          "url": "https://www.newsis.com/view/?id=NISX20180502_0000297579&cID=10806&pID=10800"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "단성면 < 고을설화 < 단양소개",
+          "url": "https://www.danyang.go.kr/dy21/772?action=read&action-value=50eae37f0fab7b4b97b5f2089d3e2e0c"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "디지털제천문화대전",
+          "url": "https://jecheon.grandculture.net/jecheon/index?category=%EC%A7%80%EB%AA%85%2F%EA%B8%B0%EA%B4%80%EB%AA%85&depth=2&name=A~Z%2C0~9&page=314&search=%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84%20%EC%B2%AD%ED%92%8D"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5866,
+    "iterations": [],
+    "output_tokens": 409,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

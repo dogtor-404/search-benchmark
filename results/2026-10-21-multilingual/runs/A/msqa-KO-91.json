@@ -1,0 +1,136 @@
+{
+  "answer": "지금까지 4번 검색했고, 답을 정리하는 중입니다.\n\n**답: 조대(條帶)**\n\n사규삼 위에 조대를 띠는 것으로 확인했습니다. 나무위키는 복건을 쓰고 사규삼을 입은 뒤 조대를 띤다고 설명합니다. 다만 나무위키는 편집 가능한 2차 자료입니다. 『가례』나 『사례편람』 원문에서 직접 확인하지는 못했습니다. 그래서 확실성은 중간 정도입니다.\n\n사규삼을 \"고정\"한다는 표현에 맞는 설명은 따로 찾지 못했습니다. 조대의 종류(세조대 등)도 확인하지 못했습니다.\n\nSources:\n- [사규삼 (r2 판) - 나무위키](https://namu.wiki/w/%EC%82%AC%EA%B7%9C%EC%82%BC?uuid=3ed30b0e-6cc8-4e8c-a251-8d2ade6240d3)\n- [한복/종류 - 나무위키](https://namu.wiki/w/%ED%95%9C%EB%B3%B5/%EC%A2%85%EB%A5%98)\n- [사규삼 - kculture](https://kculture.or.kr/brd/board/1077/L/menu/1067?brdType=R&thisPage=1&bbIdx=276&searchCategory1=993)\n- [Sagyusam - Wikipedia](https://en.wikipedia.org/wiki/Sagyusam)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 52.595,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0592135,
+      "inputTokens": 68255,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4776,
+      "provider": "firstParty",
+      "thinkingTokens": 1315,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9011,
+      "cacheReadInputTokens": 38364,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0534144,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1351,
+      "provider": "firstParty",
+      "thinkingTokens": 276,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-91",
+  "raw": "jsonl/A/msqa-KO-91.jsonl",
+  "reported_cost_usd": 0.1126279,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "관례 성인례 사규삼 띠 조대 사규삼 고정",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0163pyBG8Xz97FMMxnrprDrY"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "사규삼 띠 관례 복식 사규삼 허리에 두르는 띠 이름",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_014D7bp66Ujo468jvRqCzT3N"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Sagyusam belt tied coming-of-age ceremony Korea",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011vHSMqcawUWDoRC6Hasd68"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "사규삼 세조대 OR 광다회 OR 사규삼에 띠 관례 \"사규삼\" \"띠\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VLggyU1LGSH549JWKJEzfo"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "사규삼 위키백과 관례 때 입는 옷 허리에 띠 매고",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DvYXu6gLfY7goPJzbfAinm"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9011,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9011,
+    "cache_read_input_tokens": 38364,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1567,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1567,
+        "cache_read_input_tokens": 9895,
+        "input_tokens": 2,
+        "output_tokens": 656,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1351,
+    "output_tokens_details": {
+      "thinking_tokens": 276
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

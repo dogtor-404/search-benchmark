@@ -1,0 +1,62 @@
+{
+  "answer": "原出典是：\n\n**《後拾遺和歌集》卷第十三「恋三」第六六九番**（作者：藤原義孝／藤原義孝朝臣，954–974）。\n\n- 勅撰和歌集：**後拾遺和歌集**（藤原通俊撰，应德三年／1086年成书）\n- 卷：**第十三卷**\n- 部立：**恋三**\n- 歌番号：**669**\n\n《百人一首》第50番也收此歌，但《百人一首》是后世藤原定家的私撰选本，不是原出典，不能当作“原出典”来答。\n\n诚实说明：我离线凭记忆作答。集名和「恋三」我比较有把握；歌番号 669 是通行标注，但无法联网复核，若要绝对精确，建议以《新編国歌大観》或校注本核对。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 89.959,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.38728,
+      "inputTokens": 2015,
+      "maxOutputTokens": 32000,
+      "outputTokens": 18961,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-51",
+  "raw": "jsonl/D0/msqa-JA-51.jsonl",
+  "reported_cost_usd": 0.38728,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2015,
+    "iterations": [],
+    "output_tokens": 18961,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

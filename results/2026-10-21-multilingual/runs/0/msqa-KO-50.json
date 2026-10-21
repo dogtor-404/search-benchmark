@@ -1,0 +1,74 @@
+{
+  "answer": "我不确定\"꾸웨액\"是不是一个有固定含义的流行语,没有可靠的信息能确认它的出处。\n\n我只能从字面推测:它很像呕吐、干呕的拟声词\"우웩\"\"우웨엑\"的变体,常用来表示恶心、反感或受不了。如果它真是某个梗,可能是在这个基础上加了夸张的发音,但这只是推测,不是我确知的释义。\n\n如果你告诉我它出现的场景(比如哪个主播、视频或社区),我可以帮你结合上下文判断。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.312,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1755,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0123008,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 512,
+      "provider": "firstParty",
+      "thinkingTokens": 323,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-50",
+  "raw": "jsonl/0/msqa-KO-50.jsonl",
+  "reported_cost_usd": 0.0123008,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1755,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1755,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1755,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1755,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 512,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 512,
+    "output_tokens_details": {
+      "thinking_tokens": 323
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

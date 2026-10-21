@@ -1,0 +1,223 @@
+{
+  "answer": "**Тверь, 7 июля 1871 года.** Это был первый в России губернский съезд земских врачей (работал 7–9 июля), созванный по инициативе старшего врача Тверской губернской больницы Н. М. Павлова; его решения (программа медико-топографических описаний, обязательное оспопрививание, участки на 25 тыс. населения) стали образцом для врачебных съездов в других губерниях.\n\nВстречается и дата «7 июня 1871» — это, по-видимому, ошибка/разночтение в части краеведческих публикаций; первичный источник — «Протоколы губернского съезда земских врачей. 7–9 июля 1871 года» (Тверь, 1871).\n\nИсточники:\n- https://region.tverlib.ru/cgi-bin/fulltext_opac.cgi?show_article=1302 (энциклопедический справочник «Тверская область»)\n- https://kray.tverlib.ru/150-let-nazad-v-tveri-sostoyalsya-pervyy-v-rossii-gubernskiy-sezd-zemskikh-vrachey\n- https://elib.tverlib.ru/k_stanovleniyu_tverskoy_zemskoy_mediciny",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.911,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0777064,
+      "inputTokens": 16390,
+      "maxOutputTokens": 32000,
+      "outputTokens": 583,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-04",
+  "raw": "jsonl/D2/msqa-RU-04.jsonl",
+  "reported_cost_usd": 0.0777064,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.679,
+      "query": "первый съезд тверских земских врачей открылся город день",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Энциклопедический справочник \"Тверская область\". Статья",
+          "url": "https://region.tverlib.ru/cgi-bin/fulltext_opac.cgi?show_article=1302"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "К истории земской медицины",
+          "url": "https://elib.tverlib.ru/k_stanovleniyu_tverskoy_zemskoy_mediciny"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ТВЕРСКОЙ ОБЛАСТИ \"ОБЛАСТНАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА\"",
+          "url": "http://gbuz-okb-tver.ru/struktura/muzey-istorii-meditsiny/significant-dates/145-let-s-pervogo-sezda"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "практика лечебного и санитарного дела, противозпидемические",
+          "url": "http://gw.yma.ac.ru/elibrary/methodical_literature/624.pdf#58#34"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "150 лет назад В Твери состоялся первый в России губернский съезд земских врачей",
+          "url": "https://kray.tverlib.ru/150-let-nazad-v-tveri-sostoyalsya-pervyy-v-rossii-gubernskiy-sezd-zemskikh-vrachey"
+        },
+        {
+          "date": "2016-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Новости",
+          "url": "https://www.zsto.ru/press-center/news/news-zsto/andrej-epishin-pozdravil-tverskikh-medikov-s-professionalnym-prazdnikom/?special_version=N"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "у будущих защитников",
+          "url": "https://tbo.tverlib.ru/sites/default/files/2022-08/sbornik_bibliotechnye_chteniya_2021.pdf#15#13"
+        },
+        {
+          "date": "2021-01-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "150 лет - Муниципальная библиотечная система города Твери",
+          "url": "https://mbstver.ru/mc-events/150-let-9/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ДЕЯТЕЛЬНОСТЬ ТВЕРСКОГО ЗЕМСТВА В ОБЛАСТИ",
+          "url": "http://tvermedjournal.tvergma.ru/825/1/15.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>Петрункевич М",
+          "url": "https://projects.tverlib.ru/vibory/tverskoe_zemstvo/petrunkevich_3.pdf#1#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8506,
+      "query": "съезд земских врачей Тверской губернии 1871 образец для других губерний",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В конце 1860-х гг",
+          "url": "https://diss.unn.ru/files/2017/795/diss-Smirnova_-795.pdf#100#55"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "практика лечебного и санитарного дела, противозпидемические",
+          "url": "http://gw.yma.ac.ru/elibrary/methodical_literature/624.pdf#58#34"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Врачебные съезды далеко не сразу стали неотъемлемой частью земской жизни",
+          "url": "https://wiki.oldsaratov.ru/sites/default/files/attachs/saratovskiy_kraevedcheskiy_sbornik._vyp._5_2010.docx#66#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "вниманіем*ь земских*ь д*ьятелей, то періодическіе съ^вады не могут*ь",
+          "url": "https://docs.tverlib.ru/kraevedenie/ist_ocherk_dejatel_zemskih_uchrejdeni/10.pdf#24#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "у будущих защитников",
+          "url": "https://tbo.tverlib.ru/sites/default/files/2022-08/sbornik_bibliotechnye_chteniya_2021.pdf#15#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Во второй половине XIX в",
+          "url": "https://pureportal.spbu.ru/files/136015711/_2025.docx#57#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "в 1905 году",
+          "url": "https://diss.unn.ru/files/2017/795/diss-Smirnova_-795.pdf#100#95"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ДЕЯТЕЛЬНОСТЬ ТВЕРСКОГО ЗЕМСТВА В ОБЛАСТИ",
+          "url": "http://tvermedjournal.tvergma.ru/825/1/15.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Выставляя идеаломъ стационарную систему, при которой врачъ, какъ правило, оказываетъ помощь въ мёстё своего жительства, при боль...",
+          "url": "https://docs.tverlib.ru/kraevedenie/ist_ocherk_dejatel_zemskih_uchrejdeni/10.pdf#24#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "земскимъ учрежденіямъ предоставлено было закономъ право санитарной",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Medical_Heritage_Library_%28IA_63020890R.nlm.nih.gov%29.pdf#102#43"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 16390,
+    "iterations": [],
+    "output_tokens": 583,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

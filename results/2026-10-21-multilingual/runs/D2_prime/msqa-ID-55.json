@@ -1,0 +1,144 @@
+{
+  "answer": "**Jawaban:** Tarian/upacara Ma'bua dalam budaya Toraja diselenggarakan **12 tahun sekali** (setiap dua belas tahun).\n\n**Sumber:**\n- budaya-indonesia.org – \"Ma'bua\": \"Pada upacara Mabua diadakan setiap dua belas tahun…\" — https://budaya-indonesia.org/Ma-bua\n- budaya-indonesia.org – \"Bermacam suku Toraja\": \"Sebuah tarian yang disebut Ma'bua hanya bisa dilakukan 12 tahun sekali.\" — https://budaya-indonesia.org/Bermacam-suku-Toraja",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.199,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.042414400000000005,
+      "inputTokens": 8457,
+      "maxOutputTokens": 32000,
+      "outputTokens": 405,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-55",
+  "raw": "jsonl/D2_prime/msqa-ID-55.jsonl",
+  "reported_cost_usd": 0.042414400000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7085,
+      "query": "tarian Ma'bua budaya Toraja diselenggarakan berapa kali",
+      "results": [
+        {
+          "date": "2011-02-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toraja - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110302005315/http://en.wikipedia.org/wiki/Toraja#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ma'bua » Budaya Indonesia - Tarian",
+          "url": "https://budaya-indonesia.org/Ma-bua#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bermacam suku Toraja - Tarian",
+          "url": "https://budaya-indonesia.org/Bermacam-suku-Toraja#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut pendapat saya, pemerintah harus terus berusaha untuk mendidik para pemimpin di masyarakat Toraja agar secara bertahap me...",
+          "url": "https://lobo.journals.yorku.ca/index.php/default/article/download/207/216/379#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Definition and meaning of TORAJA - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://dictionary.sensagent.com/wiki/TORAJA/en-en/#2"
+        },
+        {
+          "date": "2026-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia - Sulawesi - Tana Toraja - Funeral Ceremony - Man With Buffalo - 302d - In the ritual called Ma'Nene, that takes place each year in August, the bodies of the deceased are exhumed to be washed, groomed...",
+          "url": "https://www.flickr.com/photos/asienman/54102490568/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**SOYANAN KASENDEAN**",
+          "url": "https://eprints.unm.ac.id/19861/1/JURNAL.pdf#3#1"
+        },
+        {
+          "date": "2026-08-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia - Sulawesi - Randau Batu - Toraja Funeral Ceremony - 276 - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://www.flickr.com/photos/98403995@N08/48685149201/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "orang Toraja saat ini yang melakukan ritus ma’ bua’ kasalle, hanya dalam jangka waktu",
+          "url": "https://media.neliti.com/media/publications/378809-none-7b4bb37b.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - tahun baru islam",
+          "url": "https://budaya-indonesia.org/cari?q=tahun%20baru%20islam&page=17&provinsi=28#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 8457,
+    "iterations": [],
+    "output_tokens": 405,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

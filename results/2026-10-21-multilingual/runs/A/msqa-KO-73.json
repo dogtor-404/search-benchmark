@@ -1,0 +1,100 @@
+{
+  "answer": "이황은 **1528년(중종 23년, 28세)**에 진사 회시에 급제했습니다.\n\n검색 결과 요약에 따르면, 이황은 1527년에 향시에서 진사시와 생원시 초시에 합격했습니다. 그 뒤 성균관에 들어갔고, 이듬해인 1528년에 진사 회시에 급제했습니다. 1528년은 \"다음 해\"라는 표현에서 계산한 값이며, 출처에 연도가 직접 적힌 것은 아닙니다. 검색 한 번으로 확인했고, 원문 페이지를 직접 열어 보지는 않았습니다.\n\nSources:\n- [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0046626)\n- [성균관대학교 소개](https://www.skku.edu/skku/about/s620/sub06_01.do)\n- [더위키 이황](https://thewiki.kr/w/이황)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.645,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117929,
+      "inputTokens": 14264,
+      "maxOutputTokens": 128000,
+      "outputTokens": 733,
+      "provider": "firstParty",
+      "thinkingTokens": 439,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 2595,
+      "cacheReadInputTokens": 6737,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.016511699999999997,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 545,
+      "provider": "firstParty",
+      "thinkingTokens": 127,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-73",
+  "raw": "jsonl/A/msqa-KO-73.jsonl",
+  "reported_cost_usd": 0.0283046,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "이황 진사 회시 급제 연도",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01GGdXpwMLM3N7bujpxwCkFH"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2595,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2595,
+    "cache_read_input_tokens": 6737,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 760,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 760,
+        "cache_read_input_tokens": 4286,
+        "input_tokens": 2,
+        "output_tokens": 460,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 545,
+    "output_tokens_details": {
+      "thinking_tokens": 127
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

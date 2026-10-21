@@ -1,0 +1,74 @@
+{
+  "answer": "花郎（화랑）精神的核心信条一般指**世俗五戒（세속오계）**。据《三国史记·贵山传》记载，新罗僧人**圆光法师（원광법사）**约在 600 年前后把它传授给青年贵山（귀산）和箒项（추항）。后来它被视为花郎道的行为准则：\n\n1. **事君以忠**（사군이충）：以忠诚侍奉君主\n2. **事亲以孝**（사친이효）：以孝道侍奉父母\n3. **交友以信**（교우이신）：以信义结交朋友\n4. **临战无退**（임전무퇴）：临阵不退缩\n5. **杀生有择**（살생유택）：杀生要有选择，不滥杀\n\n花郎团体的修行方式还有三条常被提到，见于《三国史记·真兴王条》：\n- **相磨以道义**：彼此以道义砥砺\n- **相悦以歌乐**：以歌舞音乐相互愉悦\n- **游娱山水，无远不至**：游历名山大川\n\n另外，崔致远在《鸾郎碑序》中把花郎的思想称为**\"风流道\"（玄妙之道）**，说它融合了儒、佛、道三教。\n\n**一个说明**：世俗五戒最初是圆光给贵山、箒项两个人的教诲。这两人是否是正式的花郎，史料没有明说。\"世俗五戒就是花郎的信条\"这种说法，主要来自后世（尤其是近现代）的概括。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.684,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1754,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.029953599999999997,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 780,
+      "provider": "firstParty",
+      "thinkingTokens": 268,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-19",
+  "raw": "jsonl/0_prime/msqa-KO-19.jsonl",
+  "reported_cost_usd": 0.029953599999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1754,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1754,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1754,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 780,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 780,
+    "output_tokens_details": {
+      "thinking_tokens": 268
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

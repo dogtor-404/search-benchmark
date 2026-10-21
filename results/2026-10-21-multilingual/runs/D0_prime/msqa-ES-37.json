@@ -1,0 +1,62 @@
+{
+  "answer": "在 Umbanda 内部语境里，“Macumba”（马库姆巴）主要指**仪式性的供奉/“活儿”（despacho、trabalho）**：把供品放到特定地点（路口、海边、墓地、树林等），尤其是献给“左线”神灵 Exu 和 Pomba Gira 的供品或请托性的法术工作。\n\n要点：\n\n- 日常/教外用法里，“macumba”常被贬义地泛指非洲裔巴西宗教或“黑魔法”；\n- 但在 Umbanda 内部，它通常指具体的**供奉仪式、despacho（投递/放置供品）或 trabalho（灵性工作）**，并不等同于 Umbanda 这个宗教本身；\n- 词源上可能来自班图语，原指一种打击乐器，后引申为伴随歌舞的宗教仪式。\n\n如果你这道题问的是标准答案里的“供奉/献祭（despacho）”，那就是这个意思；如果问的是更狭义的某一种“活儿”，我不完全确定题源用的是哪个表述。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.061,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.03836,
+      "inputTokens": 2045,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1509,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-37",
+  "raw": "jsonl/D0_prime/msqa-ES-37.jsonl",
+  "reported_cost_usd": 0.03836,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2045,
+    "iterations": [],
+    "output_tokens": 1509,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

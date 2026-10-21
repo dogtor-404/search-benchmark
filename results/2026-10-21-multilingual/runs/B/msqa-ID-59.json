@@ -1,0 +1,156 @@
+{
+  "answer": "**Andilau** adalah akronim dari **\"antara dilema dan galau\"**. Artinya kondisi bimbang, serba salah, dan gelisah karena harus memilih atau menghadapi situasi yang sulit. Istilah ini populer lewat sinetron \"Ganteng-Ganteng Srigala\".\n\nContoh pemakaian: \"Kayanya si Bobby lagi andilau nih.\"\n\nDi KBBI, \"andilau\" juga berarti nama sejenis pohon tinggi. Itu arti lain yang tidak terkait dengan kata gaul ini.\n\nSumber:\n- https://journal.lppmunindra.ac.id/index.php/SAP/article/download/1007/939\n- https://cimahi.pikiran-rakyat.com/intermezo/pr-515660294/39-arti-bahasa-gaul-2022-viral-di-sosmed-ambyar-sa-ae-sokap?page=all\n- https://kamusremajalengkap.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_360.html\n- https://dev.kbbi.web.id/andilau (arti pohon di KBBI)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.803,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6506,
+      "cacheReadInputTokens": 5838,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.031245799999999997,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 463,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-59",
+  "raw": "jsonl/B/msqa-ID-59.jsonl",
+  "reported_cost_usd": 0.031245799999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5441,
+      "query": "arti kata gaul Andilau",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kata jargon mengandung suatu bahasa, dialek, atau tutur yang dianggap kurang sopan atau aneh",
+          "url": "https://journal.lppmunindra.ac.id/index.php/SAP/article/download/1007/939#3#2"
+        },
+        {
+          "date": "2022-05-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa Arti Babayo Bahasa Gaul yang Sedang Viral di TikTok, Ternyata Berasal dari Bahasa Minang - Laros Media - Halaman 2",
+          "url": "https://www.laros.id/fakta-menarik/pr-2393350708/apa-arti-babayo-bahasa-gaul-yang-sedang-viral-di-tiktok-ternyata-berasal-dari-bahasa-minang?page=2"
+        },
+        {
+          "date": "2022-10-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "39 Arti Bahasa Gaul 2022 Viral di Sosmed: Ambyar, Sa Ae, Sokap",
+          "url": "https://cimahi.pikiran-rakyat.com/intermezo/pr-515660294/39-arti-bahasa-gaul-2022-viral-di-sosmed-ambyar-sa-ae-sokap?page=all"
+        },
+        {
+          "date": "2017-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penjelasan tentang Arti Kata Gaul \"Andilau\"",
+          "url": "https://kamusremajalengkap.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_360.html#comment-form"
+        },
+        {
+          "date": "2017-06-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penjelasan tentang Arti Kata Gaul \"Andilau\"",
+          "url": "https://bookculinario.blogspot.com/2017/06/penjelasan-tentang-arti-kata-gaul_247.html?m=1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti kata andilau - Kamus Besar Bahasa Indonesia (KBBI) Online",
+          "url": "https://dev.kbbi.web.id/andilau"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jawaban TTS",
+          "url": "https://kuncitts.com/jawaban-tts/bahasa-gaul-antara-dilema-dan-gaul"
+        },
+        {
+          "date": "2022-08-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50 Contoh Bahasa Gaul Di Indonesia",
+          "url": "https://www.yayaazura.com/2022/08/50-contoh-bahasa-gaul-di-indonesia.html?showComment=1659629398391&m=1#c1752912058438142989"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?d=175768&keyword=dihinakan#1"
+        },
+        {
+          "date": "2017-01-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sejumlah Rekanan di Duri Terkena Sakit ANDILAU dan Bolak Balik Masuk Rumah Sakit",
+          "url": "https://goriau.com/berita/baca/sejumlah-rekanan-di-duri-terkena-sakit-andilau-dan-bolak-balik-masuk-rumah-sakit.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6506,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6506,
+    "cache_read_input_tokens": 5838,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4676,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4676,
+        "cache_read_input_tokens": 3834,
+        "input_tokens": 2,
+        "output_tokens": 397,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 463,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

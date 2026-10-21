@@ -1,0 +1,118 @@
+{
+  "answer": "**答案：อยุธยา前期（สมัยอยุธยาตอนต้น）**，最早见于与佛教有关的壁画。\n\n依据是《ศิลปวัฒนธรรม》(Silpa-Mag) 一篇介绍 ภาพกาก 的文章，我看到的是 LINE Today 上的转载版。文章说这种画\"เชื่อว่าเริ่มปรากฏในสมัยอยุธยาตอนต้น\"，意思是一般认为始于阿瑜陀耶前期。ภาพกาก 是壁画里的配角，跟主线故事不一定有关。之所以叫\"กาก\"，是因为它们是主画画完以后补在剩余空白处的。\n\n这个结论只有这一篇文章支撑（原文和转载算同一处），我没找到第二个独立来源核对。另外，有人会以为是阿瑜陀耶后期，这篇文章并不这么说。共搜了 3 次。\n\n依据网址：\n- [“ภาพกาก” งานวาดที่แฝงไว้ในจิตรกรรมไทย ที่ไม่ได้ “กาก” ตามชื่อ（LINE Today 转载）](https://today.line.me/th/v3/article/RBVqooz)\n- [同一篇文章，Silpa-Mag 原文](https://www.silpa-mag.com/?p=158656)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 37.779,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0351358,
+      "inputTokens": 36018,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3068,
+      "provider": "firstParty",
+      "thinkingTokens": 1025,
+      "webSearchRequests": 3
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 6959,
+      "cacheReadInputTokens": 20028,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0780496,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 917,
+      "provider": "firstParty",
+      "thinkingTokens": 101,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/A_prime/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.11318540000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ภาพกาก จิตรกรรมฝาผนัง เริ่มปรากฏ สมัย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01GceBgZEiqrQw7a31z8rLkb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"ภาพกาก\" ปรากฏตั้งแต่สมัยอยุธยา",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01711R42FA9rXCKMHtf7nYaK"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "ภาพกาก ไม่ได้กากตามชื่อ ศิลปวัฒนธรรม เริ่มปรากฏสมัยอยุธยาตอนปลาย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017AWffvqFqTKrjbzHytC2mY"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6959,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6959,
+    "cache_read_input_tokens": 20028,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1965,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1965,
+        "cache_read_input_tokens": 7445,
+        "input_tokens": 2,
+        "output_tokens": 505,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 917,
+    "output_tokens_details": {
+      "thinking_tokens": 101
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

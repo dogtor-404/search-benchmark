@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：女性語（じょせいご），也叫女言葉（おんなことば）。**\n\nWikipedia 写明，日语里和女性相关的说法叫 onna kotoba（女言葉）或 joseigo（女性語）。男性的说法叫男性語，常被认为粗、直；女性語常被认为更有礼貌、更柔和。大阪艺大的报告举了几类例子：词前加表示礼貌的「お」，感叹词「あら」「まあ」，句末助词「わ」「だわ」「のよ」。\n\n搜了 1 次。\n\n依据的网址：\n- [Gender differences in Japanese - Wikipedia](https://en.wikipedia.org/wiki/Gender_differences_in_Japanese)\n- [大阪芸術大学 报告（tsukamoto_report_2019_13.pdf）](https://www.osaka-geidai.ac.jp/files/tsukamoto_report_2019_13.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.368,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0117535,
+      "inputTokens": 12445,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1018,
+      "provider": "firstParty",
+      "thinkingTokens": 114,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3347,
+      "cacheReadInputTokens": 6762,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0369844,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 442,
+      "provider": "firstParty",
+      "thinkingTokens": 22,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-36",
+  "raw": "jsonl/A_prime/msqa-JA-36.jsonl",
+  "reported_cost_usd": 0.0487379,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "女性語 女言葉 日本語 柔らかく丁寧 男性語",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JzCjXUiaAhReLUSWyU6Zg6"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3347,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3347,
+    "cache_read_input_tokens": 6762,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1487,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1487,
+        "cache_read_input_tokens": 4311,
+        "input_tokens": 2,
+        "output_tokens": 322,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 442,
+    "output_tokens_details": {
+      "thinking_tokens": 22
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

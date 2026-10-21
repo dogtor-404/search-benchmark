@@ -1,0 +1,144 @@
+{
+  "answer": "答案：**«Алапаевские мученики»**（阿拉帕耶夫斯克殉道者）。\n\n这是对 1918 年 7 月 18 日在乌拉尔阿拉帕耶夫斯克附近被杀害并投入矿井的皇室成员的通行简称。依据网址：\n\n- https://www.prlib.ru/history/1973788\n- https://smotrim.ru/audio/2428373",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.074,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.063136,
+      "inputTokens": 13171,
+      "maxOutputTokens": 32000,
+      "outputTokens": 497,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/D2_prime/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.063136,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6975,
+      "query": "расстрел членов императорской семьи шахта Урал лето 1918 Алапаевск мученики",
+      "results": [
+        {
+          "date": "2024-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Убийство членов императорского дома Романовых под Алапаевском",
+          "url": "https://www.prlib.ru/history/1973788#1"
+        },
+        {
+          "date": "2019-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Уроки истории. «Алапаевские мученики»: судьба членов царской семьи: слушать аудио на Smotrim",
+          "url": "https://smotrim.ru/audio/2428373#1"
+        },
+        {
+          "date": "2026-07-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Алапаевске завершились \"Царские дни\"",
+          "url": "https://rg.ru/2026/07/19/reg-urfo/v-alapaevske-zavershilis-carskie-dni.html?mt_sub3=555&smartmedia_traffic=1&utm_campaign=smartmedia_cpc&utm_partner_id=555&utm_referrer=https%3A%2F%2Fsmartmedia.mail.ru&utm_source=smartmedia_mail_ru"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "стырь Новомучеников и исповедни- ков Церкви Русской близ Алапаевска (Каменская епархия), построенный рядом с Нижне-Селимской шах...",
+          "url": "http://jmp.ru/archiv/2018_08.pdf#page=51#19#7"
+        },
+        {
+          "date": "2018-07-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Уроки истории. Молчаливая расправа над князьями Романовыми: слушать аудио на Smotrim",
+          "url": "https://smotrim.ru/audio/2352332#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Версия для печати / В день памяти преподобномучениц великой княгини Елисаветы и инокини Варвары Литургию на месте их убийства в городе Алапаевске возглавил митрополит Астанайский Александр / Новости / Епархии / Патриархия.ru",
+          "url": "http://eparchia.patriarchia.ru/db/print/4964123.html"
+        },
+        {
+          "date": "2018-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Заживо погребенные: что стало с членами царской семьи на Урале - Реклама",
+          "url": "https://iz.ru/806578/georgii-oltarzhevskii/zazhivo-pogrebennye-chto-stalo-s-chlenami-tcarskoi-semi-na-urale#1"
+        },
+        {
+          "date": "2023-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Благотворительная акция \"Белый цветок\" прошла в Алапаевске на платформе СМОТРИМ - Благотворительная акция \"Белый цветок\" прошла в Алапаевске",
+          "url": "https://smotrim.ru/journal/3459113#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Благовест-Инфо - Патриарх Кирилл освятил храмы в Алапаевске у мест мученичества Елизаветы Федоровны",
+          "url": "https://www.blagovest-info.ru/index.php?id=78825&print=1&s=3&ss=2#1"
+        },
+        {
+          "date": "2009-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Царская семья прошла курс реабилитации - Царская семья прошла курс реабилитации",
+          "url": "https://www.kommersant.ru/doc/1185117#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13171,
+    "iterations": [],
+    "output_tokens": 497,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

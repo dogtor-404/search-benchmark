@@ -1,0 +1,62 @@
+{
+  "answer": "据我所知，李滉（退溪，1501—1570）是在 **1548年（朝鲜明宗3年）** 出任忠清道丹阳郡守的，任职时间不长；1550年前后改任丰基郡守。\n\n我离线无法核对原始年谱，具体任命月份记不清；如果题目要求精确到月日，我不知道。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.284,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.05929999999999999,
+      "inputTokens": 1975,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2570,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-75",
+  "raw": "jsonl/D0/msqa-KO-75.jsonl",
+  "reported_cost_usd": 0.05929999999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1975,
+    "iterations": [],
+    "output_tokens": 2570,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

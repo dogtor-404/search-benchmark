@@ -1,0 +1,484 @@
+{
+  "answer": "我搜了 5 次,没有找到能直接证实这个说法的来源,所以下面的答案只是推测。\n\n**暂定答案:** 最接近的线索是 1500 年前后。一份研究西班牙巫术和妖术的文献说,1500 年有一道法令,规定占卜、施法者(*sortílegos*)由地方官(*corregidores*)和世俗司法审理。1520 年前后,这类案件才开始转给宗教裁判所。来源:\n- https://rua.ua.es/dspace/bitstream/10045/3910/2/Rico-Gimenez-Juan-t-2.pdf(这条是搜索结果里排第一的文件,摘要里没有出现这句话。出处是第二次搜索返回的一个文件,我没拿到它的网址,所以那句话我无法核对。)\n\n**没有证实的部分:**\n- 我没找到哪份资料同时写了“法官改由世俗人士担任”和“被告关进民用监狱以防逃跑”。\n- 搜到的资料里,宗教裁判所有自己的秘密监狱,用来隔离囚犯、防止逃跑(https://gredos.usal.es/bitstream/handle/10366/124236/DDPG_ToroMariaCecilia_Tesis.pdf)。这和你的问题方向相反。\n- 1500 年这个时间点只对应“由世俗司法审理”,不对应“被告关进民用监狱”,所以我对它没有把握。\n\n**需要你补充:** 你问的是西班牙哪个领域或哪类案件,比如巫术、宗教裁判所、中世纪法律或内战之后?补上这个,我可以重新搜。",
+  "argument_rejections": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "input": {
+        "query": "a partir de qué época los jueces fueron laicos y los reos encerrados en cárceles civiles por temor a la fuga, antes eclesiásticos obispos, España"
+      },
+      "query": "a partir de qué época los jueces fueron laicos y los reos encerrados en cárceles civiles por temor a la fuga, antes eclesiásticos obispos, España",
+      "results": [],
+      "status": "invalid_arguments"
+    }
+  ],
+  "budget_denials": [],
+  "elapsed_seconds": 33.234,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 73903,
+      "cacheReadInputTokens": 168836,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.3349096,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2239,
+      "provider": "firstParty",
+      "thinkingTokens": 1099,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-53",
+  "raw": "jsonl/B/msqa-ES-53.jsonl",
+  "reported_cost_usd": 0.3349096,
+  "search_argument_rejections": 1,
+  "search_attempts": 6,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7949,
+      "query": "jueces pasaron a ser laicos y los acusados fueron recluidos en cárceles civiles para evitar su fuga España",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "del estado y opiniones de aquellos tiempos\", que",
+          "url": "https://rua.ua.es/dspace/bitstream/10045/3910/2/Rico-Gimenez-Juan-t-2.pdf#48#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "elaborando al dictado de la experiencia sus normas y ordenanzas, perfilando una praxis",
+          "url": "https://gredos.usal.es:443/bitstream/handle/10366/124236/DDPG_ToroMariaCecilia_Tesis.pdf?sequence=1&isAllowed=y#100#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_sabía; concierto fue el crimen de entrambos: désele tormento y si confiesa, ahorcarle_",
+          "url": "https://www.tdx.cat/bitstream/handle/10803/117256/TJAFP.pdf?isAllowed=y&sequence=1#188#120"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de el siglo XII empezaron los Papas a poner limitacio- nes, todavía en 12 de Febrero de 1791 Carlos III, noti- cioso de que much...",
+          "url": "https://www.fiscal.es/documents/d/fiscal/memoria-1922-1#24#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "292    Poder, sociedad, religión y tolerancia en el mundo hispánico",
+          "url": "https://www.investintudela.com/archivos_publicos/qweb_paginas/17002/e2018rendiciontudela1512jelipe.pdf#392#59"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "40 Si el juez eclesiástico en vista de lo actuado por el secular deniega la consignación y pasa a formar instancia o á otro proc...",
+          "url": "https://gredos.usal.es/bitstream/handle/10366/19444/BG~2155.pdf?isAllowed=y&sequence=5#63#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LA CARCEL MUNICIPAL DEL JUZGADO CIVICO DE TULUM, QUINTANA ROO",
+          "url": "https://Tulum.gob.mx/Pdfs/2025/Planeacion/EVIDENCIAS%20DE%20LAS%20L%c3%8dNEAS%20DE%20ACCI%c3%93N%201er%20REPORTE%202025.pdf#28#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "25. «La honestidad pública y los miramientos debides al bello sexo, exigen que las prisiones de las mugeres sean diversas de las...",
+          "url": "https://bib-antonioreverte.um.es/Ficheros/Febrero/Febrero_Novisimo/T08_1846/Nov_Febrero_08.pdf#54#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Evidentemente, ese deseo mostrado por las nuevas autoridades provinciales de trasladar a otras provincias a los presos ya senten...",
+          "url": "https://mptmd.gob.es/content/dam/mpt/ministerio/participacion_proyectos/audiencia_informacion/proyectos/2026/c%C3%A1rcel-de-c%C3%A1ceres/expedienteCaceresCompilado.pdf#8#14#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_civiles en España (1931-1988)",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/71629/74276.pdf?sequence=4#180#189#180"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.776,
+      "query": "brujería España procesos jueces laicos acusados cárceles civiles en lugar de eclesiásticas evitar fuga siglo",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "IV.1 BRUJERÍA Y HECHICERÍA EN ESPAÑA: LOS PRIMEROS PASOS DE LA",
+          "url": "https://helvia.uco.es/bitstream/handle/10396/12669/2015000001103.pdf?sequence=1&isAllowed=y#119#50"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A diferencia de lo que había ocurrido durante todo el siglo XVI, en los primeros compases del siglo XVII, con la causa de Zugarr...",
+          "url": "https://www.navarra.es/documents/28412770/38519268/Maleficium_CAS.pdf/02401fea-3c91-54e8-003e-0e22cacbec1d?t=1724842989239#47#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "y la certeza que si decimos que va a ocurrir tal cosa por ejemplo va a llover etc",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/81011/LibroIII.pdf?sequence=1#44#88#44"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "15 “Por la ley presente mandamos que todo omme libre o siervo que por encantamiento o por ligamiento faze mal a los ommes o a la...",
+          "url": "https://www.acaderc.org.ar/wp-content/blogs.dir/55/files/sites/55/2019/12/artinstitutoistoriacuaderno16.pdf#49#40"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En efecto, si repasamos las sentencias, en el siglo XVI, cuando la Inquisición hace valer su jurisdicción, cuando se libra de la...",
+          "url": "https://www.navarra.es/documents/28412770/38519268/Maleficium_CAS.pdf/02401fea-3c91-54e8-003e-0e22cacbec1d?t=1724842989239#47#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de la brujería quedaría incompleta y sesgada porque existían también otras instan- cias judiciales con jurisdicción sobre ella",
+          "url": "https://ojs.ehu.eus/index.php/CC/issue/download/1926/190#63#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Aunque diferentes decretos papales y episcopales favore- cieron la persecución de la secta herética de las brujas des- de el sig...",
+          "url": "https://www.navarra.es/documents/28412770/38519268/Maleficium_CAS.pdf/02401fea-3c91-54e8-003e-0e22cacbec1d?t=1724842989239#47#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "las que se acordó que los delitos de brujería y otros quedaban fuera de la vía privilegiada y por tanto se les podía hacer juici...",
+          "url": "https://revistas.iea.es/index.php/ARG/article/view/2188/2179#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "La Inquisición se establece en España a través de la bula que el 1 de noviem- bre de 1478 el Papa Sixto IV concede a los Reyes C...",
+          "url": "https://ojs.ehu.eus/index.php/CC/issue/download/1948/207#41#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "de confesiones (1.802 autoinculpaciones más 5.000 acusaciones a otras personas) que se",
+          "url": "https://helvia.uco.es/bitstream/handle/10396/12669/2015000001103.pdf?sequence=1&isAllowed=y#119#25"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7642,
+      "query": "\"jueces\" \"laicos\" acusados \"cárceles civiles\" evitar fuga Inquisición española periodo",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "detuviese en la cárcel (9)",
+          "url": "https://78.47.66.34/es/download/LaInquisicion_11105873.pdf#56#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "en manos de una junta de dieciséis individuos, presidida por un magistrado de la Audiencia, y su sustento dependía de las",
+          "url": "https://zaguan.unizar.es/record/10396/files/TESIS-2013-038.pdf#218#144"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Guzman (Núñez de) profesor del príncipe Fernando, 146, 338.",
+          "url": "https://larramendi.es/es/catalogo_imagenes/grupo.do?path=1032578#92#89"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Y con mayor motivo por cuanto que, en materia de inserción de «jueces populares», el proceso penal francés, que no la estipula h...",
+          "url": "https://www.archive.org/download/0.-la-iglesia-ante-el-reto-de-la-historia-jean-dumont/0.%20La%20Iglesia%20ante%20el%20reto%20de%20la%20historia%20-%20Jean%20Dumont_text.pdf#72#37"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En todas las parroquias serán elegidos uno o dos sacerdotes y dos o tres laicos, gentes",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/2043855.pdf#5#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Inquisición y blasfemias en la Cataluña de los siglos XVI y XVII",
+          "url": "https://raco.cat/index.php/Pedralbes/article/download/234190/316404/#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TEMA 2: LAS JURISDICCIONES ESPECIALES MEDIEVALES: HERMANDAD E INQUISICIÓN",
+          "url": "https://wuolah.com/apuntes/historia-de-la-criminalidad-y-del-orden-publico-en-espana/tema-2-jurisdicciones-especiales-medievales-hermandad-inquisicion-pdf-11654732?_x_output_type_b6db407c4_=embedded_pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En cuanto a las condiciones de vida de los detenidos en las cárceles inquisitoriales, Solange Alberro realiza una excelente desc...",
+          "url": "http://bibliotecavirtual.dgb.umich.mx:8083/jspui/bitstream/DGB_UMICH/2404/1/IIH-M-2011-0005.pdf#29#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Revista de la Inquisición",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/7454262.pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_jueces de indiscutible integridad moral",
+          "url": "https://www.kerwa.ucr.ac.cr/server/api/core/bitstreams/eedfe9c4-87ec-4be1-8b42-1cd2393b57c0/content#4#3"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.7731,
+      "query": "Spanish Inquisition judges became laymen defendants held in civil prisons to prevent escape",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Otra de las condenas era la **de galeras**, a las que iban a remar algunos de los penitenciados; abolió la Inquisición la perpet...",
+          "url": "http://cdigital.dgb.uanl.mx/la/1080015878/1080015878.PDF#53#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "created regular Inquifitors should be forced to obey their Prelates in their Office, therefore the Popes exempted them, as to th...",
+          "url": "https://permalinkbnd.bnportugal.gov.pt/viewer/35570/download?file=ds-xviii-158_0000_capa-capa_t24-C-R0150.pdf&type=pdf&navigator=1#18#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "However, the Spanish Inquisition’s particular character derived not only from its wide",
+          "url": "https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1426&context=honorstheses#13#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "It is therefore somewhat remarkable that the claim of affording asylum was not made at the outset by the Inquisition, especially...",
+          "url": "https://dn790003.ca.archive.org/0/items/ahistoryoftheinq01leahuoft/ahistoryoftheinq01leahuoft.pdf#83#54"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"A history of the Inquisition of Spain\" - method  of  escaping  a  decision  and,  as  it  gradually,  for  the  most",
+          "url": "https://archive.org/stream/ahistoryoftheinq03leahuoft/ahistoryoftheinq03leahuoft_djvu.txt#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The history of the inquisition of Spain, from the time of its establishment to the reign of Ferdinand VII : composed from the original documents of the Archives of the Supreme Council and from those of subordinate tribunals of the Holy Office\" - amination, to  discover  his  ntotives  for  the  accusation",
+          "url": "https://archive.org/stream/historyinquisit01llorgoog/historyinquisit01llorgoog_djvu.txt#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Guzman (Núñez de) profesor del príncipe Fernando, 146, 338.",
+          "url": "https://larramendi.es/es/catalogo_imagenes/grupo.do?path=1032578#92#89"
+        },
+        {
+          "date": "2001-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish Inquisition - Wikipedia - Initially, each of the tribunals included two inquisitors, calificadors (qualifiers), an alguacil (bailiff), and a fiscal (prose...",
+          "url": "https://EN.m.wikipedia.org/wiki/Tribunal_of_the_Holy_Office_of_the_Inquisition#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "la herejía llamada del judaísmo; y aun se les pregunta adónde",
+          "url": "https://digibuo.uniovi.es/dspace/bitstream/handle/10651/3248/0666930.pdf?sequence=1&isAllowed=y#107#91"
+        },
+        {
+          "date": "2006-05-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish Inquisition - Spanish Inquisition | encyclopedia article by TheFreeDictionary",
+          "url": "https://wwwencyclopedia.thefreedictionary.com/Spanish+Inquisition#CITEREFGreen2007#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.8286,
+      "query": "jueces laicos reos cárceles civiles evitar fuga España Inquisición desde el siglo",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No hay otro medio, que aquel que los sagrados Cáñones y la disciplina eclesiástica han dictado hasta el siglo xv ; medio recomen...",
+          "url": "https://bvpb.mcu.es/es/catalogo_imagenes/grupo.do?path=167757&texto_busqueda#10#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "manera a lo largo del tiempo",
+          "url": "https://revistas.inah.gob.mx/index.php/cuicuilco/issue/download/318/238#55#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hay cárceles de la Inquisición, cárceles en los cuarteles, cárceles de",
+          "url": "https://www.cepc.gob.es/sites/default/files/2022-05/a-982-13-gente-forzada-del-rey.pdf#20#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Los jueces seculares graduaban la gravedad de estos delitos e imponían las penas establecidas en la ley, que eran las siguientes...",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/cbae7ab0-765d-49b3-9624-6cef871befd2/content#68#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Honorio III prosiguió fomentando la Inquisición, y protegiendo y favoreciendo á Santo Domingo de Guzmán y su orden de predicador...",
+          "url": "https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/grupo.do?path=10071348&posicion=1#89#69"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suplicamos a Vuestra Alteza mande proveer que en el oficio de la Santa Inquisición se proceda de manera que se guarde entera jus...",
+          "url": "https://bibliotecadigital.jcyl.es/jcyl/i18n/catalogo_imagenes/grupo.do?path=10127526#86#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EXPOSICIÓN – EXPOSITION – EXHIBITION",
+          "url": "http://www.bibliothecasefarad.com/wp-content/uploads/expo_octubre_2014_de_historia_y_modo_de_procesar.pdf#9#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "en la colección digital de la Universidad Autónoma de Nuevo León",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/84508/57092.pdf?sequence=4&isAllowed=y#27#175#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El tercero y último se limitó más bien a reprimir vicios nefundos y a cerrar el paso a la filosofía de Voltaire y a seguidores, ...",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/f14415d6-5724-44e9-b1fc-f2408ff2bd35/content#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "83:3 Historia crítica de la Inquisición en España I, opus cit",
+          "url": "https://digibug.ugr.es/bitstream/handle/10481/65376/74401.pdf?sequence=4#79#144#79"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 73903,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 73903,
+    "cache_read_input_tokens": 168836,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18559,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18559,
+        "cache_read_input_tokens": 57348,
+        "input_tokens": 2,
+        "output_tokens": 855,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 2239,
+    "output_tokens_details": {
+      "thinking_tokens": 1099
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

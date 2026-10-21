@@ -1,0 +1,74 @@
+{
+  "answer": "我对这个词没有十足把握，只能说一个大概的印象。\n\n济州方言里的\"몽케다\"（也写作\"몽캐다\"）我记得和标准语的\"뭉개다\"有关，意思是：\n- 把东西压烂、捏碎、弄扁；\n- 引申为在原地磨蹭、拖延，不肯动身。\n\n这个印象不够扎实，我可能把它和别的济州词混了，比如表示\"聚拢、成团\"的\"뭉치다\"一类的词。我也说不准它的具体用法和语境。\n\n要确认的话，可以查《济州语词典》（제주어사전，济州特别自治道出版）或国立国语院的方言资料。有具体句子的话，发给我，我可以根据上下文帮你推断。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.493,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1761,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.014094800000000001,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 689,
+      "provider": "firstParty",
+      "thinkingTokens": 434,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-36",
+  "raw": "jsonl/0/msqa-KO-36.jsonl",
+  "reported_cost_usd": 0.014094800000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1761,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1761,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1761,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1761,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 689,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 689,
+    "output_tokens_details": {
+      "thinking_tokens": 434
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

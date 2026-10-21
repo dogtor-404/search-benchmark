@@ -1,0 +1,144 @@
+{
+  "answer": "**Respuesta:** Entre los jóvenes españoles, el verbo «molar» (del caló *molar* ‘valer’) es un coloquialismo que significa **«gustar, resultar agradable o estupendo»**; se usa para expresar que algo te gusta mucho, te resulta atractivo o interesante (p. ej., «Me mola mucho esa chaqueta»). Funciona como sinónimo juvenil e informal de *gustar*.\n\n**Fuentes:**\n- DLE (RAE): https://dle.rae.es/molar\n- Enforex: https://www.enforex.com/espanol/blog/jerga-espanola/\n- INMSOL: https://www.inmsol.com/es/spanish-week-word/molar/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.094,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0350904,
+      "inputTokens": 6966,
+      "maxOutputTokens": 32000,
+      "outputTokens": 337,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-83",
+  "raw": "jsonl/D2_prime/msqa-ES-83.jsonl",
+  "reported_cost_usd": 0.0350904,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6957,
+      "query": "verbo \"molar\" significado jóvenes español",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "molar | Diccionario de la lengua española",
+          "url": "https://dle.rae.es/molar"
+        },
+        {
+          "date": "2008-11-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "mola mazo | FundéuRAE",
+          "url": "https://www.fundeu.es/consulta/mola-mazo-1048/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "del asunto",
+          "url": "https://is.muni.cz/th/jmg0f/Diplomova_prace_bez_priloh.pdf#17#4"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jerga española común | Enforex",
+          "url": "https://www.enforex.com/espanol/blog/jerga-espanola/"
+        },
+        {
+          "date": "2021-11-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Palabra de la semana: \"molar\".",
+          "url": "https://www.inmsol.com/es/spanish-week-word/molar/"
+        },
+        {
+          "date": "2025-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "A Quick Guide To Understanding Spanish-Speaking Millennials - Skip to main content",
+          "url": "https://www.babbel.com/learn-spanish/upper-intermediate/spanish-millennials?tcid=GiADGzzEqeGanGvWAI4igS0Qv9cKerF43KRSLdo9XvpHGCDvpz4ohqKZoYjp34QG&utm_campaign=Holiday_Content_Desktop&utm_content=1465995_22338600_3625180927&utm_medium=CON&utm_source=Taboola&utm_term=graytv-wtoc#1"
+        },
+        {
+          "date": "2024-12-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8 Slang-Wörter aus Spanien",
+          "url": "https://blog.duolingo.com/de/slang-woerter-aus-spanien/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Actas del XXXV Simposio Internacional de la Sociedad Española de Lingüística,",
+          "url": "https://buleria.unileon.es/bitstream/handle/10612/12692/Perez.pdf?sequence=1&isAllowed=y#2#1"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Spanish slang words and phrases | Enforex",
+          "url": "https://www.enforex.com/blog/spanish-slang/"
+        },
+        {
+          "date": "2023-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Slang och vardagliga uttryck på spanska",
+          "url": "https://inhispania.com/sv/slang-colloquial-expressions-spanish/?nonamp=1%2F"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6966,
+    "iterations": [],
+    "output_tokens": 337,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

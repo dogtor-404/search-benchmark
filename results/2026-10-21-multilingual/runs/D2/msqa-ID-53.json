@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** 这句马来谚语 **\"bulan naik, matahari naik\"** 的字面意思是“月亮升起，太阳也升起”，比喻**好运从四面八方一起到来：处处得利，左右逢源，福气接连不断**。\n\n两本权威词典的释义几乎一致：\n- 马来西亚语文出版局（DBP）《Kamus Istimewa Peribahasa Melayu》释义：**mendapat untung dan bahagia di kiri kanan**（左右两边都得到好处与幸福）。\n- 印尼 KBBI 释义：**mendapat untung di sana-sini**（到处得利）。\n\n**依据网址：**\n- https://prpm.dbp.gov.my/Cari1?d=82736&keyword=naik%3b\n- https://kbbi.guru/k/bulan%20naik%2C%20matahari%20naik\n- https://www.idntimes.com/life/education/peribahasa-dengan-kata-bulan-c1c2-01-bvjvf-c4kh7j",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.96,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0400584,
+      "inputTokens": 7313,
+      "maxOutputTokens": 32000,
+      "outputTokens": 516,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-53",
+  "raw": "jsonl/D2/msqa-ID-53.jsonl",
+  "reported_cost_usd": 0.0400584,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5874,
+      "query": "peribahasa \"bulan naik matahari naik\" makna",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?d=82736&keyword=naik%3b#1"
+        },
+        {
+          "date": "2022-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5 Peribahasa Menggunakan Kata 'Matahari', Sudah Tahu? - Baca artikel IDN Times lainnya di IDN App",
+          "url": "https://www.idntimes.com/life/education/peribahasa-menggunakan-kata-matahari-00-2lnkv-v3m4v2#1"
+        },
+        {
+          "date": "2021-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Peribahasa dengan Kata 'Bulan', Maknanya Beragam dan Menarik",
+          "url": "https://www.idntimes.com/life/education/peribahasa-dengan-kata-bulan-c1c2-01-bvjvf-c4kh7j"
+        },
+        {
+          "date": "2012-03-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Peibahasa Dewan (N)",
+          "url": "http://peribahasa-spm.blogspot.com/2012/03/peibahasa-dewan-n.html?m=0"
+        },
+        {
+          "date": "2009-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Memperkenalkan Peribahasa Jepun Digandingkan Dengan Peribahasa Melayu Siri 3",
+          "url": "http://sungaibatuderelong.blogspot.com/2009/11/memperkenalkan-peribahasa-jepun.html?m=0"
+        },
+        {
+          "date": "2021-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Peribahasa Bulan Naik, Matahari Naik",
+          "url": "https://pendidikan.infoasn.id/bulan-naik-matahari-naik/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Definisi halo bulan",
+          "url": "http://kamusbahasaindonesia.org/halo%20bulan/mirip"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Bulan Naik, Matahari Naik - KBBI.guru",
+          "url": "https://kbbi.guru/k/bulan%20naik%2C%20matahari%20naik?__cf_chl_f_tk=USmulTTEwARqhzLbtbK6xtpVM0g32O_jVzkjYtUl5es-1783410147-1.0.1.1-bcFRJ6sIScnKd0rRW70YnSgwBWf_eiV_UY.DC92VREI"
+        },
+        {
+          "date": "2026-07-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Interpreting Malay Cultural Wisdom Through Astronomical Phenomena",
+          "url": "https://bruneiastronomy.org/web/2026/07/interpreting-malay-cultural-wisdom-through-astronomical-phenomena/#content"
+        },
+        {
+          "date": "2024-09-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "120 Contoh Peribahasa Bahasa Indonesia & Artinya, Para Pelajar Harus Tahu - Iklan - Geser ke atas untuk melanjutkan",
+          "url": "https://www.merdeka.com/trending/120-contoh-peribahasa-bahasa-indonesia-artinya-para-pelajar-harus-tahu-198077-mvk.html#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.5794,
+      "query": "\"bulan naik matahari naik\" arti peribahasa",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?d=82736&keyword=naik%3b#1"
+        },
+        {
+          "date": "2021-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Peribahasa dengan Kata 'Bulan', Maknanya Beragam dan Menarik",
+          "url": "https://www.idntimes.com/life/education/peribahasa-dengan-kata-bulan-c1c2-01-bvjvf-c4kh7j"
+        },
+        {
+          "date": "2022-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "5 Peribahasa Menggunakan Kata 'Matahari', Sudah Tahu? - Baca artikel IDN Times lainnya di IDN App",
+          "url": "https://www.idntimes.com/life/education/peribahasa-menggunakan-kata-matahari-00-2lnkv-v3m4v2?page=all#1"
+        },
+        {
+          "date": "2009-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Memperkenalkan Peribahasa Jepun Digandingkan Dengan Peribahasa Melayu Siri 3",
+          "url": "http://sungaibatuderelong.blogspot.com/2009/11/memperkenalkan-peribahasa-jepun.html?m=0"
+        },
+        {
+          "date": "2021-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Peribahasa Bulan Naik, Matahari Naik",
+          "url": "https://pendidikan.infoasn.id/bulan-naik-matahari-naik/"
+        },
+        {
+          "date": "2021-08-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Peribahasa Dahulu Timah, Sekarang Besi",
+          "url": "http://pendidikan.infoasn.id/dahulu-timah-sekarang-besi/"
+        },
+        {
+          "date": "2026-07-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Interpreting Malay Cultural Wisdom Through Astronomical Phenomena",
+          "url": "https://bruneiastronomy.org/web/2026/07/interpreting-malay-cultural-wisdom-through-astronomical-phenomena/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa arti \"naik\" dalam bahasa Indonesia?",
+          "url": "https://wikilanguages.net/dic/indonesia.php?q=naik"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menconteng Arang Di Muka - KBBI.app",
+          "url": "https://kbbi.app/k/menconteng%20arang%20di%20muka"
+        },
+        {
+          "date": "2023-11-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Peribahasa Bagai Bulan Kesiangan - Konten dari Pengguna",
+          "url": "https://kumparan.com/berita-hari-ini/arti-peribahasa-bagai-bulan-kesiangan-21feYThzV98#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7313,
+    "iterations": [],
+    "output_tokens": 516,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

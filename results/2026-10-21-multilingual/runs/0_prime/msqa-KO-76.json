@@ -1,0 +1,74 @@
+{
+  "answer": "**계례（笄礼）**是朝鲜/韩国传统中女子的成年礼，依据《朱子家礼》及《四礼便览》等礼书：\n\n- **主人（主婦）**：由将行礼女子的**母亲**担任，主持整个仪式的筹备与迎宾。\n- **실제 시행 예（为女子加笄、念祝辞）的人**：称**「빈（賓）」**或**「계빈（笄賓）」**，从**亲戚中挑选贤淑、懂礼法的妇人**担任。\n\n所以如果问「주례」指的是**真正给女子行礼、加笄的人**，答案是**계빈**（亲戚中贤淑知礼的妇人）；如果指**仪式的主人**，则是**母亲**。\n\n我不确定这道题的标准答案是用哪一种说法。不同资料对「주례」这个词的用法可能不一样，我这里是凭记忆回答，没有查证。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.334,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1742,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0299576,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 785,
+      "provider": "firstParty",
+      "thinkingTokens": 465,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-76",
+  "raw": "jsonl/0_prime/msqa-KO-76.jsonl",
+  "reported_cost_usd": 0.0299576,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1742,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1742,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1742,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1742,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 785,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 785,
+    "output_tokens_details": {
+      "thinking_tokens": 465
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

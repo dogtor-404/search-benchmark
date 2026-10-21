@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** **Алапаевская трагедия**. Погибших обычно называют **алапаевскими мучениками**.\n\nВ ночь с 17 на 18 июля 1918 года под Алапаевском восемь человек бросили в шахту рудника, по большей части живыми. Среди них были великая княгиня Елизавета Фёдоровна, великий князь Сергей Михайлович, князья Иоанн, Константин и Игорь Константиновичи и князь Владимир Палей. В источниках шахту называют Нижне-Селимской.\n\nИсточники (сделан 1 поиск):\n- https://www.rg.ru/2023/07/18/reg-urfo/v-alapaevske-zavershaiutsia-sviato-elisavetinskie-chteniia.html\n- https://sedmitza.ru/text/400056.html\n- http://eparchia.patriarchia.ru/db/print/4964123.html\n\nСам термин «Алапаевская трагедия» я взял из собственных знаний. В найденных фрагментах дословно встречается только «алапаевские мученики».",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.399,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 12067,
+      "cacheReadInputTokens": 5867,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1075454,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 491,
+      "provider": "firstParty",
+      "thinkingTokens": 38,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/B_prime/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.1075454,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8677,
+      "query": "Алапаевская трагедия 1918 шахта великая княгиня Елизавета Фёдоровна",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Предстоятель Русской Церкви освятил храм в честь Феодоровской иконы Божией Матери в монастыре Новомучеников и исповедников Церкв...",
+          "url": "https://mospat.ru:443/ru/news/47308/pdf/#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Патриарший визит в Екатеринбургскую митрополию. Освящение храма в честь Феодоровской иконы Божией Матери в монастыре Новомучеников и исповедников Церкви Русской в Алапаевске",
+          "url": "https://foto.patriarchia.ru/church/sinodalnye-uchrezhdeniya/sinodalnyy-otdel-po-monastyryam-i-monashestvu/patriarshiy-vizit-v-ekaterinburgskuyu-mitropoliyu-osvyashchenie-khrama-v-chest-feodorovskoy-ikony-bozhiey-materi-v-monastyre-novomuchenikov-i-ispovednikov-tserkvi-russkoy-v-alapaevske/"
+        },
+        {
+          "date": "2023-07-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Алапаевске завершаются Свято-Елисаветинские чтения - изменить размер шрифта: 1.0x",
+          "url": "https://www.rg.ru/2023/07/18/reg-urfo/v-alapaevske-zavershaiutsia-sviato-elisavetinskie-chteniia.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Версия для печати / В день памяти преподобномучениц великой княгини Елисаветы и инокини Варвары Литургию на месте их убийства в городе Алапаевске возглавил митрополит Астанайский Александр / Новости / Епархии / Патриархия.ru",
+          "url": "http://eparchia.patriarchia.ru/db/print/4964123.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "приводит рассказ Рябова – одного из палачей алапаевских мучеников",
+          "url": "https://cultinfo.ru/doc/vrata_17.pdf#49#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В монастыре Новомучеников и исповедников Церкви Русской в Алапаевске молитвенно почтили день памяти преподобномученицы великой княгини Елисаветы",
+          "url": "http://eparchia.patriarchia.ru/db/print/5281289.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Православная Церковь чтит память преподобномучениц Елизаветы и Варвары",
+          "url": "https://orel-eparhia.ru/news/3405"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "стырь Новомучеников и исповедни- ков Церкви Русской близ Алапаевска (Каменская епархия), построенный рядом с Нижне-Селимской шах...",
+          "url": "http://jmp.ru/archiv/2018_08.pdf#page=51#19#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Мощи святой Елисаветы принесены в Россию (комментарий в цифрах и фактах)",
+          "url": "https://sedmitza.ru/text/400056.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "20/07/2021",
+          "url": "https://www.orthodoxianewsagency.gr/pdf.php?id=453989#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12067,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12067,
+    "cache_read_input_tokens": 5867,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10208,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10208,
+        "cache_read_input_tokens": 3863,
+        "input_tokens": 2,
+        "output_tokens": 362,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 491,
+    "output_tokens_details": {
+      "thinking_tokens": 38
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

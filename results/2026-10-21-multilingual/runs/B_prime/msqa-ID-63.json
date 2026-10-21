@@ -1,0 +1,235 @@
+{
+  "answer": "Babi biasanya dipelihara oleh kaum perempuan di **rumah perempuan (homea/homi)**. Separuh rumah itu dikhususkan untuk babi. Kalau babinya sudah jinak, babi itu dilepas ke hutan sekitar atau dimasukkan ke kandang (*wam ibam*) di dekat rumah atau di luar kampung.\n\nSumber utamanya Wikipedia bahasa Prancis. Dua sumber lain mendukung, tetapi tidak menyebut \"separuh homea\" secara langsung:\n\n- Wikipedia (Prancis), artikel \"Yali\": babi dipelihara perempuan dan tinggal di homea, separuhnya khusus untuk babi. https://fr.wikipedia.org/wiki/?title=Yali&oldid=182519823\n- Disertasi Peyon (LMU München): babi kecil disekat di sudut rumah (*kanggok*), lalu dibuatkan kandang di belakang rumah. https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf\n- Jurnal USTJ: satu kampung Yali terdiri atas yowi, homi, tempat bakar batu, dan kandang babi (*wam ibam*). http://ojs.ustj.ac.id/dinamis/article/download/518/382\n\nSaya memakai 2 dari 5 kali pencarian.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.584,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 21224,
+      "cacheReadInputTokens": 19059,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1893478,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 786,
+      "provider": "firstParty",
+      "thinkingTokens": 149,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-63",
+  "raw": "jsonl/B_prime/msqa-ID-63.jsonl",
+  "reported_cost_usd": 0.1893478,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7726,
+      "query": "suku Yali memelihara babi di",
+      "results": [
+        {
+          "date": "2012-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali — Wikipédia - Wam, le porc en Yali, est très important pour les villageois",
+          "url": "https://fr.wikipedia.org/wiki/?title=Yali&oldid=182519823#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anwesendheit im Balim-Tal hatten einige Kriegsparteien in diesem Bereich schon Frieden",
+          "url": "https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf#100#43"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali, Ninia in Indonesia - Ninia Yali in Indonesia",
+          "url": "https://joshuaproject.net/index.php/people_groups/15965/ID#1"
+        },
+        {
+          "date": "2021-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "شعب يالي - ويكيبيديا",
+          "url": "https://ar.m.wikipedia.org/wiki/%D8%B4%D8%B9%D8%A8_%D9%8A%D8%A7%D9%84%D9%8A"
+        },
+        {
+          "date": "2012-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Why pigs are important in Papua? Wealth, height and reproductive success among the Yali tribe of West Papua - PubMed - . 2013 Jul;11(3):382-90.\ndoi: 10.1016/j.ehb.2012.02.008. Epub 2012 Mar 7. \n\n# Why pigs are important in Papua? Wealth, height an",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22445059/#1"
+        },
+        {
+          "date": "2009-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Una tribu indígena de Papúa Nueva Guinea ingresa en 'Gran Hermano' - Actualizado 21/10/2009 23:29",
+          "url": "https://www.europapress.es/tv/noticia-tribu-indigena-papua-nueva-guinea-ingresa-gran-hermano-20091021212947.html#1"
+        },
+        {
+          "date": "2023-03-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali – Wikipedija",
+          "url": "https://hr.m.wikipedia.org/wiki/Yali"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wo soll ich denn hingehen",
+          "url": "https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf#100#63"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "This religious workflows is generally based on myths which interpret or explain present about human self-reported activities as ...",
+          "url": "https://hugo.lv/lv/TranslateProxy/https/web.archive.org/web/20060818143535/http%3a//www.papuaweb.org/dlib/irian/17.pdf#18#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Why pigs are important in Papua? Wealth, height... : Economics & Human Biology",
+          "url": "https://www.ovid.com/journals/ecohbi/abstract/10.1016/j.ehb.2012.02.008~why-pigs-are-important-in-papua-wealth-height-and?redirectionsource=fulltextview"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6815,
+      "query": "suku Yali babi dipelihara di rumah perempuan",
+      "results": [
+        {
+          "date": "2012-04-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali — Wikipédia - Wam, le porc en Yali, est très important pour les villageois",
+          "url": "https://fr.wikipedia.org/wiki/?title=Yali&oldid=182519823#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Anwesendheit im Balim-Tal hatten einige Kriegsparteien in diesem Bereich schon Frieden",
+          "url": "https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf#100#43"
+        },
+        {
+          "date": "2013-12-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali – Wikipedija / Википедија",
+          "url": "https://sh.wikipedia.org/wiki/Yali"
+        },
+        {
+          "date": "2023-03-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali – Wikipedija",
+          "url": "https://hr.m.wikipedia.org/wiki/Yali"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "memegang peranan penting bagi pemilikan",
+          "url": "http://ojs.ustj.ac.id/dinamis/article/download/518/382#4#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Neben dem sakralen Männerhaus (usa ibam) gibt es auch ein Kriegshaus, genannt tugi",
+          "url": "https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf#100#36"
+        },
+        {
+          "date": "2026-01-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Yali people — Grokipedia - Fact-checked by Grok 8 months ago",
+          "url": "https://grokipedia.com/page/Yali_people#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Masyarakat Kabupaten Jayawijaya terdiri dari 3 (tiga) suku besar yaitu suku Dani, suku Yali, dan suku Ngalum",
+          "url": "https://openresearch-repository.anu.edu.au/bitstreams/5930e44e-e9a7-4d7f-8e38-c595e6cb0096/download#6#19#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wo soll ich denn hingehen",
+          "url": "https://edoc.ub.uni-muenchen.de/25641/7/Peyon_Apayuk_Ibrahim.pdf#100#63"
+        },
+        {
+          "date": "2024-04-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Meaning of “Pigs” in the Socio-Cultural Perspective of Papuan People",
+          "url": "http://westpapuavoice.ac/social-culture/the-meaning-of-pigs-in-the-socio-cultural-perspective-of-papuan-people/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 21224,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 21224,
+    "cache_read_input_tokens": 19059,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10007,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10007,
+        "cache_read_input_tokens": 13221,
+        "input_tokens": 2,
+        "output_tokens": 539,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 786,
+    "output_tokens_details": {
+      "thinking_tokens": 149
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

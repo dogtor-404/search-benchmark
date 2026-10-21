@@ -1,0 +1,74 @@
+{
+  "answer": "我不确定这个问题的答案，下面只是我的推测。\n\n“แดกงา”（ขนมแดกงา / ข้าวแดกงา）是用糯米和芝麻捣成的传统小吃。“แดก”在泰语里是比较粗俗的“吃”，所以有商贩改用更礼貌的同义词来称呼。我**推测**是把“แดก”换成“กิน”或“ทาน”，叫作 **“ขนมกินงา”** 或 **“ข้าวทานงา”**。\n\n但我不记得实际流行的是哪一个叫法，也可能是别的词。没有联网核实，请不要把这当作确定答案。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.258,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1808,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0257856,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 550,
+      "provider": "firstParty",
+      "thinkingTokens": 325,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-54",
+  "raw": "jsonl/0_prime/msqa-TH-54.jsonl",
+  "reported_cost_usd": 0.0257856,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1808,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1808,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1808,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1808,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 550,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 550,
+    "output_tokens_details": {
+      "thinking_tokens": 325
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

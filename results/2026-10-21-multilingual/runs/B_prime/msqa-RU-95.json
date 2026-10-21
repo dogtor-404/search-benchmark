@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** это **прецедентный текст**. Так называют текст, на который ссылаются многие, потому что считают его важным для своей культуры. Его понимают как законченный и самодостаточный продукт речемыслительной деятельности: (поли)предикативную единицу и сложный знак, смысл которого не равен сумме значений его частей. Такой текст хорошо знаком любому среднему члену лингвокультурного сообщества (термин ввёл Ю. Н. Караулов, определение есть у Д. Б. Гудкова и Ю. Е. Прохорова).\n\nИспользован 1 поиск из 5.\n\n**Источники:**\n- https://kartaslov.ru/карта-знаний/Прецедентные+тексты (пересказ статьи Википедии «Прецедентные тексты»)\n- https://www.ntspi.ru/storage/files/01JHSXKNKQCWD3GKJN51MG3RGD.pdf (ссылка на Гудкова, 2003, с. 172)\n- https://elib.sfu-kras.ru/bitstream/handle/2311/141880/lipina_liliya_iya17-03b.pdf (ссылка на Прохорова, 2016, с. 150)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.797,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9540,
+      "cacheReadInputTokens": 5863,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0891686,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 583,
+      "provider": "firstParty",
+      "thinkingTokens": 91,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-95",
+  "raw": "jsonl/B_prime/msqa-RU-95.jsonl",
+  "reported_cost_usd": 0.0891686,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7213,
+      "query": "текст законченный и самодостаточный продукт речемыслительной деятельности определение",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В соответствии с мнением исследователя, прецедентный текст представляет собой «законченный и самодостаточный продукт речемыслите...",
+          "url": "https://elib.sfu-kras.ru:443/bitstream/handle/2311/141880/lipina_liliya_iya17-03b.pdf?sequence=1&isAllowed=y#11#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прецедентные феномены могут быть как вербальными, так и",
+          "url": "https://elib.bsu.by/bitstream/123456789/175446/1/Balabanovich_thesis.pdf#31#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прецедентный текст как законченный и самодостаточный продукт речемыслительной деятельности, хорошо известный любому члену лингво...",
+          "url": "https://elib.sfu-kras.ru/bitstream/handle/2311/147980/gabec.pdf?sequence=1#26#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "разнообразные тексты как продукты речемыслительной деятельности, к невербальным – произведения живописи, скульптуры, архитектуры...",
+          "url": "https://www.ntspi.ru/storage/files/01JHSXKNKQCWD3GKJN51MG3RGD.pdf#26#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Под прецедентным текстом понимается «законченный и самодостаточный",
+          "url": "https://www.dnu.dp.ua/docs/visnik/ffil/program_56a887602c343.pdf#95#81"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прецедентные тексты — Карта знаний",
+          "url": "https://kartaslov.ru/%d0%ba%d0%b0%d1%80%d1%82%d0%b0-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b9/%D0%9F%D1%80%D0%B5%D1%86%D0%B5%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5+%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%8B"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прецедентный текст - законченный и самодостаточный продукт речемыслительной деятельности; сложный знак, сумма значений компонент...",
+          "url": "http://elib.kspu.ru/get/149958#8#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1.1. Текст как лингвистическая категория",
+          "url": "https://cito-web.yspu.org/link1/metod/met143/node3.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Исследования ученых данного явления охватывает широкий временной спектр и вызывает интерес не только у лингвистов, но и литерату...",
+          "url": "https://elar.uspu.ru/bitstream/ru-uspu/57174/2/20Prokudina.pdf#12#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "преобразование \"текст-мысль\"",
+          "url": "https://essuir.sumdu.edu.ua/bitstream-download/123456789/17593/1/1984.pdf;jsessionid=3529BFA21F06F9121ADC82CB9EB84B53#84#77"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9540,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9540,
+    "cache_read_input_tokens": 5863,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7685,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7685,
+        "cache_read_input_tokens": 3859,
+        "input_tokens": 2,
+        "output_tokens": 409,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 583,
+    "output_tokens_details": {
+      "thinking_tokens": 91
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

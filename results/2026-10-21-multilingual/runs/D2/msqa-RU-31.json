@@ -1,0 +1,381 @@
+{
+  "answer": "**答案：** 这类 9 月 30 日（儒略历 9 月 17 日，纪念圣 Веры、Надежды、Любви 与 Софии 的日子）的农村青年聚会，通常叫 **«деревенские святцы»**（“乡村 святцы”，即乡村青年相亲集会）。同一个场合还有另一个常用的说法是 **«вечерины»**（晚间聚会、相亲会），此外也有 «девичьи посиделки» 这种说法。\n\n依据：\n- https://tolknews.ru/obsestvo/63810-narodnie-primeti-sentyabrya-na-vselenskie-babi-imenini — “В этот день в селениях устраивали ‘деревенские святцы’. Молодежь собиралась вечером вместе и присматривала себе пару.”\n- https://vesti-yamal.ru/ru/vjesti_jamal/primety_na_30_sentyabrya_pochemu_nuzhno_plakat_v_den_very_nadezhdy_lyubvi/ — “А перед закатом солнца проходили «вечерины». Так называли смотрины…”\n- https://sovainfo.ru/news/narodnye-primety-na-30-sentyabrya-2025-goda-chto-nelzya-delat-v-etot-den/ — “В селах устраивали ‘деревенские святцы’. Молодежь собиралась, чтобы себя показать и на других посмотреть.”",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.124,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 19200,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.149804,
+      "inputTokens": 29036,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1491,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-31",
+  "raw": "jsonl/D2/msqa-RU-31.jsonl",
+  "reported_cost_usd": 0.149804,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0.003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7439,
+      "query": "30 сентября сельские сборы молодёжи девушки читали заговоры на любовь как назывались",
+      "results": [
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народный праздник 30 сентября: что можно и что категорически нельзя делать",
+          "url": "https://www.mk-mari.ru/social/2026/09/29/vselenskie-babi-imeniny-30-sentyabrya-kak-prazdnuyutsya-i-chego-nelzya-delat.html"
+        },
+        {
+          "date": "2022-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября: почему нужно плакать в день Веры, Надежды, Любви",
+          "url": "https://vesti-yamal.ru/ru/vjesti_jamal/primety_na_30_sentyabrya_pochemu_nuzhno_plakat_v_den_very_nadezhdy_lyubvi/"
+        },
+        {
+          "date": "2022-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября. Не обижаем дам, чествуем Веру, Надежду, Любовь и Софию",
+          "url": "https://proseverouralsk.ru/novosti/primety-na-30-sentyabrya-ne-obizhaem-dam-chestvuem-veru-nadezhdu-lyubov-i-sofiyu-/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ольга Крючкова - Славянские обряды, заговоры и ворожба - KnigaRead",
+          "url": "https://knigaread.com/religija-i-duhovnost/jezoterika/page-4-163460-olga-kryuchkova-slavyanskie-obryady-zagovory-i-vorozhba.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Заговоры",
+          "url": "https://ussur.vvsu.ru/files-signed/11813170-EA4F-4F99-8A4F-9EAB0678D595.pdf#14#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЗАГОВОРЫ  ОДНОЙ  БАБУШКИ",
+          "url": "https://lib.aldebaran.ru/trial/txt/72795970.a4.pdf#1#1#1"
+        },
+        {
+          "date": "2026-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В народной традиции - Бабий праздник или Летние Кузьминки , считался днём защиты брака, домашней птицы и ремесел,... | Интересный контент в группе Лавка ЗЕЛЁНОЙ ВЕДЬМЫ в ОК (Одноклассники) - В народной традиции - Бабий праздник или Летние Кузьминки , считался днём защиты брака, домашней птицы и ремесел, большинство за...",
+          "url": "https://ok.ru/group/70000041290137/topic/158126332223641#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Заговоры | это... Что такое Заговоры?",
+          "url": "https://humanities_dictionary.academic.ru/225"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Rusalka songs",
+          "url": "https://www.encyclopediaofukraine.com/pages%5cR%5cU%5cRusalkasongsIT.htm"
+        },
+        {
+          "date": "2026-08-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Суеверия и приметы дня (Никола Осенний)... | Интересный контент в группе Магия слова - заговоры-молитвы-обереги.",
+          "url": "https://ok.ru/magiyaslo/topic/158232761636170"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7233,
+      "query": "30 сентября на Руси девичьи посиделки заговоры на любовь название",
+      "results": [
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народный праздник 30 сентября: что можно и что категорически нельзя делать",
+          "url": "https://www.mk-mari.ru/social/2026/09/29/vselenskie-babi-imeniny-30-sentyabrya-kak-prazdnuyutsya-i-chego-nelzya-delat.html"
+        },
+        {
+          "date": "2022-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября: почему нужно плакать в день Веры, Надежды, Любви",
+          "url": "https://vesti-yamal.ru/ru/vjesti_jamal/primety_na_30_sentyabrya_pochemu_nuzhno_plakat_v_den_very_nadezhdy_lyubvi/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Славянские обряды, заговоры и ворожба. - Славянские обряды, заговоры и ворожба.",
+          "url": "https://sv-scena.ru/Buki/Slavyanskiye-obryady-zagovory-i-vorozhba.86.html#1"
+        },
+        {
+          "date": "2024-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы на 30 сентября: почему нужно плакать в день Веры, Надежды, Любви Родная сторона",
+          "url": "https://rod-storonatar.ru/narodnye-primety-na-30-sentyabrya-pochemu-nuzhno-plakat-v-den-very-nadezhdy-lyubvi/"
+        },
+        {
+          "date": "2018-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды и Любови - Любовь Малахова (Соловьева) | OK - День Веры, Надежды и Любови",
+          "url": "https://ok.ru:443/l.malakhovasolovyeva/statuses/68939726315733?st.layer.lg.ftid=0&st.layer.lg.fp=0#1"
+        },
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября: день Веры, Надежды, Любви Родная сторона",
+          "url": "https://rod-storonatar.ru/primety-na-30-sentyabrya-den-very-nadezhdy-lyubvi/"
+        },
+        {
+          "date": "2021-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сильные ритуалы и заговоры на Веру, Надежду и Любовь помогут наладить личную жизнь » Информационно аналитический портал «Твоя Свободная трибуна» - Главные новости » Эксклюзив » Сильные ритуалы и заговоры на Веру, Надежду и Любовь помогут наладить личную жизнь",
+          "url": "https://triboona.ru/exclusive/208627-silnye-ritualy-i-zagovory-na-veru-nadezhdu-i-lyubov-pomogut-naladit-lichnuyu-zhizn.html#1"
+        },
+        {
+          "date": "2016-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вера, Надежда, Любовь: приметы и традиции",
+          "url": "https://podrobnosti.ua/2134568-vera-nadezhda-ljubov-primety-i-traditsii.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://beta.baltija.eu/news/print/44001"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "10. Формула уподобления: Пусть скачет баба на печи, как лист в печи 929",
+          "url": "https://inslav.ru/images/stories/pdf/2003_Polesskie_zagovory.pdf#159#144"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7075,
+      "query": "\"деревенские святцы\" 30 сентября молодёжь собиралась",
+      "results": [
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народный праздник 30 сентября: что можно и что категорически нельзя делать",
+          "url": "https://www.mk-mari.ru/social/2026/09/29/vselenskie-babi-imeniny-30-sentyabrya-kak-prazdnuyutsya-i-chego-nelzya-delat.html"
+        },
+        {
+          "date": "2021-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы 30 сентября на Вселенские бабьи именины",
+          "url": "https://tolknews.ru/obsestvo/63810-narodnie-primeti-sentyabrya-na-vselenskie-babi-imenini"
+        },
+        {
+          "date": "2022-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30 сентября: традиции и обычаи дня",
+          "url": "https://zainsk-inform.ru/news/news/30-sentiabria-tradicii-i-obycai-dnia"
+        },
+        {
+          "date": "2024-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы на 30 сентября. Что нужно сделать в день Веры, Надежды, Любови",
+          "url": "https://tolknews.ru/obsestvo/177286-narodnie-primeti-na-sentyabrya-chto-nuzhno-sdelat-v-den-veri-nadezhdi-lyubvi"
+        },
+        {
+          "date": "2023-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы на 30 сентября 2023. Приметы на Вселенские бабьи именины",
+          "url": "https://tolknews.ru/obsestvo/154499-narodnie-primeti-na-sentyabrya-primeti-na-vselenskie-babi-imenini"
+        },
+        {
+          "date": "2025-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы на 30 сентября 2025 года: что нельзя делать в этот день",
+          "url": "https://sovainfo.ru/news/narodnye-primety-na-30-sentyabrya-2025-goda-chto-nelzya-delat-v-etot-den/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Последние новости за день в Самаре и Самарской области — События, происшествия, аналитика | СОВА - главные новости Самары",
+          "url": "https://sovainfo.ru/news/narodnye-primety-na-30-sentyabrya-2025-goda-chto-nelzya-delat-v-etot-den/?special=Y"
+        },
+        {
+          "date": "2018-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Что можно и что нельзя делать в праздник Веры, Надежды и Любви - Что можно и что нельзя делать в праздник Веры, Надежды и Любви",
+          "url": "https://kp.ua/life/588109-chto-mozhno-y-chto-nelzia-delat-v-prazdnyk-very-nadezhdy-y-luibvy#1"
+        },
+        {
+          "date": "2020-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды и Любови: что можно и нельзя делать 30 сентября",
+          "url": "https://biwork.ru/news/cto-po-narodnym-primetam-mozno-i-nelza-delat-30-sentabra"
+        },
+        {
+          "date": "2015-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды, Любови и Софии: традиции праздника - День святых великомучениц Веры, Надежды, Любови и матери их Софии отмечается среди православных в среду",
+          "url": "https://podrobnosti.ua/2062302-den-very-nadezhdy-ljubovi-i-sofii-traditsii-prazdnika.html#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.8271,
+      "query": "\"вечерины\" 30 сентября Вера Надежда Любовь смотрины девушки заговоры",
+      "results": [
+        {
+          "date": "2022-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября: почему нужно плакать в день Веры, Надежды, Любви",
+          "url": "https://vesti-yamal.ru/ru/vjesti_jamal/primety_na_30_sentyabrya_pochemu_nuzhno_plakat_v_den_very_nadezhdy_lyubvi/"
+        },
+        {
+          "date": "2023-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы 30 сентября: не делайте этого в день Веры, Надежды, Любови и матери их Софии, если не хотите беды в семье - ГТРК «Ставрополье» ВЕСТИ Ставропольский край - 29.09.2023, 17:05 25008",
+          "url": "https://vesti26.ru/news/187082#1"
+        },
+        {
+          "date": "2026-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Приметы на 30 сентября: день Веры, Надежды, Любви Родная сторона",
+          "url": "https://rod-storonatar.ru/primety-na-30-sentyabrya-den-very-nadezhdy-lyubvi/"
+        },
+        {
+          "date": "2023-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "День Веры, Надежды и Любови: что обязательно нужно сделать 30 сентября",
+          "url": "https://vesti-yamal.ru/ru/vjesti_jamal/den_very_nadezhdy_i_lyubovi_chto_obyazatelno_nuzhno_sdelat_30_sentyabrya/"
+        },
+        {
+          "date": "2024-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Народные приметы на 30 сентября: почему нужно плакать в день Веры, Надежды, Любви Родная сторона",
+          "url": "https://rod-storonatar.ru/narodnye-primety-na-30-sentyabrya-pochemu-nuzhno-plakat-v-den-very-nadezhdy-lyubvi/"
+        },
+        {
+          "date": "2023-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сегодня с утра нужно поплакать и тогда весь год пройдет счастливо и спокойно Родная сторона",
+          "url": "https://rod-storonatar.ru/segodnya-s-utra-nuzhno-poplakat-i-togda-ves-god-projdet-schastlivo-i-spokojno/"
+        },
+        {
+          "date": "2016-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вера, Надежда, Любовь: приметы и традиции",
+          "url": "https://podrobnosti.ua/2134568-vera-nadezhda-ljubov-primety-i-traditsii.html"
+        },
+        {
+          "date": "2025-10-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пресс-центр - Лента новостей Чувашии",
+          "url": "https://cheb-news.net/society/2025/10/02/192705.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://beta.baltija.eu/news/print/47007"
+        },
+        {
+          "date": "2018-01-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Портал русской общины Эстонии - Сегодня",
+          "url": "https://beta.baltija.eu:443/news/read/47007"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 19200,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 29036,
+    "iterations": [],
+    "output_tokens": 1491,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

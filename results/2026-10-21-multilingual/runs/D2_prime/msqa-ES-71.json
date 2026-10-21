@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** 是「思考」（pensar bien / Yachay）和「感受」（sentir bien / Munay）。\n\n根据安第斯哲学家 Javier Lajo Lazo 对 Sumak Kawsay 的阐释，「把事情一起做好」是「思考得好」与「感受得好」之间平衡的产物，也就是 **Yachay（思想/理性）与 Munay（感受/情感）** 两者的平衡。\n\n**依据网址：**\n- https://www.voltairenet.org/Un-modelo-sumaq-kawsay-de-gobierno （\"hacer juntos y bien las cosas… como producto del equilibrio entre el pensar bien y el sentir bien o equilibrio entre el Yachay y el Munay\"）\n- https://www.cusco.gob.pe/wp-content/uploads/transparencia/2016/R.A.2016/R.A.325-2016.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.733,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 14208,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.10042960000000001,
+      "inputTokens": 20067,
+      "maxOutputTokens": 32000,
+      "outputTokens": 866,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-71",
+  "raw": "jsonl/D2_prime/msqa-ES-71.jsonl",
+  "reported_cost_usd": 0.10042960000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7657,
+      "query": "Sumak kawsay dos dimensiones pensamiento humano equilibrio sentir pensar razón",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Para alcanzar esa conexión con la pacha y volver al Sumak Kawsay, existen cuatro acciones que nos permiten renunciar y reiniciar...",
+          "url": "https://repositorio.una.ac.cr/server/api/core/bitstreams/aff361f3-5e4b-4fdf-8958-e9d97fa47f7c/content#45#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lajo Lazo, el Sumak kawsay puede ser entendido como el pensar bien, sentir bien para",
+          "url": "https://revistas.uarm.edu.pe/index.php/silex/article/download/48/32#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>Lista original de Nussbaum (2012: 31-33)</td><td>Espejo desde la Selva Viviente</td></tr><tr><td></td><td>y de gr...",
+          "url": "https://minerva.usc.gal/rest/api/core/bitstreams/46842f78-f60d-4745-a970-c6b956b24ee2/content#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sumak Kawsay entre el post-desarrollismo occidental y la Filosofía Andina* - Según Ortiz (2009), el SK debería ser entendido como un principio y parte de una filosofía de vida, derivada y asociada a su vez...",
+          "url": "https://www.redalyc.org/journal/3578/357863763010/movil/#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Además de intercultural, el diálogo en el Sumak Kawsay es necesariamente polilógico, es decir, que se construye desde el encuent...",
+          "url": "https://caongd.org/wp-content/uploads/2016/10/HEGOA_Ecuador.pdf#61#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Este vivir bien y buen vivir se diferencia de la “bue- na vida” del pensamiento keynesiano⁴, y toma como fundamento nuestras cul...",
+          "url": "https://www.idep.edu.co/sites/default/files/Revista23.pdf#32#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "E pistemologías relacionales desde el pensamiento de culturas y civilizaciones milenarias",
+          "url": "https://editorial.unicatolica.edu.co/omp/index.php/Sello_Editorial/catalog/download/267/365/1639?inline=1#53#34"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "que valoren como objetivo de vida deseable y construir un porvenir compartido, propone el",
+          "url": "http://repository.pedagogica.edu.co/bitstream/handle/20.500.12209/18668/De-mentes%20Conscientes%20SIN%20RAE%202023.pdf?isAllowed=y&sequence=7#10#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "41 Para inquietos, al final se incluye una breve explicación conceptual desde la referencia de",
+          "url": "https://bibliotecadigital.univalle.edu.co/server/api/core/bitstreams/5c4389ad-671c-4179-bd0a-9e90cf231afb/content#13#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Pudiésemos decir que se nos presenta como una ruptura con la mirada androcéntrica y antropocéntrica dominante del desarro-",
+          "url": "https://www.redalyc.org/pdf/1051/105143558010.pdf#4#4#4"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6961,
+      "query": "Lajo Lazo Sumak Kawsay \"pensar bien\" \"sentir bien\" equilibrio",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lajo Lazo, el Sumak kawsay puede ser entendido como el pensar bien, sentir bien para",
+          "url": "https://revistas.uarm.edu.pe/index.php/silex/article/download/48/32#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Año de la consolidación del mar de Grau” “Año del IV Centenario del legado histórico del Inka Garcilaso de la Vega Chimpu Ocill...",
+          "url": "https://www.cusco.gob.pe/wp-content/uploads/transparencia/2016/R.A.2016/R.A.325-2016.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SUMAK KAWSAY - ESPLENDIDA EXISTENCIA - BUEN VIVIR",
+          "url": "https://web.archive.org/web/20240701010643if_/https://web.archive.org/web/20161220181201/http://condesan.org/mtnforum/sites/default/files/comments/files/SUMAK%20KAWSAY-Guadalupe%20Rivadeneira.pdf#2#1"
+        },
+        {
+          "date": "2021-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "¿que significa SUMAK KAWSAY?¿que entiendes de ello? - Brainly.lat",
+          "url": "https://brainly.lat/tarea/46085422"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sumak kawsay",
+          "url": "https://suno.com/song/a0481344-82c8-4263-8f3b-43d2e2ff6ba6?show_comments=true"
+        },
+        {
+          "date": "2010-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sumak Kawsay ninchik o Nuestro Vivir Bien - Red Voltaire",
+          "url": "https://www.voltairenet.org/article165828.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "SUMAK KAWSAY - Coggle Diagram - Public Diagram",
+          "url": "https://coggle.it/diagram/YjJjf5SuTY1a-d4e/t/sumak-kawsay#1"
+        },
+        {
+          "date": "2011-08-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Un modelo sumaq kawsay de gobierno, por Javier Lajo Lazo - Red Voltaire",
+          "url": "https://www.voltairenet.org/Un-modelo-sumaq-kawsay-de-gobierno#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "_contexto andino - Análisis desde la doctrina y el derecho comparado",
+          "url": "https://dspace.udla.edu.ec/bitstream/33000/68/1/UDLA-EC-TAB-2014-24.pdf#11#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "con la comunidad y todos los seres de la naturaleza",
+          "url": "https://repository.unad.edu.co/jspui/bitstream/10596/68034/3/jdjojoaj.pdf#9#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14208,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 20067,
+    "iterations": [],
+    "output_tokens": 866,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

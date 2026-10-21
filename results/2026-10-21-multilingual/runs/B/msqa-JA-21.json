@@ -1,0 +1,156 @@
+{
+  "answer": "**答え:豊玉姫(豊玉姫命)です。**海神宮(海宮)から来訪したときに乗った亀が石になったと伝えられています。豊玉姫は、鵜戸神宮の御祭神である鸕鷀草葺不合尊(ウガヤフキアエズ)の母神です。\n\n依拠した網址:\n- 鵜戸神宮公式「亀石と運玉」: https://www.udojingu.or.jp/history/%e4%ba%80%e7%9f%b3%e3%81%a8%e9%81%8b%e7%8e%89/\n- 日南市ホームページ「亀石」: https://www.city.nichinan.lg.jp/museum/mishiteibunnkazai/minnzoku_geinou_shuuzoku/3/3938.html\n- 神社ファン「亀石 | 鵜戸神宮」: https://jinjafan.jp/4500056/spots/1521/\n\n検索は1回だけ行いました。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.394,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6083,
+      "cacheReadInputTokens": 5877,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.029007699999999997,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 408,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-21",
+  "raw": "jsonl/B/msqa-JA-21.jsonl",
+  "reported_cost_usd": 0.029007699999999997,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6026,
+      "query": "鵜戸神宮 亀石 乗ってきた亀 石になった",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石と運玉",
+          "url": "https://www.udojingu.or.jp/history/%e4%ba%80%e7%9f%b3%e3%81%a8%e9%81%8b%e7%8e%89/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮：運玉",
+          "url": "https://www.mlit.go.jp/tagengo-db/common/001543327.docx#1#1"
+        },
+        {
+          "date": "2024-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "海岸の洞窟に建つ珍しい神社⛩️ | Trip.com 日南",
+          "url": "https://jp.trip.com/moments/detail/nichinan-57412-122093414/"
+        },
+        {
+          "date": "2023-11-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石|日南市ホームページ",
+          "url": "https://www.city.nichinan.lg.jp/museum/mishiteibunnkazai/minnzoku_geinou_shuuzoku/3/3938.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮に寄贈したベンチの清掃と維持活動 | 取材リポート | ライオン誌日本語版ウェブマガジン",
+          "url": "http://thelion-mag.jp/1802sa03"
+        },
+        {
+          "date": "2022-08-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮 - Nazuna公式サイト | 旅館・一棟貸切の宿",
+          "url": "https://www.nazuna.co/story/udojingu/"
+        },
+        {
+          "date": "2022-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "霧島神宮・鵜戸神社へ行ってきました。 ... / はるさんのモーメント | YAMAP / ヤマップ",
+          "url": "https://yamap.com/moments/555664"
+        },
+        {
+          "date": "2025-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石 | 鵜戸神宮 - 神社ファン",
+          "url": "https://jinjafan.jp/4500056/spots/1521/"
+        },
+        {
+          "date": "2021-08-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2021年08月26日のつぶやき: 妖怪古今録+白澤図",
+          "url": "https://youkai.seesaa.net/article/483121856.html#comment"
+        },
+        {
+          "date": "2012-11-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "宮崎県 鵜戸神宮 その３ - september2019の日記",
+          "url": "https://september2019.hatenadiary.jp/entry/37667458"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6083,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6083,
+    "cache_read_input_tokens": 5877,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4214,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4214,
+        "cache_read_input_tokens": 3873,
+        "input_tokens": 2,
+        "output_tokens": 328,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 408,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

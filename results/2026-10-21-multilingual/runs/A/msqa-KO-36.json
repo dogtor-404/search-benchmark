@@ -1,0 +1,118 @@
+{
+  "answer": "**답: \"몽케다\"는 제주 방언으로 \"늑장을 부리다\", \"뭉그적거리다\"라는 뜻입니다.** 빨리 움직이지 않고 제자리에서 느릿느릿 구는 것을 말합니다.\n\n- 예문: \"몽케지 말고 얼렁 오라\" (늑장 부리지 말고 빨리 와라)\n- 이 풀이는 방언 사전류 사이트 두 곳에서 확인했습니다. 학술 자료나 공식 제주어 사전에서는 확인하지 못했습니다.\n\nSources:\n- [사투리 몽케다의 뜻과 활용 (wordrow)](https://wordrow.kr/%EC%82%AC%ED%88%AC%EB%A6%AC/865478/%EB%AA%BD%EC%BC%80%EB%8B%A4/)\n- [몽케다 : 제주방언 번역기 (instablank)](https://instablank.com/jejuview/7713/%EB%AA%BD%EC%BC%80%EB%8B%A4)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 31.681,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0353662,
+      "inputTokens": 41947,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2343,
+      "provider": "firstParty",
+      "thinkingTokens": 763,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5920,
+      "cacheReadInputTokens": 19607,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0339367,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 828,
+      "provider": "firstParty",
+      "thinkingTokens": 196,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-36",
+  "raw": "jsonl/A/msqa-KO-36.jsonl",
+  "reported_cost_usd": 0.0693029,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "제주도 방언 \"몽케다\" 뜻",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FATm8W8xNEF4kieAGEj5iT"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "제주어 몽케다 몽케영 뭉개다 제주어사전",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01J8Jj7bKC4oUAhWduPFgeaz"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"몽케다\" 제주",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_015RRAX2zVYbspucKw1q3wyw"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5920,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5920,
+    "cache_read_input_tokens": 19607,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1271,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1271,
+        "cache_read_input_tokens": 7100,
+        "input_tokens": 2,
+        "output_tokens": 366,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 828,
+    "output_tokens_details": {
+      "thinking_tokens": 196
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "answer": "应是 **วัดบวรนิเวศวิหาร（Wat Bowonniwet Vihara）**，中文常译作**波旺尼威寺**。\n\n拉玛十世（哇集拉隆功国王）于 1978 年就是在这座寺剃度出家的，所以通常把该寺视为他这一朝的皇家寺院。不过「官方正式册封」这一点我没有十足把握，通常的答案就是这座寺。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 154.744,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 1920,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.2944,
+      "inputTokens": 2154,
+      "maxOutputTokens": 32000,
+      "outputTokens": 14270,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-96",
+  "raw": "jsonl/D0_prime/msqa-TH-96.jsonl",
+  "reported_cost_usd": 0.2944,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 1920,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2154,
+    "iterations": [],
+    "output_tokens": 14270,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

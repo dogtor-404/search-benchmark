@@ -1,0 +1,74 @@
+{
+  "answer": "我不能确定，只能给一个倾向性的答案。\n\n我的印象是，清迈（兰纳）传统里，女子用布在胸前围裹，北部方言叫 **\"เคียนอก\"**（kian ok，\"围胸\"）。\"เคียน\" 在北部话里是\"缠、围、束\"的意思。中部泰语里类似的说法是 **\"ผ้าแถบ\"** 或 **\"นุ่งผ้าอย่างแถบ\"**。\n\n要注意区别两样东西：\n- **สไบ / สะหว้าย（สไบเฉียง）**：斜搭在肩上的披巾，不是绕胸围裹。\n- **ผ้าซิ่น**：围在下身的筒裙。\n\n\"เคียนอก\" 这个词我没把握，也想不起可靠的出处来确认它是不是这个问题的标准答案。如果你是在核对题库答案，建议再查一下兰纳服饰的权威资料。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.224,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1778,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.016752799999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 948,
+      "provider": "firstParty",
+      "thinkingTokens": 627,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-49",
+  "raw": "jsonl/0/msqa-TH-49.jsonl",
+  "reported_cost_usd": 0.016752799999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1778,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1778,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1778,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1778,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 948,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 948,
+    "output_tokens_details": {
+      "thinking_tokens": 627
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

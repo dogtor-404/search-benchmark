@@ -1,0 +1,62 @@
+{
+  "answer": "**“molar” 在西班牙年轻人中表示“喜欢、觉得酷、很棒”**，相当于口语里的 *gustar / encantar / ser guay*。\n\n用法和 *gustar* 一样，被喜欢的东西作主语：\n\n- *Me mola esa canción.* — 我喜欢那首歌。\n- *Tu chaqueta mola mucho.* — 你的外套很酷。\n- *¿Te mola el plan?* — 你喜欢这个安排吗？\n- *¡Mola!* / *¡Qué mola!* — 太酷了！（单独用表示赞同、觉得好）\n- *Mola que hayas venido.* — 你来了真好。\n\n几点补充：\n\n- 这是**西班牙**（尤其年轻人）的口语，拉美一般不这么用。\n- 词源上来自吉普赛语（caló）的 *molar*，意为“有价值、值”，跟字面义“磨（牙）、研磨”没有关系。\n- 语气偏轻松、非正式，正式场合或对长辈不用。\n\n（凭已有知识回答，未查证。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.531,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018296,
+      "inputTokens": 1974,
+      "maxOutputTokens": 32000,
+      "outputTokens": 520,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-83",
+  "raw": "jsonl/D0/msqa-ES-83.jsonl",
+  "reported_cost_usd": 0.018296,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1974,
+    "iterations": [],
+    "output_tokens": 520,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

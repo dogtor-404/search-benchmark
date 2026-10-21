@@ -1,0 +1,62 @@
+{
+  "answer": "关于这个问题，我没有把握给出一个确切的专有名词。\n\n能确定的是：北俄（北德维纳河流域，包括皮涅加河一带）的纺车彩绘中确实有棋盘格/方格纹样，文献里通常就称为「шахматный орнамент」或「шашечный орнамент」（棋盘纹/方格纹），也有人简称「шашечки」（小方格）。但如果说研究中有没有一个更专门的、与皮涅加河沿岸村庄绑定的独特叫法，我记忆中并不可靠，不能瞎编一个出来。\n\n如果你需要的是明确的术语，我建议以俄语原文资料（例如关于 мезенская / пинежская роспись 的专著，Тарановская、Круглова 等人的研究）为准，我在这里无法联网核实。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 30.943,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.074056,
+      "inputTokens": 2064,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3290,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-72",
+  "raw": "jsonl/D0_prime/msqa-RU-72.jsonl",
+  "reported_cost_usd": 0.074056,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2064,
+    "iterations": [],
+    "output_tokens": 3290,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

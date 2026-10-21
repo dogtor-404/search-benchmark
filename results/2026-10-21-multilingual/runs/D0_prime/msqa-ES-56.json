@@ -1,0 +1,62 @@
+{
+  "answer": "西班牙的委托监护制（encomienda，又译“监护征赋制”）最初不是在西班牙本土半岛确立的，而是在美洲殖民地——**伊斯帕尼奥拉岛（Hispaniola，今海地和多米尼加共和国）**。1503 年前后由西班牙王室（伊莎贝拉女王）以敕令形式开始推行，后来扩展到美洲其他殖民地。\n\n注：中世纪卡斯蒂利亚也有“encomienda”一词，指把土地/权益委托给军事修会管理，与美洲的殖民劳工制度是两回事。若题目指后者（通常所说的“委托监护制”），答案就是希斯帕尼奥拉岛。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.113,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.02748,
+      "inputTokens": 2040,
+      "maxOutputTokens": 32000,
+      "outputTokens": 966,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-56",
+  "raw": "jsonl/D0_prime/msqa-ES-56.jsonl",
+  "reported_cost_usd": 0.02748,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2040,
+    "iterations": [],
+    "output_tokens": 966,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

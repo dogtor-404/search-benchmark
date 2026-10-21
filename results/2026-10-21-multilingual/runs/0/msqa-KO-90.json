@@ -1,0 +1,74 @@
+{
+  "answer": "머리를 빗겨 주는 사람은 **찬자(贊者, 보조자)**로 알고 있습니다. 주자가례에 바탕을 둔 조선시대 관례 절차에서는 주인(관례자의 아버지 등)이 빈(賓)을 모시고, 빈을 돕는 찬자가 관례자의 머리를 빗겨 상투를 틀어 올립니다. 이어서 빈이 시가(始加), 재가(再加), 삼가(三加) 순서로 관을 씌웁니다. 즉 빈은 관을 씌우는 사람이고, 빗질과 상투 정리는 찬자의 몫입니다.\n\n세부 사항, 예컨대 찬자를 몇 명 두는지나 가문·시대별 차이는 확실하지 않습니다. 인터넷을 쓸 수 없어 기억에 의존해 답했으니, 정확한 근거가 필요하면 『주자가례』나 『사례편람』 관례 항목을 확인해 보세요.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.532,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1774,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.016576800000000003,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 932,
+      "provider": "firstParty",
+      "thinkingTokens": 579,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/0/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.016576800000000003,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1774,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1774,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1774,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1774,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 932,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 932,
+    "output_tokens_details": {
+      "thinking_tokens": 579
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

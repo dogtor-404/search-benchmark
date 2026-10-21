@@ -1,0 +1,62 @@
+{
+  "answer": "部队锅（부대찌개）不是古代的朝鲜传统菜，它最早出现在**朝鲜战争停战之后的 1950 年代**，属于现代。\n\n大致背景：1953 年停战后，在美军基地附近（尤其是京畿道议政府一带），民众把从美军基地流出的剩余食材——午餐肉（Spam）、香肠、火腿、焗豆、芝士片等——和泡菜、辣椒酱、方便面等韩式食材一起炖煮，逐渐形成了部队锅。\n\n所以如果要按“时代”回答：**现代（韩国战争以后，约 1950 年代中期）**，而不是朝鲜王朝、日据时期等更早的时代。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.616,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.032248,
+      "inputTokens": 2047,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1203,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/D0_prime/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.032248,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2047,
+    "iterations": [],
+    "output_tokens": 1203,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

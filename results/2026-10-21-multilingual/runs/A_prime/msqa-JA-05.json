@@ -1,0 +1,136 @@
+{
+  "answer": "上限の5回まで検索しましたが、確かな答えは見つかりませんでした。\n\n家電をペットのように可愛がる人を指す、定着した日本語の呼び名を説明しているページはありませんでした。見つかったのは近いけれど別の話ばかりです。\n\n- **家電芸人**：家電を熱く語る芸人のことで、家電をペットのように可愛がる人の意味ではありません。\n- **ペットネーム**：家電メーカーが商品に付ける愛称（例「霧ヶ峰」「白くまくん」）のことで、人の呼び名ではありません。\n- **家電に名前を付けて可愛がる家庭**：そういう例を書いた記事はありましたが、そうした人の呼び名は書かれていませんでした。\n\n「家電萌え」「家電愛」「家電控」（中国語）も候補として調べましたが、この意味で使われている裏付けは取れませんでした。答えとしては**「該当なし／不明」**とします。\n\nSources:\n- [家電芸人 - ピクシブ百科事典](https://dic.pixiv.net/a/%E5%AE%B6%E9%9B%BB%E8%8A%B8%E4%BA%BA)\n- [家電ネーミング/ペットネーム研究所 - value-press](https://www.value-press.com/pressrelease/69363)\n- [我が家には便利家電に名前をつけるカルチャーがある - note](https://note.com/sakura_nodoka/n/nb91139246cf5)\n- [家電のペットネーム](https://blog.web-mk.net/?p=1812)\n- [consumers are giving their robot vacuums names - ERT](https://ertonline.co.uk/products/consumers-are-giving-their-robot-vacuums-names-a-study-by-shark-reveals/)\n- [那些撸机器狗的人 - 爱范儿](https://www.ifanr.com/1297648)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 50.84,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.05801920000000001,
+      "inputTokens": 62172,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3604,
+      "provider": "firstParty",
+      "thinkingTokens": 1131,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8647,
+      "cacheReadInputTokens": 36707,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.10782540000000002,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1563,
+      "provider": "firstParty",
+      "thinkingTokens": 438,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-05",
+  "raw": "jsonl/A_prime/msqa-JA-05.jsonl",
+  "reported_cost_usd": 0.1658446,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "家電製品をペットのように可愛がる人 呼ばれる",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01YUHp2TjkNF6ite6KGQUSWd"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"家電をペットのように\" 人 俗語",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01K7yHnvET7TR6KRUiKWeEVt"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "家電 ペットのように 愛着 名前をつける人 呼び名 ○○族",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_019ZoFTK16zn5kaH6MnXfVoN"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "把家电当成宠物一样宠爱的人 被称为",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LgvFriZSXDqvrq8BZTcf3c"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "家電を可愛がる人 \"家電萌え\" OR \"家電愛\" ペット扱い 呼称",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VQ3rE6nXCVwmXcjqce29cc"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8647,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8647,
+    "cache_read_input_tokens": 36707,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1640,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1640,
+        "cache_read_input_tokens": 9458,
+        "input_tokens": 2,
+        "output_tokens": 671,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1563,
+    "output_tokens_details": {
+      "thinking_tokens": 438
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

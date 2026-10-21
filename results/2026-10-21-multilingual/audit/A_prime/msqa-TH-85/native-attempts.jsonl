@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "ภาพกาก จิตรกรรมฝาผนัง เริ่มปรากฏ สมัย", "results": [], "status": "allowed", "tool_use_id": "toolu_01GceBgZEiqrQw7a31z8rLkb"}
+{"billable": false, "call": 2, "query": "\"ภาพกาก\" ปรากฏตั้งแต่สมัยอยุธยา", "results": [], "status": "allowed", "tool_use_id": "toolu_01711R42FA9rXCKMHtf7nYaK"}
+{"billable": false, "call": 3, "query": "ภาพกาก ไม่ได้กากตามชื่อ ศิลปวัฒนธรรม เริ่มปรากฏสมัยอยุธยาตอนปลาย", "results": [], "status": "allowed", "tool_use_id": "toolu_017AWffvqFqTKrjbzHytC2mY"}

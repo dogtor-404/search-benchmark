@@ -1,0 +1,74 @@
+{
+  "answer": "**我不知道确切答案。**\n\n据我所知，บุญบั้งไฟ（火箭节）是泰国**东北部（伊桑）**和老挝的传统节庆，最有名的是益梭通府（ยโสธร），一般在雨季前的五六月举行，用来祈雨。它和东北部的老挝族文化紧密相关，**不是南部的传统习俗**。\n\n南部可能有些地方办过类似活动，比如东北部移居过去的社区，或者旅游性质的活动。但我不知道有可靠记载说明南部从哪一年开始办。题目说“南部”，前提本身可能就有问题。\n\n我不会编一个年份出来。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.041,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1778,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.022105600000000003,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 378,
+      "provider": "firstParty",
+      "thinkingTokens": 151,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/0_prime/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.022105600000000003,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1778,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1778,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1778,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1778,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 378,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 378,
+    "output_tokens_details": {
+      "thinking_tokens": 151
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

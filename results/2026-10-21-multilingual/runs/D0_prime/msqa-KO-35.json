@@ -1,0 +1,62 @@
+{
+  "answer": "“지슬”（jiseul）是济州岛方言，意思是“土豆/马铃薯”，对应标准韩语里的“감자”。济州 4·3 事件相关的电影《지슬》就是以这个词命名，片中人们躲在山洞里靠吃土豆度日。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 3.938,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.013368,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 260,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/D0_prime/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.013368,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 260,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

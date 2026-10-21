@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "「よもすがら ちぎりしことを わすれずは こひんなみだの いろぞゆかしき」 勅撰集 出典", "results": [], "status": "allowed", "tool_use_id": "toolu_01DqV1GHwQgq64ihiSmdrFx6"}
+{"billable": false, "call": 2, "query": "夜もすがら契りしことを忘れずは恋ひむ涙の色ぞゆかしき 新古今和歌集 恋", "results": [], "status": "allowed", "tool_use_id": "toolu_01MPTrkhG422uivmvdNi5LHK"}
+{"billable": false, "call": 3, "query": "\"契りしことを忘れずは\" \"涙の色ぞゆかしき\"", "results": [], "status": "allowed", "tool_use_id": "toolu_01E1q3KVtRam5h66T39xhwdN"}
+{"billable": false, "call": 4, "query": "よもすがら ちぎりしことを わするなよ 忘れずは 恋ひむ涙の色 ゆかしき 和歌 作者 千載和歌集 OR 後拾遺和歌集 OR 金葉和歌集 OR 詞花和歌集", "results": [], "status": "allowed", "tool_use_id": "toolu_014avLupGz5EjbH3oNbr4zwB"}

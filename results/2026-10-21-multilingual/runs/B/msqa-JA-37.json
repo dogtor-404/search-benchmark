@@ -1,0 +1,156 @@
+{
+  "answer": "**答え:天照大神(あまてらすおおみかみ/アマテラス)**\n\n太陽神として祀られる女神で、高天原を統治する主神です。『古事記』では、イザナギが禊のときに左目から生んだ神とされています。イザナギは天照大神に高天原を治めるよう命じました。伊勢神宮の内宮に祀られ、皇室の祖神でもあります。\n\n依拠した網址:\n- https://ja.m.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E7%9A%87%E5%A4%A7%E5%BE%A1%E7%A5%9E(Wikipedia「天照大神」:高天原の主宰神、太陽神、皇祖神)\n- https://www.terumojinja.com/post/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9-%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E(アマテラスの誕生と高天原の統治、伊勢神宮での祭祀)\n- https://da.library.ryukoku.ac.jp/page/130725(龍谷大学図書館:「高天原の主神」、日の神、伊勢皇大神宮に祀られる)\n- https://sitereports.nabunken.go.jp/ja/article/20193/pdf_page#12#6(奈良文化財研究所の報告書:イザナギの「コトヨサシ」により高天原の主神となる)\n\n検索は1回だけ使いました。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.955,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 13929,
+      "cacheReadInputTokens": 5856,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.062289599999999994,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 598,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-37",
+  "raw": "jsonl/B/msqa-JA-37.jsonl",
+  "reported_cost_usd": 0.062289599999999994,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.658,
+      "query": "天照大神 太陽の女神 高天原 主神",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "さて、イザナギ・イザナミ2神(以下ギ・ミ2神と省略)は、天神の指示(コトヨサシ)により、地上に国土大八嶋及び神々を生みなす",
+          "url": "https://sitereports.nabunken.go.jp/ja/article/20193/pdf_page#12#6"
+        },
+        {
+          "date": "2023-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#アマテラスの誕生と高天原の支配",
+          "url": "https://www.terumojinja.com/blog/hashtags/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9%E3%81%AE%E8%AA%95%E7%94%9F%E3%81%A8%E9%AB%98%E5%A4%A9%E5%8E%9F%E3%81%AE%E6%94%AF%E9%85%8D"
+        },
+        {
+          "date": "2023-06-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "#アマテラスを祀る伊勢神宮",
+          "url": "https://www.terumojinja.com/blog/hashtags/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9%E3%82%92%E7%A5%80%E3%82%8B%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE"
+        },
+        {
+          "date": "2024-10-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - Wikipedia - 天照大神",
+          "url": "https://ja.m.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E7%9A%87%E5%A4%A7%E5%BE%A1%E7%A5%9E#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books - 日神信仰論",
+          "url": "https://ci.nii.ac.jp/ncid/BD05184915?l=en"
+        },
+        {
+          "date": "2005-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - 維基百科，自由的百科全書 - 天照大神",
+          "url": "https://zh.wikipedia.org/zh-tw/%E5%A4%A9%E7%85%A7%E7%9A%87%E5%A4%A7%E7%A5%9E?oldformat=true#1"
+        },
+        {
+          "date": "2005-06-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天照大神 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E#1"
+        },
+        {
+          "date": "2023-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アマテラス(天照大神)",
+          "url": "https://www.terumojinja.com/post/%E3%82%A2%E3%83%9E%E3%83%86%E3%83%A9%E3%82%B9-%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E"
+        },
+        {
+          "date": "2026-09-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "三贵子",
+          "url": "https://baike.baidu.com/item/%E4%B8%89%E8%B4%B5%E5%AD%90?bst=1791556941.dd2cb20922a1b17b"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "[多賀大社･熊野神社祭神図並に縁起] -天照皇太神神影並ニ神道関係図版類-",
+          "url": "https://da.library.ryukoku.ac.jp/page/130725"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 13929,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13929,
+    "cache_read_input_tokens": 5856,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12081,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12081,
+        "cache_read_input_tokens": 3852,
+        "input_tokens": 2,
+        "output_tokens": 525,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 598,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

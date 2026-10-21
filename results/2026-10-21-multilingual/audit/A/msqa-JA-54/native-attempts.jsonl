@@ -1,0 +1,6 @@
+{"billable": false, "call": 1, "query": "嫁に出た子どもたちが食材を持って里帰り 健在な親に料理を作って食べさせる 呼び方", "results": [], "status": "allowed", "tool_use_id": "toolu_01E6JsCvM21PbZyQpmRwkyVj"}
+{"billable": false, "call": 2, "query": "生身魂 いきみたま 嫁いだ娘 里帰り 生きている親 ご馳走 お盆", "results": [], "status": "allowed", "tool_use_id": "toolu_01BsLYs6Nzwni5smjjSWwZ4M"}
+{"billable": false, "call": 3, "query": "嫁に行った子供が材料を持って里帰りし親に料理を作って食べさせる 習俗 民俗 「ミマイ」 OR 「ヨバレ」 OR 「ハンゲ」 生御魂 刺鯖", "results": [], "status": "allowed", "tool_use_id": "toolu_01NQC6jcka4rz9g6pFVxTpv3"}
+{"billable": false, "call": 4, "query": "嫁に出た子供たちが料理の材料を持って里帰りし、健在な親に料理を作って食べさせる 風習 名称 民俗語彙", "results": [], "status": "allowed", "tool_use_id": "toolu_01CJ4oYMdLEaatxtw5faL6AK"}
+{"billable": false, "call": 5, "query": "生御魂 OR 生身魂 OR 生盆 嫁にいった子供 里帰り 親に料理 食べさせる 民俗 コトバンク", "results": [], "status": "allowed", "tool_use_id": "toolu_01Y4Rb1oqQWpw4hXo6dRtiir"}
+{"billable": false, "call": null, "query": "生身魂 いきみたま 民俗 嫁にいった子供が親のもとに帰り 料理 食べさせる 習俗 日本民俗大辞典", "results": [], "status": "budget_exhausted", "tool_use_id": "toolu_01C2LGp6KmBjz4t9wtTijF9z"}

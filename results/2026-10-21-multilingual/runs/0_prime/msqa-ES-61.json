@@ -1,0 +1,74 @@
+{
+  "answer": "凭记忆回答（没有上网核对）：\n\n佩拉约（Pelayo）约在 718 年前后被阿斯图里亚斯的贵族和山民推举为首领。他上任后的**第一个主要行动是起兵反抗穆斯林统治**：拒绝向倭马亚政权缴纳贡赋，带人退守坎塔布里亚山区的科瓦东加（Covadonga）一带抵抗。随后穆斯林派阿尔卡马（Alqama）率军讨伐，佩拉约在**科瓦东加战役**（传统上定在 722 年）中获胜。这一仗通常被看作“收复失地运动”（Reconquista）的开端，也奠定了阿斯图里亚斯王国，首都设在坎加斯德奥尼斯（Cangas de Onís）。\n\n需要说明两点：\n- 这些事主要出自 9 世纪后期的《阿方索三世编年史》等基督教史料，带有传说色彩。阿拉伯史料对这一仗的记载很简略，把它说成一小股人在山里的抵抗。\n- 具体年份（718 还是 722）和事件的先后，学界有争议。我记得的细节可能不完全准确。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.373,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1765,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0288816,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 722,
+      "provider": "firstParty",
+      "thinkingTokens": 309,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-61",
+  "raw": "jsonl/0_prime/msqa-ES-61.jsonl",
+  "reported_cost_usd": 0.0288816,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1765,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1765,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1765,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 722,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 722,
+    "output_tokens_details": {
+      "thinking_tokens": 309
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

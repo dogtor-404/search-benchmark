@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：** สมัยรัชกาลที่ 5 (พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว) ทรงโปรดให้คัดลอกจากอักษรขอมเป็นอักษรไทยแล้วจัดพิมพ์ เริ่มดำเนินการ พ.ศ. 2431 (ค.ศ. 1888) และสำเร็จเมื่อ พ.ศ. 2436 (ค.ศ. 1893) ทันงานพระราชพิธีรัชดาภิเษก รวม 39 เล่ม (1,000 จบ) — นับเป็นครั้งแรกที่มีการพิมพ์พระไตรปิฎกเป็นเล่มด้วยอักษรไทย\n\n**依据网址：**\n- http://digital.nlt.go.th/dlib/files/original/01ae5b1e1019fa54d4c92aca64ffb54c.pdf （หอสมุดแห่งชาติ：\"เริ่มทำตั้งแต่ พ.ศ. 2431 สำเร็จลงเมื่อ พ.ศ. 2436…รวม 39 เล่ม นับเป็นครั้งแรกที่มีการพิมพ์พระไตรปิฎกเป็นเล่มด้วยอักษรไทย\"）\n- http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระวินัยปิฎก.pdf （\"สำเร็จลงใน พ.ศ. 2436…นับเป็นครั้งแรกที่ประเทศไทยมีคัมภีร์พระไตรปิฎกรูปเล่มภาษาบาลีอักษรไทย\"）\n- https://waseda.repo.nii.ac.jp/record/2000584/files/RisachiShirizu_7_1.pdf （ราชกิจจานุเบกษา/泰官報：\"1893年12月…大蔵経刊行祝賀祭\"）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 27.834,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 13952,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.10313040000000001,
+      "inputTokens": 17525,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1512,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/D2_prime/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.10313040000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.802,
+      "query": "พระไตรปิฎก ตีพิมพ์เป็นเล่มหนังสือ อักษรไทย ครั้งแรก เมื่อไร",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระไตรปฎก ถือเปนหลักฐานทางวรรณกรรมที่เดนชัดที่แสดงใหเห็นวาเปนตนแบบของ วรรณกรรมศาสนาและวรรณคดีในยุคตอมา พระไตรปฎกจารึกไว...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/92881?Resolve_DOI=10.14457/KU.the.2012.326#53#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จึงมีรับสั่งให้อาราธนาพระสงฆ์มีสมเด็จพระมหาสมณเจ้า กรมพระยาวชิรญาณาโรรส เมื่อ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระวินัยปิฎก.pdf#56#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๕. พระไตรปฎกฉบับแปลเปนไทยอยางพิสดาร (พ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระไตรปิฏกศึกษา.pdf#73#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "–  เปนการแสดงใหเห็นวา ประเทศไทยเปนแหลงรักษาพระธรรมคําสอนของพระพุทธเจา ใหดํารงคงอยูอยางมั่นคงถาวรที่สําคัญแหงหนึ่งของโล...",
+          "url": "https://kukr.lib.ku.ac.th/kukr_es/BKN/search_detail/dowload_digital_file/20013434/159632#59#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ปาทิกสภาจัดการพิมพ์พระไตรปีฎกให้สำเร็จทันในสมัยเมื่อเสด็จดำรงสิริราชสมบัติครบ ๒๕ ปี จะได้มี",
+          "url": "https://bri.mcu.ac.th/rsp/wp-content/uploads/elementor/forms/6646123c95e38.pdf#48#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เมื่อ พ",
+          "url": "https://mbuisc.ac.th/th/wp-content/uploads/2025/06/BU5001.pdf#80#52"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตอมาเมื่อพุทธศักราช ๒๔๘๓ สมเด็จพระอริยวงศาคตญาณ (แพ ติสฺสเทวมหาเถร) สมเด็จพระสังฆราช สกลมหาสังฆปริณายก ทรงปรารภความสำคัญของการแ...",
+          "url": "https://e-thesis.mcu.ac.th/storage/iTOzJ4wqosqO5hHoTJp1tuIW6pEOUrCzKv2KHqiY.pdf#50#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การสังคายนาในประเทศอินเดียมี ๔ ครั้ง ครั้งที่ ๑, ๒, ๓ ดังได้กล่าวแล้วข้างต้น",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระไตรปิฏกศึกษา.pdf#73#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การชําระพระไตรปฎกสําหรับจะพิมพครั้งนี้ พระเจาวรวงศเธอ กรมหลวงชินวร สิริวัฒน สมเด็จพระสังฆราชเจา ทรงรับเปนประธานในการชําระ...",
+          "url": "https://rsuir-library.rsu.ac.th/bitstream/123456789/3112/1/SIRINAPA%20KONGVASAGUNNEE.pdf#66#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เจ้าอยู่หัว รัชกาลที่ 7 ทรงเปิดโอกาสให้พระบรมวงศาบุวงศ์ ข้าราชการพ่อค้าและประชาชน จัด",
+          "url": "https://so10.tci-thaijo.org/index.php/JDSN/issue/download/167/176#31#10"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.759,
+      "query": "พิมพ์พระไตรปิฎก บาลีอักษรไทย ครั้งแรก รัชกาลที่ 5 พ.ศ. 2436 39 เล่ม",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในสมัยรัชกาลที่ 5 พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว ในส่วนของพระไตรปิฎกได้ ทรงให้คัดลอกตัวขอมในคัมภีร์ใบลานเป็นตัวไทย  แล้วช...",
+          "url": "http://digital.nlt.go.th/dlib/files/original/01ae5b1e1019fa54d4c92aca64ffb54c.pdf#193#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระไตรปฎก ถือเปนหลักฐานทางวรรณกรรมที่เดนชัดที่แสดงใหเห็นวาเปนตนแบบของ วรรณกรรมศาสนาและวรรณคดีในยุคตอมา พระไตรปฎกจารึกไว...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/92881?Resolve_DOI=10.14457/KU.the.2012.326#53#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ไตรปิฎกขึ้นอีก เรียกว่า ฉบับทองทีม[23] และเนื่องจากในรัชกาลที่ 5 นี มีการพิมพ์หนังสือ",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/05a69435-33c2-4081-8685-bf38d25681ec/fulltext.pdf?attempt=2#71#71"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ปาทิกสภาจัดการพิมพ์พระไตรปีฎกให้สำเร็จทันในสมัยเมื่อเสด็จดำรงสิริราชสมบัติครบ ๒๕ ปี จะได้มี",
+          "url": "https://bri.mcu.ac.th/rsp/wp-content/uploads/elementor/forms/6646123c95e38.pdf#48#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ในปีเดียวกันนี้มีพระบรมราชโองการ ‘โปรดเกล้าฯ จะให้มี อาจารย์สอนหนังสือไทยและสอนเลขทุกๆ พระอาราม’ เหตุ การนี้เป็นการเริ่มต้นการศึ...",
+          "url": "https://archive.org/download/Publications_Buddhist/buddhism_in_asia_text.pdf#58#27"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การชําระพระไตรปฎกสําหรับจะพิมพครั้งนี้ พระเจาวรวงศเธอ กรมหลวงชินวร สิริวัฒน สมเด็จพระสังฆราชเจา ทรงรับเปนประธานในการชําระ...",
+          "url": "https://rsuir-library.rsu.ac.th/bitstream/123456789/3112/1/SIRINAPA%20KONGVASAGUNNEE.pdf#66#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จึงมีรับสั่งให้อาราธนาพระสงฆ์มีสมเด็จพระมหาสมณเจ้า กรมพระยาวชิรญาณาโรรส เมื่อ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระวินัยปิฎก.pdf#56#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "れが、近代タイの国家イデオロギーの出発点である26",
+          "url": "https://waseda.repo.nii.ac.jp/record/2000584/files/RisachiShirizu_7_1.pdf#194#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พิมพเปนสวนพระราชกุศลในมงคลสมัยแหงสิริราชสมบัติไค 25 ปบริบูรณ รัศนโกสินทรศก",
+          "url": "https://cuir.chula.ac.th/xmlui/bitstream/handle/123456789/11817/Prangthip.pdf?sequence=1&isAllowed=y#87#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ควรที่จะพิมพ์ออกเป็นภาษาไทย เพื่อให้มีผู้อ่านได้มากขึ้น การตีพิมพ์แบบใหม่ก็สะดวกแก่การเก็บรักษา",
+          "url": "https://e-thesis.mcu.ac.th/storage/JPOY1oueBip5fgjNnkxL3uYuH3ucZr5slCJbkt51.pdf#40#25"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13952,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 17525,
+    "iterations": [],
+    "output_tokens": 1512,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

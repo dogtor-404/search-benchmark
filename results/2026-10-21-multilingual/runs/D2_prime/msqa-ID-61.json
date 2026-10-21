@@ -1,0 +1,144 @@
+{
+  "answer": "**答案**：形容没有固定立场、容易动摇（摇摆不定/善变）的人。\n\n依据网址：\n- https://brainly.co.id/tugas/4299145\n- https://www.inews.id/amp/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2\n- https://pantuncinta2000.blogspot.com/2020/07/majas-perumpamaan.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.379,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0316744,
+      "inputTokens": 6472,
+      "maxOutputTokens": 32000,
+      "outputTokens": 265,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/D2_prime/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.0316744,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6946,
+      "query": "\"seperti air di daun talas\" artinya perumpamaan menggambarkan orang",
+      "results": [
+        {
+          "date": "2015-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa arti peribahasa bagaikan air di daun talas ? seorang yang tidak tetap pendirianya ( selalu berubah - Brainly.co.id - terjawab • terverifikasi oleh ahli",
+          "url": "https://brainly.co.id/tugas/4299145#1"
+        },
+        {
+          "date": "2025-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makna Peribahasa 'Bagai Air di Daun Talas' dan Pentingnya Memiliki Pendirian Kuat - 1/4",
+          "url": "https://www.lemon8-app.com/@laila.hamila_/7589615937192509960?region=id#1"
+        },
+        {
+          "date": "2023-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30 Contoh Majas Perumpamaan dalam Kalimat",
+          "url": "https://www.inews.id/amp/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "yang diterima pembaca atau pendengar tentang apa yang disampaikan",
+          "url": "http://repository.unhas.ac.id/id/eprint/42837/2/F011181013_skripsi_27-12-2024_Bab%201-2.pdf#5#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sesuai dengan rumusan masalah, maka tujuan yang akan dicapai dari",
+          "url": "https://repository.unibos.ac.id/xmlui/bitstream/handle/123456789/8539/2023%20RIZKI%20RAHMAWATI%20RIDWAN%204519102001.pdf?sequence=1&isAllowed=y#9#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**BAB II**",
+          "url": "http://repository.uinfasbengkulu.ac.id/3482/3/BAB%20II.pdf#3#1"
+        },
+        {
+          "date": "2020-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "60 Contoh Majas Perumpamaan Dan Artinya Lengkap - Klak Klik Bermutu",
+          "url": "https://pantuncinta2000.blogspot.com/2020/07/majas-perumpamaan.html"
+        },
+        {
+          "date": "2021-02-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Memahami Isi Kalimat Perumpamaan Dalam Al-Qur’an",
+          "url": "https://web.suaramuhammadiyah.id/2021/02/23/memahami-isi-kalimat-perumpamaan-dalam-al-quran/#comments"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "pengibaratan peribahasa dalam bahasa Indonesia dan bahasa",
+          "url": "https://profile.yru.ac.th/storage/academic-articles/922ee5634247335aaf2ee749353bd913.pdf#201#145"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Singgolong dipi molabu koonda",
+          "url": "https://pureportal.spbu.ru/files/98925104/Fitonimi_dalam_peribahasa_Ru_Ind.pdf#18#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6472,
+    "iterations": [],
+    "output_tokens": 265,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

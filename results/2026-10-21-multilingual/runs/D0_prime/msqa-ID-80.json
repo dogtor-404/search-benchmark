@@ -1,0 +1,62 @@
+{
+  "answer": "依我所知回答：\n\nIki Palek（伊基帕莱克，切手指仪式）是巴布亚 Dani 族的一种哀悼习俗，在**家中亲人去世、举行丧葬/哀悼时**进行。具体说是当有近亲（如父母、配偶、子女等）离世时，女性亲属会切掉一截手指，作为表达深切悲痛的方式，也带有安抚逝者灵魂、防止其作祟的含义。它通常伴随葬礼和守丧期间进行。\n\n如果你的场景是题库判分，我可以再按特定格式补一句标准答案要点。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.135,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.018008000000000003,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 492,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/D0_prime/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.018008000000000003,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 492,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

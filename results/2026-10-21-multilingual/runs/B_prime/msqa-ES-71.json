@@ -1,0 +1,156 @@
+{
+  "answer": "**Respuesta:** el **pensar** y el **sentir**, es decir, la razón y la emoción. En quechua son el *allin yachay* (pensar o saber bien) y el *allin munay* (sentir o querer bien). Según esta fuente, el equilibrio pleno del Sumak kawsay es el “justo medio entre el sentir y el pensar”. De ese equilibrio sale el *allin ruway*, el “hacer bien” las cosas cotidianas. Estos son los tres pilares del Sumak (Allin) Kawsay.\n\n**Fuente** (hice 1 de las 5 búsquedas permitidas): Javier Lajo, en *Revista de la Integración* n.º 5, Comunidad Andina, sección “Políticas culturales en la región andina”:\nhttps://www.comunidadandina.org/StaticFiles/20116619450revista_integracion5.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.59,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 22628,
+      "cacheReadInputTokens": 5882,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1935964,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 569,
+      "provider": "firstParty",
+      "thinkingTokens": 173,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-71",
+  "raw": "jsonl/B_prime/msqa-ES-71.jsonl",
+  "reported_cost_usd": 0.1935964,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8078,
+      "query": "Sumak kawsay equilibrio entre dos dimensiones del pensamiento humano cosmovisión andina",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El principio o concepto del Sumaq Kawsay nos permite entender cómo en nuestra cultura andina-amazónica, se resolvió la búsqueda ...",
+          "url": "https://www.comunidadandina.org/StaticFiles/20116619450revista_integracion5.pdf#54#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|¿Qué es el Sumak Kawsay",
+          "url": "https://www.ecuadorencifras.gob.ec/wp-content/uploads/downloads/2016/10/Buen-Vivir-en-el-Ecuador.pdf#25#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "habla pues de un contrato o ‘compromiso vinculante’ entre el hombre y la naturaleza, cuestión que",
+          "url": "https://www.comunidadandina.org/StaticFiles/20116619450revista_integracion5.pdf#54#29"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En relación a ello, Rodríguez (2016) comparte la necesidad de conceptualizar esta",
+          "url": "https://repositorioinstitucional.uabc.mx/server/api/core/bitstreams/a0a402e6-7959-4242-a2aa-b35ae761f2a7/content#29#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "25 PARRA, Yolanda",
+          "url": "https://bibliotecadigital.univalle.edu.co/server/api/core/bitstreams/5c4389ad-671c-4179-bd0a-9e90cf231afb/content#13#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En este orden de ideas, la UNICEF, (2008), afirma:",
+          "url": "https://unae.edu.ec/wp-content/uploads/2019/12/otra-mirada-desde-la-practica-educativa-educacion-etica-y-valores.pdf#32#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sumak Kawsay entre el post-desarrollismo occidental y la Filosofía Andina* - Según Ortiz (2009), el SK debería ser entendido como un principio y parte de una filosofía de vida, derivada y asociada a su vez...",
+          "url": "https://www.redalyc.org/journal/3578/357863763010/movil/#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En estas líneas vamos a explicar el contexto de la cosmovisión (o welianschaung) que da coherencia sistémica al ‘Sumaq Kawsay’ o...",
+          "url": "https://www.comunidadandina.org/StaticFiles/20116619450revista_integracion5.pdf#54#28"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "También se hace necesario el retomar los ancestrales principios andinos y reemplazarlos por los impuestos por los colonizadores ...",
+          "url": "https://publicaciones.edunica.com.ec/index.php/edunica/catalog/download/159/122/510?inline=1#16#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En tal virtud y en favor de sustentar la hipótesis relativa al vocablo Sumak Kawsay y todo lo relacionado con el precepto como t...",
+          "url": "https://dspace.uhemisferios.edu.ec/bitstreams/4b59c253-d56e-4815-a7a2-c52ae6db99a7/download#7#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 22628,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 22628,
+    "cache_read_input_tokens": 5882,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 20754,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 20754,
+        "cache_read_input_tokens": 3878,
+        "input_tokens": 2,
+        "output_tokens": 394,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 569,
+    "output_tokens_details": {
+      "thinking_tokens": 173
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

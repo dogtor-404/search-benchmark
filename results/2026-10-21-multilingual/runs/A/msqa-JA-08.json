@@ -1,0 +1,118 @@
+{
+  "answer": "**答え:「隠れモテ」(または「地味モテ」)と呼ばれることが多いようです。**\n\nただし、この意味で決まった呼び名があると断言できる資料は見つかりませんでした。3回検索して確認できたのは次の点です。\n\n- 「隠れモテ」は、分かりやすくモテモテではないけれど、実は人気がある状態を指す言葉として紹介されています。\n- 「地味モテ」は、派手な美人より地味な人のほうがモテることがある、という文脈で使われています。\n- 「じわモテ」と「雰囲気美人」は、定義も使用例も検索結果では確認できませんでした。\n\n**根拠のURL**\n- [allabout.co.jp(島田佳奈さんのコラム)](https://allabout.co.jp/gm/gc/496755/)\n- [allabout.co.jp(隠れモテの解説)](https://allabout.co.jp/gm/gc/491432/)\n- [モデルプレス:地味なのに何故かモテる!男性が惹かれる女性の共通点5つ](https://mdpr.jp/column/detail/1585523)\n\nSources:\n- [allabout.co.jp](https://allabout.co.jp/gm/gc/496755/)\n- [allabout.co.jp](https://allabout.co.jp/gm/gc/491432/)\n- [mdpr.jp](https://mdpr.jp/column/detail/1585523)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 34.017,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.034932200000000004,
+      "inputTokens": 35412,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2782,
+      "provider": "firstParty",
+      "thinkingTokens": 622,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5678,
+      "cacheReadInputTokens": 18727,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0352607,
+      "inputTokens": 8,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1066,
+      "provider": "firstParty",
+      "thinkingTokens": 264,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-08",
+  "raw": "jsonl/A/msqa-JA-08.jsonl",
+  "reported_cost_usd": 0.0701929,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "一見大したことないけれどモテる女子 呼び方",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NmoB1v1Kf5Nie4WHdBdv6m"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "地味なのにモテる女子 呼ばれる 隠れモテ じわモテ 雰囲気美人 とは",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SnUjcm3qXzApRBYyRuz9vK"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "パッとしないのに男性にモテる女性 という呼び名 「地味モテ」OR「隠れモテ」OR「じわモテ」",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EZVWk33UaG4SU5YAQLPjKC"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5678,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5678,
+    "cache_read_input_tokens": 18727,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 8,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1429,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1429,
+        "cache_read_input_tokens": 6700,
+        "input_tokens": 2,
+        "output_tokens": 480,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1066,
+    "output_tokens_details": {
+      "thinking_tokens": 264
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

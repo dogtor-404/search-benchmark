@@ -1,0 +1,74 @@
+{
+  "answer": "“모에모에뀽”是日语“萌え萌えキュン”(moe moe kyun)的韩语写法,更常见的拼写是“모에모에큥”。\n\n- **来源**:日本女仆咖啡厅(メイド喫茶)里的“咒语”。女仆在蛋包饭上用番茄酱画画或搅拌饮料时,会一边比爱心手势,一边说“萌萌~Kyun!”,意思是“变得更好吃吧”。\n- **“모에(萌え)”**:对可爱的人或事物产生喜爱、心动的感觉。\n- **“뀽/큥(キュン)”**:模拟心动、心脏一紧的拟声词。\n- **韩国网络上的用法**:多用来表示卖萌、撒娇,有时带点自嘲或调侃的意味,比如故意用肉麻的语气说话。写成“뀽”是为了让发音更夸张、更可爱。\n\n我不清楚“뀽”这个拼写具体是在哪个视频、主播或社区里火起来的,所以没法给出确切的流行起点。这一点我不知道。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.228,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1758,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.014032800000000002,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 684,
+      "provider": "firstParty",
+      "thinkingTokens": 307,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-58",
+  "raw": "jsonl/0/msqa-KO-58.jsonl",
+  "reported_cost_usd": 0.014032800000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1758,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1758,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1758,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1758,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 684,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 684,
+    "output_tokens_details": {
+      "thinking_tokens": 307
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

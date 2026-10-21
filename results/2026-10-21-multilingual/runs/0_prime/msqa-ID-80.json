@@ -1,0 +1,74 @@
+{
+  "answer": "**答案：家里有亲人去世的时候。**\n\nIki Palek 是巴布亚巴列姆谷（Lembah Baliem）达尼族（Dani）的**断指习俗**。家里有人去世，通常是近亲，比如父母、配偶、子女或兄弟姐妹，家属就会切掉一节手指。这样做的意义是：\n\n- 表达失去亲人的悲痛。达尼人把这种痛比作身体被截去一部分。\n- 表示对死者的爱和忠诚。\n- 按传统的说法，也是为了让死者的灵魂安心离开，不再纠缠家人，避免灾祸。\n\n做这件事的主要是**女性**。旧时常用石斧切指，或者先用绳子把指节扎紧，等它坏死再切掉。现在这个习俗已经被禁止，基本不再施行，但当地还能见到手指残缺的年长妇女。\n\n另外，有些资料说男性的对应做法是割耳朵（一部分耳朵）。这一点我不太确定。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.164,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1767,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023737599999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 464,
+      "provider": "firstParty",
+      "thinkingTokens": 114,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/0_prime/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.023737599999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1767,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1767,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1767,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1767,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 464,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 464,
+    "output_tokens_details": {
+      "thinking_tokens": 114
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

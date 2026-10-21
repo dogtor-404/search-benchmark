@@ -1,0 +1,156 @@
+{
+  "answer": "**答え：「神祇管領長上（じんぎかんれいちょうじょう）」です。**\n\n吉田兼倶はこの称号を名乗り、神祇伯の白川家に対抗して神職支配を進めました。その後、吉田家の歴代当主は宗源宣旨と神道裁許状を発行しています。この称号は「神祇管領勾当長上」「神道長上」「神祇長上」とも呼ばれます。系図や文書を改ざんして権威付けたもので、偽称・僭称だったとする研究もあります。\n\n検索は 1 回です。\n\n依拠した URL：\n- https://museum.kokugakuin.ac.jp/shinto02/ （國學院大學博物館。「『神祇管領長上』を自称して神職支配を進め」という文言がそのまま載っています）\n- https://kotobank.jp/word/%E7%A5%9E%E7%A5%87%E7%AE%A1%E9%A0%98%E9%95%B7%E4%B8%8A-1342946\n- https://cir.nii.ac.jp/crid/1390282680927161088",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.323,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9902,
+      "cacheReadInputTokens": 5840,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09066000000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 513,
+      "provider": "firstParty",
+      "thinkingTokens": 67,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/B_prime/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.09066000000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6597,
+      "query": "吉田兼倶 自称 神祇管領長上 神職支配",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官 | CiNii Research",
+          "url": "https://cir.nii.ac.jp/crid/1390282680927161088"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "井上 智勝 (Tomokatsu Inoue) - 「神祇管領長上」考 : 室町期の吉田家と神祇官 - 論文",
+          "url": "https://researchmap.jp/read10300972/published_papers/5462293"
+        },
+        {
+          "date": "2017-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「神祇管領長上」考 : 室町期の吉田家と神祇官",
+          "url": "https://www.jstage.jst.go.jp/article/rsjars/78/1/78_KJ00003724428/_article/-char/ja/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道［第２章］神道祭祀の発展と神祇信仰の多様化",
+          "url": "https://museum.kokugakuin.ac.jp/shinto02/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "多摩市立図書館-多摩市デジタルアーカイブ:「多摩市史」通史編1",
+          "url": "https://adeac.jp/lib-city-tama/texthtml/d100010/mp000010-100010/ht061110"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神道栏［第２章］神道祭祀的发展与神祗信仰的多样化",
+          "url": "https://museum.kokugakuin.ac.jp/zh_cn/shinto02/"
+        },
+        {
+          "date": "2024-10-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田家 について",
+          "url": "http://www.kotoba.ne.jp/word/10/吉田家"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神祇管領長上(しんぎかんれいちょうじょう)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E7%A5%9E%E7%A5%87%E7%AE%A1%E9%A0%98%E9%95%B7%E4%B8%8A-1342946"
+        },
+        {
+          "date": "2026-03-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "吉田兼俱_百度百科",
+          "url": "https://wapbaike.baidu.com/item/%E5%90%89%E7%94%B0%E5%85%BC%E4%BF%B1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "神祇管領長上とは？ わかりやすく解説",
+          "url": "https://www.weblio.jp/content/%E7%A5%9E%E7%A5%87%E7%AE%A1%E9%A0%98%E9%95%B7%E4%B8%8A"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9902,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9902,
+    "cache_read_input_tokens": 5840,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8070,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8070,
+        "cache_read_input_tokens": 3836,
+        "input_tokens": 2,
+        "output_tokens": 367,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 513,
+    "output_tokens_details": {
+      "thinking_tokens": 67
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

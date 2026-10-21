@@ -1,0 +1,118 @@
+{
+  "answer": "Kepala sekolah pertama SMP Negeri 14 Malang adalah **Bapak Moel Soeradi, BBA**.\n\nMenurut bagian sejarah di situs resmi sekolah, SMPN 14 Malang berdiri tahun 1985 sebagai filial SMP N 3 Malang. Gedung belajarnya ada di Jl. Teluk Bayur No. 2, dan kegiatan belajar dimulai tahun 1986. Pada tahun itu baru ada 3 rombel kelas 7, dengan Moel Soeradi, BBA sebagai kepala sekolah pertamanya.\n\nSaya hanya menemukan satu sumber untuk ini, yaitu situs sekolah sendiri. Hasil pencarian tidak menyebut kapan Moel Soeradi menjabat sampai.\n\nSumber:\n- [Website SMP Negeri 14 Malang – halaman sejarah](https://smpn14-mlg.sch.id/index.php?pilih=hal&id=36)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.056,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0360312,
+      "inputTokens": 47752,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2512,
+      "provider": "firstParty",
+      "thinkingTokens": 816,
+      "webSearchRequests": 3
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 5657,
+      "cacheReadInputTokens": 13196,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.030429599999999998,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 647,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-18",
+  "raw": "jsonl/A/msqa-ID-18.jsonl",
+  "reported_cost_usd": 0.0664608,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "kepala sekolah pertama SMP Negeri 14 Malang sejarah",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01LKdRJYd3LRsG55p5rAvzZk"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "SMPN 14 Malang profil sejarah berdiri kepala sekolah dari masa ke masa",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AP6XQbDWe1G7yoUtiddg6i"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"SMP Negeri 14 Malang\" kepala sekolah pertama",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01X44NK3htGFYqkhGJDfRwgn"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 5657,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 5657,
+    "cache_read_input_tokens": 13196,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1656,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1656,
+        "cache_read_input_tokens": 6452,
+        "input_tokens": 2,
+        "output_tokens": 350,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 647,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

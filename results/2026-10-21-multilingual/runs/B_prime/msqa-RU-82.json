@@ -1,0 +1,156 @@
+{
+  "answer": "**Ответ:** **Волок Ламский** (он же Волок на Ламе). Сейчас это город Волоколамск в Подмосковье.\n\nХватило одного поиска. Вопрос сформулирован расплывчато, поэтому я понял его как вопрос о волоке из Ламы в Волошню. Лама течёт в бассейне Верхней Волги, а Волошня через Рузу выходит к Москве-реке и Оке. Источники описывают именно это место.\n\n- Впервые город упоминается в Лаврентьевской летописи под 1135 годом, просто как «Волок». Под 1178 годом он назван «Ламьский волок», в более поздних записях — «Волок Ламьский». От этой формы и произошло название Волоколамск.\n- Город появился на волоке, где суда тащили по суше из Ламы в Волошню. Этот путь вёл из Новгорода в Ростово-Суздальские и Московские земли.\n\nОдна неточность в самом вопросе: по этому волоку шли не к «западным рекам», а из бассейна Волги в бассейн Москвы-реки и Оки.\n\n**Источники:**\n- https://geo_toponims.academic.ru/1222/\n- https://www.tourtrans.ru/countries/cityprint/300.html\n- https://volok-grad.ru/gorodskoe-poselenie/istoriya",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.951,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 7765,
+      "cacheReadInputTokens": 5872,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.07651039999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 660,
+      "provider": "firstParty",
+      "thinkingTokens": 120,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-82",
+  "raw": "jsonl/B_prime/msqa-RU-82.jsonl",
+  "reported_cost_usd": 0.07651039999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6855,
+      "query": "Волок Ламский летопись 1135 волок между Ламой и Волошней",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Древний город на Ламе (40,00 руб.) - Национальный цифровой ресурс",
+          "url": "https://start.rucont.ru/efd/321794#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Историческая справка о Волоколамске",
+          "url": "https://volok-grad.ru/index.php?option=com_content&view=article&id=11&Itemid=13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Поскольку печати скрепляли грамоты, связанные с поземельными отношениями и судопроизводством, их можно интерпретировать как свид...",
+          "url": "https://www.iriran.ru/sites/default/files/2022-07/Nazarenko_2019.pdf#151#129"
+        },
+        {
+          "date": "2021-03-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Презентация \"Волоколамск - Город воинской славы\": презентации для подготовки на Инфоурок - Презентация \"Волоколамск - Город воинской славы\"",
+          "url": "https://infourok.ru/prezentaciya-volokolamsk-gorod-voinskoj-slavy-7760415.html#1"
+        },
+        {
+          "date": "2013-09-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волок на Ламе и его богатая история",
+          "url": "https://www.smol.kp.ru/daily/26132/3023812/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волоколамск",
+          "url": "https://www.tourtrans.ru/countries/cityprint/300.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "История",
+          "url": "https://volok-grad.ru/gorodskoe-poselenie/istoriya"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Volokolamsk - '''Volokolamsk''' ({{lang-ru|''Волокола́мск''}}) is an administrative center of the Volokolamsk_Raion (district) of the Moscow_O...",
+          "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20051215000000/http://en.wikipedia.org/wiki/Volokolamsk#1"
+        },
+        {
+          "date": "2026-04-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "На Волоке ЛАМСКОМ - Архив статей",
+          "url": "https://www.journalpp.ru/articles/articles/articles/arhiv/322#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Волоколамск | это... Что такое Волоколамск?",
+          "url": "https://geo_toponims.academic.ru/1222/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7765,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7765,
+    "cache_read_input_tokens": 5872,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5901,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5901,
+        "cache_read_input_tokens": 3868,
+        "input_tokens": 2,
+        "output_tokens": 458,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 660,
+    "output_tokens_details": {
+      "thinking_tokens": 120
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

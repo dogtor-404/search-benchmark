@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：คำว่า “ด้ำ” (ดิ๋า)** ตามพจนานุกรมฉบับราชบัณฑิตยสถาน บัญญัติว่า “ผีเรือน, ผีบรรพบุรุษ”\n\nคำไทยโบราณที่มีความหมายว่า “ผีเรือน” คือ **“ด้ำ”** (บางเอกสารเขียน “ดิ๋า”) ใช้เรียกบรรพบุรุษที่ล่วงลับไปแล้วซึ่งเป็นวิญญาณประจำเรือน\n\n依据的网址：\n- Longdo Dictionary（引 พจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ. ๒๕๕๔：「ด้ำ ๒ | น. ผีเรือน, ผีบรรพบุรุษ」）— https://dict.longdo.com/mobile.php?search=%2A%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%2A\n- วิทยานิพนธ์ ม.ศิลปากร（จารึกสุโขทัย กล่าวถึง “ดิ๋า” = ผีเรือน）— http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/snamcn/Wirawan_Sompongjaroen/Fulltext.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.657,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.08869439999999999,
+      "inputTokens": 17482,
+      "maxOutputTokens": 32000,
+      "outputTokens": 914,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-78",
+  "raw": "jsonl/D2_prime/msqa-TH-78.jsonl",
+  "reported_cost_usd": 0.08869439999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7245,
+      "query": "คำศัพท์ไทยโบราณ มีความหมายว่า ผีเรือน",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผี (๒ มิถุนายน ๒๕๕๒) - สำนักงานราชบัณฑิตยสภา",
+          "url": "http://legacy.orst.go.th/?knowledges=%e0%b8%9c%e0%b8%b5-%e0%b9%92-%e0%b8%a1%e0%b8%b4%e0%b8%96%e0%b8%b8%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%99-%e0%b9%92%e0%b9%95%e0%b9%95%e0%b9%92"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=%2A%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%2A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ครอบครัวและวงศ์ตระกูลเสียชีวิตไปแล้ว พวกเขาเปลี่ยนสถานภาพเป็น “วิญญาณศักดิ์สิทธิ์” ซึ่ง",
+          "url": "http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/snamcn/Wirawan_Sompongjaroen/Fulltext.pdf#36#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "น",
+          "url": "https://so05.tci-thaijo.org/index.php/SB_Journal/article/download/191596/133728/568413#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ประเพณีการเสนอเรือน พิธีเสนอเรือนเป็นพิธีเช่นไหว้ผีเรือนของเผ่าไทดําซึ่งเป็นผีบรรพ บุรุษได้แก่ พ่อ แม่ ปู่ ย่า ตา ยาย และบรรพบุร...",
+          "url": "https://digital.library.tu.ac.th/tu_dc/digital/api/DownloadDigitalFile/dowload/58520#36#16"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=household%20god"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การแสดงฟอนผิมดผีแยงที่มีขึ้นหลังฤดูกาลเก็บเกี่ยวจะเปนการแสดงออกถึงความเชื่อเรื่องผี",
+          "url": "http://cmuir.cmu.ac.th/jspui/bitstream/6653943832/39977/4/CHAPTER%202.pdf#9#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การงดเว้นไม่จัดทําพิธีเสนอเรือนนั้น อาจทําให้ผีเรือนของตนอดอยากและใน ที่สุดผีเรือนอาจก่อความเดือดร้อนให้แก่คนและคนที่อยู่ในครอบค...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/259375?Resolve_DOI=10.14457/NSRU.res.2008.3#18#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ต้นไม้ (นางไม้ นางตะเคียน นางตานีฯลฯ) ตรงกับรุกขเทวดา ผีฟ้าผีแกนตรงกับอากาสเทวดา",
+          "url": "https://e-thesis.mcu.ac.th/storage/PU23n4AFkeE0IErYgvMDjSPlqiuX00GAszOaPtfH.pdf#46#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=-%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99-"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8538,
+      "query": "ผีเรือน คำไทยโบราณ เรียก ผีประจำเรือน",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผี (๒ มิถุนายน ๒๕๕๒) - สำนักงานราชบัณฑิตยสภา",
+          "url": "http://legacy.orst.go.th/?knowledges=%e0%b8%9c%e0%b8%b5-%e0%b9%92-%e0%b8%a1%e0%b8%b4%e0%b8%96%e0%b8%b8%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%99-%e0%b9%92%e0%b9%95%e0%b9%95%e0%b9%92"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=%2A%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%2A"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2.  ผีบานผีเรือน  หมายถึง  ผีประจําบาน รักษาเรือนภายใน ผีเรือนเปนผีบรรพบุรุษ เฉพาะครอบครัว  เปนผีพอแมที่ลวงลับไปแลว  แต...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/485262?Resolve_DOI=10.14457/CU.the.2008.1120#34#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ ''ผีเรือน'' แปลว่าอะไร?",
+          "url": "https://dict.longdo.com/search/%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=-%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การแสดงฟอนผิมดผีแยงที่มีขึ้นหลังฤดูกาลเก็บเกี่ยวจะเปนการแสดงออกถึงความเชื่อเรื่องผี",
+          "url": "http://cmuir.cmu.ac.th/jspui/bitstream/6653943832/39977/4/CHAPTER%202.pdf#9#4"
+        },
+        {
+          "date": "2021-07-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เพิ่มบุญผีบ้านผีเรือน “ผู้อยู่” ร่มเย็นร่ำรวย - 25 ก",
+          "url": "https://www.thairath.co.th/lifestyle/culture/2148768#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การงดเว้นไม่จัดทําพิธีเสนอเรือนนั้น อาจทําให้ผีเรือนของตนอดอยากและใน ที่สุดผีเรือนอาจก่อความเดือดร้อนให้แก่คนและคนที่อยู่ในครอบค...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/259375?Resolve_DOI=10.14457/NSRU.res.2008.3#18#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "4) พิธีเจือูผีขึ้นเรือน เป็นพิธีที่เจือูวิญญาณผีเรือนจากป่าซ้ำ หลังจากเสร็จพิธีศพ ให้นำ",
+          "url": "https://cuir.car.chula.ac.th/xmlui/bitstream/handle/123456789/51170/5386802935.pdf?sequence=1&isAllowed=y#38#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "|วิธีการยกเสาเอกจากหมอปลูกเรือน 3 ท่าน (แสดงตัวอย่างการยกเสาเอกวันศุกร์ ในเรือน 6 แม่เสา)|||",
+          "url": "https://cuir.car.chula.ac.th/xmlui/bitstream/handle/123456789/21883/nuttaporn_te.pdf?sequence=1&isAllowed=y#18#40#18"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 17482,
+    "iterations": [],
+    "output_tokens": 914,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

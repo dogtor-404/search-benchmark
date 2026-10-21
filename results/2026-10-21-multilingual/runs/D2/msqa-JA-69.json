@@ -1,0 +1,223 @@
+{
+  "answer": "答案：**「藤墓」（ふじはか）**，即三森山山中与モリ供養相关的墓石群名称。\n\n依据：\n- 山形县埋藏文化财中心的调查纪要：「三森山の山中にはそれら堂以外に、**「藤墓」と称される墓石群**をはじめ、石碑や石塔、供養塔といった石造物が数多く建立されている」  \n  https://yamagatamaibun.or.jp/h24/p60-67_kenkyuu1.pdf\n- 庄内日报的报道也说，山顶附近有七座御堂和「石塔が並ぶ**藤墓**」，供養也在「藤墓」举行  \n  http://shonai-nippo.co.jp/cgi/ad/day.cgi?p=2015:08:23:6785",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.853,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0680104,
+      "inputTokens": 13436,
+      "maxOutputTokens": 32000,
+      "outputTokens": 689,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-JA-69",
+  "raw": "jsonl/D2/msqa-JA-69.jsonl",
+  "reported_cost_usd": 0.0680104,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6803,
+      "query": "文化庁 庄内のモリ供養の習俗 鶴岡市清水 森 三森山 墓石群",
+      "results": [
+        {
+          "date": "2011-09-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "三森山のモリ供養",
+          "url": "https://bunkashisan.ne.jp/bunkashisan/06_yamagata/7243.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（４）調査研究発表",
+          "url": "https://yamagatamaibun.or.jp/h24/p60-67_kenkyuu1.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（２）令和元年に残り３ヵ年での終了が決められたが、コロナ禍の影響を受けて令和２・３年は 中止となった",
+          "url": "https://k-rain.repo.nii.ac.jp/record/2001289/files/kokugakuinzasshi_125_11_003.pdf#5#5"
+        },
+        {
+          "date": "2018-08-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "山頂付近の祭壇に合掌 鶴岡市清水・三森山で「モリ供養」",
+          "url": "http://kyodoshi.com/article/2610"
+        },
+        {
+          "date": "2026-05-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "荘内日報ニュース",
+          "url": "http://shonai-nippo.co.jp/cgi/ad/day.cgi?p=2013:8:23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2007 « 鶴岡市議会議員 草島進一",
+          "url": "http://www.kusajima.org/date/2007/page/15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "死人の魂 | シニンノタマシイ",
+          "url": "https://sekiei.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1420060"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "国指定文化財等データベース",
+          "url": "https://kunishitei.bunka.go.jp/bsys/maindetails/312/739"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ショウナイ ノ モリ クヨウ ノ シュウゾク : ヤマガタケン ショウナイ チホウ ノ モリ クヨウ 庄内のモリ供養の習俗 : 山形県庄内地方のモリ供養 / 山形県教育委員会企画 ; 山形視覚創成協同組合制作",
+          "url": "https://kuline.kulib.kyoto-u.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=BB03613470"
+        },
+        {
+          "date": "2012-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『「送り盆」御霊よ安らかにー◆』",
+          "url": "https://ameblo.jp/hareruyasan18/entry-11335685515.html#cbox"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6476,
+      "query": "庄内のモリ供養 三森山 墓石群 名称",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（４）調査研究発表",
+          "url": "https://yamagatamaibun.or.jp/h24/p60-67_kenkyuu1.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "荘内日報ニュース",
+          "url": "http://shonai-nippo.co.jp/cgi/ad/day.cgi?p=2015:08:23:6785"
+        },
+        {
+          "date": "2011-09-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "三森山のモリ供養",
+          "url": "https://bunkashisan.ne.jp/bunkashisan/06_yamagata/7243.html"
+        },
+        {
+          "date": "2025-05-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "全国現存伝承地ファイル",
+          "url": "https://data.japanmystery.com/tag/%e7%9b%86%e8%a1%8c%e4%ba%8b/"
+        },
+        {
+          "date": "2025-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "三森山（山形県鶴岡市）",
+          "url": "https://data.japanmystery.com/syounai/mitumoriyama/#main"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "（２）令和元年に残り３ヵ年での終了が決められたが、コロナ禍の影響を受けて令和２・３年は 中止となった",
+          "url": "https://k-rain.repo.nii.ac.jp/record/2001289/files/kokugakuinzasshi_125_11_003.pdf#5#5"
+        },
+        {
+          "date": "2026-08-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "佐藤弘夫｜モリに帰る霊-死者と生者が交歓する山［思想・哲学］｜A&F BOOKS - 佐藤弘夫｜モリに帰る霊-死者と生者が交歓する山［思想・哲学］",
+          "url": "https://note.com/aandfbooks/n/nd7c387942998#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ツ谷川に着きました",
+          "url": "https://shibu.jac1.or.jp/yamagata/yama/17.pdf#3#3"
+        },
+        {
+          "date": "2012-08-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『「送り盆」御霊よ安らかにー◆』",
+          "url": "https://ameblo.jp/hareruyasan18/entry-11335685515.html#cbox"
+        },
+        {
+          "date": "2018-08-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "山頂付近の祭壇に合掌 鶴岡市清水・三森山で「モリ供養」",
+          "url": "http://kyodoshi.com/article/2610"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13436,
+    "iterations": [],
+    "output_tokens": 689,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

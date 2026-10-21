@@ -1,0 +1,145 @@
+{
+  "answer": "ผมหาคำตอบที่ยืนยันได้ไม่เจอ ระบบตัดการค้นหาเพราะครบโควตา 5 ครั้งแล้ว ซึ่งนับรวมครั้งที่ถูกบล็อกนี้ด้วย\n\nผลค้นหาทั้งหมดไม่มีแหล่งใดระบุชื่อลายที่เป็น \"สี่เหลี่ยมข้าวหลามตัดต่อกันเป็นลายขนาดใหญ่\" บนซิ่นตีนจก ผมจึงไม่ขอเดาชื่อ\n\nสิ่งที่พบจากแหล่งเหล่านี้:\n- ชื่อลายตีนจกของราชบุรี (ไท-ยวน) มี ดอกเซีย, กาบ, หน้าหมอน, โก้งเก้ง, หักนกคู่ ซึ่งไม่มีชื่อไหนระบุว่าเป็นข้าวหลามตัด\n- ซิ่นตีนจกลาวครั่ง สุพรรณบุรี มีแม่ลาย 10 ลาย เช่น ระฆัง, ปู, ดอกแก้ว, ดอกจัน, ขอ, ปีกบาง, ผีเสื้อ, มะเขือ และขอขื่อ แต่ไม่มีข้อความว่าลายใดเป็นข้าวหลามตัดขนาดใหญ่\n- ซิ่นตีนจกแม่แจ่มมีส่วนกลางเป็นรูปสี่เหลี่ยมขนมเปียกปูน แต่แหล่งที่พบไม่ได้ตั้งชื่อลายนั้น\n\nถ้าต้องตอบข้อสอบ ผมไม่มีคำตอบที่มีหลักฐานรองรับ ควรเช็กกับหน้าวิกิพีเดียไทยเรื่อง \"ผ้าซิ่นตีนจก\" หรือตำราที่ใช้ออกข้อสอบข้อนี้ เพราะข้อความในโจทย์น่าจะมาจากแหล่งนั้น\n\nSources:\n- [สารานุกรมวัฒนธรรมไทยภาคเหนือ (library.payap.ac.th)](https://library.payap.ac.th/webin/ntic/web_NTIC_article_2554/content/content/54001.pdf)\n- [ผ้าซิ่นตีนจกไท-ยวน ตระกูลคูบัว 1 (sacit Archive)](https://archive.sacit.or.th/handicraft/1717)\n- [ผ้าซิ่นตีนจกลาวครั่ง ตัวซิ่นลายหมี่คั่น (sacit Archive)](https://archive.sacit.or.th/handicraft/2494)\n- [สืบสาน \"ผ้าจกคูบัว\" มรดกชุมชนไทยวนในราชบุรี (Thai PBS)](https://www.thaipbs.or.th/news/content/255677)\n- [บทความ so01.tci-thaijo.org](https://so01.tci-thaijo.org/index.php/ajnu/article/download/131429/159380/786848)",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "query": "ตีนจก ลายขนมเปียกปูน ข้าวหลามตัด ต่อกันเป็นลายใหญ่ \"ลายดอกใหญ่\" OR \"ลายหลักใหญ่\" OR \"ลายเกาะใหญ่\" OR \"ลายแปดกลีบ\" ซิ่นตีนจก ลายโดดเด่น",
+      "results": [],
+      "status": "budget_exhausted",
+      "tool_use_id": "toolu_01UtS7nwKVba9yexBvrKKYox"
+    }
+  ],
+  "elapsed_seconds": 66.718,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0591144,
+      "inputTokens": 61174,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5994,
+      "provider": "firstParty",
+      "thinkingTokens": 1557,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 11422,
+      "cacheReadInputTokens": 54813,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0805973,
+      "inputTokens": 14,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2940,
+      "provider": "firstParty",
+      "thinkingTokens": 772,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-51",
+  "raw": "jsonl/A/msqa-TH-51.jsonl",
+  "reported_cost_usd": 0.13971170000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ซิ่นตีนจก ลายสี่เหลี่ยมข้าวหลามตัดกันเป็นลายขนาดใหญ่ เรียกว่า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CtFVshaE2QiZo1cZ2Dkmgs"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "ซิ่นตีนจก ลวดลายโดดเด่น ลายสี่เหลี่ยมข้าวหลามตัดต่อกันเป็นลายใหญ่ เรียกว่า \"ลาย\" ตีนจกแม่แจ่ม",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XK754f3k8pTzEwVN1GtMPt"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "ซิ่นตีนจก ลายสี่เหลี่ยมข้าวหลามตัดต่อกันเป็นลายขนาดใหญ่ เรียกว่า ลายกาบ OR ลายหลัก OR ลายดอก ผ้าซิ่นตีนจก ลักษณะลวดลาย",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Lzn4qQJTh1CWzNct8pCyX9"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "ซิ่นตีนจก \"ข้าวหลามตัด\" ลายขนาดใหญ่ เรียกว่า \"ลายผักกูด\" OR \"ลายหงส์\" OR \"ลายเครือเถา\" OR \"ลายขอ\" ตีนจก ราชบุรี ลาวครั่ง ไทยวน",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01UyX8mnZBRFsKd12Hh7N2Gm"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "ผ้าซิ่นตีนจก วิกิพีเดีย ลวดลายที่โดดเด่น ลายสี่เหลี่ยมข้าวหลามตัดต่อกันเป็นลายขนาดใหญ่ เรียกว่า ลายดอกแก้ว",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FjQ7TpEY4iN3gyAZXAMrAT"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11422,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11422,
+    "cache_read_input_tokens": 54813,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 14,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 485,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 485,
+        "cache_read_input_tokens": 13388,
+        "input_tokens": 2,
+        "output_tokens": 1125,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 2940,
+    "output_tokens_details": {
+      "thinking_tokens": 772
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

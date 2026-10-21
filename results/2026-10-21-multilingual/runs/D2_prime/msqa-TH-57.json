@@ -1,0 +1,144 @@
+{
+  "answer": "**答案：Lvo（高棉语：ល្វោ / ល្វោ）**\n\n高棉碑铭中把 Lavo 称为 **Lvo**，即今泰国华富里（Lopburi）的古名。\n\n依据网址：https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en（其中写明 “The ancient Cambodian inscriptions give to the Lo-hu people the name of Lvo, which must be identical with Lavo”）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.246,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2560,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.040228,
+      "inputTokens": 7349,
+      "maxOutputTokens": 32000,
+      "outputTokens": 516,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-57",
+  "raw": "jsonl/D2_prime/msqa-TH-57.jsonl",
+  "reported_cost_usd": 0.040228,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6558,
+      "query": "Lavo 10th century Khmer vassal called Lvo Lavapura Khmer name",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "National Institute of Informatics - Digital Silk Road Project Digital Archive of Toyo Bunko Rare Books",
+          "url": "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page-hr/0172.html.en"
+        },
+        {
+          "date": "2026-02-07T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拉沃王国",
+          "url": "https://baike.baidu.com/item/%e6%8b%89%e6%b2%83%e7%8e%8b%e5%9b%bd/54558217"
+        },
+        {
+          "date": "2009-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Wikipedia - Following Angkorian 9-year civil wars, Tambralinga lost Lavo to Angkor's Suryavarman I, who marched the troops to destroy severa...",
+          "url": "https://en.wikipedia.org/wiki/Lavo_Kingdom#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Regno di Lavo - Regno di Lavo",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_it_all_maxi/Regno_di_Lavo#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Locach - Locach",
+          "url": "https://browse.library.kiwix.org/content/wikipedia_en_all_maxi/Locach#1"
+        },
+        {
+          "date": "2009-04-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lavo Kingdom - Wikipedia - Phra Chao Luang[b] | พระเจ้าหลวง | 1089–1111 | King Phrom of Yonok seized Lopburi in 1106 and appointed his son from Si Satchana...",
+          "url": "https://en.m.wikipedia.org/wiki/Lavo_Kingdom#3"
+        },
+        {
+          "date": "2020-11-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lopburi: the historical centre of the region",
+          "url": "https://www.lorap-ismeo.eu/lopburi-the-historical-centre-of-the-region/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "9. Also Lavo, Lvo, Lopburi, Lophburi, Lophaburi or Lavapura (Navapura)",
+          "url": "https://ia601402.us.archive.org/14/items/in.ernet.dli.2015.149949/2015.149949.The-Tai-And-The-Tai-Kingdoms.pdf#114#42"
+        },
+        {
+          "date": "2025-05-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Walking with the past: Khmer architectur | Trip.com Lop Buri",
+          "url": "https://th.trip.com/moments/detail/lop-buri-23198-132301066?locale=en-TH"
+        },
+        {
+          "date": "2011-11-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Prints of Prang Sam Yot, originally a Khmer Hindu shrine",
+          "url": "https://prints.imagebroker.com/category-buddhism/prang-sam-yot-originally-khmer-hindu-shrine-43249749.html?cyid=2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2560,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7349,
+    "iterations": [],
+    "output_tokens": 516,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

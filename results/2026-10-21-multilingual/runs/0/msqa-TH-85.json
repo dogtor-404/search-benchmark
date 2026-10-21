@@ -1,0 +1,74 @@
+{
+  "answer": "ภาพกาก (ภาพที่เป็นตัวประกอบ) คือภาพเล็กๆ ของชาวบ้าน ไพร่ ข้าทาส สัตว์ และฉากชีวิตประจำวัน ที่วาดแทรกอยู่รอบภาพหลัก เช่น พระพุทธเจ้า เทพ และกษัตริย์ในจิตรกรรมฝาผนังไทย ภาพกากมักวาดด้วยเส้นอิสระและรวดเร็ว ไม่เคร่งเรื่องรูปแบบเหมือนภาพหลัก\n\n**เริ่มเห็นในสมัยไหน** ตามที่ผมรู้ มีสองช่วง\n\n- **สมัยอยุธยา**: ภาพกากน่าจะมีมาตั้งแต่สมัยนี้ โดยเฉพาะช่วงอยุธยาตอนปลาย ซึ่งภาพแสดงชีวิตผู้คนเริ่มมากขึ้น แต่ผมไม่ทราบแน่ชัดว่ามีหลักฐานชิ้นแรกที่วัดไหน และเมื่อไร\n- **สมัยรัตนโกสินทร์**: ภาพกากเด่นชัดและมีรายละเอียดมากที่สุด โดยเฉพาะรัชกาลที่ 3 และรัชกาลที่ 4 ซึ่งภาพชีวิตประจำวัน สังคม และอิทธิพลตะวันตกและจีนเข้ามามาก ตัวอย่างที่มักถูกอ้างถึงคือวัดสุทัศนเทพวราราม และวัดบวรนิเวศวิหาร (ผลงานขรัวอินโข่ง)\n\n**สรุป**: โดยทั่วไปถือว่าภาพกากมีมาตั้งแต่สมัยอยุธยา และเฟื่องฟูชัดเจนในสมัยรัตนโกสินทร์ตอนต้นถึงรัชกาลที่ 3–4 ส่วนปีหรือวัดที่เป็นหลักฐานแรกสุดนั้นผมไม่ทราบ\n\nผมไม่แน่ใจเรื่องคำอธิบายในคำถามว่า \"การตวัดวาดที่มีประโยชน์\" ตามที่ผมเข้าใจ คำว่า \"กาก\" หมายถึงส่วนประกอบรอบนอก ไม่ได้แปลว่ามีประโยชน์ ถ้านี่มาจากแหล่งอ้างอิงเฉพาะ ผมตรวจสอบไม่ได้เพราะไม่ได้ค้นเว็บ",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.533,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1837,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0253388,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1783,
+      "provider": "firstParty",
+      "thinkingTokens": 820,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/0/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.0253388,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1837,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1837,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1837,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1837,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 1783,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1783,
+    "output_tokens_details": {
+      "thinking_tokens": 820
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

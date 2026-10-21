@@ -1,0 +1,223 @@
+{
+  "answer": "**titi**（Mentawai 人的传统纹身）在 Arat Sabulungan 传统信仰中并不只是装饰，它主要承担以下功能：\n\n- **身份标识**：标明一个人的身份、所属村落或群体、社会地位和职业。比如，*sikerei*（仪式祭司或萨满）的 titi 图案与普通人（*simata*）不同。\n- **灵魂的“永恒衣裳”**：Mentawai 人相信人死后若身上没有 titi，祖先的灵魂就认不出他；titi 因此是灵魂的精神身份，是会带入来世的“pakaian abadi”。\n- **维系灵魂与身体**：titi 被看作把灵魂“系”在身体里、使其不迷失的纽带。\n- **象征人与祖先、自然的平衡**：几何纹样取自河流、树木、动物、阳光等，体现人与祖先、自然之间的和谐（Arat Sabulungan）。\n- **装饰与审美**：使男性显得威武、女性显得美丽。\n\n依据：\n- https://rri.co.id/mataram/budaya/2808405/tato-tradisional-mentawai-seni-merajah-tubuh-tertua-di-dunia\n- https://m.tribunnews.com/travel/7770377/jejak-titi-mentawai-tradisi-tato-tubuh-yang-lahir-dari-alam-indonesia\n- https://id.m.wikipedia.org/wiki/Mutiti\n- https://opera.liputan6.com/news/read/5410801/titi-tato-mentawai-yang-dijadikan-sebagai-identitas-diri",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.454,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.09319840000000001,
+      "inputTokens": 18883,
+      "maxOutputTokens": 32000,
+      "outputTokens": 859,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-31",
+  "raw": "jsonl/D2/msqa-ID-31.jsonl",
+  "reported_cost_usd": 0.09319840000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6948,
+      "query": "titi kepercayaan tradisional suku Mentawai fungsi",
+      "results": [
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia - RRI.co.id - Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia",
+          "url": "https://rri.co.id/mataram/budaya/2808405/tato-tradisional-mentawai-seni-merajah-tubuh-tertua-di-dunia#1"
+        },
+        {
+          "date": "2026-06-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\" - RRI.co.id - Tato Mentawai, \"Simbol Keselarasan Alam, dan Identitas Leluhur\"",
+          "url": "https://rri.co.id/bukittinggi/budaya/2482445/tato-mentawai-simbol-keselarasan-alam-dan-identitas-leluhur#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“Dengan hati yang murni membela kerajaan” yang digunakan di wajah mereka",
+          "url": "https://repository.uksw.edu/bitstream/123456789/13324/2/T2_752014027_BAB%20II.pdf#7#5"
+        },
+        {
+          "date": "2025-08-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "TATO SEBAGAI REPRESENTASI IDENTITAS: STUDI LITERATUR TENTANG PERBANDINGAN MAKNA SOSIAL TATO PADA MASYARAKAT MENTAWAI DAN MASYARAKAT URBAN MODERN DALAM PERSPEKTIF POSTMODERN",
+          "url": "http://digilib.unila.ac.id/90884/"
+        },
+        {
+          "date": "2025-12-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Jejak Titi Mentawai, Tradisi Tato Tubuh yang Lahir dari Alam Indonesia - Tribunnews.com - ✖",
+          "url": "https://m.tribunnews.com/travel/7770377/jejak-titi-mentawai-tradisi-tato-tubuh-yang-lahir-dari-alam-indonesia#1"
+        },
+        {
+          "date": "2023-09-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Titi, Tato Mentawai yang Dijadikan Sebagai Identitas Diri - Titi, Tato Mentawai yang Dijadikan Sebagai Identitas Diri",
+          "url": "https://opera.liputan6.com/news/read/5410801/titi-tato-mentawai-yang-dijadikan-sebagai-identitas-diri?utm_campaign=Share_Top#1"
+        },
+        {
+          "date": "2023-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mutiti - Wikipedia bahasa Indonesia, ensiklopedia bebas - Mutiti",
+          "url": "https://id.m.wikipedia.org/wiki/Mutiti#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Motif titi baylat (tato yang terdapat di bagian wajah) yang terdapat di wilayah yang menjadi fokus penelitian memiliki kesamaan ...",
+          "url": "https://repositori.kemdikbud.go.id/2844/1/Kajian%20Semiotik%20dan%20Mitologis%20Terhadap%20Tato%20Masyarakat%20Tradisional%20Kepulauan%20Mentawai.pdf#18#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Atraksi Pembuatan Tato tradisional Mentawai/Titi Mentawai",
+          "url": "https://jadesta.kemenpar.go.id/atraksi/pembuatan_tato_tradisional_mentawaititi_mentawai"
+        },
+        {
+          "date": "2023-09-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mentawai Tattoo Revival",
+          "url": "https://filmdokumenter.id/films/mentawai-tattoo-revival/#brx-content"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7036,
+      "query": "Mentawai titi arwah nenek moyang kepercayaan",
+      "results": [
+        {
+          "date": "2026-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia - RRI.co.id - Tato Tradisional Mentawai, Seni Merajah Tubuh Tertua di Dunia",
+          "url": "https://rri.co.id/mataram/budaya/2808405/tato-tradisional-mentawai-seni-merajah-tubuh-tertua-di-dunia#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dalam acara-acara seperti penebangan pohon baik untuk bahan uma, rusuk dan lelep ataupun",
+          "url": "http://kebudayaan.kemdikbud.go.id/ditkt/wp-content/uploads/sites/6/2016/07/Arat-Laggai-Sebagai-Penguat-Jati-Diri-Bangsa.pdf#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "gaib",
+          "url": "https://repositori.kemdikbud.go.id/14087/1/Religi%20pada%20masyarakat%20prasejarah%20di%20indonesia%20.PDF#24#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "rumah sebagai satu keseluruhan mempunyai roh, tetapi begitu pula halnya dengan lantai, atap, balokbalok dan sebagainya",
+          "url": "https://web.usd.ac.id/fakultas/sastra/sasing/f1l3/Downloads/Prosiding%20Seminar%20Nasional%20HISKI%202019-compressed.pdf#21#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "dunia purimanualjat dan sabulungan",
+          "url": "http://jurnalantropologi.fisip.unand.ac.id/index.php/jantro/article/download/73/70#7#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "bertarung",
+          "url": "http://jurnalantropologi.fisip.unand.ac.id/index.php/jantro/article/download/73/70#7#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Mentawel people believe in nature spirits, souls, and ghosts",
+          "url": "https://shodhganga.inflibnet.ac.in/bitstream/10603/165001/9/09_chapter%207.pdf#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "May 18, 1929]    NATURE    775",
+          "url": "https://www.nature.com/articles/123775a0.pdf?pdf=preview#1#1"
+        },
+        {
+          "date": "2023-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menelusuri Suku Mentawai, Kelompok Etnik Tertua di Indonesia yang Sudah Berusia 2000 Tahun Lebih! - Harian Haluan - Halaman 2",
+          "url": "https://www.harianhaluan.com/news/109883507/menelusuri-suku-mentawai-kelompok-etnik-tertua-di-indonesia-yang-sudah-berusia-2000-tahun-lebih?page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kuka-kinua kubai, Vollmond",
+          "url": "https://www.archive.org/download/bub_gb_v-NAAQAAMAAJ/bub_gb_v-NAAQAAMAAJ.pdf#168#136"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 18883,
+    "iterations": [],
+    "output_tokens": 859,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

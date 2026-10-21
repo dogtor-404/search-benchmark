@@ -1,0 +1,62 @@
+{
+  "answer": "“molar” 在西班牙年轻人用语里表达的是**“很酷、很棒、让人喜欢/带劲”**的意思，大致相当于英语的 “to be cool / to rock”。\n\n常见用法：\n- **Me mola** — 我喜欢 / 我觉得很酷。\n- **Mola un montón / Mola mucho** — 超棒、超带劲。\n- **Esa canción mola** — 那首歌很酷/很好听。\n\n它主要表达一种主观的、觉得某事物吸引人、有趣或值得点赞的态度，属于口语和非正式场合的俚语。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.562,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.017835999999999998,
+      "inputTokens": 2039,
+      "maxOutputTokens": 32000,
+      "outputTokens": 484,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ES-83",
+  "raw": "jsonl/D0_prime/msqa-ES-83.jsonl",
+  "reported_cost_usd": 0.017835999999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2039,
+    "iterations": [],
+    "output_tokens": 484,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

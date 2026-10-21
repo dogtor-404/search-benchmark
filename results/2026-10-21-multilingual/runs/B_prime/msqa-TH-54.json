@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：** 他们把“แดกงา”改称 **“ขนมทานงา”**（Khanom Than Nga）。“แดก”听起来粗俗，所以换成了更礼貌的“ทาน”（吃）。\n\n**依据：** 《ศิลปวัฒนธรรม》（Silpa Wattanatham）杂志的文章原文写道：“ปัจจุบันมีคนขายเรียกชื่อเสียใหม่ให้ดูเพราะพริ้งสุภาพ เขาเรียกว่า ‘ขนมทานงา’ แทน ‘แดกงา’”。这句话和题目里的说法完全一样。\n- https://www.silpa-mag.com/culture/article_3886\n- 同一篇文章的 LINE TODAY 转载：https://today.line.me/th/v3/article/JMKVwP\n\n一共搜了 1 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.037,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14156,
+      "cacheReadInputTokens": 5899,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1238038,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 468,
+      "provider": "firstParty",
+      "thinkingTokens": 82,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-54",
+  "raw": "jsonl/B_prime/msqa-TH-54.jsonl",
+  "reported_cost_usd": 0.1238038,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6943,
+      "query": "ขนม แดกงา ชื่อใหม่ สุภาพ",
+      "results": [
+        {
+          "date": "2025-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วิธีทำขนมแดกงา (ข้าวโปง/ข้าวแดกงา) ไส้งาถั่วลิสง หอมหวาน ทำขายได้",
+          "url": "https://www.lemon8-app.com/@banraostory/7541047100583854600?region=th"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงา ชื่อไม่น่ากิน ทำก็ไม่ง่ายแต่อร่อย กับการเปลี่ยนชื่อให้ไพเราะ",
+          "url": "https://www.silpa-mag.com/culture/article_3886"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กลอนดอกสร้อย (46) เป็นขนมเคยทานเรศหวานมัน ขนมขึÊนบุ",
+          "url": "https://has.hcu.ac.th/jspui/bitstream/123456789/1072/5/Chapter3.pdf#22#6"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมผิง Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%9c%e0%b8%b4%e0%b8%87"
+        },
+        {
+          "date": "2021-05-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตามรอย “ขนมแดกงา” ชื่อไม่น่ากิน ทำไม่ง่าย แต่อร่อย สู่การเปลี่ยนชื่อให้ไพเราะ | ศิลปวัฒนธรรม | LINE TODAY - โปรดอัพเดตเบราว์เซอร์",
+          "url": "https://today.line.me/th/v3/article/JMKVwP#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมแดกงาหรือขนมข้าวปุก..ขนมที่โยงความหมายเข้ากับการปลุกใจคนไทใหญ่และมอญให้กอบกู้ชาติบ้านเมืองจากพม่า",
+          "url": "https://foodmanman.blogspot.com/2022/07/blog-post.html?m=0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมไทยโบราณหาทานยาก รูปไม่งาม นามไม่เพราะ แต่อร่อยมากค่ะ",
+          "url": "https://pantip.com/topic/32940308"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ศูนย์ข้อมูลกลางทางวัฒนธรรม _ หน้าแรก",
+          "url": "http://www.m-culture.in.th/album/194976/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%81%E0%B8%87%E0%B8%B2_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%9E_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/"
+        },
+        {
+          "date": "2025-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ขนมกระแดกงา (ขนมแดกงา) คืออะไร? รสชาติเป็นยังไง หาซื้อแถวรามอินทรา กม.2",
+          "url": "https://www.lemon8-app.com/@sasitolsuntarotok/7557646531827450389?region=th"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ไทยใหญ่และมอญ",
+          "url": "https://postjung.com/tag/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%AD%E0%B8%8D"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14156,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14156,
+    "cache_read_input_tokens": 5899,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12265,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12265,
+        "cache_read_input_tokens": 3895,
+        "input_tokens": 2,
+        "output_tokens": 305,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 468,
+    "output_tokens_details": {
+      "thinking_tokens": 82
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

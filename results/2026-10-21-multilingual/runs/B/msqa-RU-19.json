@@ -1,0 +1,235 @@
+{
+  "answer": "**Короткий ответ:** чаще всего этот сноп называли **«именинником»**. Его также звали **«обжинком»** или **«дожинком»**. В других местах он был «Дедом», «Бабой» или «Матерью Пшеницы (Ржи)», а у украинцев — «дідухом».\n\n- Последний сноп жали молча, чтобы не тревожить дух поля, который в него переселялся. Об этом сказано на странице музея: https://vladmuseum.ru/ru/data/ex224/\n- В некоторых местах России последний сноп называли «именинником» и оставляли в поле. В других его приносили домой как «обжинок» или «дожинок». Источники: https://humanities_dictionary.academic.ru/5365/ и https://culture.wikireading.ru/amp50381 (С. Максимов, «Куль хлеба»).\n- Другие названия дожиночного снопа: Именинник, Дед, Баба, Мать Пшеницы (Ржи, Гороха), Житная Царица, Кумушка, Житная Баба. Источник: https://www.liveinternet.ru/users/zapolara/post295787061. Это пересказ в личном дневнике, не научная публикация.\n- Украинский дидух — сноп ржи, который ставили в углу на Рождество: https://ru.wikipedia.org/wiki/Дидух\n\nНе путайте этот сноп с «бородой» («Спасовой» или «Велесовой»). Так называли пучок колосьев, который оставляли несжатым на поле. Домой его не несли.\n\nВопрос не указывает регион, поэтому «именинник» — самый вероятный ответ, но не единственно возможный.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.988,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 20305,
+      "cacheReadInputTokens": 19438,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.09174579999999999,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 857,
+      "provider": "firstParty",
+      "thinkingTokens": 104,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-19",
+  "raw": "jsonl/B/msqa-RU-19.jsonl",
+  "reported_cost_usd": 0.09174579999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7039,
+      "query": "последний сноп жали молча дух ржи \"борода\" \"Спасова борода\" \"Велесова борода\" последний сноп название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "стверджував, що “Велесова борода” є не витвором давніх слов’ян, а лише",
+          "url": "https://uacademic.info/download/file/0407U005260/dis1.doc#49#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**_вступити [ПГУР, 244]; він и вспід ёго не вступить [Ном",
+          "url": "https://uacademic.info/download/file/0514U000383/dis.doc#162#51"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Рахують кілки тину, називаючи один кілочок «молодцем», а другий – «вдівцем», дивлячись за тим, з якою назвою буде кілочок",
+          "url": "http://erpub.chnpu.edu.ua:8080/jspui/bitstream/123456789/3494/1/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%20%D0%B7%20%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BE%D0%BB%D1%8C%D0%BA%D0%BB%D0%BE%D1%80%D1%83.pdf#54#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Отже, вивчаючи міфологію християнських арх",
+          "url": "https://ukralmanac.knu.ua/index.php/ua/article/download/607/599#8#6"
+        },
+        {
+          "date": "2022-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Борода - Борода",
+          "url": "https://vk.ru/@uchi_rvs-boroda#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"Борода\" - Ритуалы - Обряд - Материалы",
+          "url": "https://krugvorona.my1.ru/load/obrjad/ritualy/boroda/97-1-0-457#comments"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Наукові спостереження щодо виникнення ФЕС Велесова борода спрямовують дослідження до історії давніх слов’ян",
+          "url": "http://ebooks.znu.edu.ua/files/Bibliobooks/Inshi47/0038261.pdf#176#78"
+        },
+        {
+          "date": "2026-08-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Загадка последних колосьев: почему украинцы оставляли на поле Спасову бороду и что это такое - 258",
+          "url": "https://lifestyle.24tv.ua/ru/spasova-boroda-chto-jeto-takoe-kakie-obrjady-tradicii-sobljudali_n3119463#1"
+        },
+        {
+          "date": "2009-12-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЭСБЕ/Спасова борода — Викитека",
+          "url": "https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+        },
+        {
+          "date": "2023-06-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЭСБЕ/Спасова борода",
+          "url": "https://xn--h1ajim.xn--p1ai/%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.692,
+      "query": "последний сноп жали молча называли «именинник» «дед» «дидух» дух хлеба вместилище",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "— Этот мальчишка совсем доканал отца Сергия",
+          "url": "https://rusneb.ru/local/tools/exalead/getFiles.php?book_id=000199_000009_004900258&name=000199_000009_004900258_1000212526-%d0%9d%d0%be%d0%b2%d0%be%d0%b5+%d0%b8+%d0%96%d0%b5%d1%80%d0%b5%d0%b1%d1%86%d1%8b.+%d0%9f%d0%be%d0%b2%d0%b5%d1%81%d1%82%d1%8c.+%d0%a1%d0%be%d0%b2%d1%85%d0%be%d0%b7%d1%83+%d0%9a%d0%b0%d1%80%d0%b0%d1%87%d0%b0%d1%80%d0%be%d0%b2%d0%be&doc_type=pdf#30#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дожинки",
+          "url": "https://vladmuseum.ru/ru/data/ex224/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вундöм",
+          "url": "https://ethnokomi.ru/folk/myth/txt152.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Читать бесплатно онлайн книгу Куль хлеба и его похожденияавтор Сергей Максимов - Так в угрюмой Белоруссии и в поэтической Малороссии",
+          "url": "https://books.yandex.ru/books/vnpcrkm9/read-online#19"
+        },
+        {
+          "date": "2021-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Что рассказать детям про август - На исходе лета в хозяйстве, где осталось ещё не убранное поле, его дожинают толокой, то есть с добровольными помощниками",
+          "url": "https://tiflist.ru/citaty/avgust-poslednij-mesyac-leta.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пока колос в поле, трудись подоле. - -Поиск по дневнику",
+          "url": "https://www.liveinternet.ru/users/zapolara/post295787061#1"
+        },
+        {
+          "date": "2012-12-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Дидух — Википедия - Дидух",
+          "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D1%83%D1%85#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Жатвенная обрядность русских Пермского края - Обжинками могли называть как весь комплекс обрядовых действий, сопровождающих",
+          "url": "https://cyberleninka.ru/article/n/zhatvennaya-obryadnost-russkih-permskogo-kraya-1#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Сноп | это... Что такое Сноп?",
+          "url": "https://humanities_dictionary.academic.ru/5365/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Глава V Хлеб созрел — убирают - Так в угрюмой Белоруссии и в поэтической Малороссии",
+          "url": "https://culture.wikireading.ru/amp50381#2"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 20305,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 20305,
+    "cache_read_input_tokens": 19438,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 8736,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 8736,
+        "cache_read_input_tokens": 13573,
+        "input_tokens": 2,
+        "output_tokens": 567,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 857,
+    "output_tokens_details": {
+      "thinking_tokens": 104
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

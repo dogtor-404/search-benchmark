@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban:** **menre'** (juga ditulis *ménré'* atau *mënre'*; dalam kajian dialek Soppeng tercatat *enre'*). Artinya \"naik\" atau \"ke atas\". Contoh pemakaiannya: *dui' menre'* (\"uang naik\", yaitu uang antaran pernikahan), *menre' bola* (\"naik rumah\"), dan *menre tojang* (\"naik ayun\").\n\nSaya cukup yakin dengan jawaban ini. Tiga sumber yang terpisah mendukungnya, dan dua di antaranya menyebut arti kata ini secara langsung.\n\n**Sumber:**\n- https://jurnal.untan.ac.id/index.php/JPSH/article/view/101579 (\"menre means to rise or to climb\")\n- http://repository.iainsasbabel.ac.id/id/eprint/3281/2/BAB%20II_2132039.pdf (\"Menre' berarti naik\")\n- https://repositori.kemdikbud.go.id/26234/1/Bahasa%20Bugis%20Soppeng%20Valensi%20Morfologi%20Dasar%20Kata%20Kerja%201982.pdf (\"enre' 'naik'\")\n\nSaya memakai 1 dari 5 kali pencarian.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 25.398,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 16743,
+      "cacheReadInputTokens": 5855,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.147251,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 606,
+      "provider": "firstParty",
+      "thinkingTokens": 92,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-79",
+  "raw": "jsonl/B_prime/msqa-ID-79.jsonl",
+  "reported_cost_usd": 0.147251,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7932,
+      "query": "bahasa Bugis \"naik\" ménré kamus",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kedua, dui’ mënre’ (secara harfiah berarti ‘uang naik’) adalah ‘uang antaran’ pihak  mempelai laki-laki kepada keluarga pihak me...",
+          "url": "https://eprints.uty.ac.id:443/8681/1/Similarity%20Check%20%3D%202.%20Harga%20Perempuan%20dan%20Implikasinya%20Studi%20terhadap%20Tradisi%20Pernikahan%20Masyarakat%20Bugis.pdf#4#2"
+        },
+        {
+          "date": "2026-02-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Naik Ayun Tradition Among the Bugis Community in Peniti Dalam II Village, Segedong District, Mempawah Regency",
+          "url": "https://jurnal.untan.ac.id/index.php/JPSH/article/view/101579"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Doi’ Menre berasal dari dua kata, Doi’ dalam bahasa Suku Bugis yang berarti uang dan Menre’ berarti naik",
+          "url": "http://repository.iainsasbabel.ac.id/id/eprint/3281/2/BAB%20II_2132039.pdf#2#2"
+        },
+        {
+          "date": "2025-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Naik Ayun Tradition Among the Bugis Community in Peniti Dalam II Village, Segedong District, Mempawah Regency",
+          "url": "https://www.scilit.com/publications/b1fcfe6f4188d77959cd7189f5be30f3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The tradition of naik ayun or menre tojang plays an important role in growing the social capital of the Bugis community, especia...",
+          "url": "https://jurnal.untan.ac.id/index.php/JPSH/article/download/100602/pdf#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "tudang 'duduk' — ripatudang '(so) dipersilakan duduk'",
+          "url": "https://repositori.kemdikbud.go.id/26234/1/Bahasa%20Bugis%20Soppeng%20Valensi%20Morfologi%20Dasar%20Kata%20Kerja%201982.pdf#35#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Role of Management Accounting in Determining Dui'menre in Bugis Traditional Wedding Traditions",
+          "url": "https://ejournal.iainpalopo.ac.id/index.php/alkharaj/article/download/8538/5320/33124#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "di jumpai sampai saat ini, _Menre’bola baru sarat akan makna dan nilai-nilai_",
+          "url": "http://repositori.uin-alauddin.ac.id/16186/1/AMBO%20ANGKA.pdf#10#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Di kalangan orang Bugis dan Makassar, dikenal suatu budaya yang dinamakan dalam bahasa Belanda Standen Stelsel, terjemahan bebas...",
+          "url": "https://repository.uinjkt.ac.id/dspace/bitstream/123456789/43046/1/MUHAMMAD%20RAFI%20IRWANZAH-FSH.pdf#14#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "AI-Bayyinah: Journal of Islamic Law-ISSN: 1979-7486 (p);",
+          "url": "https://mail.jurnal.iain-bone.ac.id/index.php/albayyinah/article/download/38/pdf#2#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 16743,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16743,
+    "cache_read_input_tokens": 5855,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 14896,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 14896,
+        "cache_read_input_tokens": 3851,
+        "input_tokens": 2,
+        "output_tokens": 484,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 606,
+    "output_tokens_details": {
+      "thinking_tokens": 92
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "answer": "ผมค้นครบ 5 ครั้งแล้ว (ครั้งที่ 5 ถูกระบบตัดเพราะเกินโควตา) จึงสรุปจากข้อมูลที่มี\n\n**คำตอบ: ตอบไม่ได้ว่า \"ภาพกาก\" เริ่มปรากฏในสมัยไหน** ผลค้นหาทั้งหมดไม่มีแหล่งไหนระบุสมัยที่เริ่มมีภาพกาก\n\nสิ่งที่ยืนยันได้:\n- ภาพกากคือภาพตัวประกอบ ที่แทรกอยู่ในงานจิตรกรรมฝาผนังไทย คำว่า \"กาก\" ในที่นี้ไม่ได้มีความหมายในทางลบ ([ศิลปวัฒนธรรม](https://www.silpa-mag.com/?p=158656))\n- มีงานวิจัยในวารสารมัณฑนศิลป์ ที่ศึกษาตัวกากในจิตรกรรมสมัยอยุธยาตอนต้น ([ผลค้นหา](https://so07.tci-thaijo.org/index.php/decorativeartsJournal/article/download/2443/2148/22620)) แต่ผมอ่านเนื้อหาไม่ได้ จึงบอกไม่ได้ว่างานนี้สรุปว่าภาพกากเริ่มในสมัยนั้นหรือไม่\n- จิตรกรรมในกรุพระปรางค์วัดราชบูรณะ เป็นจิตรกรรมสมัยอยุธยาตอนต้น ราวพุทธศตวรรษที่ 20 ([มติชน](https://www.matichon.co.th/entertainment/arts-culture/news_101631)) แต่ผลค้นหาไม่ได้บอกว่ามีภาพกากอยู่ในนั้น\n\nถ้าต้องเดา สมัยอยุธยาตอนต้นเป็นสมัยที่น่าจะเกี่ยวข้อง แต่ผมไม่มีหลักฐานยืนยัน ควรเปิดอ่านบทความในวารสารมัณฑนศิลป์ฉบับเต็มก่อนนำไปอ้างอิง\n\nSources:\n- [ศิลปวัฒนธรรม: \"ภาพกาก\"](https://www.silpa-mag.com/?p=158656)\n- [วารสารมัณฑนศิลป์](https://so07.tci-thaijo.org/index.php/decorativeartsJournal/article/download/2443/2148/22620)\n- [มติชน: เปิดกรุวัดราชบูรณะ](https://www.matichon.co.th/entertainment/arts-culture/news_101631)",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "query": "ภาพกาก เริ่มมีในสมัยอยุธยาตอนปลาย จิตรกรรมไทย วิถีชีวิตชาวบ้าน แทรกในภาพ",
+      "results": [],
+      "status": "budget_exhausted",
+      "tool_use_id": "toolu_0152feq6bkuXawrxNxNDJrYr"
+    }
+  ],
+  "elapsed_seconds": 50.503,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059227,
+      "inputTokens": 60270,
+      "maxOutputTokens": 128000,
+      "outputTokens": 6400,
+      "provider": "firstParty",
+      "thinkingTokens": 1593,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 11371,
+      "cacheReadInputTokens": 47692,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0697672,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1949,
+      "provider": "firstParty",
+      "thinkingTokens": 188,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/A/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.1289942,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ภาพกาก จิตรกรรมฝาผนัง เริ่มปรากฏสมัยใด",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HxbQCDTcaqgStawKkNPMpy"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "ภาพกาก คืออะไร จิตรกรรมไทย เริ่มมีภาพกาก สมัยอยุธยา รัตนโกสินทร์",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QDfj1nz9yby3sZwiTiFGeV"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"ภาพกาก\" ปรากฏครั้งแรก สมัย จิตรกรรมฝาผนัง วัดใหญ่สุวรรณาราม",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Y65xXQJcACHZQJQnyHz7Fh"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "ตัวกาก จิตรกรรมฝาผนัง สมัยอยุธยาตอนต้น วัดราชบูรณะ กรุศิลปะ เริ่มปรากฏ ภาพกาก",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0158cEhGRVw8BZJURuqhAx4o"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "ตัวกาก ในจิตรกรรมฝาผนังสมัยอยุธยาตอนต้น วารสารมัณฑนศิลป์ บทคัดย่อ",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XKLjDxsXH6yvDAcpfeRN1F"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 11371,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 11371,
+    "cache_read_input_tokens": 47692,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 328,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 328,
+        "cache_read_input_tokens": 13494,
+        "input_tokens": 2,
+        "output_tokens": 971,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1949,
+    "output_tokens_details": {
+      "thinking_tokens": 188
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

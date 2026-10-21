@@ -1,0 +1,223 @@
+{
+  "answer": "**Столбы** (также «стоять столбом») — масленичный обряд, при котором молодожёны в лучших нарядах (часто в венчальных) становились рядами по обеим сторонам деревенской улицы и по требованию прохожих целовались; кричали: «Порох на губах!», «А нуте-ка, покажите, как вы любитесь?».\n\nИсточники:\n- https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm (С. В. Максимов, «Нечистая, неведомая и крестная сила»)\n- https://studfile.net/preview/5911191/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.234,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06345039999999999,
+      "inputTokens": 13031,
+      "maxOutputTokens": 32000,
+      "outputTokens": 542,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-28",
+  "raw": "jsonl/D2/msqa-RU-28.jsonl",
+  "reported_cost_usd": 0.06345039999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7721,
+      "query": "масленичный обряд молодые супруги рядами вдоль деревенской улицы целоваться всем желающим",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В пределах европейской территории России можно го- ворить о двух типах масленичной обрядности — северном и среднерусско-поволжск...",
+          "url": "https://www.booksite.ru/fulltext/nosova/text.pdf#30#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С. В. Максимов. Нечистая, неведомая и крестная сила(9) - для них закупались сласти",
+          "url": "https://www.booksite.ru/fulltext/.../fulltext/nec/his/ty/9.htm#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Какую вы узнали новую информацию",
+          "url": "http://educomm.iro.perm.ru/download/posts/master-klass-po-angliyskomu-yazyku#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Городецком р-не парни ходили по дворам «смотреть молодых»",
+          "url": "https://inslav.ru/sites/default/files/zhs-1998-2.pdf#29#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Русский крестьянский транспорт в традиционной праздничной обрядности XIX первой трети XX в. - Особое ритуальное значение и смысл имели масленичные катания («прокатывание) на салазках и санках для молодоженов: они окончател...",
+          "url": "https://cyberleninka.ru/article/n/russkiy-krestyanskiy-transport-v-traditsionnoy-prazdnichnoy-obryadnosti-xix-pervoy-treti-xx-v#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "России свадьбы игрались осенью, от Покрова  до Никольского  поста",
+          "url": "http://elib.kspu.ru/get/16550#41#13"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекция 4. Календарная обрядовая поэзия - Вторник называли «заигрыши»",
+          "url": "https://textbook.tou.edu.kz/books/220/4.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Масленица - Больше всего внимания и почестей оказывали на масленицу молодожёнам",
+          "url": "https://studfile.net/preview/5911191/#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Одним из очень древних масленичных обрядов, связанных с «новоженами», был обычай собирать с молодых т",
+          "url": "https://babr24.com/engint30/pdf/20/20236.pdf#11#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Читать реферат по культурологии: \"Масленица\" Страница 5 - Рефератов: 767008",
+          "url": "https://referat.co/referat/251811-kulturologiya-maslenitsa/read?p=5#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7439,
+      "query": "масленица обряд \"молодожёны\" \"вдоль улицы\" целоваться название обряда",
+      "results": [
+        {
+          "date": "2013-03-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Масленица (Александр Мишутин) / Проза.ру - Масленица",
+          "url": "https://proza.ru/2013/03/05/1940#1"
+        },
+        {
+          "date": "2021-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MAAM.ru: Посиделки «Широкая масленица у казачат» - Посиделки «Широкая масленица у казачат» (5 фото)",
+          "url": "https://www.maam.ru/detskijsad/fototchyot-posidelki-shirokaja-maslenica-u-kazachat.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекция 4. Календарная обрядовая поэзия - Вторник называли «заигрыши»",
+          "url": "https://textbook.tou.edu.kz/books/220/4.html#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вечерами, после катания на лошадях, девуш- ки и ребята собирались на ВЕЧЕРИНУ («ИГРИШШО») в избе",
+          "url": "http://yarpr.ru/wp-content/uploads/2020/11/tradicii-vologodskoi-oblosti.pdf#98#17"
+        },
+        {
+          "date": "2020-02-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Масленица. Четвёртый день — широкий четверг, разгул, перелом",
+          "url": "https://pogoda-crimea.ru/maslenitsa-chetvyortyj-den-shirokij-chetverg-razgul-perelom/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "У жителей села Напольного самыми почитаемыми праздниками были Масленица и Троица",
+          "url": "https://interactive-plus.ru/e-publications/e-publication-959.pdf#124#81"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(люди) испытывали к Масленице двоякие чувства",
+          "url": "https://orel-ddt3.obr57.ru/media/ckeditor/orel-ddt3-adm/2022/11/29/KTD-obrjad-MASLENICA-2020.pdf#4#4"
+        },
+        {
+          "date": "2015-02-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ах, Масленица! Эх, масленица... (Оксана Прудковская) / Проза.ру - Ах, Масленица! Эх, масленица...",
+          "url": "https://proza.ru/2015/02/09/1356#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Большая российская энциклопедия",
+          "url": "https://bigenc.ru/pdf/2190203#1#1"
+        },
+        {
+          "date": "2024-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Традиции Масленицы, дошедшие до наших дней",
+          "url": "https://my.mail.ru/community/familylunin/44DA5478920925D6.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13031,
+    "iterations": [],
+    "output_tokens": 542,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

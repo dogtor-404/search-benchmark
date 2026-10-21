@@ -1,0 +1,74 @@
+{
+  "answer": "Menurut yang saya ketahui, suku Asmat mengenal tiga konsep dunia:\n\n1. **Amat Ow Campinmi**: dunia tempat manusia hidup sekarang.\n2. **Dampu Ow Campinmi**: dunia arwah, tempat roh orang yang meninggal berada sebelum masuk ke alam akhir. Roh yang belum diantar lewat upacara dipercaya masih menetap di sini.\n3. **Safar**: dunia akhirat atau surga, tempat roh yang sudah diantar dengan benar.\n\nEjaan istilahnya agak berbeda-beda antar sumber (misalnya *Campinmi* atau *Capinmi*). Karena tidak bisa mengecek sumber, saya tidak sepenuhnya yakin soal ejaan dan rincian penjelasan tiap dunia.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.855,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 3331,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0068471,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 651,
+      "provider": "firstParty",
+      "thinkingTokens": 355,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-69",
+  "raw": "jsonl/0/msqa-ID-69.jsonl",
+  "reported_cost_usd": 0.0068471,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 3331,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 3331,
+        "input_tokens": 2,
+        "output_tokens": 651,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 651,
+    "output_tokens_details": {
+      "thinking_tokens": 355
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

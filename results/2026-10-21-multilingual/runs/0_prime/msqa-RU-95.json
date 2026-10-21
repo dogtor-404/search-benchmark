@@ -1,0 +1,74 @@
+{
+  "answer": "**答案：прецедентный текст（先例文本 / 典故文本）。**\n\n这是 В. В. Красных 等人的表述：прецедентный текст 是“законченный и самодостаточный продукт речемыслительной деятельности”，是一种（多）谓项单位、复杂符号。它为某一语言文化群体普遍熟知，人们会反复引用、援引它。这个概念最早由 Ю. Н. Караулов 提出，是他的“语言个性”理论的一部分。\n\n（本回答没有上网查证，凭记忆作答。）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.992,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1772,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0234976,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 450,
+      "provider": "firstParty",
+      "thinkingTokens": 262,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-95",
+  "raw": "jsonl/0_prime/msqa-RU-95.jsonl",
+  "reported_cost_usd": 0.0234976,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1772,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1772,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1772,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1772,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 450,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 450,
+    "output_tokens_details": {
+      "thinking_tokens": 262
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

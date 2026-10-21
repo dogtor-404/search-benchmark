@@ -1,0 +1,6 @@
+{"billable": false, "call": 1, "query": "ภาพกาก จิตรกรรมฝาผนัง เริ่มปรากฏสมัยใด", "results": [], "status": "allowed", "tool_use_id": "toolu_01HxbQCDTcaqgStawKkNPMpy"}
+{"billable": false, "call": 2, "query": "ภาพกาก คืออะไร จิตรกรรมไทย เริ่มมีภาพกาก สมัยอยุธยา รัตนโกสินทร์", "results": [], "status": "allowed", "tool_use_id": "toolu_01QDfj1nz9yby3sZwiTiFGeV"}
+{"billable": false, "call": 3, "query": "\"ภาพกาก\" ปรากฏครั้งแรก สมัย จิตรกรรมฝาผนัง วัดใหญ่สุวรรณาราม", "results": [], "status": "allowed", "tool_use_id": "toolu_01Y65xXQJcACHZQJQnyHz7Fh"}
+{"billable": false, "call": 4, "query": "ตัวกาก จิตรกรรมฝาผนัง สมัยอยุธยาตอนต้น วัดราชบูรณะ กรุศิลปะ เริ่มปรากฏ ภาพกาก", "results": [], "status": "allowed", "tool_use_id": "toolu_0158cEhGRVw8BZJURuqhAx4o"}
+{"billable": false, "call": 5, "query": "ตัวกาก ในจิตรกรรมฝาผนังสมัยอยุธยาตอนต้น วารสารมัณฑนศิลป์ บทคัดย่อ", "results": [], "status": "allowed", "tool_use_id": "toolu_01XKLjDxsXH6yvDAcpfeRN1F"}
+{"billable": false, "call": null, "query": "ภาพกาก เริ่มมีในสมัยอยุธยาตอนปลาย จิตรกรรมไทย วิถีชีวิตชาวบ้าน แทรกในภาพ", "results": [], "status": "budget_exhausted", "tool_use_id": "toolu_0152feq6bkuXawrxNxNDJrYr"}

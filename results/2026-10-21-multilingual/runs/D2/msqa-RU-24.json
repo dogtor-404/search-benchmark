@@ -1,0 +1,469 @@
+{
+  "answer": "**Шелонская пятина**（舍隆庄田）。\n\n这是诺夫哥罗德（Новгород）的“西部 пятина”（пятина，即诺夫哥罗德划分出的五大行政区之一）。其边界为卢加河（Луга）、芬兰湾沿岸、纳尔瓦河（Нарва）和洛瓦季河（Ловать），因此它正位于卢加河与纳尔瓦河之间。它分为扎鲁斯卡亚（Зарусская）和扎列斯卡亚（Залесская）两个半区。\n\n依据：\n- https://ru.wikipedia.org/wiki/Шелонская_пятина\n- https://plussa-region.narod.ru/library/haupt/shelonj.htm",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "elapsed_seconds": 0,
+      "query": "новгородская пятина занимавшая западные земли между бассейнами рек Луга Нарва",
+      "results": [],
+      "status": "budget_exhausted"
+    }
+  ],
+  "elapsed_seconds": 24.955,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 46848,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.20876560000000005,
+      "inputTokens": 31164,
+      "maxOutputTokens": 32000,
+      "outputTokens": 3737,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-24",
+  "raw": "jsonl/D2/msqa-RU-24.jsonl",
+  "reported_cost_usd": 0.20876560000000005,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0.00375,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6935,
+      "query": "новгородская пятина между Лугой и Нарвой западные земли",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Со времени же покорения Новгорода, въ 1478 г",
+          "url": "https://archive.org/download/PKSPbGub/1905_PK_SPb_gub_text.pdf#211#12"
+        },
+        {
+          "date": "2005-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина — Википедия - Шелонская пятина",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Упоминание собственно води зафиксировано в Новгородской первой летописи с 1069 г",
+          "url": "https://kskn.lenobl.ru/media/docs/36310/%D0%90%D0%BA%D1%82_%D0%93%D0%98%D0%9A%D0%AD_%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE_%D0%9F%D0%B5%D1%81%D0%BA%D0%B8.pdf#17#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ную часть Новгородской земли",
+          "url": "https://istina.cemi-ras.ru/download/98693616/1uDd0P:61Pq_S0mvyyODNUa_8bJ_exBXIA/#55#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прошлая судьба увяда",
+          "url": "https://azbyka.ru/otechnik/books/original/20523/ISS_SPbE_09_1884.pdf#135#88"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«переветниковъ» из «Вожан и Чудь»",
+          "url": "https://kskn.lenobl.ru/media/docs/37110/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0_%D0%93%D0%98%D0%9A%D0%AD_%D0%97%D0%A3.pdf#42#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Швеции отходили Ивангородский, Копорский, Ямской и Корельский уезды",
+          "url": "https://cyberleninka.ru/article/n/istoriko-geograficheskiy-analiz-vnutrennih-i-vneshnih-granits-novgorodskoy-zemli-v-srednevekovyy-period/pdf#6#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Новгородской земли на уезды.52 Обследуемая территория располагалась у южной границы",
+          "url": "https://kskn.lenobl.ru/media/docs/37609/%D0%9B3._%D0%9F.5.__%D0%90%D0%BA%D1%82_%D0%95%D0%B2%D1%80%D0%BE_%D1%85%D0%B8%D0%BC_%D0%9A%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D0%B5%D0%BF_%D0%9D%D0%90_%D0%A1%D0%90%D0%99%D0%A2_%D1%81%D0%B6%D0%B0%D1%82.pdf#20#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "с Великим княжеством Литовским,",
+          "url": "https://argorussia.ru/sites/default/files/2022-12/territorialnoe_delenie_severo-zapada-chast_1.pdf#5#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вот как написано об этом событии в Новгородской летописи: «В лето 6831. Ходиша новгородцы с князем Юрьем и поставила город на ус...",
+          "url": "https://ethnomuseum.ru/files/PDF/Library/Atlas/978-5-903562-79-4#201#25"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6822,
+      "query": "Водская пятина между реками Лугой и Нарвой",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "чительными укрёпленными мёстами: Копорье, нынё с",
+          "url": "https://bookscd.gpntb.ru/ODM_2028/texts/semenov_p-_geografichesko-statisticheskiy_slovar_rossiyskoy_imperii_t-4.pdf#548#276"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Имея тя, непрестаннаго предстателя и молитвени- ка за ны, усердно к тебе при- ходящих, со умилением пред честным твоим образом с...",
+          "url": "http://spb-eparh-vedomosti.ru/pdf/32.pdf#page=171#120#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Энциклопедия Санкт-Петербурга",
+          "url": "https://www.encspb.ru/object/2804035518?dv=1000000000"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Электронная библиотека",
+          "url": "https://lopress.47lib.ru/object/1804443615/D_1803401887?lc=ru"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Новгородской земли на уезды.52 Обследуемая территория располагалась у южной границы",
+          "url": "https://kskn.lenobl.ru/media/docs/37609/%D0%9B3._%D0%9F.5.__%D0%90%D0%BA%D1%82_%D0%95%D0%B2%D1%80%D0%BE_%D1%85%D0%B8%D0%BC_%D0%9A%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D0%B5%D0%BF_%D0%9D%D0%90_%D0%A1%D0%90%D0%99%D0%A2_%D1%81%D0%B6%D0%B0%D1%82.pdf#20#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВОДСКАЯ ПЯТИНА",
+          "url": "https://broukgauzefron.slovaronline.com/22500-VODSKAYA_PYATINA"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "территория была государственно освоена к XI в",
+          "url": "https://kskn.lenobl.ru/media/docs/37806/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD-%D0%97%D0%B0%D0%B1%D0%BE%D1%82%D0%B8%D0%BD__%D0%B3%D0%B8%D0%BA%D1%8D_%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B1%D0%BE%D1%80_%D0%BD%D0%B0_%D1%81%D0%B0%D0%B9%D1%82.pdf#19#18"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВОДСКАЯ ПЯТИНА - T: 172",
+          "url": "https://rus-sov-istoria-enc.slovaronline.com/4565-%d0%92%d0%9e%d0%94%d0%a1%d0%9a%d0%90%d0%af%20%d0%9f%d0%af%d0%a2%d0%98%d0%9d%d0%90#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«переветниковъ» из «Вожан и Чудь»",
+          "url": "https://kskn.lenobl.ru/media/docs/37110/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0_%D0%93%D0%98%D0%9A%D0%AD_%D0%97%D0%A3.pdf#42#39"
+        },
+        {
+          "date": "2012-10-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ЭСБЕ/Водская пятина — Викитека - ЭСБЕ/Водская пятина",
+          "url": "https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%92%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7031,
+      "query": "\"между бассейнами Луги и Нарвы\" пятина",
+      "results": [
+        {
+          "date": "2023-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина - Шелонская пятина",
+          "url": "https://xn--h1ajim.xn--p1ai/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прошлая судьба увяда",
+          "url": "https://azbyka.ru/otechnik/books/original/20523/ISS_SPbE_09_1884.pdf#135#88"
+        },
+        {
+          "date": "2023-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина",
+          "url": "https://cdn.xn--h1ajim.xn--p1ai/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ную часть Новгородской земли",
+          "url": "https://istina.cemi-ras.ru/download/98693616/1uDd0P:61Pq_S0mvyyODNUa_8bJ_exBXIA/#55#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "чительными укрёпленными мёстами: Копорье, нынё с",
+          "url": "https://bookscd.gpntb.ru/ODM_2028/texts/semenov_p-_geografichesko-statisticheskiy_slovar_rossiyskoy_imperii_t-4.pdf#548#276"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikiwand - Шелонская пятина",
+          "url": "https://www.wikiwand.com/ru/%d0%a8%d0%b5%d0%bb%d0%be%d0%bd%d1%81%d0%ba%d0%b0%d1%8f_%d0%bf%d1%8f%d1%82%d0%b8%d0%bd%d0%b0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«переветниковъ» из «Вожан и Чудь»",
+          "url": "https://kskn.lenobl.ru/media/docs/37110/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0_%D0%93%D0%98%D0%9A%D0%AD_%D0%97%D0%A3.pdf#42#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина - Шелонская пятина",
+          "url": "https://dic.academic.ru/searchall.php?SWord=%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0&stype=0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Большая часть территории современного Лужского района входила в состав Новгородского уезда в Шелонской пятине и в Водской Пятине...",
+          "url": "https://kskn.lenobl.ru/media/docs/28268/13._%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA_08_21.pdf#9#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Новгородской земли на уезды.52 Обследуемая территория располагалась у южной границы",
+          "url": "https://kskn.lenobl.ru/media/docs/37609/%D0%9B3._%D0%9F.5.__%D0%90%D0%BA%D1%82_%D0%95%D0%B2%D1%80%D0%BE_%D1%85%D0%B8%D0%BC_%D0%9A%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D0%B5%D0%BF_%D0%9D%D0%90_%D0%A1%D0%90%D0%99%D0%A2_%D1%81%D0%B6%D0%B0%D1%82.pdf#20#7"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 4,
+      "elapsed_seconds": 0.6986,
+      "query": "Шелонская пятина западная земли между Лугой и Нарвой бассейн",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "чительными укрёпленными мёстами: Копорье, нынё с",
+          "url": "https://bookscd.gpntb.ru/ODM_2028/texts/semenov_p-_geografichesko-statisticheskiy_slovar_rossiyskoy_imperii_t-4.pdf#548#276"
+        },
+        {
+          "date": "2005-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина — Википедия - Шелонская пятина",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ную часть Новгородской земли",
+          "url": "https://istina.cemi-ras.ru/download/98693616/1uDd0P:61Pq_S0mvyyODNUa_8bJ_exBXIA/#55#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Андрияшев, А.М. Материалы по исторической географии Новгородской земли. ... | Аукционы",
+          "url": "https://www.litfund.ru/auction/694/219/#top"
+        },
+        {
+          "date": "2023-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина",
+          "url": "https://cdn.xn--h1ajim.xn--p1ai/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина | это... Что такое Шелонская пятина? - Шелонская пятина",
+          "url": "https://dic.academic.ru/dic.nsf/ruwiki%20/36347#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Торжка и Ржевы",
+          "url": "http://www.ecoross.ru/files/books2016/Maksakov.%20chteniya,%202016.pdf#page=316#89#70"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikiwand - Шелонская пятина",
+          "url": "https://www.wikiwand.com/ru/%d0%a8%d0%b5%d0%bb%d0%be%d0%bd%d1%81%d0%ba%d0%b0%d1%8f_%d0%bf%d1%8f%d1%82%d0%b8%d0%bd%d0%b0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Справка",
+          "url": "http://unicat.nlb.by/auth/pls/dict.prn_ref?tu=e&tq=v0&name_view=va_all&a001=BY-NLB-ar38074&strq=l_siz=20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "http://unicat.nlb.by/auth/pls/dict.prn_marc?a001=BY-NLB-ar38074"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 5,
+      "elapsed_seconds": 0.684,
+      "query": "\"пятина\" \"Луги и Нарвы\" западные земли ответ",
+      "results": [
+        {
+          "date": "2005-07-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина — Википедия - Шелонская пятина",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        },
+        {
+          "date": "2023-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Шелонская пятина",
+          "url": "https://cdn.xn--h1ajim.xn--p1ai/%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wikiwand - Шелонская пятина",
+          "url": "https://www.wikiwand.com/ru/%d0%a8%d0%b5%d0%bb%d0%be%d0%bd%d1%81%d0%ba%d0%b0%d1%8f_%d0%bf%d1%8f%d1%82%d0%b8%d0%bd%d0%b0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "История Плюсского края: В.Федорова. Шелонская пятина",
+          "url": "https://plussa-region.narod.ru/library/haupt/shelonj.htm"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Земли, отошедшие к Речи",
+          "url": "https://istina.ipmnet.ru/download/98695967/1uSDDG:Ig0uVRS8VI7O_YA_CzLC1zkyMd4/#41#15"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "шелонская пятина новгородской земли",
+          "url": "https://logoslab.ru/library/shelonskaja-pjatina-novgorodskoj-zemli.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "шелонская пятина",
+          "url": "https://logoslab.ru/library/shelonskaja-pjatina.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Водская пятина — Энциклопедический словарь Брокгауза и Ефрона - Водская пятина",
+          "url": "https://gufo.me/amp/dict/brockhaus/%D0%92%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D0%BD%D0%B0#1"
+        },
+        {
+          "date": "2026-10-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Болото против Нарвы: почему Пётр I не стал переносить Петербург, когда появился выбор - Русская семерка",
+          "url": "https://russian7.ru/post/boloto-protiv-narvy-pochemu-pyotr-i-ne-st/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Водская пятина - Водская пятина",
+          "url": "http://www.alcala.ru/brokgauz-slovari/izbrannoe/slovar-V/V5866.shtml#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 46848,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 31164,
+    "iterations": [],
+    "output_tokens": 3737,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

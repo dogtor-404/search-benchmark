@@ -1,0 +1,136 @@
+{
+  "answer": "Я не нашёл, как этот орнамент называют в исследованиях. Ни в одном источнике нет специального термина для шахматного узора на пинежских прялках.\n\nВот что в источниках есть:\n- Они описывают его просто как «шахматный» узор. По одному описанию, это 15 клеток в ширину и 8 в высоту, с чередованием чёрного и красного. Такой же узор бывает и на обороте прялки.\n- На Мезени мастера использовали много мелких «личных» геометрических узоров, а на Пинеге они сведены к одному шахматному.\n- Все эти описания взяты из блога и пересказывающих текстов. Первоисточник и автор исследования в них не названы, так что для точного термина нужна печатная литература. Её я не проверял. Стоит посмотреть работы Ю. А. Арбата, Л. А. Изместьевой и каталоги музеев Архангельской области.\n\nЯ использовал 4 поисковых запроса из 5 разрешённых.\n\nSources:\n- [Пинежская роспись (smittik, LiveJournal)](https://smittik.livejournal.com/81254.html)\n- [Центры северной народной росписи (cultnord.ru)](https://cultnord.ru/nasledie/khudozhestvennye-promysly-i-remyesla/rezba-i-rospis-po-derevu/tsentry-severnoy-narodnoy-rospisi/)\n- [Мезенская прялка — Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BB%D0%BA%D0%B0)\n- [Мезенская и пижемская росписи — Тайны старого сундука](http://oldchest.ru/painting/mezenskaya-pigemskaya-rospisi/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 44.233,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.058368500000000004,
+      "inputTokens": 59460,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4845,
+      "provider": "firstParty",
+      "thinkingTokens": 1329,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9340,
+      "cacheReadInputTokens": 32222,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.055422200000000005,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1482,
+      "provider": "firstParty",
+      "thinkingTokens": 185,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-72",
+  "raw": "jsonl/A/msqa-RU-72.jsonl",
+  "reported_cost_usd": 0.11379070000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "северодвинская роспись прялка \"шахматный\" орнамент Пинега исследователи называют",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0153zUUDC1JUEzAEnUENZZFb"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "пинежская роспись прялки шахматный узор орнамент название Пинега",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ULYEXqzk1z7aNqRFuNwc8W"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "прялки Пинега роспись \"шахматка\" OR \"шахматный\" OR \"клетчатый\" орнамент пинежские прялки",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01AVMgMWhBTgEWuyctN95tiK"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "пинежские прялки шахматный узор называют \"шашечки\" OR \"кирпичики\" OR \"городки\" OR \"ширинка\" Пинега Арбат Изместьева",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JZmksvhuUq9XMPWdFgNXG2"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "пинежская прялка орнамент шахматный \"в шашку\" OR \"шашечный\" OR \"шахматка\" прялки по реке Пинеге северная роспись исследователи",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RXn3cNSU32s4bSBxnGwUsG"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9340,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9340,
+    "cache_read_input_tokens": 32222,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1912,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1912,
+        "cache_read_input_tokens": 9879,
+        "input_tokens": 2,
+        "output_tokens": 663,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1482,
+    "output_tokens_details": {
+      "thinking_tokens": 185
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

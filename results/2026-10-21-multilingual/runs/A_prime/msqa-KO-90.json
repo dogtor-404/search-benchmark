@@ -1,0 +1,136 @@
+{
+  "answer": "搜了 5 次，到上限了，答案如下。\n\n**答案：찬자（贊者，\"찬\"）给관례자梳头。** 찬자是在관례上协助行礼的人。초가례时，찬자把관례자的头发重新梳好，挽成外상투，再戴上망건，用簪子把치포관固定住。之后由빈（賓）给관례자戴上건（巾）。\n\n这条依据只有디지털강남문화대전一处写得明确，其他搜到的页面只说到찬자在三加时帮着换冠。另外，我知道《朱子家礼》冠礼里有\"贊者……進櫛，爲之櫛，合紒\"（찬자给관례자梳头、合髻）一句，和这个说法一致，但这次没搜到收录原文的网页，这一点没有核实。\n\n依据：\n- [관례 - 디지털강남문화대전](https://www.grandculture.net/gangnam/toc/GC04801842)：主要依据\n- [한국민족문화대백과사전 관례 항목](https://encykorea.aks.ac.kr/Article/E0004809)：三加时찬자协助换冠",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 56.771,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.059206400000000006,
+      "inputTokens": 67349,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4943,
+      "provider": "firstParty",
+      "thinkingTokens": 1304,
+      "webSearchRequests": 5
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 8909,
+      "cacheReadInputTokens": 37605,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.101061,
+      "inputTokens": 12,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1111,
+      "provider": "firstParty",
+      "thinkingTokens": 214,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/A_prime/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.1602674,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "관례 절차 관자 머리를 빗기고 상투 찬자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011hVk2PKhnZicfy1rrni3BL"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "관례 시가례 찬자가 관자의 머리를 빗기고 상투를 짜고 망건",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01C8gniAXbLggt2r7LCSWGvA"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "관례 \"빗질\" 찬자 관자 시가례 한국민족문화대백과",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Y2JEsiDJeftExmPkj77YnU"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "賓揖將冠者 贊者 進櫛 爲之櫛 合紒 관례 찬자 머리 빗",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Kya9UCGmounm4FFuJHbv4w"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "관례 초가례 \"찬자가\" 머리를 빗겨 상투 관례자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RSvs6UiWETMper2ve49qFP"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8909,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8909,
+    "cache_read_input_tokens": 37605,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 12,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1366,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1366,
+        "cache_read_input_tokens": 9994,
+        "input_tokens": 2,
+        "output_tokens": 393,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1111,
+    "output_tokens_details": {
+      "thinking_tokens": 214
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

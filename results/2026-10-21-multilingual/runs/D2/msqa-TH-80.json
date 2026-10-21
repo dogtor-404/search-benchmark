@@ -1,0 +1,223 @@
+{
+  "answer": "**ค.ศ. 1893 (พ.ศ. 2436)** ในสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว (รัชกาลที่ 5) — โปรดให้ปริวรรตพระไตรปิฎกจากอักษรขอมเป็นอักษรไทย แล้วจัดพิมพ์เป็นเล่มหนังสือ 39 เล่ม (1,000 ชุด) เรียกว่าฉบับจุลจอมเกล้า/ฉบับรัชกาลที่ 5; เริ่มดำเนินการราว พ.ศ. 2431 และพิมพ์สำเร็จใน พ.ศ. 2436\n\nแหล่งอ้างอิง:\n- https://palitextsociety.org/non-pts-editions-of-pali-texts/ (\"King Chulalongkorn Edition 1893 ... published in Bangkok in 1893 in Thai script\")\n- https://brussels.thaiembassy.org/en/content/ceremony-of-the-presentation-of-the-world-tipitaka (\"In 1893, King Chulalongkorn ... ordered the printing for the first time the Tipitaka in Siam script\")\n- https://www.finearts.go.th/storage/contents/file/WgJIlzOTARZP22b0G54ndfWtGLAaTOdZ9xguyUr0.pdf (พิมพ์ระหว่าง พ.ศ. 2431–2436)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.242,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0728104,
+      "inputTokens": 13476,
+      "maxOutputTokens": 32000,
+      "outputTokens": 921,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/D2/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.0728104,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.818,
+      "query": "พระไตรปิฎก ตีพิมพ์เป็นเล่มครั้งแรก อักษรไทย เมื่อไร",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระไตรปฎก ถือเปนหลักฐานทางวรรณกรรมที่เดนชัดที่แสดงใหเห็นวาเปนตนแบบของ วรรณกรรมศาสนาและวรรณคดีในยุคตอมา พระไตรปฎกจารึกไว...",
+          "url": "https://doi.nrct.go.th/ListDoi/Download/92881?Resolve_DOI=10.14457/KU.the.2012.326#53#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จึงมีรับสั่งให้อาราธนาพระสงฆ์มีสมเด็จพระมหาสมณเจ้า กรมพระยาวชิรญาณาโรรส เมื่อ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระวินัยปิฎก.pdf#56#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๕. พระไตรปฎกฉบับแปลเปนไทยอยางพิสดาร (พ",
+          "url": "http://pbs.mcu.ac.th/wp-content/uploads/2016/03/พระไตรปิฏกศึกษา.pdf#73#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "–  เปนการแสดงใหเห็นวา ประเทศไทยเปนแหลงรักษาพระธรรมคําสอนของพระพุทธเจา ใหดํารงคงอยูอยางมั่นคงถาวรที่สําคัญแหงหนึ่งของโล...",
+          "url": "https://kukr.lib.ku.ac.th/kukr_es/BKN/search_detail/dowload_digital_file/20013434/159632#59#20"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ปาทิกสภาจัดการพิมพ์พระไตรปีฎกให้สำเร็จทันในสมัยเมื่อเสด็จดำรงสิริราชสมบัติครบ ๒๕ ปี จะได้มี",
+          "url": "https://bri.mcu.ac.th/rsp/wp-content/uploads/elementor/forms/6646123c95e38.pdf#48#10"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เปนสังคีติการกลงซ จำนวน ๑๑๐ รูป กระทำอยู ๖ ป จึงสำเร็จ",
+          "url": "https://www.finearts.go.th/storage/contents/file/WgJIlzOTARZP22b0G54ndfWtGLAaTOdZ9xguyUr0.pdf#30#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เมื่อ พ",
+          "url": "https://mbuisc.ac.th/th/wp-content/uploads/2025/06/BU5001.pdf#80#52"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ตอมาเมื่อพุทธศักราช ๒๔๘๓ สมเด็จพระอริยวงศาคตญาณ (แพ ติสฺสเทวมหาเถร) สมเด็จพระสังฆราช สกลมหาสังฆปริณายก ทรงปรารภความสำคัญของการแ...",
+          "url": "https://e-thesis.mcu.ac.th/storage/iTOzJ4wqosqO5hHoTJp1tuIW6pEOUrCzKv2KHqiY.pdf#50#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พระราชประสงค์ในการสนับสนุนการศึกษาและเผยแผ่พระพุทธศาสนาในระดับสากล",
+          "url": "https://cuir.chula.ac.th/xmlui/bitstream/handle/123456789/33036/Anchalee_pu.pdf?isAllowed=y&sequence=3#149#41"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การชําระพระไตรปฎกสําหรับจะพิมพครั้งนี้ พระเจาวรวงศเธอ กรมหลวงชินวร สิริวัฒน สมเด็จพระสังฆราชเจา ทรงรับเปนประธานในการชําระ...",
+          "url": "https://rsuir-library.rsu.ac.th/bitstream/123456789/3112/1/SIRINAPA%20KONGVASAGUNNEE.pdf#66#11"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.5692,
+      "query": "first printed edition Tipitaka Thailand Thai script 1893",
+      "results": [
+        {
+          "date": "2023-10-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii 図書 - จุล์ลวัค์ค",
+          "url": "https://ci.nii.ac.jp/ncid/BA77914192"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ceremony of the Presentation of the World Tipitaka 2016 Editions to His Majesty the King of the Belgians on the auspicious occasion of the 6th Cycle Birthday Anniversary of His Majesty the King of Thailand on 28 July 2024 - สถานเอกอัครราชทูต ณ กรุงบรัสเซลส์",
+          "url": "https://brussels.thaiembassy.org/en/content/ceremony-of-the-presentation-of-the-world-tipitaka?cate=5f069ee272a783584326eb0f"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MARC view: Phrasūttantapidok",
+          "url": "https://catalog.hathitrust.org/Record/005661871.marc"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Catalog Record: Phrasūttantapidok",
+          "url": "https://catalog.hathitrust.org/Record/005661871"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Presentation of International Council Tipitaka Edition in English Script",
+          "url": "https://www.parliament.lk/en/get-involved/socio-cultural-events/details/70"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "CiNii Books - สฬายตนวัค์ค",
+          "url": "https://ci.nii.ac.jp/ncid/BA77959907?l=en"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://ia801605.us.archive.org/fetchmarc.php?path=/3/items/tipiakama37banguoft/tipiakama37banguoft_marc.xml"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "パーリ語仏典 | レファレンス協同データベース",
+          "url": "https://crd.ndl.go.jp/reference/entry/manual/show?id=2000028856&page=man_view&rnk=1&mcmd=25&st=ref_cnt_all&asc=desc&pg=66&fi=8_11&lsmp=1&type=manual"
+        },
+        {
+          "date": "2019-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Non-PTS editions of Pali texts - Pali Text Society",
+          "url": "https://palitextsociety.org/non-pts-editions-of-pali-texts/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PARLIAMENT",
+          "url": "https://xn--w0ct5a8c.xn--n0chiqomy9ed8bxb2a8e.xn--fzc2c9e2c/socio-cultural-events/view/66?lang=en"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13476,
+    "iterations": [],
+    "output_tokens": 921,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

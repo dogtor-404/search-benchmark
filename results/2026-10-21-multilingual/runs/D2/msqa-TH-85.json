@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：大城王朝初期（สมัยอยุธยาตอนต้น，约14–15世纪）。**\n\n“ภาพกาก”（字面意为“糟粕图”，即壁画中穿插绘制的平民、市井生活等次要人物或场景）被认为是作为壁画中的附属、陪衬元素，最早在大城王朝初期与佛教相关的壁画中显现。这类描绘并非主干内容，却记录了当时的社会生活与情感，是一种有用的“ตวัดวาด”（笔触/画法）。\n\n依据网址：\n- https://www.silpa-mag.com/art/article_158656 （Silpa Mag：“ภาพกาก งานจิตรกรรมฝาผนัง ที่ไกลจากคำว่า ‘กาก’”，原文明确写“เชื่อว่าเริ่มเผยให้เห็นในสมัยอยุธยาตอนต้น”）\n- 佐证（早期大城壁画中的“ตัวกาก”研究）：https://so07.tci-thaijo.org/index.php/decorativeartsJournal/article/download/2443/2148/22620",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.147,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.10634640000000001,
+      "inputTokens": 22990,
+      "maxOutputTokens": 32000,
+      "outputTokens": 695,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-85",
+  "raw": "jsonl/D2/msqa-TH-85.jsonl",
+  "reported_cost_usd": 0.10634640000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.9105,
+      "query": "\"ภาพกาก\" จิตรกรรมฝาผนัง สมัย",
+      "results": [
+        {
+          "date": "2025-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพกาก งานจิตรกรรมฝาผนัง ที่ไกลจากคำว่า “กาก”",
+          "url": "https://www.silpa-mag.com/art/article_158656"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "แวดวงจํากัด หรือทําได้เฉพาะชุมชนที่มีชาวคริสต์ตั้งอยู่ ไม่เช่นนั้น เหตุการณ์นี้อาจเป็นที่จดจําอย่าง",
+          "url": "https://buuir.buu.ac.th/jspui/bitstream/1234567890/10563/1/52810096.pdf#92#57"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การวีรียสร้างสรรค์",
+          "url": "https://so07.tci-thaijo.org/index.php/decorativeartsJournal/article/download/2443/2148/22620#4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การวิจัยสร้างสรรค์ เรื่องภายใต้ใบหน้าด้วากานี้เป็นการตีความ จากภาพจิตรกรรมฝาผนังในสมัยอยุธยาตอนต้น ได้แก่ พระที่นั่ง พุทไธสวรรย์...",
+          "url": "https://so07.tci-thaijo.org/index.php/decorativeartsJournal/issue/download/367/336#40#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพที่ 63 ภาพกาก จิตรกรรมฝาผนัง วัดวิหารเบิก จ",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/964092a7-392b-4c70-9e40-49e6123c0d7c/fulltext.pdf?attempt=2#12#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เอกลักษณ์เฉพาะตน อย่างไรก็ตามการติดต่อสังสรรค์ระหว่างกลุ่มระหว่างชุมชนทางสังคม เศรษฐกิจ",
+          "url": "https://rsujournals.rsu.ac.th/index.php/jla/article/download/251/173/#7#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การศึกษาสภาพวิถีชีวิตและวัฒนธรรมของชาวล้านนา จากจิตรกรรมฝาผนังประเภทภาพกาก",
+          "url": "https://sure.su.ac.th/xmlui/bitstream/id/34737f29-2434-4425-8008-cf3eaf42e0d9/fulltext.pdf?attempt=2#13#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ข่างเมืองเพชรบุรีนิยมเขียนบอกชื่อตนว่าเป็นผู้เขียนภาพ 2 แบบ คือ การเขียนรวมกับข้อความประวัติ",
+          "url": "https://sure.su.ac.th:443/xmlui/bitstream/id/0f140d2b-ef4b-4745-acc4-b19d120cad77/RS_Duangkamon_Boonkaewsuk.pdf?attempt=2#48#40"
+        },
+        {
+          "date": "2026-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "‘จากลิงดูดบ้องกัญชา ถึงอัศจรรย์วันทอง’ สำรวจ ‘ภาพกาก’ และ ‘จิตกรรมฝาผนัง’ ยุคโบราณ ที่บันทึกวิถีชีวิตแสนธรรมดาของความเป็นมนุษย์",
+          "url": "https://plus.thairath.co.th/topic/subculture/106364"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. ค้นคว้า วิเคราะห์องค์ความรู้ จากจิตรกรรมฝาผนังสมัย",
+          "url": "https://so07.tci-thaijo.org/index.php/decorativeartsJournal/article/download/2443/2148/22620#4#2"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.8272,
+      "query": "ภาพกาก ความหมาย จิตรกรรมไทย ตวัดวาด",
+      "results": [
+        {
+          "date": "2025-10-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพกาก งานจิตรกรรมฝาผนัง ที่ไกลจากคำว่า “กาก”",
+          "url": "https://www.silpa-mag.com/art/article_158656"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ThaiPBS VOD",
+          "url": "https://program.thaipbs.or.th/xml/watch/Bwxvgn"
+        },
+        {
+          "date": "2026-01-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "จิตรกรรมโกศล #9 - ตำนานอันซื่อสัตย์",
+          "url": "https://www.sarakadee.com/2026/01/02/legend-mural/"
+        },
+        {
+          "date": "2020-06-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ไทยบันเทิง - เรื่องนี้มีตำนาน : ภาพกากในจิตรกรรมไทย | Thai PBS รายการไทยพีบีเอส",
+          "url": "https://www.thaipbs.or.th/program/ArtandCultureThaiPBS/watch/Bwxvgn"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "สรุป การพัฒนางานสร้างสรรค์พุทธจิตรกรรมล้านนาด้วยกระบวนการใช้วัสดุและแร่ธาตุ ธรรมชาติ จะเป็นการสืบสานต้านานศิลปวัฒนธรรมล้านนาแบบเ...",
+          "url": "https://bri.mcu.ac.th/rsa/wp-content/uploads/elementor/forms/65af66844bd7b.pdf#86#50"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "1. ความรู้เกี่ยวกับกายวิภาคของศิลปะไทยสำหรับตัวกากชาย หญิง เด็กและคนขวา ความแตกต่างของกายวิภาคระหว่างตัวกากกับตัวพระและตัวนาง",
+          "url": "https://tpqi-net.tpqi.go.th/qualifications/standard/book?id=88&cer_level_id=5597#4#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ซึ่งแตกต่างไปจากภาพจิตรกรรมฝาผนังของไทยแบบประเพณี ที่มีจารีต ระเบียบแบบแผน  เคร่งครัด การเขียนภาพและการจัดวางต าแหน่งภาพ ประเภทน...",
+          "url": "http://202.28.34.124/dspace/bitstream/123456789/515/1/56010660008.pdf#88#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "การวิจัยสร้างสรรค์ เรื่องภายใต้ใบหน้าด้วากานี้เป็นการตีความ จากภาพจิตรกรรมฝาผนังในสมัยอยุธยาตอนต้น ได้แก่ พระที่นั่ง พุทไธสวรรย์...",
+          "url": "https://so07.tci-thaijo.org/index.php/decorativeartsJournal/issue/download/367/336#40#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพเชิงสวงาสเหลานี้ ไดรับการวาดมาอยางตอเนื่อง ในฐานะภาพกากบนฝาผนัง ดวยเหตุผลและแนวคิดที่ไดนําเสนอมาขางตน การวาดภาพเหลา...",
+          "url": "http://dept.npru.ac.th/hm1/data/files/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%209%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%201%20%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%A1%20-%20%E0%B8%A1%E0%B8%B4%E0%B8%96%E0%B8%B8%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%202562.pdf#34#26"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ภาพเรื่องราวที่พบเห็นไดในชีวิตประจําวันมาลายทอดเปนภาพเขียน โดยจะสอดแทรกเขาไปใน",
+          "url": "http://www.thapra.lib.su.ac.th/objects/thesis/fulltext/thapra/Chatsurang_Kaewpenthong/fulltext.pdf#31#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 22990,
+    "iterations": [],
+    "output_tokens": 695,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

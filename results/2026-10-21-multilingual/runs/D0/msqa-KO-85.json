@@ -1,0 +1,62 @@
+{
+  "answer": "**부대찌개（部队锅）最早出现于 1950 年代，也就是韩国战争（1950–1953）结束后的战后时期**，并非古代流传下来的“传统”料理。\n\n要点：\n\n- 它起源于驻韩美军基地附近（最常被提到的是议政府一带，此外还有平泽、松炭、汶山等地）。当时居民把美军流出的火腿、香肠、Spam（午餐肉）、焗豆等加工食品，与苦椒酱（고추장）汤底、泡菜、拉面一起煮成火锅。\n- 关于具体年份，有 **1954 年议政府** 等说法，但“首次出现的确切年份和地点”在史料上没有定论，属于多种地方说法并存。\n- 因此，稳妥的回答是：**韩国战争后的 1950 年代**，而不是朝鲜王朝等更早的时代。\n\n至于“第一个出现的确切时间点”，我不知道有可靠史料可以确定。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.262,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.022548,
+      "inputTokens": 1982,
+      "maxOutputTokens": 32000,
+      "outputTokens": 731,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-KO-85",
+  "raw": "jsonl/D0/msqa-KO-85.jsonl",
+  "reported_cost_usd": 0.022548,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1982,
+    "iterations": [],
+    "output_tokens": 731,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

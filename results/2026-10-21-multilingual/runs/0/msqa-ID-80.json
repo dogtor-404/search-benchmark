@@ -1,0 +1,74 @@
+{
+  "answer": "Iki Palek 是在亲人去世、举丧的时候举行的。\n\n按我所知，达尼族（Dani，巴布亚高原）有家庭成员，尤其是近亲（如丈夫、父母、子女、兄弟姐妹）去世时，会让在世的亲属，主要是女性，切掉一节手指，这就是 Iki Palek。它象征对逝者的哀悼和悲痛，也表示对亲人的爱与忠诚。另一种说法是，它有为逝者驱散灾厄、安抚亡灵的意义。\n\n细节我不能完全确定，比如具体切几节、用什么方式、各地是否一致，以及现在是否还在实行。据我所知，这一习俗已被政府禁止，现在很少见，只在一些老人身上还能看到旧时留下的残缺手指。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.649,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1771,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012014799999999999,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 477,
+      "provider": "firstParty",
+      "thinkingTokens": 196,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-80",
+  "raw": "jsonl/0/msqa-ID-80.jsonl",
+  "reported_cost_usd": 0.012014799999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1771,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1771,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1771,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1771,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 477,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 477,
+    "output_tokens_details": {
+      "thinking_tokens": 196
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

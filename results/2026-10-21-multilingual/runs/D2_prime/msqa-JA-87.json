@@ -1,0 +1,144 @@
+{
+  "answer": "**山形県米沢市**（遠山地区）です。「遠山かぶの粕汁」は米沢市の郷土料理で、「遠山かぶ」は米沢市を発祥とする山形県の伝統野菜とされています。\n\n依据：農林水産省の郷土料理紹介（https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toyamakabukasujiru_yamagata.html）や、https://meibutsu.jp/meibutsu/toyamakabukasujiru-yamagata に「米沢市を発祥とする」「主な伝承地域 米沢市」とあります。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.374,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0369984,
+      "inputTokens": 7273,
+      "maxOutputTokens": 32000,
+      "outputTokens": 371,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-87",
+  "raw": "jsonl/D2_prime/msqa-JA-87.jsonl",
+  "reported_cost_usd": 0.0369984,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6626,
+      "query": "遠山かぶ 粕汁 発祥地",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶ」の名は、米沢市遠山地区の地名に由来します",
+          "url": "https://yamagata-okitama-shoku.net/images/pdf/dentoupanfu.pdf#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "記事詳細ページ",
+          "url": "http://yamagata-hanakairou.jp/log/?l=263654"
+        },
+        {
+          "date": "2024-04-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『＜ 郷土料理 ＞ 山形 遠山かぶの粕汁』",
+          "url": "https://ameblo.jp/okome-only-komeya/entry-12919556564.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁｜山形県のご当地グルメ・由来・食べ方",
+          "url": "https://meibutsu.jp/meibutsu/toyamakabukasujiru-yamagata"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "遠山かぶの粕汁とは？山形県のご当地の料理・グルメの一つになります。【No.6482】遠山かぶの粕汁に関する詳細な解説や知識などの情報を画像付きの図鑑形式で掲載しています。 | FOODRINK WORK 飲食グルメWEB図鑑",
+          "url": "https://foodrink.work/main/detail.php?id=6482"
+        },
+        {
+          "date": "2026-09-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「遠山かぶの粕汁」とは？",
+          "url": "https://rdish.reload.co.jp/dishes/toyama-kabu-no-kasujiru-yamagata/"
+        },
+        {
+          "date": "2012-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "やまがた食材ネット／食品事業者 ※新着順 mobile",
+          "url": "http://c.samidare.jp/shokuzai/biz/m/?p=log&l=263654"
+        },
+        {
+          "date": "2012-01-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "米沢の伝統野菜「遠山蕪」：やまがた食材ネット／事業者",
+          "url": "http://c.samidare.jp/shokuzai/biz/?p=log&l=263654"
+        },
+        {
+          "date": "2024-04-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "日本各地の特産食材をおいしく食べよう！「山形県 かす汁」 - たべる・そだつ・いきるを応援！こどもみーる kodomo meal",
+          "url": "https://kodomo-meal.jp/%e6%97%a5%e6%9c%ac%e5%90%84%e5%9c%b0%e3%81%ae%e7%89%b9%e7%94%a3%e9%a3%9f%e6%9d%90%e3%82%92%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e9%a3%9f%e3%81%b9%e3%82%88%e3%81%86%ef%bc%81%e3%80%8c%e5%b1%b1%e5%bd%a2-2/"
+        },
+        {
+          "date": "2021-09-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『＜伝統野菜＞ 山形 遠山かぶ』",
+          "url": "https://ameblo.jp/okome-only-komeya/entry-12919154694.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7273,
+    "iterations": [],
+    "output_tokens": 371,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

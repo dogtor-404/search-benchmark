@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban:** Tarian Ma'bua hanya diselenggarakan **sekali setiap 12 tahun**. (12 年一次。)\n\nSaya hanya mencari 1 kali. Beberapa sumber menyebut angka yang sama:\n\n- https://budaya-indonesia.org/Bermacam-suku-Toraja menulis bahwa agama Aluk mengatur kapan orang Toraja menari, dan tarian Ma'bua hanya boleh dilakukan 12 tahun sekali.\n- https://budaya-indonesia.org/Ma-bua menyebut upacara Ma'bua diadakan setiap dua belas tahun.\n- https://repository.uajy.ac.id/id/eprint/18102/ (skripsi Kezya Yunsi Tamba, 2018) menyebut upacara Ma'bua' jarang diadakan, hanya 12 tahun sekali.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.938,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 9002,
+      "cacheReadInputTokens": 5851,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0820822,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 444,
+      "provider": "firstParty",
+      "thinkingTokens": 46,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-55",
+  "raw": "jsonl/B_prime/msqa-ID-55.jsonl",
+  "reported_cost_usd": 0.0820822,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6916,
+      "query": "tarian Ma'bua Toraja diselenggarakan sekali dalam berapa tahun",
+      "results": [
+        {
+          "date": "2011-02-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Toraja - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110302005315/http://en.wikipedia.org/wiki/Toraja#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ma'bua » Budaya Indonesia - Tarian",
+          "url": "https://budaya-indonesia.org/Ma-bua#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - tahun baru islam",
+          "url": "https://budaya-indonesia.org/cari?q=tahun%20baru%20islam&page=17&provinsi=28#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bermacam suku Toraja - Tarian",
+          "url": "https://budaya-indonesia.org/Bermacam-suku-Toraja#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Menurut pendapat saya, pemerintah harus terus berusaha untuk mendidik para pemimpin di masyarakat Toraja agar secara bertahap me...",
+          "url": "https://lobo.journals.yorku.ca/index.php/default/article/download/207/216/379#20#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**BAB V**",
+          "url": "http://repository.upi.edu/42850/6/S_STR_1504776_Chapter5.pdf#1#1"
+        },
+        {
+          "date": "2020-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "toraja – Fadlybahari \"La Patikala\"",
+          "url": "https://fadlybahari.wordpress.com/tag/toraja/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Lampiran 1 Pedoman Observasi",
+          "url": "https://digilib-iakntoraja.ac.id/5337/8/filadelvia_lp.pdf#2#1"
+        },
+        {
+          "date": "2026-05-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Indonesia - Sulawesi - Randau Batu - Toraja Funeral Ceremony - 224dd - Torajans perform dances on several occasions, most often during their elaborate funeral ceremonies",
+          "url": "https://www.flickr.com/photos/98403995@N08/48690217873/#2"
+        },
+        {
+          "date": "2018-10-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "KOMUNIKASI RITUAL MASYARAKAT SUKU TORAJA PADA TRADISI UPACARA MA’ BUA’ DALAM PERESMIAN RUMAH ADAT TONGKONAN (Studi Deskriptif Kualitatif Makna Simbol-Simbol Komunikasi Ritual Masyarakat Suku Toraja Pada Tradisi Upacara Ma’ Bua’ Dalam Peresmian Rumah Adat Tongkonan)",
+          "url": "https://repository.uajy.ac.id/id/eprint/18102/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9002,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9002,
+    "cache_read_input_tokens": 5851,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7159,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7159,
+        "cache_read_input_tokens": 3847,
+        "input_tokens": 2,
+        "output_tokens": 310,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 444,
+    "output_tokens_details": {
+      "thinking_tokens": 46
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

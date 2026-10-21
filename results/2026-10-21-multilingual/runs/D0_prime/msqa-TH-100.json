@@ -1,0 +1,62 @@
+{
+  "answer": "泰国第一部ฉันท์（chan／禅体诗，源自巴利—梵语格律的诗体）文学作品是 **สมุทรโฆษคำฉันท์（Samutthakhot Kham Chan，泰语音译「沙穆霍科颂」）**。\n\n大致背景：它成书于阿瑜陀耶王朝那莱王（纳莱大帝，King Narai）时期，由宫廷婆罗门师 พระมหาราชครู（Phra Maharatchakhru）开篇，后由那莱王本人续写完成，讲述王子 Samutthakhot 的故事。泰国文学史通常把《สมุทรโฆษคำฉันท์》列为第一部ฉันท์体作品。\n\n如果你要的是其他意义上（比如「第一部故事体ฉันท์」或某部具体篇章）的答案，可以再说明；据我所知标准答案就是《สมุทรโฆษคำฉันท์》。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.495,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.030704000000000002,
+      "inputTokens": 2036,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1128,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-100",
+  "raw": "jsonl/D0_prime/msqa-TH-100.jsonl",
+  "reported_cost_usd": 0.030704000000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2036,
+    "iterations": [],
+    "output_tokens": 1128,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

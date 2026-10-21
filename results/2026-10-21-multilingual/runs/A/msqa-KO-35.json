@@ -1,0 +1,109 @@
+{
+  "answer": "**답: \"지슬\"은 제주 방언으로 \"감자\"를 뜻합니다.**\n\n다만 이 뜻을 검색 결과에서 직접 확인하지는 못했습니다. 두 번 검색했지만, 어느 결과에도 \"지슬 = 감자\"라는 설명이 나오지 않았습니다. 위 답은 제가 알고 있는 내용입니다. 2012년 제주 4·3 영화 「지슬」(오멸 감독)의 제목이 이 말에서 왔다고 알려져 있습니다. 확인하시려면 제주어 사전이나 영화 관련 기사를 보시기 바랍니다.\n\n검색 결과로 확인된 것은 영화 「지슬」이 제주 4·3을 소재로 하고 제주어 대사를 쓴다는 점뿐입니다.\n\nSources:\n- [서울신문 – 오멸 감독 인터뷰](https://m.seoul.co.kr/news/2013/02/21/20130221023001)\n- [쿠키뉴스 – 지슬 관련 기사](https://www.kukinews.com/article/view/kuk201212310047)\n- [Korea Herald – 지슬 관련 기사](https://m.koreaherald.com/article/7300)\n- [경기일보 – 지슬 관련 기사](https://kyeonggi.com/article/201301290493666)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.422,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0235064,
+      "inputTokens": 24919,
+      "maxOutputTokens": 128000,
+      "outputTokens": 2029,
+      "provider": "firstParty",
+      "thinkingTokens": 724,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4618,
+      "cacheReadInputTokens": 12652,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0271492,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 740,
+      "provider": "firstParty",
+      "thinkingTokens": 91,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-35",
+  "raw": "jsonl/A/msqa-KO-35.jsonl",
+  "reported_cost_usd": 0.050655599999999995,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "제주도 방언 지슬 뜻 감자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01TGCyYXEdj7ixbaS564BySA"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "영화 지슬 제목 뜻 제주어 감자",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Q9M6V49G5AHcSRr1xseV3B"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4618,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4618,
+    "cache_read_input_tokens": 12652,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1162,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1162,
+        "cache_read_input_tokens": 5907,
+        "input_tokens": 2,
+        "output_tokens": 469,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 740,
+    "output_tokens_details": {
+      "thinking_tokens": 91
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "answer": "**15 сентября.** Скопцы отмечали эту дату как день наказания Селиванова. В этот день они держали очень строгий пост и ничего не ели. Даль пишет, что пост был «в память наказания в этот день Лже-Христа их Селиванова кнутом в Сосновке».\n\nЭти сведения я нашёл только в пятом поиске. Первые четыре ничего об этом празднике не дали. Страницы источников я целиком не открывал: даты и цитаты взяты из сводки поиска. Отдельно для Скворцова и Даля даты в сводке не разделены.\n\nИсточники:\n- [Скворцов, «Скопчество как секта и обличение ее заблуждений»](https://azbyka.ru/otechnik/sekty/skopchestvo-kak-sekta-i-oblichenie-ee-zabluzhdenij)\n- [Даль, «Исследование о скопческой ереси»](https://azbyka.ru/otechnik/sekty/issledovanie-o-skopcheskoj-eresi/)\n- [Википедия: Скопцы](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%BF%D1%86%D1%8B)\n- [Скопцы (dic.academic.ru)](https://dic.academic.ru/dic.nsf/ruwiki/39966)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 43.27,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.058436,
+      "inputTokens": 58840,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5104,
+      "provider": "firstParty",
+      "thinkingTokens": 1350,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 10058,
+      "cacheReadInputTokens": 30826,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0546846,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1135,
+      "provider": "firstParty",
+      "thinkingTokens": 133,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-23",
+  "raw": "jsonl/A/msqa-RU-23.jsonl",
+  "reported_cost_usd": 0.1131206,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "скопцы день наказания Кондратия Селиванова отмечали дата",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01XrTzum1yMWdsArv3jTozzU"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "скопцы праздник \"наказания\" Селиванова 1775 Москва кнутом праздновали число",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01U4SUuJs1u96T39CfoSjCdR"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "Skoptsy holiday Selivanov flogging anniversary celebrated date feast",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HBGnNBgUecukQyUk6Mujfy"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "скопцы праздновали день \"наказания\" Селиванова июня OR мая OR апреля OR сентября Скопческий праздник Енциклопедия",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KP14HgoJsJd3WXx3PbADi7"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "скопцы годовые праздники: день рождения Христа, день наказания Селиванова, \"наказание\" Кондратия Селиванова отмечали",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_0114xhe7dxLdAk7NDCWMwF8b"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 10058,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 10058,
+    "cache_read_input_tokens": 30826,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1990,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1990,
+        "cache_read_input_tokens": 10519,
+        "input_tokens": 2,
+        "output_tokens": 464,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1135,
+    "output_tokens_details": {
+      "thinking_tokens": 133
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

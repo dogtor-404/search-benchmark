@@ -1,0 +1,235 @@
+{
+  "answer": "**답: 찬자(贊者)입니다.** 찬자는 관례를 돕는 보조자로, 관례자(관자)의 머리를 빗겨 상투를 틀고 망건을 씌웁니다. 그 뒤에 빈(賓, 주례를 맡는 손님)이 관을 씌웁니다.\n\n- 조선가례 해설에 따르면 시가례(始加禮)에서 \"찬자가 자리에 나아가 같은 방향으로 꿇어앉아 머리를 빗겨 상투를 틀고 망건을 씌운다\"고 합니다. 이어서 빈이 치포관을 씌우는 순서입니다. https://form.ugyo.net/sitemenu/view.do?menuCode=2107\n- 디지털강남문화대전에도 \"의례진행을 돕는 찬(贊)이 머리를 빗겨 외상투로 만들고 망건을 씌운 다음…\" 이라고 나옵니다. http://www.grandculture.net/gangnam/toc/GC04801842\n\n**참고:** 여자의 계례(笄禮)에서는 빈(친척 중 예법에 밝은 부인)이 머리를 빗겨 쪽을 짓고 비녀를 꽂아 줍니다. 근거는 우리역사넷입니다. https://contents.history.go.kr/mobile/km/view.do?levelId=km_009_0060_0020_0020\n\n검색은 2번 했습니다.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.779,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 24193,
+      "cacheReadInputTokens": 5865,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.10412650000000001,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 676,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-90",
+  "raw": "jsonl/B/msqa-KO-90.jsonl",
+  "reported_cost_usd": 0.10412650000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7147,
+      "query": "관례 절차 빈(賓) 관자 머리를 빗기고 상투 초가 전통 성인례",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "우리역사넷",
+          "url": "https://contents.history.go.kr/mobile/km/view.do?levelId=km_009_0060_0020_0020"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례 - 디지털남원문화대전",
+          "url": "https://www.grandculture.net/namwon/search/GC00602174?keyword=%EB%82%A8%EC%9B%90%EC%8B%9C&collection=text&page=1&pageSize=10&facet=contents_type%3A%EC%9C%A0%EC%A0%81%2F%EB%B9%84%2Ccontents_type%3A%EA%B0%9C%EB%85%90%20%EC%9A%A9%EC%96%B4%2F%EA%B0%9C%EB%85%90%20%EC%9A%A9%EC%96%B4%28%EC%9D%BC%EB%B0%98%29%2Cfield%3A%EC%83%9D%ED%99%9C%C2%B7%EB%AF%BC%EC%86%8D%2Ctimes%3A%EC%A1%B0%EC%84%A0%2F%EC%A1%B0%EC%84%A0%20%ED%9B%84%EA%B8%B0"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "조선가례 내용 상세보기",
+          "url": "https://form.ugyo.net/sitemenu/view.do?menuCode=2107"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. 상투 틀고 쪽 찌는 관례복",
+          "url": "https://contents.history.go.kr/front/km/print.do?levelId=km_009_0060_0020&whereStr="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례 - 디지털강남문화대전",
+          "url": "http://www.grandculture.net/gangnam/toc/GC04801842"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/누리는 전통/한복/한복사전/한복사전",
+          "url": "https://kculture.or.kr/brd/board/1077/L/menu/1067?brdType=R&thisPage=1&bbIdx=118&searchCategory1=994&searchField=&searchText="
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례 - 디지털당진문화대전",
+          "url": "https://www.grandculture.net/dangjin/toc/GC06401248"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/누리는 전통/한복/시대별 한복/조선시대",
+          "url": "https://kculture.or.kr/clothes/code/943/menu/923/idx/68/currentPage/3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "8장 가정의레몬화: 관례",
+          "url": "http://contents.kocw.net/KOCW/document/2015/wonkwang/parkjunga/06.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "2. 관례(冠禮)",
+          "url": "https://www.sacheon.go.kr/portal/data/pdf/intro/02759_down01.pdf#294#203"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7281,
+      "query": "전통 관례 찬자 관자의 머리를 빗겨 건을 씌움 빗질",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "조선가례 내용 상세보기",
+          "url": "https://form.ugyo.net/sitemenu/view.do?menuCode=2107"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<center>정답재(精淡齋)_1F 전동음식제원실 ‘정성과 자연을 담아내는 공간’</center>",
+          "url": "https://lll.namdong.go.kr/dong/bbs/bbsMsgFileDown.do?bcd=dong_notice&msg_seq=88113&fileno=1#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "관례는 남·녀의 성인(成人)의식이나, 남자는 15~20세가 되면 주례(主",
+          "url": "https://memory.library.kr/files/original/c8b9d1e9167153a6d9353aed11422ff5.pdf#30#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "○ 집사자가 사모를 소반에 내온다",
+          "url": "http://www.grandculture.net/local/buan/contents/file/%ed%99%8d%ec%9e%ac%ec%9d%bc%ea%b8%b0.pdf#297#121"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "찬자가 초림을 벗기면 빈객이 복두(幞頭)를 썩워준다",
+          "url": "https://www.cultureline.kr/webgear/board_pds/11246/%5B%2031%20%5D%20%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EC%9D%BC%EC%83%9D%EC%9D%98%EB%A1%80%EC%9D%98%20%ED%8A%B9%EC%A7%95.pdf#7#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "• 주례께서는 판자에게 건을 씌워 주시고 계빈께서는 계자에게 비녀를 꽂아 주시겠습니다",
+          "url": "https://memory.library.kr/files/original/c8b9d1e9167153a6d9353aed11422ff5.pdf#30#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "<table><tr><td>순서</td><td>관례 절차</td><td>주요 내용</td></tr><tr><td>1</td><td>陳設</td><td>관모류, 의복, 솔잔, 식기, 관세 등을 의해 공간에 진설</td></tr><t...",
+          "url": "https://www.ikcc.or.kr/getFile/;jsessionid=F21D7559FD7578984D398C1E47E49915?id=4025#20#6"
+        },
+        {
+          "date": "2014-03-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "성년식의 의미와 절차 - 文字记录",
+          "url": "https://prezi.com/fkwqqlmbyusg/presentation/#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통문화포털/누리는 전통/한복/한복사전/한복사전",
+          "url": "https://kculture.or.kr/brd/board/1077/L/menu/1067?brdType=R&thisPage=1&bbIdx=118&searchCategory1=994&searchField=&searchText="
+        },
+        {
+          "date": "2016-03-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "전통 성인식과 현대 성인식 - 文字记录",
+          "url": "https://prezi.com/rl0fkgpq-nzo/presentation/#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 24193,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24193,
+    "cache_read_input_tokens": 5865,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 22336,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 22336,
+        "cache_read_input_tokens": 3861,
+        "input_tokens": 2,
+        "output_tokens": 499,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 676,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

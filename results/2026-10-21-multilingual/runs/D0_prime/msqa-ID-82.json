@@ -1,0 +1,62 @@
+{
+  "answer": "布吉语（Basa Ugi / Bahasa Bugis）属于南岛语系（Austronesia）下的**南苏拉威西语支（South Sulawesi languages）**。它关系最近的是同属这一语支的语言，主要有：\n\n- **望加锡语（Bahasa Makassar）** —— 通常被认为是与布吉语最接近的语言，同属南苏拉威西语支，语法和词汇上高度相似（不过两者并不能互通）。\n- **曼达语（Bahasa Mandar）**\n- **托拉查语（Bahasa Toraja / Toraja-Sa'dan）**\n- **马马萨语（Bahasa Mamasa）**、**Massenrempulu**、**Luwu**、**Selayar** 等南苏拉威西的其他语言。\n\n简单说：布吉语最近的是**南苏拉威西语支内部的各语言，其中以望加锡语最为接近**；再往上一层，它们都属于南岛语系中马来—波利尼西亚语族（Malayo-Polynesian）里较早分出的一个分支。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.162,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.021443999999999998,
+      "inputTokens": 2036,
+      "maxOutputTokens": 32000,
+      "outputTokens": 665,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/D0_prime/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.021443999999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2036,
+    "iterations": [],
+    "output_tokens": 665,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

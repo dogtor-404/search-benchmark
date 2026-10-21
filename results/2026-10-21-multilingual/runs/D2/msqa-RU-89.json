@@ -1,0 +1,223 @@
+{
+  "answer": "**«Да нет»** — устойчивое сочетание, которое, по Викисловарю, выражает осторожное отрицание (например: «— Ну что, с сенокоса? — Да нет, в музее был»).\n\n依据：https://ru.wiktionary.org/wiki/да_нет\n\n另外，口语里的 **«да нет, наверное»** 也带有这种缓和、不确定的否定意味（https://samaragovorit.ru/news/77550-russkie-frazy-kotorye-ne-perevodyatsya-ni-na-odin-yazyk-v-mire-u-inostrancev-mozg-kipit-a-dlya-nas-smysl-ocheviden.html）。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.219,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.06783439999999999,
+      "inputTokens": 14992,
+      "maxOutputTokens": 32000,
+      "outputTokens": 369,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-RU-89",
+  "raw": "jsonl/D2/msqa-RU-89.jsonl",
+  "reported_cost_usd": 0.06783439999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7448,
+      "query": "осторожное отрицание фраза выражает",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "да нет — Викисловарь",
+          "url": "https://ru.wiktionary.org/wiki/%D0%B4%D0%B0_%D0%BD%D0%B5%D1%82"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "сомнения подобного рода обычно принимает следующую ч форму: «Пожалуйста, докажите P»",
+          "url": "https://inion.ru/site/assets/files/2836/metod_2015_vyp_5.pdf#116#53"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "осторожное отрицание | Перевод осторожное отрицание?",
+          "url": "https://universal_ru_en.academic.ru/1853629/"
+        },
+        {
+          "date": "2026-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Простое объяснение двойного отрицания в немецком языке | German1",
+          "url": "https://deutsch1.net/ru/%D0%B3%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5-%D0%BE%D1%82%D1%80%D0%B8%D1%86%D0%B0%D0%BD%D0%B8%D0%B5/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DOI: https://doi",
+          "url": "https://studiap.kubg.edu.ua/index.php/journal/article/download/439/387/1063#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Для снижения категоричности высказывания могут также использоваться модификаторы с глаголами намерения типа to be inclined, to t...",
+          "url": "https://www.vestnik.mgimo.ru/jour/article/viewFile/1235/988#3#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Отрицание – выражение при помощи лексических, фразеологических, синтаксических и других средств языка того, что связь, устанавл...",
+          "url": "https://npo.tspu.edu.ru/files/npo/PDF/articles/efimkina_anna_olegovna_101_113_5_57_2024.pdf#6#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "предложении современного немецкого языка возможен ряд случаев употребления двух или",
+          "url": "https://os-russia.com/SBORNIKI/KON-198.pdf#74#40"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "sembra di no",
+          "url": "https://lingro.ru/learn/italian/sembra-di-no/"
+        },
+        {
+          "date": "2026-09-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Русские фразы, которые не переводятся ни на один язык в мире: у иностранцев мозг кипит, а для нас смысл очевиден - +9°CСамара",
+          "url": "https://samaragovorit.ru/news/77550-russkie-frazy-kotorye-ne-perevodyatsya-ni-na-odin-yazyk-v-mire-u-inostrancev-mozg-kipit-a-dlya-nas-smysl-ocheviden.html#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7284,
+      "query": "\"осторожное отрицание\" выражение",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "сомнения подобного рода обычно принимает следующую ч форму: «Пожалуйста, докажите P»",
+          "url": "https://inion.ru/site/assets/files/2836/metod_2015_vyp_5.pdf#116#53"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "представители молодого поколения и с которыми они не могут справиться",
+          "url": "https://sgu.ru/sites/default/files/page/files/sovremennoe_ros_obshchestvo_2012.pdf#71#57"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "осторожное отрицание | Перевод осторожное отрицание?",
+          "url": "https://universal_ru_en.academic.ru/1853629/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ðè êå», «Ìå òà ôè çè êå», «Òî ïè êå» è â ñâî äå ëî ãè ÷åñ êèõ ñî ÷è íå íèé «Îðãà íîí» Àðèñ òî òåëü ñèñ òå ìà òè çè ðî âàë è ðàç ...",
+          "url": "https://spravochnick.ru/file/scientific-article/51a65cb7-fbfb-408b-bac3-c0176b282f50/?title=Диалектическая логика «Мелосского диалога» Фукидида#11#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Отрицание",
+          "url": "https://wooordhunt.ru/word/%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d0%bd%d0%b8%d0%b5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Необходимо отметить особенность менталитета восточных бурят: никогда не выражать категорично свое желание или отрицание, все дол...",
+          "url": "http://www.mongoloved.ru/images/public/historical_experience.pdf#207#160"
+        },
+        {
+          "date": "2026-06-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Простое объяснение двойного отрицания в немецком языке | German1",
+          "url": "https://deutsch1.net/ru/%D0%B3%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5-%D0%BE%D1%82%D1%80%D0%B8%D1%86%D0%B0%D0%BD%D0%B8%D0%B5/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "DOI: https://doi",
+          "url": "https://studiap.kubg.edu.ua/index.php/journal/article/download/439/387/1063#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "**Е",
+          "url": "http://e-lib.mslu.by/bitstream/edoc/8049/1/%d0%97%d1%83%d0%b5%d0%b2%d1%81%d0%ba%d0%b0%d1%8f%20%d0%95.%20%d0%92.%2c%20%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80%d0%be%d0%b2%d0%b8%d1%87%20%d0%95.%20%d0%a1%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%b0%20%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%be%d1%82%d1%80%d0%b8%d1%86%d0%b0%d0%bd%d0%b8%d1%8f.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«Отрицание – выражение при помощи лексических, фразеологических, синтаксических и других средств языка того, что связь, устанавл...",
+          "url": "https://npo.tspu.edu.ru/files/npo/PDF/articles/efimkina_anna_olegovna_101_113_5_57_2024.pdf#6#3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 14992,
+    "iterations": [],
+    "output_tokens": 369,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

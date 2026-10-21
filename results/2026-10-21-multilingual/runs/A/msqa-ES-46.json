@@ -1,0 +1,100 @@
+{
+  "answer": "La Iglesia imponía **penitencia pública** a quien se acogía al asilo. La autoridad civil no podía castigarlo y cambiaba la pena por una multa.\n\nSolo encontré esta respuesta en un espejo de Wikipedia en español (artículo «Asilo en sagrado»). No hallé ninguna fuente académica primaria sobre el *Liber Iudiciorum* que confirme la cuantía de la multa ni el detalle de la penitencia.\n\nSources:\n- [Asilo en sagrado (es-academic.com)](https://es-academic.com/dic.nsf/eswiki/113667)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.722,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120627,
+      "inputTokens": 13987,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1328,
+      "provider": "firstParty",
+      "thinkingTokens": 557,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3282,
+      "cacheReadInputTokens": 6812,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0170972,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 328,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-46",
+  "raw": "jsonl/A/msqa-ES-46.jsonl",
+  "reported_cost_usd": 0.029159900000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "derecho visigodo derecho de asilo iglesia multa autoridades civiles no podían castigar la Iglesia imponía penitencia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01EqyhqGNhp8TKcsCACmrcSi"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3282,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3282,
+    "cache_read_input_tokens": 6812,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1372,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1372,
+        "cache_read_input_tokens": 4361,
+        "input_tokens": 2,
+        "output_tokens": 211,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 328,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

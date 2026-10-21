@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "오다망 유행어 뜻", "results": [], "status": "allowed", "tool_use_id": "toolu_013tTzhitKx2918qdwvuX21j"}
+{"billable": false, "call": 2, "query": "오다망 나무위키", "results": [], "status": "allowed", "tool_use_id": "toolu_01Y9RYBoTRQE1yoQc7aR99YY"}
+{"billable": false, "call": 3, "query": "\"오다망\" 뜻 밈 신조어", "results": [], "status": "allowed", "tool_use_id": "toolu_01UzibVuYNfw2cf8pY25XoZT"}
+{"billable": false, "call": 4, "query": "오다망 유행어 \"오다망\" 오늘 다 망했다 OR 오다가다 망 뜻", "results": [], "status": "allowed", "tool_use_id": "toolu_01D7Me6qUBtLNTdwYhsACNaW"}

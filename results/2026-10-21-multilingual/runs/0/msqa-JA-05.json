@@ -1,0 +1,74 @@
+{
+  "answer": "我不知道有没有专门的固定称呼，也不想编一个。\n\n和这个问法最接近的几个说法，都不能确定就是你要的答案：\n\n- **家電オタク / 家電マニア**：指特别爱家电、很懂家电的人，但不一定包含\"当宠物一样疼爱\"的意思。\n- **家電女子**：指对家电感兴趣的女性，同样不是\"当宠物养\"的意思。\n\n如果这是某个题库或节目里的题目，答案可能是一个特定的新词或梗，我没有把握。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.807,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1757,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0114288,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 424,
+      "provider": "firstParty",
+      "thinkingTokens": 240,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-05",
+  "raw": "jsonl/0/msqa-JA-05.jsonl",
+  "reported_cost_usd": 0.0114288,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1757,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1757,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1757,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1757,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 424,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 424,
+    "output_tokens_details": {
+      "thinking_tokens": 240
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

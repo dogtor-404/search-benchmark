@@ -1,0 +1,156 @@
+{
+  "answer": "**Respuesta:** La tela típica de la gente común era el **awasqa** (también escrito *ahuasca* o *abasca*). Era un tejido ordinario de uso diario, de lana de llama, hecho en telar de cintura. El **cumbi** (*qompi*), más fino, quedaba reservado para la nobleza y los funcionarios.\n\n**Fuentes:**\n- Un repositorio académico (UNADQTC) dice que el awasqa era \"el tejido común y ordinario, usado por el poblador común\", y que el cumbi era para la realeza y los altos funcionarios: https://repositorio.unadqtc.edu.pe/server/api/core/bitstreams/68ec471d-c0e0-4c24-9f7d-c4f9e0a54be2/content\n- Una carta recogida en el libro de Mostny describe la ropa ordinaria del pueblo como paño liso con franjas en la urdimbre, llamado *awasqa*: https://www.investigacion.patrimoniocultural.gob.cl/sites/www.investigacion.patrimoniocultural.gob.cl/files/2025-01/libro_mostny_vf_baja.pdf\n- Una tesis de Palermo dice que el *ahuasca* era el tejido de la vida cotidiana, hecho en telar horizontal: https://fido.palermo.edu/servicios_dyc/proyectograduacion/archivos/740.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.528,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 20352,
+      "cacheReadInputTokens": 5870,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.087723,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 572,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-34",
+  "raw": "jsonl/B/msqa-ES-34.jsonl",
+  "reported_cost_usd": 0.087723,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8504,
+      "query": "tejidos incas tela típica vestimenta clases bajas tierras altas Andes awasca cumbi",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "copiados en cerámica” (Milla, 2007)",
+          "url": "https://www.repositorio.unap.edu.pe/bitstream/handle/20.500.14082/16766/Luis_Alberto_Caira_Huanca.pdf?sequence=1&isAllowed=y#27#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "In areas of the Andes where camelid fiber was not produced, the tax included other kinds of cloth",
+          "url": "https://www.archive.org/download/DACforCM_part_6/DACforCM_part_2/toweaveforsunanc0000ston.pdf#41#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "costumes in Inca times",
+          "url": "https://www.investigacion.patrimoniocultural.gob.cl/sites/www.investigacion.patrimoniocultural.gob.cl/files/2025-01/libro_mostny_vf_baja.pdf#49#25"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "los grupos humanos",
+          "url": "http://documentacion.cidap.gob.ec:8080/bitstream/cidap/451/2/Revista%2063-64%20completa.pdf#43#30"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No recibe tan bien el tinte el algodón como la lana; porque, puesto caso que cuando nuevo tiene los colores vi- vos, con el uso ...",
+          "url": "https://78.47.66.34/es/download/HistoriadelNuevoMundo_11032602.pdf#28#24"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ultratumba",
+          "url": "https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1295&context=abya_yala#21#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "(1992 [1610-1611]:cap",
+          "url": "https://homsy-staging.cambridgecore.org/core/services/aop-cambridge-core/content/view/C987B3E1BFDAE8950D5618ADE4D11E72/S1045663522000955a.pdf/la_ofrenda_de_estatuillas_en_el_rito_de_la_capacocha_y_su_relacion_con_el_mito_del_origen_de_los_incas.pdf#5#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "T E J I E N D O  I M Á G E N E S",
+          "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1034&context=tihvsd#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "narran esa sociedad",
+          "url": "https://fido.palermo.edu/servicios_dyc/proyectograduacion/archivos/740.pdf#12#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"Los \"cumbicamayocs\" eran tejedores varones que, al igual que otros artesanos especializados, quedaban exentos del tributo",
+          "url": "https://repositorio.unadqtc.edu.pe/server/api/core/bitstreams/68ec471d-c0e0-4c24-9f7d-c4f9e0a54be2/content#21#7"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 20352,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 20352,
+    "cache_read_input_tokens": 5870,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18490,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18490,
+        "cache_read_input_tokens": 3866,
+        "input_tokens": 2,
+        "output_tokens": 482,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 572,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

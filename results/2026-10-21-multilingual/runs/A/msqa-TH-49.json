@@ -1,0 +1,100 @@
+{
+  "answer": "**มัดนม**\n\nบทความของ Silpa Magazine เรื่องการแต่งกายสตรีชาวยวนในเชียงใหม่ระบุว่า สตรีเชียงใหม่ตามจารีตมักไม่สวมเสื้อ แต่ใช้ผ้าห่มผืนเดียว ถ้านำผ้าห่มมาพันรอบหน้าอก เรียกว่า \"มัดนม\" ส่วนการห่มเฉวียงบ่าแล้วปล่อยชายผ้าไปด้านหลัง เรียกว่า \"สะหว้ายแหล้ง\" หรือ \"เบี่ยงบ้าย\"\n\nผมค้นเพียงครั้งเดียวและอ่านจากข้อความสรุปในผลการค้นหา ไม่ได้เปิดอ่านบทความฉบับเต็ม\n\nSources:\n- [“ซิ่น” แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน – Silpa Magazine](https://www.silpa-mag.com/?p=35746)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.718,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0116198,
+      "inputTokens": 11943,
+      "maxOutputTokens": 128000,
+      "outputTokens": 851,
+      "provider": "firstParty",
+      "thinkingTokens": 378,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3140,
+      "cacheReadInputTokens": 6763,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0202043,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 696,
+      "provider": "firstParty",
+      "thinkingTokens": 191,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-49",
+  "raw": "jsonl/A/msqa-TH-49.jsonl",
+  "reported_cost_usd": 0.031824099999999994,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "สตรีเชียงใหม่ ผ้าห่มพันรอบหน้าอก เรียกว่า",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Q8PVyQWsRPjSoGZCbpdpBz"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3140,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3140,
+    "cache_read_input_tokens": 6763,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1279,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1279,
+        "cache_read_input_tokens": 4312,
+        "input_tokens": 2,
+        "output_tokens": 586,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 696,
+    "output_tokens_details": {
+      "thinking_tokens": 191
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

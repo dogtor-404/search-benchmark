@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** สตรีชาวยวน (ไทยวน) หรือชาวล้านนา\n\nซิ่นเป็นอัตลักษณ์ของสตรีชาวยวนหรือล้านนาในแถบภาคเหนือของประเทศไทย ที่นิยมนุ่งกันมากคือซิ่นตา (ซิ่นก่าน) และซิ่นตีนจก\n\nแหล่งที่ใช้:\n- https://www.silpa-mag.com/culture/article_35746 (ศิลปวัฒนธรรม: \"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน)\n- http://creativecitychiangmai.chiangmaipao.go.th/wp/2021/10/05/ผ้าซิ่นตีนจกเชียงใหม่/ (ผ้าซิ่นตีนจกเชียงใหม่ เป็นรูปแบบที่สืบทอดมาของชาวไทยวน)\n\nผมค้นไปครั้งเดียว",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.019,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 20700,
+      "cacheReadInputTokens": 5872,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.08832519999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 493,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-46",
+  "raw": "jsonl/B/msqa-TH-46.jsonl",
+  "reported_cost_usd": 0.08832519999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8746,
+      "query": "ซิ่น เป็นอัตลักษณ์ ภาคเหนือ สตรี ชาติพันธุ์ ไทยวน ล้านนา",
+      "results": [
+        {
+          "date": "2019-07-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"ซิ่น\" แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน",
+          "url": "https://www.silpa-mag.com/culture/article_35746"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ซิ่น Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%99"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หัวชิ้น คือส่วนที่อยู่ติดกับเอว มักใช้ผ้าพื้นสีขาว สีแดงหรือสีด าต่อกับตัวชิ้น เพื่อให้ชิ้น ยาวพอดีกับความสูงของผู้นุ่ง และใช้เป...",
+          "url": "https://soc.mcu.ac.th/wp-content/uploads/2024/05/Proceeding-MCU-Congress-4-%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%a1-2.pdf#193#131"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "เชียงใหม่ Archives - Page 8 of 8 - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/page/8"
+        },
+        {
+          "date": "2021-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดเวียงต้าทิศเหนือ",
+          "url": "https://cmhop.org/product/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a7%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%a8%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad-5/"
+        },
+        {
+          "date": "2021-10-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ผ้าซิ่นตีนจกเชียงใหม่",
+          "url": "http://creativecitychiangmai.chiangmaipao.go.th/wp/2021/10/05/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%8b%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%95%e0%b8%b5%e0%b8%99%e0%b8%88%e0%b8%81%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/#respond"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดหนองบัว ทิศตะวันออก(กัณฑ์ที่ 5)1.21",
+          "url": "https://cmhop.org/product/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7-%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81-12/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "วัดหนองบัว ทิศใต้ช่องที่ 7(กัณฑ์ที่ 13)1.1",
+          "url": "https://cmhop.org/product/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%ab%e0%b8%99%e0%b8%ad%e0%b8%87%e0%b8%9a%e0%b8%b1%e0%b8%a7-%e0%b8%97%e0%b8%b4%e0%b8%a8%e0%b9%83%e0%b8%95%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%97-53/#content"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "อาหารอีกจĞำพวกหนึ่งที่ต้องรับประทานควบคู่กันเพื่อเสริมรสชาติให้อร่อยขึ้น ชาวไทยวน เรียกว่า เป็นชู้กัน มีทั้งอาหารว่างและอาหารระห...",
+          "url": "http://research.culture.go.th/medias/th038.pdf#74#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ด้านหลัง ถ้าอากาศหนาวจะมีผ้าตู้ม (หรือผ้าคลุมไหล) และมุ่งซื่น การมุ่งซื่นจะมีสามส่วนคือ ตัวชื่น",
+          "url": "https://rsuir-library.rsu.ac.th/bitstream/123456789/833/1/Akekapong%20Treetrong.pdf#12#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 20700,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 20700,
+    "cache_read_input_tokens": 5872,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 18836,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 18836,
+        "cache_read_input_tokens": 3868,
+        "input_tokens": 2,
+        "output_tokens": 382,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 493,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

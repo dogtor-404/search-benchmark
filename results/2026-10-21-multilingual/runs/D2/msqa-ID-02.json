@@ -1,0 +1,144 @@
+{
+  "answer": "Dalam falsafah **Tri Hita Karana** (\"tiga penyebab kebahagiaan\"), tiga unsur yang harus dijaga adalah:\n\n1. **Parahyangan** — hubungan harmonis antara manusia dengan Tuhan (Ida Sang Hyang Widhi Wasa).\n2. **Pawongan** — hubungan harmonis antara manusia dengan sesama manusia.\n3. **Palemahan** — hubungan harmonis antara manusia dengan alam dan lingkungannya.\n\nSumber: [Pemkab Badung](https://badungkab.go.id/kab/berita/41974-megendu-wirasa-giri-prasta-ajak-masyarakat-laksanakan-konsep-tri-hita-karana-dengan-baik), [Kementerian Maritim (G20)](https://www.maritim.go.id/detail/tri-hita-karana-menjadi-role-model-dalam-ktt-g20)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.612,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2304,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0375968,
+      "inputTokens": 7799,
+      "maxOutputTokens": 32000,
+      "outputTokens": 297,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/D2/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0375968,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6962,
+      "query": "Tri Hita Karana tiga unsur falsafah Bali",
+      "results": [
+        {
+          "date": "2013-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana",
+          "url": "https://books.google.co.id/books?id=4DFIDwAAQBAJ&hl=zh-CN#1"
+        },
+        {
+          "date": "2013-12-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana - Tri Hita Karana",
+          "url": "https://books.google.co.id/books?id=4DFIDwAAQBAJ&q=cultural+tourism&hl=zh-CN&output=html_text&source=gbs_word_cloud_r&cad=3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana - This book neither wants to make an accusation, nor impose things that are impossible to carry out",
+          "url": "https://books.google.com.sg/books/about/Tri_Hita_Karana.html?hl=id&id=4DFIDwAAQBAJ&redir_esc=y#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "문화재청 국가문화유산포털",
+          "url": "https://www.heritage.go.kr/heri/unesco/selectWorldCultureDetail.do;jsessionid=b1MKbj3zuPlVix4kOrFTeJeRBgjx9ZcL6bQANJWej3Gfj9q1TXFMdcAXovRc0atC.cpawas_servlet_engine1?recordNo=314331&pageIndex=58&strWhere=&searchCnd=&searchWrd=&searchOrder=&searchOrderSort=NaN&needPreserv=&publicRegist=&continent=&hcode=record11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana",
+          "url": "https://ceraken.baliprov.go.id/detail/tri-hita-karana-1675605680"
+        },
+        {
+          "date": "2024-07-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kunjungi Museum Rudana, Putu Supadma Ajak Delegasi AIPA-FAO-IISD Lihat Perwujudan Tri Hita Karana",
+          "url": "https://emedia.dpr.go.id/news/2024/07/25/kunjungi-museum-rudana-putu-supadma-ajak-delegasi-aipa-fao-iisd-lihat-perwujudan-tri-hita-karana"
+        },
+        {
+          "date": "2022-11-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Tri Hita Karana Menjadi Role Model Dalam KTT G20",
+          "url": "https://www.maritim.go.id/detail/tri-hita-karana-menjadi-role-model-dalam-ktt-g20"
+        },
+        {
+          "date": "2025-06-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Ngajegang Jagad Bali Berdasarkan Konsep Tri Hita Karana - RRI.co.id - Ngajegang Jagad Bali Berdasarkan Konsep Tri Hita Karana",
+          "url": "https://rri.co.id/denpasar/regional/1578506/ngajegang-jagad-bali-berdasarkan-konsep-tri-hita-karana#1"
+        },
+        {
+          "date": "2024-09-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Saput Poleng Simbol Harmonisasi - RRI.co.id - Saput Poleng Simbol Harmonisasi",
+          "url": "https://rri.co.id/denpasar/regional/1015910/saput-poleng-simbol-harmonisasi#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Berita - Megendu Wirasa, Giri Prasta Ajak Masyarakat Laksanakan Konsep Tri Hita Karana Dengan Baik",
+          "url": "https://badungkab.go.id/kab/berita/41974-megendu-wirasa-giri-prasta-ajak-masyarakat-laksanakan-konsep-tri-hita-karana-dengan-baik"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2304,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 7799,
+    "iterations": [],
+    "output_tokens": 297,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

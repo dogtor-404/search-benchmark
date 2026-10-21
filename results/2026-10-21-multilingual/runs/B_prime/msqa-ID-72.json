@@ -1,0 +1,156 @@
+{
+  "answer": "Bimbang Bebalai 是一种**婚礼仪式**（upacara perkawinan，也就是传统的婚庆活动）。它来自明古鲁省（Bengkulu）实武牙县（Kabupaten Seluma）的**塞拉瓦伊族（Suku Serawai）**。\n\n仪式在村民合力搭起的长厅（balai）里举行，要宰一头水牛。实武牙县政府的说法是：通常三到五对新人一起办，其中至少要有三对。不过 Rois Leonard Arios 的论文引用了当地人 Jamahari 的说法，认为传统上并不要求至少三对，要看两家能负担多少。\n\n依据：\n- https://id.wikipedia.org/wiki/Bimbang_Bebalai\n- https://budaya-indonesia.org/bimbang-bebalai/\n- https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf （论文《Tradisi Bimbang Bebalai pada Etnis Serawai》，作者 Rois Leonard Arios）\n\n只搜了 1 次。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.132,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 14637,
+      "cacheReadInputTokens": 5849,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.1275818,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 465,
+      "provider": "firstParty",
+      "thinkingTokens": 19,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-72",
+  "raw": "jsonl/B_prime/msqa-ID-72.jsonl",
+  "reported_cost_usd": 0.1275818,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6775,
+      "query": "Bimbang Bebalai upacara suku",
+      "results": [
+        {
+          "date": "2019-02-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+          "url": "https://id.wikipedia.org/wiki/Bimbang_Bebalai"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Universitas Indonesia Library >> Artikel Jurnal",
+          "url": "https://lontar.ui.ac.id/file?file=pdf/abstrak/id_abstrak-9999920542698.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=653:\"bimbang+bebalai\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian :: Simpan CSV :: Kembali",
+          "url": "https://lib.ui.ac.id/hasilcari?query=100:\"Rois+Leonard+Arios,+author\""
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Garuda - Garba Rujukan Digital",
+          "url": "https://garuda.kemdikbud.go.id/author/view/2748190"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebagai kelanjutan dari upacara mungga balai dan malam gegerit, pada esok harinya dilaksanakan pula satu acara yang dinamakan up...",
+          "url": "https://repositori.kemdikbud.go.id/13048/1/ARTI%20PERLAMBANG%20DAN%20FUNGSI%20TATA%20RIAS%20PENGANTIN%20DALAM%20MENANAMKAN%20NILAI-NILAI%20BUDAYA%20DAERAH%20BENGKULU.pdf#20#14"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bimbang Bebalai - Ritual",
+          "url": "https://budaya-indonesia.org/bimbang-bebalai/#collapse-iaci#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Hasil Pencarian Entri - masyarakat adat",
+          "url": "https://budaya-indonesia.org/cari?q=masyarakat%20adat&page=18&provinsi=4#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "masyarakatarkat di desa atau dusun sebagai",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "malam harinya, maka tradisi seserahan",
+          "url": "https://media.neliti.com/media/publications/395007-none-7f18cfc4.pdf#6#4"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 14637,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14637,
+    "cache_read_input_tokens": 5849,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 12796,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 12796,
+        "cache_read_input_tokens": 3845,
+        "input_tokens": 2,
+        "output_tokens": 395,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 465,
+    "output_tokens_details": {
+      "thinking_tokens": 19
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

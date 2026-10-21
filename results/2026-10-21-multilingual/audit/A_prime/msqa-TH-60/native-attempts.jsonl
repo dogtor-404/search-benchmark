@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "ป้ายยา ศัพท์วัยรุ่น ความหมาย", "results": [], "status": "allowed", "tool_use_id": "toolu_01VXB2BPp23K69V2SVMsE1FQ"}
+{"billable": false, "call": 2, "query": "ป้ายยา แปลว่า คำแสลง ป้ายยาสินค้า", "results": [], "status": "allowed", "tool_use_id": "toolu_01SVrf4Foac98bmYKxArQ2Zr"}
+{"billable": false, "call": 3, "query": "\"ป้ายยา\" คือ ศัพท์โซเชียล แนะนำ ติดใจ", "results": [], "status": "allowed", "tool_use_id": "toolu_019zRjxn7RyGGYAyqNcuA9yY"}

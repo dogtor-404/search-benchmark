@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道。\n\n我对印尼的 **Mantra Madu** 仪式没有可靠的了解，也不清楚其中的 **Ubo** 具体指什么、作何用途。凭现有知识作答只会是猜测，所以直接说不知道。\n\n如果你能提供一点上下文（比如是哪个民族/地区的仪式、Ubo 是植物、器物还是祭品），我可以帮你判断，但仍建议以当地资料或原始文献为准。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.077,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.015236,
+      "inputTokens": 1974,
+      "maxOutputTokens": 32000,
+      "outputTokens": 367,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-48",
+  "raw": "jsonl/D0/msqa-ID-48.jsonl",
+  "reported_cost_usd": 0.015236,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1974,
+    "iterations": [],
+    "output_tokens": 367,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

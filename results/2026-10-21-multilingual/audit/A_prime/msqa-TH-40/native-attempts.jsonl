@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "ขั้นตอนการสักยันต์ เตรียม ขันธ์ 5 ดอกไม้ ธูป เทียน ค่ายกครู", "results": [], "status": "allowed", "tool_use_id": "toolu_01CdUkYgAFbmEUFao5MbF23g"}
+{"billable": false, "call": 2, "query": "สักยันต์ ต้องเตรียมอะไรบ้าง ดอกไม้ ธูป เทียน บุหรี่ ปัจจัย ครูบาอาจารย์", "results": [], "status": "allowed", "tool_use_id": "toolu_01C1WJFzSb1cfLD56KSVTNdU"}
+{"billable": false, "call": 3, "query": "พิธีสักยันต์ วัดบางพระ เตรียม ดอกบัว ธูป บุหรี่ ค่ายกครู", "results": [], "status": "allowed", "tool_use_id": "toolu_01BrqvgsM5Y5y2cE2X5TVmcJ"}

@@ -1,0 +1,62 @@
+{
+  "answer": "主要指**语言接触中的“借用”（el préstamo lingüístico）**，尤其是**词汇层面的借词**：西班牙语在历史上从拉丁语、阿拉伯语（arabismos）、法语（galicismos）、英语（anglicismos）等语言吸收了大量词汇。\n\n更宽泛地说，这类影响也涉及**底层（sustrato）**、**上层（superestrato）**和**旁层（adstrato）**等接触现象；但“其他语言对西班牙语史的影响”通常首先指**借词**。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 4.629,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.019888,
+      "inputTokens": 1982,
+      "maxOutputTokens": 32000,
+      "outputTokens": 598,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-57",
+  "raw": "jsonl/D0/msqa-ES-57.jsonl",
+  "reported_cost_usd": 0.019888,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1982,
+    "iterations": [],
+    "output_tokens": 598,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

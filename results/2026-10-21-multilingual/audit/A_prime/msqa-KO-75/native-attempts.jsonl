@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "이황 단양군수 부임 1548년", "results": [], "status": "allowed", "tool_use_id": "toolu_01TrASpHrFiB9RGarKnsHAiC"}
+{"billable": false, "call": 2, "query": "퇴계 이황 48세 단양군수 명종 3년 정월", "results": [], "status": "allowed", "tool_use_id": "toolu_01U3NGK2V9QpHRHPAY2EftMu"}
+{"billable": false, "call": 3, "query": "이황 1548년 단양 군수 풍기 군수 encykorea", "results": [], "status": "allowed", "tool_use_id": "toolu_01DoioZqsQxMhv2C43EncePv"}

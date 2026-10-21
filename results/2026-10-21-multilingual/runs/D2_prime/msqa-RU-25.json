@@ -1,0 +1,144 @@
+{
+  "answer": "**Выголексинское общежительство**（Выговская пустынь，又称 Выгореция）——1694 年 10 月建于维格河畔的旧礼仪派（无司祭派）最大中心。\n\n依据网址：https://pravenc.ru/text/Выголексинским%20общежительством.html",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.631,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0557704,
+      "inputTokens": 12436,
+      "maxOutputTokens": 32000,
+      "outputTokens": 277,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-25",
+  "raw": "jsonl/D2_prime/msqa-RU-25.jsonl",
+  "reported_cost_usd": 0.0557704,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8377,
+      "query": "старообрядческий центр основан в 1694 году Выг",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - Материал из Православной Энциклопедии под редакцией Патриарха Московского и всея Руси Кирилла",
+          "url": "https://pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%be%d0%bc.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d0%ab%d0%93%d0%9e%d0%9b%d0%95%d0%9a%d0%a1%d0%98%d0%9d%d0%a1%d0%9a%d0%9e%d0%95%20%d0%9e%d0%91%d0%a9%d0%95%d0%96%d0%98%d0%a2%d0%95%d0%9b%d0%ac%d0%a1%d0%a2%d0%92%d0%9e.html#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "образовать хлебный запас, что позволило ему принимать к себе новых",
+          "url": "https://iriran.ru/sites/default/files/Staricin_diss.pdf#115#46"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО - ВЫГОЛЕКСИНСКОЕ ОБЩЕЖИТЕЛЬСТВО",
+          "url": "https://m.pravenc.ru/text/%d0%92%d1%8b%d0%b3%d0%be%d0%bb%d0%b5%d0%ba%d1%81%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%bc%20%d0%be%d0%b1%d1%89%d0%b5%d0%b6%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d1%82%d0%b2%d0%b5.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В 1694 г",
+          "url": "http://lib2.pushkinskijdom.ru/Media/Default/PDF/Slov_kniznikov/%D0%A1%D0%9A%D0%B8%D0%9A%20%D0%94%D0%A0_XVII_%D1%87_1_%D0%90-%D0%97.pdf#147#90"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Лекса, урочище, Лексинская Крестовоздвиженская старообрядческая женская пустынь",
+          "url": "https://sobory.ru/article/?object=57938"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Иванов день: от Купалы к Предтече (комментарий в цифрах и фактах) - - 6 июля 2006",
+          "url": "https://sedmitza.ru/text/406278.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Выговское старообрядческое общежительство: проблема соотношения регионального и общерусского | Рябининские чтения – 2007| Электронная библиотека",
+          "url": "https://site.kizhi.karelia.ru/library/ryabinin-2007/497.html"
+        },
+        {
+          "date": "2020-06-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Из сокровищницы библиотеки- Новости",
+          "url": "https://library.karelia.ru/news/_Iz_sokrovischnicy_biblioteki_17_06/?page=617&records_on_page=7#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Настоятель единоверческой общины Псковской епархии выступил в краеведческой библиотеке с лекцией «Центры русской веры»",
+          "url": "https://pskov-eparhia.ru/archives/47881"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12436,
+    "iterations": [],
+    "output_tokens": 277,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "การประชุมวางโครงการทำประวัติศาสตร์ของชาติไทย ประวัติศาสตร์การเมือง แบ่งเป็น 5 หมวด", "results": [], "status": "allowed", "tool_use_id": "toolu_01D9PiSGSKuKHMxFamsBXKQC"}
+{"billable": false, "call": 2, "query": "\"วางโครงการทำประวัติศาสตร์ของชาติไทย\" มีมติ ประวัติศาสตร์การเมืองแห่งชาติไทย ห้าหมวด", "results": [], "status": "allowed", "tool_use_id": "toolu_017xk6RPpKMSDGKhspDouyEG"}
+{"billable": false, "call": 3, "query": "ประชุม 12 ธันวาคม 2485 กรมศิลปากร ประวัติศาสตร์การเมือง 5 หมวด ก่อนสุโขทัย สุโขทัย อยุธยา ธนบุรี รัตนโกสินทร์", "results": [], "status": "allowed", "tool_use_id": "toolu_018iJSs98psKqHjiEHCYdDnh"}
+{"billable": false, "call": 4, "query": "\"ประวัติสาสตร\" ชาติไทย 2485 ห้าหมวด ประวัติศาสตร์การเมือง ศูนย์มานุษยวิทยาสิรินธร", "results": [], "status": "allowed", "tool_use_id": "toolu_01Q6KpXtZ4YZpmUmui9rL7hr"}
+{"billable": false, "call": 5, "query": "2485 กรมศิลปากร ประวัติศาสตร์การเมือง \"สมัยก่อนไทยเข้ามาในแหลมอินโดจีน\" สุโขทัย อยุธยา ธนบุรี รัตนโกสินทร์", "results": [], "status": "allowed", "tool_use_id": "toolu_01FCiCLiDuwpqLpoAyssDUsn"}

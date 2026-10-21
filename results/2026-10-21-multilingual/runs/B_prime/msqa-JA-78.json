@@ -1,0 +1,156 @@
+{
+  "answer": "**答え：トックリコロガシ（徳利転がし）**\n\n『愛知県史 別編 民俗3（三河）』の「トックリコロガシ」の項（p.565）に、次の記述があります。\n- 西三河平野部を中心とする広い地域では、この儀礼を「トックリコロガシ（徳利転がし）」や「トックリ」と呼ぶ。\n- 名前の由来は、婿方が持ってきた一升徳利の酒を両家の関係者で飲み干し、その徳利を転がして結婚を約束したことにある。\n\nこの記述は国立国会図書館のレファレンス協同データベースで確認しました。原本は直接読んでいません。\n\n**依拠したURL：**\n- https://crd.ndl.go.jp/reference/entry/index.php?id=1000377133&page=ref_view\n\n搜索は1回でした。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.271,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 12510,
+      "cacheReadInputTokens": 5905,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.109157,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 394,
+      "provider": "firstParty",
+      "thinkingTokens": 28,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-78",
+  "raw": "jsonl/B_prime/msqa-JA-78.jsonl",
+  "reported_cost_usd": 0.109157,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.674,
+      "query": "西三河 婚約 一升徳利 転がす 儀礼",
+      "results": [
+        {
+          "date": "2025-11-28T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "昭和62年頃結婚した両親が、結納の際に最後の締めで一升瓶を転がすという風習があったと話している。場所... | レファレンス協同データベース",
+          "url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000377133&page=ref_view"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "トックリコロガシとは？ わかりやすく解説",
+          "url": "https://www.weblio.jp/content/%E3%83%88%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B3%E3%83%AD%E3%82%AC%E3%82%B7?dictCode=WKPKM"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "決め酒｜Kiyomi Bridal Produce～Kiyomiブライダル プロデュース～",
+          "url": "https://kiyomi-wedding.jp/glossary/glossary_ka/alcohol.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "高山地方 4 では、樽入れの前に「口入れ」を行うのが習わしであった",
+          "url": "https://agu.repo.nii.ac.jp/record/975/files/%E4%BA%BA%E9%96%93%E6%96%87%E5%8C%96%20%E7%AC%AC33%E8%99%9F_162-147.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "アイヌ社会では儀礼用に主に稗を原料とする「トノト」と呼ばれる濁り酒が造られていた",
+          "url": "https://tasc.or.jp/assist/archives/h29/pdf/2017_01B_sekine.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "とよたの事典",
+          "url": "https://adeac.jp/toyota-city/texthtml/d100010/ct00000001/ht014950"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "平家康（徳川家康、1543 ～1616年）によって、今川氏によって安堵されていた財賀寺の配札先は、",
+          "url": "https://core.ac.uk/download/588153362.pdf#13#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "挙式前日の「送財礼」、当日の「迎親」、翌日の「回門」において、婚約時と同じ品目で「送盤」が3度かわされる",
+          "url": "https://www.jstage.jst.go.jp/article/lifology/25/0/25_KJ00009706225/_pdf/-char/en#5#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "結婚相手としては、よく働いて丈夫な人、まじめで気だてがよく、おとなしい人が好 まれた",
+          "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/004/653/honbun_9_8_1.pdf#6#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "結婚の礼",
+          "url": "https://mukogawa.repo.nii.ac.jp/record/2000450/files/P037-040.pdf#1#1#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 12510,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12510,
+    "cache_read_input_tokens": 5905,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 10613,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 10613,
+        "cache_read_input_tokens": 3901,
+        "input_tokens": 2,
+        "output_tokens": 288,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 394,
+    "output_tokens_details": {
+      "thinking_tokens": 28
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "吉田兼倶（室町后期，吉田神道/唯一神道的创立者）自称**“神祇管领长上”（神祇管領長上）**，以此名义向各地神社和神职人员颁发“宗源宣旨”、“神道裁许状”（授予神位、神号，认可神职资格等），逐步把全国的神职纳入吉田家的支配之下。这一体制到江户时代还被幕府的《诸社祢宜神主法度》（1665）认可。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.884,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1749,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0197536,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 272,
+      "provider": "firstParty",
+      "thinkingTokens": 109,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-88",
+  "raw": "jsonl/0_prime/msqa-JA-88.jsonl",
+  "reported_cost_usd": 0.0197536,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1749,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1749,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1749,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1749,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 272,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 272,
+    "output_tokens_details": {
+      "thinking_tokens": 109
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

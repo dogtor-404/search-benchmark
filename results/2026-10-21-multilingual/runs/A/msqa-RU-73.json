@@ -1,0 +1,100 @@
+{
+  "answer": "Единого устоявшегося краткого названия нет. Чаще всего это событие называют **«Алапаевская трагедия»**, а погибших — **«алапаевские мученики»** или **«алапаевские узники»**. Английский вариант — Martyrs of Alapayevsk. Это были великая княгиня Елизавета Фёдоровна и другие члены Дома Романовых. Их сбросили в шахту у Нижней Селимской близ Алапаевска в ночь на 18 июля 1918 года.\n\nОговорки:\n- Название «Алапаевская трагедия» я в найденных источниках не увидел. Оно распространено, но подтвердить его по ним я не смог.\n- Слово «мученики» подтверждено английской Википедией. Слово «узники» есть в заголовке одного из результатов поиска.\n- Более широкое обозначение мест гибели императорской семьи — «Уральская Голгофа». Оно охватывает Екатеринбург, Алапаевск и Пермь.\n\nSources:\n- [Martyrs of Alapayevsk (Wikipedia)](https://en.wikipedia.org/wiki/Martyrs_of_Alapayevsk)\n- [Murder of members of the Imperial House of Romanov near Alapaevsk (Президентская библиотека)](https://prlib.ru/en/node/1973788)\n- [В. В. Валова, выступление (tksu.ru)](https://tksu.ru/upload/medialibrary/4ed/Valova-V.V.-Vystuplenie.pdf)\n- [Алапаевские узники (eanews.ru)](https://eanews.ru/ekaterinburg/20130328113001/alapaevskie-uzniki-stanut-glavnymi-geroyami-vystavki-k-400-letiyu-doma-romanovyh)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 18.258,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011706000000000001,
+      "inputTokens": 11190,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1174,
+      "provider": "firstParty",
+      "thinkingTokens": 378,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3429,
+      "cacheReadInputTokens": 6765,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0223705,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 797,
+      "provider": "firstParty",
+      "thinkingTokens": 80,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/A/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.0340765,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "расстрел членов дома Романовых в шахте под Алапаевском 1918 как называют",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_016YV5FHqVaXhabzNisNzkyj"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3429,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3429,
+    "cache_read_input_tokens": 6765,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1566,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1566,
+        "cache_read_input_tokens": 4314,
+        "input_tokens": 2,
+        "output_tokens": 615,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 797,
+    "output_tokens_details": {
+      "thinking_tokens": 80
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

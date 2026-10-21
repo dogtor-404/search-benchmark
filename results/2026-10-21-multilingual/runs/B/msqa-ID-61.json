@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban:** Orang yang tidak punya pendirian tetap. Orang seperti ini plin-plan dan mudah terombang-ambing atau terpengaruh. Air di daun talas mudah menggelinding ke sana kemari karena permukaan daunnya licin.\n\n**Sumber:**\n- https://www.inews.id/amp/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2 (kalimat contoh: \"Seperti air di daun talas, dia tidak memiliki pendirian yang tetap\")\n- https://lipsus.kompas.com/pameranotomotifnasional2024/read/2019/12/16/163444169/apa-itu-peribahasa-ciri-ciri-fungsi-jenis-dan-contohnya?page=2 (\"Bagai air di daun talas. Artinya: orang yang tidak punya pendirian tetap\")\n- https://brainly.co.id/tugas/9503258 (orang yang tidak tetap hati dan mudah terombang-ambing)\n\nSaya hanya mencari sekali.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.982,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7650,
+      "cacheReadInputTokens": 5875,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0356555,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 446,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/B/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.0356555,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6045,
+      "query": "\"seperti air di daun talas\" perumpamaan artinya orang",
+      "results": [
+        {
+          "date": "2025-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makna Peribahasa 'Bagai Air di Daun Talas' dan Pentingnya Memiliki Pendirian Kuat - 1/4",
+          "url": "https://www.lemon8-app.com/@laila.hamila_/7589615937192509960?region=id#1"
+        },
+        {
+          "date": "2023-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30 Contoh Majas Perumpamaan dalam Kalimat",
+          "url": "https://www.inews.id/amp/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "3) Siswa memiliki kemampuan menggunakan Bahasa Indonesia untuk meningkatkan kemampuan intelektual (berpikir kreatif, menggunakan...",
+          "url": "https://repository.unej.ac.id/xmlui/bitstream/handle/123456789/81561/Sri%20Wahyuni%20980210402405%20%23.pdf?isAllowed=y&sequence=1#4#2"
+        },
+        {
+          "date": "2020-07-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "60 Contoh Majas Perumpamaan Dan Artinya Lengkap - Klak Klik Bermutu",
+          "url": "https://pantuncinta2000.blogspot.com/2020/07/majas-perumpamaan.html"
+        },
+        {
+          "date": "2021-02-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Memahami Isi Kalimat Perumpamaan Dalam Al-Qur’an",
+          "url": "https://web.suaramuhammadiyah.id/2021/02/23/memahami-isi-kalimat-perumpamaan-dalam-al-quran/#comments"
+        },
+        {
+          "date": "2019-12-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa Itu Peribahasa? Ciri-ciri, Fungsi, Jenis dan Contohnya",
+          "url": "https://lipsus.kompas.com/pameranotomotifnasional2024/read/2019/12/16/163444169/apa-itu-peribahasa-ciri-ciri-fungsi-jenis-dan-contohnya?page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Sebaliknya, contoh makna denotatif dalam bahasa Jepang menurut",
+          "url": "https://repository.ub.ac.id/id/eprint/166889/1/Diani%20Indah%20Mirandasari.pdf#8#3"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Singgolong dipi molabu koonda",
+          "url": "https://pureportal.spbu.ru/files/98925104/Fitonimi_dalam_peribahasa_Ru_Ind.pdf#18#4"
+        },
+        {
+          "date": "2017-02-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "tolong buatkan majas perumpamaan minimal 4 beserta artinya tolong ya kak!! - Brainly.co.id",
+          "url": "https://brainly.co.id/tugas/9503258"
+        },
+        {
+          "date": "2022-03-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "27 Peribahasa Indonesia Populer dan Artinya, Lengkap Pengertian dan Jenisnya - 27 Peribahasa Indonesia Populer dan Artinya, Lengkap Pengertian dan Jenisnya",
+          "url": "https://www.inews.id/amp/news/nasional/27-peribahasa-indonesia-populer-dan-artinya-lengkap-pengertian-dan-jenisnya#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7650,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7650,
+    "cache_read_input_tokens": 5875,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5783,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5783,
+        "cache_read_input_tokens": 3871,
+        "input_tokens": 2,
+        "output_tokens": 369,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 446,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "我能确定的部分有限，下面分开说明。\n\n**比较有把握的：**\n- **Orang Mapur**（也称 Orang Lom）是印尼邦加岛（Bangka）北部的原住民群体，主要住在勿里洋（Belinyu）一带，例如 Air Abik、Pejem 等村落。他们的生计以轮耕（*ladang berpindah*，当地称 *berume*）为主。\n- 这类轮耕的流程大致是：砍林、烧地、点播旱稻，收获后休耕再换地。\n\n**按马来群岛轮耕的通例推测，但没有针对 Orang Mapur 的确切记忆：**\n- **parang**（砍刀）：清除灌木和小树。\n- **beliung / kapak**（斧、锛）：砍伐大树。\n- **tugal**（点播棍）：在地上戳洞点播稻种，这个动作叫 *menugal / nugal*。\n- **ani-ani / ketam**（小收割刀）：一穗一穗地割稻。\n- 此外还会**用火烧地**（*membakar*）来清理土地。\n\n**不知道的：**\n- Orang Mapur 是否有与这些工具对应的本族语专名。\n- 是否有他们特有的工具。\n\n如果这道题有标准答案（比如出自某份民族志或教材），上面推测的部分不一定和它对得上。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.334,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1759,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0295136,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 756,
+      "provider": "firstParty",
+      "thinkingTokens": 289,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-81",
+  "raw": "jsonl/0_prime/msqa-ID-81.jsonl",
+  "reported_cost_usd": 0.0295136,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1759,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1759,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1759,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1759,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 756,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 756,
+    "output_tokens_details": {
+      "thinking_tokens": 289
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

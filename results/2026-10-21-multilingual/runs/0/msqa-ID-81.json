@@ -1,0 +1,74 @@
+{
+  "answer": "我不知道 Orang Mapur（邦加岛的 Mapur 人）在刀耕火种（ladang berpindah）中具体用哪些工具，没有可靠的资料可以引用。\n\n我只能说一般情况：东南亚岛屿地区的游耕通常会用到下面这些工具。这是泛泛而谈，我没法确认 Mapur 人是否也用这些，叫法和形制也可能不同：\n\n- **parang**（砍刀），用来砍伐灌木和小树\n- **kapak**（斧头），用来砍大树\n- **tugal**（点播棒），用来在地上戳穴、播种旱稻\n\n如果你要把这个问题放进评测题库或引用，请找民族志文献来核实，比如关于邦加岛 Orang Lom／Mapur 的研究，不要用我上面的泛称当答案。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.519,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1763,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0146728,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 746,
+      "provider": "firstParty",
+      "thinkingTokens": 459,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-81",
+  "raw": "jsonl/0/msqa-ID-81.jsonl",
+  "reported_cost_usd": 0.0146728,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1763,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1763,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1763,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1763,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 746,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 746,
+    "output_tokens_details": {
+      "thinking_tokens": 459
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "абашевская игрушка символ упорства настойчивости в достижении цели свистулька", "results": [], "status": "allowed", "tool_use_id": "toolu_01VU5wRyeQWkzWA277WLYXgF"}
+{"billable": false, "call": 2, "query": "абашевская игрушка козёл символ упорства", "results": [], "status": "allowed", "tool_use_id": "toolu_01KApybJkSasKCXQY17MeBzP"}
+{"billable": false, "call": 3, "query": "свистулька \"символ упорства\" абашевская баран OR козёл OR олень", "results": [], "status": "allowed", "tool_use_id": "toolu_01HRvvJsRnqhrr6QsNznuNpf"}

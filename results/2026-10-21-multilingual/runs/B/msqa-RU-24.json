@@ -1,0 +1,156 @@
+{
+  "answer": "**Водская (Вотская) пятина.** Я не нашёл источника, где она описана именно как «земли между Лугой и Нарвой», поэтому ответ неполностью подтверждён.\n\n- Водская пятина занимала северо-запад Новгородской земли, на запад от Новгорода и на север от него. Она лежала между Волховом и Лугой, а также севернее, до Финского залива и Ладоги. Название дали води, жившие на этих землях. В неё входили Ямский, Копорский, Ореховский и другие уезды.\n- Западнее Луги часть земель, включая Ивангородский уезд, одни источники относят к Шелонской пятине. Другие помещают в Водскую пятину Ям и Ивангород, то есть земли ближе к Нарве.\n- Если вопрос про «самую западную» пятину, то Водская подходит лучше всего. Запасной вариант, если по условию это земли к югу от Луги, — Шелонская пятина.\n\nИсточники:\n- https://lopress.47lib.ru/object/1804443615/D_1803401887?lc=ru (энциклопедическая статья «Пятины»: Водская пятина — междуречье Волхова и Луги и земли севернее)\n- https://istina.cemi-ras.ru/download/98693616/1uDd0P:61Pq_S0mvyyODNUa_8bJ_exBXIA/#55#8 (описание Водской пятины и её уездов)\n- https://kskn.lenobl.ru/media/docs/37110/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0_%D0%93%D0%98%D0%9A%D0%AD_%D0%97%D0%A3.pdf#42#39 (Ямский уезд в Водской пятине, северная часть Ивангородского уезда в Шелонской)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.547,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9819,
+      "cacheReadInputTokens": 5861,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0528601,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1299,
+      "provider": "firstParty",
+      "thinkingTokens": 580,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-24",
+  "raw": "jsonl/B/msqa-RU-24.jsonl",
+  "reported_cost_usd": 0.0528601,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6871,
+      "query": "новгородская пятина между Лугой и Нарвой западные земли Водская пятина",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Со времени же покорения Новгорода, въ 1478 г",
+          "url": "https://archive.org/download/PKSPbGub/1905_PK_SPb_gub_text.pdf#211#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Имея тя, непрестаннаго предстателя и молитвени- ка за ны, усердно к тебе при- ходящих, со умилением пред честным твоим образом с...",
+          "url": "http://spb-eparh-vedomosti.ru/pdf/32.pdf#page=171#120#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В VI веке на территории области появляются новые переселенцы",
+          "url": "http://elbib.nbchr.ru/lib_files/0/kkni_0_0001875.pdf#287#134"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Упоминание собственно води зафиксировано в Новгородской первой летописи с 1069 г",
+          "url": "https://kskn.lenobl.ru/media/docs/36310/%D0%90%D0%BA%D1%82_%D0%93%D0%98%D0%9A%D0%AD_%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE_%D0%9F%D0%B5%D1%81%D0%BA%D0%B8.pdf#17#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Яровлавичем Тверским[40]",
+          "url": "https://kskn.lenobl.ru/media/docs/37236/%D0%90%D0%BA%D1%82_%D0%93%D0%98%D0%9A%D0%AD_%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%B8%D0%BD%D0%BA%D0%B0_-_%D0%9C%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D1%86%D1%8B.pdf#431#6"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ную часть Новгородской земли",
+          "url": "https://istina.cemi-ras.ru/download/98693616/1uDd0P:61Pq_S0mvyyODNUa_8bJ_exBXIA/#55#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "те Новагорода съ Великими Князьями Василиемъ Васильевичемъ и Iоанномъ Васильевичемъ встречаем: «Я вх Водискую землю смгн Ниязямх...",
+          "url": "https://old.herzen.spb.ru/uploads/schernysheva/files/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D1%8B%20%D0%B0%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D1%85%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2/srg17xe.pdf#74#54"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Прошлая судьба увяда",
+          "url": "https://azbyka.ru/otechnik/books/original/20523/ISS_SPbE_09_1884.pdf#135#88"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "«переветниковъ» из «Вожан и Чудь»",
+          "url": "https://kskn.lenobl.ru/media/docs/37110/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0_%D0%93%D0%98%D0%9A%D0%AD_%D0%97%D0%A3.pdf#42#39"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Электронная библиотека",
+          "url": "https://lopress.47lib.ru/object/1804443615/D_1803401887?lc=ru"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9819,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9819,
+    "cache_read_input_tokens": 5861,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7966,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7966,
+        "cache_read_input_tokens": 3857,
+        "input_tokens": 2,
+        "output_tokens": 1216,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1299,
+    "output_tokens_details": {
+      "thinking_tokens": 580
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

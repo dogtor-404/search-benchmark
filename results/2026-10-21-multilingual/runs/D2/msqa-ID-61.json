@@ -1,0 +1,223 @@
+{
+  "answer": "**简答：** “Seperti air di daun talas”（像芋叶上的水珠）这个比喻，在印尼语里用来形容**没有坚定立场、易变卦、容易受周围环境影响的人**（tidak teguh pendirian、mudah berubah pikiran、gampang terpengaruh）。\n\n水珠落在光滑的芋叶上会四处滚动、无法停留，正好比喻这类人的原则摇摆不定。\n\n依据网址：\n- https://www.detik.com/sulsel/berita/d-7855772/50-contoh-majas-berdasarkan-jenisnya-metafora-simile-hingga-hiperbola （明确指出用于形容“tidak teguh pada pendiriannya”——立场不坚定）\n- https://www.inews.id/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2 （例句：“Seperti air di daun talas, dia tidak memiliki pendirian yang tetap”——没有固定立场）\n- https://prpm.dbp.gov.my/Cari1?keyword=talas&d=82736 （马来西亚语文局词典：“Tidak tetap pendirian; selalu berubah-ubah”——立场不固定、总是变来变去）\n- https://rri.co.id/tanjungpinang/berita-lain/1412837/peribahasa-dan-maknanya-kearifan-lokal-yang-tetap-relevan （“tidak memiliki pendirian tetap”）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 6.608,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0548304,
+      "inputTokens": 10611,
+      "maxOutputTokens": 32000,
+      "outputTokens": 595,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-61",
+  "raw": "jsonl/D2/msqa-ID-61.jsonl",
+  "reported_cost_usd": 0.0548304,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.5901,
+      "query": "majas \"seperti air di daun talas\" perumpamaan menggambarkan orang",
+      "results": [
+        {
+          "date": "2025-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50++ Contoh Majas Berdasarkan Jenisnya: Metafora, Simile, hingga Hiperbola - 50++ Contoh Majas Berdasarkan Jenisnya: Metafora, Simile, hingga Hiperbola",
+          "url": "https://www.detik.com/sulsel/berita/d-7855772/50-contoh-majas-berdasarkan-jenisnya-metafora-simile-hingga-hiperbola#1"
+        },
+        {
+          "date": "2022-03-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "contohkan majas simile - Brainly.co.id",
+          "url": "https://brainly.co.id/tugas/50444206"
+        },
+        {
+          "date": "2025-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makna Peribahasa 'Bagai Air di Daun Talas' dan Pentingnya Memiliki Pendirian Kuat - 1/4",
+          "url": "https://www.lemon8-app.com/@laila.hamila_/7589615937192509960?region=id#1"
+        },
+        {
+          "date": "2018-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kenyataan hidup yang dianalogikan — Steemit - Kenyataan hidup yang dianalogikan",
+          "url": "https://steemit.com/motivation/@levinore/kenyataan-hidup-yang-dianalogikan-5023047f0f7ca#1"
+        },
+        {
+          "date": "2024-08-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "65 Contoh Majas Simile berserta Pengertiannya - Konten dari Pengguna",
+          "url": "https://kumparan.com/inspirasi-kata/65-contoh-majas-simile-berserta-pengertiannya-23QuNRbEM9h#1"
+        },
+        {
+          "date": "2014-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PPT - MAJAS PERBANDINGAN PowerPoint Presentation, free download - ID:6164292 - Download",
+          "url": "https://fr.slideserve.com/nigel-tillman/majas-perbandingan#1"
+        },
+        {
+          "date": "2014-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "MAJAS PERBANDINGAN - SlideServe - Download",
+          "url": "https://www.slideserve.com/nigel-tillman/majas-perbandingan#1"
+        },
+        {
+          "date": "2022-07-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "majas-perbandingan.ppt - majas-perbandingan.ppt",
+          "url": "https://www.slideshare.net/slideshow/majasperbandinganppt/252198998#1"
+        },
+        {
+          "date": "2023-07-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "30 Contoh Majas Perumpamaan dalam Kalimat",
+          "url": "https://www.inews.id/news/nasional/30-contoh-majas-perumpamaan-dalam-kalimat/2"
+        },
+        {
+          "date": "2021-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa Itu Majas? Ini 5 Jenis yang Sering Digunakan dan Contohnya - Jakarta",
+          "url": "https://www.detik.com/edu/detikpedia/d-5379186/apa-itu-majas-ini-5-jenis-yang-sering-digunakan-dan-contohnya#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6516,
+      "query": "arti peribahasa \"seperti air di daun talas\"",
+      "results": [
+        {
+          "date": "2025-03-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Peribahasa dan Maknanya Kearifan Lokal yang Tetap Relevan - RRI.co.id - Peribahasa dan Maknanya Kearifan Lokal yang Tetap Relevan",
+          "url": "https://rri.co.id/tanjungpinang/berita-lain/1412837/peribahasa-dan-maknanya-kearifan-lokal-yang-tetap-relevan#1"
+        },
+        {
+          "date": "2015-11-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Apa arti peribahasa bagaikan air di daun talas ? seorang yang tidak tetap pendirianya ( selalu berubah - Brainly.co.id - terjawab • terverifikasi oleh ahli",
+          "url": "https://brainly.co.id/tugas/4299145#1"
+        },
+        {
+          "date": "2021-10-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Adi tidak pernah memiliki pendirian yang teguh. Ia...",
+          "url": "https://roboguru.ruangguru.com/question/adi-tidak-pernah-memiliki-pendirian-yang-teguh-ia-selalu-terpengaruh-oleh-teman_QU-OW0Z8SY0"
+        },
+        {
+          "date": "2025-12-29T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makna Peribahasa 'Bagai Air di Daun Talas' dan Pentingnya Memiliki Pendirian Kuat - 1/4",
+          "url": "https://www.lemon8-app.com/@laila.hamila_/7589615937192509960?region=id#1"
+        },
+        {
+          "date": "2018-07-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Kenyataan hidup yang dianalogikan — Steemit - Kenyataan hidup yang dianalogikan",
+          "url": "https://steemit.com/motivation/@levinore/kenyataan-hidup-yang-dianalogikan-5023047f0f7ca#1"
+        },
+        {
+          "date": "2023-05-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Arti Peribahasa BAGAI AIR DI DAUN TALAS",
+          "url": "https://lyric-nasyid.blogspot.com/2023/05/arti-peribahasa-bagai-air-di-daun-talas.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Air Di Atas Daun Talas",
+          "url": "https://www.latest.instagram.com/popular/air-di-atas-daun-talas/?utm_source=topic_pill"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Borang Maklum balas Carian PRPM @DBP Malaysia - Maklumat Kata",
+          "url": "https://prpm.dbp.gov.my/Cari1?keyword=talas&d=82736#1"
+        },
+        {
+          "date": "2020-10-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Contoh Peribahasa Tentang Air, Bisa Menjadi Nasihat dalam Hidup Sehari-hari - Semua halaman | Bobo - Baca berita tanpa iklan",
+          "url": "https://bobo.grid.id/read/082391602/contoh-peribahasa-tentang-air-bisa-menjadi-nasihat-dalam-hidup-sehari-hari?page=all#1"
+        },
+        {
+          "date": "2024-09-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Mengenal Pengertian hingga Contoh Peribahasa, Materi Bahasa Indonesia - Halaman 3 | Bobo",
+          "url": "https://bobo.grid.id/read/084144923/mengenal-pengertian-hingga-contoh-peribahasa-materi-bahasa-indonesia?page=3"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 10611,
+    "iterations": [],
+    "output_tokens": 595,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

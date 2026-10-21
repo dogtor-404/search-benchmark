@@ -1,0 +1,156 @@
+{
+  "answer": "**答え:** 『後拾遺和歌集』(後拾遺集)巻第十二「恋二」、歌番号 669。作者は藤原義孝で、百人一首では第50番です。\n\n**注意点:** 後拾遺集の本文では結句が「思ひぬるかな」で、百人一首では「思ひけるかな」と伝わるという指摘があります(Yahoo!知恵袋の回答)。\n\n詞書は「女のもとより帰りてつかはしける」で、後朝(きぬぎぬ)の歌です。\n\n**根拠(検索で見たもの):**\n- 歌番号 669:\n  - https://www.karuta.or.jp/societycat/kyushu/ (後拾遺集 恋二 669)\n  - https://wakahaiku.seesaa.net/article/201907article_3.html (後拾遺和歌集・669)\n  - https://web.archive.org/all/20060913000000/http://ja.wikipedia.org:80/wiki/藤原義孝 (恋二 669)\n- 出典が後拾遺集であること:\n  - http://waka-chokusen.org/hyaku/shousai.php?num=50\n  - https://benesse.jp/kyouiku/hyakuninisshu/050.html\n- 詞書と結句の異同:\n  - https://dodemoanime007.hatenablog.jp/entry/2026/02/08/012018 (詞書)\n  - https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13107334393 (結句の異同)\n\n**確認できていない点:** 「巻第十二」という巻数は、今回見た検索結果には書かれていませんでした。「恋二」が巻十二にあたるという私の知識によるもので、検索では裏付けを取っていません。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.031,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 6904,
+      "cacheReadInputTokens": 5895,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.035143499999999994,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 693,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-51",
+  "raw": "jsonl/B/msqa-JA-51.jsonl",
+  "reported_cost_usd": 0.035143499999999994,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6262,
+      "query": "君がため惜しからざりし命さへ 後拾遺和歌集 巻十二 恋二 歌番号 藤原義孝",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "データーベース",
+          "url": "http://waka-chokusen.org/hyaku/shousai.php?num=50"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "一日一首 ランダムに変わる取り札を見て上の句を当てる練習ができます。毎日の腕試しにご活用ください。",
+          "url": "https://www.karuta.or.jp/societycat/kyushu/"
+        },
+        {
+          "date": "2023-10-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "050 君がため 惜しからざりし 命さへ 長くもがなと 思ひけるかな",
+          "url": "https://benesse.jp/kyouiku/hyakuninisshu/050.html"
+        },
+        {
+          "date": "2024-09-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "小倉百人一首 50 - 不思議と幸せ",
+          "url": "https://fushigikaxtusei.hatenablog.com/entry/2024/09/14/025410"
+        },
+        {
+          "date": "2019-07-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藤原義孝: 和歌・俳句",
+          "url": "https://wakahaiku.seesaa.net/article/201907article_3.html"
+        },
+        {
+          "date": "2023-11-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藤原義孝",
+          "url": "https://browse.library.kiwix.org/content/wikiquote_ja_all_nopic_2025-04/A/%E8%97%A4%E5%8E%9F%E7%BE%A9%E5%AD%9D"
+        },
+        {
+          "date": "2013-05-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "君がため惜しからざりし命さへ……について。この歌の意味1.あなたのためなら、たとえ捨てても惜しくない命だった……。2.あなたと... - Yahoo!知恵袋",
+          "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13107334393"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藤原義孝",
+          "url": "https://web.archive.org/all/20060913000000/http://ja.wikipedia.org:80/wiki/藤原義孝"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "50番歌 君がため惜しからざりし命さへ… 藤原義孝",
+          "url": "http://komonjo.rokumeibunko.com/hyakunin/050.html"
+        },
+        {
+          "date": "2026-02-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "才色兼備の貴公子の恋と命～TVアニメ『超訳百人一首 うた恋い。』⑦ 第7話前半 - どうでもいいアニメ話",
+          "url": "https://dodemoanime007.hatenablog.jp/entry/2026/02/08/012018"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6904,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6904,
+    "cache_read_input_tokens": 5895,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 5017,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 5017,
+        "cache_read_input_tokens": 3891,
+        "input_tokens": 2,
+        "output_tokens": 593,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 693,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "ซิ่นตีนจก ลายสี่เหลี่ยมข้าวหลามตัด ลายขนาดใหญ่ เรียกว่า", "results": [], "status": "allowed", "tool_use_id": "toolu_0146cc144JHE4KGygnKA37MG"}
+{"billable": false, "call": 2, "query": "ตีนจก \"ลายโคม\" ข้าวหลามตัด ขนาดใหญ่", "results": [], "status": "allowed", "tool_use_id": "toolu_01Mi3FZYkLAwp4J5TYCSBqbi"}
+{"billable": false, "call": 3, "query": "ลายโคม คือ ลายสี่เหลี่ยมข้าวหลามตัด ตีนจกแม่แจ่ม", "results": [], "status": "allowed", "tool_use_id": "toolu_01Uhi7RFxHV9Vg6iaa7E6SWk"}
+{"billable": false, "call": 4, "query": "\"ลายโคม\" สี่เหลี่ยมข้าวหลามตัด ซิ่น", "results": [], "status": "allowed", "tool_use_id": "toolu_01TH8SpYZMGFcGC7SuoUg5QL"}

@@ -1,0 +1,136 @@
+{
+  "answer": "**Respuesta:** los asilados debían permanecer en la cárcel del obispado (la cárcel episcopal). Allí esperaban a que un juez eclesiástico decidiera si les correspondía el derecho de asilo.\n\nSegún el artículo de Wikipedia \"Asilo en sagrado\", una bula de Gregorio XIV reguló el procedimiento y excluyó los delitos graves. Con Carlos III el juez pasó a ser secular y el reo quedaba en la cárcel civil, para evitar que huyera.\n\nSolo encontré esta fuente para ese dato. No pude verificarlo en el texto de la bula, que parece ser *Cum alias* (1591).\n\nSources:\n- [Asilo en sagrado – Wikipedia](https://es.wikipedia.org/wiki/Asilo_en_sagrado)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 45.783,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0594714,
+      "inputTokens": 68104,
+      "maxOutputTokens": 128000,
+      "outputTokens": 5322,
+      "provider": "firstParty",
+      "thinkingTokens": 1552,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9295,
+      "cacheReadInputTokens": 30198,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.05111979999999999,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1090,
+      "provider": "firstParty",
+      "thinkingTokens": 140,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-44",
+  "raw": "jsonl/A/msqa-ES-44.jsonl",
+  "reported_cost_usd": 0.1105912,
+  "search_argument_rejections": 0,
+  "search_attempts": 5,
+  "search_budget_denials": 0,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Gregorio XIV bula inmunidad eclesiástica asilo sagrado \"Cum alias nonnulli\" 1591 lugar donde debían permanecer los refugiados",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ELX4YLfbCu2XZntLm8CYUc"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Gregorio XIV bula acogidos a sagrado delitos graves excluidos debían permanecer en la iglesia asilados inmunidad eclesiástica",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VckDRUTyAZz7WXqF7Vdv97"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"Gregorio XIV\" bula asilo iglesia \"acogidos a sagrado\" permanecer en la iglesia hasta resolución, fuera de la iglesia, cárcel eclesiástica",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JFKnyVMgMoAkRcFL6XmCYk"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "Derecho de asilo en iglesias historia España Gregorio XIV 1591 bula asilados permanecer \"Gregorio XIV\"",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01L6gmoffQMWNqWPfU8UeeLp"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "Asilo en sagrado Wikipedia Gregorio XIV bula delitos graves los asilados debían permanecer",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01V2k1YKPvf7cZQxxpc7ZsTv"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9295,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9295,
+    "cache_read_input_tokens": 30198,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1443,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1443,
+        "cache_read_input_tokens": 10303,
+        "input_tokens": 2,
+        "output_tokens": 284,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1090,
+    "output_tokens_details": {
+      "thinking_tokens": 140
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

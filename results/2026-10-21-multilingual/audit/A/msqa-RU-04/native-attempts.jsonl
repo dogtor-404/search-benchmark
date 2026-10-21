@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "первый съезд тверских земских врачей открылся в Твери образец для врачебных съездов других губерний", "results": [], "status": "allowed", "tool_use_id": "toolu_01KabZ8wwdXd5XxcBZpxecnb"}
+{"billable": false, "call": 2, "query": "первый съезд земских врачей Тверской губернии 1871 открылся числа Тверь Калязин? дата открытия съезда", "results": [], "status": "allowed", "tool_use_id": "toolu_014UVEU3q8puoFZFC3yuNPWH"}
+{"billable": false, "call": 3, "query": "съезд тверских земских врачей 1871 Тверь \"открылся\" Овсянников Пастухов Корсаков первый врачебный съезд образец", "results": [], "status": "allowed", "tool_use_id": "toolu_012Ki4o8aPMDBkLRewKfTF4u"}
+{"billable": false, "call": 4, "query": "145 лет назад состоялось открытие Первого съезда тверских земских врачей", "results": [], "status": "allowed", "tool_use_id": "toolu_01TwTHwFRHZi1bV2Cjcyxptb"}

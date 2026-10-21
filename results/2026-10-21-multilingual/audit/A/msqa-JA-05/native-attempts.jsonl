@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "家電製品をペットのように可愛がる人 呼び名", "results": [], "status": "allowed", "tool_use_id": "toolu_01TkLYk5XRDzXdnMHLZ76ruJ"}
+{"billable": false, "call": 2, "query": "家電を我が子・ペットのように愛でる人 〇〇族 ロボット掃除機 愛着 呼ばれる", "results": [], "status": "allowed", "tool_use_id": "toolu_01DxdburUD3Bes1fZn2cM8Fj"}
+{"billable": false, "call": 3, "query": "家電をペットのように可愛がる人 名称 家電ペット 擬人化 愛でる 人を何と呼ぶ", "results": [], "status": "allowed", "tool_use_id": "toolu_01GK3Xwuxje8iPf3zLjg2cos"}

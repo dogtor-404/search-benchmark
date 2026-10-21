@@ -1,0 +1,127 @@
+{
+  "answer": "**Вяземский пряник** (из Вязьмы, Смоленская губерния). Это моё предположение, и ни один источник не подтвердил его напрямую.\n\nРусская Википедия называет вяземский пряник региональным видом, известным в Российской империи, и пишет, что он заварной, небольшого размера и известен как минимум с XVII века. На нём обычно ставили название города, часто сокращённое до «вяз». В поиске не нашлось текста, где вяземский, тульский и ржевский пряники прямо названы тремя главными праздничными сортами. Эту связку я вывел сам: вяземский подходит по региону и по заварной технологии, но формулировки про «три главных сорта» в найденном нет.\n\nSources:\n- [Вяземский пряник — Википедия](https://ru.wikipedia.org/wiki/%D0%92%D1%8F%D0%B7%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D1%8F%D0%BD%D0%B8%D0%BA)\n- [Кулинарные традиции: пряники](https://azbyka.ru/recept/kulinarnye-tradiczii-pryaniki/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 42.46,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.047011800000000006,
+      "inputTokens": 49578,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4108,
+      "provider": "firstParty",
+      "thinkingTokens": 1278,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 8929,
+      "cacheReadInputTokens": 29123,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.05059830000000001,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1195,
+      "provider": "firstParty",
+      "thinkingTokens": 327,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-74",
+  "raw": "jsonl/A/msqa-RU-74.jsonl",
+  "reported_cost_usd": 0.0976101,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "заварной пряник Смоленская губерния три главных сорта тульский ржевский",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01RYJkkvBzxr42MkzKgbjGmN"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "вяземский пряник один из трёх сортов тульский ржевский смоленская губерния заварной",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01KXKUCEPAQGSaRAk5KqZKav"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"тульские, ржевские\" пряники смоленские заварные праздничные сорта старинный Смоленской губернии",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01ArQnr6BiaKTdQ7ceoPebGa"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "Вяземский пряник Википедия заварной тульский ржевский три сорта",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012XNZenoNpatbgaRaCJ523x"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 8929,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 8929,
+    "cache_read_input_tokens": 29123,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2115,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2115,
+        "cache_read_input_tokens": 9265,
+        "input_tokens": 2,
+        "output_tokens": 420,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1195,
+    "output_tokens_details": {
+      "thinking_tokens": 327
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

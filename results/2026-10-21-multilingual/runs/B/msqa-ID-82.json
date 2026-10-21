@@ -1,0 +1,156 @@
+{
+  "answer": "**Jawaban singkat:** Bahasa Bugis paling dekat dengan bahasa-bahasa Sulawesi Selatan lainnya. Yang paling sering disebut adalah **Makassar, Toraja (Sa'dan/Tae'), Mandar, dan bahasa-bahasa Massenrempulu** (Enrekang, Duri, Maiwa). Semuanya termasuk subkelompok Sulawesi Selatan dalam rumpun Melayu-Polinesia (Austronesia).\n\nBeberapa catatan dari hasil pencarian:\n- Bugis, Makassar, Toraja, Mandar, dan Massenrempulu punya hubungan yang dekat dan struktur yang mirip, misalnya urutan predikat–subjek dan penanda persona. Meski begitu, Bugis dan Makassar tidak saling mengerti, begitu pula dengan Toraja.\n- Dalam satu studi leksikostatistik, kekerabatan Bugis–Toraja sekitar 53%.\n- Massenrempulu dan Tae' secara linguistik lebih dekat ke Toraja, tetapi kadang dianggap sebagai bagian dari lingkup Bugis.\n- Studi lain menghitung kekerabatan Bugis dengan bahasa di luar Sulawesi Selatan jauh lebih rendah: Sumbawa 34%, Bima 24%, Kutai 33%, Sunda 22%, Gorontalo 17%. Angka-angka ini hanya menunjukkan hubungan pada tingkat \"rumpun\" yang jauh. Hasilnya bergantung pada metode, dan saya tidak memeriksa kualitas studinya.\n\n**Sumber:**\n- http://download.garuda.kemdikbud.go.id/article.php?article=953320&val=14688 (Bugis, Toraja, Makassar)\n- https://www.taylorfrancis.com/chapters/mono/10.4324/9780203821121-30/makassar-anthony-jukes-alexander-adelaar-nikolaus-himmelmann (subkelompok Sulawesi Selatan: Bugis, Mandar, Sa'dan)\n- https://ask.orkg.org/item/57387463/The-Reconstruction-of-Proto-South-Sulawesi (rekonstruksi Proto-Sulawesi Selatan oleh Mills)\n- http://eprints.undip.ac.id/67866/1/Jurnal_Nur_Auliani_Leksikostatistik_Bahasa_Gorontalo%2C_Bugis%2C_Sumbawa%2C_dan_Bima.pdf (Bugis–Sumbawa–Bima–Gorontalo)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.757,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 15426,
+      "cacheReadInputTokens": 5853,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.07251729999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1022,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/B/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.07251729999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.804,
+      "query": "Bahasa Bugis kekerabatan bahasa terdekat rumpun Sulawesi Selatan",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "PERTALIAN KEKERABATAN BAHASA-BAHASA TORAJA, BUGIS,",
+          "url": "http://download.garuda.kemdikbud.go.id/article.php?article=953320&val=14688&title=PERTALIAN%20KEKERABATAN%20BAHASA-BAHASA%20TORAJA%20BUGIS%20DAN%20MAKASSAR%20KAJIAN%20MORFOSINTAKSIS#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LEKSIKOSTATISTIK BAHASA GORONTALO, BUGIS, SUMBAWA, DAN BIMA",
+          "url": "http://eprints.undip.ac.id/67866/1/Jurnal_Nur_Auliani_Leksikostatistik_Bahasa_Gorontalo%2C_Bugis%2C_Sumbawa%2C_dan_Bima.pdf#2#1"
+        },
+        {
+          "date": "2004-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Makassar Anthony Jukes | 30 | The Austronesian Languages of Asia and M",
+          "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203821121-30/makassar-anthony-jukes-alexander-adelaar-nikolaus-himmelmann?context=ubx&refId=2981f9d4-4238-4a5d-b6f0-3d0bb80695bb"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Wicara, Vol",
+          "url": "https://ejournal2.undip.ac.id/index.php/wicara/article/download/24163/pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Fenomena asimilasi (penyisipan fonem nasal pada kata dasar yang mengikutinya) dan geminasi (penyisipan fonem yang mengikuti kons...",
+          "url": "https://ejournal.uinmadura.ac.id/index.php/ghancaran/article/download/21938/5117/#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LEKSIKOSTATISTIK BAHASA BUGIS DAN BAHASA TORAJA (Lexicostatistic of Bugis Language and Toraja Language)",
+          "url": "https://scholar.google.fr/scholar?oi=bibs&cluster=803926132005456989&btnI=1&hl=fr&_x_output_type_b6db407c4_=embedded_pdf#5#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "The Reconstruction of Proto-South-Sulawesi",
+          "url": "https://ask.orkg.org/item/57387463/The-Reconstruction-of-Proto-South-Sulawesi"
+        },
+        {
+          "date": "2005-08-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Suku Bugis: Perbedaan antara revisi - Wikipedia bahasa Indonesia, ensiklopedia bebas - [[File:Bugis-speaking area",
+          "url": "https://id.wikipedia.org/?diff=prev&oldid=26291545#8"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Subihah[1], Atika Puji Lestiyani[2], Muldawati[3], Asep Muhyidin[4]",
+          "url": "https://jurnal.pbsi.uniba-bpn.ac.id/index.php/BASATAKA/article/download/418/219/1590#3#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Penambahan bunyi [ŋ], [s] dan penambahan suku kata /pa/, /pakha/, /kang/, /ka/, un/ pada kata-kata yang dicontohkan di atas seke...",
+          "url": "https://repositori.kemdikbud.go.id/3450/1/prosiding%20kongres%20bahasa%20internasional%20bahasa-bahasa%20daerah%20sulteng%20%20baubau%202010%20%20%20%20%20%20%20%20436ha.pdf#135#79"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 15426,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15426,
+    "cache_read_input_tokens": 5853,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 13581,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 13581,
+        "cache_read_input_tokens": 3849,
+        "input_tokens": 2,
+        "output_tokens": 930,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1022,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

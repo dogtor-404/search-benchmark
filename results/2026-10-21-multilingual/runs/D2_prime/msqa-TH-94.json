@@ -1,0 +1,144 @@
+{
+  "answer": "ในสมัยโบราณ คำว่า **“แพ้” มีความหมายเดิมว่า “ชนะ” (มีชัย)** ตรงข้ามกับความหมายปัจจุบันที่แปลว่า “ปราชัย/พ่าย” โดยคำว่า “แพ้” เป็นคำไทดั้งเดิม *beː ที่แปลว่า “ชนะ” หลักฐานชัดเจนจากศิลาจารึกหลักที่ 1 (พ่อขุนรามคำแหง): *“กูพุ่งช้างขุนสามชนตัวชื่อมาสเมืองแพ้ ขุนสามชนพ่ายหนี”* ซึ่ง “แพ้” แปลว่า ชนะ ส่วน “พ่าย” แปลว่า ปราชัย ต่อมาจึงใช้คู่กันเป็น “พ่ายแพ้” จนความหมายเพี้ยนไป\n\n依据网址：https://kaikki.org/thwiktionary/%E0%B9%84%E0%B8%97%E0%B8%A2/meaning/%E0%B9%81/%E0%B9%81%E0%B8%9E/%E0%B9%81%E0%B8%9E%E0%B9%89.html 和 https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/เอกสารประกอบการสอน%20วิชาวิวัฒนาการของภาษาไทย.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.445,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0366104,
+      "inputTokens": 6711,
+      "maxOutputTokens": 32000,
+      "outputTokens": 464,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-94",
+  "raw": "jsonl/D2_prime/msqa-TH-94.jsonl",
+  "reported_cost_usd": 0.0366104,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7116,
+      "query": "คำว่า แพ้ สมัยโบราณ ความหมายเดิม ภาษาไทย",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พ่อขุนรามคำแหง แต่สมัยอยุธยาคำว่า “ขุน” ลดความสำคัญลงมาเป็น “ขุนนาง” ระดับรองลงมา แต่ปัจจุบัน มีความหมายกว้างออก เช่น ขุนเขา ขุน...",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2.pdf#25#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ค่าในสมัยรัตนโกสินทร์ เช่นสวน เดิมหมายถึง ที่ซึ่งกั้นเป็นเขตไว้สำหรับปลูกต้นไม้ ปัจจุบันใช้ หมายถึง ที่",
+          "url": "https://elearning.mcu.ac.th/pluginfile.php/72614/mod_resource/content/1/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2.pdf#25#11"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "กระดานสนทนาวัดท่าขนุน - ดูแบบคำตอบเดียว",
+          "url": "https://www.watthakhanun.com/webboard/showpost.php?s=80cf19baa5c2d66074a62e3d12b621da&p=206319&postcount=65"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พินพง, พื้นพัง ว",
+          "url": "https://nuir.lib.nu.ac.th/dspace/bitstream/123456789/104/1/sanoom.pdf#11#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "๑๘๑ดาง - แทน [๑๘๑]แพ้ - ชนะ [๑๘๓]จาดาง - พดแทน [๑๘๔๓]เงิ้มมือ - เงิ้อมมือ [๑๘๕]ละกา",
+          "url": "https://kukr.lib.ku.ac.th/kukr_es/prasert/search_detail/dowload_digital_file/190824/106515#20#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "พจนานุกรมไทย-บาลี",
+          "url": "https://palidict.com/index.php/%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B5?page=1551"
+        },
+        {
+          "date": "2026-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"แพ้\" meaning in ไทย - \"แพ้\" meaning in ไทย",
+          "url": "https://kaikki.org/thwiktionary/%E0%B9%84%E0%B8%97%E0%B8%A2/meaning/%E0%B9%81/%E0%B9%81%E0%B8%9E/%E0%B9%81%E0%B8%9E%E0%B9%89.html#1"
+        },
+        {
+          "date": "2026-09-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"แพ้\" meaning in All languages combined - \"แพ้\" meaning in All languages combined",
+          "url": "https://kaikki.org/thwiktionary/All%20languages%20combined/meaning/%E0%B9%81/%E0%B9%81%E0%B8%9E/%E0%B9%81%E0%B8%9E%E0%B9%89.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "หน้า:ประชุมพงศาวดาร (ภาค ๑๐) - ๒๔๖๑.pdf/240 - วิกิซอร์ซ",
+          "url": "https://th.wikisource.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B2%E0%B8%A3_(%E0%B8%A0%E0%B8%B2%E0%B8%84_%E0%B9%91%E0%B9%90)_-_%E0%B9%92%E0%B9%94%E0%B9%96%E0%B9%91.pdf/240"
+        },
+        {
+          "date": "2021-01-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ล้านนา-คำเมือง ชมรมฮักตั๋วเมือง : \"ขดออกแป๊ตุ๊เจ้า ขดเข้าแป๊สัดทา\" - มติชนสุดสัปดาห์ - Skip to content",
+          "url": "https://www.matichon.co.th/weekly/column/article_392645#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 6711,
+    "iterations": [],
+    "output_tokens": 464,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

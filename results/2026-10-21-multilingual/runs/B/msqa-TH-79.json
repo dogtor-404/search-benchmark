@@ -1,0 +1,156 @@
+{
+  "answer": "**คำตอบ:** สำนวน **\"รักดีหามจั่ว รักชั่วหามเสา\"**\n\nพจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ. 2554 ให้ความหมายว่า \"ใฝ่ดีจะมีความสุขความเจริญ ใฝ่ชั่วจะได้รับความลำบาก\"\n\nแหล่งอ้างอิง:\n- https://dict.longdo.com/mobile.php?search=%2A%E0%B9%83%E0%B8%9D%E0%B9%88%E0%B8%94%E0%B8%B5%2A (Longdo อ้างพจนานุกรมราชบัณฑิตยสถาน)\n- https://www.silpa-mag.com/culture/article_132343 (ศิลปวัฒนธรรม)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.201,
+  "exit_code": 0,
+  "group": "B",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9143,
+      "cacheReadInputTokens": 5899,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0411899,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 402,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-79",
+  "raw": "jsonl/B/msqa-TH-79.jsonl",
+  "reported_cost_usd": 0.0411899,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7825,
+      "query": "สำนวนไทย ใฝ่ดีจะมีความสุขความเจริญ ใฝ่ชั่วจะได้รับความลำบาก",
+      "results": [
+        {
+          "date": "2026-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วหามเสา สำนวนไทยนี้มาจากไหน?",
+          "url": "https://www.silpa-mag.com/culture/article_132343?utm_source=linetoday&utm_medium=footer_click"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วหามเสา - วิกิพจนานุกรม",
+          "url": "https://th.m.wiktionary.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ *รักดีหามจั่ว รักชั่วหามเสา* แปลว่าอะไร",
+          "url": "https://dict.longdo.com/search/*%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2*"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำศัพท์ ''-รักดีหามจั่ว รักชั่วหาม...'' แปลว่าอะไร?",
+          "url": "https://dict.longdo.com/search/-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7+%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2-"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://dict.longdo.com/mobile.php?search=%2A%E0%B9%83%E0%B8%9D%E0%B9%88%E0%B8%94%E0%B8%B5%2A"
+        },
+        {
+          "date": "2026-02-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "รักดีหามจั่ว รักชั่วหามเสา Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%94%e0%b8%b5%e0%b8%ab%e0%b8%b2%e0%b8%a1%e0%b8%88%e0%b8%b1%e0%b9%88%e0%b8%a7-%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8a%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b8%ab%e0%b8%b2%e0%b8%a1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ง",
+          "url": "https://arit.skru.ac.th/ebook/pages/viewfile.php?lesson_code=10692#36#32"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "EP. 50: รักดีหามจั่ว รักชั่วหามเสา | Thai PBS Podcast",
+          "url": "https://www.thaipbspodcast.com/podcast/tracks/26652"
+        },
+        {
+          "date": "2026-06-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"รักดีหามจั่ว รักชั่วหามเสา\" meaning in All languages combined - \"รักดีหามจั่ว รักชั่วหามเสา\" meaning in All languages combined",
+          "url": "https://kaikki.org/thwiktionary/All%20languages%20combined/meaning/%E0%B8%A3/%E0%B8%A3%E0%B8%B1/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%A7%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2.html#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "คำสอน Archives - ศิลปวัฒนธรรม",
+          "url": "https://www.silpa-mag.com/tag/%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%AD%E0%B8%99"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9143,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9143,
+    "cache_read_input_tokens": 5899,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 7252,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 7252,
+        "cache_read_input_tokens": 3895,
+        "input_tokens": 2,
+        "output_tokens": 293,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 402,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

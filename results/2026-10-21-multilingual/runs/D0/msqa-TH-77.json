@@ -1,0 +1,62 @@
+{
+  "answer": "不能联网核对，我只能凭记忆回答，所以先说明把握程度：**泰国一般民俗文献里，บายศรี（芭西/魂盘）确实常分三类，这三类是：**\n\n1. **บายศรีปากชาม**（bai sri pak cham）——小型，放在碗或托盘口上，层数少（常见 3 层），用于一般的สู่ขวัญ（招魂）仪式、小孩或日常场合。\n2. **บายศรีต้น**（bai sri ton）——“树形/立柱式”，中央有主杆，比ปากชาม大，常见 5 层或 7 层，用于成年人或较重要的仪式。\n3. **บายศรีโถง**（bai sri thong）——最大、最隆重的一种，底座宽大、装饰繁复，常见 7 层或 9 层，用于高僧、显贵或大型典礼。\n\n不过要老实说：这三类（ปากชาม / ต้น / โถง）是我记得的**泰国通行分法**；题目特别限定“在อีสาน（伊善）”，伊善当地是否另有专门术语或按其他标准（例如按层数、按用途）分类，**我没有可靠记忆，无法确认**。如果你要的是伊善民俗志里的确切三分法，建议查泰国文化部或当地民俗学的资料，我这边只能给到这个程度。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.132,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.050792,
+      "inputTokens": 1988,
+      "maxOutputTokens": 32000,
+      "outputTokens": 2142,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-TH-77",
+  "raw": "jsonl/D0/msqa-TH-77.jsonl",
+  "reported_cost_usd": 0.050792,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1988,
+    "iterations": [],
+    "output_tokens": 2142,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

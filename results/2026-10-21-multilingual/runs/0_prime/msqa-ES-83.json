@@ -1,0 +1,74 @@
+{
+  "answer": "在西班牙的口语里，尤其是年轻人之间，**molar** 的意思是“喜欢”“觉得很酷、很棒”，大致相当于 *gustar* 或 *estar guay*。\n\n**常见用法**\n\n- **用法和 *gustar* 一样**：喜欢的东西作主语，喜欢的人用间接宾语代词。\n  - *Me mola esta canción.*：我很喜欢这首歌。\n  - *¿Te mola el plan?*：你觉得这个安排怎么样？\n  - *Nos molan los conciertos.*：我们喜欢听演唱会。\n- **不带宾语，单独说某样东西好**：\n  - *¡Esto mola!* 或 *¡Cómo mola!*：这太酷了！\n  - *Mola mucho.*：超棒。\n- **派生形容词 *molón / molona***：酷的、很赞的。\n  - *Una chaqueta molona.*：一件很酷的夹克。\n\n**补充**\n\n- 这个词主要在**西班牙**用，拉丁美洲很少这么说。它属于很随意的口语，正式场合不用。\n- 这个用法在七八十年代流行起来，词源一般认为和吉普赛人的卡洛语（caló）有关，但学界没有定论，我不能确定。\n- 它和标准西班牙语里的名词 *muela/molar*（臼齿）、动词 *moler*（磨）不是一回事，只是拼写相近。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.139,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1757,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0270776,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 635,
+      "provider": "firstParty",
+      "thinkingTokens": 141,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-83",
+  "raw": "jsonl/0_prime/msqa-ES-83.jsonl",
+  "reported_cost_usd": 0.0270776,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1757,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1757,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1757,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1757,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 635,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 635,
+    "output_tokens_details": {
+      "thinking_tokens": 141
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

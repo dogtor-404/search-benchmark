@@ -1,0 +1,62 @@
+{
+  "answer": "按我的知识，这通常有两种简短叫法，取决于指“事件”还是“那个矿坑地点”：\n\n- **地点（矿坑）**：叫 **«Ганина Яма»（加宁纳坑/加宁纳亚马）**——叶卡捷琳堡附近的一个废弃矿井坑道，1918 年 7 月 17 日凌晨尼古拉二世一家及随从被处决后，尸体被运到此处、投入竖井（后来又被转移/掩埋）。\n- **事件本身**：一般简称为 **«расстрел царской семьи»（枪决沙皇一家）** 或 **«расстрел Романовых»（罗曼诺夫一家被处决/罗曼诺夫家族的枪决）**。\n\n就题目里“在乌拉尔的矿坑竖井里遇害”这个指向来说，最贴切的惯用简称是 **«Ганина Яма»（Ганина Яма）**。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.096,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.040088,
+      "inputTokens": 2062,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1592,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/D0_prime/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.040088,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2062,
+    "iterations": [],
+    "output_tokens": 1592,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

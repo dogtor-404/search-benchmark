@@ -1,0 +1,62 @@
+{
+  "answer": "下诺夫哥罗德集市（Нижегородская ярмарка，Nizhny Novgorod Fair）。\n\n它前身是马卡里耶夫集市，1817 年迁到下诺夫哥罗德——伏尔加河与奥卡河汇合处，成为 19 世纪俄国规模最大的年度贸易集会。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.069,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.01736,
+      "inputTokens": 2055,
+      "maxOutputTokens": 32000,
+      "outputTokens": 457,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-69",
+  "raw": "jsonl/D0_prime/msqa-RU-69.jsonl",
+  "reported_cost_usd": 0.01736,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2055,
+    "iterations": [],
+    "output_tokens": 457,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

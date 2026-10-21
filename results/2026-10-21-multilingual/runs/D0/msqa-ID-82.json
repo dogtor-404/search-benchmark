@@ -1,0 +1,62 @@
+{
+  "answer": "以下凭记忆回答，未联网核对；细节（尤其下层分类）可能有出入。\n\n**最接近的：望加锡语（Makassar / Mangkasara'）**\n\n布吉斯语（Basa Ugi）和望加锡语通常被视为南苏拉威西语群（South Sulawesi）里最亲近的一对，二者共享不少词汇和接触影响，但并不能互通。也有分类把两者各自单列，而不是合成一个“布吉斯-望加锡”支。\n\n**其次，南苏拉威西语群内的其他语言：**\n\n- 托拉查语群（Toraja）：Sa'dan Toraja、Mamasa 等\n- Massenrempulu / Enrekang 一带的语言\n- 沿海 Konjo、Bentong（这两个常被视为与望加锡语很近，甚至算其方言）\n- Tae'（Luwu）\n- Lemolang\n- Campalagian——有时被当作布吉斯语的方言，有时单列\n\n**再远一层：** 所有这些都属于南苏拉威西语群，往上归入马来-波利尼西亚语族（Malayo-Polynesian）、南岛语系（Austronesian）。所以布吉斯语与印尼语/马来语、爪哇语等是远亲，不属于近亲。\n\n**不确定的地方：** 南苏拉威西语群内部的具体分支（布吉斯语与望加锡语是否为姐妹支、Campalagian 的归属）在文献里有不同处理，我记不准哪一派是主流。若需要精确的分类树，建议查 Glottolog 或 Ethnologue。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 10.297,
+  "exit_code": 0,
+  "group": "D0",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.035384,
+      "inputTokens": 1971,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1375,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ID-82",
+  "raw": "jsonl/D0/msqa-ID-82.jsonl",
+  "reported_cost_usd": 0.035384,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 1971,
+    "iterations": [],
+    "output_tokens": 1375,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

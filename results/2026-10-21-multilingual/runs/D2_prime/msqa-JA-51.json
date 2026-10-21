@@ -1,0 +1,223 @@
+{
+  "answer": "**答案：後拾遺和歌集（後拾遺集）・巻第十二（恋二）・歌番号 669**（作者：藤原義孝）\n\n依据网址：\n- https://news.mynavi.jp/article/20240109-2859430/ （「『後拾遺和歌集』の恋の二、669に収録」）\n- https://www.karuta.or.jp/societycat/kyushu/ （「後拾遺集 恋二 669」）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.634,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 9984,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0690328,
+      "inputTokens": 12014,
+      "maxOutputTokens": 32000,
+      "outputTokens": 949,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-51",
+  "raw": "jsonl/D2_prime/msqa-JA-51.jsonl",
+  "reported_cost_usd": 0.0690328,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6677,
+      "query": "君がため 惜しからざりし 命さへ ながくもがなと 思ひけるかな 勅撰和歌集 巻 歌番号",
+      "results": [
+        {
+          "date": "2023-10-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "050 君がため 惜しからざりし 命さへ 長くもがなと 思ひけるかな",
+          "url": "https://stg.benesse.jp/kyouiku/hyakuninisshu/050.html"
+        },
+        {
+          "date": "2025-02-05T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "HUITTさんのおぼえた日記 – 2025年2月6日(木)｜NHK語学講座で学ぶ！ゴガクル",
+          "url": "https://gogakuru.com/mypage_526828/diary/2025-02/06.html?m=1#diary"
+        },
+        {
+          "date": "2024-03-06T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "平安文学にまねぶ恋 | 経済産業省 METI Journal ONLINE",
+          "url": "https://journal.meti.go.jp/monthlyword/32682/#menu"
+        },
+        {
+          "date": "2024-01-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "百人一首「君がため惜しからざりし命さへ 長くもがなと思ひけるかな(藤原義孝)」とは - いい仕事は、いい暮らしから",
+          "url": "https://news.mynavi.jp/article/20240109-2859430/#1"
+        },
+        {
+          "date": "2025-11-13T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "通販生活®現代歌訳『小倉百人一首』 第3回｜【公式】カタログハウスの通販サイト",
+          "url": "https://www.cataloghouse.co.jp/yomimono/hyakuninisshu/vol03.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "百人一首 百人一首 恋に",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-08-EK-0010104"
+        },
+        {
+          "date": "2024-10-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "行成の父・藤原義孝の百人一首「君がため～」の意味や背景とは？｜藤原義孝の有名な和歌を解説【百人一首入門】 | サライ.jp｜小学館の雑誌『サライ』公式サイト - TOP趣味･教養行成の父・藤原義孝の百人一首「君がため～」の意味や背景とは",
+          "url": "https://serai.jp/hobby/1197134#1"
+        },
+        {
+          "date": "2023-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藤原义孝",
+          "url": "https://baike.baidu.com/item/%e8%97%a4%e5%8e%9f%e4%b9%89%e5%ad%9d/1564670?fromModule=lemma_inlink"
+        },
+        {
+          "date": "2010-01-25T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "八王子市立陵南中学校 | 学校日記",
+          "url": "https://hachioji-school.ed.jp/rynnj/weblog/94079882?tm=20100126204050"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "君がため惜しからざりし命さへ feat.可不 - ハイレゾ音源配信サイト【e-onkyo music】",
+          "url": "https://www.e-onkyo.com/music/album/cfm4511820718618/"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7061,
+      "query": "後拾遺和歌集 巻第十二 恋二 669 君がため 惜しからざりし 命さへ 藤原義孝",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "一日一首 ランダムに変わる取り札を見て上の句を当てる練習ができます。毎日の腕試しにご活用ください。",
+          "url": "https://www.karuta.or.jp/societycat/kyushu/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "データーベース",
+          "url": "http://waka-chokusen.org/hyaku/shousai.php?num=50"
+        },
+        {
+          "date": "2025-05-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "京都大会(A,B級)の案内",
+          "url": "https://www.karuta.or.jp/news/202505/15223/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "小倉百人一首フェスティバル 2020 in Tokyo",
+          "url": "https://www.karuta.or.jp/2020/karuta2020/special/card/index.html@number=50.html"
+        },
+        {
+          "date": "2023-10-19T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "050 君がため 惜しからざりし 命さへ 長くもがなと 思ひけるかな",
+          "url": "https://benesse.jp/kyouiku/hyakuninisshu/050.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "惜を解説文に含む用語の検索結果",
+          "url": "https://kobun.weblio.jp/content_find/text/0/%E6%83%9C"
+        },
+        {
+          "date": "2024-01-08T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "百人一首「君がため惜しからざりし命さへ 長くもがなと思ひけるかな(藤原義孝)」とは - いい仕事は、いい暮らしから",
+          "url": "https://news.mynavi.jp/article/20240109-2859430/#1"
+        },
+        {
+          "date": "2019-07-03T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "藤原義孝: 和歌・俳句",
+          "url": "https://wakahaiku.seesaa.net/article/201907article_3.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "女 - みる会図書館",
+          "url": "https://search.mirukai.org/search?query=%e5%a5%b3&content_id=20200516/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E7%89%88%20%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96&page=2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "",
+          "url": "https://contest.japias.jp/tqj2003/60413/page50.html"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 9984,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 12014,
+    "iterations": [],
+    "output_tokens": 949,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

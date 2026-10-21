@@ -1,0 +1,74 @@
+{
+  "answer": "Точно не знаю, и название, привязанное именно к 30 сентября, назвать не могу.\n\n30 сентября (17 сентября по старому стилю) отмечали день мучениц Веры, Надежды, Любови и матери их Софьи. Считалось, что в этот день можно загадывать на суженого и любовь. Сельские сборы молодёжи осенью обычно назывались **посиделки** или **вечорки**, а в конце сентября и в октябре проводили **капустки** (капустницы): девушки вместе рубили капусту, а парни приходили на игры и смотрины. Но что любовные заговоры 30 сентября читали именно на каком-то из этих сборов, я подтвердить не могу. Возможно, вы имеете в виду какое-то региональное название, и его я не помню.",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 7.834,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1778,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0130428,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 577,
+      "provider": "firstParty",
+      "thinkingTokens": 309,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-31",
+  "raw": "jsonl/0/msqa-RU-31.jsonl",
+  "reported_cost_usd": 0.0130428,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1778,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1778,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1778,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1778,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 577,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 577,
+    "output_tokens_details": {
+      "thinking_tokens": 309
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

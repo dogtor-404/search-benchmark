@@ -1,0 +1,74 @@
+{
+  "answer": "通常称为**“阿拉帕耶夫斯克惨案”**（俄语：**Алапаевская трагедия**，也说 **Алапаевское убийство**）。遇难者在东正教会中被称为**“阿拉帕耶夫斯克殉难者”**（**Алапаевские мученики**）。\n\n事件发生在 1918 年 7 月 18 日（叶卡捷琳堡沙皇一家被枪杀的第二天夜里），地点在乌拉尔阿拉帕耶夫斯克附近。伊丽莎白·费奥多罗夫娜大公夫人、谢尔盖·米哈伊洛维奇大公、几位康斯坦丁诺维奇亲王（约翰、康斯坦丁、伊戈尔）、弗拉基米尔·帕利亲王等人被推入下谢利姆斯卡亚（Нижняя Селимская）废弃矿井。一同遇害的还有修女瓦尔瓦拉和侍从。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.496,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1776,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.024209599999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 484,
+      "provider": "firstParty",
+      "thinkingTokens": 145,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-RU-73",
+  "raw": "jsonl/0_prime/msqa-RU-73.jsonl",
+  "reported_cost_usd": 0.024209599999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1776,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1776,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1776,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1776,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 484,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 484,
+    "output_tokens_details": {
+      "thinking_tokens": 145
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

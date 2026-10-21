@@ -1,0 +1,74 @@
+{
+  "answer": "**字面意思**：통모짜핫도그 = \"整块马苏里拉芝士热狗\"。통(整个、整块) + 모짜(모짜렐라的简称，马苏里拉) + 핫도그(韩式热狗，即裹面糊油炸的玉米热狗)。指里面不是切碎的芝士，而是整根马苏里拉芝士棒的那种热狗，拉丝效果是卖点。\n\n**作为流行语的含义**：这一点我不确定。我知道它是韩国街头小吃的常见菜单名，但没有可靠的记忆说明它作为网络流行语有什么特定的引申义，也不知道出处，比如来自哪个主播、视频或综艺。我不想编一个出处给你。\n\n如果你是在某个视频、直播或评论里看到的，把原句或上下文发给我，我可以帮你判断它在那里大概是什么语气，比如单纯指食物，还是玩梗或谐音。不过没法联网，没办法替你查证出处。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.167,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 3325,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.006956500000000001,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 662,
+      "provider": "firstParty",
+      "thinkingTokens": 322,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-56",
+  "raw": "jsonl/0/msqa-KO-56.jsonl",
+  "reported_cost_usd": 0.006956500000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 3325,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 3325,
+        "input_tokens": 2,
+        "output_tokens": 662,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 662,
+    "output_tokens_details": {
+      "thinking_tokens": 322
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

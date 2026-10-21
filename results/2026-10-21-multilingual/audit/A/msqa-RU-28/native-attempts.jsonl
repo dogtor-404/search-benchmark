@@ -1,0 +1,6 @@
+{"billable": false, "call": 1, "query": "масленичный обряд молодожёны в лучших нарядах выстраивались вдоль улицы целовались все желающие", "results": [], "status": "allowed", "tool_use_id": "toolu_01LSxPuQF7LdmyuCBDyKv6ub"}
+{"billable": false, "call": 2, "query": "Масленица обряд \"Поцелуйный\" OR \"целовник\" OR \"Целованье\" молодожёны выстраивались рядами вдоль улицы целоваться", "results": [], "status": "allowed", "tool_use_id": "toolu_016pf2oS62JFCvPY2Gezr2zK"}
+{"billable": false, "call": 3, "query": "Масленица \"Поцелуйный обряд\" молодые в лучших нарядах стояли рядами вдоль деревни целовали всех", "results": [], "status": "allowed", "tool_use_id": "toolu_011MtCT4wXPdzrzdeb8AdcJS"}
+{"billable": false, "call": 4, "query": "rodnayaladoga Масленица молодые в лучших нарядах выстраивались вдоль улицы просили поцеловаться обряд назывался", "results": [], "status": "allowed", "tool_use_id": "toolu_01ETCzLiW9WQ3ktHNdQyba4N"}
+{"billable": false, "call": 5, "query": "\"Поцелуйный обряд\" Масленица", "results": [], "status": "allowed", "tool_use_id": "toolu_01CEr3H3ZvzMB5iyXwBWErUQ"}
+{"billable": false, "call": null, "query": "Масленица молодожёны \"Целовник\" OR \"Поцелуи\" OR \"Показ молодых\" вдоль улицы в лучших нарядах всенародно показывали любовь", "results": [], "status": "budget_exhausted", "tool_use_id": "toolu_01RozDqTCoo22gKnJYR8EXQf"}

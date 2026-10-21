@@ -1,0 +1,109 @@
+{
+  "answer": "**Jawaban singkat:** Suku Yali biasanya memelihara babi di dalam atau di samping rumah mereka. Menurut kajian etnobotani desa Yali tahun 1992, babi dikandangkan pada malam hari di rumah laki-laki (*yowi*), tempat para pria dan anak laki-laki yang lebih besar tinggal. Sumber lain menyebut kampung Yali juga punya rumah khusus babi (*wam ibam*). Sumber-sumber ini tidak sepenuhnya sama, dan sebagian besar sudah lama atau hanya ringkasan dari pihak lain.\n\n(中文：通常养在房子里或房子旁边。1992 年的研究说，猪晚上关在男人住的屋子 *yowi* 里；另有资料说村里有专门的猪舍 *wam ibam*。共搜了 2 次。)\n\nSumber:\n- [Ethnobotany of the Yali (ResearchGate)](https://www.researchgate.net/publication/228687621_Ethnobotany_of_the_Yali)\n- [The Endanger And Beauty Yali](https://www.indonesia-tourism.com/blog/the-endanger-and-beauty-yali/)\n- [Yali people (Wikipedia)](https://en.wikipedia.org/wiki/Yali_people)\n- [Honai (Wikipedia)](https://en.wikipedia.org/wiki/Honai)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 24.133,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0237995,
+      "inputTokens": 28915,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1816,
+      "provider": "firstParty",
+      "thinkingTokens": 468,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4451,
+      "cacheReadInputTokens": 12264,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0533248,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 762,
+      "provider": "firstParty",
+      "thinkingTokens": 95,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-63",
+  "raw": "jsonl/A_prime/msqa-ID-63.jsonl",
+  "reported_cost_usd": 0.0771243,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "suku Yali memelihara babi di",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Xpo9PHH7rPCjad2n361ar4"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "Yali people pigs kept house \"pig\" honai Yalimo village",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Qkdv6JJKQK7zweCtSRrJkj"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4451,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4451,
+    "cache_read_input_tokens": 12264,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1370,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1370,
+        "cache_read_input_tokens": 5532,
+        "input_tokens": 2,
+        "output_tokens": 525,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 762,
+    "output_tokens_details": {
+      "thinking_tokens": 95
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

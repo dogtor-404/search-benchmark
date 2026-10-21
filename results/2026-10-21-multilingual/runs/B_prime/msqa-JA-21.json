@@ -1,0 +1,156 @@
+{
+  "answer": "**答案：豊玉姫（豊玉姫命、トヨタマヒメ）。** 鵜戸神宮の祭神・鸕鷀草葺不合尊の母神です。出産のために海宮（竜宮）から来たとき、大きな亀に乗ってきました。その亀が石になったのが亀石だと伝えられています。\n\n搜索 1 次。\n\n依据的网址：\n- 鵜戸神宮官网「亀石と運玉」：https://www.udojingu.or.jp/history/%e4%ba%80%e7%9f%b3%e3%81%a8%e9%81%8b%e7%8e%89/\n- 宮崎市観光协会：http://kikihensan.miyazaki-city.tourism.or.jp/yukari_11.html\n- 神社ファン「亀石」：https://jinjafan.jp/4500056/spots/1521/",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.756,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 6015,
+      "cacheReadInputTokens": 5873,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0576706,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 418,
+      "provider": "firstParty",
+      "thinkingTokens": 40,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-21",
+  "raw": "jsonl/B_prime/msqa-JA-21.jsonl",
+  "reported_cost_usd": 0.0576706,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6033,
+      "query": "鵜戸神宮 亀石 豊玉姫 乗ってきた亀",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石と運玉",
+          "url": "https://www.udojingu.or.jp/history/%e4%ba%80%e7%9f%b3%e3%81%a8%e9%81%8b%e7%8e%89/"
+        },
+        {
+          "date": "2024-06-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "海岸の洞窟に建つ珍しい神社⛩️ | Trip.com 日南",
+          "url": "https://jp.trip.com/moments/detail/nichinan-57412-122093414/"
+        },
+        {
+          "date": "2025-11-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮 - まっぷるウェブ",
+          "url": "https://www.mapple.net/sp_spot/564832/"
+        },
+        {
+          "date": "2025-11-24T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮の初詣情報｜初詣特集2026",
+          "url": "https://sp.jorudan.co.jp/newyear/spot_47732.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮",
+          "url": "http://kikihensan.miyazaki-city.tourism.or.jp/yukari_11.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "紺碧の海、朱塗りの神門、洞窟内にある「鵜戸神宮」は圧巻！",
+          "url": "https://www.miyazaki-ebooks.jp/?article=%e7%b4%ba%e7%a2%a7%e3%81%ae%e6%b5%b7%e3%80%81%e6%9c%b1%e5%a1%97%e3%82%8a%e3%81%ae%e7%a5%9e%e9%96%80%e3%80%81%e6%b4%9e%e7%aa%9f%e5%86%85%e3%81%ab%e3%81%82%e3%82%8b%e3%80%8c%e9%b5%9c%e6%88%b8%e7%a5%9e&q=%E5%BA%83%E5%A0%B1%E3%82%82%E3%82%8D%E3%81%A4%E3%81%8B"
+        },
+        {
+          "date": "2025-02-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮 - 見どころ、アクセス & 周辺情報",
+          "url": "https://www.gltjp.com/ja/directory/item/11580"
+        },
+        {
+          "date": "2022-09-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "霧島神宮・鵜戸神社へ行ってきました。 ... / はるさんのモーメント | YAMAP / ヤマップ",
+          "url": "https://yamap.com/moments/555664"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "鵜戸神宮に寄贈したベンチの清掃と維持活動 | 取材リポート | ライオン誌日本語版ウェブマガジン",
+          "url": "http://thelion-mag.jp/1802sa03"
+        },
+        {
+          "date": "2025-07-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "亀石 | 鵜戸神宮 - 神社ファン",
+          "url": "https://jinjafan.jp/4500056/spots/1521/"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 6015,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 6015,
+    "cache_read_input_tokens": 5873,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 4150,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 4150,
+        "cache_read_input_tokens": 3869,
+        "input_tokens": 2,
+        "output_tokens": 294,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 418,
+    "output_tokens_details": {
+      "thinking_tokens": 40
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

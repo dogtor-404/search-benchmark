@@ -1,0 +1,145 @@
+{
+  "answer": "**答えは確認できませんでした。** 検索した範囲では、この習俗を指す名称は見つかりませんでした。\n\n**確認できたこと**\n- 「里帰り」は、嫁いだ人が実家に帰ること全般を指します。料理を作って親に食べさせる意味は含まれていません。\n- お盆の時期に、健在な親を祝う「生身魂(いきみたま、生御霊)」という習慣があります。ただし、検索結果で確認できたのは宮中の例だけです。嫁いだ子が材料を持ち帰って親に料理を振る舞う習俗とは、結びつけて確認できませんでした。\n- 盆や正月に、嫁いだ娘が実家へ食べ物を持って帰る習俗が各地にあります。呼び名は地域ごとに違い、北陸のチョウハイ、山形のセツギョウ、熊本のツクリアガリなどです。これも、料理を作って親に食べさせる習俗とは別のものでした。\n\n**推測(未確認)**\n「生身魂」が答えの候補だと考えていますが、根拠は検索結果ではなく、私の記憶です。確定には、日本民俗大辞典や民俗語彙辞典で「生身魂」の項目を確認する必要があります。\n\n検索は上限の5回を使い切りました。そのため、この推測は確かめていません。\n\n**依拠した URL**(名称の裏づけにはなりません)\n- [intojapanwaraku.com(生御霊の祝い)](https://intojapanwaraku.com/rock/culture-rock/169029/)\n- [kotobank.jp(里帰り)](https://kotobank.jp/word/里帰り)\n- [japandict.com(里帰り)](https://japandict.com/里帰り)",
+  "argument_rejections": [],
+  "budget_denials": [
+    {
+      "billable": false,
+      "call": null,
+      "query": "生身魂 いきみたま 民俗 嫁にいった子供が親のもとに帰り 料理 食べさせる 習俗 日本民俗大辞典",
+      "results": [],
+      "status": "budget_exhausted",
+      "tool_use_id": "toolu_01C2LGp6KmBjz4t9wtTijF9z"
+    }
+  ],
+  "elapsed_seconds": 61.492,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.058423100000000006,
+      "inputTokens": 59921,
+      "maxOutputTokens": 128000,
+      "outputTokens": 4862,
+      "provider": "firstParty",
+      "thinkingTokens": 1661,
+      "webSearchRequests": 5
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 9035,
+      "cacheReadInputTokens": 47537,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0592817,
+      "inputTokens": 14,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1836,
+      "provider": "firstParty",
+      "thinkingTokens": 430,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-54",
+  "raw": "jsonl/A/msqa-JA-54.jsonl",
+  "reported_cost_usd": 0.1177048,
+  "search_argument_rejections": 0,
+  "search_attempts": 6,
+  "search_budget_denials": 1,
+  "search_calls": 5,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "嫁に出た子どもたちが食材を持って里帰り 健在な親に料理を作って食べさせる 呼び方",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01E6JsCvM21PbZyQpmRwkyVj"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "生身魂 いきみたま 嫁いだ娘 里帰り 生きている親 ご馳走 お盆",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01BsLYs6Nzwni5smjjSWwZ4M"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "嫁に行った子供が材料を持って里帰りし親に料理を作って食べさせる 習俗 民俗 「ミマイ」 OR 「ヨバレ」 OR 「ハンゲ」 生御魂 刺鯖",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NQC6jcka4rz9g6pFVxTpv3"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "嫁に出た子供たちが料理の材料を持って里帰りし、健在な親に料理を作って食べさせる 風習 名称 民俗語彙",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01CJ4oYMdLEaatxtw5faL6AK"
+    },
+    {
+      "call": 5,
+      "is_error": false,
+      "query": "生御魂 OR 生身魂 OR 生盆 嫁にいった子供 里帰り 親に料理 食べさせる 民俗 コトバンク",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Y4Rb1oqQWpw4hXo6dRtiir"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9035,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9035,
+    "cache_read_input_tokens": 47537,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 14,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 384,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 384,
+        "cache_read_input_tokens": 11102,
+        "input_tokens": 2,
+        "output_tokens": 594,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1836,
+    "output_tokens_details": {
+      "thinking_tokens": 430
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "answer": "**금강산도 식후경**（金剛山도 食後景）\n\n意思是\"再有趣的事也得吃饱了才有兴致\"，即\"金刚山再美也要吃饱饭再看\"。\n\n依据：국립국어원 표준국어대사전（https://opendict.korean.go.kr/dictionary/view?word_no=404962&sense_no=478703）",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 5.751,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 2432,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.0277144,
+      "inputTokens": 5422,
+      "maxOutputTokens": 32000,
+      "outputTokens": 277,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-KO-28",
+  "raw": "jsonl/D2_prime/msqa-KO-28.jsonl",
+  "reported_cost_usd": 0.0277144,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.663,
+      "query": "한국 속담 배가 불러야 흥이 난다 금강산도 식후경",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "내가 살펴본 단어 내 단어장",
+          "url": "https://opendict.korean.go.kr/dictionary/view?word_no=404962&sense_no=478703"
+        },
+        {
+          "date": "2016-04-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"금강산도 식후경\"…전주영화제 '콩＋비＋한 맛보자\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20160428092200055"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "금강산도 식후경 - 위키낱말사전",
+          "url": "https://ko.wiktionary.org/wiki/%EA%B8%88%EA%B0%95%EC%82%B0%EB%8F%84_%EC%8B%9D%ED%9B%84%EA%B2%BD#%ec%86%8d%eb%8b%b4"
+        },
+        {
+          "date": "2010-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "汉字词和成语 - 속담_뜻이 비슷한 속담",
+          "url": "https://kr.hujiang.com/new/p155036/"
+        },
+        {
+          "date": "2010-05-23T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "韩国语能力考试必背俗谈012",
+          "url": "https://kr.hujiang.com/new/p105992/"
+        },
+        {
+          "date": "2023-03-09T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "금강산도 식후경(속담)",
+          "url": "http://sendai.kankoku.or.kr/bbs/board.php?bo_table=bd03&wr_id=66&page=1"
+        },
+        {
+          "date": "2010-04-04T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "汉字词和成语 - 속담_꽃구경도 식후사",
+          "url": "https://m.hujiang.com/kr/p154980/"
+        },
+        {
+          "date": "2024-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "김우영 작가의 우주백이야기- 사마르칸드 식후경 탐방",
+          "url": "https://www.daejeontoday.com/news/articleView.html?idxno=675763"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "다양한 속담과 사자성어를 익히는 것 또한 교육의 필수적인 구성 요소입니다",
+          "url": "https://vplatform.assembly.go.kr/api/vod/org/2026/04/20/cc7a8363-1b82-4566-a748-b194185dc392_1776671008300.pdf#9#2"
+        },
+        {
+          "date": "2025-03-14T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "속담노래100 / 김현주 - 속담",
+          "url": "https://music.bugs.co.kr/track/31852993?wl_ref=list_tr_08_search#1"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 2432,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 5422,
+    "iterations": [],
+    "output_tokens": 277,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

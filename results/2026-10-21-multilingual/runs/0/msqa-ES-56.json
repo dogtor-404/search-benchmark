@@ -1,0 +1,74 @@
+{
+  "answer": "**简短回答**:西班牙的 encomienda(委托监护制)起源于中世纪的卡斯蒂利亚-莱昂王国,是收复失地运动(Reconquista)时期的产物,并没有一个确切的单一发源地。\n\n- **背景**:在从穆斯林手中夺回的边境地区(现今的埃斯特雷马杜拉、拉曼查、安达卢西亚一带),国王把土地、城堡和居民\"委托\"(encomendar)给军事骑士团或贵族管理和防卫。\n- **主要载体**:圣地亚哥骑士团(Santiago)、卡拉特拉瓦骑士团(Calatrava)和阿尔坎塔拉骑士团(Alcántara)。它们的辖区叫 *encomienda*,管理者叫 *comendador*。\n- **更早的渊源**:可追溯到罗马晚期和西哥特时期的 *encomendación*(人身依附与保护关系),但这更像是思想和制度上的前身。\n\n**需要区分**:你问的如果是美洲的 encomienda,它是 1503 年由 Nicolás de Ovando 在伊斯帕尼奥拉岛(Hispaniola)正式制度化的,是把西班牙本土的概念移植过去,内容变成了对原住民劳役和贡赋的分配。\n\n我不能上网核对,以上凭已有知识回答。具体年代和各骑士团辖区的细节,我没有十足把握。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.424,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1757,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0163988,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 921,
+      "provider": "firstParty",
+      "thinkingTokens": 420,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-56",
+  "raw": "jsonl/0/msqa-ES-56.jsonl",
+  "reported_cost_usd": 0.0163988,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1757,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1757,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1757,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1757,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 921,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 921,
+    "output_tokens_details": {
+      "thinking_tokens": 420
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

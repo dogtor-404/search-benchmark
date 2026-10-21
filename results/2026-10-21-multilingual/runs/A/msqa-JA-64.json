@@ -1,0 +1,109 @@
+{
+  "answer": "**第2巻(巻之二「居家」)の可能性が高いですが、この文の原文は確認できていません。**\n\n2回検索しましたが、この一文を引用した資料は見つかりませんでした。確認できたのは巻の構成だけです。東洋文庫版と国立国会図書館の目録では、巻之一が年中行事、巻之二が居家、巻之三が冠服です。大門や扉のような住居の構造は、ふつう「居家」の項に書かれます。したがって巻之二と推定しました。\n\n確かめるには、東京大学の電子版(国書データベース経由)で巻之二の冒頭近くを見てください。\n\nSources:\n- [BookLive(東洋文庫版 清俗紀聞)](https://booklive.jp/product/index/title_id/40000492/vol_no/001)\n- [NDL サーチ(清俗紀聞 巻之12.13)](https://ndlsearch.ndl.go.jp/en/books/R100000039-I767039)\n- [東京大学 デジタルアーカイブ(清俗紀聞)](https://da.dl.itc.u-tokyo.ac.jp/portal/en/assets/93c47849-9a63-9ff3-2a49-5c798a1a6a5c)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.347,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0235439,
+      "inputTokens": 26594,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1769,
+      "provider": "firstParty",
+      "thinkingTokens": 521,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4182,
+      "cacheReadInputTokens": 6762,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0243122,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 690,
+      "provider": "firstParty",
+      "thinkingTokens": 71,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-JA-64",
+  "raw": "jsonl/A/msqa-JA-64.jsonl",
+  "reported_cost_usd": 0.0478561,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "清俗紀聞 「大門の内、少し間を置いてまた扉を設く」",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VVSSEAPL5yRoHHrUe33hHP"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "清俗紀聞 巻之一 居家 大門 内 少し間を置いて 扉",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_011g6vmdFi3dFJ1iSjHUX8f5"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4182,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4182,
+    "cache_read_input_tokens": 6762,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2322,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2322,
+        "cache_read_input_tokens": 4311,
+        "input_tokens": 2,
+        "output_tokens": 491,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 690,
+    "output_tokens_details": {
+      "thinking_tokens": 71
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

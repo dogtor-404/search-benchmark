@@ -1,0 +1,62 @@
+{
+  "answer": "「実業戦士」（じつぎょうせんし）という称呼だと思います。\n\n鹿児島高等商業学校（鹿児島国際大学の前身）の校歌は土井晩翠の作詞で、ユーカリ樹・桜島・城山をうたう中で、立派な実業人になるための自己鍛錬の指標として「実業戦士」と表現されています。正確な原詞の文言（「実業の戦士」か「実業戦士」か）までは私の記憶では断定しきれないため、そこは「実業戦士（実業の戦士）」としておきます。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.038,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.041592000000000004,
+      "inputTokens": 2113,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1657,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-84",
+  "raw": "jsonl/D0_prime/msqa-JA-84.jsonl",
+  "reported_cost_usd": 0.041592000000000004,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2113,
+    "iterations": [],
+    "output_tokens": 1657,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

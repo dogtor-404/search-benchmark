@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "嫁いだ娘 材料を持って里帰り 健在な親に料理を作って食べさせる 風習 何という", "results": [], "status": "allowed", "tool_use_id": "toolu_0156FNJ4EoNTQv7bVQE7t967"}
+{"billable": false, "call": 2, "query": "生見玉 お盆 嫁いだ娘 料理 親に食べさせる", "results": [], "status": "allowed", "tool_use_id": "toolu_01N5xKac9zs45cTztQVdC4NK"}
+{"billable": false, "call": 3, "query": "生盆 生身魂 嫁いだ子どもたちが 材料を持って 親に ご馳走", "results": [], "status": "allowed", "tool_use_id": "toolu_019Fpq8jm413cMSHp84PKAR3"}
+{"billable": false, "call": 4, "query": "八千代 お嫁に出た子どもたちが 料理の材料を持って 里帰り 健在な親", "results": [], "status": "allowed", "tool_use_id": "toolu_01SiVLGrucbeDvQ7XFjJ2jmw"}
+{"billable": false, "call": 5, "query": "\"生き盆\" 嫁いだ 娘 材料 持って 里帰り 両親 料理", "results": [], "status": "allowed", "tool_use_id": "toolu_019qwtsPwZUBH6q2rq15sUDx"}

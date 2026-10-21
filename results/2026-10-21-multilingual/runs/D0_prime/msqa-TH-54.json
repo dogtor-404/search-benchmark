@@ -1,0 +1,62 @@
+{
+  "answer": "我不知道这个具体的换名，不会瞎猜。\n\n只能说明我大致确定的语言背景：这是泰语（东北方言/老挝语色彩）的说法，“แดก”（dàek）在伊善语里是“吃”的粗俗用法，“งา”（nga）是芝麻，“แดกงา”字面就是“（大口）吃芝麻/芝麻吃食”之类的民间叫法，所以摊贩才会想换成更文雅的名称。但**具体被改成了哪个词，我没有可靠印象，不能上网查证，就不编了。**\n\n如果你手头有候选词（比如“งาตัด”“งาคั่ว”“งาเคลือบน้ำตาล”之类）需要我判断哪个更像，我可以帮你分析。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 15.763,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.042788,
+      "inputTokens": 2057,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1728,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-54",
+  "raw": "jsonl/D0_prime/msqa-TH-54.jsonl",
+  "reported_cost_usd": 0.042788,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2057,
+    "iterations": [],
+    "output_tokens": 1728,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

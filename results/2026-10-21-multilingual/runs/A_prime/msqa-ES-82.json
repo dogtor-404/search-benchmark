@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：**「quedarse en blanco」的意思是脑子突然一片空白，一时想不起本来知道的东西，或者不知道该说什么。人在紧张、有压力的时候最常这样，比如考试或当众讲话时说「me quedé en blanco」（我脑子一片空白）。英语里对应的说法是 \"to draw a blank\" 或 \"one's mind goes blank\"。\n\n另外，RAE 的《泛西语疑难词典》收了一个意思相近的拉丁语短语「in albis」（字面意思也是「在白里」）。它常和 quedarse 连用，表示什么都没弄懂，或者没得到期待的结果。\n\n只搜了 1 次。\n\nSources:\n- [Inklingo: quedarse en blanco](https://www.inklingo.app/spanish/idioms/quedarse-en-blanco)\n- [El Vocabo: quedarse en blanco](https://elvocabo.lovable.app/word/es-quedarse-en-blanco)\n- [RAE – Diccionario panhispánico de dudas: in albis](https://www.rae.es/dpd/in%20albis)\n- [Lawless Spanish: quedar expressions](https://www.lawlessspanish.com/expressions/quedar-expressions/)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 14.638,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.011737000000000001,
+      "inputTokens": 13320,
+      "maxOutputTokens": 128000,
+      "outputTokens": 810,
+      "provider": "firstParty",
+      "thinkingTokens": 377,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 2749,
+      "cacheReadInputTokens": 6739,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0336158,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 513,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-82",
+  "raw": "jsonl/A_prime/msqa-ES-82.jsonl",
+  "reported_cost_usd": 0.0453528,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "\"quedarse en blanco\" significado expresión",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DKP7g9roW8L5uBJWFFXYfw"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2749,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 2749,
+    "cache_read_input_tokens": 6739,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 912,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 912,
+        "cache_read_input_tokens": 4288,
+        "input_tokens": 2,
+        "output_tokens": 427,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 513,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

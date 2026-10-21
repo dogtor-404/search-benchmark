@@ -1,0 +1,5 @@
+{"billable": false, "call": 1, "query": "สตรีเชียงใหม่ ห่มผ้าเฉวียงบ่า ปล่อยชายผ้าไปด้านหลัง ไม่สวมเสื้อ ถือว่า", "results": [], "status": "allowed", "tool_use_id": "toolu_01BzuLfrNbmUCCv2ZEm95rQp"}
+{"billable": false, "call": 2, "query": "ผู้หญิงล้านนา ห่มผ้าสไบเฉียง เฉวียงบ่า ปล่อยชายไปข้างหลัง \"ผ้าแบบนี้\" เรียกว่า ถือเป็นการแต่งกายเต็มยศ", "results": [], "status": "allowed", "tool_use_id": "toolu_019iFatZitQpjK3eADN85Lib"}
+{"billable": false, "call": 3, "query": "สะหว้ายแหล่ง ผู้หญิงเชียงใหม่ ไม่สวมเสื้อ ห่มผ้าเฉวียงบ่า ปล่อยชายไปด้านหลัง ถือเป็นการแต่งกายเมื่อไปวัด", "results": [], "status": "allowed", "tool_use_id": "toolu_01J2ZqYaZ7M759AS6s4irDWf"}
+{"billable": false, "call": 4, "query": "สตรีเชียงใหม่ ไม่สวมเสื้อ ห่มผ้าผืนเดียว เฉวียงบ่า ปล่อยชายไปข้างหลัง ถือว่าเป็นการแต่งกายสุภาพ เข้าเฝ้า", "results": [], "status": "allowed", "tool_use_id": "toolu_01D9GNT5g1sG3h986Er7LeMF"}
+{"billable": false, "call": 5, "query": "ผู้หญิงล้านนาโบราณ ไม่สวมเสื้อ ห่มสไบเฉวียงบ่า ปล่อยชายไปข้างหลัง ถือเป็นการแต่งกายแบบเต็มยศ หรือ แสดงความเคารพ", "results": [], "status": "allowed", "tool_use_id": "toolu_013G9Fs3riwMeSrNfMUy4qoX"}

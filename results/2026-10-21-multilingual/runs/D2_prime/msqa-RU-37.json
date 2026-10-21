@@ -1,0 +1,302 @@
+{
+  "answer": "**Косовик** (также «свательный пирог», «пирог для зятя»; у карел — keitinpiiroa / vãvynpiirat).\n\nНазвание происходит от формы полумесяца: зятя как главу новой семьи в русском фольклоре сравнивали с нарождающимся месяцем — «косовичком». Пекли его, когда в дом приходили сваты, а первый тонкий сочень (сканец) раскатывала невеста.\n\nИсточники:\n- https://babuskinpirog.ru/prazdnichnyye-pirogi-na-rusi («Косовик – пирог для зятя… по своей полукруглой форме напоминавший месяц»)\n- https://zagadochki.ucoz.ru/news/viktorina_na_vykupa_nevesty_prikolnaja_2015/2015-02-13-820 («Название пирога — косовик — связано с тем, что он похож на полумесяц… косовики пекли, когда в дом приходили сваты»)\n- https://www.culture.ru/events/3511641/master-klass-po-karelskoi-kukhne-keitinpiiroa (карельские «свательные» пироги keitinpiiroa, форма полумесяца)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 17.49,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 14848,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.1384736,
+      "inputTokens": 27626,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1250,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-RU-37",
+  "raw": "jsonl/D2_prime/msqa-RU-37.jsonl",
+  "reported_cost_usd": 0.1384736,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8298,
+      "query": "Русский Север полумесяцеобразный сватальный пирог для зятя невеста печёт сваты",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В доме у родителей невесты устраивали танцы, а потом для гостей накрывали ужин[984]",
+          "url": "https://www.kunstkamera.ru/files/doc/diss/minvaleev_dissertaciya.pdf#74#38"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Статьи, новости и видео от популярных блогеров и СМИ | Будь в теме — будь в Дзене - Карельские свательные пироги «Пироги для зятя»",
+          "url": "https://dzen.ru/list/food/pirogi/karelskie_svatelnye_pirogi_pirogi_dlja_zjatja?from_cloud=true#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Тесто для пирогов затевается с особенным торжеством: квашня выносится из чулана на средину избы; стряпухи  становятся вокруг ква...",
+          "url": "https://rusneb.ru/local/tools/exalead/getFiles.php?book_id=001055_000090_363&name=001055_000090_363-%d0%9c%d0%be%d1%80%d0%b4%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f+%d1%81%d0%b2%d0%b0%d0%b4%d1%8c%d0%b1%d0%b0&doc_type=pdf#60#12"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С рыбника начинался свадебный пир",
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/118408/%D0%94%D0%B8%D1%81%D1%81_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0_%D0%B8%D1%82%D0%BE%D0%B3.pdf#197#158"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Гостей располагали за столом, жениха и старшего свата сажали на почетное место в красном углу",
+          "url": "https://www.kunstkamera.ru/files/doc/diss/minvaleev_dissertaciya.pdf#74#19"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Колежма, Нюхча, РК [11: 35], Кандалакшский берег [3: 126]), либо в общий байник, который собирали в доме невесты, помещали два х...",
+          "url": "https://uchzap.petrsu.ru/files/pdfs_a4T6sdq42RtE34werSR/journal_4001.pdf#52#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ной муки с начинкой из пшена»27. Обязательно была отмечена середина стола: «На середине стола лежал хлеб, один, два или три, оди...",
+          "url": "http://lib.rasl.ru/wp-content/uploads/2026/01/historical_ethnography_issue_6.pdf#70#44"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В Афанасьевской вол",
+          "url": "http://naukapravoslavie.ru/wp-content/uploads/2025/12/TS-43-mal.pdf#52#33"
+        },
+        {
+          "date": "2020-06-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Вологодские вепсы показали что нужно делать с зятем за столом | Народы Севера. Научный портал",
+          "url": "https://kmns.ru/blog/2020/06/13/vologodskie-vepsy-pokazali-chto-nuzhno-delat-s-zjatem-za-stolom/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "В к а н у н  с в а д ь б ы  на девичнике подавались сладкие пироги",
+          "url": "https://RodnoVerie.org/images/knizhnaya-polka/brak-i-svadba-v-slavyanskoj-narodnoj-kulture.pdf#317#104"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.7352,
+      "query": "сватальный пирог полумесяцем невеста зятю Русский Север название",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "мастер -класс по карельской кухне «Keitinpiiroa» 2023, Пряжинский район — дата и место проведения, программа мероприятия.",
+          "url": "https://www.culture.ru/events/3511641/master-klass-po-karelskoi-kukhne-keitinpiiroa?location=respublika-kareliya"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "С рыбника начинался свадебный пир",
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/118408/%D0%94%D0%B8%D1%81%D1%81_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0_%D0%B8%D1%82%D0%BE%D0%B3.pdf#197#158"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Статьи, новости и видео от популярных блогеров и СМИ | Будь в теме — будь в Дзене - Карельские свательные пироги «Пироги для зятя»",
+          "url": "https://dzen.ru/list/food/pirogi/karelskie_svatelnye_pirogi_pirogi_dlja_zjatja?from_cloud=true#1"
+        },
+        {
+          "date": "2020-11-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Почему бы не порадовать своих близких блюдом карельской... | Интересный контент в группе Отдых в Карелии с Алем-Тур",
+          "url": "https://ok.ru/kareliyaotdyh/topic/152474185110840?st.layer.lg.ftid=0&st.layer.lg.fp=0"
+        },
+        {
+          "date": "2015-02-12T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Викторина на выкупа невесты прикольная 2015 - 13 Февраля 2015",
+          "url": "https://zagadochki.ucoz.ru/news/viktorina_na_vykupa_nevesty_prikolnaja_2015/2015-02-13-820"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пирог",
+          "url": "https://pstroganov.com/files/books/Slovar_svadba-ilovepdf-compressed.pdf#84#72"
+        },
+        {
+          "date": "2018-07-22T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пироги для зятя (vãvynpiirat, keitinpiiroa) В прошлом... | Интересный контент в группе Ваша Карелия. Отдых в Карелии. - Пироги для зятя (vãvynpiirat, keitinpiiroa)",
+          "url": "https://ok.ru:443/vashakarelia/topic/68661992284373?st.layer.lg.ftid=0&st.layer.lg.fp=0#1"
+        },
+        {
+          "date": "2015-07-30T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Карельская кухня - пироги для зятя",
+          "url": "http://kak-ya-stala-mamoi.blogspot.com/2015/07/karelskaya-kuhnya-pirogi-dlya-zyatya.html?m=0#comment-form"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ВИВОЛОГА | это... Что такое ВИВОЛОГА?",
+          "url": "https://dic.academic.ru/dic.nsf/enc_pohlebkin/1367/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "По прїздѣ изъ церкви, свекоръ съ образомъ, свекровь съ хлѣбомъ, старшая, если есть, невѣстка—съ братиюю пива, встрѣчаютъ жениха ...",
+          "url": "https://archive.org/download/militarystatisticalreviewoftherussianempire/Military%20Statistical%20Review%20of%20the%20Russian%20Empire%20Arkhangelsk%20Province_text.pdf#82#43"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7537,
+      "query": "пирог в форме полумесяца зятю сваты невеста печёт севернорусский",
+      "results": [
+        {
+          "date": "2024-09-01T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пироги для зятя — Подразделение по Олонецкому району",
+          "url": "https://olonec.social-karelia.ru/news/pirogi-dlya-zyatya/#experience"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Карельский косовик (Рецепт для стадии прогретого тандыра)",
+          "url": "https://xn--c1afgabard7b.xn--p1ai/kulinarnaya-shkola/karelskij-kosovik-recept-dlya-stadii-progretogo-tandyra/"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "мастер -класс по карельской кухне «Keitinpiiroa» 2023, Пряжинский район — дата и место проведения, программа мероприятия.",
+          "url": "https://www.culture.ru/events/3511641/master-klass-po-karelskoi-kukhne-keitinpiiroa?location=respublika-kareliya"
+        },
+        {
+          "date": "2021-09-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Пирожок для зятя рецепт",
+          "url": "https://recepty.shashlik-piknik.ru/pirozhok-dlya-zyatya-retsept/"
+        },
+        {
+          "date": "2021-09-27T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Рецепты пирожков для зятя",
+          "url": "https://recepty.shashlik-piknik.ru/retsepty-pirozhkov-dlya-zyatya/"
+        },
+        {
+          "date": "2018-08-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "🥧ПРАЗДНИЧНЫЕ ПИРОГИ НА РУСИ🥧 Русские пироги -... | Интересный контент в группе Русский Народный Телеканал Жар Птица - 🥧ПРАЗДНИЧНЫЕ ПИРОГИ НА РУСИ🥧",
+          "url": "https://ok.ru/group55001569165417/topic/68677009965161?st.layer.lg.ftid=0&st.layer.lg.fp=0#1"
+        },
+        {
+          "date": "2020-07-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "🥧ПРАЗДНИЧНЫЕ ПИРОГИ НА РУСИ🥧 ⠀ 🔹Русские... | Интересный контент в группе Русский Народный Телеканал Жар Птица - 🥧ПРАЗДНИЧНЫЕ ПИРОГИ НА РУСИ🥧",
+          "url": "https://ok.ru/group55001569165417/topic/151994824880233#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "ной муки с начинкой из пшена»27. Обязательно была отмечена середина стола: «На середине стола лежал хлеб, один, два или три, оди...",
+          "url": "http://lib.rasl.ru/wp-content/uploads/2026/01/historical_ethnography_issue_6.pdf#70#44"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Древние обычаи на столе: праздничные пироги",
+          "url": "https://babuskinpirog.ru/prazdnichnyye-pirogi-na-rusi"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Из пресного теста пекли закрытые пироги с рыбной (чаще из сиговых или хайрюзовых) или овощной (морковь, капуста, картофель) начи...",
+          "url": "https://nbdrx.ru/pdf/project/200let/bx0000688.pdf#48#14"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 14848,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 27626,
+    "iterations": [],
+    "output_tokens": 1250,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

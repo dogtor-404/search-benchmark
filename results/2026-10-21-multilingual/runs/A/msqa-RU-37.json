@@ -1,0 +1,127 @@
+{
+  "answer": "**Надёжного ответа у меня нет.** Лучшая версия ниже не подтверждена.\n\n- **Косовик.** Одна из выдач (расширенный поиск) назвала этот пирог «косовик». По ней он полукруглый, как месяц, и названием связан с «ясным месяцем», которым в песнях называли жениха. Это пересказ без цитаты, и подтверждения я не нашёл. Ни северную привязку, ни то, что пирог печёт невеста при сватах, источники не подтвердили. Отдельный поиск по «косовик» тоже ничего не дал.\n- **Карельские «пироги для зятя».** Это сладкая выпечка из Карелии, её складывают пополам и защипывают края. Формы полумесяца и сватовского обряда с участием невесты там нет. Кроме того, источник считает сладкую версию сравнительно поздней.\n\nПоэтому «косовик» я бы считал рабочей гипотезой. Её стоит проверить по этнографическим описаниям северной свадьбы, например по Архангельской или Вологодской областям.\n\nИспользованные страницы:\n- [Курник (пирог) — Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BD%D0%B8%D0%BA_(%D0%BF%D0%B8%D1%80%D0%BE%D0%B3)) (из расширенной выдачи, на ней я не проверял)\n- [Древние обычаи на столе: праздничные пироги](https://babuskinpirog.ru/prazdnichnye-pirogi-na-rusi-old) (из расширенной выдачи, на ней я не проверял)\n- [Карельские свательные пироги](https://azbyka.ru/recept/?p=78600)\n- [How to bake sweet Karelian ‘pies for a son-in-law’](https://www.gw2ru.com/russian-kitchen/1923-sweet-karelian-pies-recipe)\n- [7 секретов традиционной русской свадьбы](https://www.culture.ru/materials/128650/7-sekretov-tradicionnoi-russkoi-svadby)\n\nSources:\n- https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BD%D0%B8%D0%BA_(%D0%BF%D0%B8%D1%80%D0%BE%D0%B3)\n- https://babuskinpirog.ru/prazdnichnye-pirogi-na-rusi-old\n- https://azbyka.ru/recept/?p=78600\n- https://www.gw2ru.com/russian-kitchen/1923-sweet-karelian-pies-recipe\n- https://www.culture.ru/materials/128650/7-sekretov-tradicionnoi-russkoi-svadby",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 47.419,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0463908,
+      "inputTokens": 45063,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3769,
+      "provider": "firstParty",
+      "thinkingTokens": 1203,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7452,
+      "cacheReadInputTokens": 28441,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0496621,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1699,
+      "provider": "firstParty",
+      "thinkingTokens": 309,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-RU-37",
+  "raw": "jsonl/A/msqa-RU-37.jsonl",
+  "reported_cost_usd": 0.09605290000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "полумесяцеобразный пирог для зятя сватовство невеста печёт Русский Север название",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01SoCwzHubHvtnCdkStdUY8P"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "пирог в форме полумесяца невеста пекла для жениха когда приходили сваты Север \"пирог\" полумесяц сватовство Архангельская Вологодская",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01PCKuUZv91rRPB6paotKEqP"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "полукруглый свадебный пирог для зятя, невеста печёт при сватах, Русский Север, называется",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VmLszaQMsU6iEhDsvAKnYJ"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "косовик пирог сватовство невеста печёт полумесяц Север",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01T4sXqP4KgpFFKLUYMYANhY"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7452,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7452,
+    "cache_read_input_tokens": 28441,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1423,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1423,
+        "cache_read_input_tokens": 8480,
+        "input_tokens": 2,
+        "output_tokens": 957,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1699,
+    "output_tokens_details": {
+      "thinking_tokens": 309
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

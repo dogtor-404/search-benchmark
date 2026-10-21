@@ -1,0 +1,100 @@
+{
+  "answer": "**答案**：搜了 1 次。Tri Hita Karana 要保持三种关系的和谐：\n\n1. **Parahyangan**：人与神（Tuhan）的关系\n2. **Pawongan**：人与人之间的关系\n3. **Palemahan**：人与自然环境的关系\n\n几处来源说法一致：这三者是一个不可分割的整体，其中一个受损，整体的平衡就会被打乱。\n\nSources:\n- [Good News From Indonesia：Menjaga Lingkungan dengan Tri Hita Karana](https://www.goodnewsfromindonesia.id/2025/08/27/menjaga-lingkungan-dengan-tri-hita-karana-kearifan-bali-untuk-keberlanjutan-bumi)\n- [Good News From Indonesia：Tri Hita Karana dalam World Water Forum](https://www.goodnewsfromindonesia.id/2024/05/20/implementasi-prinsip-ajaran-bali-tri-hita-karana-dalam-world-water-forum)\n- [Swara Widya：Melaksanakan Konsep Tri Hita Karana melalui Pembersihan Pura](https://journal.mpukuturan.ac.id/index.php/swarawidya/article/view/610)\n- [Hindu Council of Australia](https://hinducouncil.com.au/?p=4160)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.428,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119685,
+      "inputTokens": 15420,
+      "maxOutputTokens": 128000,
+      "outputTokens": 853,
+      "provider": "firstParty",
+      "thinkingTokens": 90,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3361,
+      "cacheReadInputTokens": 6757,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.040235400000000004,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 599,
+      "provider": "firstParty",
+      "thinkingTokens": 33,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ID-02",
+  "raw": "jsonl/A_prime/msqa-ID-02.jsonl",
+  "reported_cost_usd": 0.0522039,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Tri Hita Karana tiga unsur Parahyangan Pawongan Palemahan",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01VmzieVqX4JXYbTpMGVBWUu"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3361,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3361,
+    "cache_read_input_tokens": 6757,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1506,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1506,
+        "cache_read_input_tokens": 4306,
+        "input_tokens": 2,
+        "output_tokens": 497,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 599,
+    "output_tokens_details": {
+      "thinking_tokens": 33
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

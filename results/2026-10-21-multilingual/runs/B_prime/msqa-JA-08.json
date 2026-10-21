@@ -1,0 +1,156 @@
+{
+  "answer": "**答え：「TNJ女子」と呼ばれます。** TNJは「（T）大したこと（N）ない（J）じゃん」の頭文字です。\n\n見た目は普通なのに、なぜか人気がある女性を指します。2013年に女性ファッション誌『CanCam』で使われた言葉だと説明されています。\n\n依拠したページ：\n- https://youngjapanesedic.com/tnj%e5%a5%b3%e5%ad%90/amp/ （「TNJ女子とは『一見大したことないけれどモテる女子』という意味」と書かれていて、問題文とほぼ同じ表現です）\n- https://woman.mynavi.jp/article/151203-29/\n- https://news.mynavi.jp/woman/article/illust_c-44/\n\n搜索は1回だけ使いました。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 8.186,
+  "exit_code": 0,
+  "group": "B_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 17766,
+      "cacheReadInputTokens": 5843,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.15189260000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 429,
+      "provider": "firstParty",
+      "thinkingTokens": 78,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-JA-08",
+  "raw": "jsonl/B_prime/msqa-JA-08.jsonl",
+  "reported_cost_usd": 0.15189260000000002,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0.00075,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.8027,
+      "query": "一見大したことないけれどモテる女子 呼ばれる",
+      "results": [
+        {
+          "date": "2016-02-10T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "イラストコラム(44) なぜかモテる「TNJ（たいしたことないじゃん）女子」の特徴【イラストコラム】",
+          "url": "https://news.mynavi.jp/woman/article/illust_c-44/"
+        },
+        {
+          "date": "2018-04-16T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "「TNJ女子」ってどういう意味？ 語源や使い方(例文付き)も紹介！",
+          "url": "https://youngjapanesedic.com/tnj%e5%a5%b3%e5%ad%90/amp/"
+        },
+        {
+          "date": "2015-12-02T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "どこにでもいそうなタイプなのになぜ人気？ モテる「TNJ（たいしたことないじゃん）女子」の特徴",
+          "url": "https://woman.mynavi.jp/article/151203-29/"
+        },
+        {
+          "date": "2020-06-26T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "この普通っぽさがいい！「なぜかモテるあの子」のモテマニュアル",
+          "url": "https://woman.excite.co.jp:443/article/love/rid_Aikatu_506158/"
+        },
+        {
+          "date": "2016-11-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "【新型モテ女子研究】なぜか分からないけどモテるコ＝『なぜモテ女子』の生態に迫る！",
+          "url": "https://ray-web.jp/21413?page=1#chapter-3"
+        },
+        {
+          "date": "2021-05-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "一見ボブの記事一覧｜ウーマンエキサイト",
+          "url": "https://woman.excite.co.jp/article/%E4%B8%80%E8%A6%8B%E3%83%9C%E3%83%96/3/"
+        },
+        {
+          "date": "2025-01-11T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "リアルおもしれー女に聞いた「やっぱりモテるのモテないの?」という話。",
+          "url": "https://pcmax.jp/column/lovetech/37979/"
+        },
+        {
+          "date": "2025-05-18T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "『恋愛では【丁度良い女】からいなくなっていく』",
+          "url": "https://ameblo.jp/nao-fem/entry-12904292093.html"
+        },
+        {
+          "date": "2026-02-15T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "結婚相談所でも選ばれるのは「おもしれー女」！自分らしさが最強にモテる｜婚活で自分軸を持つ人が成婚する理由 - 静岡市の婚活・結婚相談所 JOYマリッジ.com｜半年以内の成婚へ導く分析のプロ【IBJ正規加盟店】",
+          "url": "http://xn--joy-3k4b3b7i8c.com/self-axis-woman-marriage-hunting/"
+        },
+        {
+          "date": "2022-01-31T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "男性に間違いなくモテる！【コンサバ系女子】ってどんな女子？",
+          "url": "https://news.nicovideo.jp/watch/nw10473555?news_ref=tag"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 17766,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 17766,
+    "cache_read_input_tokens": 5843,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 15931,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 15931,
+        "cache_read_input_tokens": 3839,
+        "input_tokens": 2,
+        "output_tokens": 274,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 429,
+    "output_tokens_details": {
+      "thinking_tokens": 78
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "最接近的是 **「ทำดีได้ดี ทำชั่วได้ชั่ว」**（做好事得好报，做坏事得恶报）。这是泰语里表达善有善报、恶有恶报的常用俗语，意思和你给的释义基本吻合。\n\n不过你给的释义里有\"ใฝ่ดี／ใฝ่ชั่ว\"（向往善／向往恶）的字眼，我不确定它是否出自某个特定的固定说法，也记不起有哪条成语的字面正好是这样。如果这是课本或考题里的题目，我没法确认标准答案，只能说上面这条是我所知最贴近的。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.687,
+  "exit_code": 0,
+  "group": "0",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1808,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0159328,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 854,
+      "provider": "firstParty",
+      "thinkingTokens": 631,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-TH-79",
+  "raw": "jsonl/0/msqa-TH-79.jsonl",
+  "reported_cost_usd": 0.0159328,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1808,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1808,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1808,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1808,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 854,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 854,
+    "output_tokens_details": {
+      "thinking_tokens": 631
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

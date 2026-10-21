@@ -1,0 +1,100 @@
+{
+  "answer": "**통模짜핫도그(통모짜핫도그)**是“통 못 자”(完全睡不着/睡不好)的谐音梗,意思是“最近一直没睡好,很累”。\n\n- 反义的梗是“요즘잘자쿨냥이”,意思是“最近睡得很好”。它是把“통모짜핫도그”的每个部分反过来造的:“통 못 자”变成“요즘 잘 자”,“핫도그”变成“쿨냥이”。\n- 用法:说自己最近睡得好,或者配在睡得香的照片上。\n\n注意:我只查到一篇文章(Maily 的 Trend A Word)讲这个词,它的来源和流行时间我没法交叉验证。文章说原帖很难找到。现在还在不在用,也没有确认。\n\nSources:\n- [Trend A Word #175 – 나 요즘 통 못 자~ 그래? 난 요즘잘자쿨냥인데](https://maily.so/trendaword/posts/2nznew8kzp5)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.379,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0119406,
+      "inputTokens": 14656,
+      "maxOutputTokens": 128000,
+      "outputTokens": 950,
+      "provider": "firstParty",
+      "thinkingTokens": 393,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 1167,
+      "cacheReadInputTokens": 8582,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.012584199999999999,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 705,
+      "provider": "firstParty",
+      "thinkingTokens": 270,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-56",
+  "raw": "jsonl/A/msqa-KO-56.jsonl",
+  "reported_cost_usd": 0.0245248,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "통모짜핫도그 유행어 뜻",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WPj2oytahw5KF8kxojVJye"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1167,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1167,
+    "cache_read_input_tokens": 8582,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1167,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1167,
+        "cache_read_input_tokens": 4291,
+        "input_tokens": 2,
+        "output_tokens": 618,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 705,
+    "output_tokens_details": {
+      "thinking_tokens": 270
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

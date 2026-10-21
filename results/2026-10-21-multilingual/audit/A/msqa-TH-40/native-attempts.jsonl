@@ -1,0 +1,3 @@
+{"billable": false, "call": 1, "query": "สักยันต์ ขั้นตอน เตรียมอะไรบ้าง ดอกไม้ธูปเทียน ขันครู", "results": [], "status": "allowed", "tool_use_id": "toolu_012sXqrKkrDJTneABvS7bcAL"}
+{"billable": false, "call": 2, "query": "ก่อนสักยันต์ ต้องเตรียมตัวอย่างไร ศีล 5 เครื่องสักการะ", "results": [], "status": "allowed", "tool_use_id": "toolu_01SXd57cJi1EXsGqjQVSSRzG"}
+{"billable": false, "call": 3, "query": "พิธีสักยันต์ ขั้นตอน ขันธ์ 5 ขันครู เครื่องบูชาครู ผู้ที่จะสักต้องเตรียม", "results": [], "status": "allowed", "tool_use_id": "toolu_01QWZJU2vsW6Fkyx2Hg7jL9T"}

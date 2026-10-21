@@ -1,0 +1,100 @@
+{
+  "answer": "**答案:** Merariq 指的是萨萨克族(Sasak)的“带走新娘”式婚俗程序。男方在夜里把想娶的女子从她父母家中带走(私奔式的象征性“抢婚”),再按习俗完成后续的婚礼仪式。\n\n- **本义与现义**:最初 merariq 只指把姑娘带走、以便娶她的行为,现在则泛指整套萨萨克传统婚姻程序。\n- **常见规则**:要从女方父母家带走,通常在日落祷告(Maghrib)后到约 23:00 之间进行,白天带人被视为不体面。过程要守礼,不能使用暴力。\n- **一种研究列出的阶段**:Pemidangan、Beseboq、Selabar、Sejati、Sorong Serah。\n- **地区差异**:2024 年对北龙目岛 Bayan Beleq 村的研究显示,那里的程序更复杂,包括象征性带走、躲藏三晚和一系列习俗仪式,最后以 menjango 取代 nyongkolan。多数萨萨克社区已经简化了这些阶段。\n\n我搜到的主要是学术论文,上面的细节来自二手描述,不是单一权威来源,各地做法也不完全一致。\n\nSources:\n- [TRADISI ADAT MERARIQ MEMULANG DI DESA BAYAN BELEQ](https://jurnalfkip.unram.ac.id/index.php/SocEd/article/view/9794)\n- [jurnalfkip.unram.ac.id(同一篇的 PDF)](https://jurnalfkip.unram.ac.id/index.php/SocEd/article/download/9794/7369/81050)\n- [journal.uinmataram.ac.id(Qawwam)](https://journal.uinmataram.ac.id/index.php/qawwam/article/download/7028/2487/19590)\n- [risalah.unram.ac.id](https://risalah.unram.ac.id/index.php/risalah/article/download/131/107)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 20.069,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0122051,
+      "inputTokens": 15981,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1214,
+      "provider": "firstParty",
+      "thinkingTokens": 327,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3296,
+      "cacheReadInputTokens": 6758,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0243178,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1045,
+      "provider": "firstParty",
+      "thinkingTokens": 262,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ID-07",
+  "raw": "jsonl/A/msqa-ID-07.jsonl",
+  "reported_cost_usd": 0.0365229,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "Merariq adat kawin Suku Sasak Lombok prosedur",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_017ezpvXQpq59k2RPYrJonGa"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3296,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3296,
+    "cache_read_input_tokens": 6758,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1440,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1440,
+        "cache_read_input_tokens": 4307,
+        "input_tokens": 2,
+        "output_tokens": 950,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 1045,
+    "output_tokens_details": {
+      "thinking_tokens": 262
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "answer": "**Respuesta corta:** Se refiere sobre todo al **préstamo léxico**, es decir, a las palabras que el español tomó de otras lenguas en situaciones de contacto. Ese contacto se clasifica en tres tipos:\n- **Sustrato:** influencia de una lengua desaparecida sobre la que la reemplazó. Aquí entran el ibero, el vasco, el fenicio y el griego.\n- **Superestrato:** influencia de la lengua dominante, como el germánico (visigodo) y, sobre todo, el árabe.\n- **Adstrato:** influencia mutua entre lenguas que coexisten.\n\nLos préstamos posteriores, como los galicismos y los anglicismos, se incorporaron cuando el idioma ya estaba consolidado.\n\nEsta respuesta sale de una sola búsqueda. Los resultados eran resúmenes de varios documentos, y no abrí ninguno completo. La clasificación sustrato/superestrato/adstrato se atribuye a Lapesa. Si quiere contrastarla, puede empezar por el primer enlace, que trata de las variedades en contacto.\n\nSources:\n- [uv.es – Variedades en contacto](https://www.uv.es/aleza/Cap.%208.%20EA%20Variedades%20contacto.pdf)\n- [revistas.ucr.ac.cr](https://revistas.ucr.ac.cr/index.php/filyling/article/download/15036/14302/27372)\n- [digitum.um.es – Voces foráneas](https://digitum.um.es/digitum/bitstream/10201/40382/1/La%20presencia%20de%20voces%20for%c3%a1neas%20en%20el%20campo%20sem%c3%a1ntico%20de%20la%20vivienda.pdf)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.07,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0120322,
+      "inputTokens": 14392,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1186,
+      "provider": "firstParty",
+      "thinkingTokens": 111,
+      "webSearchRequests": 1
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 3502,
+      "cacheReadInputTokens": 6757,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.021841700000000002,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 715,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-57",
+  "raw": "jsonl/A/msqa-ES-57.jsonl",
+  "reported_cost_usd": 0.0338739,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "influencia de otras lenguas en la historia del español préstamos léxicos sustrato superestrato",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01JScUtQCjgvBoEba91izUGb"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3502,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3502,
+    "cache_read_input_tokens": 6757,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1647,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1647,
+        "cache_read_input_tokens": 4306,
+        "input_tokens": 2,
+        "output_tokens": 612,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 715,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

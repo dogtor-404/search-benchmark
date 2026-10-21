@@ -1,0 +1,109 @@
+{
+  "answer": "**답:** 조맹의 본명은 **'바우'**(바위)입니다. 풍양 조씨 문중 쪽 전승에 따르면 조맹은 원래 성이 없이 '바우'로 불렸습니다. 왕건을 도와 고려 건국에 공을 세운 뒤 조(趙)씨 성을 받고 이름도 맹(孟)으로 바꿨다고 합니다.\n\n이 내용은 문중의 전승입니다. 양주 조씨 세보처럼 계보를 다르게 적은 기록도 있습니다. 이 답을 담은 문장이 아래 결과 중 정확히 어느 페이지에서 나왔는지는 검색 요약만으로는 특정하지 못했습니다. 그래서 두 번째 검색에서 나온 후보를 함께 적습니다.\n\n검색은 2번 했습니다.\n\nSources:\n- [Pungyang Cho clan – Wikipedia](https://en.wikipedia.org/wiki/Pungyang_Cho_clan)\n- [세계일보 기사](https://www.segye.com/newsView/20130430004546)\n- [경기일보 기사](https://kyeonggi.com/article/200604040180725)\n- [다음 카페 글 1](https://m.cafe.daum.net/byhdg/BGOD/815)\n- [다음 카페 글 2](https://m.cafe.daum.net/ksh1250/D9se/5018)\n- [다음 카페 글 3](https://m.cafe.daum.net/dobulwonin/MJS7/422)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 25.656,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0234402,
+      "inputTokens": 26087,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1663,
+      "provider": "firstParty",
+      "thinkingTokens": 389,
+      "webSearchRequests": 2
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 4104,
+      "cacheReadInputTokens": 12119,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.052399799999999996,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 856,
+      "provider": "firstParty",
+      "thinkingTokens": 134,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-KO-63",
+  "raw": "jsonl/A_prime/msqa-KO-63.jsonl",
+  "reported_cost_usd": 0.07583999999999999,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "풍양 조씨 시조 조맹 본명",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_013vyeVWr5qGhfuL77z3BsNi"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "조맹 풍양조씨 시조 바위 왕건 맹 이름 하사",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01FLoMsFYC8qfRFdNebJf2QU"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4104,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4104,
+    "cache_read_input_tokens": 12119,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1175,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1175,
+        "cache_read_input_tokens": 5380,
+        "input_tokens": 2,
+        "output_tokens": 613,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 856,
+    "output_tokens_details": {
+      "thinking_tokens": 134
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

@@ -1,0 +1,4 @@
+{"billable": false, "call": 1, "query": "退溪 李滉 成均館大司成 제수 명종 년 사직", "results": [], "status": "allowed", "tool_use_id": "toolu_01HYHdUQ5EcS2vtD36Xo8jHH"}
+{"billable": false, "call": 2, "query": "이황 성균관대사성 임명 취임 연도", "results": [], "status": "allowed", "tool_use_id": "toolu_017JJEfbLSpf4LwgSZbfQ62p"}
+{"billable": false, "call": 3, "query": "이황 1552년 성균관 대사성 명종 7년 52세 취임", "results": [], "status": "allowed", "tool_use_id": "toolu_01S1diRScwgpqJrk6SLsmq84"}
+{"billable": false, "call": 4, "query": "이황 퇴계 연보 52세 성균관 대사성 명을 받아 취임 8월", "results": [], "status": "allowed", "tool_use_id": "toolu_01KrZdS1nWUbxNeJkF1wcrkW"}

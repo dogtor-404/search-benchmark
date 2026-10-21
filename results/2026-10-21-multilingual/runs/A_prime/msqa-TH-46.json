@@ -1,0 +1,100 @@
+{
+  "answer": "**答案：สตรีชาวยวน（ไทยวน），也就是ล้านนา（兰纳）女性。**\n\n《ศิลปวัฒนธรรม》（艺术与文化杂志）的一篇文章说，ซิ่น（筒裙）几乎在整个泰北都是ยวน/ล้านนา女性的标志。各府的筒裙在花纹、布料和棉线染色上又各有特点。\n\n搜了 1 次。\n\nSources:\n- [“ซิ่น” แห่งนครเชียงใหม่ วัฒนธรรมการแต่งกายสตรีชาวยวน – ศิลปวัฒนธรรม](https://www.silpa-mag.com/?p=35746)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 16.391,
+  "exit_code": 0,
+  "group": "A_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0118977,
+      "inputTokens": 11597,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1476,
+      "provider": "firstParty",
+      "thinkingTokens": 297,
+      "webSearchRequests": 1
+    },
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 3912,
+      "cacheReadInputTokens": 6762,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0422444,
+      "inputTokens": 4,
+      "maxOutputTokens": 128000,
+      "outputTokens": 479,
+      "provider": "firstParty",
+      "thinkingTokens": 128,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-46",
+  "raw": "jsonl/A_prime/msqa-TH-46.jsonl",
+  "reported_cost_usd": 0.0541421,
+  "search_argument_rejections": 0,
+  "search_attempts": 1,
+  "search_budget_denials": 0,
+  "search_calls": 1,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "ซิ่น อัตลักษณ์ ภาคเหนือ สตรีชาว",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01NjXqDaQnDn9zqHnBenTcXJ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3912,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 3912,
+    "cache_read_input_tokens": 6762,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 4,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 2052,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 2052,
+        "cache_read_input_tokens": 4311,
+        "input_tokens": 2,
+        "output_tokens": 247,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 479,
+    "output_tokens_details": {
+      "thinking_tokens": 128
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

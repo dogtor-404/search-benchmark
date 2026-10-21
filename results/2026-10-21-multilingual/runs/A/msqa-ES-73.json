@@ -1,0 +1,127 @@
+{
+  "answer": "**Respuesta:** más de medio millón de personas (unas 500.000).\n\nSegún la Wikipedia, con la Ilustración y la llegada de los Borbones se limitaron los nombramientos de hidalgos e infanzones. El motivo era que más de medio millón de personas gozaba de exención tributaria por ese título.\n\nLa cifra no sale de una fuente que cuente solo a los infanzones. La entrada sobre los hidalgos la da para toda la hidalguía, y los infanzones acabaron fusionados con ella. No encontré un número aparte para los infanzones. Hice 4 búsquedas.\n\nFuentes:\n- [Infanzón – Wikipedia](https://es.wikipedia.org/wiki/Infanz%C3%B3n)\n- [Hidalgo – Wikipedia (es)](https://es.wikipedia.org/wiki/Hidalgos)\n- [Hidalgo (nobility) – Wikipedia (en)](https://en.wikipedia.org/wiki/Hidalgo_(nobility))",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 37.617,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.0479701,
+      "inputTokens": 60446,
+      "maxOutputTokens": 128000,
+      "outputTokens": 3851,
+      "provider": "firstParty",
+      "thinkingTokens": 1104,
+      "webSearchRequests": 4
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 7409,
+      "cacheReadInputTokens": 27600,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.041246000000000005,
+      "inputTokens": 10,
+      "maxOutputTokens": 128000,
+      "outputTokens": 883,
+      "provider": "firstParty",
+      "thinkingTokens": 45,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-ES-73",
+  "raw": "jsonl/A/msqa-ES-73.jsonl",
+  "reported_cost_usd": 0.0892161,
+  "search_argument_rejections": 0,
+  "search_attempts": 4,
+  "search_budget_denials": 0,
+  "search_calls": 4,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "infanzón exención fiscal antes de reformas borbónicas número de personas infanzones",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01HL5e8nz5LZjbqV1qTH5ysy"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "infanzón Aragón nobleza exentos de impuestos aproximadamente personas Wikipedia",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01Lym7RnyLch7J3RLGJKtegQ"
+    },
+    {
+      "call": 3,
+      "is_error": false,
+      "query": "\"infanzón\" Wikipedia \"exentos\" impuestos Borbones Ilustración \"personas\" infanzones Aragón 1700",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01QmW2MgmdcPpMiDCsCaCabF"
+    },
+    {
+      "call": 4,
+      "is_error": false,
+      "query": "infanzón Wikipedia Navarra Aragón infanzones eran unos miles exentos de impuestos antes de los Borbones",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_012znQD2iPtpD5KwZPtgnSKJ"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 7409,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 7409,
+    "cache_read_input_tokens": 27600,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 10,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1377,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1377,
+        "cache_read_input_tokens": 8483,
+        "input_tokens": 2,
+        "output_tokens": 354,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 883,
+    "output_tokens_details": {
+      "thinking_tokens": 45
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

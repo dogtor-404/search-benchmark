@@ -1,0 +1,109 @@
+{
+  "answer": "답은 **\"소 뒷걸음질 치다 쥐 잡기\"**인 것 같습니다. 다만 검색 결과로 확인한 내용은 아닙니다. 두 번 검색했지만 이 속담을 직접 설명한 자료가 나오지 않아서, 아래 설명은 제가 알고 있는 지식에 따른 것입니다.\n\n소가 뒷걸음질을 치다가 우연히 쥐를 밟아 잡았다는 뜻입니다. 의도하거나 계획하지 않은 일이 우연히 잘 들어맞아 좋은 결과가 났을 때 씁니다.\n\n이 속담을 직접 확인해 주는 URL은 없습니다. 검색에 나온 www.korean.go.kr 페이지도 다른 속담을 다룬 글로 보여서 근거로 쓰지 않았습니다. 정확한 풀이는 표준국어대사전(stdict.korean.go.kr)에서 직접 찾아보시길 권합니다.\n\nSources: 없음 (검색 결과 중 이 속담을 직접 다룬 자료를 찾지 못했습니다)",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 22.683,
+  "exit_code": 0,
+  "group": "A",
+  "model": "claude-sonnet-5-5",
+  "model_usage": {
+    "claude-haiku-5-5": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "claude-haiku-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.023596699999999998,
+      "inputTokens": 29162,
+      "maxOutputTokens": 128000,
+      "outputTokens": 1361,
+      "provider": "firstParty",
+      "thinkingTokens": 451,
+      "webSearchRequests": 2
+    },
+    "claude-sonnet-5-5": {
+      "cacheCreationInputTokens": 4321,
+      "cacheReadInputTokens": 12285,
+      "canonicalModel": "claude-sonnet-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.028034500000000004,
+      "inputTokens": 6,
+      "maxOutputTokens": 128000,
+      "outputTokens": 951,
+      "provider": "firstParty",
+      "thinkingTokens": 328,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-sonnet-5-5"
+  ],
+  "question_id": "msqa-KO-52",
+  "raw": "jsonl/A/msqa-KO-52.jsonl",
+  "reported_cost_usd": 0.0516312,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0,
+  "searches": [
+    {
+      "call": 1,
+      "is_error": false,
+      "query": "뜻하지 않은 일이 우연히 잘 들어맞았을 때 속담 소 뒷걸음질 치다 쥐 잡기",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01WYueVFzMQonFMcgkaV53fB"
+    },
+    {
+      "call": 2,
+      "is_error": false,
+      "query": "\"소 뒷걸음질 치다 쥐 잡기\" 속담 뜻 우연히",
+      "ranking_observable": false,
+      "results": [],
+      "status": "ok",
+      "tool_use_id": "toolu_01DYUV6BJMa39H2tg7m5fcoC"
+    }
+  ],
+  "status": "ok",
+  "subscription": true,
+  "tools": [
+    "WebSearch"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4321,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 4321,
+    "cache_read_input_tokens": 12285,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 6,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1252,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1252,
+        "cache_read_input_tokens": 5520,
+        "input_tokens": 2,
+        "output_tokens": 395,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 951,
+    "output_tokens_details": {
+      "thinking_tokens": 328
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

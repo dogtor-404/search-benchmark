@@ -1,0 +1,223 @@
+{
+  "answer": "**答案**：『後拾遺和歌集』哀傷巻（哀傷）の第536番。\n\n- 作者は「一条院皇后宮」（藤原定子）。\n- 出典：後拾遺和歌集・哀傷・536（後拾遺和歌集の哀傷部の巻頭歌）。\n\n**依据网址**：\n- 勅撰和歌集データベース（歌番 536、出展 後拾遺和歌集）：http://waka-chokusen.org/chokusen/waka21/shousai.php?ID=4321\n- 「後拾遺和歌集 哀傷 536」の解説ページ：https://tagiri.hatenablog.com/entry/2025/04/22/081133",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.234,
+  "exit_code": 0,
+  "group": "D2_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 9600,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.07746,
+      "inputTokens": 13585,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1060,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-JA-53",
+  "raw": "jsonl/D2_prime/msqa-JA-53.jsonl",
+  "reported_cost_usd": 0.07746,
+  "search_argument_rejections": 0,
+  "search_attempts": 2,
+  "search_budget_denials": 0,
+  "search_calls": 2,
+  "search_cost_usd": 0.0015,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.6772,
+      "query": "よもすから ちきりしことを わすれすは こひむなみたの いろそゆかしき 出典",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "勅撰和歌集データベース",
+          "url": "http://waka-chokusen.org/chokusen/waka21/shousai.php?ID=4321"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "search results of nijl_21daisyuu_0000004488",
+          "url": "https://bridge.nihu.jp/integrated_searchresults?mode=all&word=nijl_21daisyuu_0000004488&page=1"
+        },
+        {
+          "date": "2018-12-17T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "［和歌原表記］夜もすから／契しことを／忘すは／こひむ涙の／＊いそくゆかしき／＊５いろそゆかしきイ - Japan Search",
+          "url": "https://jpsearch.go.jp/en/item/nij04-nijl_nijl_nijl_21daisyuu_0000004488"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Bulletin of Faculty of Education, Nagasaki University, Combined Issue Vol",
+          "url": "https://nagasaki-u.repo.nii.ac.jp/record/4205/files/jinbunkagaku81_153.pdf#6#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "なん供養すべき経とも、あり",
+          "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00106199-20190228-0001(%C3%A6%C5%93%E2%82%AC%C3%A9%20%C2%A9%C3%A5%C5%92%E2%80%93).pdf?file_id=140323#5#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "春曙文庫蔵",
+          "url": "https://soai.repo.nii.ac.jp/record/1546/files/AN10201844_19960300_1141.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "けに、たちよりけり",
+          "url": "http://escholarship.lib.okayama-u.ac.jp/files/public/6/60183/20200722094353508754/okadaironkou_29_35_41.pdf#1#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "天理図書館蔵『定家家隆調合』の書入れ注について",
+          "url": "https://kokubunken.repo.nii.ac.jp/record/724/files/KB0291.pdf#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "актуальность в контексте современной японской культуры",
+          "url": "https://journal.kunstkamera.ru/files/journal_kunstkamera/2024_02/11_sinicyn.pdf#3#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "記（文化十二年以降成立 通称・忠兵衛）がさまざまな文献を書写した「篤宿維 本書のテクストは、久松松平氏家臣である駒井篤宿 凡例 参考させていただいた",
+          "url": "http://saki-archives.com/2022/hitachi_obi.pdf#4#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.6392,
+      "query": "後拾遺和歌集 536 よもすから ちきりしことを わすれすは 哀傷",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "勅撰和歌集データベース",
+          "url": "http://waka-chokusen.org/chokusen/waka21/shousai.php?ID=4321"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Room№a01 ： 涙の雫 : 旅館 『小倉山荘』",
+          "url": "http://blog.livedoor.jp/kotsubuchan-100/archives/RNa01.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "一条院皇后宮とは 人気・最新記事を集めました - はてな",
+          "url": "https://d.hatena.ne.jp/keyword/%E4%B8%80%E6%9D%A1%E9%99%A2%E7%9A%87%E5%90%8E%E5%AE%AE"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "拾遺和歌集: 後拾遺和歌集",
+          "url": "https://books.google.com.sg/books?id=54kyAQAAMAAJ&newbks=0&hl=zh-CN&redir_esc=y"
+        },
+        {
+          "date": "2025-04-20T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "後拾遺和歌集 哀傷 536 百人秀歌 53 - 雲心月性...",
+          "url": "https://tagiri.hatenablog.com/entry/2025/04/22/081133"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Google Books",
+          "url": "https://www.google.gr/books/edition/_/54kyAQAAMAAJ?sa=X&ved=2ahUKEwiRuIStzZaJAxXE1TgGHcv9EWQQ7_IDegQIDBAC"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "後拾遺和歌集",
+          "url": "http://www5c.biglobe.ne.jp/n32e131/gshyui/aishou01.html"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "後拾遺和歌集とは？ わかりやすく解説 - 後拾遺和歌集とは？ わかりやすく解説",
+          "url": "https://www.weblio.jp/content/%E5%BE%8C%E6%8B%BE%E9%81%BA%E5%92%8C%E6%AD%8C%E9%9B%86#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "後拾遺和歌集(ゴシュウイワカシュウ)とは？ 意味や使い方 - コトバンク",
+          "url": "https://kotobank.jp/word/%E5%BE%8C%E6%8B%BE%E9%81%BA%E5%92%8C%E6%AD%8C%E9%9B%86-64761"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "本・コミック: 後拾遺和歌集/藤原通俊久保田淳平田喜信:オンライン書店Honya Club com",
+          "url": "https://www.honyaclub.com/shop/goods/goods.aspx?goods=19709831"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 9600,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 13585,
+    "iterations": [],
+    "output_tokens": 1060,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

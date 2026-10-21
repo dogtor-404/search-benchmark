@@ -1,0 +1,62 @@
+{
+  "answer": "根据我已有的记忆（无法联网核实，仅供参考）：\n\n泰国首次以泰文字母（อักษรไทย）印刷出版的巴利三藏（พระไตรปิฎก），是在**佛历 2436 年（公历 1893 年）**，即拉玛五世朱拉隆功（Rama V）在位时期完成的，共 **39 册**，由当时的王家印刷所（โรงพิมพ์หลวง）印行。\n\n背景是：此前泰国寺院的三藏主要抄写在贝叶上，多用高棉文（อักษรขอม）书写；这次是第一次用泰文字母排版印刷成书。\n\n需要提醒的是，这个细节我凭记忆回答，没有联网查证；具体年份和册数建议以权威来源（如泰国国家图书馆或《大藏经》刊行史料）为准。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 13.847,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.03314,
+      "inputTokens": 2050,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1247,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-80",
+  "raw": "jsonl/D0_prime/msqa-TH-80.jsonl",
+  "reported_cost_usd": 0.03314,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2050,
+    "iterations": [],
+    "output_tokens": 1247,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

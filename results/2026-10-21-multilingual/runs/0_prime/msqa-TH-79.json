@@ -1,0 +1,74 @@
+{
+  "answer": "我能想到的是 **“ทำดีได้ดี ทำชั่วได้ชั่ว”**（行善得善，作恶得恶）。\n\n但这个答案我不太有把握，原因有两个：\n\n- 题目里的释义用的是 **“ใฝ่”**（追求、向往），而不是 “ทำ”（做）。这可能说明标准答案是另一条措辞相近的俗语，比如 “ใฝ่ดีได้ดี ใฝ่ชั่วได้ชั่ว”。不过我不确定这是不是一条固定收录的สำนวน。\n- 我记不清泰国皇家学术院（ราชบัณฑิตยสถาน）词典里这条释义具体对应哪个词条。\n\n如果要拿来当题目的标准答案，建议联网或查词典核实。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 12.591,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1804,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.03225360000000001,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 875,
+      "provider": "firstParty",
+      "thinkingTokens": 598,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-TH-79",
+  "raw": "jsonl/0_prime/msqa-TH-79.jsonl",
+  "reported_cost_usd": 0.03225360000000001,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1804,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1804,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1804,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1804,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 875,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 875,
+    "output_tokens_details": {
+      "thinking_tokens": 598
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

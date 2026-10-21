@@ -1,0 +1,302 @@
+{
+  "answer": "**Respuesta:** El segundo estado —el **intelectual o político**— se desarrolla en torno a **la razón**: la inteligencia y el cálculo de conveniencia que sustituyen a la fuerza bruta, imponiendo normas, leyes y fronteras (\"regla, norma y tiranía\"). Vasconcelos lo llama período \"intelectualista\", porque en él las relaciones se fundan en la conveniencia y el cálculo, y la razón se reconoce como suprema en los asuntos humanos.\n\n**Fuentes:**\n- José Vasconcelos, *Nueva ley de los tres estados* (PDF, UAM): https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Nueva_ley_de_los_tres_estados-Vasconcelos_Jose.pdf\n- *La raza cósmica*, texto completo (Archive.org): https://archive.org/stream/larazacosmicamis00vasc_0/larazacosmicamis00vasc_0_djvu.txt\n- Estudio sobre los tres estados (UNAM): https://ru.facmed.unam.mx/bitstream/123456789/27/1/itinerarios_intelectuales_Crespo_Regina.pdf",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.706,
+  "exit_code": 0,
+  "group": "D2",
+  "model": "deepseek-flash",
+  "model_usage": {
+    "deepseek-flash": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 17920,
+      "canonicalModel": "deepseek-flash",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.127036,
+      "inputTokens": 24943,
+      "maxOutputTokens": 32000,
+      "outputTokens": 1184,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-flash"
+  ],
+  "question_id": "msqa-ES-80",
+  "raw": "jsonl/D2/msqa-ES-80.jsonl",
+  "reported_cost_usd": 0.127036,
+  "search_argument_rejections": 0,
+  "search_attempts": 3,
+  "search_budget_denials": 0,
+  "search_calls": 3,
+  "search_cost_usd": 0.0022500000000000003,
+  "searches": [
+    {
+      "billable": true,
+      "call": 1,
+      "elapsed_seconds": 0.7171,
+      "query": "Vasconcelos \"Ley de los Tres Estados Sociales\" segundo estado",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "valores y cualidades que la humanidad ha creado[73]",
+          "url": "http://bibliotecavirtual.dgb.umich.mx:8083/xmlui/bitstream/handle/DGB_UMICH/12326/FFSR-L-2013-0381.pdf?sequence=1&isAllowed=y#13#9"
+        },
+        {
+          "date": "2010-06-21T16:00:00+00:00",
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "LA RAZA COSMICA (4)",
+          "url": "https://cruzadasur.blogspot.com/2010/06/la-raza-cosmica-4.html?showComment=1308197690853&m=1#c3111808111248008801"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"La Raza cósmica : misión de la raza iberoamericana\" - punto  que  no  estará  ya  sujeto  a  la  necesidad,  sino  al",
+          "url": "https://archive.org/stream/larazacosmicamis00vasc_0/larazacosmicamis00vasc_0_djvu.txt#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En lugar de pensar en un “choque de razas” como Lobato, o en la constitución de algo como “castas de raza pura”, Vascon- celos a...",
+          "url": "https://ru.facmed.unam.mx/bitstream/123456789/27/1/itinerarios_intelectuales_Crespo_Regina.pdf#46#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "“José Vasconcelos”",
+          "url": "http://arteyculturacevip.blogspot.com/2024/10/jose-vasconcelos_0144849465.html#comment-form"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "forme de traités et les coutumes s’organisent selon les lois dérivées réciproques et selon la",
+          "url": "https://theses.hal.science/tel-01861686v1/preview/va_Castro_reyes_Johaan.pdf#78#33"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En La raza cósmica, Vasconcelos propuso el seguimiento para toda nación de tres estados de desarrollo social: 1) el material o g...",
+          "url": "http://www.publicaciones.cucsh.udg.mx/kiosko/2021/vasconcelismo%20en%20el%20teatro%202021.pdf#21#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El primer estado, material o guerrero, es un estado de razón débil en el que impera la materia y no hay más ley que la violencia...",
+          "url": "https://ru.dgb.unam.mx/bitstreams/deb048f5-4557-4eba-a0a4-b609b52842d8/download#25#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The Mexican mural renaissance, 1920-1925\" - . . .  yet  this  state  is  still  not  supreme.  Higher  than  the  fatalities  of \nlogic  and  all  material  and  moral  int",
+          "url": "https://archive.org/stream/mexica00char/mexica00char_djvu.txt#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encielopedia de la filosofía mexicana",
+          "url": "https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Nueva_ley_de_los_tres_estados-Vasconcelos_Jose.pdf#2#1"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 2,
+      "elapsed_seconds": 0.708,
+      "query": "José Vasconcelos ley tres estados sociales segundo estado se desarrolla en torno a",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En La raza cósmica, Vasconcelos propuso el seguimiento para toda nación de tres estados de desarrollo social: 1) el material o g...",
+          "url": "http://www.publicaciones.cucsh.udg.mx/kiosko/2021/vasconcelismo%20en%20el%20teatro%202021.pdf#21#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El primer estado, material o guerrero, es un estado de razón débil en el que impera la materia y no hay más ley que la violencia...",
+          "url": "https://ru.dgb.unam.mx/bitstreams/deb048f5-4557-4eba-a0a4-b609b52842d8/download#25#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Encielopedia de la filosofía mexicana",
+          "url": "https://divcsh.izt.uam.mx/cefilibe/wp-content/uploads/2013/12/Nueva_ley_de_los_tres_estados-Vasconcelos_Jose.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Full text of \"The Mexican mural renaissance, 1920-1925\" - . . .  yet  this  state  is  still  not  supreme.  Higher  than  the  fatalities  of \nlogic  and  all  material  and  moral  int",
+          "url": "https://archive.org/stream/mexica00char/mexica00char_djvu.txt#21"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "\"Para acercarnos a este propósito sublime es preciso ir",
+          "url": "https://www.revistas.ucr.ac.cr/index.php/filyling/article/download/17064/16519/34719#2#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "valores y cualidades que la humanidad ha creado[73]",
+          "url": "http://bibliotecavirtual.dgb.umich.mx:8083/xmlui/bitstream/handle/DGB_UMICH/12326/FFSR-L-2013-0381.pdf?sequence=1&isAllowed=y#13#9"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Journal of Mexican Philosophy | Volume 1, Issue 1 (2022): 54-63",
+          "url": "https://www.journalofmexicanphilosophy.org/_files/ugd/018f6b_e8cdc331fb3e47c9a34f4dcb0d776486.pdf#2#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "• DEPENDENCIA Y LIBERACIÓN EN LA CULTURA LATINOAMERICANA",
+          "url": "https://ru.dgb.unam.mx/server/api/core/bitstreams/4a4bbdd0-9c0f-424e-904f-409850973cf6/content#49#47"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "que “unos hombres poseen más penetración y más elevación que",
+          "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/248b_02/248b_02_04_01_politica_sep.pdf#51#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "romántico Schiller",
+          "url": "https://rilzea.cialc.unam.mx/jspui/bitstream/CIALC-UNAM/A_CA672/2/CA102_23_79.pdf#12#10"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "billable": true,
+      "call": 3,
+      "elapsed_seconds": 0.7321,
+      "query": "\"segundo estado\" Vasconcelos \"en torno a\" razón intelectual político",
+      "results": [
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "El primer estado, material o guerrero, es un estado de razón débil en el que impera la materia y no hay más ley que la violencia...",
+          "url": "https://ru.dgb.unam.mx/bitstreams/deb048f5-4557-4eba-a0a4-b609b52842d8/download#25#23"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "En La raza cósmica, Vasconcelos propuso el seguimiento para toda nación de tres estados de desarrollo social: 1) el material o g...",
+          "url": "http://www.publicaciones.cucsh.udg.mx/kiosko/2021/vasconcelismo%20en%20el%20teatro%202021.pdf#21#2"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "NOTAS EN TORNO A LA ENUNCIACIÓN DE JOSÉ VASCONCELOS EN LA RAZA CÓSMICA 1 - Haku",
+          "url": "https://humak.finna.fi/PrimoRecord/pci.cdi_proquest_journals_1847779111#1"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "No existe un Vasconcelos enteramente, ni siquiera en mediano grado, distinto de un periodo temporal a otro, más bien, y como ha ...",
+          "url": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-11/tesis_1252.pdf#27#22"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "qué manera se definen y redefinen las nociones a lo largo del tiempo",
+          "url": "https://colsan.repositorioinstitucional.mx/jspui/bitstream/1013/1593/1/El%20antijuda%C3%ADsmo%20y%20el%20anticomunismo%20de%20Jos%C3%A9%20Vasconcelos%20en%20sus%20escritos%201936-1940.pdf#34#5"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Vasconcelos",
+          "url": "https://core.ac.uk/download/9507180.pdf#72#45"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "contingencia y, en cierta medida, inconciencia de su papel en la construcción del",
+          "url": "https://repositorio.colmex.mx/downloads/6395w762z?locale=es#40#36"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Vasconcelos no fue ajeno a ese contexto, tan es así que convergía con esos grupos de derecha",
+          "url": "https://colsan.repositorioinstitucional.mx/jspui/bitstream/1013/1593/1/El%20antijuda%C3%ADsmo%20y%20el%20anticomunismo%20de%20Jos%C3%A9%20Vasconcelos%20en%20sus%20escritos%201936-1940.pdf#34#4"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "José Vasconcelos (1882-1959), intelectual y político; miembro del Ateneo de la Juventud y fundador de El Colegio de México; y Ma...",
+          "url": "https://ens9004-infd.mendoza.edu.ar/sitio/upload/16-_BIAGINI_H.__OTROS_-_LIBRO_-_200_a%F1os_de_pensamiento_latinoamericano_1.pdf#17#7"
+        },
+        {
+          "date": null,
+          "snippet": "[WEB_EXCERPT_REMOVED]",
+          "summary": "[WEB_EXCERPT_REMOVED]",
+          "title": "Nuevo León, Tamaulipas y Chihuahua",
+          "url": "https://cdigital.uv.mx:443/bitstream/handle/123456789/46693/QuiahuaAlamilloRoxana.pdf?sequence=2&isAllowed=y#20#13"
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "status": "ok",
+  "subscription": false,
+  "tools": [
+    "mcp__deepseek-search__search"
+  ],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 17920,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 24943,
+    "iterations": [],
+    "output_tokens": 1184,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

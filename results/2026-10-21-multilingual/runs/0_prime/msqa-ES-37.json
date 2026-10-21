@@ -1,0 +1,74 @@
+{
+  "answer": "## 答案\n\n在翁班达（Umbanda）的内部说法里，**“Macumba”本来指一种非洲来源的打击乐器**，类似刮奏的“reco-reco”（刮葫）。演奏它的人叫 **“macumbeiro”**。按这个说法，这个词指的是仪式音乐里的乐器，**不是**巫术，也不是宗教的名字。\n\n## 补充\n\n- **外界的用法**：在巴西日常口语里，“macumba”常被笼统地拿来指非洲裔巴西宗教（翁班达、坎东布雷等），也常带贬义，指“黑魔法”、下咒，或路口摆的供品（despacho）。很多翁班达信徒认为这种用法是误解，甚至带歧视。\n- **历史上的用法**：20 世纪初的里约热内卢，“macumba”也指当地一类混合了班图、天主教、招魂术等元素的宗教聚会。一般认为翁班达就是从这类聚会中整理、演变出来的。\n- **不确定的地方**：这个词的确切词源（是否来自金本杜语 Kimbundu 等班图语）学界有不同说法。“macumba 是乐器”这个解释在翁班达圈子里流传很广，但我无法确认它在严格的词源学上有多可靠。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 11.571,
+  "exit_code": 0,
+  "group": "0_prime",
+  "model": "claude-opus-5-5",
+  "model_usage": {
+    "claude-opus-5-5": {
+      "cacheCreationInputTokens": 1766,
+      "cacheReadInputTokens": 1568,
+      "canonicalModel": "claude-opus-5-5",
+      "contextWindow": 1000000,
+      "costBasis": "list",
+      "costUSD": 0.029989599999999998,
+      "inputTokens": 2,
+      "maxOutputTokens": 128000,
+      "outputTokens": 777,
+      "provider": "firstParty",
+      "thinkingTokens": 331,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "claude-opus-5-5"
+  ],
+  "question_id": "msqa-ES-37",
+  "raw": "jsonl/0_prime/msqa-ES-37.jsonl",
+  "reported_cost_usd": 0.029989599999999998,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": true,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1766,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 1766,
+    "cache_read_input_tokens": 1568,
+    "fallback_credit": null,
+    "inference_geo": "global",
+    "input_tokens": 2,
+    "iterations": [
+      {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 1766,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 1766,
+        "cache_read_input_tokens": 1568,
+        "input_tokens": 2,
+        "output_tokens": 777,
+        "type": "message"
+      }
+    ],
+    "output_tokens": 777,
+    "output_tokens_details": {
+      "thinking_tokens": 331
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}

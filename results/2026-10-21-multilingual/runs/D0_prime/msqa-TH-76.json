@@ -1,0 +1,62 @@
+{
+  "answer": "这个问题我的知识里没有可靠答案。\n\n据我所知，บุญบั้งไฟ（火箭节）是泰国东北部伊善（อีสาน）和老挝的传统习俗，主要在雨季来临前求雨，并不是泰国南部的固有传统。泰国南部一些地方也有火箭节，通常是迁居南部的伊善人带过去、近年来才兴起的，但具体“从哪一年开始在南部举办”我无法确认，不能乱说一个年份。\n\n所以：不知道，建议查证泰文资料（如当地府的官方记录或泰文维基）再填答案。",
+  "argument_rejections": [],
+  "budget_denials": [],
+  "elapsed_seconds": 9.892,
+  "exit_code": 0,
+  "group": "D0_prime",
+  "model": "deepseek-v4-pro",
+  "model_usage": {
+    "deepseek-v4-pro": {
+      "cacheCreationInputTokens": 0,
+      "cacheReadInputTokens": 0,
+      "canonicalModel": "deepseek-v4-pro",
+      "contextWindow": 200000,
+      "costBasis": "unknown",
+      "costUSD": 0.025848000000000003,
+      "inputTokens": 2042,
+      "maxOutputTokens": 32000,
+      "outputTokens": 884,
+      "provider": "firstParty",
+      "thinkingTokens": 0,
+      "webSearchRequests": 0
+    }
+  },
+  "observed_model": [
+    "deepseek-v4-pro"
+  ],
+  "question_id": "msqa-TH-76",
+  "raw": "jsonl/D0_prime/msqa-TH-76.jsonl",
+  "reported_cost_usd": 0.025848000000000003,
+  "search_argument_rejections": 0,
+  "search_attempts": 0,
+  "search_budget_denials": 0,
+  "search_calls": 0,
+  "search_cost_usd": 0,
+  "searches": [],
+  "status": "ok",
+  "subscription": false,
+  "tools": [],
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "fallback_credit": null,
+    "inference_geo": "",
+    "input_tokens": 2042,
+    "iterations": [],
+    "output_tokens": 884,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+  }
+}
